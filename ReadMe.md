@@ -116,8 +116,8 @@ id: Germany
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Germany.public//
-markerFolder: ./Germany.public/
+geojsonFolder: .//
+markerFolder: ./
 ```
 
 [name-en::Germany] 
