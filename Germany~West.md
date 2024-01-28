@@ -78,10 +78,10 @@ Continent :: [[Europe]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Germany/Germany~West|Germany~West]] 
-- [[../../../../../_public/geo/Continent/Europe/Germany/Germany~West.public|Germany~West.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Germany/Germany~East.internal|Germany~West.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Germany/Germany~West.protect|Germany~West.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Germany/Germany~West.private|Germany~West.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Germany/Germany~West.personal|Germany~West.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Germany/Germany~West.secret|Germany~West.secret]] 
+- [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Germany/Germany~West|Germany~West]] 
+- [[../../../../../_public/geo/Continent/Europe/Europe~Central/Germany/Germany~West.public|Germany~West.public]] 
+- [[../../../../../_internal/geo/Continent/Europe/Europe~Central/Germany/Germany~East.internal|Germany~West.internal]] 
+- [[../../../../../_protect/geo/Continent/Europe/Europe~Central/Germany/Germany~West.protect|Germany~West.protect]] 
+- [[../../../../../_private/geo/Continent/Europe/Europe~Central/Germany/Germany~West.private|Germany~West.private]] 
+- [[../../../../../_personal/geo/Continent/Europe/Europe~Central/Germany/Germany~West.personal|Germany~West.personal]] 
+- [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Germany/Germany~West.secret|Germany~West.secret]] 

@@ -318,10 +318,10 @@ filters:
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Germany/_CountryStateDB|_CountryStateDB]] 
-- [[../../../../../_public/geo/Continent/Europe/Germany/_CountryStateDB.public|_CountryStateDB.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Germany/_CountryStateDB.internal|_CountryStateDB.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Germany/_CountryStateDB.protect|_CountryStateDB.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Germany/_CountryStateDB.private|_CountryStateDB.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Germany/_CountryStateDB.personal|_CountryStateDB.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Germany/_CountryStateDB.secret|_CountryStateDB.secret]] 
+- [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Germany/_CountryStateDB|_CountryStateDB]] 
+- [[../../../../../_public/geo/Continent/Europe/Europe~Central/Germany/_CountryStateDB.public|_CountryStateDB.public]] 
+- [[../../../../../_internal/geo/Continent/Europe/Europe~Central/Germany/_CountryStateDB.internal|_CountryStateDB.internal]] 
+- [[../../../../../_protect/geo/Continent/Europe/Europe~Central/Germany/_CountryStateDB.protect|_CountryStateDB.protect]] 
+- [[../../../../../_private/geo/Continent/Europe/Europe~Central/Germany/_CountryStateDB.private|_CountryStateDB.private]] 
+- [[../../../../../_personal/geo/Continent/Europe/Europe~Central/Germany/_CountryStateDB.personal|_CountryStateDB.personal]] 
+- [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Germany/_CountryStateDB.secret|_CountryStateDB.secret]] 

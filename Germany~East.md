@@ -36,10 +36,10 @@ Continent :: [[Europe]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East|Germany~East]] 
-- [[../../../../../_public/geo/Continent/Europe/Germany/Germany~East.public|Germany~East.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Germany/Germany~East.internal|Germany~East.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Germany/Germany~East.protect|Germany~East.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Germany/Germany~East.private|Germany~East.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Germany/Germany~East.personal|Germany~East.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Germany/Germany~East.secret|Germany~East.secret]] 
+- [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Germany/Germany~East|Germany~East]] 
+- [[../../../../../_public/geo/Continent/Europe/Europe~Central/Germany/Germany~East.public|Germany~East.public]] 
+- [[../../../../../_internal/geo/Continent/Europe/Europe~Central/Germany/Germany~East.internal|Germany~East.internal]] 
+- [[../../../../../_protect/geo/Continent/Europe/Europe~Central/Germany/Germany~East.protect|Germany~East.protect]] 
+- [[../../../../../_private/geo/Continent/Europe/Europe~Central/Germany/Germany~East.private|Germany~East.private]] 
+- [[../../../../../_personal/geo/Continent/Europe/Europe~Central/Germany/Germany~East.personal|Germany~East.personal]] 
+- [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Germany/Germany~East.secret|Germany~East.secret]] 
