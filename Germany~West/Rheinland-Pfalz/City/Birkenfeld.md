@@ -1,5 +1,5 @@
 ﻿---
-location: [49.65,7.18]
+location: [49.65,7.18] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.18]
-[geo-lat::49.65]
-[name::Birkenfeld]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.18] 
+[geo-lat::49.65] 
+[name::Birkenfeld] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Birkenfeld
-coordinates: [[Birkenfeld]]
-markerFile: [[Birkenfeld]]
+coordinates: [[Birkenfeld]] 
+markerFile: [[Birkenfeld]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Birkenfeld|Birkenfeld]]] 
+- [[Birkenfeld|Birkenfeld]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Birkenfeld.internal|Birkenfeld.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Birkenfeld.protect|Birkenfeld.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Birkenfeld.private|Birkenfeld.private]] 

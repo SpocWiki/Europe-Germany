@@ -1,5 +1,5 @@
 ﻿---
-location: [50.1,11.75]
+location: [50.1,11.75] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.75]
-[geo-lat::50.1]
-[name::Gefrees]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.75] 
+[geo-lat::50.1] 
+[name::Gefrees] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gefrees
-coordinates: [[Gefrees]]
-markerFile: [[Gefrees]]
+coordinates: [[Gefrees]] 
+markerFile: [[Gefrees]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Gefrees|Gefrees]]] 
+- [[Gefrees|Gefrees]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Gefrees.internal|Gefrees.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Gefrees.protect|Gefrees.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Gefrees.private|Gefrees.private]] 

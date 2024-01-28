@@ -1,5 +1,5 @@
 ﻿---
-location: [49.4,8.17]
+location: [49.4,8.17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.17]
-[geo-lat::49.4]
-[name::Koenigsbach~Pfalz]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.17] 
+[geo-lat::49.4] 
+[name::Koenigsbach~Pfalz] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Koenigsbach~Pfalz
-coordinates: [[Koenigsbach~Pfalz]]
-markerFile: [[Koenigsbach~Pfalz]]
+coordinates: [[Koenigsbach~Pfalz]] 
+markerFile: [[Koenigsbach~Pfalz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Koenigsbach~Pfalz|Koenigsbach~Pfalz]]] 
+- [[Koenigsbach~Pfalz|Koenigsbach~Pfalz]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Koenigsbach~Pfalz.internal|Koenigsbach~Pfalz.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Koenigsbach~Pfalz.protect|Koenigsbach~Pfalz.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Koenigsbach~Pfalz.private|Koenigsbach~Pfalz.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [51.6,7.67]
+location: [51.6,7.67] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.67]
-[geo-lat::51.6]
-[name::Kamen]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.67] 
+[geo-lat::51.6] 
+[name::Kamen] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kamen
-coordinates: [[Kamen]]
-markerFile: [[Kamen]]
+coordinates: [[Kamen]] 
+markerFile: [[Kamen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kamen|Kamen]]] 
+- [[Kamen|Kamen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Kamen.internal|Kamen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Kamen.protect|Kamen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Kamen.private|Kamen.private]] 

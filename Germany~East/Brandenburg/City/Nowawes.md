@@ -1,5 +1,5 @@
 ﻿---
-location: [52.4,13.1]
+location: [52.4,13.1] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.1]
-[geo-lat::52.4]
-[name::Nowawes]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.1] 
+[geo-lat::52.4] 
+[name::Nowawes] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Nowawes
-coordinates: [[Nowawes]]
-markerFile: [[Nowawes]]
+coordinates: [[Nowawes]] 
+markerFile: [[Nowawes]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

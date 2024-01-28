@@ -1,5 +1,5 @@
 ﻿---
-location: [52.65,8.25]
+location: [52.65,8.25] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.25]
-[geo-lat::52.65]
-[name::Lohne]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.25] 
+[geo-lat::52.65] 
+[name::Lohne] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lohne
-coordinates: [[Lohne]]
-markerFile: [[Lohne]]
+coordinates: [[Lohne]] 
+markerFile: [[Lohne]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Lohne|Lohne]]] 
+- [[Lohne|Lohne]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lohne.internal|Lohne.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lohne.protect|Lohne.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lohne.private|Lohne.private]] 

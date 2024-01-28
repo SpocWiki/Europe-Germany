@@ -1,5 +1,5 @@
 ﻿---
-location: [53.72,9.38]
+location: [53.72,9.38] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.38]
-[geo-lat::53.72]
-[name::Drochtersen]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.38] 
+[geo-lat::53.72] 
+[name::Drochtersen] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Drochtersen
-coordinates: [[Drochtersen]]
-markerFile: [[Drochtersen]]
+coordinates: [[Drochtersen]] 
+markerFile: [[Drochtersen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Drochtersen|Drochtersen]]] 
+- [[Drochtersen|Drochtersen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Drochtersen.internal|Drochtersen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Drochtersen.protect|Drochtersen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Drochtersen.private|Drochtersen.private]] 

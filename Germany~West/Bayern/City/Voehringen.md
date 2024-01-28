@@ -1,5 +1,5 @@
 ﻿---
-location: [48.28,10.07]
+location: [48.28,10.07] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.07]
-[geo-lat::48.28]
-[name::Voehringen]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.07] 
+[geo-lat::48.28] 
+[name::Voehringen] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Voehringen
-coordinates: [[Voehringen]]
-markerFile: [[Voehringen]]
+coordinates: [[Voehringen]] 
+markerFile: [[Voehringen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Voehringen|Voehringen]]] 
+- [[Voehringen|Voehringen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Voehringen.internal|Voehringen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Voehringen.protect|Voehringen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Voehringen.private|Voehringen.private]] 

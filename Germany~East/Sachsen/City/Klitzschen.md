@@ -1,5 +1,5 @@
 ﻿---
-location: [51.52,12.9]
+location: [51.52,12.9] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.9]
-[geo-lat::51.52]
-[name::Klitzschen]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.9] 
+[geo-lat::51.52] 
+[name::Klitzschen] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Klitzschen
-coordinates: [[Klitzschen]]
-markerFile: [[Klitzschen]]
+coordinates: [[Klitzschen]] 
+markerFile: [[Klitzschen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

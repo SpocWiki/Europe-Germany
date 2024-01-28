@@ -1,5 +1,5 @@
 ﻿---
-location: [54.42,9.97]
+location: [54.42,9.97] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.97]
-[geo-lat::54.42]
-[name::Gettorf]
-[Country::[[Germany]]]
-[State ::[[Schleswig-Holstein]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.97] 
+[geo-lat::54.42] 
+[name::Gettorf] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gettorf
-coordinates: [[Gettorf]]
-markerFile: [[Gettorf]]
+coordinates: [[Gettorf]] 
+markerFile: [[Gettorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Gettorf|Gettorf]]] 
+- [[Gettorf|Gettorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Gettorf.internal|Gettorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Gettorf.protect|Gettorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Gettorf.private|Gettorf.private]] 

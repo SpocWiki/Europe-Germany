@@ -1,5 +1,5 @@
 ﻿---
-location: [50.47,8.78]
+location: [50.47,8.78] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.78]
-[geo-lat::50.47]
-[name::Muenzenberg]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.78] 
+[geo-lat::50.47] 
+[name::Muenzenberg] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Muenzenberg
-coordinates: [[Muenzenberg]]
-markerFile: [[Muenzenberg]]
+coordinates: [[Muenzenberg]] 
+markerFile: [[Muenzenberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Muenzenberg|Muenzenberg]]] 
+- [[Muenzenberg|Muenzenberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Muenzenberg.internal|Muenzenberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Muenzenberg.protect|Muenzenberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Muenzenberg.private|Muenzenberg.private]] 

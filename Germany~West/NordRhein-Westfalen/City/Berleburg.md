@@ -1,5 +1,5 @@
 ﻿---
-location: [51.05,8.33]
+location: [51.05,8.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.33]
-[geo-lat::51.05]
-[name::Berleburg]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.33] 
+[geo-lat::51.05] 
+[name::Berleburg] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Berleburg
-coordinates: [[Berleburg]]
-markerFile: [[Berleburg]]
+coordinates: [[Berleburg]] 
+markerFile: [[Berleburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Berleburg|Berleburg]]] 
+- [[Berleburg|Berleburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Berleburg.internal|Berleburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Berleburg.protect|Berleburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Berleburg.private|Berleburg.private]] 

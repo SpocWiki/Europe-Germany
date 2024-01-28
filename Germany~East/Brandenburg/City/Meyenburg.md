@@ -1,5 +1,5 @@
 ﻿---
-location: [53.32,12.23]
+location: [53.32,12.23] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.23]
-[geo-lat::53.32]
-[name::Meyenburg]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.23] 
+[geo-lat::53.32] 
+[name::Meyenburg] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Meyenburg
-coordinates: [[Meyenburg]]
-markerFile: [[Meyenburg]]
+coordinates: [[Meyenburg]] 
+markerFile: [[Meyenburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

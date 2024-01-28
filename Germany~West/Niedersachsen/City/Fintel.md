@@ -1,5 +1,5 @@
 ﻿---
-location: [53.18,9.65]
+location: [53.18,9.65] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.65]
-[geo-lat::53.18]
-[name::Fintel]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.65] 
+[geo-lat::53.18] 
+[name::Fintel] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Fintel
-coordinates: [[Fintel]]
-markerFile: [[Fintel]]
+coordinates: [[Fintel]] 
+markerFile: [[Fintel]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Fintel|Fintel]]] 
+- [[Fintel|Fintel]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fintel.internal|Fintel.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fintel.protect|Fintel.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fintel.private|Fintel.private]] 

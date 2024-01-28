@@ -1,5 +1,5 @@
 ---
-location: [50.1156,8.6983]
+location: [50.1156,8.6983] 
 type: Station 
 mapzoom: [8,18] 
 mapmarker: subway 
@@ -7,24 +7,24 @@ tags:
 - geo/station/subway
 ---
 SpocWebEntityId: 156319
-[StationUId::92]
+[StationUId::92] 
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.6983]
-[geo-lat::50.1156]
-[name::Zoo]
-[Country::[[Germany]]]
-[City:[[Frankfurt~Main]] ]
-[switch-to-SPNV::Straßenbahn]
-[switch-to-ÖPNV::(31)]
+[geo-lon::8.6983] 
+[geo-lat::50.1156] 
+[name::Zoo] 
+Country :: [[Germany]]  
+City :: [[Frankfurt~Main]] ] 
+[switch-to-SPNV::Straßenbahn] 
+[switch-to-ÖPNV::(31)] 
 
 Dreigleisiger Verzweigungsbahnhof der Linien U6 und U7
 
 ```leaflet
 id: U-Zoo.md
-coordinates: [[U-Zoo]]
-markerFile: [[U-Zoo]]
+coordinates: [[U-Zoo]] 
+markerFile: [[U-Zoo]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

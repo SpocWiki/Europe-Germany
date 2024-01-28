@@ -1,5 +1,5 @@
 ﻿---
-location: [52.42,10.7]
+location: [52.42,10.7] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.7]
-[geo-lat::52.42]
-[name::Fallersleben]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.7] 
+[geo-lat::52.42] 
+[name::Fallersleben] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Fallersleben
-coordinates: [[Fallersleben]]
-markerFile: [[Fallersleben]]
+coordinates: [[Fallersleben]] 
+markerFile: [[Fallersleben]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Fallersleben|Fallersleben]]] 
+- [[Fallersleben|Fallersleben]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fallersleben.internal|Fallersleben.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fallersleben.protect|Fallersleben.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fallersleben.private|Fallersleben.private]] 

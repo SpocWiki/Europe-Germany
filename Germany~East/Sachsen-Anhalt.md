@@ -1,5 +1,5 @@
 ---
-location: [51.8905,11.7371]
+location: [51.8905,11.7371] 
 type: State
 ISO3166-2: DE-ST
 SpocWebEntityId: 36024
@@ -9,9 +9,12 @@ tags:
 - geo/State
 
 ---
-[name::Sachsen-Anhalt]
-[name-abbr::ST![[Coat_of_arms_of_Sachsen-Anhalt.svg|350]] ]
-![[Flag_of_Saxony-Anhalt_(state).svg|350]] ]
+[name::Sachsen-Anhalt] 
+[name-abbr::ST] 
+
+![[Coat_of_arms_of_Sachsen-Anhalt.svg|350]] ] 
+
+![[Flag_of_Saxony-Anhalt_(state).svg|350]] ] 
 
 ```leaflet
 id: Sachsen-Anhalt
@@ -22,11 +25,11 @@ geojsonFolder: ./Sachsen-Anhalt/
 markerFolder: ./Sachsen-Anhalt/
 ```
 
-[Country::[[Germany]]]
-[Capital :: [[Magdeburg]] ]]
-[geo-lon::11.7371]
-[geo-lat::51.8905]
-[Population::]
+Country :: [[Germany]]  
+Capital :: [[Magdeburg]] ]] 
+[geo-lon::11.7371] 
+[geo-lat::51.8905] 
+[Population::] 
 
 
 

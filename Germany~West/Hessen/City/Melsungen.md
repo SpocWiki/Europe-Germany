@@ -1,5 +1,5 @@
 ﻿---
-location: [51.13,9.53]
+location: [51.13,9.53] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.53]
-[geo-lat::51.13]
-[name::Melsungen]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.53] 
+[geo-lat::51.13] 
+[name::Melsungen] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Melsungen
-coordinates: [[Melsungen]]
-markerFile: [[Melsungen]]
+coordinates: [[Melsungen]] 
+markerFile: [[Melsungen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Melsungen|Melsungen]]] 
+- [[Melsungen|Melsungen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Melsungen.internal|Melsungen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Melsungen.protect|Melsungen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Melsungen.private|Melsungen.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [51.95,7.17]
+location: [51.95,7.17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.17]
-[geo-lat::51.95]
-[name::Koesfeld]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.17] 
+[geo-lat::51.95] 
+[name::Koesfeld] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Koesfeld
-coordinates: [[Koesfeld]]
-markerFile: [[Koesfeld]]
+coordinates: [[Koesfeld]] 
+markerFile: [[Koesfeld]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Koesfeld|Koesfeld]]] 
+- [[Koesfeld|Koesfeld]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Koesfeld.internal|Koesfeld.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Koesfeld.protect|Koesfeld.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Koesfeld.private|Koesfeld.private]] 

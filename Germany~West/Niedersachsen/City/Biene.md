@@ -1,5 +1,5 @@
 ﻿---
-location: [52.6,7.33]
+location: [52.6,7.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.33]
-[geo-lat::52.6]
-[name::Biene]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.33] 
+[geo-lat::52.6] 
+[name::Biene] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Biene
-coordinates: [[Biene]]
-markerFile: [[Biene]]
+coordinates: [[Biene]] 
+markerFile: [[Biene]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Biene|Biene]]] 
+- [[Biene|Biene]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Biene.internal|Biene.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Biene.protect|Biene.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Biene.private|Biene.private]] 

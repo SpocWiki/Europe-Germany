@@ -1,5 +1,5 @@
 ﻿---
-location: [47.65,12.17]
+location: [47.65,12.17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.17]
-[geo-lat::47.65]
-[name::Oberaudorf]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.17] 
+[geo-lat::47.65] 
+[name::Oberaudorf] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Oberaudorf
-coordinates: [[Oberaudorf]]
-markerFile: [[Oberaudorf]]
+coordinates: [[Oberaudorf]] 
+markerFile: [[Oberaudorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Oberaudorf|Oberaudorf]]] 
+- [[Oberaudorf|Oberaudorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Oberaudorf.internal|Oberaudorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Oberaudorf.protect|Oberaudorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Oberaudorf.private|Oberaudorf.private]] 

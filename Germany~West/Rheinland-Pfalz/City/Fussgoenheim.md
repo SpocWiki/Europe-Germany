@@ -1,5 +1,5 @@
 ﻿---
-location: [49.45,8.28]
+location: [49.45,8.28] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.28]
-[geo-lat::49.45]
-[name::Fussgoenheim]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.28] 
+[geo-lat::49.45] 
+[name::Fussgoenheim] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Fussgoenheim
-coordinates: [[Fussgoenheim]]
-markerFile: [[Fussgoenheim]]
+coordinates: [[Fussgoenheim]] 
+markerFile: [[Fussgoenheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Fussgoenheim|Fussgoenheim]]] 
+- [[Fussgoenheim|Fussgoenheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Fussgoenheim.internal|Fussgoenheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Fussgoenheim.protect|Fussgoenheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Fussgoenheim.private|Fussgoenheim.private]] 

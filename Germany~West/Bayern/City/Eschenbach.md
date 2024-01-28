@@ -1,5 +1,5 @@
 ﻿---
-location: [49.78,11.83]
+location: [49.78,11.83] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.83]
-[geo-lat::49.78]
-[name::Eschenbach]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.83] 
+[geo-lat::49.78] 
+[name::Eschenbach] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Eschenbach
-coordinates: [[Eschenbach]]
-markerFile: [[Eschenbach]]
+coordinates: [[Eschenbach]] 
+markerFile: [[Eschenbach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Eschenbach|Eschenbach]]] 
+- [[Eschenbach|Eschenbach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Eschenbach.internal|Eschenbach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Eschenbach.protect|Eschenbach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Eschenbach.private|Eschenbach.private]] 

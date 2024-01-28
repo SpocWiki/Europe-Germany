@@ -1,5 +1,5 @@
 ﻿---
-location: [50.52,8.27]
+location: [50.52,8.27] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.27]
-[geo-lat::50.52]
-[name::Loehnberg]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.27] 
+[geo-lat::50.52] 
+[name::Loehnberg] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Loehnberg
-coordinates: [[Loehnberg]]
-markerFile: [[Loehnberg]]
+coordinates: [[Loehnberg]] 
+markerFile: [[Loehnberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Loehnberg|Loehnberg]]] 
+- [[Loehnberg|Loehnberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Loehnberg.internal|Loehnberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Loehnberg.protect|Loehnberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Loehnberg.private|Loehnberg.private]] 

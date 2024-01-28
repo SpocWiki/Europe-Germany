@@ -1,5 +1,5 @@
 ﻿---
-location: [48.5,9.4]
+location: [48.5,9.4] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.4]
-[geo-lat::48.5]
-[name::Urach]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.4] 
+[geo-lat::48.5] 
+[name::Urach] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Urach
-coordinates: [[Urach]]
-markerFile: [[Urach]]
+coordinates: [[Urach]] 
+markerFile: [[Urach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Urach|Urach]]] 
+- [[Urach|Urach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Urach.internal|Urach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Urach.protect|Urach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Urach.private|Urach.private]] 

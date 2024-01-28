@@ -1,5 +1,5 @@
 ﻿---
-location: [50.18,8.47]
+location: [50.18,8.47] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.47]
-[geo-lat::50.18]
-[name::Koenigstein]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.47] 
+[geo-lat::50.18] 
+[name::Koenigstein] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Koenigstein
-coordinates: [[Koenigstein]]
-markerFile: [[Koenigstein]]
+coordinates: [[Koenigstein]] 
+markerFile: [[Koenigstein]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Koenigstein|Koenigstein]]] 
+- [[Koenigstein|Koenigstein]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Koenigstein.internal|Koenigstein.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Koenigstein.protect|Koenigstein.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Koenigstein.private|Koenigstein.private]] 

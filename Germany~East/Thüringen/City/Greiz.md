@@ -1,5 +1,5 @@
 ﻿---
-location: [50.65,12.2]
+location: [50.65,12.2] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.2]
-[geo-lat::50.65]
-[name::Greiz]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.2] 
+[geo-lat::50.65] 
+[name::Greiz] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Greiz
-coordinates: [[Greiz]]
-markerFile: [[Greiz]]
+coordinates: [[Greiz]] 
+markerFile: [[Greiz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

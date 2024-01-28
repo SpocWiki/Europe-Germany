@@ -1,5 +1,5 @@
 ﻿---
-location: [50.18,9.05]
+location: [50.18,9.05] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.05]
-[geo-lat::50.18]
-[name::Langenselbold]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.05] 
+[geo-lat::50.18] 
+[name::Langenselbold] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Langenselbold
-coordinates: [[Langenselbold]]
-markerFile: [[Langenselbold]]
+coordinates: [[Langenselbold]] 
+markerFile: [[Langenselbold]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Langenselbold|Langenselbold]]] 
+- [[Langenselbold|Langenselbold]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Langenselbold.internal|Langenselbold.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Langenselbold.protect|Langenselbold.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Langenselbold.private|Langenselbold.private]] 

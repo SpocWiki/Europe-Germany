@@ -1,5 +1,5 @@
 ﻿---
-location: [51.48,9.15]
+location: [51.48,9.15] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.15]
-[geo-lat::51.48]
-[name::Warburg]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.15] 
+[geo-lat::51.48] 
+[name::Warburg] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Warburg
-coordinates: [[Warburg]]
-markerFile: [[Warburg]]
+coordinates: [[Warburg]] 
+markerFile: [[Warburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Warburg|Warburg]]] 
+- [[Warburg|Warburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Warburg.internal|Warburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Warburg.protect|Warburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Warburg.private|Warburg.private]] 

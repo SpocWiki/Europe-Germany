@@ -1,5 +1,5 @@
 ﻿---
-location: [51.22,11.78]
+location: [51.22,11.78] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.78]
-[geo-lat::51.22]
-[name::Freyburg]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.78] 
+[geo-lat::51.22] 
+[name::Freyburg] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Freyburg
-coordinates: [[Freyburg]]
-markerFile: [[Freyburg]]
+coordinates: [[Freyburg]] 
+markerFile: [[Freyburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [51.3,13.95]
+location: [51.3,13.95] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.95]
-[geo-lat::51.3]
-[name::Cunnersdorf]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.95] 
+[geo-lat::51.3] 
+[name::Cunnersdorf] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Cunnersdorf
-coordinates: [[Cunnersdorf]]
-markerFile: [[Cunnersdorf]]
+coordinates: [[Cunnersdorf]] 
+markerFile: [[Cunnersdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

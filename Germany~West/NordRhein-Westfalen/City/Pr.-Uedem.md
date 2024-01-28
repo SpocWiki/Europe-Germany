@@ -1,5 +1,5 @@
 ﻿---
-location: [51.67,6.28]
+location: [51.67,6.28] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.28]
-[geo-lat::51.67]
-[name::Pr.-Uedem]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.28] 
+[geo-lat::51.67] 
+[name::Pr.-Uedem] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Pr.-Uedem
-coordinates: [[Pr.-Uedem]]
-markerFile: [[Pr.-Uedem]]
+coordinates: [[Pr.-Uedem]] 
+markerFile: [[Pr.-Uedem]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Pr.-Uedem|Pr.-Uedem]]] 
+- [[Pr.-Uedem|Pr.-Uedem]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Pr.-Uedem.internal|Pr.-Uedem.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Pr.-Uedem.protect|Pr.-Uedem.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Pr.-Uedem.private|Pr.-Uedem.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [52.38,8.97]
+location: [52.38,8.97] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.97]
-[geo-lat::52.38]
-[name::Petershagen]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.97] 
+[geo-lat::52.38] 
+[name::Petershagen] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Petershagen
-coordinates: [[Petershagen]]
-markerFile: [[Petershagen]]
+coordinates: [[Petershagen]] 
+markerFile: [[Petershagen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Petershagen|Petershagen]]] 
+- [[Petershagen|Petershagen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Petershagen.internal|Petershagen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Petershagen.protect|Petershagen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Petershagen.private|Petershagen.private]] 

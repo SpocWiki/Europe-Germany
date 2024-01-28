@@ -1,5 +1,5 @@
 ﻿---
-location: [50.32,10.22]
+location: [50.32,10.22] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.22]
-[geo-lat::50.32]
-[name::Bad Neustadt]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.22] 
+[geo-lat::50.32] 
+[name::Bad Neustadt] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Bad Neustadt
-coordinates: [[Bad_Neustadt]]
-markerFile: [[Bad_Neustadt]]
+coordinates: [[Bad_Neustadt]] 
+markerFile: [[Bad_Neustadt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Bad_Neustadt|Bad_Neustadt]]] 
+- [[Bad_Neustadt|Bad_Neustadt]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Neustadt.internal|Bad_Neustadt.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Neustadt.protect|Bad_Neustadt.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Neustadt.private|Bad_Neustadt.private]] 

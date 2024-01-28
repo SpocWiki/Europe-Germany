@@ -1,5 +1,5 @@
 ﻿---
-location: [47.8,8.03]
+location: [47.8,8.03] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.03]
-[geo-lat::47.8]
-[name::Bernau]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.03] 
+[geo-lat::47.8] 
+[name::Bernau] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Bernau
-coordinates: [[Bernau]]
-markerFile: [[Bernau]]
+coordinates: [[Bernau]] 
+markerFile: [[Bernau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Bernau|Bernau]]] 
+- [[Bernau|Bernau]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bernau.internal|Bernau.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bernau.protect|Bernau.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bernau.private|Bernau.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [51.08,9.62]
+location: [51.08,9.62] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.62]
-[geo-lat::51.08]
-[name::Frauenberg]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.62] 
+[geo-lat::51.08] 
+[name::Frauenberg] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Frauenberg
-coordinates: [[Frauenberg]]
-markerFile: [[Frauenberg]]
+coordinates: [[Frauenberg]] 
+markerFile: [[Frauenberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Frauenberg|Frauenberg]]] 
+- [[Frauenberg|Frauenberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frauenberg.internal|Frauenberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frauenberg.protect|Frauenberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frauenberg.private|Frauenberg.private]] 

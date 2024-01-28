@@ -1,5 +1,5 @@
 ﻿---
-location: [49.07,9.73]
+location: [49.07,9.73] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.73]
-[geo-lat::49.07]
-[name::Michelbach~Wuerttemberg]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.73] 
+[geo-lat::49.07] 
+[name::Michelbach~Wuerttemberg] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Michelbach~Wuerttemberg
-coordinates: [[Michelbach~Wuerttemberg]]
-markerFile: [[Michelbach~Wuerttemberg]]
+coordinates: [[Michelbach~Wuerttemberg]] 
+markerFile: [[Michelbach~Wuerttemberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Michelbach~Wuerttemberg|Michelbach~Wuerttemberg]]] 
+- [[Michelbach~Wuerttemberg|Michelbach~Wuerttemberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Wuerttemberg.internal|Michelbach~Wuerttemberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Wuerttemberg.protect|Michelbach~Wuerttemberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Wuerttemberg.private|Michelbach~Wuerttemberg.private]] 

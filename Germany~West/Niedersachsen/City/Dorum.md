@@ -1,5 +1,5 @@
 ﻿---
-location: [53.68,8.57]
+location: [53.68,8.57] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.57]
-[geo-lat::53.68]
-[name::Dorum]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.57] 
+[geo-lat::53.68] 
+[name::Dorum] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Dorum
-coordinates: [[Dorum]]
-markerFile: [[Dorum]]
+coordinates: [[Dorum]] 
+markerFile: [[Dorum]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Dorum|Dorum]]] 
+- [[Dorum|Dorum]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dorum.internal|Dorum.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dorum.protect|Dorum.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dorum.private|Dorum.private]] 

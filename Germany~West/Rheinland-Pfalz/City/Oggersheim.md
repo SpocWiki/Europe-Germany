@@ -1,5 +1,5 @@
 ﻿---
-location: [49.48,8.37]
+location: [49.48,8.37] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.37]
-[geo-lat::49.48]
-[name::Oggersheim]
-[Country::[[Germany]]]
-[State:[[Rheinland-Pfalz]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.37] 
+[geo-lat::49.48] 
+[name::Oggersheim] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Oggersheim
-coordinates: [[Oggersheim]]
-markerFile: [[Oggersheim]]
+coordinates: [[Oggersheim]] 
+markerFile: [[Oggersheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Oggersheim|Oggersheim]]] 
+- [[Oggersheim|Oggersheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Oggersheim.internal|Oggersheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Oggersheim.protect|Oggersheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Oggersheim.private|Oggersheim.private]] 

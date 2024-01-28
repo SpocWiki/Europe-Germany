@@ -1,5 +1,5 @@
 ﻿---
-location: [52.45,13.28]
+location: [52.45,13.28] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.28]
-[geo-lat::52.45]
-[name::Dahlem]
-[Country::[[Germany]]]
-[State ::[[State~Berlin]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.28] 
+[geo-lat::52.45] 
+[name::Dahlem] 
+Country :: [[Germany]]  
+State :: [[State~Berlin]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Dahlem
-coordinates: [[Dahlem]]
-markerFile: [[Dahlem]]
+coordinates: [[Dahlem]] 
+markerFile: [[Dahlem]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Dahlem|Dahlem]]] 
+- [[Dahlem|Dahlem]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin/City/Dahlem.internal|Dahlem.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin/City/Dahlem.protect|Dahlem.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin/City/Dahlem.private|Dahlem.private]] 

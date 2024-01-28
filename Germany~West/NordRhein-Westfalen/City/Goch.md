@@ -1,5 +1,5 @@
 ﻿---
-location: [51.67,6.15]
+location: [51.67,6.15] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.15]
-[geo-lat::51.67]
-[name::Goch]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.15] 
+[geo-lat::51.67] 
+[name::Goch] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Goch
-coordinates: [[Goch]]
-markerFile: [[Goch]]
+coordinates: [[Goch]] 
+markerFile: [[Goch]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Goch|Goch]]] 
+- [[Goch|Goch]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Goch.internal|Goch.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Goch.protect|Goch.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Goch.private|Goch.private]] 

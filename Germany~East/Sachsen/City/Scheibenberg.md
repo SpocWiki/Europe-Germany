@@ -1,5 +1,5 @@
 ﻿---
-location: [50.55,12.92]
+location: [50.55,12.92] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.92]
-[geo-lat::50.55]
-[name::Scheibenberg]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.92] 
+[geo-lat::50.55] 
+[name::Scheibenberg] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Scheibenberg
-coordinates: [[Scheibenberg]]
-markerFile: [[Scheibenberg]]
+coordinates: [[Scheibenberg]] 
+markerFile: [[Scheibenberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

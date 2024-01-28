@@ -1,5 +1,5 @@
 ﻿---
-location: [51,9.18]
+location: [51,9.18] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.18]
-[geo-lat::51]
-[name::Wernswig]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.18] 
+[geo-lat::51] 
+[name::Wernswig] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wernswig
-coordinates: [[Wernswig]]
-markerFile: [[Wernswig]]
+coordinates: [[Wernswig]] 
+markerFile: [[Wernswig]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Wernswig|Wernswig]]] 
+- [[Wernswig|Wernswig]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Wernswig.internal|Wernswig.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Wernswig.protect|Wernswig.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Wernswig.private|Wernswig.private]] 

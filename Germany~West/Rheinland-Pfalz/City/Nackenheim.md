@@ -1,5 +1,5 @@
 ﻿---
-location: [49.92,8.33]
+location: [49.92,8.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.33]
-[geo-lat::49.92]
-[name::Nackenheim]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.33] 
+[geo-lat::49.92] 
+[name::Nackenheim] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Nackenheim
-coordinates: [[Nackenheim]]
-markerFile: [[Nackenheim]]
+coordinates: [[Nackenheim]] 
+markerFile: [[Nackenheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Nackenheim|Nackenheim]]] 
+- [[Nackenheim|Nackenheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Nackenheim.internal|Nackenheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Nackenheim.protect|Nackenheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Nackenheim.private|Nackenheim.private]] 

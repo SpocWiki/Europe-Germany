@@ -1,5 +1,5 @@
 ﻿---
-location: [53.53,10.37]
+location: [53.53,10.37] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.37]
-[geo-lat::53.53]
-[name::Wakendorf]
-[Country::[[Germany]]]
-[State:[[Schleswig-Holstein]]]]
-[Population::]
-[Unknown::]
+[geo-lon::10.37] 
+[geo-lat::53.53] 
+[name::Wakendorf] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wakendorf
-coordinates: [[Wakendorf]]
-markerFile: [[Wakendorf]]
+coordinates: [[Wakendorf]] 
+markerFile: [[Wakendorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Wakendorf|Wakendorf]]] 
+- [[Wakendorf|Wakendorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wakendorf.internal|Wakendorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wakendorf.protect|Wakendorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wakendorf.private|Wakendorf.private]] 

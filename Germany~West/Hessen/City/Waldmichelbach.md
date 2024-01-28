@@ -1,5 +1,5 @@
 ﻿---
-location: [49.57,8.82]
+location: [49.57,8.82] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.82]
-[geo-lat::49.57]
-[name::Waldmichelbach]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.82] 
+[geo-lat::49.57] 
+[name::Waldmichelbach] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Waldmichelbach
-coordinates: [[Waldmichelbach]]
-markerFile: [[Waldmichelbach]]
+coordinates: [[Waldmichelbach]] 
+markerFile: [[Waldmichelbach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Waldmichelbach|Waldmichelbach]]] 
+- [[Waldmichelbach|Waldmichelbach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Waldmichelbach.internal|Waldmichelbach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Waldmichelbach.protect|Waldmichelbach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Waldmichelbach.private|Waldmichelbach.private]] 

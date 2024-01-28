@@ -1,5 +1,5 @@
 ﻿---
-location: [50.42,8.07]
+location: [50.42,8.07] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.07]
-[geo-lat::50.42]
-[name::Offheim]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.07] 
+[geo-lat::50.42] 
+[name::Offheim] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Offheim
-coordinates: [[Offheim]]
-markerFile: [[Offheim]]
+coordinates: [[Offheim]] 
+markerFile: [[Offheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Offheim|Offheim]]] 
+- [[Offheim|Offheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Offheim.internal|Offheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Offheim.protect|Offheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Offheim.private|Offheim.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [51.83,6.27]
+location: [51.83,6.27] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.27]
-[geo-lat::51.83]
-[name::Emmerich]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.27] 
+[geo-lat::51.83] 
+[name::Emmerich] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Emmerich
-coordinates: [[Emmerich]]
-markerFile: [[Emmerich]]
+coordinates: [[Emmerich]] 
+markerFile: [[Emmerich]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Emmerich|Emmerich]]] 
+- [[Emmerich|Emmerich]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Emmerich.internal|Emmerich.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Emmerich.protect|Emmerich.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Emmerich.private|Emmerich.private]] 

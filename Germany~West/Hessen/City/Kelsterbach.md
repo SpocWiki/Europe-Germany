@@ -1,5 +1,5 @@
 ﻿---
-location: [50.08,8.53]
+location: [50.08,8.53] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.53]
-[geo-lat::50.08]
-[name::Kelsterbach]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.53] 
+[geo-lat::50.08] 
+[name::Kelsterbach] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kelsterbach
-coordinates: [[Kelsterbach]]
-markerFile: [[Kelsterbach]]
+coordinates: [[Kelsterbach]] 
+markerFile: [[Kelsterbach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kelsterbach|Kelsterbach]]] 
+- [[Kelsterbach|Kelsterbach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Kelsterbach.internal|Kelsterbach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Kelsterbach.protect|Kelsterbach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Kelsterbach.private|Kelsterbach.private]] 

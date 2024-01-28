@@ -1,5 +1,5 @@
 ﻿---
-location: [52.41,10.8]
+location: [52.41,10.8] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.8]
-[geo-lat::52.41]
-[name::Wolfsburg]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.8] 
+[geo-lat::52.41] 
+[name::Wolfsburg] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wolfsburg
-coordinates: [[Wolfsburg]]
-markerFile: [[Wolfsburg]]
+coordinates: [[Wolfsburg]] 
+markerFile: [[Wolfsburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Wolfsburg|Wolfsburg]]] 
+- [[Wolfsburg|Wolfsburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfsburg.internal|Wolfsburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfsburg.protect|Wolfsburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfsburg.private|Wolfsburg.private]] 

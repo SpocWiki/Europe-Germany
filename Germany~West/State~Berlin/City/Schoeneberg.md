@@ -1,5 +1,5 @@
 ﻿---
-location: [52.48,13.35]
+location: [52.48,13.35] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.35]
-[geo-lat::52.48]
-[name::Schoeneberg]
-[Country::[[Germany]]]
-[State ::[[State~Berlin]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.35] 
+[geo-lat::52.48] 
+[name::Schoeneberg] 
+Country :: [[Germany]]  
+State :: [[State~Berlin]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schoeneberg
-coordinates: [[Schoeneberg]]
-markerFile: [[Schoeneberg]]
+coordinates: [[Schoeneberg]] 
+markerFile: [[Schoeneberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Schoeneberg|Schoeneberg]]] 
+- [[Schoeneberg|Schoeneberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin/City/Schoeneberg.internal|Schoeneberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin/City/Schoeneberg.protect|Schoeneberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin/City/Schoeneberg.private|Schoeneberg.private]] 

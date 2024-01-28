@@ -1,5 +1,5 @@
 ﻿---
-location: [47.72,12.88]
+location: [47.72,12.88] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.88]
-[geo-lat::47.72]
-[name::Reichenhall]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.88] 
+[geo-lat::47.72] 
+[name::Reichenhall] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Reichenhall
-coordinates: [[Reichenhall]]
-markerFile: [[Reichenhall]]
+coordinates: [[Reichenhall]] 
+markerFile: [[Reichenhall]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Reichenhall|Reichenhall]]] 
+- [[Reichenhall|Reichenhall]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Reichenhall.internal|Reichenhall.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Reichenhall.protect|Reichenhall.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Reichenhall.private|Reichenhall.private]] 

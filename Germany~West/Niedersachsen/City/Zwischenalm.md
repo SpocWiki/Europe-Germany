@@ -1,5 +1,5 @@
 ﻿---
-location: [53.2,8]
+location: [53.2,8] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8]
-[geo-lat::53.2]
-[name::Zwischenalm]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8] 
+[geo-lat::53.2] 
+[name::Zwischenalm] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Zwischenalm
-coordinates: [[Zwischenalm]]
-markerFile: [[Zwischenalm]]
+coordinates: [[Zwischenalm]] 
+markerFile: [[Zwischenalm]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Zwischenalm|Zwischenalm]]] 
+- [[Zwischenalm|Zwischenalm]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zwischenalm.internal|Zwischenalm.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zwischenalm.protect|Zwischenalm.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zwischenalm.private|Zwischenalm.private]] 

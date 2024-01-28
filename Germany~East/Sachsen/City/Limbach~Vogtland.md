@@ -1,5 +1,5 @@
 ﻿---
-location: [50.58,12.2]
+location: [50.58,12.2] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.2]
-[geo-lat::50.58]
-[name::Limbach~Vogtland]
-[Country::[[Germany]]]
-[State:[[Sachsen]]]]
-[Population::]
-[Unknown::]
+[geo-lon::12.2] 
+[geo-lat::50.58] 
+[name::Limbach~Vogtland] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Limbach~Vogtland
-coordinates: [[Limbach~Vogtland]]
-markerFile: [[Limbach~Vogtland]]
+coordinates: [[Limbach~Vogtland]] 
+markerFile: [[Limbach~Vogtland]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

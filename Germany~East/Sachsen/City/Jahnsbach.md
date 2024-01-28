@@ -1,5 +1,5 @@
 ﻿---
-location: [50.67,12.93]
+location: [50.67,12.93] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.93]
-[geo-lat::50.67]
-[name::Jahnsbach]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.93] 
+[geo-lat::50.67] 
+[name::Jahnsbach] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Jahnsbach
-coordinates: [[Jahnsbach]]
-markerFile: [[Jahnsbach]]
+coordinates: [[Jahnsbach]] 
+markerFile: [[Jahnsbach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

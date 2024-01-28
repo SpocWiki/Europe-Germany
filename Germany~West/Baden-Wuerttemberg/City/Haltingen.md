@@ -1,5 +1,5 @@
 ﻿---
-location: [47.62,7.62]
+location: [47.62,7.62] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.62]
-[geo-lat::47.62]
-[name::Haltingen]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.62] 
+[geo-lat::47.62] 
+[name::Haltingen] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Haltingen
-coordinates: [[Haltingen]]
-markerFile: [[Haltingen]]
+coordinates: [[Haltingen]] 
+markerFile: [[Haltingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Haltingen|Haltingen]]] 
+- [[Haltingen|Haltingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Haltingen.internal|Haltingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Haltingen.protect|Haltingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Haltingen.private|Haltingen.private]] 

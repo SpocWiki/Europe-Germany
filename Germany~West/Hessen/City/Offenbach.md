@@ -1,5 +1,5 @@
 ﻿---
-location: [50.1,8.77]
+location: [50.1,8.77] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.77]
-[geo-lat::50.1]
-[name::Offenbach]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.77] 
+[geo-lat::50.1] 
+[name::Offenbach] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Offenbach
-coordinates: [[Offenbach]]
-markerFile: [[Offenbach]]
+coordinates: [[Offenbach]] 
+markerFile: [[Offenbach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Offenbach|Offenbach]]] 
+- [[Offenbach|Offenbach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Offenbach.internal|Offenbach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Offenbach.protect|Offenbach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Offenbach.private|Offenbach.private]] 

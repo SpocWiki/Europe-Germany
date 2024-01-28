@@ -1,5 +1,5 @@
 ﻿---
-location: [52.32,9.97]
+location: [52.32,9.97] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.97]
-[geo-lat::52.32]
-[name::Sehnde]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.97] 
+[geo-lat::52.32] 
+[name::Sehnde] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Sehnde
-coordinates: [[Sehnde]]
-markerFile: [[Sehnde]]
+coordinates: [[Sehnde]] 
+markerFile: [[Sehnde]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Sehnde|Sehnde]]] 
+- [[Sehnde|Sehnde]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sehnde.internal|Sehnde.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sehnde.protect|Sehnde.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sehnde.private|Sehnde.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [52.98,8.87]
+location: [52.98,8.87] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.87]
-[geo-lat::52.98]
-[name::Kirchweyhe]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.87] 
+[geo-lat::52.98] 
+[name::Kirchweyhe] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kirchweyhe
-coordinates: [[Kirchweyhe]]
-markerFile: [[Kirchweyhe]]
+coordinates: [[Kirchweyhe]] 
+markerFile: [[Kirchweyhe]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kirchweyhe|Kirchweyhe]]] 
+- [[Kirchweyhe|Kirchweyhe]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchweyhe.internal|Kirchweyhe.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchweyhe.protect|Kirchweyhe.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchweyhe.private|Kirchweyhe.private]] 

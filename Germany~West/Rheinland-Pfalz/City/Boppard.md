@@ -1,5 +1,5 @@
 ﻿---
-location: [50.23,7.6]
+location: [50.23,7.6] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.6]
-[geo-lat::50.23]
-[name::Boppard]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.6] 
+[geo-lat::50.23] 
+[name::Boppard] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Boppard
-coordinates: [[Boppard]]
-markerFile: [[Boppard]]
+coordinates: [[Boppard]] 
+markerFile: [[Boppard]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Boppard|Boppard]]] 
+- [[Boppard|Boppard]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Boppard.internal|Boppard.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Boppard.protect|Boppard.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Boppard.private|Boppard.private]] 

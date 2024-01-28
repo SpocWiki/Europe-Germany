@@ -1,5 +1,5 @@
 ﻿---
-location: [50.2,10.07]
+location: [50.2,10.07] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.07]
-[geo-lat::50.2]
-[name::Kissingen Bad]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.07] 
+[geo-lat::50.2] 
+[name::Kissingen Bad] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kissingen Bad
-coordinates: [[Kissingen_Bad]]
-markerFile: [[Kissingen_Bad]]
+coordinates: [[Kissingen_Bad]] 
+markerFile: [[Kissingen_Bad]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kissingen_Bad|Kissingen_Bad]]] 
+- [[Kissingen_Bad|Kissingen_Bad]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Kissingen_Bad.internal|Kissingen_Bad.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Kissingen_Bad.protect|Kissingen_Bad.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Kissingen_Bad.private|Kissingen_Bad.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [50.23,12.03]
+location: [50.23,12.03] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.03]
-[geo-lat::50.23]
-[name::Rehau]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.03] 
+[geo-lat::50.23] 
+[name::Rehau] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Rehau
-coordinates: [[Rehau]]
-markerFile: [[Rehau]]
+coordinates: [[Rehau]] 
+markerFile: [[Rehau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Rehau|Rehau]]] 
+- [[Rehau|Rehau]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Rehau.internal|Rehau.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Rehau.protect|Rehau.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Rehau.private|Rehau.private]] 

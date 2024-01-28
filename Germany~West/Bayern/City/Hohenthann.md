@@ -1,5 +1,5 @@
 ﻿---
-location: [48.65,12.1]
+location: [48.65,12.1] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.1]
-[geo-lat::48.65]
-[name::Hohenthann]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.1] 
+[geo-lat::48.65] 
+[name::Hohenthann] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hohenthann
-coordinates: [[Hohenthann]]
-markerFile: [[Hohenthann]]
+coordinates: [[Hohenthann]] 
+markerFile: [[Hohenthann]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hohenthann|Hohenthann]]] 
+- [[Hohenthann|Hohenthann]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hohenthann.internal|Hohenthann.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hohenthann.protect|Hohenthann.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hohenthann.private|Hohenthann.private]] 

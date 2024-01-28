@@ -1,5 +1,5 @@
 ﻿---
-location: [50.45,12.07]
+location: [50.45,12.07] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.07]
-[geo-lat::50.45]
-[name::Weischlitz]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.07] 
+[geo-lat::50.45] 
+[name::Weischlitz] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Weischlitz
-coordinates: [[Weischlitz]]
-markerFile: [[Weischlitz]]
+coordinates: [[Weischlitz]] 
+markerFile: [[Weischlitz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [49.07,10.08]
+location: [49.07,10.08] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.08]
-[geo-lat::49.07]
-[name::Stimpfach]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::10.08] 
+[geo-lat::49.07] 
+[name::Stimpfach] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Stimpfach
-coordinates: [[Stimpfach]]
-markerFile: [[Stimpfach]]
+coordinates: [[Stimpfach]] 
+markerFile: [[Stimpfach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Stimpfach|Stimpfach]]] 
+- [[Stimpfach|Stimpfach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stimpfach.internal|Stimpfach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stimpfach.protect|Stimpfach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stimpfach.private|Stimpfach.private]] 

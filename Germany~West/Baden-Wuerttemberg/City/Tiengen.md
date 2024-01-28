@@ -1,5 +1,5 @@
 ﻿---
-location: [47.63,8.3]
+location: [47.63,8.3] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.3]
-[geo-lat::47.63]
-[name::Tiengen]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.3] 
+[geo-lat::47.63] 
+[name::Tiengen] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Tiengen
-coordinates: [[Tiengen]]
-markerFile: [[Tiengen]]
+coordinates: [[Tiengen]] 
+markerFile: [[Tiengen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Tiengen|Tiengen]]] 
+- [[Tiengen|Tiengen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Tiengen.internal|Tiengen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Tiengen.protect|Tiengen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Tiengen.private|Tiengen.private]] 

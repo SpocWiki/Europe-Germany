@@ -1,5 +1,5 @@
 ﻿---
-location: [50.9,12.43]
+location: [50.9,12.43] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.43]
-[geo-lat::50.9]
-[name::Schmoelln]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.43] 
+[geo-lat::50.9] 
+[name::Schmoelln] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schmoelln
-coordinates: [[Schmoelln]]
-markerFile: [[Schmoelln]]
+coordinates: [[Schmoelln]] 
+markerFile: [[Schmoelln]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

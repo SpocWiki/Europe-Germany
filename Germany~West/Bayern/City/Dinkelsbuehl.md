@@ -1,5 +1,5 @@
 ﻿---
-location: [49.12,10.32]
+location: [49.12,10.32] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.32]
-[geo-lat::49.12]
-[name::Dinkelsbuehl]
-[Country::[[Germany]]]
-[State:[[Bayern]]]]
-[Population::]
-[Unknown::]
+[geo-lon::10.32] 
+[geo-lat::49.12] 
+[name::Dinkelsbuehl] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Dinkelsbuehl
-coordinates: [[Dinkelsbuehl]]
-markerFile: [[Dinkelsbuehl]]
+coordinates: [[Dinkelsbuehl]] 
+markerFile: [[Dinkelsbuehl]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Dinkelsbuehl|Dinkelsbuehl]]] 
+- [[Dinkelsbuehl|Dinkelsbuehl]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbuehl.internal|Dinkelsbuehl.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbuehl.protect|Dinkelsbuehl.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbuehl.private|Dinkelsbuehl.private]] 

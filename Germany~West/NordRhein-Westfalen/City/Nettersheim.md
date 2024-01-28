@@ -1,5 +1,5 @@
 ﻿---
-location: [50.5,6.63]
+location: [50.5,6.63] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.63]
-[geo-lat::50.5]
-[name::Nettersheim]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.63] 
+[geo-lat::50.5] 
+[name::Nettersheim] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Nettersheim
-coordinates: [[Nettersheim]]
-markerFile: [[Nettersheim]]
+coordinates: [[Nettersheim]] 
+markerFile: [[Nettersheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Nettersheim|Nettersheim]]] 
+- [[Nettersheim|Nettersheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Nettersheim.internal|Nettersheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Nettersheim.protect|Nettersheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Nettersheim.private|Nettersheim.private]] 

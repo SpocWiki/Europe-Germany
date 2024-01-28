@@ -1,5 +1,5 @@
 ﻿---
-location: [51.12,7.93]
+location: [51.12,7.93] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.93]
-[geo-lat::51.12]
-[name::Helden]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.93] 
+[geo-lat::51.12] 
+[name::Helden] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Helden
-coordinates: [[Helden]]
-markerFile: [[Helden]]
+coordinates: [[Helden]] 
+markerFile: [[Helden]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Helden|Helden]]] 
+- [[Helden|Helden]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Helden.internal|Helden.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Helden.protect|Helden.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Helden.private|Helden.private]] 

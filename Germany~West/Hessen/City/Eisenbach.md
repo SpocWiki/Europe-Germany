@@ -1,5 +1,5 @@
 ﻿---
-location: [50.6,9.38]
+location: [50.6,9.38] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.38]
-[geo-lat::50.6]
-[name::Eisenbach]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.38] 
+[geo-lat::50.6] 
+[name::Eisenbach] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Eisenbach
-coordinates: [[Eisenbach]]
-markerFile: [[Eisenbach]]
+coordinates: [[Eisenbach]] 
+markerFile: [[Eisenbach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Eisenbach|Eisenbach]]] 
+- [[Eisenbach|Eisenbach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Eisenbach.internal|Eisenbach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Eisenbach.protect|Eisenbach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Eisenbach.private|Eisenbach.private]] 

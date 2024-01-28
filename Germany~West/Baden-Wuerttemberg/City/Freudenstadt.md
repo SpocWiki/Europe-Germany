@@ -1,5 +1,5 @@
 ﻿---
-location: [48.46,8.41]
+location: [48.46,8.41] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.41]
-[geo-lat::48.46]
-[name::Freudenstadt]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.41] 
+[geo-lat::48.46] 
+[name::Freudenstadt] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Freudenstadt
-coordinates: [[Freudenstadt]]
-markerFile: [[Freudenstadt]]
+coordinates: [[Freudenstadt]] 
+markerFile: [[Freudenstadt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Freudenstadt|Freudenstadt]]] 
+- [[Freudenstadt|Freudenstadt]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Freudenstadt.internal|Freudenstadt.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Freudenstadt.protect|Freudenstadt.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Freudenstadt.private|Freudenstadt.private]] 

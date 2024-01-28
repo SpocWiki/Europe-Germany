@@ -1,5 +1,5 @@
 ﻿---
-location: [48.83,10.87]
+location: [48.83,10.87] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.87]
-[geo-lat::48.83]
-[name::Monheim]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.87] 
+[geo-lat::48.83] 
+[name::Monheim] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Monheim
-coordinates: [[Monheim]]
-markerFile: [[Monheim]]
+coordinates: [[Monheim]] 
+markerFile: [[Monheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Monheim|Monheim]]] 
+- [[Monheim|Monheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Monheim.internal|Monheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Monheim.protect|Monheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Monheim.private|Monheim.private]] 

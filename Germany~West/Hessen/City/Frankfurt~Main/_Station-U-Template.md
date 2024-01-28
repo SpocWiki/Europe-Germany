@@ -13,17 +13,17 @@ aliases:
 - 
 
 ---
-location: [{{GeoLat}},{{GeoLon}}]
+location: [{{GeoLat}},{{GeoLon}}] 
 SpocWebEntityId: {{SpocWebEntityId}}
 StationUId: {{Id}}
 
-[geo-lon::{{GeoLon}}]
-[geo-lat::{{GeoLat}}]
-[name::{{Bahnhof}}]
-[Country::[[Germany]]]
-[City::[[Frankfurt~Main]]]
-[switch-to-SPNV::{{SPNV-Umstieg}}]
-[switch-to-ÖPNV::{{ÖPNV-Umstieg}}]
+[geo-lon::{{GeoLon}}] 
+[geo-lat::{{GeoLat}}] 
+[name::{{Bahnhof}}] 
+Country :: [[Germany]]  
+City :: [[Frankfurt~Main]]  
+[switch-to-SPNV::{{SPNV-Umstieg}}] 
+[switch-to-ÖPNV::{{ÖPNV-Umstieg}}] 
 
 {{Anmerkungen}}
 

@@ -1,5 +1,5 @@
 ﻿---
-location: [53.53,13.13]
+location: [53.53,13.13] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.13]
-[geo-lat::53.53]
-[name::Mallin]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.13] 
+[geo-lat::53.53] 
+[name::Mallin] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mallin
-coordinates: [[Mallin]]
-markerFile: [[Mallin]]
+coordinates: [[Mallin]] 
+markerFile: [[Mallin]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

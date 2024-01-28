@@ -1,5 +1,5 @@
 ---
-location: [53.13,8.92]
+location: [53.13,8.92] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.92]
-[geo-lat::53.13]
-[name::Lilienthal]
-[Country::[[Germany]]]
-[State :: [[Niedersachsen]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.92] 
+[geo-lat::53.13] 
+[name::Lilienthal] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]] ] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lilienthal
-coordinates: [[Lilienthal]]
-markerFile: [[Lilienthal]]
+coordinates: [[Lilienthal]] 
+markerFile: [[Lilienthal]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Lilienthal|Lilienthal]]] 
+- [[Lilienthal|Lilienthal]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lilienthal.internal|Lilienthal.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lilienthal.protect|Lilienthal.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lilienthal.private|Lilienthal.private]] 

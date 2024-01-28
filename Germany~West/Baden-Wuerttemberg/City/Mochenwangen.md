@@ -1,5 +1,5 @@
 ﻿---
-location: [47.88,9.63]
+location: [47.88,9.63] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.63]
-[geo-lat::47.88]
-[name::Mochenwangen]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.63] 
+[geo-lat::47.88] 
+[name::Mochenwangen] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mochenwangen
-coordinates: [[Mochenwangen]]
-markerFile: [[Mochenwangen]]
+coordinates: [[Mochenwangen]] 
+markerFile: [[Mochenwangen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Mochenwangen|Mochenwangen]]] 
+- [[Mochenwangen|Mochenwangen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Mochenwangen.internal|Mochenwangen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Mochenwangen.protect|Mochenwangen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Mochenwangen.private|Mochenwangen.private]] 

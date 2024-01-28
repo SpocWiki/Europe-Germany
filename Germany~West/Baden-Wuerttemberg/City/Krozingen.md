@@ -1,5 +1,5 @@
 ﻿---
-location: [47.92,7.7]
+location: [47.92,7.7] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.7]
-[geo-lat::47.92]
-[name::Krozingen]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.7] 
+[geo-lat::47.92] 
+[name::Krozingen] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Krozingen
-coordinates: [[Krozingen]]
-markerFile: [[Krozingen]]
+coordinates: [[Krozingen]] 
+markerFile: [[Krozingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Krozingen|Krozingen]]] 
+- [[Krozingen|Krozingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Krozingen.internal|Krozingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Krozingen.protect|Krozingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Krozingen.private|Krozingen.private]] 

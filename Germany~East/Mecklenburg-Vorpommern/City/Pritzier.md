@@ -1,5 +1,5 @@
 ﻿---
-location: [53.37,11.08]
+location: [53.37,11.08] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.08]
-[geo-lat::53.37]
-[name::Pritzier]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.08] 
+[geo-lat::53.37] 
+[name::Pritzier] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Pritzier
-coordinates: [[Pritzier]]
-markerFile: [[Pritzier]]
+coordinates: [[Pritzier]] 
+markerFile: [[Pritzier]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

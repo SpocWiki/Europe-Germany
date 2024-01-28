@@ -1,5 +1,5 @@
 ﻿---
-location: [53.53,9.68]
+location: [53.53,9.68] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.68]
-[geo-lat::53.53]
-[name::Jork]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.68] 
+[geo-lat::53.53] 
+[name::Jork] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Jork
-coordinates: [[Jork]]
-markerFile: [[Jork]]
+coordinates: [[Jork]] 
+markerFile: [[Jork]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Jork|Jork]]] 
+- [[Jork|Jork]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jork.internal|Jork.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jork.protect|Jork.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jork.private|Jork.private]] 

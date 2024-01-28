@@ -1,5 +1,5 @@
 ---
-location: [49.355,6.935]
+location: [49.355,6.935] 
 type: State
 ISO3166-2: DE-SL
 SpocWebEntityId: 36022
@@ -9,13 +9,13 @@ tags:
 - geo/State
 
 ---
-[name::Saarland]
+[name::Saarland] 
 
-[name-abbr::SL]
+[name-abbr::SL] 
 
-![[Coat_of_arms_of_Saarlands.svg|350]]
+![[Coat_of_arms_of_Saarlands.svg|350]] 
 
-![[Flag_of_Saarland.svg|350]]
+![[Flag_of_Saarland.svg|350]] 
 
 ```leaflet
 id: Saarland
@@ -26,17 +26,17 @@ geojsonFolder: ./Saarland/
 markerFolder: ./Saarland/
 ```
 
-[Country::[[Germany]]]
-[ Capital ::[[Saarbruecken]]] ]
-[geo-lon::6.935]
-[geo-lat::49.355]
-[Population::]
+Country :: [[Germany]]  
+Capital :: [[Saarbruecken]]  
+[geo-lon::6.935] 
+[geo-lat::49.355] 
+[Population::] 
 
 
 
 ## Confidential Links & Embeds: 
--[[Saarland|Saarland]]] 
--[[../../../../../_internal/geo/Continent/Europe/Germany/Saarland.internal|Saarland.internal]]] 
+- [[Saarland|Saarland]]  
+- [[../../../../../_internal/geo/Continent/Europe/Germany/Saarland.internal|Saarland.internal]]  
 - [[../../../../../_protect/geo/Continent/Europe/Germany/Saarland.protect|Saarland.protect]] 
 - [[../../../../../_private/geo/Continent/Europe/Germany/Saarland.private|Saarland.private]] 
 - [[../../../../../_personal/geo/Continent/Europe/Germany/Saarland.personal|Saarland.personal]] 

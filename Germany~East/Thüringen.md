@@ -1,5 +1,5 @@
 ---
-location: [50.8463,11.0683]
+location: [50.8463,11.0683] 
 type: State
 ISO3166-2: DE-TH
 SpocWebEntityId: 36026
@@ -10,9 +10,9 @@ tags:
 
 ---
 
-[name::Thüringen]
+[name::Thüringen] 
 
-[name-abbr::TH]
+[name-abbr::TH] 
 ![[Coat_of_arms_of_Thuringia.svg|350]] 
 
 ![[Flag_of_Thuringia.svg|350]] 
@@ -26,11 +26,11 @@ geojsonFolder: ./Thüringen/
 markerFolder: ./Thüringen/
 ```
 
-[Country::[[Germany]]]
-[Capital :: [[Erfurt]] ]
-[geo-lon::11.0683]
-[geo-lat::50.8463]
-[Population::]
+Country :: [[Germany]]  
+Capital :: [[Erfurt]] ] 
+[geo-lon::11.0683] 
+[geo-lat::50.8463] 
+[Population::] 
 
 
 

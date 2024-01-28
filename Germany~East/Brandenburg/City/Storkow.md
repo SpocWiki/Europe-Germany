@@ -1,5 +1,5 @@
 ﻿---
-location: [52.25,13.93]
+location: [52.25,13.93] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.93]
-[geo-lat::52.25]
-[name::Storkow]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.93] 
+[geo-lat::52.25] 
+[name::Storkow] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Storkow
-coordinates: [[Storkow]]
-markerFile: [[Storkow]]
+coordinates: [[Storkow]] 
+markerFile: [[Storkow]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

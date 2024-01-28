@@ -1,5 +1,5 @@
 ﻿---
-location: [52.87,13.75]
+location: [52.87,13.75] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.75]
-[geo-lat::52.87]
-[name::Britz]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.75] 
+[geo-lat::52.87] 
+[name::Britz] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Britz
-coordinates: [[Britz]]
-markerFile: [[Britz]]
+coordinates: [[Britz]] 
+markerFile: [[Britz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

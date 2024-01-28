@@ -1,5 +1,5 @@
 ﻿---
-location: [51.9,8.38]
+location: [51.9,8.38] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.38]
-[geo-lat::51.9]
-[name::Guetersloh]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.38] 
+[geo-lat::51.9] 
+[name::Guetersloh] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Guetersloh
-coordinates: [[Guetersloh]]
-markerFile: [[Guetersloh]]
+coordinates: [[Guetersloh]] 
+markerFile: [[Guetersloh]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Guetersloh|Guetersloh]]] 
+- [[Guetersloh|Guetersloh]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Guetersloh.internal|Guetersloh.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Guetersloh.protect|Guetersloh.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Guetersloh.private|Guetersloh.private]] 

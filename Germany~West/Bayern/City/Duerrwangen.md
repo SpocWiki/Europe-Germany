@@ -1,5 +1,5 @@
 ﻿---
-location: [49.12,10.38]
+location: [49.12,10.38] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.38]
-[geo-lat::49.12]
-[name::Duerrwangen]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.38] 
+[geo-lat::49.12] 
+[name::Duerrwangen] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Duerrwangen
-coordinates: [[Duerrwangen]]
-markerFile: [[Duerrwangen]]
+coordinates: [[Duerrwangen]] 
+markerFile: [[Duerrwangen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Duerrwangen|Duerrwangen]]] 
+- [[Duerrwangen|Duerrwangen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Duerrwangen.internal|Duerrwangen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Duerrwangen.protect|Duerrwangen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Duerrwangen.private|Duerrwangen.private]] 

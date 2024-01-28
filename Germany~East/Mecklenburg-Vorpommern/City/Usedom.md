@@ -1,5 +1,5 @@
 ﻿---
-location: [53.88,13.92]
+location: [53.88,13.92] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.92]
-[geo-lat::53.88]
-[name::Usedom]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.92] 
+[geo-lat::53.88] 
+[name::Usedom] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Usedom
-coordinates: [[Usedom]]
-markerFile: [[Usedom]]
+coordinates: [[Usedom]] 
+markerFile: [[Usedom]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

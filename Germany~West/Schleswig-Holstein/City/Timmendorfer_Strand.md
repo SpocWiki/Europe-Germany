@@ -1,5 +1,5 @@
 ﻿---
-location: [54,10.77]
+location: [54,10.77] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.77]
-[geo-lat::54]
-[name::Timmendorfer Strand]
-[Country::[[Germany]]]
-[State ::[[Schleswig-Holstein]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.77] 
+[geo-lat::54] 
+[name::Timmendorfer Strand] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Timmendorfer Strand
-coordinates: [[Timmendorfer_Strand]]
-markerFile: [[Timmendorfer_Strand]]
+coordinates: [[Timmendorfer_Strand]] 
+markerFile: [[Timmendorfer_Strand]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Timmendorfer_Strand|Timmendorfer_Strand]]] 
+- [[Timmendorfer_Strand|Timmendorfer_Strand]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Timmendorfer_Strand.internal|Timmendorfer_Strand.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Timmendorfer_Strand.protect|Timmendorfer_Strand.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Timmendorfer_Strand.private|Timmendorfer_Strand.private]] 

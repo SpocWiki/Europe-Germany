@@ -1,5 +1,5 @@
 ﻿---
-location: [48,10.08]
+location: [48,10.08] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.08]
-[geo-lat::48]
-[name::Tannheim]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.08] 
+[geo-lat::48] 
+[name::Tannheim] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Tannheim
-coordinates: [[Tannheim]]
-markerFile: [[Tannheim]]
+coordinates: [[Tannheim]] 
+markerFile: [[Tannheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Tannheim|Tannheim]]] 
+- [[Tannheim|Tannheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Tannheim.internal|Tannheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Tannheim.protect|Tannheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Tannheim.private|Tannheim.private]] 

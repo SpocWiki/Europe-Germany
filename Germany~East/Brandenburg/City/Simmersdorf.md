@@ -1,5 +1,5 @@
 ﻿---
-location: [51.67,14.6]
+location: [51.67,14.6] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.6]
-[geo-lat::51.67]
-[name::Simmersdorf]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::14.6] 
+[geo-lat::51.67] 
+[name::Simmersdorf] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Simmersdorf
-coordinates: [[Simmersdorf]]
-markerFile: [[Simmersdorf]]
+coordinates: [[Simmersdorf]] 
+markerFile: [[Simmersdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

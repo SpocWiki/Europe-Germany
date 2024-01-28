@@ -1,5 +1,5 @@
 ﻿---
-location: [51.72,12.8]
+location: [51.72,12.8] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.8]
-[geo-lat::51.72]
-[name::Pretzsch]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.8] 
+[geo-lat::51.72] 
+[name::Pretzsch] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Pretzsch
-coordinates: [[Pretzsch]]
-markerFile: [[Pretzsch]]
+coordinates: [[Pretzsch]] 
+markerFile: [[Pretzsch]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

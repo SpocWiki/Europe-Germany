@@ -1,5 +1,5 @@
 ﻿---
-location: [48.12,11.43]
+location: [48.12,11.43] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.43]
-[geo-lat::48.12]
-[name::Graefelfing]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.43] 
+[geo-lat::48.12] 
+[name::Graefelfing] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Graefelfing
-coordinates: [[Graefelfing]]
-markerFile: [[Graefelfing]]
+coordinates: [[Graefelfing]] 
+markerFile: [[Graefelfing]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Graefelfing|Graefelfing]]] 
+- [[Graefelfing|Graefelfing]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Graefelfing.internal|Graefelfing.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Graefelfing.protect|Graefelfing.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Graefelfing.private|Graefelfing.private]] 

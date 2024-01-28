@@ -1,5 +1,5 @@
 ﻿---
-location: [48.08,8.63]
+location: [48.08,8.63] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.63]
-[geo-lat::48.08]
-[name::Trossingen]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.63] 
+[geo-lat::48.08] 
+[name::Trossingen] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Trossingen
-coordinates: [[Trossingen]]
-markerFile: [[Trossingen]]
+coordinates: [[Trossingen]] 
+markerFile: [[Trossingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Trossingen|Trossingen]]] 
+- [[Trossingen|Trossingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Trossingen.internal|Trossingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Trossingen.protect|Trossingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Trossingen.private|Trossingen.private]] 

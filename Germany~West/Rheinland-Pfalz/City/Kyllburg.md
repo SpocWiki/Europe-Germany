@@ -1,5 +1,5 @@
 ﻿---
-location: [50.03,6.58]
+location: [50.03,6.58] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.58]
-[geo-lat::50.03]
-[name::Kyllburg]
-[Country::[[Germany]]]
-[State:[[Rheinland-Pfalz]]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.58] 
+[geo-lat::50.03] 
+[name::Kyllburg] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kyllburg
-coordinates: [[Kyllburg]]
-markerFile: [[Kyllburg]]
+coordinates: [[Kyllburg]] 
+markerFile: [[Kyllburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kyllburg|Kyllburg]]] 
+- [[Kyllburg|Kyllburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kyllburg.internal|Kyllburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kyllburg.protect|Kyllburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kyllburg.private|Kyllburg.private]] 

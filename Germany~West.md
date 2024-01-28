@@ -1,5 +1,5 @@
 ---
-location: [50.8699,10.1207]
+location: [50.8699,10.1207] 
 type: Country
 title: Deutschland (Germany)
 SpocWebEntityId: 59064
@@ -37,8 +37,8 @@ layout:
 publishDate: 
 expiryDate: 
 ---
-[ISO2::]
-[ISO3::BRD]
+[ISO2::] 
+[ISO3::BRD] 
 ```leaflet
 id: West Germany
 zoomFeatures: true 
@@ -48,33 +48,33 @@ geojsonFolder: ./Germany~West/
 markerFolder: ./Germany~West/
 ```
 
-[name-en::West Germany]
-[name-de::BRD]
-[Area-Total::]
-[Area-Land::]
-[Continent::[[Europe]]]
-[VehicleCode::D]
-[Capital-Id::]
-![[Coat_of_arms_of_Germany.svg|350]]
-![[Anthem-Germany.mp3]]
-![[Flag_of_Germany.svg|350]]
-[Alcohol-l::12.8]
-[Language-Id::497]
-[geo-lon::10.1207]
-[geo-lat::50.8699]
+[name-en::West Germany] 
+[name-de::BRD] 
+[Area-Total::] 
+[Area-Land::] 
+Continent :: [[Europe]]  
+[VehicleCode::D] 
+[Capital-Id::] 
+![[Coat_of_arms_of_Germany.svg|350]] 
+![[Anthem-Germany.mp3]] 
+![[Flag_of_Germany.svg|350]] 
+[Alcohol-l::12.8] 
+[Language-Id::497] 
+[geo-lon::10.1207] 
+[geo-lat::50.8699] 
 
 # Countries 
-[[Baden-Wuerttemberg|Baden-Wuerttemberg]]
-[[Bayern|Bayern]]
-[[Hessen|Hessen]]
-[[Niedersachsen|Niedersachsen]]
-[[NordRhein-Westfalen|NordRhein-Westfalen]]
-[[Rheinland-Pfalz|Rheinland-Pfalz]]
-[[Saarland]]
-[[Schleswig-Holstein|Schleswig-Holstein]]
-[[State~Berlin|State~Berlin]]
-[[State~Bremen|State~Bremen]]
-[[State~Hamburg|State~Hamburg]]
+[[Baden-Wuerttemberg|Baden-Wuerttemberg]] 
+[[Bayern|Bayern]] 
+[[Hessen|Hessen]] 
+[[Niedersachsen|Niedersachsen]] 
+[[NordRhein-Westfalen|NordRhein-Westfalen]] 
+[[Rheinland-Pfalz|Rheinland-Pfalz]] 
+[[Saarland]] 
+[[Schleswig-Holstein|Schleswig-Holstein]] 
+[[State~Berlin|State~Berlin]] 
+[[State~Bremen|State~Bremen]] 
+[[State~Hamburg|State~Hamburg]] 
 
 
 ## Confidential Links & Embeds: 

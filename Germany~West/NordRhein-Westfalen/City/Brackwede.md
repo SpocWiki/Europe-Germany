@@ -1,5 +1,5 @@
 ﻿---
-location: [52,8.5]
+location: [52,8.5] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.5]
-[geo-lat::52]
-[name::Brackwede]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.5] 
+[geo-lat::52] 
+[name::Brackwede] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Brackwede
-coordinates: [[Brackwede]]
-markerFile: [[Brackwede]]
+coordinates: [[Brackwede]] 
+markerFile: [[Brackwede]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Brackwede|Brackwede]]] 
+- [[Brackwede|Brackwede]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Brackwede.internal|Brackwede.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Brackwede.protect|Brackwede.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Brackwede.private|Brackwede.private]] 

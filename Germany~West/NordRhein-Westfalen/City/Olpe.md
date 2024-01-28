@@ -1,5 +1,5 @@
 ﻿---
-location: [51.03,7.85]
+location: [51.03,7.85] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.85]
-[geo-lat::51.03]
-[name::Olpe]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.85] 
+[geo-lat::51.03] 
+[name::Olpe] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Olpe
-coordinates: [[Olpe]]
-markerFile: [[Olpe]]
+coordinates: [[Olpe]] 
+markerFile: [[Olpe]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Olpe|Olpe]]] 
+- [[Olpe|Olpe]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Olpe.internal|Olpe.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Olpe.protect|Olpe.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Olpe.private|Olpe.private]] 

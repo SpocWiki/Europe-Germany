@@ -1,5 +1,5 @@
 ﻿---
-location: [51.8,10.33]
+location: [51.8,10.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.33]
-[geo-lat::51.8]
-[name::Clausthal]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.33] 
+[geo-lat::51.8] 
+[name::Clausthal] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Clausthal
-coordinates: [[Clausthal]]
-markerFile: [[Clausthal]]
+coordinates: [[Clausthal]] 
+markerFile: [[Clausthal]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Clausthal|Clausthal]]] 
+- [[Clausthal|Clausthal]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Clausthal.internal|Clausthal.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Clausthal.protect|Clausthal.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Clausthal.private|Clausthal.private]] 

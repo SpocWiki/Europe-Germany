@@ -1,5 +1,5 @@
 ---
-location: [50.00861,8.775556]
+location: [50.00861,8.775556] 
 type: Station 
 mapzoom: [8,18] 
 mapmarker: train 
@@ -10,17 +10,17 @@ SpocWebEntityId: 156402
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.775556]
-[geo-lat::50.00861]
-[name::Dietzenbach Bhf]
-[Country::[[Germany]]]
-[City:[[Frankfurt~Main]] ]
+[geo-lon::8.775556] 
+[geo-lat::50.00861] 
+[name::Dietzenbach Bhf] 
+Country :: [[Germany]]  
+City :: [[Frankfurt~Main]] ] 
 
 
 ```leaflet
 id: S-Dietzenbach_Bhf.md
-coordinates: [[S-Dietzenbach_Bhf]]
-markerFile: [[S-Dietzenbach_Bhf]]
+coordinates: [[S-Dietzenbach_Bhf]] 
+markerFile: [[S-Dietzenbach_Bhf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

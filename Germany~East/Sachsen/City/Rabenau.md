@@ -1,5 +1,5 @@
 ﻿---
-location: [50.97,13.65]
+location: [50.97,13.65] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.65]
-[geo-lat::50.97]
-[name::Rabenau]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.65] 
+[geo-lat::50.97] 
+[name::Rabenau] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Rabenau
-coordinates: [[Rabenau]]
-markerFile: [[Rabenau]]
+coordinates: [[Rabenau]] 
+markerFile: [[Rabenau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

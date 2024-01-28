@@ -1,5 +1,5 @@
 ﻿---
-location: [49.33,12.12]
+location: [49.33,12.12] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.12]
-[geo-lat::49.33]
-[name::Schwandorf]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.12] 
+[geo-lat::49.33] 
+[name::Schwandorf] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schwandorf
-coordinates: [[Schwandorf]]
-markerFile: [[Schwandorf]]
+coordinates: [[Schwandorf]] 
+markerFile: [[Schwandorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Schwandorf|Schwandorf]]] 
+- [[Schwandorf|Schwandorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Schwandorf.internal|Schwandorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Schwandorf.protect|Schwandorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Schwandorf.private|Schwandorf.private]] 

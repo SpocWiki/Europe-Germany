@@ -1,5 +1,5 @@
 ﻿---
-location: [53.75,14.08]
+location: [53.75,14.08] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.08]
-[geo-lat::53.75]
-[name::Ückermuende]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::14.08] 
+[geo-lat::53.75] 
+[name::Ückermuende] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ückermuende
-coordinates: [[Ückermuende]]
-markerFile: [[Ückermuende]]
+coordinates: [[Ückermuende]] 
+markerFile: [[Ückermuende]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

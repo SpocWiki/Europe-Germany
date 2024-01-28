@@ -1,5 +1,5 @@
 ﻿---
-location: [53.08,14.15]
+location: [53.08,14.15] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.15]
-[geo-lat::53.08]
-[name::Niederlandin]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::14.15] 
+[geo-lat::53.08] 
+[name::Niederlandin] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Niederlandin
-coordinates: [[Niederlandin]]
-markerFile: [[Niederlandin]]
+coordinates: [[Niederlandin]] 
+markerFile: [[Niederlandin]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

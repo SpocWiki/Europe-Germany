@@ -29,21 +29,21 @@ expiryDate:
 
 # FFM~S3
 
-S-Bahn in[[Frankfurt~Main]]] 
+S-Bahn in[[Frankfurt~Main]]  
 
 # Stationen:
-1)[[S-Bad_Soden~Taunus]]] 
-2)[[S-Sulzbach~Taunus_Nord]]] 
-3)[[S-Schwalbach~Taunus_Limes]]] 
-4)[[S-Schwalbach~Taunus_Nord]]] 
-5)[[S-Niederhöchstadt]]] 
-6)[[S-Eschborn]]] 
-7)[[S-Eschborn_Süd]]] 
-8)[[S-Frankfurt-Rödelheim]]] 
-9)[[S-Frankfurt~Main_West]]] 
-10)[[S-Frankfurt~Main~Messe]]] 
-11)[[S-Frankfurt~Main_Galluswarte]]] 
-12)[[S-Frankfurt~Main_Hbf_tief]]] 
+1)[[S-Bad_Soden~Taunus]]  
+2)[[S-Sulzbach~Taunus_Nord]]  
+3)[[S-Schwalbach~Taunus_Limes]]  
+4)[[S-Schwalbach~Taunus_Nord]]  
+5)[[S-Niederhöchstadt]]  
+6)[[S-Eschborn]]  
+7)[[S-Eschborn_Süd]]  
+8)[[S-Frankfurt-Rödelheim]]  
+9)[[S-Frankfurt~Main_West]]  
+10)[[S-Frankfurt~Main~Messe]]  
+11)[[S-Frankfurt~Main_Galluswarte]]  
+12)[[S-Frankfurt~Main_Hbf_tief]]  
 
 ```leaflet
 id: FFM~S3
@@ -55,23 +55,23 @@ geojsonFolder: ./FFM~S3/
 markerFolder: ./Station/
 ```
 
-13)[[S-Frankfurt_Taunusanlage]]] 
-14)[[S-Frankfurt_Hauptwache]]] 
-15)[[S-Frankfurt_Konstablerwache]]] 
-16)[[S-Frankfurt_Ostendstraße]]] 
-17)[[S-Frankfurt_Lokalbahnhof]]] 
-18)[[S-Frankfurt~Main~Süd]]] 
-19)[[S-Frankfurt~Main_Stresemannallee]]] 
-20)[[S-Frankfurt-Louisa]]] 
-21)[[S-Neu-Isenburg]]] 
-22)[[S-Dreieich-Buchschlag]]] 
-23)[[S-Langen-Flugsicherung]]] 
-24)[[S-Langen~Hessen]]] 
-25)[[S-Egelsbach]]] 
-26)[[S-Erzhausen]]] 
-27)[[S-Darmstadt-Wixhausen]]] 
-28)[[S-Darmstadt-Arheilgen]]] 
-29)[[S-Darmstadt_Hbf]]] 
+13)[[S-Frankfurt_Taunusanlage]]  
+14)[[S-Frankfurt_Hauptwache]]  
+15)[[S-Frankfurt_Konstablerwache]]  
+16)[[S-Frankfurt_Ostendstraße]]  
+17)[[S-Frankfurt_Lokalbahnhof]]  
+18)[[S-Frankfurt~Main~Süd]]  
+19)[[S-Frankfurt~Main_Stresemannallee]]  
+20)[[S-Frankfurt-Louisa]]  
+21)[[S-Neu-Isenburg]]  
+22)[[S-Dreieich-Buchschlag]]  
+23)[[S-Langen-Flugsicherung]]  
+24)[[S-Langen~Hessen]]  
+25)[[S-Egelsbach]]  
+26)[[S-Erzhausen]]  
+27)[[S-Darmstadt-Wixhausen]]  
+28)[[S-Darmstadt-Arheilgen]]  
+29)[[S-Darmstadt_Hbf]]  
 
 
 

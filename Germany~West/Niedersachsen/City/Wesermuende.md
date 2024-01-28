@@ -1,5 +1,5 @@
 ---
-location: [53.53,8.57]
+location: [53.53,8.57] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.57]
-[geo-lat::53.53]
-[name::Wesermuende]
-[Country::[[Germany]]]
-[State :: [[Niedersachsen]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.57] 
+[geo-lat::53.53] 
+[name::Wesermuende] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]] ] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wesermuende
-coordinates: [[Wesermuende]]
-markerFile: [[Wesermuende]]
+coordinates: [[Wesermuende]] 
+markerFile: [[Wesermuende]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Wesermuende|Wesermuende]]] 
+- [[Wesermuende|Wesermuende]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wesermuende.internal|Wesermuende.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wesermuende.protect|Wesermuende.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wesermuende.private|Wesermuende.private]] 

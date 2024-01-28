@@ -1,5 +1,5 @@
 ﻿---
-location: [53.02,11.77]
+location: [53.02,11.77] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.77]
-[geo-lat::53.02]
-[name::Wittenberge]
-[Country::[[Germany]]]
-[State:[[Brandenburg]]]]
-[Population::]
-[Unknown::]
+[geo-lon::11.77] 
+[geo-lat::53.02] 
+[name::Wittenberge] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wittenberge
-coordinates: [[Wittenberge]]
-markerFile: [[Wittenberge]]
+coordinates: [[Wittenberge]] 
+markerFile: [[Wittenberge]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

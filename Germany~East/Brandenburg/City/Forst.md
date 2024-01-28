@@ -1,5 +1,5 @@
 ---
-location: [51.75,14.65]
+location: [51.75,14.65] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.65]
-[geo-lat::51.75]
-[name::Forst]
-[Country::[[Germany]]]
-[State :: [[Brandenburg]] ]
-[Population::]
-[Unknown::]
+[geo-lon::14.65] 
+[geo-lat::51.75] 
+[name::Forst] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]] ] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Forst
-coordinates: [[Forst]]
-markerFile: [[Forst]]
+coordinates: [[Forst]] 
+markerFile: [[Forst]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

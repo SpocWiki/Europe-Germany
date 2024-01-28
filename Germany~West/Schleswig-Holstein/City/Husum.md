@@ -1,5 +1,5 @@
 ﻿---
-location: [54.48,9.07]
+location: [54.48,9.07] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.07]
-[geo-lat::54.48]
-[name::Husum]
-[Country::[[Germany]]]
-[State ::[[Schleswig-Holstein]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.07] 
+[geo-lat::54.48] 
+[name::Husum] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Husum
-coordinates: [[Husum]]
-markerFile: [[Husum]]
+coordinates: [[Husum]] 
+markerFile: [[Husum]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Husum|Husum]]] 
+- [[Husum|Husum]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Husum.internal|Husum.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Husum.protect|Husum.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Husum.private|Husum.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [54.08,12.83]
+location: [54.08,12.83] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.83]
-[geo-lat::54.08]
-[name::Siemensdorf]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.83] 
+[geo-lat::54.08] 
+[name::Siemensdorf] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Siemensdorf
-coordinates: [[Siemensdorf]]
-markerFile: [[Siemensdorf]]
+coordinates: [[Siemensdorf]] 
+markerFile: [[Siemensdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

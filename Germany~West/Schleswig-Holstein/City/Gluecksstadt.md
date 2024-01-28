@@ -1,5 +1,5 @@
 ﻿---
-location: [53.78,9.43]
+location: [53.78,9.43] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.43]
-[geo-lat::53.78]
-[name::Gluecksstadt]
-[Country::[[Germany]]]
-[State ::[[Schleswig-Holstein]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.43] 
+[geo-lat::53.78] 
+[name::Gluecksstadt] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gluecksstadt
-coordinates: [[Gluecksstadt]]
-markerFile: [[Gluecksstadt]]
+coordinates: [[Gluecksstadt]] 
+markerFile: [[Gluecksstadt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Gluecksstadt|Gluecksstadt]]] 
+- [[Gluecksstadt|Gluecksstadt]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Gluecksstadt.internal|Gluecksstadt.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Gluecksstadt.protect|Gluecksstadt.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Gluecksstadt.private|Gluecksstadt.private]] 

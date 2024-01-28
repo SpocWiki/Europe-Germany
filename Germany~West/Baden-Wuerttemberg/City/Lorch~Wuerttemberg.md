@@ -1,5 +1,5 @@
 ﻿---
-location: [48.78,9.7]
+location: [48.78,9.7] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.7]
-[geo-lat::48.78]
-[name::Lorch~Wuerttemberg]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.7] 
+[geo-lat::48.78] 
+[name::Lorch~Wuerttemberg] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lorch~Wuerttemberg
-coordinates: [[Lorch~Wuerttemberg]]
-markerFile: [[Lorch~Wuerttemberg]]
+coordinates: [[Lorch~Wuerttemberg]] 
+markerFile: [[Lorch~Wuerttemberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Lorch~Wuerttemberg|Lorch~Wuerttemberg]]] 
+- [[Lorch~Wuerttemberg|Lorch~Wuerttemberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lorch~Wuerttemberg.internal|Lorch~Wuerttemberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lorch~Wuerttemberg.protect|Lorch~Wuerttemberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lorch~Wuerttemberg.private|Lorch~Wuerttemberg.private]] 

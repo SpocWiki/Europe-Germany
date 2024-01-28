@@ -1,5 +1,5 @@
 ﻿---
-location: [47.88,10.61]
+location: [47.88,10.61] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.61]
-[geo-lat::47.88]
-[name::Kaufbeuren]
-[Country::[[Germany]]]
-[State:[[Bayern]]]]
-[Population::]
-[Unknown::]
+[geo-lon::10.61] 
+[geo-lat::47.88] 
+[name::Kaufbeuren] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kaufbeuren
-coordinates: [[Kaufbeuren]]
-markerFile: [[Kaufbeuren]]
+coordinates: [[Kaufbeuren]] 
+markerFile: [[Kaufbeuren]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kaufbeuren|Kaufbeuren]]] 
+- [[Kaufbeuren|Kaufbeuren]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Kaufbeuren.internal|Kaufbeuren.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Kaufbeuren.protect|Kaufbeuren.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Kaufbeuren.private|Kaufbeuren.private]] 

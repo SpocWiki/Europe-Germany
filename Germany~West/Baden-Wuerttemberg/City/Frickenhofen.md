@@ -1,5 +1,5 @@
 ﻿---
-location: [48.95,9.8]
+location: [48.95,9.8] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.8]
-[geo-lat::48.95]
-[name::Frickenhofen]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.8] 
+[geo-lat::48.95] 
+[name::Frickenhofen] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Frickenhofen
-coordinates: [[Frickenhofen]]
-markerFile: [[Frickenhofen]]
+coordinates: [[Frickenhofen]] 
+markerFile: [[Frickenhofen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Frickenhofen|Frickenhofen]]] 
+- [[Frickenhofen|Frickenhofen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Frickenhofen.internal|Frickenhofen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Frickenhofen.protect|Frickenhofen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Frickenhofen.private|Frickenhofen.private]] 

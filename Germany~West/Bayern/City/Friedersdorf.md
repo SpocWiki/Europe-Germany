@@ -1,5 +1,5 @@
 ﻿---
-location: [49.5,12.08]
+location: [49.5,12.08] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.08]
-[geo-lat::49.5]
-[name::Friedersdorf]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.08] 
+[geo-lat::49.5] 
+[name::Friedersdorf] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Friedersdorf
-coordinates: [[Friedersdorf]]
-markerFile: [[Friedersdorf]]
+coordinates: [[Friedersdorf]] 
+markerFile: [[Friedersdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Friedersdorf|Friedersdorf]]] 
+- [[Friedersdorf|Friedersdorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Friedersdorf.internal|Friedersdorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Friedersdorf.protect|Friedersdorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Friedersdorf.private|Friedersdorf.private]] 

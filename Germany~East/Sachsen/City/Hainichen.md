@@ -1,5 +1,5 @@
 ﻿---
-location: [50.97,13.13]
+location: [50.97,13.13] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.13]
-[geo-lat::50.97]
-[name::Hainichen]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.13] 
+[geo-lat::50.97] 
+[name::Hainichen] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hainichen
-coordinates: [[Hainichen]]
-markerFile: [[Hainichen]]
+coordinates: [[Hainichen]] 
+markerFile: [[Hainichen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

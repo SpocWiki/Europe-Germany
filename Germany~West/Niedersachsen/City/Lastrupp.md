@@ -1,5 +1,5 @@
 ﻿---
-location: [52.8,7.87]
+location: [52.8,7.87] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.87]
-[geo-lat::52.8]
-[name::Lastrupp]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.87] 
+[geo-lat::52.8] 
+[name::Lastrupp] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lastrupp
-coordinates: [[Lastrupp]]
-markerFile: [[Lastrupp]]
+coordinates: [[Lastrupp]] 
+markerFile: [[Lastrupp]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Lastrupp|Lastrupp]]] 
+- [[Lastrupp|Lastrupp]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lastrupp.internal|Lastrupp.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lastrupp.protect|Lastrupp.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lastrupp.private|Lastrupp.private]] 

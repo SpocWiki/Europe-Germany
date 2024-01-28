@@ -1,5 +1,5 @@
 ﻿---
-location: [51.3,11.22]
+location: [51.3,11.22] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.22]
-[geo-lat::51.3]
-[name::Heldrungen]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.22] 
+[geo-lat::51.3] 
+[name::Heldrungen] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Heldrungen
-coordinates: [[Heldrungen]]
-markerFile: [[Heldrungen]]
+coordinates: [[Heldrungen]] 
+markerFile: [[Heldrungen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

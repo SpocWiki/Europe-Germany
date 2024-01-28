@@ -1,5 +1,5 @@
 ﻿---
-location: [51.53,9.94]
+location: [51.53,9.94] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.94]
-[geo-lat::51.53]
-[name::Goettingen]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.94] 
+[geo-lat::51.53] 
+[name::Goettingen] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Goettingen
-coordinates: [[Goettingen]]
-markerFile: [[Goettingen]]
+coordinates: [[Goettingen]] 
+markerFile: [[Goettingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Goettingen|Goettingen]]] 
+- [[Goettingen|Goettingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Goettingen.internal|Goettingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Goettingen.protect|Goettingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Goettingen.private|Goettingen.private]] 

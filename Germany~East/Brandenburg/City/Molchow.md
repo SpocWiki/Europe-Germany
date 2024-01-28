@@ -1,5 +1,5 @@
 ﻿---
-location: [52.98,12.87]
+location: [52.98,12.87] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.87]
-[geo-lat::52.98]
-[name::Molchow]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.87] 
+[geo-lat::52.98] 
+[name::Molchow] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Molchow
-coordinates: [[Molchow]]
-markerFile: [[Molchow]]
+coordinates: [[Molchow]] 
+markerFile: [[Molchow]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [50.67,11.1]
+location: [50.67,11.1] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.1]
-[geo-lat::50.67]
-[name::Koenigsee]
-[Country::[[Germany]]]
-[State:[[Thüringen]]]]
-[Population::]
-[Unknown::]
+[geo-lon::11.1] 
+[geo-lat::50.67] 
+[name::Koenigsee] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Koenigsee
-coordinates: [[Koenigsee]]
-markerFile: [[Koenigsee]]
+coordinates: [[Koenigsee]] 
+markerFile: [[Koenigsee]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

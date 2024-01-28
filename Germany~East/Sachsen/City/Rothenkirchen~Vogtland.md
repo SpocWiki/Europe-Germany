@@ -1,5 +1,5 @@
 ﻿---
-location: [50.55,12.5]
+location: [50.55,12.5] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.5]
-[geo-lat::50.55]
-[name::Rothenkirchen~Vogtland]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.5] 
+[geo-lat::50.55] 
+[name::Rothenkirchen~Vogtland] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Rothenkirchen~Vogtland
-coordinates: [[Rothenkirchen~Vogtland]]
-markerFile: [[Rothenkirchen~Vogtland]]
+coordinates: [[Rothenkirchen~Vogtland]] 
+markerFile: [[Rothenkirchen~Vogtland]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

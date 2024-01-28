@@ -1,5 +1,5 @@
 ﻿---
-location: [52.35,13.63]
+location: [52.35,13.63] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.63]
-[geo-lat::52.35]
-[name::Zeuthen]
-[Country::[[Germany]]]
-[State:[[Brandenburg]]]]
-[Population::]
-[Unknown::]
+[geo-lon::13.63] 
+[geo-lat::52.35] 
+[name::Zeuthen] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Zeuthen
-coordinates: [[Zeuthen]]
-markerFile: [[Zeuthen]]
+coordinates: [[Zeuthen]] 
+markerFile: [[Zeuthen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

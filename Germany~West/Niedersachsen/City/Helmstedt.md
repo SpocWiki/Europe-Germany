@@ -1,5 +1,5 @@
 ﻿---
-location: [52.23,11.02]
+location: [52.23,11.02] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.02]
-[geo-lat::52.23]
-[name::Helmstedt]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.02] 
+[geo-lat::52.23] 
+[name::Helmstedt] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Helmstedt
-coordinates: [[Helmstedt]]
-markerFile: [[Helmstedt]]
+coordinates: [[Helmstedt]] 
+markerFile: [[Helmstedt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Helmstedt|Helmstedt]]] 
+- [[Helmstedt|Helmstedt]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Helmstedt.internal|Helmstedt.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Helmstedt.protect|Helmstedt.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Helmstedt.private|Helmstedt.private]] 

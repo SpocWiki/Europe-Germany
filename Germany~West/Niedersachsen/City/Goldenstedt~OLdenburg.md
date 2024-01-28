@@ -1,5 +1,5 @@
 ﻿---
-location: [52.8,8.45]
+location: [52.8,8.45] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.45]
-[geo-lat::52.8]
-[name::Goldenstedt~OLdenburg]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.45] 
+[geo-lat::52.8] 
+[name::Goldenstedt~OLdenburg] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Goldenstedt~OLdenburg
-coordinates: [[Goldenstedt~OLdenburg]]
-markerFile: [[Goldenstedt~OLdenburg]]
+coordinates: [[Goldenstedt~OLdenburg]] 
+markerFile: [[Goldenstedt~OLdenburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Goldenstedt~OLdenburg|Goldenstedt~OLdenburg]]] 
+- [[Goldenstedt~OLdenburg|Goldenstedt~OLdenburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Goldenstedt~OLdenburg.internal|Goldenstedt~OLdenburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Goldenstedt~OLdenburg.protect|Goldenstedt~OLdenburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Goldenstedt~OLdenburg.private|Goldenstedt~OLdenburg.private]] 

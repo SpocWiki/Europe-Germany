@@ -1,5 +1,5 @@
 ﻿---
-location: [48.13,11.47]
+location: [48.13,11.47] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.47]
-[geo-lat::48.13]
-[name::Pasing]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.47] 
+[geo-lat::48.13] 
+[name::Pasing] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Pasing
-coordinates: [[Pasing]]
-markerFile: [[Pasing]]
+coordinates: [[Pasing]] 
+markerFile: [[Pasing]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Pasing|Pasing]]] 
+- [[Pasing|Pasing]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Pasing.internal|Pasing.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Pasing.protect|Pasing.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Pasing.private|Pasing.private]] 

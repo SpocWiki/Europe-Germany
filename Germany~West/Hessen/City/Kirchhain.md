@@ -1,5 +1,5 @@
 ﻿---
-location: [50.83,8.92]
+location: [50.83,8.92] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.92]
-[geo-lat::50.83]
-[name::Kirchhain]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.92] 
+[geo-lat::50.83] 
+[name::Kirchhain] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kirchhain
-coordinates: [[Kirchhain]]
-markerFile: [[Kirchhain]]
+coordinates: [[Kirchhain]] 
+markerFile: [[Kirchhain]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kirchhain|Kirchhain]]] 
+- [[Kirchhain|Kirchhain]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Kirchhain.internal|Kirchhain.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Kirchhain.protect|Kirchhain.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Kirchhain.private|Kirchhain.private]] 

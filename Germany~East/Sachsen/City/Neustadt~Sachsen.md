@@ -1,5 +1,5 @@
 ﻿---
-location: [51.03,14.22]
+location: [51.03,14.22] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.22]
-[geo-lat::51.03]
-[name::Neustadt~Sachsen]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::14.22] 
+[geo-lat::51.03] 
+[name::Neustadt~Sachsen] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Neustadt~Sachsen
-coordinates: [[Neustadt~Sachsen]]
-markerFile: [[Neustadt~Sachsen]]
+coordinates: [[Neustadt~Sachsen]] 
+markerFile: [[Neustadt~Sachsen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

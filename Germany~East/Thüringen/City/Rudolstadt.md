@@ -1,5 +1,5 @@
 ﻿---
-location: [50.72,11.33]
+location: [50.72,11.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.33]
-[geo-lat::50.72]
-[name::Rudolstadt]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.33] 
+[geo-lat::50.72] 
+[name::Rudolstadt] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Rudolstadt
-coordinates: [[Rudolstadt]]
-markerFile: [[Rudolstadt]]
+coordinates: [[Rudolstadt]] 
+markerFile: [[Rudolstadt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [50.3,9.12]
+location: [50.3,9.12] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.12]
-[geo-lat::50.3]
-[name::Buedingen]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.12] 
+[geo-lat::50.3] 
+[name::Buedingen] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Buedingen
-coordinates: [[Buedingen]]
-markerFile: [[Buedingen]]
+coordinates: [[Buedingen]] 
+markerFile: [[Buedingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Buedingen|Buedingen]]] 
+- [[Buedingen|Buedingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Buedingen.internal|Buedingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Buedingen.protect|Buedingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Buedingen.private|Buedingen.private]] 

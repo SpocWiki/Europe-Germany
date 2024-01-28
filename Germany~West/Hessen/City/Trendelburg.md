@@ -1,5 +1,5 @@
 ﻿---
-location: [51.57,9.4]
+location: [51.57,9.4] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.4]
-[geo-lat::51.57]
-[name::Trendelburg]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.4] 
+[geo-lat::51.57] 
+[name::Trendelburg] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Trendelburg
-coordinates: [[Trendelburg]]
-markerFile: [[Trendelburg]]
+coordinates: [[Trendelburg]] 
+markerFile: [[Trendelburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Trendelburg|Trendelburg]]] 
+- [[Trendelburg|Trendelburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Trendelburg.internal|Trendelburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Trendelburg.protect|Trendelburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Trendelburg.private|Trendelburg.private]] 

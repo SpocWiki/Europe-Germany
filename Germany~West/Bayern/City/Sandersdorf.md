@@ -1,5 +1,5 @@
 ﻿---
-location: [48.9,11.62]
+location: [48.9,11.62] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.62]
-[geo-lat::48.9]
-[name::Sandersdorf]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.62] 
+[geo-lat::48.9] 
+[name::Sandersdorf] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Sandersdorf
-coordinates: [[Sandersdorf]]
-markerFile: [[Sandersdorf]]
+coordinates: [[Sandersdorf]] 
+markerFile: [[Sandersdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Sandersdorf|Sandersdorf]]] 
+- [[Sandersdorf|Sandersdorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Sandersdorf.internal|Sandersdorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Sandersdorf.protect|Sandersdorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Sandersdorf.private|Sandersdorf.private]] 

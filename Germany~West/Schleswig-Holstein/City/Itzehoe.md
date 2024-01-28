@@ -1,5 +1,5 @@
 ﻿---
-location: [53.92,9.51]
+location: [53.92,9.51] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.51]
-[geo-lat::53.92]
-[name::Itzehoe]
-[Country::[[Germany]]]
-[State ::[[Schleswig-Holstein]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.51] 
+[geo-lat::53.92] 
+[name::Itzehoe] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Itzehoe
-coordinates: [[Itzehoe]]
-markerFile: [[Itzehoe]]
+coordinates: [[Itzehoe]] 
+markerFile: [[Itzehoe]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Itzehoe|Itzehoe]]] 
+- [[Itzehoe|Itzehoe]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Itzehoe.internal|Itzehoe.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Itzehoe.protect|Itzehoe.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Itzehoe.private|Itzehoe.private]] 

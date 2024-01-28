@@ -1,5 +1,5 @@
 ﻿---
-location: [51.2,7.32]
+location: [51.2,7.32] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.32]
-[geo-lat::51.2]
-[name::Obernfeld]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.32] 
+[geo-lat::51.2] 
+[name::Obernfeld] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Obernfeld
-coordinates: [[Obernfeld]]
-markerFile: [[Obernfeld]]
+coordinates: [[Obernfeld]] 
+markerFile: [[Obernfeld]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Obernfeld|Obernfeld]]] 
+- [[Obernfeld|Obernfeld]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Obernfeld.internal|Obernfeld.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Obernfeld.protect|Obernfeld.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Obernfeld.private|Obernfeld.private]] 

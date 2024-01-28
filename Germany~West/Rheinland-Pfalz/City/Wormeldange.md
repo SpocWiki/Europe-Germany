@@ -1,5 +1,5 @@
 ﻿---
-location: [49.62,6.42]
+location: [49.62,6.42] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.42]
-[geo-lat::49.62]
-[name::Wormeldange]
-[State::]
-[Country[[geo/Continent/Europe/Europe~West/Luxembourg]]]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::6.42] 
+[geo-lat::49.62] 
+[name::Wormeldange] 
+State ::  
+Country :: [[geo/Continent/Europe/Europe~West/Luxembourg]] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wormeldange
-coordinates: [[Wormeldange]]
-markerFile: [[Wormeldange]]
+coordinates: [[Wormeldange]] 
+markerFile: [[Wormeldange]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

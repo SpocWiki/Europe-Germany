@@ -1,5 +1,5 @@
 ﻿---
-location: [51.57,11.48]
+location: [51.57,11.48] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.48]
-[geo-lat::51.57]
-[name::Helbra]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.48] 
+[geo-lat::51.57] 
+[name::Helbra] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Helbra
-coordinates: [[Helbra]]
-markerFile: [[Helbra]]
+coordinates: [[Helbra]] 
+markerFile: [[Helbra]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

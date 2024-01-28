@@ -1,5 +1,5 @@
 ﻿---
-location: [48.78,13.05]
+location: [48.78,13.05] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.05]
-[geo-lat::48.78]
-[name::Hengersberg]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.05] 
+[geo-lat::48.78] 
+[name::Hengersberg] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hengersberg
-coordinates: [[Hengersberg]]
-markerFile: [[Hengersberg]]
+coordinates: [[Hengersberg]] 
+markerFile: [[Hengersberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hengersberg|Hengersberg]]] 
+- [[Hengersberg|Hengersberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hengersberg.internal|Hengersberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hengersberg.protect|Hengersberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hengersberg.private|Hengersberg.private]] 

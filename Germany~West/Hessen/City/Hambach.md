@@ -1,5 +1,5 @@
 ﻿---
-location: [50.4,7.98]
+location: [50.4,7.98] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.98]
-[geo-lat::50.4]
-[name::Hambach]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.98] 
+[geo-lat::50.4] 
+[name::Hambach] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hambach
-coordinates: [[Hambach]]
-markerFile: [[Hambach]]
+coordinates: [[Hambach]] 
+markerFile: [[Hambach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hambach|Hambach]]] 
+- [[Hambach|Hambach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Hambach.internal|Hambach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Hambach.protect|Hambach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Hambach.private|Hambach.private]] 

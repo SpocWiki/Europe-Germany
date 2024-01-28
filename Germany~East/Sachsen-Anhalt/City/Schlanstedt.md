@@ -1,5 +1,5 @@
 ﻿---
-location: [52.02,11.2]
+location: [52.02,11.2] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.2]
-[geo-lat::52.02]
-[name::Schlanstedt]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.2] 
+[geo-lat::52.02] 
+[name::Schlanstedt] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schlanstedt
-coordinates: [[Schlanstedt]]
-markerFile: [[Schlanstedt]]
+coordinates: [[Schlanstedt]] 
+markerFile: [[Schlanstedt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

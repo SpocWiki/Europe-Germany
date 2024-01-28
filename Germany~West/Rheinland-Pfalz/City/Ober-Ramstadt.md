@@ -1,5 +1,5 @@
 ﻿---
-location: [49.82,8.25]
+location: [49.82,8.25] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.25]
-[geo-lat::49.82]
-[name::Ober-Ramstadt]
-[Country::[[Germany]]]
-[State:[[Rheinland-Pfalz]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.25] 
+[geo-lat::49.82] 
+[name::Ober-Ramstadt] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ober-Ramstadt
-coordinates: [[Ober-Ramstadt]]
-markerFile: [[Ober-Ramstadt]]
+coordinates: [[Ober-Ramstadt]] 
+markerFile: [[Ober-Ramstadt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Ober-Ramstadt|Ober-Ramstadt]]] 
+- [[Ober-Ramstadt|Ober-Ramstadt]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ober-Ramstadt.internal|Ober-Ramstadt.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ober-Ramstadt.protect|Ober-Ramstadt.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ober-Ramstadt.private|Ober-Ramstadt.private]] 

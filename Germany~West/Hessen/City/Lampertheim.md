@@ -1,5 +1,5 @@
 ---
-location: [49.58,8.47]
+location: [49.58,8.47] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.47]
-[geo-lat::49.58]
-[name::Lampertheim]
-[Country::[[Germany]]]
-[State:[[Hessen]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.47] 
+[geo-lat::49.58] 
+[name::Lampertheim] 
+Country :: [[Germany]]  
+State :: [[Hessen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lampertheim
-coordinates: [[Lampertheim]]
-markerFile: [[Lampertheim]]
+coordinates: [[Lampertheim]] 
+markerFile: [[Lampertheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Lampertheim|Lampertheim]]] 
+- [[Lampertheim|Lampertheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Lampertheim.internal|Lampertheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Lampertheim.protect|Lampertheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Lampertheim.private|Lampertheim.private]] 

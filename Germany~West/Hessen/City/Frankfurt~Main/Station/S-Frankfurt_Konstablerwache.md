@@ -1,5 +1,5 @@
 ---
-location: [50.11472,8.686389]
+location: [50.11472,8.686389] 
 type: Station 
 mapzoom: [8,18] 
 mapmarker: train 
@@ -10,17 +10,17 @@ SpocWebEntityId: 156372
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.686389]
-[geo-lat::50.11472]
-[name::Frankfurt Konstablerwache]
-[Country::[[Germany]]]
-[City:[[Frankfurt~Main]] ]
+[geo-lon::8.686389] 
+[geo-lat::50.11472] 
+[name::Frankfurt Konstablerwache] 
+Country :: [[Germany]]  
+City :: [[Frankfurt~Main]] ] 
 
 
 ```leaflet
 id: S-Frankfurt_Konstablerwache.md
-coordinates: [[S-Frankfurt_Konstablerwache]]
-markerFile: [[S-Frankfurt_Konstablerwache]]
+coordinates: [[S-Frankfurt_Konstablerwache]] 
+markerFile: [[S-Frankfurt_Konstablerwache]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

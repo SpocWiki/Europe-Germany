@@ -1,5 +1,5 @@
 ﻿---
-location: [51,6]
+location: [51,6] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6]
-[geo-lat::51]
-[name::Gangelt]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6] 
+[geo-lat::51] 
+[name::Gangelt] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gangelt
-coordinates: [[Gangelt]]
-markerFile: [[Gangelt]]
+coordinates: [[Gangelt]] 
+markerFile: [[Gangelt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Gangelt|Gangelt]]] 
+- [[Gangelt|Gangelt]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Gangelt.internal|Gangelt.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Gangelt.protect|Gangelt.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Gangelt.private|Gangelt.private]] 

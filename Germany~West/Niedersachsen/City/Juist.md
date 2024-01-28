@@ -1,5 +1,5 @@
 ﻿---
-location: [53.68,7]
+location: [53.68,7] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7]
-[geo-lat::53.68]
-[name::Juist]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7] 
+[geo-lat::53.68] 
+[name::Juist] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Juist
-coordinates: [[Juist]]
-markerFile: [[Juist]]
+coordinates: [[Juist]] 
+markerFile: [[Juist]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Juist|Juist]]] 
+- [[Juist|Juist]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Juist.internal|Juist.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Juist.protect|Juist.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Juist.private|Juist.private]] 

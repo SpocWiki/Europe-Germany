@@ -1,5 +1,5 @@
 ﻿---
-location: [51.25,6.5]
+location: [51.25,6.5] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.5]
-[geo-lat::51.25]
-[name::Niederheide]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.5] 
+[geo-lat::51.25] 
+[name::Niederheide] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Niederheide
-coordinates: [[Niederheide]]
-markerFile: [[Niederheide]]
+coordinates: [[Niederheide]] 
+markerFile: [[Niederheide]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Niederheide|Niederheide]]] 
+- [[Niederheide|Niederheide]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Niederheide.internal|Niederheide.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Niederheide.protect|Niederheide.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Niederheide.private|Niederheide.private]] 

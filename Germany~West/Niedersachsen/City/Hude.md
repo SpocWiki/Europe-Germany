@@ -1,5 +1,5 @@
 ﻿---
-location: [53.13,8.45]
+location: [53.13,8.45] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.45]
-[geo-lat::53.13]
-[name::Hude]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.45] 
+[geo-lat::53.13] 
+[name::Hude] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hude
-coordinates: [[Hude]]
-markerFile: [[Hude]]
+coordinates: [[Hude]] 
+markerFile: [[Hude]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hude|Hude]]] 
+- [[Hude|Hude]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hude.internal|Hude.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hude.protect|Hude.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hude.private|Hude.private]] 

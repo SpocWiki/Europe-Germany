@@ -1,5 +1,5 @@
 ﻿---
-location: [49.8,12.17]
+location: [49.8,12.17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.17]
-[geo-lat::49.8]
-[name::Altenstadt~Oberpfalz]
-[Country::[[Germany]]]
-[State:[[Bayern]]]]
-[Population::]
-[Unknown::]
+[geo-lon::12.17] 
+[geo-lat::49.8] 
+[name::Altenstadt~Oberpfalz] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Altenstadt~Oberpfalz
-coordinates: [[Altenstadt~Oberpfalz]]
-markerFile: [[Altenstadt~Oberpfalz]]
+coordinates: [[Altenstadt~Oberpfalz]] 
+markerFile: [[Altenstadt~Oberpfalz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Altenstadt~Oberpfalz|Altenstadt~Oberpfalz]]] 
+- [[Altenstadt~Oberpfalz|Altenstadt~Oberpfalz]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Altenstadt~Oberpfalz.internal|Altenstadt~Oberpfalz.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Altenstadt~Oberpfalz.protect|Altenstadt~Oberpfalz.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Altenstadt~Oberpfalz.private|Altenstadt~Oberpfalz.private]] 

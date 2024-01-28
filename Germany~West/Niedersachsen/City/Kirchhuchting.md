@@ -1,5 +1,5 @@
 ﻿---
-location: [53.07,8.23]
+location: [53.07,8.23] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.23]
-[geo-lat::53.07]
-[name::Kirchhuchting]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.23] 
+[geo-lat::53.07] 
+[name::Kirchhuchting] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kirchhuchting
-coordinates: [[Kirchhuchting]]
-markerFile: [[Kirchhuchting]]
+coordinates: [[Kirchhuchting]] 
+markerFile: [[Kirchhuchting]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kirchhuchting|Kirchhuchting]]] 
+- [[Kirchhuchting|Kirchhuchting]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchhuchting.internal|Kirchhuchting.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchhuchting.protect|Kirchhuchting.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchhuchting.private|Kirchhuchting.private]] 

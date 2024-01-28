@@ -1,5 +1,5 @@
 ﻿---
-location: [53.75,12.37]
+location: [53.75,12.37] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.37]
-[geo-lat::53.75]
-[name::Lalendorf]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.37] 
+[geo-lat::53.75] 
+[name::Lalendorf] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lalendorf
-coordinates: [[Lalendorf]]
-markerFile: [[Lalendorf]]
+coordinates: [[Lalendorf]] 
+markerFile: [[Lalendorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

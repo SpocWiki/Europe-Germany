@@ -1,5 +1,5 @@
 ﻿---
-location: [48.55,10.87]
+location: [48.55,10.87] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.87]
-[geo-lat::48.55]
-[name::Meitingen]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.87] 
+[geo-lat::48.55] 
+[name::Meitingen] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Meitingen
-coordinates: [[Meitingen]]
-markerFile: [[Meitingen]]
+coordinates: [[Meitingen]] 
+markerFile: [[Meitingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Meitingen|Meitingen]]] 
+- [[Meitingen|Meitingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Meitingen.internal|Meitingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Meitingen.protect|Meitingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Meitingen.private|Meitingen.private]] 

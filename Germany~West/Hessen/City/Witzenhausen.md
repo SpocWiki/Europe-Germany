@@ -1,5 +1,5 @@
 ﻿---
-location: [51.35,9.87]
+location: [51.35,9.87] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.87]
-[geo-lat::51.35]
-[name::Witzenhausen]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.87] 
+[geo-lat::51.35] 
+[name::Witzenhausen] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Witzenhausen
-coordinates: [[Witzenhausen]]
-markerFile: [[Witzenhausen]]
+coordinates: [[Witzenhausen]] 
+markerFile: [[Witzenhausen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Witzenhausen|Witzenhausen]]] 
+- [[Witzenhausen|Witzenhausen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Witzenhausen.internal|Witzenhausen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Witzenhausen.protect|Witzenhausen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Witzenhausen.private|Witzenhausen.private]] 

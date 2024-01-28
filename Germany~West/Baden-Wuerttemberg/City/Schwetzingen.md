@@ -1,5 +1,5 @@
 ﻿---
-location: [49.38,8.58]
+location: [49.38,8.58] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.58]
-[geo-lat::49.38]
-[name::Schwetzingen]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.58] 
+[geo-lat::49.38] 
+[name::Schwetzingen] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schwetzingen
-coordinates: [[Schwetzingen]]
-markerFile: [[Schwetzingen]]
+coordinates: [[Schwetzingen]] 
+markerFile: [[Schwetzingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Schwetzingen|Schwetzingen]]] 
+- [[Schwetzingen|Schwetzingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwetzingen.internal|Schwetzingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwetzingen.protect|Schwetzingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwetzingen.private|Schwetzingen.private]] 

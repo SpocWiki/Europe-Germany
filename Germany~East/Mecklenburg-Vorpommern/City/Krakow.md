@@ -1,5 +1,5 @@
 ﻿---
-location: [53.65,12.28]
+location: [53.65,12.28] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.28]
-[geo-lat::53.65]
-[name::Krakow]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.28] 
+[geo-lat::53.65] 
+[name::Krakow] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Krakow
-coordinates: [[Krakow]]
-markerFile: [[Krakow]]
+coordinates: [[Krakow]] 
+markerFile: [[Krakow]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

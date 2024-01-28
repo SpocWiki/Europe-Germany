@@ -1,5 +1,5 @@
 ﻿---
-location: [52.58,13.33]
+location: [52.58,13.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.33]
-[geo-lat::52.58]
-[name::Reinickendorf]
-[Country::[[Germany]]]
-[State ::[[State~Berlin]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.33] 
+[geo-lat::52.58] 
+[name::Reinickendorf] 
+Country :: [[Germany]]  
+State :: [[State~Berlin]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Reinickendorf
-coordinates: [[Reinickendorf]]
-markerFile: [[Reinickendorf]]
+coordinates: [[Reinickendorf]] 
+markerFile: [[Reinickendorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Reinickendorf|Reinickendorf]]] 
+- [[Reinickendorf|Reinickendorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin/City/Reinickendorf.internal|Reinickendorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin/City/Reinickendorf.protect|Reinickendorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin/City/Reinickendorf.private|Reinickendorf.private]] 

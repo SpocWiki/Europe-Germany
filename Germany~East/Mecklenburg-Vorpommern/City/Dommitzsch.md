@@ -1,5 +1,5 @@
 ﻿---
-location: [53.63,12.88]
+location: [53.63,12.88] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.88]
-[geo-lat::53.63]
-[name::Dommitzsch]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.88] 
+[geo-lat::53.63] 
+[name::Dommitzsch] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Dommitzsch
-coordinates: [[Dommitzsch]]
-markerFile: [[Dommitzsch]]
+coordinates: [[Dommitzsch]] 
+markerFile: [[Dommitzsch]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

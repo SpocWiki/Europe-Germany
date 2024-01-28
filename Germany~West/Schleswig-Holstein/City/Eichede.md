@@ -1,5 +1,5 @@
 ﻿---
-location: [53.72,10.42]
+location: [53.72,10.42] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.42]
-[geo-lat::53.72]
-[name::Eichede]
-[Country::[[Germany]]]
-[State ::[[Schleswig-Holstein]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.42] 
+[geo-lat::53.72] 
+[name::Eichede] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Eichede
-coordinates: [[Eichede]]
-markerFile: [[Eichede]]
+coordinates: [[Eichede]] 
+markerFile: [[Eichede]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Eichede|Eichede]]] 
+- [[Eichede|Eichede]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eichede.internal|Eichede.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eichede.protect|Eichede.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eichede.private|Eichede.private]] 

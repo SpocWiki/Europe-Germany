@@ -1,5 +1,5 @@
 ﻿---
-location: [50.32,11.92]
+location: [50.32,11.92] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.92]
-[geo-lat::50.32]
-[name::Hof]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.92] 
+[geo-lat::50.32] 
+[name::Hof] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hof
-coordinates: [[Hof]]
-markerFile: [[Hof]]
+coordinates: [[Hof]] 
+markerFile: [[Hof]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hof|Hof]]] 
+- [[Hof|Hof]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hof.internal|Hof.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hof.protect|Hof.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hof.private|Hof.private]] 

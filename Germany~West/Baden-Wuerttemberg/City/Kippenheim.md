@@ -1,5 +1,5 @@
 ﻿---
-location: [48.3,7.83]
+location: [48.3,7.83] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.83]
-[geo-lat::48.3]
-[name::Kippenheim]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.83] 
+[geo-lat::48.3] 
+[name::Kippenheim] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kippenheim
-coordinates: [[Kippenheim]]
-markerFile: [[Kippenheim]]
+coordinates: [[Kippenheim]] 
+markerFile: [[Kippenheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kippenheim|Kippenheim]]] 
+- [[Kippenheim|Kippenheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kippenheim.internal|Kippenheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kippenheim.protect|Kippenheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kippenheim.private|Kippenheim.private]] 

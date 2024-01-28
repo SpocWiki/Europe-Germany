@@ -1,5 +1,5 @@
 ﻿---
-location: [48.63,10.5]
+location: [48.63,10.5] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.5]
-[geo-lat::48.63]
-[name::Bergheim~Dillingen]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.5] 
+[geo-lat::48.63] 
+[name::Bergheim~Dillingen] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Bergheim~Dillingen
-coordinates: [[Bergheim~Dillingen]]
-markerFile: [[Bergheim~Dillingen]]
+coordinates: [[Bergheim~Dillingen]] 
+markerFile: [[Bergheim~Dillingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Bergheim~Dillingen|Bergheim~Dillingen]]] 
+- [[Bergheim~Dillingen|Bergheim~Dillingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bergheim~Dillingen.internal|Bergheim~Dillingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bergheim~Dillingen.protect|Bergheim~Dillingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bergheim~Dillingen.private|Bergheim~Dillingen.private]] 

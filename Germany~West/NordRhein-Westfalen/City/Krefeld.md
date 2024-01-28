@@ -1,5 +1,5 @@
 ﻿---
-location: [51.33,6.56]
+location: [51.33,6.56] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.56]
-[geo-lat::51.33]
-[name::Krefeld]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.56] 
+[geo-lat::51.33] 
+[name::Krefeld] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Krefeld
-coordinates: [[Krefeld]]
-markerFile: [[Krefeld]]
+coordinates: [[Krefeld]] 
+markerFile: [[Krefeld]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Krefeld|Krefeld]]] 
+- [[Krefeld|Krefeld]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Krefeld.internal|Krefeld.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Krefeld.protect|Krefeld.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Krefeld.private|Krefeld.private]] 

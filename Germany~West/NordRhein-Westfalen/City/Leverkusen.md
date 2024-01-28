@@ -1,5 +1,5 @@
 ﻿---
-location: [51.03,6.98]
+location: [51.03,6.98] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.98]
-[geo-lat::51.03]
-[name::Leverkusen]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.98] 
+[geo-lat::51.03] 
+[name::Leverkusen] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Leverkusen
-coordinates: [[Leverkusen]]
-markerFile: [[Leverkusen]]
+coordinates: [[Leverkusen]] 
+markerFile: [[Leverkusen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Leverkusen|Leverkusen]]] 
+- [[Leverkusen|Leverkusen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Leverkusen.internal|Leverkusen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Leverkusen.protect|Leverkusen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Leverkusen.private|Leverkusen.private]] 

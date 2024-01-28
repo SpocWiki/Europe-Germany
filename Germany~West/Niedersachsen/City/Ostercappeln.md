@@ -1,5 +1,5 @@
 ﻿---
-location: [52.33,8.17]
+location: [52.33,8.17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.17]
-[geo-lat::52.33]
-[name::Ostercappeln]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.17] 
+[geo-lat::52.33] 
+[name::Ostercappeln] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ostercappeln
-coordinates: [[Ostercappeln]]
-markerFile: [[Ostercappeln]]
+coordinates: [[Ostercappeln]] 
+markerFile: [[Ostercappeln]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Ostercappeln|Ostercappeln]]] 
+- [[Ostercappeln|Ostercappeln]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ostercappeln.internal|Ostercappeln.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ostercappeln.protect|Ostercappeln.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ostercappeln.private|Ostercappeln.private]] 

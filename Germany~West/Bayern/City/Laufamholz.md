@@ -1,5 +1,5 @@
 ﻿---
-location: [49.45,11.18]
+location: [49.45,11.18] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.18]
-[geo-lat::49.45]
-[name::Laufamholz]
-[Country::[[Germany]]]
-[State:[[Bayern]]]]
-[Population::]
-[Unknown::]
+[geo-lon::11.18] 
+[geo-lat::49.45] 
+[name::Laufamholz] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Laufamholz
-coordinates: [[Laufamholz]]
-markerFile: [[Laufamholz]]
+coordinates: [[Laufamholz]] 
+markerFile: [[Laufamholz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Laufamholz|Laufamholz]]] 
+- [[Laufamholz|Laufamholz]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Laufamholz.internal|Laufamholz.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Laufamholz.protect|Laufamholz.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Laufamholz.private|Laufamholz.private]] 

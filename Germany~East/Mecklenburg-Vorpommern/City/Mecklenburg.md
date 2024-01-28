@@ -1,5 +1,5 @@
 ﻿---
-location: [53.87,11.45]
+location: [53.87,11.45] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.45]
-[geo-lat::53.87]
-[name::Mecklenburg]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.45] 
+[geo-lat::53.87] 
+[name::Mecklenburg] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mecklenburg
-coordinates: [[Mecklenburg]]
-markerFile: [[Mecklenburg]]
+coordinates: [[Mecklenburg]] 
+markerFile: [[Mecklenburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

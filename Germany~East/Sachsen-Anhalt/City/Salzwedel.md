@@ -1,5 +1,5 @@
 ﻿---
-location: [52.85,11.15]
+location: [52.85,11.15] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.15]
-[geo-lat::52.85]
-[name::Salzwedel]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.15] 
+[geo-lat::52.85] 
+[name::Salzwedel] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Salzwedel
-coordinates: [[Salzwedel]]
-markerFile: [[Salzwedel]]
+coordinates: [[Salzwedel]] 
+markerFile: [[Salzwedel]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

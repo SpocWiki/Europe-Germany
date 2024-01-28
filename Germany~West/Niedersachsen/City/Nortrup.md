@@ -1,5 +1,5 @@
 ﻿---
-location: [52.85,7.87]
+location: [52.85,7.87] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.87]
-[geo-lat::52.85]
-[name::Nortrup]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.87] 
+[geo-lat::52.85] 
+[name::Nortrup] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Nortrup
-coordinates: [[Nortrup]]
-markerFile: [[Nortrup]]
+coordinates: [[Nortrup]] 
+markerFile: [[Nortrup]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Nortrup|Nortrup]]] 
+- [[Nortrup|Nortrup]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nortrup.internal|Nortrup.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nortrup.protect|Nortrup.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nortrup.private|Nortrup.private]] 

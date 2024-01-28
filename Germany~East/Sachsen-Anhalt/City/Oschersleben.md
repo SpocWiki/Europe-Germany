@@ -1,5 +1,5 @@
 ﻿---
-location: [52.03,11.25]
+location: [52.03,11.25] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.25]
-[geo-lat::52.03]
-[name::Oschersleben]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.25] 
+[geo-lat::52.03] 
+[name::Oschersleben] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Oschersleben
-coordinates: [[Oschersleben]]
-markerFile: [[Oschersleben]]
+coordinates: [[Oschersleben]] 
+markerFile: [[Oschersleben]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

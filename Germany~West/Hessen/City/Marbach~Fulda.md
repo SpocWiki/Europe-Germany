@@ -1,5 +1,5 @@
 ﻿---
-location: [50.62,9.73]
+location: [50.62,9.73] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.73]
-[geo-lat::50.62]
-[name::Marbach~Fulda]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.73] 
+[geo-lat::50.62] 
+[name::Marbach~Fulda] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Marbach~Fulda
-coordinates: [[Marbach~Fulda]]
-markerFile: [[Marbach~Fulda]]
+coordinates: [[Marbach~Fulda]] 
+markerFile: [[Marbach~Fulda]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Marbach~Fulda|Marbach~Fulda]]] 
+- [[Marbach~Fulda|Marbach~Fulda]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Marbach~Fulda.internal|Marbach~Fulda.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Marbach~Fulda.protect|Marbach~Fulda.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Marbach~Fulda.private|Marbach~Fulda.private]] 

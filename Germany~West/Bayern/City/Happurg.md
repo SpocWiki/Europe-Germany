@@ -1,5 +1,5 @@
 ﻿---
-location: [49.5,11.48]
+location: [49.5,11.48] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.48]
-[geo-lat::49.5]
-[name::Happurg]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.48] 
+[geo-lat::49.5] 
+[name::Happurg] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Happurg
-coordinates: [[Happurg]]
-markerFile: [[Happurg]]
+coordinates: [[Happurg]] 
+markerFile: [[Happurg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Happurg|Happurg]]] 
+- [[Happurg|Happurg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Happurg.internal|Happurg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Happurg.protect|Happurg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Happurg.private|Happurg.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [50.35,9.25]
+location: [50.35,9.25] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.25]
-[geo-lat::50.35]
-[name::Birstein]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.25] 
+[geo-lat::50.35] 
+[name::Birstein] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Birstein
-coordinates: [[Birstein]]
-markerFile: [[Birstein]]
+coordinates: [[Birstein]] 
+markerFile: [[Birstein]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Birstein|Birstein]]] 
+- [[Birstein|Birstein]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Birstein.internal|Birstein.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Birstein.protect|Birstein.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Birstein.private|Birstein.private]] 

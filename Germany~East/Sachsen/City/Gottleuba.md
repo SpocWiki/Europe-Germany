@@ -1,5 +1,5 @@
 ﻿---
-location: [50.85,13.93]
+location: [50.85,13.93] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.93]
-[geo-lat::50.85]
-[name::Gottleuba]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.93] 
+[geo-lat::50.85] 
+[name::Gottleuba] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gottleuba
-coordinates: [[Gottleuba]]
-markerFile: [[Gottleuba]]
+coordinates: [[Gottleuba]] 
+markerFile: [[Gottleuba]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

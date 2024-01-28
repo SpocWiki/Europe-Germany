@@ -1,5 +1,5 @@
 ﻿---
-location: [54.53,13.55]
+location: [54.53,13.55] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.55]
-[geo-lat::54.53]
-[name::Sagard]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.55] 
+[geo-lat::54.53] 
+[name::Sagard] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Sagard
-coordinates: [[Sagard]]
-markerFile: [[Sagard]]
+coordinates: [[Sagard]] 
+markerFile: [[Sagard]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

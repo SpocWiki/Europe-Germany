@@ -1,5 +1,5 @@
 ﻿---
-location: [51.58,10.78]
+location: [51.58,10.78] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.78]
-[geo-lat::51.58]
-[name::Ilfeld]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.78] 
+[geo-lat::51.58] 
+[name::Ilfeld] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ilfeld
-coordinates: [[Ilfeld]]
-markerFile: [[Ilfeld]]
+coordinates: [[Ilfeld]] 
+markerFile: [[Ilfeld]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

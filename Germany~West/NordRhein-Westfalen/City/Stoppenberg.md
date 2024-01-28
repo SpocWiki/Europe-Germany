@@ -1,5 +1,5 @@
 ﻿---
-location: [51.48,7.03]
+location: [51.48,7.03] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.03]
-[geo-lat::51.48]
-[name::Stoppenberg]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.03] 
+[geo-lat::51.48] 
+[name::Stoppenberg] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Stoppenberg
-coordinates: [[Stoppenberg]]
-markerFile: [[Stoppenberg]]
+coordinates: [[Stoppenberg]] 
+markerFile: [[Stoppenberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Stoppenberg|Stoppenberg]]] 
+- [[Stoppenberg|Stoppenberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Stoppenberg.internal|Stoppenberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Stoppenberg.protect|Stoppenberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Stoppenberg.private|Stoppenberg.private]] 

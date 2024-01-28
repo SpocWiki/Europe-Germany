@@ -1,5 +1,5 @@
 ﻿---
-location: [53.54,9.99]
+location: [53.54,9.99] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,29 +12,29 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.99]
-[geo-lat::53.54]
+[geo-lon::9.99] 
+[geo-lat::53.54] 
 
-[name::Hamburg]
+[name::Hamburg] 
 
-[Country::[[Germany]]]
+Country :: [[Germany]]  
 
-[State:[[State~Hamburg]]]]
+State :: [[State~Hamburg]]  
 
-[Population::]
+[Population::] 
 
 
 ```leaflet
 id: Hamburg
-coordinates: [[Hamburg]]
-markerFile: [[Hamburg]]
+coordinates: [[Hamburg]] 
+markerFile: [[Hamburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hamburg|Hamburg]]] 
+- [[Hamburg|Hamburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Hamburg/City/Hamburg.internal|Hamburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Hamburg/City/Hamburg.protect|Hamburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Hamburg/City/Hamburg.private|Hamburg.private]] 

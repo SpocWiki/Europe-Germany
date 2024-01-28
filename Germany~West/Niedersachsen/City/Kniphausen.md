@@ -1,5 +1,5 @@
 ﻿---
-location: [53.55,8.05]
+location: [53.55,8.05] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.05]
-[geo-lat::53.55]
-[name::Kniphausen]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.05] 
+[geo-lat::53.55] 
+[name::Kniphausen] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kniphausen
-coordinates: [[Kniphausen]]
-markerFile: [[Kniphausen]]
+coordinates: [[Kniphausen]] 
+markerFile: [[Kniphausen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kniphausen|Kniphausen]]] 
+- [[Kniphausen|Kniphausen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kniphausen.internal|Kniphausen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kniphausen.protect|Kniphausen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kniphausen.private|Kniphausen.private]] 

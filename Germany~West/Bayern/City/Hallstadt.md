@@ -1,5 +1,5 @@
 ﻿---
-location: [49.93,10.88]
+location: [49.93,10.88] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.88]
-[geo-lat::49.93]
-[name::Hallstadt]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.88] 
+[geo-lat::49.93] 
+[name::Hallstadt] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hallstadt
-coordinates: [[Hallstadt]]
-markerFile: [[Hallstadt]]
+coordinates: [[Hallstadt]] 
+markerFile: [[Hallstadt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hallstadt|Hallstadt]]] 
+- [[Hallstadt|Hallstadt]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hallstadt.internal|Hallstadt.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hallstadt.protect|Hallstadt.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hallstadt.private|Hallstadt.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [52.62,12.35]
+location: [52.62,12.35] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.35]
-[geo-lat::52.62]
-[name::Rathenow]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.35] 
+[geo-lat::52.62] 
+[name::Rathenow] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Rathenow
-coordinates: [[Rathenow]]
-markerFile: [[Rathenow]]
+coordinates: [[Rathenow]] 
+markerFile: [[Rathenow]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

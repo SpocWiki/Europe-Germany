@@ -1,5 +1,5 @@
 ﻿---
-location: [51.58,9.78]
+location: [51.58,9.78] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.78]
-[geo-lat::51.58]
-[name::Loedingsen]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.78] 
+[geo-lat::51.58] 
+[name::Loedingsen] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Loedingsen
-coordinates: [[Loedingsen]]
-markerFile: [[Loedingsen]]
+coordinates: [[Loedingsen]] 
+markerFile: [[Loedingsen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Loedingsen|Loedingsen]]] 
+- [[Loedingsen|Loedingsen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Loedingsen.internal|Loedingsen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Loedingsen.protect|Loedingsen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Loedingsen.private|Loedingsen.private]] 

@@ -1,5 +1,5 @@
 ---
-location: [53.222,8.682]
+location: [53.222,8.682] 
 type: State
 SpocWebEntityId: 29332
 isDeleted: false
@@ -9,13 +9,13 @@ tags:
 
 ---
 
-[name::State~Bremen]
-[name-abbr::BN]
+[name::State~Bremen] 
+[name-abbr::BN] 
 
-![[Coat_of_arms_of_Bremen_greater.svg|350]]
+![[Coat_of_arms_of_Bremen_greater.svg|350]] 
 
 
-![[Flag_of_Bremen.svg|350]]
+![[Flag_of_Bremen.svg|350]] 
 
 ```leaflet
 id: State~Bremen
@@ -26,11 +26,11 @@ geojsonFolder: ./State~Bremen/
 markerFolder: ./State~Bremen/
 ```
 
-[Country::[[Germany]]]
-[ Capital :: [[Bremen]] ]
-[geo-lon::8.682]
-[geo-lat::53.222]
-[Population::]
+Country :: [[Germany]]  
+Capital ::  [[Bremen]] ] 
+[geo-lon::8.682] 
+[geo-lat::53.222] 
+[Population::] 
 
 
 

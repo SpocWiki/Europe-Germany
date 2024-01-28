@@ -1,5 +1,5 @@
 ﻿---
-location: [49.42,8.7]
+location: [49.42,8.7] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.7]
-[geo-lat::49.42]
-[name::Heidelberg]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.7] 
+[geo-lat::49.42] 
+[name::Heidelberg] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Heidelberg
-coordinates: [[Heidelberg]]
-markerFile: [[Heidelberg]]
+coordinates: [[Heidelberg]] 
+markerFile: [[Heidelberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Heidelberg|Heidelberg]]] 
+- [[Heidelberg|Heidelberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidelberg.internal|Heidelberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidelberg.protect|Heidelberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidelberg.private|Heidelberg.private]] 

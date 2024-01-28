@@ -1,5 +1,5 @@
 ﻿---
-location: [52.43,14.53]
+location: [52.43,14.53] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.53]
-[geo-lat::52.43]
-[name::Lebus]
-[Country::[[Germany]]]
-[State:[[Brandenburg]]]]
-[Population::]
-[Unknown::]
+[geo-lon::14.53] 
+[geo-lat::52.43] 
+[name::Lebus] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lebus
-coordinates: [[Lebus]]
-markerFile: [[Lebus]]
+coordinates: [[Lebus]] 
+markerFile: [[Lebus]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

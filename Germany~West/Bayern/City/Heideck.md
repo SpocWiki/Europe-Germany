@@ -1,5 +1,5 @@
 ﻿---
-location: [49.15,11.13]
+location: [49.15,11.13] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.13]
-[geo-lat::49.15]
-[name::Heideck]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.13] 
+[geo-lat::49.15] 
+[name::Heideck] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Heideck
-coordinates: [[Heideck]]
-markerFile: [[Heideck]]
+coordinates: [[Heideck]] 
+markerFile: [[Heideck]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Heideck|Heideck]]] 
+- [[Heideck|Heideck]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Heideck.internal|Heideck.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Heideck.protect|Heideck.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Heideck.private|Heideck.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [52.12,10.68]
+location: [52.12,10.68] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.68]
-[geo-lat::52.12]
-[name::Remlingen]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.68] 
+[geo-lat::52.12] 
+[name::Remlingen] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Remlingen
-coordinates: [[Remlingen]]
-markerFile: [[Remlingen]]
+coordinates: [[Remlingen]] 
+markerFile: [[Remlingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Remlingen|Remlingen]]] 
+- [[Remlingen|Remlingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Remlingen.internal|Remlingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Remlingen.protect|Remlingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Remlingen.private|Remlingen.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [51.87,13.38]
+location: [51.87,13.38] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.38]
-[geo-lat::51.87]
-[name::Niendorf]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.38] 
+[geo-lat::51.87] 
+[name::Niendorf] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Niendorf
-coordinates: [[Niendorf]]
-markerFile: [[Niendorf]]
+coordinates: [[Niendorf]] 
+markerFile: [[Niendorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

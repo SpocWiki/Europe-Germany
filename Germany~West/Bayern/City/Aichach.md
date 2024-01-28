@@ -1,5 +1,5 @@
 ﻿---
-location: [48.47,11.13]
+location: [48.47,11.13] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.13]
-[geo-lat::48.47]
-[name::Aichach]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.13] 
+[geo-lat::48.47] 
+[name::Aichach] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Aichach
-coordinates: [[Aichach]]
-markerFile: [[Aichach]]
+coordinates: [[Aichach]] 
+markerFile: [[Aichach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Aichach|Aichach]]] 
+- [[Aichach|Aichach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Aichach.internal|Aichach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Aichach.protect|Aichach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Aichach.private|Aichach.private]] 

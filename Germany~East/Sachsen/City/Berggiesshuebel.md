@@ -1,5 +1,5 @@
 ﻿---
-location: [50.88,14]
+location: [50.88,14] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14]
-[geo-lat::50.88]
-[name::Berggiesshuebel]
-[Country::[[Germany]]]
-[State:[[Sachsen]]]]
-[Population::]
-[Unknown::]
+[geo-lon::14] 
+[geo-lat::50.88] 
+[name::Berggiesshuebel] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Berggiesshuebel
-coordinates: [[Berggiesshuebel]]
-markerFile: [[Berggiesshuebel]]
+coordinates: [[Berggiesshuebel]] 
+markerFile: [[Berggiesshuebel]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

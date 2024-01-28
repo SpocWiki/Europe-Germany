@@ -1,5 +1,5 @@
 ﻿---
-location: [53.95,13.85]
+location: [53.95,13.85] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.85]
-[geo-lat::53.95]
-[name::Lassan]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.85] 
+[geo-lat::53.95] 
+[name::Lassan] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lassan
-coordinates: [[Lassan]]
-markerFile: [[Lassan]]
+coordinates: [[Lassan]] 
+markerFile: [[Lassan]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

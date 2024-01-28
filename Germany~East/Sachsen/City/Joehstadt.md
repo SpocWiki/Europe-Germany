@@ -1,5 +1,5 @@
 ﻿---
-location: [50.52,13.08]
+location: [50.52,13.08] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.08]
-[geo-lat::50.52]
-[name::Joehstadt]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.08] 
+[geo-lat::50.52] 
+[name::Joehstadt] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Joehstadt
-coordinates: [[Joehstadt]]
-markerFile: [[Joehstadt]]
+coordinates: [[Joehstadt]] 
+markerFile: [[Joehstadt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

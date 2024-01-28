@@ -1,5 +1,5 @@
 ﻿---
-location: [48,11.98]
+location: [48,11.98] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.98]
-[geo-lat::48]
-[name::Assling]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.98] 
+[geo-lat::48] 
+[name::Assling] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Assling
-coordinates: [[Assling]]
-markerFile: [[Assling]]
+coordinates: [[Assling]] 
+markerFile: [[Assling]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Assling|Assling]]] 
+- [[Assling|Assling]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Assling.internal|Assling.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Assling.protect|Assling.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Assling.private|Assling.private]] 

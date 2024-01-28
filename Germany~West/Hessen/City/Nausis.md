@@ -1,5 +1,5 @@
 ﻿---
-location: [50.83,9.38]
+location: [50.83,9.38] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.38]
-[geo-lat::50.83]
-[name::Nausis]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.38] 
+[geo-lat::50.83] 
+[name::Nausis] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Nausis
-coordinates: [[Nausis]]
-markerFile: [[Nausis]]
+coordinates: [[Nausis]] 
+markerFile: [[Nausis]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Nausis|Nausis]]] 
+- [[Nausis|Nausis]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Nausis.internal|Nausis.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Nausis.protect|Nausis.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Nausis.private|Nausis.private]] 

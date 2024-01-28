@@ -1,5 +1,5 @@
 ---
-location: [54.1593,9.87324]
+location: [54.1593,9.87324] 
 type: State
 ISO3166-2: DE-SH
 SpocWebEntityId: 36025
@@ -9,13 +9,13 @@ tags:
 - geo/State
 
 ---
-[name::Schleswig-Holstein]
+[name::Schleswig-Holstein] 
 
-[name-abbr::SG]
+[name-abbr::SG] 
 
-![[Coat_of_arms_of_Schleswig-Holstein.svg|350]]
+![[Coat_of_arms_of_Schleswig-Holstein.svg|350]] 
 
-![[Flag_of_Schleswig-Holstein.svg|350]]
+![[Flag_of_Schleswig-Holstein.svg|350]] 
 
 
 ```leaflet
@@ -27,16 +27,16 @@ geojsonFolder: ./Schleswig-Holstein/
 markerFolder: ./Schleswig-Holstein/
 ```
 
-[Country::[[Germany]]]
-[ Capital ::[[Kiel]]] ]
-[geo-lon::9.87324]
-[geo-lat::54.1593]
-[Population::]
+Country :: [[Germany]]  
+Capital :: [[Kiel]]  
+[geo-lon::9.87324] 
+[geo-lat::54.1593] 
+[Population::] 
 
 
 
 ## Confidential Links & Embeds: 
--[[Schleswig-Holstein|Schleswig-Holstein]]] 
+- [[Schleswig-Holstein|Schleswig-Holstein]]  
 - [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein.internal|Schleswig-Holstein.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein.protect|Schleswig-Holstein.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein.private|Schleswig-Holstein.private]] 

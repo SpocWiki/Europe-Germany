@@ -1,5 +1,5 @@
 ﻿---
-location: [50.2,10.27]
+location: [50.2,10.27] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.27]
-[geo-lat::50.2]
-[name::Massbach]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.27] 
+[geo-lat::50.2] 
+[name::Massbach] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Massbach
-coordinates: [[Massbach]]
-markerFile: [[Massbach]]
+coordinates: [[Massbach]] 
+markerFile: [[Massbach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Massbach|Massbach]]] 
+- [[Massbach|Massbach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Massbach.internal|Massbach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Massbach.protect|Massbach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Massbach.private|Massbach.private]] 

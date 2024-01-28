@@ -1,5 +1,5 @@
 ﻿---
-location: [52.25,7.95]
+location: [52.25,7.95] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.95]
-[geo-lat::52.25]
-[name::Hasbergen]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.95] 
+[geo-lat::52.25] 
+[name::Hasbergen] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hasbergen
-coordinates: [[Hasbergen]]
-markerFile: [[Hasbergen]]
+coordinates: [[Hasbergen]] 
+markerFile: [[Hasbergen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hasbergen|Hasbergen]]] 
+- [[Hasbergen|Hasbergen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hasbergen.internal|Hasbergen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hasbergen.protect|Hasbergen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hasbergen.private|Hasbergen.private]] 

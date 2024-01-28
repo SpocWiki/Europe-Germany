@@ -1,5 +1,5 @@
 ﻿---
-location: [48.83,12.92]
+location: [48.83,12.92] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.92]
-[geo-lat::48.83]
-[name::Natternberg]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.92] 
+[geo-lat::48.83] 
+[name::Natternberg] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Natternberg
-coordinates: [[Natternberg]]
-markerFile: [[Natternberg]]
+coordinates: [[Natternberg]] 
+markerFile: [[Natternberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Natternberg|Natternberg]]] 
+- [[Natternberg|Natternberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Natternberg.internal|Natternberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Natternberg.protect|Natternberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Natternberg.private|Natternberg.private]] 

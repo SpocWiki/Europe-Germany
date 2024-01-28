@@ -1,5 +1,5 @@
 ﻿---
-location: [52.55,13.5]
+location: [52.55,13.5] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.5]
-[geo-lat::52.55]
-[name::Heinersdorf]
-[Country::[[Germany]]]
-[State ::[[State~Berlin]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.5] 
+[geo-lat::52.55] 
+[name::Heinersdorf] 
+Country :: [[Germany]]  
+State :: [[State~Berlin]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Heinersdorf
-coordinates: [[Heinersdorf]]
-markerFile: [[Heinersdorf]]
+coordinates: [[Heinersdorf]] 
+markerFile: [[Heinersdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Heinersdorf|Heinersdorf]]] 
+- [[Heinersdorf|Heinersdorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin/City/Heinersdorf.internal|Heinersdorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin/City/Heinersdorf.protect|Heinersdorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin/City/Heinersdorf.private|Heinersdorf.private]] 

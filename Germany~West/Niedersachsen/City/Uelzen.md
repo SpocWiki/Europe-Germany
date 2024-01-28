@@ -1,5 +1,5 @@
 ﻿---
-location: [52.96,10.56]
+location: [52.96,10.56] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,17 +12,17 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.56]
-[geo-lat::52.96]
-[name::Uelzen]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.56] 
+[geo-lat::52.96] 
+[name::Uelzen] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 ```leaflet
 id: Uelzen
-coordinates: [[Uelzen]]
+coordinates: [[Uelzen]] 
 defaultZoom: 12 
 maxZoom: 18
 ```
@@ -31,15 +31,15 @@ maxZoom: 18
 
 ```leaflet
 id: Uelzen
-coordinates: [[Uelzen]]
-markerFile: [[Uelzen]]
+coordinates: [[Uelzen]] 
+markerFile: [[Uelzen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Uelzen|Uelzen]]] 
+- [[Uelzen|Uelzen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Uelzen.internal|Uelzen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Uelzen.protect|Uelzen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Uelzen.private|Uelzen.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [53.93,13.17]
+location: [53.93,13.17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.17]
-[geo-lat::53.93]
-[name::Jarmen]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.17] 
+[geo-lat::53.93] 
+[name::Jarmen] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Jarmen
-coordinates: [[Jarmen]]
-markerFile: [[Jarmen]]
+coordinates: [[Jarmen]] 
+markerFile: [[Jarmen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

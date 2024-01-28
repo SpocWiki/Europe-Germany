@@ -1,5 +1,5 @@
 ﻿---
-location: [54.8,8.82]
+location: [54.8,8.82] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.82]
-[geo-lat::54.8]
-[name::Niebuehl]
-[Country::[[Germany]]]
-[State ::[[Schleswig-Holstein]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.82] 
+[geo-lat::54.8] 
+[name::Niebuehl] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Niebuehl
-coordinates: [[Niebuehl]]
-markerFile: [[Niebuehl]]
+coordinates: [[Niebuehl]] 
+markerFile: [[Niebuehl]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Niebuehl|Niebuehl]]] 
+- [[Niebuehl|Niebuehl]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Niebuehl.internal|Niebuehl.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Niebuehl.protect|Niebuehl.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Niebuehl.private|Niebuehl.private]] 

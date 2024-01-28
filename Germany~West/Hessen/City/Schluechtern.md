@@ -1,5 +1,5 @@
 ﻿---
-location: [50.35,9.53]
+location: [50.35,9.53] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.53]
-[geo-lat::50.35]
-[name::Schluechtern]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.53] 
+[geo-lat::50.35] 
+[name::Schluechtern] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schluechtern
-coordinates: [[Schluechtern]]
-markerFile: [[Schluechtern]]
+coordinates: [[Schluechtern]] 
+markerFile: [[Schluechtern]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Schluechtern|Schluechtern]]] 
+- [[Schluechtern|Schluechtern]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Schluechtern.internal|Schluechtern.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Schluechtern.protect|Schluechtern.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Schluechtern.private|Schluechtern.private]] 

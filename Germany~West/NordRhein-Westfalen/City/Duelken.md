@@ -1,5 +1,5 @@
 ﻿---
-location: [51.25,6.33]
+location: [51.25,6.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.33]
-[geo-lat::51.25]
-[name::Duelken]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.33] 
+[geo-lat::51.25] 
+[name::Duelken] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Duelken
-coordinates: [[Duelken]]
-markerFile: [[Duelken]]
+coordinates: [[Duelken]] 
+markerFile: [[Duelken]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Duelken|Duelken]]] 
+- [[Duelken|Duelken]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Duelken.internal|Duelken.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Duelken.protect|Duelken.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Duelken.private|Duelken.private]] 

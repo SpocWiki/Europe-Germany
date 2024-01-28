@@ -1,5 +1,5 @@
 ﻿---
-location: [50,8.82]
+location: [50,8.82] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.82]
-[geo-lat::50]
-[name::Dreieichenhain]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.82] 
+[geo-lat::50] 
+[name::Dreieichenhain] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Dreieichenhain
-coordinates: [[Dreieichenhain]]
-markerFile: [[Dreieichenhain]]
+coordinates: [[Dreieichenhain]] 
+markerFile: [[Dreieichenhain]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Dreieichenhain|Dreieichenhain]]] 
+- [[Dreieichenhain|Dreieichenhain]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Dreieichenhain.internal|Dreieichenhain.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Dreieichenhain.protect|Dreieichenhain.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Dreieichenhain.private|Dreieichenhain.private]] 

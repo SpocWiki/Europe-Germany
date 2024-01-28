@@ -1,5 +1,5 @@
 ---
-location: [53.7906,12.5967]
+location: [53.7906,12.5967] 
 type: State
 ISO3166-2: DE-MV
 SpocWebEntityId: 36018
@@ -9,10 +9,10 @@ tags:
 - geo/State
 
 ---
-[name::Mecklenburg-Vorpommern]
-[name-abbr::MV]
-![[Coat_of_arms_of_Mecklenburg-Western_Pomerania_(great).svg|350]] ]
-![[Flag_of_Mecklenburg-Western_Pomerania.svg|350]] ]
+[name::Mecklenburg-Vorpommern] 
+[name-abbr::MV] 
+![[Coat_of_arms_of_Mecklenburg-Western_Pomerania_(great).svg|350]] ] 
+![[Flag_of_Mecklenburg-Western_Pomerania.svg|350]] ] 
 
 ```leaflet
 id: Mecklenburg-Vorpommern
@@ -23,11 +23,11 @@ geojsonFolder: ./Mecklenburg-Vorpommern/
 markerFolder: ./Mecklenburg-Vorpommern/
 ```
 
-[Country::[[Germany]]]
-[Capital :: [[Schwerin]] ]]
-[geo-lon::12.5967]
-[geo-lat::53.7906]
-[Population::]
+Country :: [[Germany]]  
+Capital :: [[Schwerin]] ]] 
+[geo-lon::12.5967] 
+[geo-lat::53.7906] 
+[Population::] 
 
 
 

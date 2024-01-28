@@ -1,5 +1,5 @@
 ﻿---
-location: [50.82,13]
+location: [50.82,13] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13]
-[geo-lat::50.82]
-[name::Augustusburg]
-[Country::[[Germany]]]
-[State:[[Sachsen]]]]
-[Population::]
-[Unknown::]
+[geo-lon::13] 
+[geo-lat::50.82] 
+[name::Augustusburg] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Augustusburg
-coordinates: [[Augustusburg]]
-markerFile: [[Augustusburg]]
+coordinates: [[Augustusburg]] 
+markerFile: [[Augustusburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

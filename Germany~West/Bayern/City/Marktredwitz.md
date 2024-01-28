@@ -1,5 +1,5 @@
 ﻿---
-location: [50,12.08]
+location: [50,12.08] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.08]
-[geo-lat::50]
-[name::Marktredwitz]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.08] 
+[geo-lat::50] 
+[name::Marktredwitz] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Marktredwitz
-coordinates: [[Marktredwitz]]
-markerFile: [[Marktredwitz]]
+coordinates: [[Marktredwitz]] 
+markerFile: [[Marktredwitz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Marktredwitz|Marktredwitz]]] 
+- [[Marktredwitz|Marktredwitz]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Marktredwitz.internal|Marktredwitz.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Marktredwitz.protect|Marktredwitz.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Marktredwitz.private|Marktredwitz.private]] 

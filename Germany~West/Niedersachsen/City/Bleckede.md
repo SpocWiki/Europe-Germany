@@ -1,5 +1,5 @@
 ﻿---
-location: [53.28,10.73]
+location: [53.28,10.73] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.73]
-[geo-lat::53.28]
-[name::Bleckede]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.73] 
+[geo-lat::53.28] 
+[name::Bleckede] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Bleckede
-coordinates: [[Bleckede]]
-markerFile: [[Bleckede]]
+coordinates: [[Bleckede]] 
+markerFile: [[Bleckede]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Bleckede|Bleckede]]] 
+- [[Bleckede|Bleckede]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bleckede.internal|Bleckede.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bleckede.protect|Bleckede.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bleckede.private|Bleckede.private]] 

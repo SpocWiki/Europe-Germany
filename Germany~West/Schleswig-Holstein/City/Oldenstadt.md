@@ -1,5 +1,5 @@
 ﻿---
-location: [53.98,10.58]
+location: [53.98,10.58] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.58]
-[geo-lat::53.98]
-[name::Oldenstadt]
-[Country::[[Germany]]]
-[State ::[[Schleswig-Holstein]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.58] 
+[geo-lat::53.98] 
+[name::Oldenstadt] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Oldenstadt
-coordinates: [[Oldenstadt]]
-markerFile: [[Oldenstadt]]
+coordinates: [[Oldenstadt]] 
+markerFile: [[Oldenstadt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Oldenstadt|Oldenstadt]]] 
+- [[Oldenstadt|Oldenstadt]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenstadt.internal|Oldenstadt.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenstadt.protect|Oldenstadt.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenstadt.private|Oldenstadt.private]] 

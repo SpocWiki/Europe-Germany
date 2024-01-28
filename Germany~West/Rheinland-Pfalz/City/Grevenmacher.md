@@ -1,5 +1,5 @@
 ﻿---
-location: [49.67,6.45]
+location: [49.67,6.45] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.45]
-[geo-lat::49.67]
-[name::Grevenmacher]
-[State::]
-[Country[[geo/Continent/Europe/Europe~West/Luxembourg]]]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::6.45] 
+[geo-lat::49.67] 
+[name::Grevenmacher] 
+State ::  
+Country :: [[geo/Continent/Europe/Europe~West/Luxembourg]] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Grevenmacher
-coordinates: [[Grevenmacher]]
-markerFile: [[Grevenmacher]]
+coordinates: [[Grevenmacher]] 
+markerFile: [[Grevenmacher]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

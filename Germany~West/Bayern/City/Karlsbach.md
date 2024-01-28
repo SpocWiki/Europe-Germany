@@ -1,5 +1,5 @@
 ﻿---
-location: [48.76,13.59]
+location: [48.76,13.59] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.59]
-[geo-lat::48.76]
-[name::Karlsbach]
-[Country::[[Germany]]]
-[State:[[Bayern]]]]
-[Population::]
-[Unknown::]
+[geo-lon::13.59] 
+[geo-lat::48.76] 
+[name::Karlsbach] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Karlsbach
-coordinates: [[Karlsbach]]
-markerFile: [[Karlsbach]]
+coordinates: [[Karlsbach]] 
+markerFile: [[Karlsbach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Karlsbach|Karlsbach]]] 
+- [[Karlsbach|Karlsbach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Karlsbach.internal|Karlsbach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Karlsbach.protect|Karlsbach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Karlsbach.private|Karlsbach.private]] 

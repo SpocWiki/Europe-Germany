@@ -1,5 +1,5 @@
 ﻿---
-location: [48.45,8.7]
+location: [48.45,8.7] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.7]
-[geo-lat::48.45]
-[name::Horb]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.7] 
+[geo-lat::48.45] 
+[name::Horb] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Horb
-coordinates: [[Horb]]
-markerFile: [[Horb]]
+coordinates: [[Horb]] 
+markerFile: [[Horb]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Horb|Horb]]] 
+- [[Horb|Horb]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Horb.internal|Horb.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Horb.protect|Horb.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Horb.private|Horb.private]] 

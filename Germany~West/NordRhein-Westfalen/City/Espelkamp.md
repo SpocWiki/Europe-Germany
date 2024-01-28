@@ -1,5 +1,5 @@
 ﻿---
-location: [52.4,8.4]
+location: [52.4,8.4] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.4]
-[geo-lat::52.4]
-[name::Espelkamp]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.4] 
+[geo-lat::52.4] 
+[name::Espelkamp] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Espelkamp
-coordinates: [[Espelkamp]]
-markerFile: [[Espelkamp]]
+coordinates: [[Espelkamp]] 
+markerFile: [[Espelkamp]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Espelkamp|Espelkamp]]] 
+- [[Espelkamp|Espelkamp]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Espelkamp.internal|Espelkamp.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Espelkamp.protect|Espelkamp.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Espelkamp.private|Espelkamp.private]] 

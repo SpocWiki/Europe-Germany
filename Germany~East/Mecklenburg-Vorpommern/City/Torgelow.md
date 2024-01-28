@@ -1,5 +1,5 @@
 ﻿---
-location: [53.63,14.03]
+location: [53.63,14.03] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.03]
-[geo-lat::53.63]
-[name::Torgelow]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::14.03] 
+[geo-lat::53.63] 
+[name::Torgelow] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Torgelow
-coordinates: [[Torgelow]]
-markerFile: [[Torgelow]]
+coordinates: [[Torgelow]] 
+markerFile: [[Torgelow]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

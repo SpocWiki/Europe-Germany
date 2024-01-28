@@ -1,5 +1,5 @@
 ﻿---
-location: [52.13,8.83]
+location: [52.13,8.83] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.83]
-[geo-lat::52.13]
-[name::Exter]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.83] 
+[geo-lat::52.13] 
+[name::Exter] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Exter
-coordinates: [[Exter]]
-markerFile: [[Exter]]
+coordinates: [[Exter]] 
+markerFile: [[Exter]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Exter|Exter]]] 
+- [[Exter|Exter]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Exter.internal|Exter.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Exter.protect|Exter.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Exter.private|Exter.private]] 

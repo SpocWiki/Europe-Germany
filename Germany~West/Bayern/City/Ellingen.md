@@ -1,5 +1,5 @@
 ﻿---
-location: [49.07,10.97]
+location: [49.07,10.97] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.97]
-[geo-lat::49.07]
-[name::Ellingen]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.97] 
+[geo-lat::49.07] 
+[name::Ellingen] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ellingen
-coordinates: [[Ellingen]]
-markerFile: [[Ellingen]]
+coordinates: [[Ellingen]] 
+markerFile: [[Ellingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Ellingen|Ellingen]]] 
+- [[Ellingen|Ellingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Ellingen.internal|Ellingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Ellingen.protect|Ellingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Ellingen.private|Ellingen.private]] 

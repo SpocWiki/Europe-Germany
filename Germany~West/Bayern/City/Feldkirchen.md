@@ -1,5 +1,5 @@
 ﻿---
-location: [48.13,11.73]
+location: [48.13,11.73] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.73]
-[geo-lat::48.13]
-[name::Feldkirchen]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.73] 
+[geo-lat::48.13] 
+[name::Feldkirchen] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Feldkirchen
-coordinates: [[Feldkirchen]]
-markerFile: [[Feldkirchen]]
+coordinates: [[Feldkirchen]] 
+markerFile: [[Feldkirchen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Feldkirchen|Feldkirchen]]] 
+- [[Feldkirchen|Feldkirchen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Feldkirchen.internal|Feldkirchen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Feldkirchen.protect|Feldkirchen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Feldkirchen.private|Feldkirchen.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [47.96,7.93]
+location: [47.96,7.93] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.93]
-[geo-lat::47.96]
-[name::Kirchzarten]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.93] 
+[geo-lat::47.96] 
+[name::Kirchzarten] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kirchzarten
-coordinates: [[Kirchzarten]]
-markerFile: [[Kirchzarten]]
+coordinates: [[Kirchzarten]] 
+markerFile: [[Kirchzarten]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kirchzarten|Kirchzarten]]] 
+- [[Kirchzarten|Kirchzarten]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kirchzarten.internal|Kirchzarten.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kirchzarten.protect|Kirchzarten.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kirchzarten.private|Kirchzarten.private]] 

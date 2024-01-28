@@ -1,5 +1,5 @@
 ---
-location: [50.13795,8.624487]
+location: [50.13795,8.624487] 
 type: Station 
 mapzoom: [8,18] 
 mapmarker: subway 
@@ -7,24 +7,24 @@ tags:
 - geo/station/subway
 ---
 SpocWebEntityId: 156262
-[StationUId::33]
+[StationUId::33] 
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.624487]
-[geo-lat::50.13795]
-[name::Hausen]
-[Country::[[Germany]]]
-[City:[[Frankfurt~Main]] ]
-[switch-to-SPNV::-]
-[switch-to-ÖPNV::72, 73]
+[geo-lon::8.624487] 
+[geo-lat::50.13795] 
+[name::Hausen] 
+Country :: [[Germany]]  
+City :: [[Frankfurt~Main]] ] 
+[switch-to-SPNV::-] 
+[switch-to-ÖPNV::72, 73] 
 
 Endstation der U7; Stadtbahnstation in Mittellage einer Straße
 
 ```leaflet
 id: U-Hausen.md
-coordinates: [[U-Hausen]]
-markerFile: [[U-Hausen]]
+coordinates: [[U-Hausen]] 
+markerFile: [[U-Hausen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

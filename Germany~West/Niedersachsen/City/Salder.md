@@ -1,5 +1,5 @@
 ﻿---
-location: [52.15,10.32]
+location: [52.15,10.32] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.32]
-[geo-lat::52.15]
-[name::Salder]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.32] 
+[geo-lat::52.15] 
+[name::Salder] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Salder
-coordinates: [[Salder]]
-markerFile: [[Salder]]
+coordinates: [[Salder]] 
+markerFile: [[Salder]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Salder|Salder]]] 
+- [[Salder|Salder]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salder.internal|Salder.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salder.protect|Salder.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salder.private|Salder.private]] 

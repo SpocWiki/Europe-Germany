@@ -1,5 +1,5 @@
 ﻿---
-location: [54.42,9.52]
+location: [54.42,9.52] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.52]
-[geo-lat::54.42]
-[name::Kropp]
-[Country::[[Germany]]]
-[State ::[[Schleswig-Holstein]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.52] 
+[geo-lat::54.42] 
+[name::Kropp] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kropp
-coordinates: [[Kropp]]
-markerFile: [[Kropp]]
+coordinates: [[Kropp]] 
+markerFile: [[Kropp]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kropp|Kropp]]] 
+- [[Kropp|Kropp]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kropp.internal|Kropp.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kropp.protect|Kropp.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kropp.private|Kropp.private]] 

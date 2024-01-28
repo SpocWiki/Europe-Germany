@@ -1,5 +1,5 @@
 ﻿---
-location: [54.42,13.43]
+location: [54.42,13.43] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.43]
-[geo-lat::54.42]
-[name::Bergen~Ruegen]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.43] 
+[geo-lat::54.42] 
+[name::Bergen~Ruegen] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Bergen~Ruegen
-coordinates: [[Bergen~Ruegen]]
-markerFile: [[Bergen~Ruegen]]
+coordinates: [[Bergen~Ruegen]] 
+markerFile: [[Bergen~Ruegen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

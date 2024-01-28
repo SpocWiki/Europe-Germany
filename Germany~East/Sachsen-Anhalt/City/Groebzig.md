@@ -1,5 +1,5 @@
 ﻿---
-location: [51.68,11.87]
+location: [51.68,11.87] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.87]
-[geo-lat::51.68]
-[name::Groebzig]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.87] 
+[geo-lat::51.68] 
+[name::Groebzig] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Groebzig
-coordinates: [[Groebzig]]
-markerFile: [[Groebzig]]
+coordinates: [[Groebzig]] 
+markerFile: [[Groebzig]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

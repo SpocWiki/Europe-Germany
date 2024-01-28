@@ -1,5 +1,5 @@
 ﻿---
-location: [50.92,12.97]
+location: [50.92,12.97] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.97]
-[geo-lat::50.92]
-[name::Ottendorf]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.97] 
+[geo-lat::50.92] 
+[name::Ottendorf] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ottendorf
-coordinates: [[Ottendorf]]
-markerFile: [[Ottendorf]]
+coordinates: [[Ottendorf]] 
+markerFile: [[Ottendorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

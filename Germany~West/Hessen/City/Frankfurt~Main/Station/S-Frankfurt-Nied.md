@@ -1,5 +1,5 @@
 ---
-location: [50.10276,8.569982]
+location: [50.10276,8.569982] 
 type: Station 
 mapzoom: [8,18] 
 mapmarker: train 
@@ -10,17 +10,17 @@ SpocWebEntityId: 156367
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.569982]
-[geo-lat::50.10276]
-[name::Frankfurt-Nied]
-[Country::[[Germany]]]
-[City:[[Frankfurt~Main]] ]
+[geo-lon::8.569982] 
+[geo-lat::50.10276] 
+[name::Frankfurt-Nied] 
+Country :: [[Germany]]  
+City :: [[Frankfurt~Main]] ] 
 
 
 ```leaflet
 id: S-Frankfurt-Nied.md
-coordinates: [[S-Frankfurt-Nied]]
-markerFile: [[S-Frankfurt-Nied]]
+coordinates: [[S-Frankfurt-Nied]] 
+markerFile: [[S-Frankfurt-Nied]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [51.43,7.23]
+location: [51.43,7.23] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.23]
-[geo-lat::51.43]
-[name::Mittel-Stiepel]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.23] 
+[geo-lat::51.43] 
+[name::Mittel-Stiepel] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mittel-Stiepel
-coordinates: [[Mittel-Stiepel]]
-markerFile: [[Mittel-Stiepel]]
+coordinates: [[Mittel-Stiepel]] 
+markerFile: [[Mittel-Stiepel]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Mittel-Stiepel|Mittel-Stiepel]]] 
+- [[Mittel-Stiepel|Mittel-Stiepel]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mittel-Stiepel.internal|Mittel-Stiepel.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mittel-Stiepel.protect|Mittel-Stiepel.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mittel-Stiepel.private|Mittel-Stiepel.private]] 

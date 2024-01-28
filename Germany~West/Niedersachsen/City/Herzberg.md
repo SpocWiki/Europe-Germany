@@ -1,5 +1,5 @@
 ﻿---
-location: [51.65,10.33]
+location: [51.65,10.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.33]
-[geo-lat::51.65]
-[name::Herzberg]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.33] 
+[geo-lat::51.65] 
+[name::Herzberg] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Herzberg
-coordinates: [[Herzberg]]
-markerFile: [[Herzberg]]
+coordinates: [[Herzberg]] 
+markerFile: [[Herzberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Herzberg|Herzberg]]] 
+- [[Herzberg|Herzberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Herzberg.internal|Herzberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Herzberg.protect|Herzberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Herzberg.private|Herzberg.private]] 

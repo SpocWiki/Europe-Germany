@@ -1,5 +1,5 @@
 ﻿---
-location: [52.63,9.25]
+location: [52.63,9.25] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.25]
-[geo-lat::52.63]
-[name::Nienburg~Weser]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.25] 
+[geo-lat::52.63] 
+[name::Nienburg~Weser] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Nienburg~Weser
-coordinates: [[Nienburg~Weser]]
-markerFile: [[Nienburg~Weser]]
+coordinates: [[Nienburg~Weser]] 
+markerFile: [[Nienburg~Weser]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Nienburg~Weser|Nienburg~Weser]]] 
+- [[Nienburg~Weser|Nienburg~Weser]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nienburg~Weser.internal|Nienburg~Weser.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nienburg~Weser.protect|Nienburg~Weser.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nienburg~Weser.private|Nienburg~Weser.private]] 

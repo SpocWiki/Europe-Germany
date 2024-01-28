@@ -1,5 +1,5 @@
 ﻿---
-location: [48,9.12]
+location: [48,9.12] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.12]
-[geo-lat::48]
-[name::Messkirch]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.12] 
+[geo-lat::48] 
+[name::Messkirch] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Messkirch
-coordinates: [[Messkirch]]
-markerFile: [[Messkirch]]
+coordinates: [[Messkirch]] 
+markerFile: [[Messkirch]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Messkirch|Messkirch]]] 
+- [[Messkirch|Messkirch]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Messkirch.internal|Messkirch.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Messkirch.protect|Messkirch.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Messkirch.private|Messkirch.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [50.2,9.27]
+location: [50.2,9.27] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.27]
-[geo-lat::50.2]
-[name::Wirtheim]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.27] 
+[geo-lat::50.2] 
+[name::Wirtheim] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wirtheim
-coordinates: [[Wirtheim]]
-markerFile: [[Wirtheim]]
+coordinates: [[Wirtheim]] 
+markerFile: [[Wirtheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Wirtheim|Wirtheim]]] 
+- [[Wirtheim|Wirtheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Wirtheim.internal|Wirtheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Wirtheim.protect|Wirtheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Wirtheim.private|Wirtheim.private]] 

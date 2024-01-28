@@ -1,5 +1,5 @@
 ﻿---
-location: [50.93,8.43]
+location: [50.93,8.43] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.43]
-[geo-lat::50.93]
-[name::Laasphe]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.43] 
+[geo-lat::50.93] 
+[name::Laasphe] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Laasphe
-coordinates: [[Laasphe]]
-markerFile: [[Laasphe]]
+coordinates: [[Laasphe]] 
+markerFile: [[Laasphe]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Laasphe|Laasphe]]] 
+- [[Laasphe|Laasphe]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Laasphe.internal|Laasphe.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Laasphe.protect|Laasphe.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Laasphe.private|Laasphe.private]] 

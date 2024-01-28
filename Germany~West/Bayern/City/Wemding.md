@@ -1,5 +1,5 @@
 ﻿---
-location: [48.88,10.73]
+location: [48.88,10.73] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.73]
-[geo-lat::48.88]
-[name::Wemding]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.73] 
+[geo-lat::48.88] 
+[name::Wemding] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wemding
-coordinates: [[Wemding]]
-markerFile: [[Wemding]]
+coordinates: [[Wemding]] 
+markerFile: [[Wemding]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Wemding|Wemding]]] 
+- [[Wemding|Wemding]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wemding.internal|Wemding.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wemding.protect|Wemding.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wemding.private|Wemding.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [50.88,10.57]
+location: [50.88,10.57] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.57]
-[geo-lat::50.88]
-[name::Schnepfenthal]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.57] 
+[geo-lat::50.88] 
+[name::Schnepfenthal] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schnepfenthal
-coordinates: [[Schnepfenthal]]
-markerFile: [[Schnepfenthal]]
+coordinates: [[Schnepfenthal]] 
+markerFile: [[Schnepfenthal]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [52.42,12.42]
+location: [52.42,12.42] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.42]
-[geo-lat::52.42]
-[name::Plaue]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.42] 
+[geo-lat::52.42] 
+[name::Plaue] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Plaue
-coordinates: [[Plaue]]
-markerFile: [[Plaue]]
+coordinates: [[Plaue]] 
+markerFile: [[Plaue]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ---
-location: [48.03,7.58]
+location: [48.03,7.58] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.58]
-[geo-lat::48.03]
-[name::Alt-Breisach]
-[Country::[[Germany]]]
-[State:[[Baden-Wuerttemberg]]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.58] 
+[geo-lat::48.03] 
+[name::Alt-Breisach] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Alt-Breisach
-coordinates: [[Alt-Breisach]]
-markerFile: [[Alt-Breisach]]
+coordinates: [[Alt-Breisach]] 
+markerFile: [[Alt-Breisach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Alt-Breisach|Alt-Breisach]]] 
+- [[Alt-Breisach|Alt-Breisach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Alt-Breisach.internal|Alt-Breisach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Alt-Breisach.protect|Alt-Breisach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Alt-Breisach.private|Alt-Breisach.private]] 

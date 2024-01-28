@@ -1,5 +1,5 @@
 ﻿---
-location: [49.14,9.22]
+location: [49.14,9.22] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.22]
-[geo-lat::49.14]
-[name::Heilbronn]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.22] 
+[geo-lat::49.14] 
+[name::Heilbronn] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Heilbronn
-coordinates: [[Heilbronn]]
-markerFile: [[Heilbronn]]
+coordinates: [[Heilbronn]] 
+markerFile: [[Heilbronn]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Heilbronn|Heilbronn]]] 
+- [[Heilbronn|Heilbronn]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heilbronn.internal|Heilbronn.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heilbronn.protect|Heilbronn.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heilbronn.private|Heilbronn.private]] 

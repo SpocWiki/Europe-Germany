@@ -1,5 +1,5 @@
 ﻿---
-location: [52.72,14.15]
+location: [52.72,14.15] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.15]
-[geo-lat::52.72]
-[name::Wriezen]
-[State::]
-[Country::[[Poland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.15] 
+[geo-lat::52.72] 
+[name::Wriezen] 
+State ::  
+Country :: [[Poland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wriezen
-coordinates: [[Wriezen]]
-markerFile: [[Wriezen]]
+coordinates: [[Wriezen]] 
+markerFile: [[Wriezen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

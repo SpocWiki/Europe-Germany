@@ -1,5 +1,5 @@
 ﻿---
-location: [54.33,10.55]
+location: [54.33,10.55] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.55]
-[geo-lat::54.33]
-[name::Hessenstein]
-[Country::[[Germany]]]
-[State ::[[Schleswig-Holstein]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.55] 
+[geo-lat::54.33] 
+[name::Hessenstein] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hessenstein
-coordinates: [[Hessenstein]]
-markerFile: [[Hessenstein]]
+coordinates: [[Hessenstein]] 
+markerFile: [[Hessenstein]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hessenstein|Hessenstein]]] 
+- [[Hessenstein|Hessenstein]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hessenstein.internal|Hessenstein.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hessenstein.protect|Hessenstein.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hessenstein.private|Hessenstein.private]] 

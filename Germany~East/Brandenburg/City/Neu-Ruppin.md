@@ -1,5 +1,5 @@
 ﻿---
-location: [52.93,12.82]
+location: [52.93,12.82] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.82]
-[geo-lat::52.93]
-[name::Neu-Ruppin]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.82] 
+[geo-lat::52.93] 
+[name::Neu-Ruppin] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Neu-Ruppin
-coordinates: [[Neu-Ruppin]]
-markerFile: [[Neu-Ruppin]]
+coordinates: [[Neu-Ruppin]] 
+markerFile: [[Neu-Ruppin]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

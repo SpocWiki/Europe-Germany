@@ -1,5 +1,5 @@
 ﻿---
-location: [48.9,11.2]
+location: [48.9,11.2] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.2]
-[geo-lat::48.9]
-[name::Eichstaett]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.2] 
+[geo-lat::48.9] 
+[name::Eichstaett] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Eichstaett
-coordinates: [[Eichstaett]]
-markerFile: [[Eichstaett]]
+coordinates: [[Eichstaett]] 
+markerFile: [[Eichstaett]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Eichstaett|Eichstaett]]] 
+- [[Eichstaett|Eichstaett]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Eichstaett.internal|Eichstaett.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Eichstaett.protect|Eichstaett.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Eichstaett.private|Eichstaett.private]] 

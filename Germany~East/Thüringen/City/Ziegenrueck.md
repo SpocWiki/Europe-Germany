@@ -1,5 +1,5 @@
 ﻿---
-location: [50.62,11.65]
+location: [50.62,11.65] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.65]
-[geo-lat::50.62]
-[name::Ziegenrueck]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.65] 
+[geo-lat::50.62] 
+[name::Ziegenrueck] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ziegenrueck
-coordinates: [[Ziegenrueck]]
-markerFile: [[Ziegenrueck]]
+coordinates: [[Ziegenrueck]] 
+markerFile: [[Ziegenrueck]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

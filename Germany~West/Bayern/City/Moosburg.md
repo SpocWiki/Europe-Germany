@@ -1,5 +1,5 @@
 ﻿---
-location: [48.47,11.93]
+location: [48.47,11.93] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.93]
-[geo-lat::48.47]
-[name::Moosburg]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.93] 
+[geo-lat::48.47] 
+[name::Moosburg] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Moosburg
-coordinates: [[Moosburg]]
-markerFile: [[Moosburg]]
+coordinates: [[Moosburg]] 
+markerFile: [[Moosburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Moosburg|Moosburg]]] 
+- [[Moosburg|Moosburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Moosburg.internal|Moosburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Moosburg.protect|Moosburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Moosburg.private|Moosburg.private]] 

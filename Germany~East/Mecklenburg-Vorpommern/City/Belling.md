@@ -1,5 +1,5 @@
 ﻿---
-location: [53.57,13.97]
+location: [53.57,13.97] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.97]
-[geo-lat::53.57]
-[name::Belling]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.97] 
+[geo-lat::53.57] 
+[name::Belling] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Belling
-coordinates: [[Belling]]
-markerFile: [[Belling]]
+coordinates: [[Belling]] 
+markerFile: [[Belling]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

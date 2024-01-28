@@ -1,5 +1,5 @@
 ﻿---
-location: [49.3,11.28]
+location: [49.3,11.28] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.28]
-[geo-lat::49.3]
-[name::Pyrbaum]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.28] 
+[geo-lat::49.3] 
+[name::Pyrbaum] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Pyrbaum
-coordinates: [[Pyrbaum]]
-markerFile: [[Pyrbaum]]
+coordinates: [[Pyrbaum]] 
+markerFile: [[Pyrbaum]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Pyrbaum|Pyrbaum]]] 
+- [[Pyrbaum|Pyrbaum]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Pyrbaum.internal|Pyrbaum.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Pyrbaum.protect|Pyrbaum.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Pyrbaum.private|Pyrbaum.private]] 

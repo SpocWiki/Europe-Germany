@@ -1,5 +1,5 @@
 ﻿---
-location: [51.67,6.97]
+location: [51.67,6.97] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.97]
-[geo-lat::51.67]
-[name::Dorsten]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.97] 
+[geo-lat::51.67] 
+[name::Dorsten] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Dorsten
-coordinates: [[Dorsten]]
-markerFile: [[Dorsten]]
+coordinates: [[Dorsten]] 
+markerFile: [[Dorsten]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Dorsten|Dorsten]]] 
+- [[Dorsten|Dorsten]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Dorsten.internal|Dorsten.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Dorsten.protect|Dorsten.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Dorsten.private|Dorsten.private]] 

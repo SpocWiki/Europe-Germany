@@ -1,5 +1,5 @@
 ﻿---
-location: [48.93,11]
+location: [48.93,11] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11]
-[geo-lat::48.93]
-[name::Alteburg]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11] 
+[geo-lat::48.93] 
+[name::Alteburg] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Alteburg
-coordinates: [[Alteburg]]
-markerFile: [[Alteburg]]
+coordinates: [[Alteburg]] 
+markerFile: [[Alteburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Alteburg|Alteburg]]] 
+- [[Alteburg|Alteburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Alteburg.internal|Alteburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Alteburg.protect|Alteburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Alteburg.private|Alteburg.private]] 

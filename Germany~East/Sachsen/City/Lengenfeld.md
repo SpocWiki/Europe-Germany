@@ -1,5 +1,5 @@
 ﻿---
-location: [50.55,12.37]
+location: [50.55,12.37] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.37]
-[geo-lat::50.55]
-[name::Lengenfeld]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.37] 
+[geo-lat::50.55] 
+[name::Lengenfeld] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lengenfeld
-coordinates: [[Lengenfeld]]
-markerFile: [[Lengenfeld]]
+coordinates: [[Lengenfeld]] 
+markerFile: [[Lengenfeld]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

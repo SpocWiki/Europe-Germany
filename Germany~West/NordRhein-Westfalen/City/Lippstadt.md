@@ -1,5 +1,5 @@
 ﻿---
-location: [51.67,8.34]
+location: [51.67,8.34] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.34]
-[geo-lat::51.67]
-[name::Lippstadt]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.34] 
+[geo-lat::51.67] 
+[name::Lippstadt] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lippstadt
-coordinates: [[Lippstadt]]
-markerFile: [[Lippstadt]]
+coordinates: [[Lippstadt]] 
+markerFile: [[Lippstadt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Lippstadt|Lippstadt]]] 
+- [[Lippstadt|Lippstadt]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Lippstadt.internal|Lippstadt.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Lippstadt.protect|Lippstadt.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Lippstadt.private|Lippstadt.private]] 

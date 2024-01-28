@@ -1,5 +1,5 @@
 ﻿---
-location: [50.92,9.45]
+location: [50.92,9.45] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.45]
-[geo-lat::50.92]
-[name::Schwarzenborn]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.45] 
+[geo-lat::50.92] 
+[name::Schwarzenborn] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schwarzenborn
-coordinates: [[Schwarzenborn]]
-markerFile: [[Schwarzenborn]]
+coordinates: [[Schwarzenborn]] 
+markerFile: [[Schwarzenborn]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Schwarzenborn|Schwarzenborn]]] 
+- [[Schwarzenborn|Schwarzenborn]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Schwarzenborn.internal|Schwarzenborn.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Schwarzenborn.protect|Schwarzenborn.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Schwarzenborn.private|Schwarzenborn.private]] 

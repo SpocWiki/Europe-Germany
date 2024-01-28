@@ -1,5 +1,5 @@
 ﻿---
-location: [47.45,11.27]
+location: [47.45,11.27] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.27]
-[geo-lat::47.45]
-[name::Mittenwald]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.27] 
+[geo-lat::47.45] 
+[name::Mittenwald] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mittenwald
-coordinates: [[Mittenwald]]
-markerFile: [[Mittenwald]]
+coordinates: [[Mittenwald]] 
+markerFile: [[Mittenwald]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Mittenwald|Mittenwald]]] 
+- [[Mittenwald|Mittenwald]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Mittenwald.internal|Mittenwald.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Mittenwald.protect|Mittenwald.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Mittenwald.private|Mittenwald.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [49.88,8.27]
+location: [49.88,8.27] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.27]
-[geo-lat::49.88]
-[name::Mommenheim]
-[Country::[[Germany]]]
-[State:[[Rheinland-Pfalz]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.27] 
+[geo-lat::49.88] 
+[name::Mommenheim] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mommenheim
-coordinates: [[Mommenheim]]
-markerFile: [[Mommenheim]]
+coordinates: [[Mommenheim]] 
+markerFile: [[Mommenheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Mommenheim|Mommenheim]]] 
+- [[Mommenheim|Mommenheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mommenheim.internal|Mommenheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mommenheim.protect|Mommenheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mommenheim.private|Mommenheim.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [50.23,8.07]
+location: [50.23,8.07] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.07]
-[geo-lat::50.23]
-[name::Michelbach]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.07] 
+[geo-lat::50.23] 
+[name::Michelbach] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Michelbach
-coordinates: [[Michelbach]]
-markerFile: [[Michelbach]]
+coordinates: [[Michelbach]] 
+markerFile: [[Michelbach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Michelbach|Michelbach]]] 
+- [[Michelbach|Michelbach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Michelbach.internal|Michelbach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Michelbach.protect|Michelbach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Michelbach.private|Michelbach.private]] 

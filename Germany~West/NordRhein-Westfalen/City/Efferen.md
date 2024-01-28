@@ -1,5 +1,5 @@
 ﻿---
-location: [50.9,6.9]
+location: [50.9,6.9] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.9]
-[geo-lat::50.9]
-[name::Efferen]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.9] 
+[geo-lat::50.9] 
+[name::Efferen] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Efferen
-coordinates: [[Efferen]]
-markerFile: [[Efferen]]
+coordinates: [[Efferen]] 
+markerFile: [[Efferen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Efferen|Efferen]]] 
+- [[Efferen|Efferen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Efferen.internal|Efferen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Efferen.protect|Efferen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Efferen.private|Efferen.private]] 

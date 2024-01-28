@@ -1,5 +1,5 @@
 ﻿---
-location: [51.13,7.63]
+location: [51.13,7.63] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.63]
-[geo-lat::51.13]
-[name::Meinerzhagen]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.63] 
+[geo-lat::51.13] 
+[name::Meinerzhagen] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Meinerzhagen
-coordinates: [[Meinerzhagen]]
-markerFile: [[Meinerzhagen]]
+coordinates: [[Meinerzhagen]] 
+markerFile: [[Meinerzhagen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Meinerzhagen|Meinerzhagen]]] 
+- [[Meinerzhagen|Meinerzhagen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Meinerzhagen.internal|Meinerzhagen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Meinerzhagen.protect|Meinerzhagen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Meinerzhagen.private|Meinerzhagen.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [50.43,10.73]
+location: [50.43,10.73] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.73]
-[geo-lat::50.43]
-[name::Hildburghausen]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.73] 
+[geo-lat::50.43] 
+[name::Hildburghausen] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hildburghausen
-coordinates: [[Hildburghausen]]
-markerFile: [[Hildburghausen]]
+coordinates: [[Hildburghausen]] 
+markerFile: [[Hildburghausen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

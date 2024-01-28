@@ -1,5 +1,5 @@
 ﻿---
-location: [54.22,10.88]
+location: [54.22,10.88] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.88]
-[geo-lat::54.22]
-[name::Lensalm]
-[Country::[[Germany]]]
-[State ::[[Schleswig-Holstein]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.88] 
+[geo-lat::54.22] 
+[name::Lensalm] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lensalm
-coordinates: [[Lensalm]]
-markerFile: [[Lensalm]]
+coordinates: [[Lensalm]] 
+markerFile: [[Lensalm]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Lensalm|Lensalm]]] 
+- [[Lensalm|Lensalm]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lensalm.internal|Lensalm.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lensalm.protect|Lensalm.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lensalm.private|Lensalm.private]] 

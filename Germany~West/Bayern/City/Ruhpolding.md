@@ -1,5 +1,5 @@
 ﻿---
-location: [47.77,12.65]
+location: [47.77,12.65] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.65]
-[geo-lat::47.77]
-[name::Ruhpolding]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.65] 
+[geo-lat::47.77] 
+[name::Ruhpolding] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ruhpolding
-coordinates: [[Ruhpolding]]
-markerFile: [[Ruhpolding]]
+coordinates: [[Ruhpolding]] 
+markerFile: [[Ruhpolding]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Ruhpolding|Ruhpolding]]] 
+- [[Ruhpolding|Ruhpolding]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Ruhpolding.internal|Ruhpolding.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Ruhpolding.protect|Ruhpolding.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Ruhpolding.private|Ruhpolding.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [52,12.58]
+location: [52,12.58] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.58]
-[geo-lat::52]
-[name::Jueterbog]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.58] 
+[geo-lat::52] 
+[name::Jueterbog] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Jueterbog
-coordinates: [[Jueterbog]]
-markerFile: [[Jueterbog]]
+coordinates: [[Jueterbog]] 
+markerFile: [[Jueterbog]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

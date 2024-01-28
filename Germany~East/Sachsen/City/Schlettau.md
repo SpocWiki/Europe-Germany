@@ -1,5 +1,5 @@
 ﻿---
-location: [50.57,12.95]
+location: [50.57,12.95] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.95]
-[geo-lat::50.57]
-[name::Schlettau]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.95] 
+[geo-lat::50.57] 
+[name::Schlettau] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schlettau
-coordinates: [[Schlettau]]
-markerFile: [[Schlettau]]
+coordinates: [[Schlettau]] 
+markerFile: [[Schlettau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

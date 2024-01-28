@@ -1,5 +1,5 @@
 ﻿---
-location: [50.1,8.58]
+location: [50.1,8.58] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.58]
-[geo-lat::50.1]
-[name::Schwanheim]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.58] 
+[geo-lat::50.1] 
+[name::Schwanheim] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schwanheim
-coordinates: [[Schwanheim]]
-markerFile: [[Schwanheim]]
+coordinates: [[Schwanheim]] 
+markerFile: [[Schwanheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Schwanheim|Schwanheim]]] 
+- [[Schwanheim|Schwanheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Schwanheim.internal|Schwanheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Schwanheim.protect|Schwanheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Schwanheim.private|Schwanheim.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [51.95,10.35]
+location: [51.95,10.35] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.35]
-[geo-lat::51.95]
-[name::Langelsheim]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.35] 
+[geo-lat::51.95] 
+[name::Langelsheim] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Langelsheim
-coordinates: [[Langelsheim]]
-markerFile: [[Langelsheim]]
+coordinates: [[Langelsheim]] 
+markerFile: [[Langelsheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Langelsheim|Langelsheim]]] 
+- [[Langelsheim|Langelsheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Langelsheim.internal|Langelsheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Langelsheim.protect|Langelsheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Langelsheim.private|Langelsheim.private]] 

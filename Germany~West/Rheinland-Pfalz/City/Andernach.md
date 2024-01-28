@@ -1,5 +1,5 @@
 ﻿---
-location: [50.43,7.4]
+location: [50.43,7.4] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.4]
-[geo-lat::50.43]
-[name::Andernach]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.4] 
+[geo-lat::50.43] 
+[name::Andernach] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Andernach
-coordinates: [[Andernach]]
-markerFile: [[Andernach]]
+coordinates: [[Andernach]] 
+markerFile: [[Andernach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Andernach|Andernach]]] 
+- [[Andernach|Andernach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Andernach.internal|Andernach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Andernach.protect|Andernach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Andernach.private|Andernach.private]] 

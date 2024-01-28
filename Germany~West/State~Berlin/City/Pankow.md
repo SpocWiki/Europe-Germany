@@ -1,5 +1,5 @@
 ﻿---
-location: [52.57,13.42]
+location: [52.57,13.42] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.42]
-[geo-lat::52.57]
-[name::Pankow]
-[Country::[[Germany]]]
-[State ::[[State~Berlin]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.42] 
+[geo-lat::52.57] 
+[name::Pankow] 
+Country :: [[Germany]]  
+State :: [[State~Berlin]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Pankow
-coordinates: [[Pankow]]
-markerFile: [[Pankow]]
+coordinates: [[Pankow]] 
+markerFile: [[Pankow]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Pankow|Pankow]]] 
+- [[Pankow|Pankow]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin/City/Pankow.internal|Pankow.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin/City/Pankow.protect|Pankow.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin/City/Pankow.private|Pankow.private]] 

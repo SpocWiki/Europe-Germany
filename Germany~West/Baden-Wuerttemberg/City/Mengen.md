@@ -1,5 +1,5 @@
 ﻿---
-location: [48.05,9.33]
+location: [48.05,9.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.33]
-[geo-lat::48.05]
-[name::Mengen]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.33] 
+[geo-lat::48.05] 
+[name::Mengen] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mengen
-coordinates: [[Mengen]]
-markerFile: [[Mengen]]
+coordinates: [[Mengen]] 
+markerFile: [[Mengen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Mengen|Mengen]]] 
+- [[Mengen|Mengen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Mengen.internal|Mengen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Mengen.protect|Mengen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Mengen.private|Mengen.private]] 

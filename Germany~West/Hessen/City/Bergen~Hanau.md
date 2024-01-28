@@ -1,5 +1,5 @@
 ---
-location: [50.15,8.73]
+location: [50.15,8.73] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.73]
-[geo-lat::50.15]
-[name::Bergen~Hanau]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.73] 
+[geo-lat::50.15] 
+[name::Bergen~Hanau] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Bergen~Hanau
-coordinates: [[Bergen~Hanau]]
-markerFile: [[Bergen~Hanau]]
+coordinates: [[Bergen~Hanau]] 
+markerFile: [[Bergen~Hanau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Bergen~Hanau|Bergen~Hanau]]] 
+- [[Bergen~Hanau|Bergen~Hanau]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Bergen~Hanau.internal|Bergen~Hanau.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Bergen~Hanau.protect|Bergen~Hanau.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Bergen~Hanau.private|Bergen~Hanau.private]] 

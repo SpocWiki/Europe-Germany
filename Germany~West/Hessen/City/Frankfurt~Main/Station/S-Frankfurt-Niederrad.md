@@ -1,5 +1,5 @@
 ---
-location: [50.08833,8.643611]
+location: [50.08833,8.643611] 
 type: Station 
 mapzoom: [8,18] 
 mapmarker: train 
@@ -10,17 +10,17 @@ SpocWebEntityId: 156454
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.643611]
-[geo-lat::50.08833]
-[name::Frankfurt-Niederrad]
-[Country::[[Germany]]]
-[City:[[Frankfurt~Main]] ]
+[geo-lon::8.643611] 
+[geo-lat::50.08833] 
+[name::Frankfurt-Niederrad] 
+Country :: [[Germany]]  
+City :: [[Frankfurt~Main]] ] 
 
 
 ```leaflet
 id: S-Frankfurt-Niederrad.md
-coordinates: [[S-Frankfurt-Niederrad]]
-markerFile: [[S-Frankfurt-Niederrad]]
+coordinates: [[S-Frankfurt-Niederrad]] 
+markerFile: [[S-Frankfurt-Niederrad]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

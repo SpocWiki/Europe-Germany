@@ -1,5 +1,5 @@
 ﻿---
-location: [50.57,6.22]
+location: [50.57,6.22] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.22]
-[geo-lat::50.57]
-[name::Muetzenich]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.22] 
+[geo-lat::50.57] 
+[name::Muetzenich] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Muetzenich
-coordinates: [[Muetzenich]]
-markerFile: [[Muetzenich]]
+coordinates: [[Muetzenich]] 
+markerFile: [[Muetzenich]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Muetzenich|Muetzenich]]] 
+- [[Muetzenich|Muetzenich]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muetzenich.internal|Muetzenich.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muetzenich.protect|Muetzenich.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muetzenich.private|Muetzenich.private]] 

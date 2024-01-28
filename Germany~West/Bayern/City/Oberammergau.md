@@ -1,5 +1,5 @@
 ﻿---
-location: [47.6,11.07]
+location: [47.6,11.07] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.07]
-[geo-lat::47.6]
-[name::Oberammergau]
-[Country::[[Germany]]]
-[State:[[Bayern]]]]
-[Population::]
-[Unknown::]
+[geo-lon::11.07] 
+[geo-lat::47.6] 
+[name::Oberammergau] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Oberammergau
-coordinates: [[Oberammergau]]
-markerFile: [[Oberammergau]]
+coordinates: [[Oberammergau]] 
+markerFile: [[Oberammergau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Oberammergau|Oberammergau]]] 
+- [[Oberammergau|Oberammergau]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Oberammergau.internal|Oberammergau.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Oberammergau.protect|Oberammergau.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Oberammergau.private|Oberammergau.private]] 

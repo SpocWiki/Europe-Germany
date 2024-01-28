@@ -1,5 +1,5 @@
 ﻿---
-location: [50.3,7.32]
+location: [50.3,7.32] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.32]
-[geo-lat::50.3]
-[name::Polch]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.32] 
+[geo-lat::50.3] 
+[name::Polch] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Polch
-coordinates: [[Polch]]
-markerFile: [[Polch]]
+coordinates: [[Polch]] 
+markerFile: [[Polch]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Polch|Polch]]] 
+- [[Polch|Polch]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Polch.internal|Polch.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Polch.protect|Polch.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Polch.private|Polch.private]] 

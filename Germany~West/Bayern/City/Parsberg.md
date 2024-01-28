@@ -1,5 +1,5 @@
 ﻿---
-location: [49.17,11.72]
+location: [49.17,11.72] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.72]
-[geo-lat::49.17]
-[name::Parsberg]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.72] 
+[geo-lat::49.17] 
+[name::Parsberg] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Parsberg
-coordinates: [[Parsberg]]
-markerFile: [[Parsberg]]
+coordinates: [[Parsberg]] 
+markerFile: [[Parsberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Parsberg|Parsberg]]] 
+- [[Parsberg|Parsberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Parsberg.internal|Parsberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Parsberg.protect|Parsberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Parsberg.private|Parsberg.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [49.33,7.33]
+location: [49.33,7.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.33]
-[geo-lat::49.33]
-[name::Homburg~Saar]
-[Country::[[Germany]]]
-[State:[[Rheinland-Pfalz]]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.33] 
+[geo-lat::49.33] 
+[name::Homburg~Saar] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Homburg~Saar
-coordinates: [[Homburg~Saar]]
-markerFile: [[Homburg~Saar]]
+coordinates: [[Homburg~Saar]] 
+markerFile: [[Homburg~Saar]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Homburg~Saar|Homburg~Saar]]] 
+- [[Homburg~Saar|Homburg~Saar]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Homburg~Saar.internal|Homburg~Saar.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Homburg~Saar.protect|Homburg~Saar.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Homburg~Saar.private|Homburg~Saar.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [52.83,11.63]
+location: [52.83,11.63] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.63]
-[geo-lat::52.83]
-[name::Wohlenberg]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.63] 
+[geo-lat::52.83] 
+[name::Wohlenberg] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wohlenberg
-coordinates: [[Wohlenberg]]
-markerFile: [[Wohlenberg]]
+coordinates: [[Wohlenberg]] 
+markerFile: [[Wohlenberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

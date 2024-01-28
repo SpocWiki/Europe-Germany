@@ -1,5 +1,5 @@
 ﻿---
-location: [48.4,12.82]
+location: [48.4,12.82] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.82]
-[geo-lat::48.4]
-[name::Hebertsfelden]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.82] 
+[geo-lat::48.4] 
+[name::Hebertsfelden] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hebertsfelden
-coordinates: [[Hebertsfelden]]
-markerFile: [[Hebertsfelden]]
+coordinates: [[Hebertsfelden]] 
+markerFile: [[Hebertsfelden]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hebertsfelden|Hebertsfelden]]] 
+- [[Hebertsfelden|Hebertsfelden]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hebertsfelden.internal|Hebertsfelden.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hebertsfelden.protect|Hebertsfelden.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hebertsfelden.private|Hebertsfelden.private]] 

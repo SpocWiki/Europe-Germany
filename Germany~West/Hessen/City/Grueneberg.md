@@ -1,5 +1,5 @@
 ﻿---
-location: [50.87,9.5]
+location: [50.87,9.5] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.5]
-[geo-lat::50.87]
-[name::Grueneberg]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.5] 
+[geo-lat::50.87] 
+[name::Grueneberg] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Grueneberg
-coordinates: [[Grueneberg]]
-markerFile: [[Grueneberg]]
+coordinates: [[Grueneberg]] 
+markerFile: [[Grueneberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Grueneberg|Grueneberg]]] 
+- [[Grueneberg|Grueneberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Grueneberg.internal|Grueneberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Grueneberg.protect|Grueneberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Grueneberg.private|Grueneberg.private]] 

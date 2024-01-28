@@ -1,5 +1,5 @@
 ﻿---
-location: [49.18,9.63]
+location: [49.18,9.63] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.63]
-[geo-lat::49.18]
-[name::Waldenburg]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.63] 
+[geo-lat::49.18] 
+[name::Waldenburg] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Waldenburg
-coordinates: [[Waldenburg]]
-markerFile: [[Waldenburg]]
+coordinates: [[Waldenburg]] 
+markerFile: [[Waldenburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Waldenburg|Waldenburg]]] 
+- [[Waldenburg|Waldenburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Waldenburg.internal|Waldenburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Waldenburg.protect|Waldenburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Waldenburg.private|Waldenburg.private]] 

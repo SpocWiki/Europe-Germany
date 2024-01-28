@@ -1,5 +1,5 @@
 ﻿---
-location: [52,9.26]
+location: [52,9.26] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.26]
-[geo-lat::52]
-[name::Pyrmont]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.26] 
+[geo-lat::52] 
+[name::Pyrmont] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Pyrmont
-coordinates: [[Pyrmont]]
-markerFile: [[Pyrmont]]
+coordinates: [[Pyrmont]] 
+markerFile: [[Pyrmont]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Pyrmont|Pyrmont]]] 
+- [[Pyrmont|Pyrmont]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Pyrmont.internal|Pyrmont.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Pyrmont.protect|Pyrmont.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Pyrmont.private|Pyrmont.private]] 

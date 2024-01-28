@@ -1,5 +1,5 @@
 ﻿---
-location: [48.8,8.32]
+location: [48.8,8.32] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.32]
-[geo-lat::48.8]
-[name::Gaggenau]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.32] 
+[geo-lat::48.8] 
+[name::Gaggenau] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gaggenau
-coordinates: [[Gaggenau]]
-markerFile: [[Gaggenau]]
+coordinates: [[Gaggenau]] 
+markerFile: [[Gaggenau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Gaggenau|Gaggenau]]] 
+- [[Gaggenau|Gaggenau]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Gaggenau.internal|Gaggenau.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Gaggenau.protect|Gaggenau.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Gaggenau.private|Gaggenau.private]] 

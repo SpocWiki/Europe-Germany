@@ -1,5 +1,5 @@
 ﻿---
-location: [50.12,8.42]
+location: [50.12,8.42] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.42]
-[geo-lat::50.12]
-[name::Lorsbach]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.42] 
+[geo-lat::50.12] 
+[name::Lorsbach] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lorsbach
-coordinates: [[Lorsbach]]
-markerFile: [[Lorsbach]]
+coordinates: [[Lorsbach]] 
+markerFile: [[Lorsbach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Lorsbach|Lorsbach]]] 
+- [[Lorsbach|Lorsbach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Lorsbach.internal|Lorsbach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Lorsbach.protect|Lorsbach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Lorsbach.private|Lorsbach.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [48.67,8.02]
+location: [48.67,8.02] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.02]
-[geo-lat::48.67]
-[name::Gamshurst]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.02] 
+[geo-lat::48.67] 
+[name::Gamshurst] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gamshurst
-coordinates: [[Gamshurst]]
-markerFile: [[Gamshurst]]
+coordinates: [[Gamshurst]] 
+markerFile: [[Gamshurst]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Gamshurst|Gamshurst]]] 
+- [[Gamshurst|Gamshurst]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Gamshurst.internal|Gamshurst.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Gamshurst.protect|Gamshurst.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Gamshurst.private|Gamshurst.private]] 

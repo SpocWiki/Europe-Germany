@@ -1,5 +1,5 @@
 ﻿---
-location: [49.95,7.83]
+location: [49.95,7.83] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.83]
-[geo-lat::49.95]
-[name::Windesheim]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.83] 
+[geo-lat::49.95] 
+[name::Windesheim] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Windesheim
-coordinates: [[Windesheim]]
-markerFile: [[Windesheim]]
+coordinates: [[Windesheim]] 
+markerFile: [[Windesheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Windesheim|Windesheim]]] 
+- [[Windesheim|Windesheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Windesheim.internal|Windesheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Windesheim.protect|Windesheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Windesheim.private|Windesheim.private]] 

@@ -1,5 +1,5 @@
 ---
-location: [50.18,11.78]
+location: [50.18,11.78] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -7,31 +7,31 @@ tags:
 - geo/City
 
 
-SpocWebEntityId: [32668,32705]
+SpocWebEntityId: [32668,32705] 
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.78]
-[geo-lat::50.18]
-[name::Münchberg]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.78] 
+[geo-lat::50.18] 
+[name::Münchberg] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Münchberg
-coordinates: [[Münchberg]]
-markerFile: [[Münchberg]]
+coordinates: [[Münchberg]] 
+markerFile: [[Münchberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[Münchberg|Münchberg]]] 
+- [[Münchberg|Münchberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Münchberg.internal|Münchberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Münchberg.protect|Münchberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Münchberg.private|Münchberg.private]] 

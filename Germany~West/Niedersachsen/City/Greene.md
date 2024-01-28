@@ -1,5 +1,5 @@
 ﻿---
-location: [51.87,9.92]
+location: [51.87,9.92] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.92]
-[geo-lat::51.87]
-[name::Greene]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.92] 
+[geo-lat::51.87] 
+[name::Greene] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Greene
-coordinates: [[Greene]]
-markerFile: [[Greene]]
+coordinates: [[Greene]] 
+markerFile: [[Greene]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Greene|Greene]]] 
+- [[Greene|Greene]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Greene.internal|Greene.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Greene.protect|Greene.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Greene.private|Greene.private]] 

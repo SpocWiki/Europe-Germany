@@ -1,5 +1,5 @@
 ﻿---
-location: [50.37,8.28]
+location: [50.37,8.28] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.28]
-[geo-lat::50.37]
-[name::Idstein]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.28] 
+[geo-lat::50.37] 
+[name::Idstein] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Idstein
-coordinates: [[Idstein]]
-markerFile: [[Idstein]]
+coordinates: [[Idstein]] 
+markerFile: [[Idstein]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Idstein|Idstein]]] 
+- [[Idstein|Idstein]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Idstein.internal|Idstein.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Idstein.protect|Idstein.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Idstein.private|Idstein.private]] 

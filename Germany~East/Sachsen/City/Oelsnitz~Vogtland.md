@@ -1,5 +1,5 @@
 ﻿---
-location: [50.42,12.17]
+location: [50.42,12.17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.17]
-[geo-lat::50.42]
-[name::Oelsnitz~Vogtland]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.17] 
+[geo-lat::50.42] 
+[name::Oelsnitz~Vogtland] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Oelsnitz~Vogtland
-coordinates: [[Oelsnitz~Vogtland]]
-markerFile: [[Oelsnitz~Vogtland]]
+coordinates: [[Oelsnitz~Vogtland]] 
+markerFile: [[Oelsnitz~Vogtland]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

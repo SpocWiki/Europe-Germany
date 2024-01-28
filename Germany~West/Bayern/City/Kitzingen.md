@@ -1,5 +1,5 @@
 ﻿---
-location: [49.73,10.16]
+location: [49.73,10.16] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.16]
-[geo-lat::49.73]
-[name::Kitzingen]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.16] 
+[geo-lat::49.73] 
+[name::Kitzingen] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kitzingen
-coordinates: [[Kitzingen]]
-markerFile: [[Kitzingen]]
+coordinates: [[Kitzingen]] 
+markerFile: [[Kitzingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kitzingen|Kitzingen]]] 
+- [[Kitzingen|Kitzingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Kitzingen.internal|Kitzingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Kitzingen.protect|Kitzingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Kitzingen.private|Kitzingen.private]] 

@@ -14,23 +14,23 @@ tags:
 aliases:
 - 
 ---
-location: [{{y}},{{x}}]
+location: [{{y}},{{x}}] 
 SpocWebEntityId: {{SpocWebEntityId}}
 
-[geo-lon::{{x}}]
-[geo-lat::{{y}}]
-[name::{{City}}]
-[State::{{State}}]
-[CountryId::{{CountryId}}]
-[StateId::{{StateId}}]
-[Population::{{Population}}]
-[Unknown::{{_0}}]
+[geo-lon::{{x}}] 
+[geo-lat::{{y}}] 
+[name::{{City}}] 
+State :: {{State}}] 
+[CountryId::{{CountryId}}] 
+[StateId::{{StateId}}] 
+[Population::{{Population}}] 
+[Unknown::{{_0}}] 
 
 
 ```leaflet
 id: {{City}}
-coordinates: [[{{City}}]]
-markerFile: [[{{City}}]]
+coordinates: [[{{City}}]] 
+markerFile: [[{{City}}]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [50.82,10.32]
+location: [50.82,10.32] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.32]
-[geo-lat::50.82]
-[name::Barchfeld]
-[Country::[[Germany]]]
-[State:[[Thüringen]]]]
-[Population::]
-[Unknown::]
+[geo-lon::10.32] 
+[geo-lat::50.82] 
+[name::Barchfeld] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Barchfeld
-coordinates: [[Barchfeld]]
-markerFile: [[Barchfeld]]
+coordinates: [[Barchfeld]] 
+markerFile: [[Barchfeld]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

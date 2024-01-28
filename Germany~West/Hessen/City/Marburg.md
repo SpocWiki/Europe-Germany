@@ -1,5 +1,5 @@
 ﻿---
-location: [50.81,8.78]
+location: [50.81,8.78] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.78]
-[geo-lat::50.81]
-[name::Marburg]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.78] 
+[geo-lat::50.81] 
+[name::Marburg] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Marburg
-coordinates: [[Marburg]]
-markerFile: [[Marburg]]
+coordinates: [[Marburg]] 
+markerFile: [[Marburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Marburg|Marburg]]] 
+- [[Marburg|Marburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Marburg.internal|Marburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Marburg.protect|Marburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Marburg.private|Marburg.private]] 

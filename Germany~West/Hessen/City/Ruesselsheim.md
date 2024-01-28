@@ -1,5 +1,5 @@
 ﻿---
-location: [49.98,8.42]
+location: [49.98,8.42] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.42]
-[geo-lat::49.98]
-[name::Ruesselsheim]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.42] 
+[geo-lat::49.98] 
+[name::Ruesselsheim] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ruesselsheim
-coordinates: [[Ruesselsheim]]
-markerFile: [[Ruesselsheim]]
+coordinates: [[Ruesselsheim]] 
+markerFile: [[Ruesselsheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Ruesselsheim|Ruesselsheim]]] 
+- [[Ruesselsheim|Ruesselsheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Ruesselsheim.internal|Ruesselsheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Ruesselsheim.protect|Ruesselsheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Ruesselsheim.private|Ruesselsheim.private]] 

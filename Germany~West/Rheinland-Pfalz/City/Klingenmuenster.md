@@ -1,5 +1,5 @@
 ﻿---
-location: [49.27,8.02]
+location: [49.27,8.02] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.02]
-[geo-lat::49.27]
-[name::Klingenmuenster]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.02] 
+[geo-lat::49.27] 
+[name::Klingenmuenster] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Klingenmuenster
-coordinates: [[Klingenmuenster]]
-markerFile: [[Klingenmuenster]]
+coordinates: [[Klingenmuenster]] 
+markerFile: [[Klingenmuenster]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Klingenmuenster|Klingenmuenster]]] 
+- [[Klingenmuenster|Klingenmuenster]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Klingenmuenster.internal|Klingenmuenster.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Klingenmuenster.protect|Klingenmuenster.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Klingenmuenster.private|Klingenmuenster.private]] 

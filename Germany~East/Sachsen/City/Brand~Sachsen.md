@@ -1,5 +1,5 @@
 ﻿---
-location: [50.87,13.32]
+location: [50.87,13.32] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.32]
-[geo-lat::50.87]
-[name::Brand~Sachsen]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.32] 
+[geo-lat::50.87] 
+[name::Brand~Sachsen] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Brand~Sachsen
-coordinates: [[Brand~Sachsen]]
-markerFile: [[Brand~Sachsen]]
+coordinates: [[Brand~Sachsen]] 
+markerFile: [[Brand~Sachsen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

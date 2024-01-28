@@ -1,5 +1,5 @@
 ﻿---
-location: [47.83,11.16]
+location: [47.83,11.16] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.16]
-[geo-lat::47.83]
-[name::Weilheim]
-[Country::[[Germany]]]
-[State:[[Bayern]]]]
-[Population::]
-[Unknown::]
+[geo-lon::11.16] 
+[geo-lat::47.83] 
+[name::Weilheim] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Weilheim
-coordinates: [[Weilheim]]
-markerFile: [[Weilheim]]
+coordinates: [[Weilheim]] 
+markerFile: [[Weilheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Weilheim|Weilheim]]] 
+- [[Weilheim|Weilheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Weilheim.internal|Weilheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Weilheim.protect|Weilheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Weilheim.private|Weilheim.private]] 

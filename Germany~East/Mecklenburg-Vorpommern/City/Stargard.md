@@ -1,5 +1,5 @@
 ﻿---
-location: [53.5,13.32]
+location: [53.5,13.32] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.32]
-[geo-lat::53.5]
-[name::Stargard]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.32] 
+[geo-lat::53.5] 
+[name::Stargard] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Stargard
-coordinates: [[Stargard]]
-markerFile: [[Stargard]]
+coordinates: [[Stargard]] 
+markerFile: [[Stargard]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

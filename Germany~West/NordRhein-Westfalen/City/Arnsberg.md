@@ -1,5 +1,5 @@
 ﻿---
-location: [51.4,8.07]
+location: [51.4,8.07] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.07]
-[geo-lat::51.4]
-[name::Arnsberg]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.07] 
+[geo-lat::51.4] 
+[name::Arnsberg] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Arnsberg
-coordinates: [[Arnsberg]]
-markerFile: [[Arnsberg]]
+coordinates: [[Arnsberg]] 
+markerFile: [[Arnsberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Arnsberg|Arnsberg]]] 
+- [[Arnsberg|Arnsberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Arnsberg.internal|Arnsberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Arnsberg.protect|Arnsberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Arnsberg.private|Arnsberg.private]] 

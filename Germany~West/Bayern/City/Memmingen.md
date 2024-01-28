@@ -1,5 +1,5 @@
 ﻿---
-location: [47.98,10.2]
+location: [47.98,10.2] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.2]
-[geo-lat::47.98]
-[name::Memmingen]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.2] 
+[geo-lat::47.98] 
+[name::Memmingen] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Memmingen
-coordinates: [[Memmingen]]
-markerFile: [[Memmingen]]
+coordinates: [[Memmingen]] 
+markerFile: [[Memmingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Memmingen|Memmingen]]] 
+- [[Memmingen|Memmingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Memmingen.internal|Memmingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Memmingen.protect|Memmingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Memmingen.private|Memmingen.private]] 

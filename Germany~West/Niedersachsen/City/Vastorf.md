@@ -1,5 +1,5 @@
 ﻿---
-location: [53.2,10.55]
+location: [53.2,10.55] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.55]
-[geo-lat::53.2]
-[name::Vastorf]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.55] 
+[geo-lat::53.2] 
+[name::Vastorf] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Vastorf
-coordinates: [[Vastorf]]
-markerFile: [[Vastorf]]
+coordinates: [[Vastorf]] 
+markerFile: [[Vastorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Vastorf|Vastorf]]] 
+- [[Vastorf|Vastorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vastorf.internal|Vastorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vastorf.protect|Vastorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vastorf.private|Vastorf.private]] 

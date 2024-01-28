@@ -14,20 +14,20 @@ aliases:
 - 
 
 ---
-location: [{{GeoLat}},{{GeoLon}}]
+location: [{{GeoLat}},{{GeoLon}}] 
 SpocWebEntityId: {{SpocWebEntityId}}
 StationSId: {{Id}}
 
-[geo-lon::{{GeoLon}}]
-[geo-lat::{{GeoLat}}]
-[name::{{Bahnhof}}]
-[Country::[[Germany]]]
-[City::[[Frankfurt~Main]]]
+[geo-lon::{{GeoLon}}] 
+[geo-lat::{{GeoLat}}] 
+[name::{{Bahnhof}}] 
+Country :: [[Germany]]  
+City :: [[Frankfurt~Main]]  
 
 ```leaflet
 id: S-Waldschmidtstraße.md
-coordinates: [[{{Bahnhof}}]]
-markerFile: [[{{Bahnhof}}]]
+coordinates: [[{{Bahnhof}}]] 
+markerFile: [[{{Bahnhof}}]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

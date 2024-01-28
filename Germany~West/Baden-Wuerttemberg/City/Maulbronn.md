@@ -1,5 +1,5 @@
 ﻿---
-location: [49,8.82]
+location: [49,8.82] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.82]
-[geo-lat::49]
-[name::Maulbronn]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.82] 
+[geo-lat::49] 
+[name::Maulbronn] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Maulbronn
-coordinates: [[Maulbronn]]
-markerFile: [[Maulbronn]]
+coordinates: [[Maulbronn]] 
+markerFile: [[Maulbronn]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Maulbronn|Maulbronn]]] 
+- [[Maulbronn|Maulbronn]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Maulbronn.internal|Maulbronn.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Maulbronn.protect|Maulbronn.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Maulbronn.private|Maulbronn.private]] 

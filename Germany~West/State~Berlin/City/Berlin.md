@@ -1,5 +1,5 @@
 ﻿---
-location: [52.5,13.5]
+location: [52.5,13.5] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.5]
-[geo-lat::52.5]
-[name::Berlin]
-[Country::[[Germany]]]
-[State ::[[State~Berlin]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.5] 
+[geo-lat::52.5] 
+[name::Berlin] 
+Country :: [[Germany]]  
+State :: [[State~Berlin]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Berlin
-coordinates: [[Berlin]]
-markerFile: [[Berlin]]
+coordinates: [[Berlin]] 
+markerFile: [[Berlin]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Berlin|Berlin]]] 
+- [[Berlin|Berlin]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin/City/Berlin.internal|Berlin.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin/City/Berlin.protect|Berlin.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin/City/Berlin.private|Berlin.private]] 

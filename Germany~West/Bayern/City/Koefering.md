@@ -1,5 +1,5 @@
 ﻿---
-location: [48.93,12.2]
+location: [48.93,12.2] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.2]
-[geo-lat::48.93]
-[name::Koefering]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.2] 
+[geo-lat::48.93] 
+[name::Koefering] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Koefering
-coordinates: [[Koefering]]
-markerFile: [[Koefering]]
+coordinates: [[Koefering]] 
+markerFile: [[Koefering]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Koefering|Koefering]]] 
+- [[Koefering|Koefering]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Koefering.internal|Koefering.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Koefering.protect|Koefering.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Koefering.private|Koefering.private]] 

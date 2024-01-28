@@ -1,5 +1,5 @@
 ﻿---
-location: [49.6,9.3]
+location: [49.6,9.3] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.3]
-[geo-lat::49.6]
-[name::Wallduern]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.3] 
+[geo-lat::49.6] 
+[name::Wallduern] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wallduern
-coordinates: [[Wallduern]]
-markerFile: [[Wallduern]]
+coordinates: [[Wallduern]] 
+markerFile: [[Wallduern]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Wallduern|Wallduern]]] 
+- [[Wallduern|Wallduern]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wallduern.internal|Wallduern.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wallduern.protect|Wallduern.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wallduern.private|Wallduern.private]] 

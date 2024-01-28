@@ -1,5 +1,5 @@
 ﻿---
-location: [48.9,10]
+location: [48.9,10] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10]
-[geo-lat::48.9]
-[name::Abstgemuend]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::10] 
+[geo-lat::48.9] 
+[name::Abstgemuend] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Abstgemuend
-coordinates: [[Abstgemuend]]
-markerFile: [[Abstgemuend]]
+coordinates: [[Abstgemuend]] 
+markerFile: [[Abstgemuend]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Abstgemuend|Abstgemuend]]] 
+- [[Abstgemuend|Abstgemuend]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Abstgemuend.internal|Abstgemuend.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Abstgemuend.protect|Abstgemuend.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Abstgemuend.private|Abstgemuend.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [48.8,8.2]
+location: [48.8,8.2] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.2]
-[geo-lat::48.8]
-[name::Haueneberstein]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.2] 
+[geo-lat::48.8] 
+[name::Haueneberstein] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Haueneberstein
-coordinates: [[Haueneberstein]]
-markerFile: [[Haueneberstein]]
+coordinates: [[Haueneberstein]] 
+markerFile: [[Haueneberstein]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Haueneberstein|Haueneberstein]]] 
+- [[Haueneberstein|Haueneberstein]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Haueneberstein.internal|Haueneberstein.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Haueneberstein.protect|Haueneberstein.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Haueneberstein.private|Haueneberstein.private]] 

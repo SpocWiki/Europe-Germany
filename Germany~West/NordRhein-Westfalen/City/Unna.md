@@ -1,5 +1,5 @@
 ﻿---
-location: [51.53,7.69]
+location: [51.53,7.69] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.69]
-[geo-lat::51.53]
-[name::Unna]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.69] 
+[geo-lat::51.53] 
+[name::Unna] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Unna
-coordinates: [[Unna]]
-markerFile: [[Unna]]
+coordinates: [[Unna]] 
+markerFile: [[Unna]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Unna|Unna]]] 
+- [[Unna|Unna]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Unna.internal|Unna.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Unna.protect|Unna.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Unna.private|Unna.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [51.78,12.63]
+location: [51.78,12.63] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.63]
-[geo-lat::51.78]
-[name::Kemberg]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.63] 
+[geo-lat::51.78] 
+[name::Kemberg] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kemberg
-coordinates: [[Kemberg]]
-markerFile: [[Kemberg]]
+coordinates: [[Kemberg]] 
+markerFile: [[Kemberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

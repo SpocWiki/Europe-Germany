@@ -1,5 +1,5 @@
 ﻿---
-location: [50.77,8.98]
+location: [50.77,8.98] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.98]
-[geo-lat::50.77]
-[name::Schweinsberg]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.98] 
+[geo-lat::50.77] 
+[name::Schweinsberg] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schweinsberg
-coordinates: [[Schweinsberg]]
-markerFile: [[Schweinsberg]]
+coordinates: [[Schweinsberg]] 
+markerFile: [[Schweinsberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Schweinsberg|Schweinsberg]]] 
+- [[Schweinsberg|Schweinsberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Schweinsberg.internal|Schweinsberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Schweinsberg.protect|Schweinsberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Schweinsberg.private|Schweinsberg.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [50.55,10.08]
+location: [50.55,10.08] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.08]
-[geo-lat::50.55]
-[name::Frankenheim]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.08] 
+[geo-lat::50.55] 
+[name::Frankenheim] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Frankenheim
-coordinates: [[Frankenheim]]
-markerFile: [[Frankenheim]]
+coordinates: [[Frankenheim]] 
+markerFile: [[Frankenheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [50.82,11.93]
+location: [50.82,11.93] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.93]
-[geo-lat::50.82]
-[name::Muenchenbernsdorf]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.93] 
+[geo-lat::50.82] 
+[name::Muenchenbernsdorf] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Muenchenbernsdorf
-coordinates: [[Muenchenbernsdorf]]
-markerFile: [[Muenchenbernsdorf]]
+coordinates: [[Muenchenbernsdorf]] 
+markerFile: [[Muenchenbernsdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

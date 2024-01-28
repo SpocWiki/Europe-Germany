@@ -1,5 +1,5 @@
 ﻿---
-location: [53.53,8.1]
+location: [53.53,8.1] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.1]
-[geo-lat::53.53]
-[name::Ruestringen]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.1] 
+[geo-lat::53.53] 
+[name::Ruestringen] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ruestringen
-coordinates: [[Ruestringen]]
-markerFile: [[Ruestringen]]
+coordinates: [[Ruestringen]] 
+markerFile: [[Ruestringen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Ruestringen|Ruestringen]]] 
+- [[Ruestringen|Ruestringen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ruestringen.internal|Ruestringen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ruestringen.protect|Ruestringen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ruestringen.private|Ruestringen.private]] 

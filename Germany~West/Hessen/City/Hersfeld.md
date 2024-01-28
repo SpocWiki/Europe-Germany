@@ -1,5 +1,5 @@
 ﻿---
-location: [50.87,9.7]
+location: [50.87,9.7] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.7]
-[geo-lat::50.87]
-[name::Hersfeld]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.7] 
+[geo-lat::50.87] 
+[name::Hersfeld] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hersfeld
-coordinates: [[Hersfeld]]
-markerFile: [[Hersfeld]]
+coordinates: [[Hersfeld]] 
+markerFile: [[Hersfeld]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hersfeld|Hersfeld]]] 
+- [[Hersfeld|Hersfeld]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Hersfeld.internal|Hersfeld.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Hersfeld.protect|Hersfeld.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Hersfeld.private|Hersfeld.private]] 

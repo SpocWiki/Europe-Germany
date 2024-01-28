@@ -1,5 +1,5 @@
 ﻿---
-location: [50.83,10.02]
+location: [50.83,10.02] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.02]
-[geo-lat::50.83]
-[name::Vacha]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.02] 
+[geo-lat::50.83] 
+[name::Vacha] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Vacha
-coordinates: [[Vacha]]
-markerFile: [[Vacha]]
+coordinates: [[Vacha]] 
+markerFile: [[Vacha]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

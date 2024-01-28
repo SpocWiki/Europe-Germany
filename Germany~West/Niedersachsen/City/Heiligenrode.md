@@ -1,5 +1,5 @@
 ﻿---
-location: [52.98,8.7]
+location: [52.98,8.7] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.7]
-[geo-lat::52.98]
-[name::Heiligenrode]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.7] 
+[geo-lat::52.98] 
+[name::Heiligenrode] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Heiligenrode
-coordinates: [[Heiligenrode]]
-markerFile: [[Heiligenrode]]
+coordinates: [[Heiligenrode]] 
+markerFile: [[Heiligenrode]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Heiligenrode|Heiligenrode]]] 
+- [[Heiligenrode|Heiligenrode]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Heiligenrode.internal|Heiligenrode.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Heiligenrode.protect|Heiligenrode.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Heiligenrode.private|Heiligenrode.private]] 

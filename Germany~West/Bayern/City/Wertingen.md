@@ -1,5 +1,5 @@
 ﻿---
-location: [48.57,10.68]
+location: [48.57,10.68] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.68]
-[geo-lat::48.57]
-[name::Wertingen]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.68] 
+[geo-lat::48.57] 
+[name::Wertingen] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wertingen
-coordinates: [[Wertingen]]
-markerFile: [[Wertingen]]
+coordinates: [[Wertingen]] 
+markerFile: [[Wertingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Wertingen|Wertingen]]] 
+- [[Wertingen|Wertingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wertingen.internal|Wertingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wertingen.protect|Wertingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wertingen.private|Wertingen.private]] 

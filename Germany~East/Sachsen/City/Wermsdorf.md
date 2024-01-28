@@ -1,5 +1,5 @@
 ﻿---
-location: [51.28,12.93]
+location: [51.28,12.93] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.93]
-[geo-lat::51.28]
-[name::Wermsdorf]
-[Country::[[Germany]]]
-[State:[[Sachsen]]]]
-[Population::]
-[Unknown::]
+[geo-lon::12.93] 
+[geo-lat::51.28] 
+[name::Wermsdorf] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wermsdorf
-coordinates: [[Wermsdorf]]
-markerFile: [[Wermsdorf]]
+coordinates: [[Wermsdorf]] 
+markerFile: [[Wermsdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

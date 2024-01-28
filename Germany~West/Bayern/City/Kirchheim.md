@@ -1,5 +1,5 @@
 ﻿---
-location: [48.17,10.48]
+location: [48.17,10.48] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.48]
-[geo-lat::48.17]
-[name::Kirchheim]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.48] 
+[geo-lat::48.17] 
+[name::Kirchheim] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kirchheim
-coordinates: [[Kirchheim]]
-markerFile: [[Kirchheim]]
+coordinates: [[Kirchheim]] 
+markerFile: [[Kirchheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kirchheim|Kirchheim]]] 
+- [[Kirchheim|Kirchheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Kirchheim.internal|Kirchheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Kirchheim.protect|Kirchheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Kirchheim.private|Kirchheim.private]] 

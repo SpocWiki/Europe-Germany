@@ -1,5 +1,5 @@
 ﻿---
-location: [49.48,7.78]
+location: [49.48,7.78] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.78]
-[geo-lat::49.48]
-[name::Erlenbach~Pfalz]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.78] 
+[geo-lat::49.48] 
+[name::Erlenbach~Pfalz] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Erlenbach~Pfalz
-coordinates: [[Erlenbach~Pfalz]]
-markerFile: [[Erlenbach~Pfalz]]
+coordinates: [[Erlenbach~Pfalz]] 
+markerFile: [[Erlenbach~Pfalz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Erlenbach~Pfalz|Erlenbach~Pfalz]]] 
+- [[Erlenbach~Pfalz|Erlenbach~Pfalz]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Erlenbach~Pfalz.internal|Erlenbach~Pfalz.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Erlenbach~Pfalz.protect|Erlenbach~Pfalz.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Erlenbach~Pfalz.private|Erlenbach~Pfalz.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [50.93,9.2]
+location: [50.93,9.2] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.2]
-[geo-lat::50.93]
-[name::Treysa]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.2] 
+[geo-lat::50.93] 
+[name::Treysa] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Treysa
-coordinates: [[Treysa]]
-markerFile: [[Treysa]]
+coordinates: [[Treysa]] 
+markerFile: [[Treysa]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Treysa|Treysa]]] 
+- [[Treysa|Treysa]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Treysa.internal|Treysa.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Treysa.protect|Treysa.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Treysa.private|Treysa.private]] 

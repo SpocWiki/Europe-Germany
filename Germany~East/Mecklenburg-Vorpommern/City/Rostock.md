@@ -1,5 +1,5 @@
 ﻿---
-location: [54.09,12.14]
+location: [54.09,12.14] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.14]
-[geo-lat::54.09]
-[name::Rostock]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.14] 
+[geo-lat::54.09] 
+[name::Rostock] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Rostock
-coordinates: [[Rostock]]
-markerFile: [[Rostock]]
+coordinates: [[Rostock]] 
+markerFile: [[Rostock]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

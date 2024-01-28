@@ -1,5 +1,5 @@
 ﻿---
-location: [50.08,8.2]
+location: [50.08,8.2] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.2]
-[geo-lat::50.08]
-[name::Dotzheim]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.2] 
+[geo-lat::50.08] 
+[name::Dotzheim] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Dotzheim
-coordinates: [[Dotzheim]]
-markerFile: [[Dotzheim]]
+coordinates: [[Dotzheim]] 
+markerFile: [[Dotzheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Dotzheim|Dotzheim]]] 
+- [[Dotzheim|Dotzheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Dotzheim.internal|Dotzheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Dotzheim.protect|Dotzheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Dotzheim.private|Dotzheim.private]] 

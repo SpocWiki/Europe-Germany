@@ -1,5 +1,5 @@
 ﻿---
-location: [49.28,8.22]
+location: [49.28,8.22] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.22]
-[geo-lat::49.28]
-[name::Herxheim]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.22] 
+[geo-lat::49.28] 
+[name::Herxheim] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Herxheim
-coordinates: [[Herxheim]]
-markerFile: [[Herxheim]]
+coordinates: [[Herxheim]] 
+markerFile: [[Herxheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Herxheim|Herxheim]]] 
+- [[Herxheim|Herxheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Herxheim.internal|Herxheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Herxheim.protect|Herxheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Herxheim.private|Herxheim.private]] 

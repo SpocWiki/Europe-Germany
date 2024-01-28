@@ -1,5 +1,5 @@
 ﻿---
-location: [51.77,12.75]
+location: [51.77,12.75] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.75]
-[geo-lat::51.77]
-[name::Boesewig]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.75] 
+[geo-lat::51.77] 
+[name::Boesewig] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Boesewig
-coordinates: [[Boesewig]]
-markerFile: [[Boesewig]]
+coordinates: [[Boesewig]] 
+markerFile: [[Boesewig]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

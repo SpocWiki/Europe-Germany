@@ -1,5 +1,5 @@
 ﻿---
-location: [52.5,12.02]
+location: [52.5,12.02] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.02]
-[geo-lat::52.5]
-[name::Jerichow]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.02] 
+[geo-lat::52.5] 
+[name::Jerichow] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Jerichow
-coordinates: [[Jerichow]]
-markerFile: [[Jerichow]]
+coordinates: [[Jerichow]] 
+markerFile: [[Jerichow]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

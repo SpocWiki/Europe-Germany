@@ -1,5 +1,5 @@
 ﻿---
-location: [52.25,7.97]
+location: [52.25,7.97] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.97]
-[geo-lat::52.25]
-[name::Hellern]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.97] 
+[geo-lat::52.25] 
+[name::Hellern] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hellern
-coordinates: [[Hellern]]
-markerFile: [[Hellern]]
+coordinates: [[Hellern]] 
+markerFile: [[Hellern]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hellern|Hellern]]] 
+- [[Hellern|Hellern]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hellern.internal|Hellern.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hellern.protect|Hellern.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hellern.private|Hellern.private]] 

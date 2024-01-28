@@ -1,5 +1,5 @@
 ﻿---
-location: [53.38,13.45]
+location: [53.38,13.45] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.45]
-[geo-lat::53.38]
-[name::Fuerstenwerder]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.45] 
+[geo-lat::53.38] 
+[name::Fuerstenwerder] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Fuerstenwerder
-coordinates: [[Fuerstenwerder]]
-markerFile: [[Fuerstenwerder]]
+coordinates: [[Fuerstenwerder]] 
+markerFile: [[Fuerstenwerder]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

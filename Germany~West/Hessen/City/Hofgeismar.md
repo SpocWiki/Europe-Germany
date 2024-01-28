@@ -1,5 +1,5 @@
 ﻿---
-location: [51.5,9.4]
+location: [51.5,9.4] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.4]
-[geo-lat::51.5]
-[name::Hofgeismar]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.4] 
+[geo-lat::51.5] 
+[name::Hofgeismar] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hofgeismar
-coordinates: [[Hofgeismar]]
-markerFile: [[Hofgeismar]]
+coordinates: [[Hofgeismar]] 
+markerFile: [[Hofgeismar]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hofgeismar|Hofgeismar]]] 
+- [[Hofgeismar|Hofgeismar]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Hofgeismar.internal|Hofgeismar.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Hofgeismar.protect|Hofgeismar.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Hofgeismar.private|Hofgeismar.private]] 

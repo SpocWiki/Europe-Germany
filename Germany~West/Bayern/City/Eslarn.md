@@ -1,5 +1,5 @@
 ﻿---
-location: [49.58,12.53]
+location: [49.58,12.53] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.53]
-[geo-lat::49.58]
-[name::Eslarn]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.53] 
+[geo-lat::49.58] 
+[name::Eslarn] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Eslarn
-coordinates: [[Eslarn]]
-markerFile: [[Eslarn]]
+coordinates: [[Eslarn]] 
+markerFile: [[Eslarn]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Eslarn|Eslarn]]] 
+- [[Eslarn|Eslarn]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Eslarn.internal|Eslarn.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Eslarn.protect|Eslarn.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Eslarn.private|Eslarn.private]] 

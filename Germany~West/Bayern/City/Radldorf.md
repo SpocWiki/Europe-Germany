@@ -1,5 +1,5 @@
 ﻿---
-location: [48.85,12.45]
+location: [48.85,12.45] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.45]
-[geo-lat::48.85]
-[name::Radldorf]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.45] 
+[geo-lat::48.85] 
+[name::Radldorf] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Radldorf
-coordinates: [[Radldorf]]
-markerFile: [[Radldorf]]
+coordinates: [[Radldorf]] 
+markerFile: [[Radldorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Radldorf|Radldorf]]] 
+- [[Radldorf|Radldorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Radldorf.internal|Radldorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Radldorf.protect|Radldorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Radldorf.private|Radldorf.private]] 

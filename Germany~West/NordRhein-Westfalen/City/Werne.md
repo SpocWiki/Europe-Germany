@@ -1,5 +1,5 @@
 ﻿---
-location: [51.67,7.65]
+location: [51.67,7.65] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.65]
-[geo-lat::51.67]
-[name::Werne]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.65] 
+[geo-lat::51.67] 
+[name::Werne] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Werne
-coordinates: [[Werne]]
-markerFile: [[Werne]]
+coordinates: [[Werne]] 
+markerFile: [[Werne]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Werne|Werne]]] 
+- [[Werne|Werne]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Werne.internal|Werne.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Werne.protect|Werne.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Werne.private|Werne.private]] 

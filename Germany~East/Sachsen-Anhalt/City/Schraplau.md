@@ -1,5 +1,5 @@
 ﻿---
-location: [51.43,11.68]
+location: [51.43,11.68] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.68]
-[geo-lat::51.43]
-[name::Schraplau]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.68] 
+[geo-lat::51.43] 
+[name::Schraplau] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schraplau
-coordinates: [[Schraplau]]
-markerFile: [[Schraplau]]
+coordinates: [[Schraplau]] 
+markerFile: [[Schraplau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

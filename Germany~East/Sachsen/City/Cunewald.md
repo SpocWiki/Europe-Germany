@@ -1,5 +1,5 @@
 ﻿---
-location: [51.1,14.55]
+location: [51.1,14.55] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.55]
-[geo-lat::51.1]
-[name::Cunewald]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::14.55] 
+[geo-lat::51.1] 
+[name::Cunewald] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Cunewald
-coordinates: [[Cunewald]]
-markerFile: [[Cunewald]]
+coordinates: [[Cunewald]] 
+markerFile: [[Cunewald]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

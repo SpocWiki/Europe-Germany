@@ -1,5 +1,5 @@
 ﻿---
-location: [49.48,8.62]
+location: [49.48,8.62] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.62]
-[geo-lat::49.48]
-[name::Ladenburg]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.62] 
+[geo-lat::49.48] 
+[name::Ladenburg] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ladenburg
-coordinates: [[Ladenburg]]
-markerFile: [[Ladenburg]]
+coordinates: [[Ladenburg]] 
+markerFile: [[Ladenburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Ladenburg|Ladenburg]]] 
+- [[Ladenburg|Ladenburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Ladenburg.internal|Ladenburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Ladenburg.protect|Ladenburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Ladenburg.private|Ladenburg.private]] 

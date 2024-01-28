@@ -1,5 +1,5 @@
 ﻿---
-location: [49.78,9.85]
+location: [49.78,9.85] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.85]
-[geo-lat::49.78]
-[name::Waldbuettelbrunn]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.85] 
+[geo-lat::49.78] 
+[name::Waldbuettelbrunn] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Waldbuettelbrunn
-coordinates: [[Waldbuettelbrunn]]
-markerFile: [[Waldbuettelbrunn]]
+coordinates: [[Waldbuettelbrunn]] 
+markerFile: [[Waldbuettelbrunn]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Waldbuettelbrunn|Waldbuettelbrunn]]] 
+- [[Waldbuettelbrunn|Waldbuettelbrunn]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Waldbuettelbrunn.internal|Waldbuettelbrunn.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Waldbuettelbrunn.protect|Waldbuettelbrunn.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Waldbuettelbrunn.private|Waldbuettelbrunn.private]] 

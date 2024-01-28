@@ -1,5 +1,5 @@
 ---
-location: [51.08,12.37]
+location: [51.08,12.37] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.37]
-[geo-lat::51.08]
-[name::Ramsdorf]
-[Country::[[Germany]]]
-[State :: [[Sachsen]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.37] 
+[geo-lat::51.08] 
+[name::Ramsdorf] 
+Country :: [[Germany]]  
+State :: [[Sachsen]] ] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ramsdorf
-coordinates: [[Ramsdorf]]
-markerFile: [[Ramsdorf]]
+coordinates: [[Ramsdorf]] 
+markerFile: [[Ramsdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

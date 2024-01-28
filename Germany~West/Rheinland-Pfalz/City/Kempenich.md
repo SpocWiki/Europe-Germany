@@ -1,5 +1,5 @@
 ﻿---
-location: [50.43,7.12]
+location: [50.43,7.12] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.12]
-[geo-lat::50.43]
-[name::Kempenich]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.12] 
+[geo-lat::50.43] 
+[name::Kempenich] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kempenich
-coordinates: [[Kempenich]]
-markerFile: [[Kempenich]]
+coordinates: [[Kempenich]] 
+markerFile: [[Kempenich]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kempenich|Kempenich]]] 
+- [[Kempenich|Kempenich]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kempenich.internal|Kempenich.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kempenich.protect|Kempenich.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kempenich.private|Kempenich.private]] 

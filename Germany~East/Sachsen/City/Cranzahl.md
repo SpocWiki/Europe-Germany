@@ -1,5 +1,5 @@
 ﻿---
-location: [50.5,13.03]
+location: [50.5,13.03] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.03]
-[geo-lat::50.5]
-[name::Cranzahl]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.03] 
+[geo-lat::50.5] 
+[name::Cranzahl] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Cranzahl
-coordinates: [[Cranzahl]]
-markerFile: [[Cranzahl]]
+coordinates: [[Cranzahl]] 
+markerFile: [[Cranzahl]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

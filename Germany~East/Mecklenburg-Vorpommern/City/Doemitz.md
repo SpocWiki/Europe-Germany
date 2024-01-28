@@ -1,5 +1,5 @@
 ﻿---
-location: [53.15,11.25]
+location: [53.15,11.25] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.25]
-[geo-lat::53.15]
-[name::Doemitz]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.25] 
+[geo-lat::53.15] 
+[name::Doemitz] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Doemitz
-coordinates: [[Doemitz]]
-markerFile: [[Doemitz]]
+coordinates: [[Doemitz]] 
+markerFile: [[Doemitz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

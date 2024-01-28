@@ -1,5 +1,5 @@
 ﻿---
-location: [49.28,7.77]
+location: [49.28,7.77] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.77]
-[geo-lat::49.28]
-[name::Leimen]
-[Country::[[Germany]]]
-[State:[[Rheinland-Pfalz]]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.77] 
+[geo-lat::49.28] 
+[name::Leimen] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Leimen
-coordinates: [[Leimen]]
-markerFile: [[Leimen]]
+coordinates: [[Leimen]] 
+markerFile: [[Leimen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Leimen|Leimen]]] 
+- [[Leimen|Leimen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Leimen.internal|Leimen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Leimen.protect|Leimen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Leimen.private|Leimen.private]] 

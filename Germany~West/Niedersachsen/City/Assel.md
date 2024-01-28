@@ -1,5 +1,5 @@
 ﻿---
-location: [53.7,9.43]
+location: [53.7,9.43] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.43]
-[geo-lat::53.7]
-[name::Assel]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.43] 
+[geo-lat::53.7] 
+[name::Assel] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Assel
-coordinates: [[Assel]]
-markerFile: [[Assel]]
+coordinates: [[Assel]] 
+markerFile: [[Assel]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Assel|Assel]]] 
+- [[Assel|Assel]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Assel.internal|Assel.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Assel.protect|Assel.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Assel.private|Assel.private]] 

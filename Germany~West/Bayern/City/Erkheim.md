@@ -1,5 +1,5 @@
 ﻿---
-location: [48.02,10.35]
+location: [48.02,10.35] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.35]
-[geo-lat::48.02]
-[name::Erkheim]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.35] 
+[geo-lat::48.02] 
+[name::Erkheim] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Erkheim
-coordinates: [[Erkheim]]
-markerFile: [[Erkheim]]
+coordinates: [[Erkheim]] 
+markerFile: [[Erkheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Erkheim|Erkheim]]] 
+- [[Erkheim|Erkheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Erkheim.internal|Erkheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Erkheim.protect|Erkheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Erkheim.private|Erkheim.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [47.8,11.07]
+location: [47.8,11.07] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.07]
-[geo-lat::47.8]
-[name::Peissenberg]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.07] 
+[geo-lat::47.8] 
+[name::Peissenberg] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Peissenberg
-coordinates: [[Peissenberg]]
-markerFile: [[Peissenberg]]
+coordinates: [[Peissenberg]] 
+markerFile: [[Peissenberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Peissenberg|Peissenberg]]] 
+- [[Peissenberg|Peissenberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Peissenberg.internal|Peissenberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Peissenberg.protect|Peissenberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Peissenberg.private|Peissenberg.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [53.82,12.32]
+location: [53.82,12.32] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.32]
-[geo-lat::53.82]
-[name::Mierendorf]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.32] 
+[geo-lat::53.82] 
+[name::Mierendorf] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mierendorf
-coordinates: [[Mierendorf]]
-markerFile: [[Mierendorf]]
+coordinates: [[Mierendorf]] 
+markerFile: [[Mierendorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

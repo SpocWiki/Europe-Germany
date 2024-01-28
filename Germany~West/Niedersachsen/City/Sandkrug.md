@@ -1,5 +1,5 @@
 ﻿---
-location: [53.07,8.13]
+location: [53.07,8.13] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.13]
-[geo-lat::53.07]
-[name::Sandkrug]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.13] 
+[geo-lat::53.07] 
+[name::Sandkrug] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Sandkrug
-coordinates: [[Sandkrug]]
-markerFile: [[Sandkrug]]
+coordinates: [[Sandkrug]] 
+markerFile: [[Sandkrug]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Sandkrug|Sandkrug]]] 
+- [[Sandkrug|Sandkrug]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sandkrug.internal|Sandkrug.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sandkrug.protect|Sandkrug.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sandkrug.private|Sandkrug.private]] 

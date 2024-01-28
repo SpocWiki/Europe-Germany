@@ -1,5 +1,5 @@
 ﻿---
-location: [49.2,9.58]
+location: [49.2,9.58] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.58]
-[geo-lat::49.2]
-[name::Neuenstein]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.58] 
+[geo-lat::49.2] 
+[name::Neuenstein] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Neuenstein
-coordinates: [[Neuenstein]]
-markerFile: [[Neuenstein]]
+coordinates: [[Neuenstein]] 
+markerFile: [[Neuenstein]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Neuenstein|Neuenstein]]] 
+- [[Neuenstein|Neuenstein]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neuenstein.internal|Neuenstein.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neuenstein.protect|Neuenstein.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neuenstein.private|Neuenstein.private]] 

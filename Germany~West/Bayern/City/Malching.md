@@ -1,5 +1,5 @@
 ﻿---
-location: [48.32,13.2]
+location: [48.32,13.2] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.2]
-[geo-lat::48.32]
-[name::Malching]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.2] 
+[geo-lat::48.32] 
+[name::Malching] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Malching
-coordinates: [[Malching]]
-markerFile: [[Malching]]
+coordinates: [[Malching]] 
+markerFile: [[Malching]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Malching|Malching]]] 
+- [[Malching|Malching]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Malching.internal|Malching.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Malching.protect|Malching.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Malching.private|Malching.private]] 

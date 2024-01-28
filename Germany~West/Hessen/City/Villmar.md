@@ -1,5 +1,5 @@
 ﻿---
-location: [50.4,8.2]
+location: [50.4,8.2] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.2]
-[geo-lat::50.4]
-[name::Villmar]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.2] 
+[geo-lat::50.4] 
+[name::Villmar] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Villmar
-coordinates: [[Villmar]]
-markerFile: [[Villmar]]
+coordinates: [[Villmar]] 
+markerFile: [[Villmar]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Villmar|Villmar]]] 
+- [[Villmar|Villmar]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Villmar.internal|Villmar.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Villmar.protect|Villmar.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Villmar.private|Villmar.private]] 

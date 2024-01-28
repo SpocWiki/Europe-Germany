@@ -1,5 +1,5 @@
 ---
-location: [50.0863,8.650082]
+location: [50.0863,8.650082] 
 type: Station 
 mapzoom: [8,18] 
 mapmarker: tram 
@@ -10,17 +10,17 @@ SpocWebEntityId: 156503
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.650082]
-[geo-lat::50.0863]
-[name::Triftstraße]
-[Country::[[Germany]]]
-[City:[[Frankfurt~Main]] ]
+[geo-lon::8.650082] 
+[geo-lat::50.0863] 
+[name::Triftstraße] 
+Country :: [[Germany]]  
+City :: [[Frankfurt~Main]] ] 
 
 
 ```leaflet
 id: S-Triftstraße.md
-coordinates: [[T-Triftstraße]]
-markerFile: [[T-Triftstraße]]
+coordinates: [[T-Triftstraße]] 
+markerFile: [[T-Triftstraße]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

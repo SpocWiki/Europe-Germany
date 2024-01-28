@@ -1,5 +1,5 @@
 ﻿---
-location: [52.97,13.75]
+location: [52.97,13.75] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.75]
-[geo-lat::52.97]
-[name::Joachimsthal=Jachymov]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::13.75] 
+[geo-lat::52.97] 
+[name::Joachimsthal=Jachymov] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Joachimsthal=Jachymov
-coordinates: [[Joachimsthal=Jachymov]]
-markerFile: [[Joachimsthal=Jachymov]]
+coordinates: [[Joachimsthal=Jachymov]] 
+markerFile: [[Joachimsthal=Jachymov]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

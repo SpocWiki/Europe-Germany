@@ -1,5 +1,5 @@
 ﻿---
-location: [49.72,8.1]
+location: [49.72,8.1] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.1]
-[geo-lat::49.72]
-[name::Wahlheim]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.1] 
+[geo-lat::49.72] 
+[name::Wahlheim] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wahlheim
-coordinates: [[Wahlheim]]
-markerFile: [[Wahlheim]]
+coordinates: [[Wahlheim]] 
+markerFile: [[Wahlheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Wahlheim|Wahlheim]]] 
+- [[Wahlheim|Wahlheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wahlheim.internal|Wahlheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wahlheim.protect|Wahlheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wahlheim.private|Wahlheim.private]] 

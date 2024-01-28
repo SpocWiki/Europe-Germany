@@ -1,5 +1,5 @@
 ﻿---
-location: [50.37,11.18]
+location: [50.37,11.18] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.18]
-[geo-lat::50.37]
-[name::Sonneberg]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.18] 
+[geo-lat::50.37] 
+[name::Sonneberg] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Sonneberg
-coordinates: [[Sonneberg]]
-markerFile: [[Sonneberg]]
+coordinates: [[Sonneberg]] 
+markerFile: [[Sonneberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

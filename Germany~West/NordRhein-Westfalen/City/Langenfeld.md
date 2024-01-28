@@ -1,5 +1,5 @@
 ﻿---
-location: [51.1,6.97]
+location: [51.1,6.97] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.97]
-[geo-lat::51.1]
-[name::Langenfeld]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.97] 
+[geo-lat::51.1] 
+[name::Langenfeld] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Langenfeld
-coordinates: [[Langenfeld]]
-markerFile: [[Langenfeld]]
+coordinates: [[Langenfeld]] 
+markerFile: [[Langenfeld]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Langenfeld|Langenfeld]]] 
+- [[Langenfeld|Langenfeld]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Langenfeld.internal|Langenfeld.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Langenfeld.protect|Langenfeld.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Langenfeld.private|Langenfeld.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [50.15,11.07]
+location: [50.15,11.07] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.07]
-[geo-lat::50.15]
-[name::Lichtenfels]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.07] 
+[geo-lat::50.15] 
+[name::Lichtenfels] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lichtenfels
-coordinates: [[Lichtenfels]]
-markerFile: [[Lichtenfels]]
+coordinates: [[Lichtenfels]] 
+markerFile: [[Lichtenfels]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Lichtenfels|Lichtenfels]]] 
+- [[Lichtenfels|Lichtenfels]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Lichtenfels.internal|Lichtenfels.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Lichtenfels.protect|Lichtenfels.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Lichtenfels.private|Lichtenfels.private]] 

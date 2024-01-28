@@ -1,5 +1,5 @@
 ﻿---
-location: [53.42,11.45]
+location: [53.42,11.45] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.45]
-[geo-lat::53.42]
-[name::Lueblow]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.45] 
+[geo-lat::53.42] 
+[name::Lueblow] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lueblow
-coordinates: [[Lueblow]]
-markerFile: [[Lueblow]]
+coordinates: [[Lueblow]] 
+markerFile: [[Lueblow]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

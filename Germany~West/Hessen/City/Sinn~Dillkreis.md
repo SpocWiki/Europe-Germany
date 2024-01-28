@@ -1,5 +1,5 @@
 ﻿---
-location: [50.65,8.33]
+location: [50.65,8.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.33]
-[geo-lat::50.65]
-[name::Sinn~Dillkreis]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.33] 
+[geo-lat::50.65] 
+[name::Sinn~Dillkreis] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Sinn~Dillkreis
-coordinates: [[Sinn~Dillkreis]]
-markerFile: [[Sinn~Dillkreis]]
+coordinates: [[Sinn~Dillkreis]] 
+markerFile: [[Sinn~Dillkreis]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Sinn~Dillkreis|Sinn~Dillkreis]]] 
+- [[Sinn~Dillkreis|Sinn~Dillkreis]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Sinn~Dillkreis.internal|Sinn~Dillkreis.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Sinn~Dillkreis.protect|Sinn~Dillkreis.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Sinn~Dillkreis.private|Sinn~Dillkreis.private]] 

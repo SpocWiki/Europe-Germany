@@ -1,5 +1,5 @@
 ﻿---
-location: [52.48,9.23]
+location: [52.48,9.23] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.23]
-[geo-lat::52.48]
-[name::Rehburg]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.23] 
+[geo-lat::52.48] 
+[name::Rehburg] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Rehburg
-coordinates: [[Rehburg]]
-markerFile: [[Rehburg]]
+coordinates: [[Rehburg]] 
+markerFile: [[Rehburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Rehburg|Rehburg]]] 
+- [[Rehburg|Rehburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rehburg.internal|Rehburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rehburg.protect|Rehburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rehburg.private|Rehburg.private]] 

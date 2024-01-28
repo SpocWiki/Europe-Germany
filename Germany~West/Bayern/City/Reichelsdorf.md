@@ -1,5 +1,5 @@
 ﻿---
-location: [49.38,11.03]
+location: [49.38,11.03] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.03]
-[geo-lat::49.38]
-[name::Reichelsdorf]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.03] 
+[geo-lat::49.38] 
+[name::Reichelsdorf] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Reichelsdorf
-coordinates: [[Reichelsdorf]]
-markerFile: [[Reichelsdorf]]
+coordinates: [[Reichelsdorf]] 
+markerFile: [[Reichelsdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Reichelsdorf|Reichelsdorf]]] 
+- [[Reichelsdorf|Reichelsdorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Reichelsdorf.internal|Reichelsdorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Reichelsdorf.protect|Reichelsdorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Reichelsdorf.private|Reichelsdorf.private]] 

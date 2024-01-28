@@ -1,5 +1,5 @@
 ﻿---
-location: [53,9.82]
+location: [53,9.82] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.82]
-[geo-lat::53]
-[name::Soltau]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.82] 
+[geo-lat::53] 
+[name::Soltau] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Soltau
-coordinates: [[Soltau]]
-markerFile: [[Soltau]]
+coordinates: [[Soltau]] 
+markerFile: [[Soltau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Soltau|Soltau]]] 
+- [[Soltau|Soltau]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Soltau.internal|Soltau.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Soltau.protect|Soltau.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Soltau.private|Soltau.private]] 

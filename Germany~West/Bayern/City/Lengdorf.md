@@ -1,5 +1,5 @@
 ﻿---
-location: [48.23,12.07]
+location: [48.23,12.07] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.07]
-[geo-lat::48.23]
-[name::Lengdorf]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.07] 
+[geo-lat::48.23] 
+[name::Lengdorf] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lengdorf
-coordinates: [[Lengdorf]]
-markerFile: [[Lengdorf]]
+coordinates: [[Lengdorf]] 
+markerFile: [[Lengdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Lengdorf|Lengdorf]]] 
+- [[Lengdorf|Lengdorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Lengdorf.internal|Lengdorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Lengdorf.protect|Lengdorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Lengdorf.private|Lengdorf.private]] 

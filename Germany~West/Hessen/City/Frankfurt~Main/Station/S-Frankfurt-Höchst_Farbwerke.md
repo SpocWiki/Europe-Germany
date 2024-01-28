@@ -1,5 +1,5 @@
 ---
-location: [50.09836,8.528183]
+location: [50.09836,8.528183] 
 type: Station 
 mapzoom: [8,18] 
 mapmarker: train 
@@ -10,17 +10,17 @@ SpocWebEntityId: 156365
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.528183]
-[geo-lat::50.09836]
-[name::Frankfurt-Höchst Farbwerke]
-[Country::[[Germany]]]
-[City:[[Frankfurt~Main]] ]
+[geo-lon::8.528183] 
+[geo-lat::50.09836] 
+[name::Frankfurt-Höchst Farbwerke] 
+Country :: [[Germany]]  
+City :: [[Frankfurt~Main]] ] 
 
 
 ```leaflet
 id: S-Frankfurt-Höchst_Farbwerke.md
-coordinates: [[S-Frankfurt-Höchst_Farbwerke]]
-markerFile: [[S-Frankfurt-Höchst_Farbwerke]]
+coordinates: [[S-Frankfurt-Höchst_Farbwerke]] 
+markerFile: [[S-Frankfurt-Höchst_Farbwerke]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

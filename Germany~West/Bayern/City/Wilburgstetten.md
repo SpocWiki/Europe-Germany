@@ -1,5 +1,5 @@
 ﻿---
-location: [49.03,10.38]
+location: [49.03,10.38] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.38]
-[geo-lat::49.03]
-[name::Wilburgstetten]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.38] 
+[geo-lat::49.03] 
+[name::Wilburgstetten] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wilburgstetten
-coordinates: [[Wilburgstetten]]
-markerFile: [[Wilburgstetten]]
+coordinates: [[Wilburgstetten]] 
+markerFile: [[Wilburgstetten]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Wilburgstetten|Wilburgstetten]]] 
+- [[Wilburgstetten|Wilburgstetten]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wilburgstetten.internal|Wilburgstetten.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wilburgstetten.protect|Wilburgstetten.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wilburgstetten.private|Wilburgstetten.private]] 

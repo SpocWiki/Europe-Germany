@@ -1,5 +1,5 @@
 ﻿---
-location: [53.48,12.43]
+location: [53.48,12.43] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.43]
-[geo-lat::53.48]
-[name::Malchow]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.43] 
+[geo-lat::53.48] 
+[name::Malchow] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Malchow
-coordinates: [[Malchow]]
-markerFile: [[Malchow]]
+coordinates: [[Malchow]] 
+markerFile: [[Malchow]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

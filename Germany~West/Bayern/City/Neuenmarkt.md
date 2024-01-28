@@ -1,5 +1,5 @@
 ﻿---
-location: [50.1,11.58]
+location: [50.1,11.58] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.58]
-[geo-lat::50.1]
-[name::Neuenmarkt]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.58] 
+[geo-lat::50.1] 
+[name::Neuenmarkt] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Neuenmarkt
-coordinates: [[Neuenmarkt]]
-markerFile: [[Neuenmarkt]]
+coordinates: [[Neuenmarkt]] 
+markerFile: [[Neuenmarkt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Neuenmarkt|Neuenmarkt]]] 
+- [[Neuenmarkt|Neuenmarkt]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Neuenmarkt.internal|Neuenmarkt.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Neuenmarkt.protect|Neuenmarkt.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Neuenmarkt.private|Neuenmarkt.private]] 

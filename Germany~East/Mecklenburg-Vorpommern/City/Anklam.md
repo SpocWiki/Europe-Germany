@@ -1,5 +1,5 @@
 ﻿---
-location: [53.85,13.68]
+location: [53.85,13.68] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.68]
-[geo-lat::53.85]
-[name::Anklam]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.68] 
+[geo-lat::53.85] 
+[name::Anklam] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Anklam
-coordinates: [[Anklam]]
-markerFile: [[Anklam]]
+coordinates: [[Anklam]] 
+markerFile: [[Anklam]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ---
-location: [52.3844,13.3801]
+location: [52.3844,13.3801] 
 type: State
 ISO3166-2: DE-BB
 SpocWebEntityId: 29314
@@ -9,10 +9,10 @@ tags:
 - geo/State
 
 ---
-[name::Brandenburg]
-[name-abbr::BB]
-![[Coat_of_arms_of_Brandenburg.svg|350]]
-![[Flag_of_Brandenburg.svg|350]]
+[name::Brandenburg] 
+[name-abbr::BB] 
+![[Coat_of_arms_of_Brandenburg.svg|350]] 
+![[Flag_of_Brandenburg.svg|350]] 
 
 ```leaflet
 id: Brandenburg
@@ -25,11 +25,11 @@ markerFolder: ./Brandenburg/
 markerFolder: ./Brandenburg/
 ```
 
-[Country::[[Germany]]]
-[Capital :: [[Potsdam]] ]
-[geo-lon::13.3801]
-[geo-lat::52.3844]
-[Population::]
+Country :: [[Germany]]  
+Capital :: [[Potsdam]] ] 
+[geo-lon::13.3801] 
+[geo-lat::52.3844] 
+[Population::] 
 
 
 

@@ -1,5 +1,5 @@
 ﻿---
-location: [47.85,7.7]
+location: [47.85,7.7] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.7]
-[geo-lat::47.85]
-[name::Sulzburg]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.7] 
+[geo-lat::47.85] 
+[name::Sulzburg] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Sulzburg
-coordinates: [[Sulzburg]]
-markerFile: [[Sulzburg]]
+coordinates: [[Sulzburg]] 
+markerFile: [[Sulzburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Sulzburg|Sulzburg]]] 
+- [[Sulzburg|Sulzburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Sulzburg.internal|Sulzburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Sulzburg.protect|Sulzburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Sulzburg.private|Sulzburg.private]] 

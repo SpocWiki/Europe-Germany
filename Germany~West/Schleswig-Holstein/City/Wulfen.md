@@ -1,5 +1,5 @@
 ﻿---
-location: [54.4,11.17]
+location: [54.4,11.17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.17]
-[geo-lat::54.4]
-[name::Wulfen]
-[Country::[[Germany]]]
-[State:[[Schleswig-Holstein]]]]
-[Population::]
-[Unknown::]
+[geo-lon::11.17] 
+[geo-lat::54.4] 
+[name::Wulfen] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wulfen
-coordinates: [[Wulfen]]
-markerFile: [[Wulfen]]
+coordinates: [[Wulfen]] 
+markerFile: [[Wulfen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Wulfen|Wulfen]]] 
+- [[Wulfen|Wulfen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wulfen.internal|Wulfen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wulfen.protect|Wulfen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wulfen.private|Wulfen.private]] 

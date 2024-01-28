@@ -1,5 +1,5 @@
 ---
-location: [53.54,9.93222]
+location: [53.54,9.93222] 
 type: State
 ISO3166-2: DE-HH
 SpocWebEntityId: 30742
@@ -10,12 +10,12 @@ tags:
 
 ---
 
-[name::State~Hamburg]
-[name-abbr::HG]
+[name::State~Hamburg] 
+[name-abbr::HG] 
 
-![[Coat_of_arms_of_Hamburg_Bürgerschaft.svg|350]]
+![[Coat_of_arms_of_Hamburg_Bürgerschaft.svg|350]] 
 
-![[Flag_of_Hamburg.svg|350]]
+![[Flag_of_Hamburg.svg|350]] 
 
 ```leaflet
 id: State~Hamburg
@@ -26,11 +26,11 @@ geojsonFolder: ./State~Hamburg/
 markerFolder: ./State~Hamburg/
 ```
 
-[Country:: [[Germany]] ]
-[Capital:: [[Hamburg]] ]
-[geo-lon::9.93222]
-[geo-lat::53.54]
-[Population::]
+Country :: [[Germany]] ] 
+Capital :: [[Hamburg]] ] 
+[geo-lon::9.93222] 
+[geo-lat::53.54] 
+[Population::] 
 
 
 

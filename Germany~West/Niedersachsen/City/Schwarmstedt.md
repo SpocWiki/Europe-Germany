@@ -1,5 +1,5 @@
 ﻿---
-location: [52.68,9.62]
+location: [52.68,9.62] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.62]
-[geo-lat::52.68]
-[name::Schwarmstedt]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.62] 
+[geo-lat::52.68] 
+[name::Schwarmstedt] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schwarmstedt
-coordinates: [[Schwarmstedt]]
-markerFile: [[Schwarmstedt]]
+coordinates: [[Schwarmstedt]] 
+markerFile: [[Schwarmstedt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Schwarmstedt|Schwarmstedt]]] 
+- [[Schwarmstedt|Schwarmstedt]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schwarmstedt.internal|Schwarmstedt.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schwarmstedt.protect|Schwarmstedt.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schwarmstedt.private|Schwarmstedt.private]] 

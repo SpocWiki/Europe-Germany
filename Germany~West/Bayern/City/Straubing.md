@@ -1,5 +1,5 @@
 ﻿---
-location: [48.88,12.58]
+location: [48.88,12.58] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.58]
-[geo-lat::48.88]
-[name::Straubing]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.58] 
+[geo-lat::48.88] 
+[name::Straubing] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Straubing
-coordinates: [[Straubing]]
-markerFile: [[Straubing]]
+coordinates: [[Straubing]] 
+markerFile: [[Straubing]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Straubing|Straubing]]] 
+- [[Straubing|Straubing]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Straubing.internal|Straubing.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Straubing.protect|Straubing.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Straubing.private|Straubing.private]] 

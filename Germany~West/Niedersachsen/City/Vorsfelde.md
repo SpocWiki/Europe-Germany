@@ -1,5 +1,5 @@
 ﻿---
-location: [52.43,10.85]
+location: [52.43,10.85] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.85]
-[geo-lat::52.43]
-[name::Vorsfelde]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.85] 
+[geo-lat::52.43] 
+[name::Vorsfelde] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Vorsfelde
-coordinates: [[Vorsfelde]]
-markerFile: [[Vorsfelde]]
+coordinates: [[Vorsfelde]] 
+markerFile: [[Vorsfelde]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Vorsfelde|Vorsfelde]]] 
+- [[Vorsfelde|Vorsfelde]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vorsfelde.internal|Vorsfelde.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vorsfelde.protect|Vorsfelde.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vorsfelde.private|Vorsfelde.private]] 

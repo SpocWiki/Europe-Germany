@@ -1,5 +1,5 @@
 ﻿---
-location: [52.32,8.75]
+location: [52.32,8.75] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.75]
-[geo-lat::52.32]
-[name::Hartum]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.75] 
+[geo-lat::52.32] 
+[name::Hartum] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hartum
-coordinates: [[Hartum]]
-markerFile: [[Hartum]]
+coordinates: [[Hartum]] 
+markerFile: [[Hartum]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hartum|Hartum]]] 
+- [[Hartum|Hartum]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hartum.internal|Hartum.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hartum.protect|Hartum.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hartum.private|Hartum.private]] 

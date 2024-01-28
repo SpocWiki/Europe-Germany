@@ -1,5 +1,5 @@
 ﻿---
-location: [50.48,8.88]
+location: [50.48,8.88] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.88]
-[geo-lat::50.48]
-[name::Heldenbergen]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.88] 
+[geo-lat::50.48] 
+[name::Heldenbergen] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Heldenbergen
-coordinates: [[Heldenbergen]]
-markerFile: [[Heldenbergen]]
+coordinates: [[Heldenbergen]] 
+markerFile: [[Heldenbergen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Heldenbergen|Heldenbergen]]] 
+- [[Heldenbergen|Heldenbergen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Heldenbergen.internal|Heldenbergen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Heldenbergen.protect|Heldenbergen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Heldenbergen.private|Heldenbergen.private]] 

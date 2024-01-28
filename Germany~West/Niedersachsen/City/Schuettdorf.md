@@ -1,5 +1,5 @@
 ﻿---
-location: [52.33,7.22]
+location: [52.33,7.22] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.22]
-[geo-lat::52.33]
-[name::Schuettdorf]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.22] 
+[geo-lat::52.33] 
+[name::Schuettdorf] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schuettdorf
-coordinates: [[Schuettdorf]]
-markerFile: [[Schuettdorf]]
+coordinates: [[Schuettdorf]] 
+markerFile: [[Schuettdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Schuettdorf|Schuettdorf]]] 
+- [[Schuettdorf|Schuettdorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schuettdorf.internal|Schuettdorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schuettdorf.protect|Schuettdorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schuettdorf.private|Schuettdorf.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [49.53,7.42]
+location: [49.53,7.42] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.42]
-[geo-lat::49.53]
-[name::Kusel]
-[Country::[[Germany]]]
-[State:[[Rheinland-Pfalz]]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.42] 
+[geo-lat::49.53] 
+[name::Kusel] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kusel
-coordinates: [[Kusel]]
-markerFile: [[Kusel]]
+coordinates: [[Kusel]] 
+markerFile: [[Kusel]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kusel|Kusel]]] 
+- [[Kusel|Kusel]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kusel.internal|Kusel.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kusel.protect|Kusel.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kusel.private|Kusel.private]] 

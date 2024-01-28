@@ -1,5 +1,5 @@
 ﻿---
-location: [52.33,10.23]
+location: [52.33,10.23] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.23]
-[geo-lat::52.33]
-[name::Peine]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.23] 
+[geo-lat::52.33] 
+[name::Peine] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Peine
-coordinates: [[Peine]]
-markerFile: [[Peine]]
+coordinates: [[Peine]] 
+markerFile: [[Peine]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Peine|Peine]]] 
+- [[Peine|Peine]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Peine.internal|Peine.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Peine.protect|Peine.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Peine.private|Peine.private]] 

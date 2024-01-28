@@ -1,5 +1,5 @@
 ﻿---
-location: [53.83,9]
+location: [53.83,9] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9]
-[geo-lat::53.83]
-[name::Ballie]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9] 
+[geo-lat::53.83] 
+[name::Ballie] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ballie
-coordinates: [[Ballie]]
-markerFile: [[Ballie]]
+coordinates: [[Ballie]] 
+markerFile: [[Ballie]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Ballie|Ballie]]] 
+- [[Ballie|Ballie]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ballie.internal|Ballie.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ballie.protect|Ballie.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ballie.private|Ballie.private]] 

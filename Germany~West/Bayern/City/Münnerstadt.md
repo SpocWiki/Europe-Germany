@@ -1,5 +1,5 @@
 ---
-location: [50.25,10.2]
+location: [50.25,10.2] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.2]
-[geo-lat::50.25]
-[name::Münnerstadt]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.2] 
+[geo-lat::50.25] 
+[name::Münnerstadt] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Münnerstadt
-coordinates: [[Münnerstadt]]
-markerFile: [[Münnerstadt]]
+coordinates: [[Münnerstadt]] 
+markerFile: [[Münnerstadt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

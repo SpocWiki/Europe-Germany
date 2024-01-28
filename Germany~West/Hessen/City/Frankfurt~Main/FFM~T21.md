@@ -29,7 +29,7 @@ expiryDate:
 
 # FFM~T21
 
-Straßen-Bahn in[[Frankfurt~Main]]] 
+Straßen-Bahn in[[Frankfurt~Main]]  
 
 ```leaflet
 id: FFM~T21

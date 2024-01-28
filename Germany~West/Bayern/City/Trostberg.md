@@ -1,5 +1,5 @@
 ﻿---
-location: [48.03,12.53]
+location: [48.03,12.53] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.53]
-[geo-lat::48.03]
-[name::Trostberg]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.53] 
+[geo-lat::48.03] 
+[name::Trostberg] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Trostberg
-coordinates: [[Trostberg]]
-markerFile: [[Trostberg]]
+coordinates: [[Trostberg]] 
+markerFile: [[Trostberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Trostberg|Trostberg]]] 
+- [[Trostberg|Trostberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Trostberg.internal|Trostberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Trostberg.protect|Trostberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Trostberg.private|Trostberg.private]] 

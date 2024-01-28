@@ -1,5 +1,5 @@
 ﻿---
-location: [50.32,9.6]
+location: [50.32,9.6] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.6]
-[geo-lat::50.32]
-[name::Vollmerz]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.6] 
+[geo-lat::50.32] 
+[name::Vollmerz] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Vollmerz
-coordinates: [[Vollmerz]]
-markerFile: [[Vollmerz]]
+coordinates: [[Vollmerz]] 
+markerFile: [[Vollmerz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Vollmerz|Vollmerz]]] 
+- [[Vollmerz|Vollmerz]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Vollmerz.internal|Vollmerz.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Vollmerz.protect|Vollmerz.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Vollmerz.private|Vollmerz.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [51.35,7.12]
+location: [51.35,7.12] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.12]
-[geo-lat::51.35]
-[name::Langenberg~Rheinland]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.12] 
+[geo-lat::51.35] 
+[name::Langenberg~Rheinland] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Langenberg~Rheinland
-coordinates: [[Langenberg~Rheinland]]
-markerFile: [[Langenberg~Rheinland]]
+coordinates: [[Langenberg~Rheinland]] 
+markerFile: [[Langenberg~Rheinland]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Langenberg~Rheinland|Langenberg~Rheinland]]] 
+- [[Langenberg~Rheinland|Langenberg~Rheinland]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Langenberg~Rheinland.internal|Langenberg~Rheinland.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Langenberg~Rheinland.protect|Langenberg~Rheinland.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Langenberg~Rheinland.private|Langenberg~Rheinland.private]] 

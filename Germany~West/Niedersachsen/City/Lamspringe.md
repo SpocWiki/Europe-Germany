@@ -1,5 +1,5 @@
 ﻿---
-location: [51.97,10]
+location: [51.97,10] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10]
-[geo-lat::51.97]
-[name::Lamspringe]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10] 
+[geo-lat::51.97] 
+[name::Lamspringe] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lamspringe
-coordinates: [[Lamspringe]]
-markerFile: [[Lamspringe]]
+coordinates: [[Lamspringe]] 
+markerFile: [[Lamspringe]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Lamspringe|Lamspringe]]] 
+- [[Lamspringe|Lamspringe]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lamspringe.internal|Lamspringe.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lamspringe.protect|Lamspringe.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lamspringe.private|Lamspringe.private]] 

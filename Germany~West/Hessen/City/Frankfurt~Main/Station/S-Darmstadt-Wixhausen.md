@@ -1,5 +1,5 @@
 ---
-location: [49.93111,8.649722]
+location: [49.93111,8.649722] 
 type: Station 
 mapzoom: [8,18] 
 mapmarker: train 
@@ -10,17 +10,17 @@ SpocWebEntityId: 156412
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.649722]
-[geo-lat::49.93111]
-[name::Darmstadt-Wixhausen]
-[Country::[[Germany]]]
-[City:[[Frankfurt~Main]] ]
+[geo-lon::8.649722] 
+[geo-lat::49.93111] 
+[name::Darmstadt-Wixhausen] 
+Country :: [[Germany]]  
+City :: [[Frankfurt~Main]] ] 
 
 
 ```leaflet
 id: S-Darmstadt-Wixhausen.md
-coordinates: [[S-Darmstadt-Wixhausen]]
-markerFile: [[S-Darmstadt-Wixhausen]]
+coordinates: [[S-Darmstadt-Wixhausen]] 
+markerFile: [[S-Darmstadt-Wixhausen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

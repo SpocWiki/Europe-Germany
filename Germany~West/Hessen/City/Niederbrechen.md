@@ -1,5 +1,5 @@
 ﻿---
-location: [50.37,8.22]
+location: [50.37,8.22] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.22]
-[geo-lat::50.37]
-[name::Niederbrechen]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.22] 
+[geo-lat::50.37] 
+[name::Niederbrechen] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Niederbrechen
-coordinates: [[Niederbrechen]]
-markerFile: [[Niederbrechen]]
+coordinates: [[Niederbrechen]] 
+markerFile: [[Niederbrechen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Niederbrechen|Niederbrechen]]] 
+- [[Niederbrechen|Niederbrechen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Niederbrechen.internal|Niederbrechen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Niederbrechen.protect|Niederbrechen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Niederbrechen.private|Niederbrechen.private]] 

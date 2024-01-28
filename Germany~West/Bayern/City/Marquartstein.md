@@ -1,5 +1,5 @@
 ﻿---
-location: [47.75,12.47]
+location: [47.75,12.47] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.47]
-[geo-lat::47.75]
-[name::Marquartstein]
-[Country::[[Germany]]]
-[State:[[Bayern]]]]
-[Population::]
-[Unknown::]
+[geo-lon::12.47] 
+[geo-lat::47.75] 
+[name::Marquartstein] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Marquartstein
-coordinates: [[Marquartstein]]
-markerFile: [[Marquartstein]]
+coordinates: [[Marquartstein]] 
+markerFile: [[Marquartstein]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Marquartstein|Marquartstein]]] 
+- [[Marquartstein|Marquartstein]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Marquartstein.internal|Marquartstein.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Marquartstein.protect|Marquartstein.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Marquartstein.private|Marquartstein.private]] 

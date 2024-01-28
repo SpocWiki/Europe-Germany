@@ -1,5 +1,5 @@
 ﻿---
-location: [48.65,8.4]
+location: [48.65,8.4] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.4]
-[geo-lat::48.65]
-[name::Schramberg]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.4] 
+[geo-lat::48.65] 
+[name::Schramberg] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schramberg
-coordinates: [[Schramberg]]
-markerFile: [[Schramberg]]
+coordinates: [[Schramberg]] 
+markerFile: [[Schramberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Schramberg|Schramberg]]] 
+- [[Schramberg|Schramberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schramberg.internal|Schramberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schramberg.protect|Schramberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schramberg.private|Schramberg.private]] 

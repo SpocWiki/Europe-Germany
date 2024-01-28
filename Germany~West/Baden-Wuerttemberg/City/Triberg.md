@@ -1,5 +1,5 @@
 ﻿---
-location: [48.13,8.23]
+location: [48.13,8.23] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.23]
-[geo-lat::48.13]
-[name::Triberg]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.23] 
+[geo-lat::48.13] 
+[name::Triberg] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Triberg
-coordinates: [[Triberg]]
-markerFile: [[Triberg]]
+coordinates: [[Triberg]] 
+markerFile: [[Triberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Triberg|Triberg]]] 
+- [[Triberg|Triberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Triberg.internal|Triberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Triberg.protect|Triberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Triberg.private|Triberg.private]] 

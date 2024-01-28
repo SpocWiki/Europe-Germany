@@ -1,5 +1,5 @@
 ---
-location: [50.11489,8.422853]
+location: [50.11489,8.422853] 
 type: Station 
 mapzoom: [8,18] 
 mapmarker: train 
@@ -10,17 +10,17 @@ SpocWebEntityId: 156395
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.422853]
-[geo-lat::50.11489]
-[name::Lorsbach]
-[Country::[[Germany]]]
-[City:[[Frankfurt~Main]] ]
+[geo-lon::8.422853] 
+[geo-lat::50.11489] 
+[name::Lorsbach] 
+Country :: [[Germany]]  
+City :: [[Frankfurt~Main]] ] 
 
 
 ```leaflet
 id: S-Lorsbach.md
-coordinates: [[S-Lorsbach]]
-markerFile: [[S-Lorsbach]]
+coordinates: [[S-Lorsbach]] 
+markerFile: [[S-Lorsbach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

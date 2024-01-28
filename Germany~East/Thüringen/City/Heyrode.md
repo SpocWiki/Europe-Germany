@@ -1,5 +1,5 @@
 ﻿---
-location: [51.18,10.35]
+location: [51.18,10.35] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.35]
-[geo-lat::51.18]
-[name::Heyrode]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.35] 
+[geo-lat::51.18] 
+[name::Heyrode] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Heyrode
-coordinates: [[Heyrode]]
-markerFile: [[Heyrode]]
+coordinates: [[Heyrode]] 
+markerFile: [[Heyrode]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

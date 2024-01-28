@@ -1,5 +1,5 @@
 ﻿---
-location: [51.67,9.25]
+location: [51.67,9.25] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.25]
-[geo-lat::51.67]
-[name::Beverungen]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.25] 
+[geo-lat::51.67] 
+[name::Beverungen] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Beverungen
-coordinates: [[Beverungen]]
-markerFile: [[Beverungen]]
+coordinates: [[Beverungen]] 
+markerFile: [[Beverungen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Beverungen|Beverungen]]] 
+- [[Beverungen|Beverungen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Beverungen.internal|Beverungen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Beverungen.protect|Beverungen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Beverungen.private|Beverungen.private]] 

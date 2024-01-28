@@ -1,5 +1,5 @@
 ﻿---
-location: [49,11.8]
+location: [49,11.8] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.8]
-[geo-lat::49]
-[name::Painten]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.8] 
+[geo-lat::49] 
+[name::Painten] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Painten
-coordinates: [[Painten]]
-markerFile: [[Painten]]
+coordinates: [[Painten]] 
+markerFile: [[Painten]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Painten|Painten]]] 
+- [[Painten|Painten]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Painten.internal|Painten.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Painten.protect|Painten.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Painten.private|Painten.private]] 

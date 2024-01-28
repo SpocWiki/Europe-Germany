@@ -1,5 +1,5 @@
 ﻿---
-location: [52.25,10.82]
+location: [52.25,10.82] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.82]
-[geo-lat::52.25]
-[name::Koenigslutter]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.82] 
+[geo-lat::52.25] 
+[name::Koenigslutter] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Koenigslutter
-coordinates: [[Koenigslutter]]
-markerFile: [[Koenigslutter]]
+coordinates: [[Koenigslutter]] 
+markerFile: [[Koenigslutter]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Koenigslutter|Koenigslutter]]] 
+- [[Koenigslutter|Koenigslutter]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Koenigslutter.internal|Koenigslutter.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Koenigslutter.protect|Koenigslutter.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Koenigslutter.private|Koenigslutter.private]] 

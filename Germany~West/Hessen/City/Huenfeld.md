@@ -1,5 +1,5 @@
 ﻿---
-location: [50.67,9.8]
+location: [50.67,9.8] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.8]
-[geo-lat::50.67]
-[name::Huenfeld]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.8] 
+[geo-lat::50.67] 
+[name::Huenfeld] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Huenfeld
-coordinates: [[Huenfeld]]
-markerFile: [[Huenfeld]]
+coordinates: [[Huenfeld]] 
+markerFile: [[Huenfeld]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Huenfeld|Huenfeld]]] 
+- [[Huenfeld|Huenfeld]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Huenfeld.internal|Huenfeld.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Huenfeld.protect|Huenfeld.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Huenfeld.private|Huenfeld.private]] 

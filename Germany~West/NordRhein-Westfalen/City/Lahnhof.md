@@ -1,5 +1,5 @@
 ﻿---
-location: [50.9,8.25]
+location: [50.9,8.25] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.25]
-[geo-lat::50.9]
-[name::Lahnhof]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.25] 
+[geo-lat::50.9] 
+[name::Lahnhof] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lahnhof
-coordinates: [[Lahnhof]]
-markerFile: [[Lahnhof]]
+coordinates: [[Lahnhof]] 
+markerFile: [[Lahnhof]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Lahnhof|Lahnhof]]] 
+- [[Lahnhof|Lahnhof]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Lahnhof.internal|Lahnhof.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Lahnhof.protect|Lahnhof.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Lahnhof.private|Lahnhof.private]] 

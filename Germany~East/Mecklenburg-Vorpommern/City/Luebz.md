@@ -1,5 +1,5 @@
 ﻿---
-location: [53.47,12.03]
+location: [53.47,12.03] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.03]
-[geo-lat::53.47]
-[name::Luebz]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.03] 
+[geo-lat::53.47] 
+[name::Luebz] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Luebz
-coordinates: [[Luebz]]
-markerFile: [[Luebz]]
+coordinates: [[Luebz]] 
+markerFile: [[Luebz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

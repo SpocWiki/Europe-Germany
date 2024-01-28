@@ -1,5 +1,5 @@
 ﻿---
-location: [51.57,6.73]
+location: [51.57,6.73] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.73]
-[geo-lat::51.57]
-[name::Dinslaken]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.73] 
+[geo-lat::51.57] 
+[name::Dinslaken] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Dinslaken
-coordinates: [[Dinslaken]]
-markerFile: [[Dinslaken]]
+coordinates: [[Dinslaken]] 
+markerFile: [[Dinslaken]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Dinslaken|Dinslaken]]] 
+- [[Dinslaken|Dinslaken]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Dinslaken.internal|Dinslaken.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Dinslaken.protect|Dinslaken.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Dinslaken.private|Dinslaken.private]] 

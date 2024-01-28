@@ -1,5 +1,5 @@
 ﻿---
-location: [50.5,8.03]
+location: [50.5,8.03] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.03]
-[geo-lat::50.5]
-[name::Frickhofen]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.03] 
+[geo-lat::50.5] 
+[name::Frickhofen] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Frickhofen
-coordinates: [[Frickhofen]]
-markerFile: [[Frickhofen]]
+coordinates: [[Frickhofen]] 
+markerFile: [[Frickhofen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Frickhofen|Frickhofen]]] 
+- [[Frickhofen|Frickhofen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frickhofen.internal|Frickhofen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frickhofen.protect|Frickhofen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frickhofen.private|Frickhofen.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [51.95,13.88]
+location: [51.95,13.88] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.88]
-[geo-lat::51.95]
-[name::Luebben]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.88] 
+[geo-lat::51.95] 
+[name::Luebben] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Luebben
-coordinates: [[Luebben]]
-markerFile: [[Luebben]]
+coordinates: [[Luebben]] 
+markerFile: [[Luebben]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

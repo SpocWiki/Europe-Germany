@@ -1,5 +1,5 @@
 ﻿---
-location: [50.43,8.4]
+location: [50.43,8.4] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.4]
-[geo-lat::50.43]
-[name::Weilmuenster]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.4] 
+[geo-lat::50.43] 
+[name::Weilmuenster] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Weilmuenster
-coordinates: [[Weilmuenster]]
-markerFile: [[Weilmuenster]]
+coordinates: [[Weilmuenster]] 
+markerFile: [[Weilmuenster]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Weilmuenster|Weilmuenster]]] 
+- [[Weilmuenster|Weilmuenster]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Weilmuenster.internal|Weilmuenster.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Weilmuenster.protect|Weilmuenster.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Weilmuenster.private|Weilmuenster.private]] 

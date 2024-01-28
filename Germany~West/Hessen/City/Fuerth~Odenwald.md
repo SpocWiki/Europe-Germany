@@ -1,5 +1,5 @@
 ﻿---
-location: [49.65,8.8]
+location: [49.65,8.8] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.8]
-[geo-lat::49.65]
-[name::Fuerth~Odenwald]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.8] 
+[geo-lat::49.65] 
+[name::Fuerth~Odenwald] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Fuerth~Odenwald
-coordinates: [[Fuerth~Odenwald]]
-markerFile: [[Fuerth~Odenwald]]
+coordinates: [[Fuerth~Odenwald]] 
+markerFile: [[Fuerth~Odenwald]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Fuerth~Odenwald|Fuerth~Odenwald]]] 
+- [[Fuerth~Odenwald|Fuerth~Odenwald]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Fuerth~Odenwald.internal|Fuerth~Odenwald.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Fuerth~Odenwald.protect|Fuerth~Odenwald.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Fuerth~Odenwald.private|Fuerth~Odenwald.private]] 

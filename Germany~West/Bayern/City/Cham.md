@@ -1,5 +1,5 @@
 ﻿---
-location: [49.24,12.74]
+location: [49.24,12.74] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.74]
-[geo-lat::49.24]
-[name::Cham]
-[Country::[[Germany]]]
-[State:[[Bayern]]]]
-[Population::]
-[Unknown::]
+[geo-lon::12.74] 
+[geo-lat::49.24] 
+[name::Cham] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Cham
-coordinates: [[Cham]]
-markerFile: [[Cham]]
+coordinates: [[Cham]] 
+markerFile: [[Cham]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Cham|Cham]]] 
+- [[Cham|Cham]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Cham.internal|Cham.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Cham.protect|Cham.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Cham.private|Cham.private]] 

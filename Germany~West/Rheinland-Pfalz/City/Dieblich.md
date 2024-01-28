@@ -1,5 +1,5 @@
 ﻿---
-location: [50.3,7.47]
+location: [50.3,7.47] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.47]
-[geo-lat::50.3]
-[name::Dieblich]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.47] 
+[geo-lat::50.3] 
+[name::Dieblich] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Dieblich
-coordinates: [[Dieblich]]
-markerFile: [[Dieblich]]
+coordinates: [[Dieblich]] 
+markerFile: [[Dieblich]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Dieblich|Dieblich]]] 
+- [[Dieblich|Dieblich]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dieblich.internal|Dieblich.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dieblich.protect|Dieblich.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dieblich.private|Dieblich.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [47.82,9.27]
+location: [47.82,9.27] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.27]
-[geo-lat::47.82]
-[name::Frickingen]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.27] 
+[geo-lat::47.82] 
+[name::Frickingen] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Frickingen
-coordinates: [[Frickingen]]
-markerFile: [[Frickingen]]
+coordinates: [[Frickingen]] 
+markerFile: [[Frickingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Frickingen|Frickingen]]] 
+- [[Frickingen|Frickingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Frickingen.internal|Frickingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Frickingen.protect|Frickingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Frickingen.private|Frickingen.private]] 

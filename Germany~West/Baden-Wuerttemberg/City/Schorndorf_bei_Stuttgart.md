@@ -1,5 +1,5 @@
 ﻿---
-location: [48.8,9.53]
+location: [48.8,9.53] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.53]
-[geo-lat::48.8]
-[name::Schorndorf bei Stuttgart]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.53] 
+[geo-lat::48.8] 
+[name::Schorndorf bei Stuttgart] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schorndorf bei Stuttgart
-coordinates: [[Schorndorf_bei_Stuttgart]]
-markerFile: [[Schorndorf_bei_Stuttgart]]
+coordinates: [[Schorndorf_bei_Stuttgart]] 
+markerFile: [[Schorndorf_bei_Stuttgart]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Schorndorf_bei_Stuttgart|Schorndorf_bei_Stuttgart]]] 
+- [[Schorndorf_bei_Stuttgart|Schorndorf_bei_Stuttgart]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schorndorf_bei_Stuttgart.internal|Schorndorf_bei_Stuttgart.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schorndorf_bei_Stuttgart.protect|Schorndorf_bei_Stuttgart.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schorndorf_bei_Stuttgart.private|Schorndorf_bei_Stuttgart.private]] 

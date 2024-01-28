@@ -1,5 +1,5 @@
 ﻿---
-location: [50.03,8.7]
+location: [50.03,8.7] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.7]
-[geo-lat::50.03]
-[name::Sprendlingen]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.7] 
+[geo-lat::50.03] 
+[name::Sprendlingen] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Sprendlingen
-coordinates: [[Sprendlingen]]
-markerFile: [[Sprendlingen]]
+coordinates: [[Sprendlingen]] 
+markerFile: [[Sprendlingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Sprendlingen|Sprendlingen]]] 
+- [[Sprendlingen|Sprendlingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Sprendlingen.internal|Sprendlingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Sprendlingen.protect|Sprendlingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Sprendlingen.private|Sprendlingen.private]] 

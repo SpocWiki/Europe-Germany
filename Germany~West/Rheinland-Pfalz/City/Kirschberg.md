@@ -1,5 +1,5 @@
 ﻿---
-location: [49.95,7.42]
+location: [49.95,7.42] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.42]
-[geo-lat::49.95]
-[name::Kirschberg]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.42] 
+[geo-lat::49.95] 
+[name::Kirschberg] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kirschberg
-coordinates: [[Kirschberg]]
-markerFile: [[Kirschberg]]
+coordinates: [[Kirschberg]] 
+markerFile: [[Kirschberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kirschberg|Kirschberg]]] 
+- [[Kirschberg|Kirschberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirschberg.internal|Kirschberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirschberg.protect|Kirschberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirschberg.private|Kirschberg.private]] 

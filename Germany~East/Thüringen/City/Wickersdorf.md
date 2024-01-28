@@ -1,5 +1,5 @@
 ﻿---
-location: [50.58,11.25]
+location: [50.58,11.25] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.25]
-[geo-lat::50.58]
-[name::Wickersdorf]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.25] 
+[geo-lat::50.58] 
+[name::Wickersdorf] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wickersdorf
-coordinates: [[Wickersdorf]]
-markerFile: [[Wickersdorf]]
+coordinates: [[Wickersdorf]] 
+markerFile: [[Wickersdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

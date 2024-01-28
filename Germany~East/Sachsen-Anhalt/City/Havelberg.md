@@ -1,5 +1,5 @@
 ﻿---
-location: [52.83,12.08]
+location: [52.83,12.08] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.08]
-[geo-lat::52.83]
-[name::Havelberg]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.08] 
+[geo-lat::52.83] 
+[name::Havelberg] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Havelberg
-coordinates: [[Havelberg]]
-markerFile: [[Havelberg]]
+coordinates: [[Havelberg]] 
+markerFile: [[Havelberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

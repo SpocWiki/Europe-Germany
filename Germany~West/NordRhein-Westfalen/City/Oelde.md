@@ -1,5 +1,5 @@
 ﻿---
-location: [51.83,8.13]
+location: [51.83,8.13] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.13]
-[geo-lat::51.83]
-[name::Oelde]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.13] 
+[geo-lat::51.83] 
+[name::Oelde] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Oelde
-coordinates: [[Oelde]]
-markerFile: [[Oelde]]
+coordinates: [[Oelde]] 
+markerFile: [[Oelde]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Oelde|Oelde]]] 
+- [[Oelde|Oelde]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Oelde.internal|Oelde.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Oelde.protect|Oelde.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Oelde.private|Oelde.private]] 

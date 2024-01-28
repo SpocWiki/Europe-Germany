@@ -1,5 +1,5 @@
 ﻿---
-location: [51.73,9.4]
+location: [51.73,9.4] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.4]
-[geo-lat::51.73]
-[name::Fuerstenberg~Westfahlen]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.4] 
+[geo-lat::51.73] 
+[name::Fuerstenberg~Westfahlen] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Fuerstenberg~Westfahlen
-coordinates: [[Fuerstenberg~Westfahlen]]
-markerFile: [[Fuerstenberg~Westfahlen]]
+coordinates: [[Fuerstenberg~Westfahlen]] 
+markerFile: [[Fuerstenberg~Westfahlen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Fuerstenberg~Westfahlen|Fuerstenberg~Westfahlen]]] 
+- [[Fuerstenberg~Westfahlen|Fuerstenberg~Westfahlen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fuerstenberg~Westfahlen.internal|Fuerstenberg~Westfahlen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fuerstenberg~Westfahlen.protect|Fuerstenberg~Westfahlen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fuerstenberg~Westfahlen.private|Fuerstenberg~Westfahlen.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [49.33,7.13]
+location: [49.33,7.13] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.13]
-[geo-lat::49.33]
-[name::Heinitz]
-[Country::[[Germany]]]
-[State[[Saarland]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.13] 
+[geo-lat::49.33] 
+[name::Heinitz] 
+Country :: [[Germany]]  
+State :: [[Saarland]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Heinitz
-coordinates: [[Heinitz]]
-markerFile: [[Heinitz]]
+coordinates: [[Heinitz]] 
+markerFile: [[Heinitz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Heinitz|Heinitz]]] 
+- [[Heinitz|Heinitz]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Heinitz.internal|Heinitz.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Heinitz.protect|Heinitz.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Heinitz.private|Heinitz.private]] 

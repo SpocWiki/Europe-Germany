@@ -1,5 +1,5 @@
 ﻿---
-location: [51.1,6.6]
+location: [51.1,6.6] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.6]
-[geo-lat::51.1]
-[name::Grevenbroich]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.6] 
+[geo-lat::51.1] 
+[name::Grevenbroich] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Grevenbroich
-coordinates: [[Grevenbroich]]
-markerFile: [[Grevenbroich]]
+coordinates: [[Grevenbroich]] 
+markerFile: [[Grevenbroich]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Grevenbroich|Grevenbroich]]] 
+- [[Grevenbroich|Grevenbroich]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Grevenbroich.internal|Grevenbroich.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Grevenbroich.protect|Grevenbroich.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Grevenbroich.private|Grevenbroich.private]] 

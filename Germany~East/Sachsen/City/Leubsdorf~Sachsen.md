@@ -1,5 +1,5 @@
 ﻿---
-location: [50.8,13.15]
+location: [50.8,13.15] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.15]
-[geo-lat::50.8]
-[name::Leubsdorf~Sachsen]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.15] 
+[geo-lat::50.8] 
+[name::Leubsdorf~Sachsen] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Leubsdorf~Sachsen
-coordinates: [[Leubsdorf~Sachsen]]
-markerFile: [[Leubsdorf~Sachsen]]
+coordinates: [[Leubsdorf~Sachsen]] 
+markerFile: [[Leubsdorf~Sachsen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

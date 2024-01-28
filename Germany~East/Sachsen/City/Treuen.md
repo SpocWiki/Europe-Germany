@@ -1,5 +1,5 @@
 ﻿---
-location: [50.53,12.3]
+location: [50.53,12.3] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.3]
-[geo-lat::50.53]
-[name::Treuen]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.3] 
+[geo-lat::50.53] 
+[name::Treuen] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Treuen
-coordinates: [[Treuen]]
-markerFile: [[Treuen]]
+coordinates: [[Treuen]] 
+markerFile: [[Treuen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

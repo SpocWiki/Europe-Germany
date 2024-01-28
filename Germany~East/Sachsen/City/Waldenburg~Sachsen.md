@@ -1,5 +1,5 @@
 ---
-location: [50.88,12.6]
+location: [50.88,12.6] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.6]
-[geo-lat::50.88]
-[name::Waldenburg~Sachsen]
-[Country::[[Germany]]]
-[State :: [[Sachsen]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.6] 
+[geo-lat::50.88] 
+[name::Waldenburg~Sachsen] 
+Country :: [[Germany]]  
+State :: [[Sachsen]] ] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Waldenburg~Sachsen
-coordinates: [[Waldenburg~Sachsen]]
-markerFile: [[Waldenburg~Sachsen]]
+coordinates: [[Waldenburg~Sachsen]] 
+markerFile: [[Waldenburg~Sachsen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [51.45,13.25]
+location: [51.45,13.25] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.25]
-[geo-lat::51.45]
-[name::Coszdorf]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.25] 
+[geo-lat::51.45] 
+[name::Coszdorf] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Coszdorf
-coordinates: [[Coszdorf]]
-markerFile: [[Coszdorf]]
+coordinates: [[Coszdorf]] 
+markerFile: [[Coszdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

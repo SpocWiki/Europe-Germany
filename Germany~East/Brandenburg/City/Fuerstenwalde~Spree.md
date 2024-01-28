@@ -1,5 +1,5 @@
 ﻿---
-location: [52.37,14.07]
+location: [52.37,14.07] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.07]
-[geo-lat::52.37]
-[name::Fuerstenwalde~Spree]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::14.07] 
+[geo-lat::52.37] 
+[name::Fuerstenwalde~Spree] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Fuerstenwalde~Spree
-coordinates: [[Fuerstenwalde~Spree]]
-markerFile: [[Fuerstenwalde~Spree]]
+coordinates: [[Fuerstenwalde~Spree]] 
+markerFile: [[Fuerstenwalde~Spree]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

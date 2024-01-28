@@ -1,5 +1,5 @@
 ﻿---
-location: [51.5,9.9]
+location: [51.5,9.9] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.9]
-[geo-lat::51.5]
-[name::Rosdorf]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.9] 
+[geo-lat::51.5] 
+[name::Rosdorf] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Rosdorf
-coordinates: [[Rosdorf]]
-markerFile: [[Rosdorf]]
+coordinates: [[Rosdorf]] 
+markerFile: [[Rosdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Rosdorf|Rosdorf]]] 
+- [[Rosdorf|Rosdorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rosdorf.internal|Rosdorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rosdorf.protect|Rosdorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rosdorf.private|Rosdorf.private]] 

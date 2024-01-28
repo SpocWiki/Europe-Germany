@@ -1,5 +1,5 @@
 ---
-location: [47.53,7.95]
+location: [47.53,7.95] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.95]
-[geo-lat::47.53]
-[name::Saeckingen]
-[Country::[[Germany]]]
-[State:[[Baden-Wuerttemberg]]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.95] 
+[geo-lat::47.53] 
+[name::Saeckingen] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Saeckingen
-coordinates: [[Saeckingen]]
-markerFile: [[Saeckingen]]
+coordinates: [[Saeckingen]] 
+markerFile: [[Saeckingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Saeckingen|Saeckingen]]] 
+- [[Saeckingen|Saeckingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Saeckingen.internal|Saeckingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Saeckingen.protect|Saeckingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Saeckingen.private|Saeckingen.private]] 

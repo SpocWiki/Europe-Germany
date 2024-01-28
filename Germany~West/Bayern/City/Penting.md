@@ -1,5 +1,5 @@
 ﻿---
-location: [49.33,12.37]
+location: [49.33,12.37] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.37]
-[geo-lat::49.33]
-[name::Penting]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.37] 
+[geo-lat::49.33] 
+[name::Penting] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Penting
-coordinates: [[Penting]]
-markerFile: [[Penting]]
+coordinates: [[Penting]] 
+markerFile: [[Penting]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Penting|Penting]]] 
+- [[Penting|Penting]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Penting.internal|Penting.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Penting.protect|Penting.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Penting.private|Penting.private]] 

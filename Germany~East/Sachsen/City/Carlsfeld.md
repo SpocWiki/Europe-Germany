@@ -1,5 +1,5 @@
 ﻿---
-location: [50.43,12.62]
+location: [50.43,12.62] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.62]
-[geo-lat::50.43]
-[name::Carlsfeld]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.62] 
+[geo-lat::50.43] 
+[name::Carlsfeld] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Carlsfeld
-coordinates: [[Carlsfeld]]
-markerFile: [[Carlsfeld]]
+coordinates: [[Carlsfeld]] 
+markerFile: [[Carlsfeld]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

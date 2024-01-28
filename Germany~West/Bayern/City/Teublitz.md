@@ -1,5 +1,5 @@
 ﻿---
-location: [49.22,12.08]
+location: [49.22,12.08] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.08]
-[geo-lat::49.22]
-[name::Teublitz]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.08] 
+[geo-lat::49.22] 
+[name::Teublitz] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Teublitz
-coordinates: [[Teublitz]]
-markerFile: [[Teublitz]]
+coordinates: [[Teublitz]] 
+markerFile: [[Teublitz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Teublitz|Teublitz]]] 
+- [[Teublitz|Teublitz]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Teublitz.internal|Teublitz.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Teublitz.protect|Teublitz.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Teublitz.private|Teublitz.private]] 

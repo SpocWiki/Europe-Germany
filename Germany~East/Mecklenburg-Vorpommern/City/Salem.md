@@ -1,5 +1,5 @@
 ﻿---
-location: [53.71,12.81]
+location: [53.71,12.81] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.81]
-[geo-lat::53.71]
-[name::Salem]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.81] 
+[geo-lat::53.71] 
+[name::Salem] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Salem
-coordinates: [[Salem]]
-markerFile: [[Salem]]
+coordinates: [[Salem]] 
+markerFile: [[Salem]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

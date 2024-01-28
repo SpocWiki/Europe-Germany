@@ -1,5 +1,5 @@
 ﻿---
-location: [49.25,9.12]
+location: [49.25,9.12] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.12]
-[geo-lat::49.25]
-[name::Rappenau]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.12] 
+[geo-lat::49.25] 
+[name::Rappenau] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Rappenau
-coordinates: [[Rappenau]]
-markerFile: [[Rappenau]]
+coordinates: [[Rappenau]] 
+markerFile: [[Rappenau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Rappenau|Rappenau]]] 
+- [[Rappenau|Rappenau]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Rappenau.internal|Rappenau.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Rappenau.protect|Rappenau.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Rappenau.private|Rappenau.private]] 

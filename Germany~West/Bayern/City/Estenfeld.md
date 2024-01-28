@@ -1,5 +1,5 @@
 ﻿---
-location: [49.83,10.02]
+location: [49.83,10.02] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.02]
-[geo-lat::49.83]
-[name::Estenfeld]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.02] 
+[geo-lat::49.83] 
+[name::Estenfeld] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Estenfeld
-coordinates: [[Estenfeld]]
-markerFile: [[Estenfeld]]
+coordinates: [[Estenfeld]] 
+markerFile: [[Estenfeld]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Estenfeld|Estenfeld]]] 
+- [[Estenfeld|Estenfeld]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Estenfeld.internal|Estenfeld.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Estenfeld.protect|Estenfeld.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Estenfeld.private|Estenfeld.private]] 

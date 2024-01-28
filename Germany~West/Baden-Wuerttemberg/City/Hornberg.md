@@ -1,5 +1,5 @@
 ﻿---
-location: [48.22,8.22]
+location: [48.22,8.22] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.22]
-[geo-lat::48.22]
-[name::Hornberg]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.22] 
+[geo-lat::48.22] 
+[name::Hornberg] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hornberg
-coordinates: [[Hornberg]]
-markerFile: [[Hornberg]]
+coordinates: [[Hornberg]] 
+markerFile: [[Hornberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hornberg|Hornberg]]] 
+- [[Hornberg|Hornberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hornberg.internal|Hornberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hornberg.protect|Hornberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hornberg.private|Hornberg.private]] 

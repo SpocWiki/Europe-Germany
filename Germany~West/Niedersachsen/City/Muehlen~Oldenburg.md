@@ -1,5 +1,5 @@
 ﻿---
-location: [52.62,8.23]
+location: [52.62,8.23] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.23]
-[geo-lat::52.62]
-[name::Muehlen~Oldenburg]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.23] 
+[geo-lat::52.62] 
+[name::Muehlen~Oldenburg] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Muehlen~Oldenburg
-coordinates: [[Muehlen~Oldenburg]]
-markerFile: [[Muehlen~Oldenburg]]
+coordinates: [[Muehlen~Oldenburg]] 
+markerFile: [[Muehlen~Oldenburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Muehlen~Oldenburg|Muehlen~Oldenburg]]] 
+- [[Muehlen~Oldenburg|Muehlen~Oldenburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muehlen~Oldenburg.internal|Muehlen~Oldenburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muehlen~Oldenburg.protect|Muehlen~Oldenburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muehlen~Oldenburg.private|Muehlen~Oldenburg.private]] 

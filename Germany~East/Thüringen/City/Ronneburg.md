@@ -1,5 +1,5 @@
 ﻿---
-location: [50.87,12.18]
+location: [50.87,12.18] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.18]
-[geo-lat::50.87]
-[name::Ronneburg]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.18] 
+[geo-lat::50.87] 
+[name::Ronneburg] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ronneburg
-coordinates: [[Ronneburg]]
-markerFile: [[Ronneburg]]
+coordinates: [[Ronneburg]] 
+markerFile: [[Ronneburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

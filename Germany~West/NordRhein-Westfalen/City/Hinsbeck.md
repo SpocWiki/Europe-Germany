@@ -1,5 +1,5 @@
 ﻿---
-location: [51.33,6.28]
+location: [51.33,6.28] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.28]
-[geo-lat::51.33]
-[name::Hinsbeck]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.28] 
+[geo-lat::51.33] 
+[name::Hinsbeck] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hinsbeck
-coordinates: [[Hinsbeck]]
-markerFile: [[Hinsbeck]]
+coordinates: [[Hinsbeck]] 
+markerFile: [[Hinsbeck]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hinsbeck|Hinsbeck]]] 
+- [[Hinsbeck|Hinsbeck]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hinsbeck.internal|Hinsbeck.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hinsbeck.protect|Hinsbeck.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hinsbeck.private|Hinsbeck.private]] 

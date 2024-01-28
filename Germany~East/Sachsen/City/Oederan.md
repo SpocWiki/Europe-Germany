@@ -1,5 +1,5 @@
 ﻿---
-location: [50.87,13.17]
+location: [50.87,13.17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.17]
-[geo-lat::50.87]
-[name::Oederan]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.17] 
+[geo-lat::50.87] 
+[name::Oederan] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Oederan
-coordinates: [[Oederan]]
-markerFile: [[Oederan]]
+coordinates: [[Oederan]] 
+markerFile: [[Oederan]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

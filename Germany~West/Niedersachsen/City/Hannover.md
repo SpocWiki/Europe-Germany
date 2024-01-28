@@ -1,5 +1,5 @@
 ---
-location: [52.37,9.73]
+location: [52.37,9.73] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.73]
-[geo-lat::52.37]
-[name::Hannover]
-[Country::[[Germany]]]
-[State :: [[Niedersachsen]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.73] 
+[geo-lat::52.37] 
+[name::Hannover] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]] ] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hannover
-coordinates: [[Hannover]]
-markerFile: [[Hannover]]
+coordinates: [[Hannover]] 
+markerFile: [[Hannover]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

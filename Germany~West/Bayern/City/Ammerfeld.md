@@ -1,5 +1,5 @@
 ﻿---
-location: [48.82,11]
+location: [48.82,11] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11]
-[geo-lat::48.82]
-[name::Ammerfeld]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11] 
+[geo-lat::48.82] 
+[name::Ammerfeld] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ammerfeld
-coordinates: [[Ammerfeld]]
-markerFile: [[Ammerfeld]]
+coordinates: [[Ammerfeld]] 
+markerFile: [[Ammerfeld]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Ammerfeld|Ammerfeld]]] 
+- [[Ammerfeld|Ammerfeld]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Ammerfeld.internal|Ammerfeld.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Ammerfeld.protect|Ammerfeld.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Ammerfeld.private|Ammerfeld.private]] 

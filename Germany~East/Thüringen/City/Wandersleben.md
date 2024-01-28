@@ -1,5 +1,5 @@
 ﻿---
-location: [50.92,10.87]
+location: [50.92,10.87] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.87]
-[geo-lat::50.92]
-[name::Wandersleben]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.87] 
+[geo-lat::50.92] 
+[name::Wandersleben] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wandersleben
-coordinates: [[Wandersleben]]
-markerFile: [[Wandersleben]]
+coordinates: [[Wandersleben]] 
+markerFile: [[Wandersleben]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

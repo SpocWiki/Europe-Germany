@@ -1,5 +1,5 @@
 ﻿---
-location: [53.58,8.37]
+location: [53.58,8.37] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.37]
-[geo-lat::53.58]
-[name::Burhave]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.37] 
+[geo-lat::53.58] 
+[name::Burhave] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Burhave
-coordinates: [[Burhave]]
-markerFile: [[Burhave]]
+coordinates: [[Burhave]] 
+markerFile: [[Burhave]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Burhave|Burhave]]] 
+- [[Burhave|Burhave]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Burhave.internal|Burhave.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Burhave.protect|Burhave.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Burhave.private|Burhave.private]] 

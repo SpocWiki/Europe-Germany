@@ -1,5 +1,5 @@
 ﻿---
-location: [49.75,9.03]
+location: [49.75,9.03] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.03]
-[geo-lat::49.75]
-[name::Koenig]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.03] 
+[geo-lat::49.75] 
+[name::Koenig] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Koenig
-coordinates: [[Koenig]]
-markerFile: [[Koenig]]
+coordinates: [[Koenig]] 
+markerFile: [[Koenig]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Koenig|Koenig]]] 
+- [[Koenig|Koenig]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Koenig.internal|Koenig.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Koenig.protect|Koenig.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Koenig.private|Koenig.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [50.65,11.48]
+location: [50.65,11.48] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.48]
-[geo-lat::50.65]
-[name::Koenitz]
-[Country::[[Germany]]]
-[State:[[Thüringen]]]]
-[Population::]
-[Unknown::]
+[geo-lon::11.48] 
+[geo-lat::50.65] 
+[name::Koenitz] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Koenitz
-coordinates: [[Koenitz]]
-markerFile: [[Koenitz]]
+coordinates: [[Koenitz]] 
+markerFile: [[Koenitz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

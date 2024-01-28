@@ -29,24 +29,24 @@ expiryDate:
 
 # FFM~S6
 
-S-Bahn in[[Frankfurt~Main]]] 
+S-Bahn in[[Frankfurt~Main]]  
 
 # Stations: 
-1)[[S-Friedberg~Hessen]]] 
-2)[[S-Bruchenbrücken]]] 
-3)[[S-Nieder-Wöllstadt]]] 
-4)[[S-Okarben]]] 
-5)[[S-Groß_Karben]]] 
-6)[[S-Dortelweil]]] 
-7)[[S-Bad_Vilbel]]] 
-7)[[S-Bad_Vilbel_Süd]]] 
-8)[[S-Frankfurt-Berkersheim]]] 
-9)[[S-Frankfurt-Frankfurter_Berg]]] 
-10)[[S-Frankfurt-Eschersheim]]] 
-11)[[S-Frankfurt~Main_West]]] 
-12)[[S-Frankfurt~Main~Messe]]] 
-13)[[S-Frankfurt~Main_Galluswarte]]] 
-14)[[S-Frankfurt~Main_Hbf_tief]]] 
+1)[[S-Friedberg~Hessen]]  
+2)[[S-Bruchenbrücken]]  
+3)[[S-Nieder-Wöllstadt]]  
+4)[[S-Okarben]]  
+5)[[S-Groß_Karben]]  
+6)[[S-Dortelweil]]  
+7)[[S-Bad_Vilbel]]  
+7)[[S-Bad_Vilbel_Süd]]  
+8)[[S-Frankfurt-Berkersheim]]  
+9)[[S-Frankfurt-Frankfurter_Berg]]  
+10)[[S-Frankfurt-Eschersheim]]  
+11)[[S-Frankfurt~Main_West]]  
+12)[[S-Frankfurt~Main~Messe]]  
+13)[[S-Frankfurt~Main_Galluswarte]]  
+14)[[S-Frankfurt~Main_Hbf_tief]]  
 
 ```leaflet
 id: FFM~S6
@@ -58,12 +58,12 @@ geojsonFolder: ./FFM~S6/
 markerFolder: ./Station/
 ```
 
-15)[[S-Frankfurt_Taunusanlage]]] 
-16)[[S-Frankfurt_Hauptwache]]] 
-17)[[S-Frankfurt_Konstablerwache]]] 
-18)[[S-Frankfurt_Ostendstraße]]] 
-19)[[S-Frankfurt_Lokalbahnhof]]] 
-20)[[S-Frankfurt~Main~Süd]]] 
+15)[[S-Frankfurt_Taunusanlage]]  
+16)[[S-Frankfurt_Hauptwache]]  
+17)[[S-Frankfurt_Konstablerwache]]  
+18)[[S-Frankfurt_Ostendstraße]]  
+19)[[S-Frankfurt_Lokalbahnhof]]  
+20)[[S-Frankfurt~Main~Süd]]  
 
 
 

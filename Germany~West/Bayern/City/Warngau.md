@@ -1,5 +1,5 @@
 ﻿---
-location: [47.83,11.72]
+location: [47.83,11.72] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.72]
-[geo-lat::47.83]
-[name::Warngau]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.72] 
+[geo-lat::47.83] 
+[name::Warngau] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Warngau
-coordinates: [[Warngau]]
-markerFile: [[Warngau]]
+coordinates: [[Warngau]] 
+markerFile: [[Warngau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Warngau|Warngau]]] 
+- [[Warngau|Warngau]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Warngau.internal|Warngau.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Warngau.protect|Warngau.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Warngau.private|Warngau.private]] 

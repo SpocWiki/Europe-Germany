@@ -1,5 +1,5 @@
 ﻿---
-location: [48.88,10.98]
+location: [48.88,10.98] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.98]
-[geo-lat::48.88]
-[name::Solnhofen]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.98] 
+[geo-lat::48.88] 
+[name::Solnhofen] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Solnhofen
-coordinates: [[Solnhofen]]
-markerFile: [[Solnhofen]]
+coordinates: [[Solnhofen]] 
+markerFile: [[Solnhofen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Solnhofen|Solnhofen]]] 
+- [[Solnhofen|Solnhofen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Solnhofen.internal|Solnhofen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Solnhofen.protect|Solnhofen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Solnhofen.private|Solnhofen.private]] 

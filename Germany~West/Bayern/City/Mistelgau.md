@@ -1,5 +1,5 @@
 ﻿---
-location: [49.9,11.5]
+location: [49.9,11.5] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.5]
-[geo-lat::49.9]
-[name::Mistelgau]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.5] 
+[geo-lat::49.9] 
+[name::Mistelgau] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mistelgau
-coordinates: [[Mistelgau]]
-markerFile: [[Mistelgau]]
+coordinates: [[Mistelgau]] 
+markerFile: [[Mistelgau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Mistelgau|Mistelgau]]] 
+- [[Mistelgau|Mistelgau]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Mistelgau.internal|Mistelgau.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Mistelgau.protect|Mistelgau.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Mistelgau.private|Mistelgau.private]] 

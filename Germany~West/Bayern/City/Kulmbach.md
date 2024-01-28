@@ -1,5 +1,5 @@
 ﻿---
-location: [50.08,11.47]
+location: [50.08,11.47] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.47]
-[geo-lat::50.08]
-[name::Kulmbach]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.47] 
+[geo-lat::50.08] 
+[name::Kulmbach] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kulmbach
-coordinates: [[Kulmbach]]
-markerFile: [[Kulmbach]]
+coordinates: [[Kulmbach]] 
+markerFile: [[Kulmbach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kulmbach|Kulmbach]]] 
+- [[Kulmbach|Kulmbach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Kulmbach.internal|Kulmbach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Kulmbach.protect|Kulmbach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Kulmbach.private|Kulmbach.private]] 

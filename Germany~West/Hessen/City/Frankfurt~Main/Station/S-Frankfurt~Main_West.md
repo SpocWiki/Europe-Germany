@@ -1,5 +1,5 @@
 ---
-location: [50.11917,8.639444]
+location: [50.11917,8.639444] 
 type: Station 
 mapzoom: [8,18] 
 mapmarker: train 
@@ -10,17 +10,17 @@ SpocWebEntityId: 156421
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.639444]
-[geo-lat::50.11917]
-[name::Frankfurt~Main West]
-[Country::[[Germany]]]
-[City:[[Frankfurt~Main]] ]
+[geo-lon::8.639444] 
+[geo-lat::50.11917] 
+[name::Frankfurt~Main West] 
+Country :: [[Germany]]  
+City :: [[Frankfurt~Main]] ] 
 
 
 ```leaflet
 id: S-Frankfurt~Main_West.md
-coordinates: [[S-Frankfurt~Main_West]]
-markerFile: [[S-Frankfurt~Main_West]]
+coordinates: [[S-Frankfurt~Main_West]] 
+markerFile: [[S-Frankfurt~Main_West]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

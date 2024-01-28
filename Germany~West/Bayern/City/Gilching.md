@@ -1,5 +1,5 @@
 ﻿---
-location: [48.12,11.3]
+location: [48.12,11.3] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.3]
-[geo-lat::48.12]
-[name::Gilching]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.3] 
+[geo-lat::48.12] 
+[name::Gilching] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gilching
-coordinates: [[Gilching]]
-markerFile: [[Gilching]]
+coordinates: [[Gilching]] 
+markerFile: [[Gilching]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Gilching|Gilching]]] 
+- [[Gilching|Gilching]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Gilching.internal|Gilching.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Gilching.protect|Gilching.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Gilching.private|Gilching.private]] 

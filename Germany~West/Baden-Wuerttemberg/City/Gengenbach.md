@@ -1,5 +1,5 @@
 ﻿---
-location: [48.42,8.02]
+location: [48.42,8.02] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.02]
-[geo-lat::48.42]
-[name::Gengenbach]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.02] 
+[geo-lat::48.42] 
+[name::Gengenbach] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gengenbach
-coordinates: [[Gengenbach]]
-markerFile: [[Gengenbach]]
+coordinates: [[Gengenbach]] 
+markerFile: [[Gengenbach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Gengenbach|Gengenbach]]] 
+- [[Gengenbach|Gengenbach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Gengenbach.internal|Gengenbach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Gengenbach.protect|Gengenbach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Gengenbach.private|Gengenbach.private]] 

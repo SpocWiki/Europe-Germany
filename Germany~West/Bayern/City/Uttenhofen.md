@@ -1,5 +1,5 @@
 ﻿---
-location: [48.3,10.55]
+location: [48.3,10.55] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.55]
-[geo-lat::48.3]
-[name::Uttenhofen]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.55] 
+[geo-lat::48.3] 
+[name::Uttenhofen] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Uttenhofen
-coordinates: [[Uttenhofen]]
-markerFile: [[Uttenhofen]]
+coordinates: [[Uttenhofen]] 
+markerFile: [[Uttenhofen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Uttenhofen|Uttenhofen]]] 
+- [[Uttenhofen|Uttenhofen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Uttenhofen.internal|Uttenhofen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Uttenhofen.protect|Uttenhofen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Uttenhofen.private|Uttenhofen.private]] 

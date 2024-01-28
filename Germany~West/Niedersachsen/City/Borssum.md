@@ -1,5 +1,5 @@
 ﻿---
-location: [53.37,7.25]
+location: [53.37,7.25] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.25]
-[geo-lat::53.37]
-[name::Borssum]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.25] 
+[geo-lat::53.37] 
+[name::Borssum] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Borssum
-coordinates: [[Borssum]]
-markerFile: [[Borssum]]
+coordinates: [[Borssum]] 
+markerFile: [[Borssum]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Borssum|Borssum]]] 
+- [[Borssum|Borssum]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Borssum.internal|Borssum.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Borssum.protect|Borssum.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Borssum.private|Borssum.private]] 

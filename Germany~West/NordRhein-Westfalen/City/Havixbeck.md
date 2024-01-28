@@ -1,5 +1,5 @@
 ﻿---
-location: [51.98,7.4]
+location: [51.98,7.4] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.4]
-[geo-lat::51.98]
-[name::Havixbeck]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.4] 
+[geo-lat::51.98] 
+[name::Havixbeck] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Havixbeck
-coordinates: [[Havixbeck]]
-markerFile: [[Havixbeck]]
+coordinates: [[Havixbeck]] 
+markerFile: [[Havixbeck]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Havixbeck|Havixbeck]]] 
+- [[Havixbeck|Havixbeck]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Havixbeck.internal|Havixbeck.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Havixbeck.protect|Havixbeck.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Havixbeck.private|Havixbeck.private]] 

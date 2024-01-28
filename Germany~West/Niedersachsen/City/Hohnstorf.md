@@ -1,5 +1,5 @@
 ﻿---
-location: [53.35,10.55]
+location: [53.35,10.55] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.55]
-[geo-lat::53.35]
-[name::Hohnstorf]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.55] 
+[geo-lat::53.35] 
+[name::Hohnstorf] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hohnstorf
-coordinates: [[Hohnstorf]]
-markerFile: [[Hohnstorf]]
+coordinates: [[Hohnstorf]] 
+markerFile: [[Hohnstorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hohnstorf|Hohnstorf]]] 
+- [[Hohnstorf|Hohnstorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hohnstorf.internal|Hohnstorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hohnstorf.protect|Hohnstorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hohnstorf.private|Hohnstorf.private]] 

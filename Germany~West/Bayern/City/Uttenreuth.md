@@ -1,5 +1,5 @@
 ﻿---
-location: [49.6,11.08]
+location: [49.6,11.08] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.08]
-[geo-lat::49.6]
-[name::Uttenreuth]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.08] 
+[geo-lat::49.6] 
+[name::Uttenreuth] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Uttenreuth
-coordinates: [[Uttenreuth]]
-markerFile: [[Uttenreuth]]
+coordinates: [[Uttenreuth]] 
+markerFile: [[Uttenreuth]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Uttenreuth|Uttenreuth]]] 
+- [[Uttenreuth|Uttenreuth]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Uttenreuth.internal|Uttenreuth.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Uttenreuth.protect|Uttenreuth.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Uttenreuth.private|Uttenreuth.private]] 

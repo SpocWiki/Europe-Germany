@@ -1,5 +1,5 @@
 ﻿---
-location: [50.42,7.47]
+location: [50.42,7.47] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.47]
-[geo-lat::50.42]
-[name::Weissenthurm]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.47] 
+[geo-lat::50.42] 
+[name::Weissenthurm] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Weissenthurm
-coordinates: [[Weissenthurm]]
-markerFile: [[Weissenthurm]]
+coordinates: [[Weissenthurm]] 
+markerFile: [[Weissenthurm]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Weissenthurm|Weissenthurm]]] 
+- [[Weissenthurm|Weissenthurm]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Weissenthurm.internal|Weissenthurm.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Weissenthurm.protect|Weissenthurm.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Weissenthurm.private|Weissenthurm.private]] 

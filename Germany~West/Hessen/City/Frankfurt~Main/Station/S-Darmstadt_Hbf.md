@@ -1,5 +1,5 @@
 ---
-location: [49.8725,8.628889]
+location: [49.8725,8.628889] 
 type: Station 
 mapzoom: [8,18] 
 mapmarker: train 
@@ -10,17 +10,17 @@ SpocWebEntityId: 156414
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.628889]
-[geo-lat::49.8725]
-[name::Darmstadt Hbf]
-[Country::[[Germany]]]
-[City:[[Frankfurt~Main]] ]
+[geo-lon::8.628889] 
+[geo-lat::49.8725] 
+[name::Darmstadt Hbf] 
+Country :: [[Germany]]  
+City :: [[Frankfurt~Main]] ] 
 
 
 ```leaflet
 id: S-Darmstadt_Hbf.md
-coordinates: [[S-Darmstadt_Hbf]]
-markerFile: [[S-Darmstadt_Hbf]]
+coordinates: [[S-Darmstadt_Hbf]] 
+markerFile: [[S-Darmstadt_Hbf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

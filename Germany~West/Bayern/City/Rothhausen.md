@@ -1,5 +1,5 @@
 ﻿---
-location: [50.2,10.35]
+location: [50.2,10.35] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.35]
-[geo-lat::50.2]
-[name::Rothhausen]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.35] 
+[geo-lat::50.2] 
+[name::Rothhausen] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Rothhausen
-coordinates: [[Rothhausen]]
-markerFile: [[Rothhausen]]
+coordinates: [[Rothhausen]] 
+markerFile: [[Rothhausen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Rothhausen|Rothhausen]]] 
+- [[Rothhausen|Rothhausen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Rothhausen.internal|Rothhausen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Rothhausen.protect|Rothhausen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Rothhausen.private|Rothhausen.private]] 

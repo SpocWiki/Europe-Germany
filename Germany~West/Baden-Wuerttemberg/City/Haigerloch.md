@@ -1,5 +1,5 @@
 ﻿---
-location: [48.37,8.82]
+location: [48.37,8.82] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.82]
-[geo-lat::48.37]
-[name::Haigerloch]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.82] 
+[geo-lat::48.37] 
+[name::Haigerloch] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Haigerloch
-coordinates: [[Haigerloch]]
-markerFile: [[Haigerloch]]
+coordinates: [[Haigerloch]] 
+markerFile: [[Haigerloch]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Haigerloch|Haigerloch]]] 
+- [[Haigerloch|Haigerloch]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Haigerloch.internal|Haigerloch.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Haigerloch.protect|Haigerloch.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Haigerloch.private|Haigerloch.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [50.3,11.13]
+location: [50.3,11.13] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.13]
-[geo-lat::50.3]
-[name::Neustadt~Coburg]
-[Country::[[Germany]]]
-[State :: [[../../Thüringen]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.13] 
+[geo-lat::50.3] 
+[name::Neustadt~Coburg] 
+Country :: [[Germany]]  
+State :: [[../../Thüringen]] ] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Neustadt~Coburg
-coordinates: [[Neustadt~Coburg]]
-markerFile: [[Neustadt~Coburg]]
+coordinates: [[Neustadt~Coburg]] 
+markerFile: [[Neustadt~Coburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [50.67,7.83]
+location: [50.67,7.83] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.83]
-[geo-lat::50.67]
-[name::Hachenburg]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.83] 
+[geo-lat::50.67] 
+[name::Hachenburg] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hachenburg
-coordinates: [[Hachenburg]]
-markerFile: [[Hachenburg]]
+coordinates: [[Hachenburg]] 
+markerFile: [[Hachenburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hachenburg|Hachenburg]]] 
+- [[Hachenburg|Hachenburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hachenburg.internal|Hachenburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hachenburg.protect|Hachenburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hachenburg.private|Hachenburg.private]] 

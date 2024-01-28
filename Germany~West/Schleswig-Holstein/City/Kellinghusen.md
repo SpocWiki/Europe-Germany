@@ -1,5 +1,5 @@
 ﻿---
-location: [53.95,9.7]
+location: [53.95,9.7] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.7]
-[geo-lat::53.95]
-[name::Kellinghusen]
-[Country::[[Germany]]]
-[State ::[[Schleswig-Holstein]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.7] 
+[geo-lat::53.95] 
+[name::Kellinghusen] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kellinghusen
-coordinates: [[Kellinghusen]]
-markerFile: [[Kellinghusen]]
+coordinates: [[Kellinghusen]] 
+markerFile: [[Kellinghusen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kellinghusen|Kellinghusen]]] 
+- [[Kellinghusen|Kellinghusen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kellinghusen.internal|Kellinghusen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kellinghusen.protect|Kellinghusen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kellinghusen.private|Kellinghusen.private]] 

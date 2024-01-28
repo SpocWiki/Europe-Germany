@@ -1,5 +1,5 @@
 ﻿---
-location: [52.63,8.4]
+location: [52.63,8.4] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.4]
-[geo-lat::52.63]
-[name::Sankt Huelfe]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.4] 
+[geo-lat::52.63] 
+[name::Sankt Huelfe] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Sankt Huelfe
-coordinates: [[Sankt_Huelfe]]
-markerFile: [[Sankt_Huelfe]]
+coordinates: [[Sankt_Huelfe]] 
+markerFile: [[Sankt_Huelfe]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Sankt_Huelfe|Sankt_Huelfe]]] 
+- [[Sankt_Huelfe|Sankt_Huelfe]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sankt_Huelfe.internal|Sankt_Huelfe.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sankt_Huelfe.protect|Sankt_Huelfe.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sankt_Huelfe.private|Sankt_Huelfe.private]] 

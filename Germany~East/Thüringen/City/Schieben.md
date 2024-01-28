@@ -1,5 +1,5 @@
 ﻿---
-location: [51.02,11.52]
+location: [51.02,11.52] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.52]
-[geo-lat::51.02]
-[name::Schieben]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.52] 
+[geo-lat::51.02] 
+[name::Schieben] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schieben
-coordinates: [[Schieben]]
-markerFile: [[Schieben]]
+coordinates: [[Schieben]] 
+markerFile: [[Schieben]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

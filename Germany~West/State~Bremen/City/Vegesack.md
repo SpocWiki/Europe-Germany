@@ -1,5 +1,5 @@
 ﻿---
-location: [53.18,8.62]
+location: [53.18,8.62] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.62]
-[geo-lat::53.18]
-[name::Vegesack]
-[Country::[[Germany]]]
-[State:[[State~Bremen]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.62] 
+[geo-lat::53.18] 
+[name::Vegesack] 
+Country :: [[Germany]]  
+State :: [[State~Bremen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Vegesack
-coordinates: [[Vegesack]]
-markerFile: [[Vegesack]]
+coordinates: [[Vegesack]] 
+markerFile: [[Vegesack]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Vegesack|Vegesack]]] 
+- [[Vegesack|Vegesack]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Bremen/City/Vegesack.internal|Vegesack.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Bremen/City/Vegesack.protect|Vegesack.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Bremen/City/Vegesack.private|Vegesack.private]] 

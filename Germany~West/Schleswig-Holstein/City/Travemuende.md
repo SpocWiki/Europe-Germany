@@ -1,5 +1,5 @@
 ﻿---
-location: [53.95,10.88]
+location: [53.95,10.88] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.88]
-[geo-lat::53.95]
-[name::Travemuende]
-[Country::[[Germany]]]
-[State ::[[Schleswig-Holstein]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.88] 
+[geo-lat::53.95] 
+[name::Travemuende] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Travemuende
-coordinates: [[Travemuende]]
-markerFile: [[Travemuende]]
+coordinates: [[Travemuende]] 
+markerFile: [[Travemuende]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Travemuende|Travemuende]]] 
+- [[Travemuende|Travemuende]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Travemuende.internal|Travemuende.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Travemuende.protect|Travemuende.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Travemuende.private|Travemuende.private]] 

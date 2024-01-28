@@ -1,5 +1,5 @@
 ﻿---
-location: [51.68,9.05]
+location: [51.68,9.05] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.05]
-[geo-lat::51.68]
-[name::Dringenberg]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.05] 
+[geo-lat::51.68] 
+[name::Dringenberg] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Dringenberg
-coordinates: [[Dringenberg]]
-markerFile: [[Dringenberg]]
+coordinates: [[Dringenberg]] 
+markerFile: [[Dringenberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Dringenberg|Dringenberg]]] 
+- [[Dringenberg|Dringenberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Dringenberg.internal|Dringenberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Dringenberg.protect|Dringenberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Dringenberg.private|Dringenberg.private]] 

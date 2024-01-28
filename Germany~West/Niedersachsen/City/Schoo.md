@@ -1,5 +1,5 @@
 ﻿---
-location: [53.6,7.57]
+location: [53.6,7.57] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.57]
-[geo-lat::53.6]
-[name::Schoo]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.57] 
+[geo-lat::53.6] 
+[name::Schoo] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schoo
-coordinates: [[Schoo]]
-markerFile: [[Schoo]]
+coordinates: [[Schoo]] 
+markerFile: [[Schoo]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Schoo|Schoo]]] 
+- [[Schoo|Schoo]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoo.internal|Schoo.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoo.protect|Schoo.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoo.private|Schoo.private]] 

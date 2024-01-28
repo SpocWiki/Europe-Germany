@@ -1,5 +1,5 @@
 ﻿---
-location: [51.15,6.2]
+location: [51.15,6.2] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.2]
-[geo-lat::51.15]
-[name::Wegberg]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.2] 
+[geo-lat::51.15] 
+[name::Wegberg] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wegberg
-coordinates: [[Wegberg]]
-markerFile: [[Wegberg]]
+coordinates: [[Wegberg]] 
+markerFile: [[Wegberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Wegberg|Wegberg]]] 
+- [[Wegberg|Wegberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wegberg.internal|Wegberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wegberg.protect|Wegberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wegberg.private|Wegberg.private]] 

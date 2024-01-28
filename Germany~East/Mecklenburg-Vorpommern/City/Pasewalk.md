@@ -1,5 +1,5 @@
 ﻿---
-location: [53.5,14]
+location: [53.5,14] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14]
-[geo-lat::53.5]
-[name::Pasewalk]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::14] 
+[geo-lat::53.5] 
+[name::Pasewalk] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Pasewalk
-coordinates: [[Pasewalk]]
-markerFile: [[Pasewalk]]
+coordinates: [[Pasewalk]] 
+markerFile: [[Pasewalk]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

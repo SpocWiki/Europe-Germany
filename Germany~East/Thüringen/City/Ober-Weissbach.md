@@ -1,5 +1,5 @@
 ﻿---
-location: [50.58,11.15]
+location: [50.58,11.15] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.15]
-[geo-lat::50.58]
-[name::Ober-Weissbach]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.15] 
+[geo-lat::50.58] 
+[name::Ober-Weissbach] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ober-Weissbach
-coordinates: [[Ober-Weissbach]]
-markerFile: [[Ober-Weissbach]]
+coordinates: [[Ober-Weissbach]] 
+markerFile: [[Ober-Weissbach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

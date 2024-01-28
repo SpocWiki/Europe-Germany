@@ -1,5 +1,5 @@
 ﻿---
-location: [54.08,13.38]
+location: [54.08,13.38] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.38]
-[geo-lat::54.08]
-[name::Greifswald]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.38] 
+[geo-lat::54.08] 
+[name::Greifswald] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Greifswald
-coordinates: [[Greifswald]]
-markerFile: [[Greifswald]]
+coordinates: [[Greifswald]] 
+markerFile: [[Greifswald]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

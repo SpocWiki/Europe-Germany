@@ -118,5 +118,5 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 - [[../_protect/License.protect|License.protect]] 
 - [[../_private/License.private|License.private]] 
 - [[../_personal/License.personal|License.personal]] 
-- [[../_secret/License.secret|License.secret]]
+- [[../_secret/License.secret|License.secret]] 
 

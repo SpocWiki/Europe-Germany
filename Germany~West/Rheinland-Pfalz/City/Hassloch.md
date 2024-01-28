@@ -1,5 +1,5 @@
 ﻿---
-location: [49.37,8.25]
+location: [49.37,8.25] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.25]
-[geo-lat::49.37]
-[name::Hassloch]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.25] 
+[geo-lat::49.37] 
+[name::Hassloch] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hassloch
-coordinates: [[Hassloch]]
-markerFile: [[Hassloch]]
+coordinates: [[Hassloch]] 
+markerFile: [[Hassloch]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hassloch|Hassloch]]] 
+- [[Hassloch|Hassloch]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hassloch.internal|Hassloch.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hassloch.protect|Hassloch.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hassloch.private|Hassloch.private]] 

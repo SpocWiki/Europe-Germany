@@ -1,5 +1,5 @@
 ﻿---
-location: [53.4,8.8]
+location: [53.4,8.8] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.8]
-[geo-lat::53.4]
-[name::Strubben]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.8] 
+[geo-lat::53.4] 
+[name::Strubben] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Strubben
-coordinates: [[Strubben]]
-markerFile: [[Strubben]]
+coordinates: [[Strubben]] 
+markerFile: [[Strubben]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Strubben|Strubben]]] 
+- [[Strubben|Strubben]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Strubben.internal|Strubben.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Strubben.protect|Strubben.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Strubben.private|Strubben.private]] 

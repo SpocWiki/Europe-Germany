@@ -1,5 +1,5 @@
 ﻿---
-location: [48.92,11]
+location: [48.92,11] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11]
-[geo-lat::48.92]
-[name::Altheimerdorf]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11] 
+[geo-lat::48.92] 
+[name::Altheimerdorf] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Altheimerdorf
-coordinates: [[Altheimerdorf]]
-markerFile: [[Altheimerdorf]]
+coordinates: [[Altheimerdorf]] 
+markerFile: [[Altheimerdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Altheimerdorf|Altheimerdorf]]] 
+- [[Altheimerdorf|Altheimerdorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Altheimerdorf.internal|Altheimerdorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Altheimerdorf.protect|Altheimerdorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Altheimerdorf.private|Altheimerdorf.private]] 

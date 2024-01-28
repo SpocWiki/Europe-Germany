@@ -1,5 +1,5 @@
 ﻿---
-location: [49.32,6.75]
+location: [49.32,6.75] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.75]
-[geo-lat::49.32]
-[name::Saarlois]
-[Country::[[Germany]]]
-[State[[Saarland]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.75] 
+[geo-lat::49.32] 
+[name::Saarlois] 
+Country :: [[Germany]]  
+State :: [[Saarland]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Saarlois
-coordinates: [[Saarlois]]
-markerFile: [[Saarlois]]
+coordinates: [[Saarlois]] 
+markerFile: [[Saarlois]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Saarlois|Saarlois]]] 
+- [[Saarlois|Saarlois]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Saarlois.internal|Saarlois.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Saarlois.protect|Saarlois.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Saarlois.private|Saarlois.private]] 

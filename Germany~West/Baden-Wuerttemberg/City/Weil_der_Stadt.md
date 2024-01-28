@@ -1,5 +1,5 @@
 ﻿---
-location: [48.75,8.88]
+location: [48.75,8.88] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.88]
-[geo-lat::48.75]
-[name::Weil der Stadt]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.88] 
+[geo-lat::48.75] 
+[name::Weil der Stadt] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Weil der Stadt
-coordinates: [[Weil_der_Stadt]]
-markerFile: [[Weil_der_Stadt]]
+coordinates: [[Weil_der_Stadt]] 
+markerFile: [[Weil_der_Stadt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Weil_der_Stadt|Weil_der_Stadt]]] 
+- [[Weil_der_Stadt|Weil_der_Stadt]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weil_der_Stadt.internal|Weil_der_Stadt.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weil_der_Stadt.protect|Weil_der_Stadt.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weil_der_Stadt.private|Weil_der_Stadt.private]] 

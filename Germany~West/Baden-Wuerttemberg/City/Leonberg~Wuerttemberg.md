@@ -1,5 +1,5 @@
 ﻿---
-location: [48.8,9.02]
+location: [48.8,9.02] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.02]
-[geo-lat::48.8]
-[name::Leonberg~Wuerttemberg]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.02] 
+[geo-lat::48.8] 
+[name::Leonberg~Wuerttemberg] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Leonberg~Wuerttemberg
-coordinates: [[Leonberg~Wuerttemberg]]
-markerFile: [[Leonberg~Wuerttemberg]]
+coordinates: [[Leonberg~Wuerttemberg]] 
+markerFile: [[Leonberg~Wuerttemberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Leonberg~Wuerttemberg|Leonberg~Wuerttemberg]]] 
+- [[Leonberg~Wuerttemberg|Leonberg~Wuerttemberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Leonberg~Wuerttemberg.internal|Leonberg~Wuerttemberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Leonberg~Wuerttemberg.protect|Leonberg~Wuerttemberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Leonberg~Wuerttemberg.private|Leonberg~Wuerttemberg.private]] 

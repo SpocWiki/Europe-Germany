@@ -1,5 +1,5 @@
 ﻿---
-location: [47.67,9.59]
+location: [47.67,9.59] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.59]
-[geo-lat::47.67]
-[name::Tettnang]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.59] 
+[geo-lat::47.67] 
+[name::Tettnang] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Tettnang
-coordinates: [[Tettnang]]
-markerFile: [[Tettnang]]
+coordinates: [[Tettnang]] 
+markerFile: [[Tettnang]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Tettnang|Tettnang]]] 
+- [[Tettnang|Tettnang]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Tettnang.internal|Tettnang.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Tettnang.protect|Tettnang.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Tettnang.private|Tettnang.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [50.68,10.9]
+location: [50.68,10.9] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.9]
-[geo-lat::50.68]
-[name::Ilmenau]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.9] 
+[geo-lat::50.68] 
+[name::Ilmenau] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ilmenau
-coordinates: [[Ilmenau]]
-markerFile: [[Ilmenau]]
+coordinates: [[Ilmenau]] 
+markerFile: [[Ilmenau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

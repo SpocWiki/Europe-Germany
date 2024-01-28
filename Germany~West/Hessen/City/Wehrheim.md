@@ -1,5 +1,5 @@
 ﻿---
-location: [50.32,8.57]
+location: [50.32,8.57] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.57]
-[geo-lat::50.32]
-[name::Wehrheim]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.57] 
+[geo-lat::50.32] 
+[name::Wehrheim] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wehrheim
-coordinates: [[Wehrheim]]
-markerFile: [[Wehrheim]]
+coordinates: [[Wehrheim]] 
+markerFile: [[Wehrheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Wehrheim|Wehrheim]]] 
+- [[Wehrheim|Wehrheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Wehrheim.internal|Wehrheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Wehrheim.protect|Wehrheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Wehrheim.private|Wehrheim.private]] 

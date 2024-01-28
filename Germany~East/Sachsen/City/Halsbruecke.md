@@ -1,5 +1,5 @@
 ﻿---
-location: [50.97,13.33]
+location: [50.97,13.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.33]
-[geo-lat::50.97]
-[name::Halsbruecke]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.33] 
+[geo-lat::50.97] 
+[name::Halsbruecke] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Halsbruecke
-coordinates: [[Halsbruecke]]
-markerFile: [[Halsbruecke]]
+coordinates: [[Halsbruecke]] 
+markerFile: [[Halsbruecke]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

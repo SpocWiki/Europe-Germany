@@ -1,5 +1,5 @@
 ﻿---
-location: [51.58,11.45]
+location: [51.58,11.45] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.45]
-[geo-lat::51.58]
-[name::Mansfeld]
-[Country::[[Germany]]]
-[State:[[Sachsen-Anhalt]]]]
-[Population::]
-[Unknown::]
+[geo-lon::11.45] 
+[geo-lat::51.58] 
+[name::Mansfeld] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mansfeld
-coordinates: [[Mansfeld]]
-markerFile: [[Mansfeld]]
+coordinates: [[Mansfeld]] 
+markerFile: [[Mansfeld]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

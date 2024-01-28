@@ -1,5 +1,5 @@
 ﻿---
-location: [49.25,8.13]
+location: [49.25,8.13] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.13]
-[geo-lat::49.25]
-[name::Edesheim]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.13] 
+[geo-lat::49.25] 
+[name::Edesheim] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Edesheim
-coordinates: [[Edesheim]]
-markerFile: [[Edesheim]]
+coordinates: [[Edesheim]] 
+markerFile: [[Edesheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Edesheim|Edesheim]]] 
+- [[Edesheim|Edesheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Edesheim.internal|Edesheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Edesheim.protect|Edesheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Edesheim.private|Edesheim.private]] 

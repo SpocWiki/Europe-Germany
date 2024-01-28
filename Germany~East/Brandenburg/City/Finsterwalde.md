@@ -1,5 +1,5 @@
 ﻿---
-location: [51.62,13.68]
+location: [51.62,13.68] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.68]
-[geo-lat::51.62]
-[name::Finsterwalde]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.68] 
+[geo-lat::51.62] 
+[name::Finsterwalde] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Finsterwalde
-coordinates: [[Finsterwalde]]
-markerFile: [[Finsterwalde]]
+coordinates: [[Finsterwalde]] 
+markerFile: [[Finsterwalde]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

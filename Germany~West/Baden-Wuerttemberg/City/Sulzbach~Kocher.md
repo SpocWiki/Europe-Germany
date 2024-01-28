@@ -1,5 +1,5 @@
 ---
-location: [48.97,9.83]
+location: [48.97,9.83] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.83]
-[geo-lat::48.97]
-[name::Sulzbach am Kocher]
-[Country::[[Germany]]]
-[State::[[Baden-Wuerttemberg]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.83] 
+[geo-lat::48.97] 
+[name::Sulzbach am Kocher] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Sulzbach am Kocher
-coordinates: [[Sulzbach~Kocher]]
-markerFile: [[Sulzbach~Kocher]]
+coordinates: [[Sulzbach~Kocher]] 
+markerFile: [[Sulzbach~Kocher]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

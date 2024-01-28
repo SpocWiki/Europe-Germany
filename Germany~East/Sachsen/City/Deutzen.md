@@ -1,5 +1,5 @@
 ﻿---
-location: [51.13,12.47]
+location: [51.13,12.47] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.47]
-[geo-lat::51.13]
-[name::Deutzen]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.47] 
+[geo-lat::51.13] 
+[name::Deutzen] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Deutzen
-coordinates: [[Deutzen]]
-markerFile: [[Deutzen]]
+coordinates: [[Deutzen]] 
+markerFile: [[Deutzen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

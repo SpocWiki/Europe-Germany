@@ -1,5 +1,5 @@
 ﻿---
-location: [47.75,11.47]
+location: [47.75,11.47] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.47]
-[geo-lat::47.75]
-[name::Heilbrunn]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.47] 
+[geo-lat::47.75] 
+[name::Heilbrunn] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Heilbrunn
-coordinates: [[Heilbrunn]]
-markerFile: [[Heilbrunn]]
+coordinates: [[Heilbrunn]] 
+markerFile: [[Heilbrunn]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Heilbrunn|Heilbrunn]]] 
+- [[Heilbrunn|Heilbrunn]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Heilbrunn.internal|Heilbrunn.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Heilbrunn.protect|Heilbrunn.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Heilbrunn.private|Heilbrunn.private]] 

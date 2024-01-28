@@ -1,5 +1,5 @@
 ﻿---
-location: [50.23,7.82]
+location: [50.23,7.82] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.82]
-[geo-lat::50.23]
-[name::Miehlen]
-[Country::[[Germany]]]
-[State:[[Rheinland-Pfalz]]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.82] 
+[geo-lat::50.23] 
+[name::Miehlen] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Miehlen
-coordinates: [[Miehlen]]
-markerFile: [[Miehlen]]
+coordinates: [[Miehlen]] 
+markerFile: [[Miehlen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Miehlen|Miehlen]]] 
+- [[Miehlen|Miehlen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Miehlen.internal|Miehlen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Miehlen.protect|Miehlen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Miehlen.private|Miehlen.private]] 

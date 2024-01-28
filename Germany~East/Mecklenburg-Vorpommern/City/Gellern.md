@@ -1,5 +1,5 @@
 ﻿---
-location: [54.47,13.22]
+location: [54.47,13.22] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.22]
-[geo-lat::54.47]
-[name::Gellern]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.22] 
+[geo-lat::54.47] 
+[name::Gellern] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gellern
-coordinates: [[Gellern]]
-markerFile: [[Gellern]]
+coordinates: [[Gellern]] 
+markerFile: [[Gellern]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

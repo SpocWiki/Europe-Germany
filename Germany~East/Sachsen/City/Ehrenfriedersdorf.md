@@ -1,5 +1,5 @@
 ﻿---
-location: [50.65,12.98]
+location: [50.65,12.98] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.98]
-[geo-lat::50.65]
-[name::Ehrenfriedersdorf]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.98] 
+[geo-lat::50.65] 
+[name::Ehrenfriedersdorf] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ehrenfriedersdorf
-coordinates: [[Ehrenfriedersdorf]]
-markerFile: [[Ehrenfriedersdorf]]
+coordinates: [[Ehrenfriedersdorf]] 
+markerFile: [[Ehrenfriedersdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

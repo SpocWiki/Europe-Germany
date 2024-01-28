@@ -1,5 +1,5 @@
 ---
-location: [50.05958,8.806806]
+location: [50.05958,8.806806] 
 type: Station 
 mapzoom: [8,18] 
 mapmarker: train 
@@ -10,17 +10,17 @@ SpocWebEntityId: 156399
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.806806]
-[geo-lat::50.05958]
-[name::Heusenstamm]
-[Country::[[Germany]]]
-[City:[[Frankfurt~Main]] ]
+[geo-lon::8.806806] 
+[geo-lat::50.05958] 
+[name::Heusenstamm] 
+Country :: [[Germany]]  
+City :: [[Frankfurt~Main]] ] 
 
 
 ```leaflet
 id: S-Heusenstamm.md
-coordinates: [[S-Heusenstamm]]
-markerFile: [[S-Heusenstamm]]
+coordinates: [[S-Heusenstamm]] 
+markerFile: [[S-Heusenstamm]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

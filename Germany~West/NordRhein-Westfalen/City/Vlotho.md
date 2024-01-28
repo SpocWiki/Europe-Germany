@@ -1,5 +1,5 @@
 ﻿---
-location: [52.17,8.87]
+location: [52.17,8.87] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.87]
-[geo-lat::52.17]
-[name::Vlotho]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.87] 
+[geo-lat::52.17] 
+[name::Vlotho] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Vlotho
-coordinates: [[Vlotho]]
-markerFile: [[Vlotho]]
+coordinates: [[Vlotho]] 
+markerFile: [[Vlotho]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Vlotho|Vlotho]]] 
+- [[Vlotho|Vlotho]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Vlotho.internal|Vlotho.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Vlotho.protect|Vlotho.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Vlotho.private|Vlotho.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [48.87,10.09]
+location: [48.87,10.09] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.09]
-[geo-lat::48.87]
-[name::Wasseralfingen]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::10.09] 
+[geo-lat::48.87] 
+[name::Wasseralfingen] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wasseralfingen
-coordinates: [[Wasseralfingen]]
-markerFile: [[Wasseralfingen]]
+coordinates: [[Wasseralfingen]] 
+markerFile: [[Wasseralfingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Wasseralfingen|Wasseralfingen]]] 
+- [[Wasseralfingen|Wasseralfingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wasseralfingen.internal|Wasseralfingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wasseralfingen.protect|Wasseralfingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wasseralfingen.private|Wasseralfingen.private]] 

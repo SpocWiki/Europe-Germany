@@ -1,5 +1,5 @@
 ﻿---
-location: [53.08,8.65]
+location: [53.08,8.65] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.65]
-[geo-lat::53.08]
-[name::Hannover~Oldenburg]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.65] 
+[geo-lat::53.08] 
+[name::Hannover~Oldenburg] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hannover~Oldenburg
-coordinates: [[Hannover~Oldenburg]]
-markerFile: [[Hannover~Oldenburg]]
+coordinates: [[Hannover~Oldenburg]] 
+markerFile: [[Hannover~Oldenburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hannover~Oldenburg|Hannover~Oldenburg]]] 
+- [[Hannover~Oldenburg|Hannover~Oldenburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannover~Oldenburg.internal|Hannover~Oldenburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannover~Oldenburg.protect|Hannover~Oldenburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannover~Oldenburg.private|Hannover~Oldenburg.private]] 

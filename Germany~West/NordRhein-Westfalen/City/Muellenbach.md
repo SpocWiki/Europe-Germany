@@ -1,5 +1,5 @@
 ﻿---
-location: [51.07,7.58]
+location: [51.07,7.58] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.58]
-[geo-lat::51.07]
-[name::Muellenbach]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.58] 
+[geo-lat::51.07] 
+[name::Muellenbach] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Muellenbach
-coordinates: [[Muellenbach]]
-markerFile: [[Muellenbach]]
+coordinates: [[Muellenbach]] 
+markerFile: [[Muellenbach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Muellenbach|Muellenbach]]] 
+- [[Muellenbach|Muellenbach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muellenbach.internal|Muellenbach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muellenbach.protect|Muellenbach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muellenbach.private|Muellenbach.private]] 

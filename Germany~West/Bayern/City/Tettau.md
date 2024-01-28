@@ -1,5 +1,5 @@
 ﻿---
-location: [50.47,11.25]
+location: [50.47,11.25] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.25]
-[geo-lat::50.47]
-[name::Tettau]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.25] 
+[geo-lat::50.47] 
+[name::Tettau] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Tettau
-coordinates: [[Tettau]]
-markerFile: [[Tettau]]
+coordinates: [[Tettau]] 
+markerFile: [[Tettau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Tettau|Tettau]]] 
+- [[Tettau|Tettau]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Tettau.internal|Tettau.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Tettau.protect|Tettau.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Tettau.private|Tettau.private]] 

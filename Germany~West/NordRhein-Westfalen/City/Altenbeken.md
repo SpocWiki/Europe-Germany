@@ -1,5 +1,5 @@
 ﻿---
-location: [51.73,8.75]
+location: [51.73,8.75] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.75]
-[geo-lat::51.73]
-[name::Altenbeken]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.75] 
+[geo-lat::51.73] 
+[name::Altenbeken] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Altenbeken
-coordinates: [[Altenbeken]]
-markerFile: [[Altenbeken]]
+coordinates: [[Altenbeken]] 
+markerFile: [[Altenbeken]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Altenbeken|Altenbeken]]] 
+- [[Altenbeken|Altenbeken]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Altenbeken.internal|Altenbeken.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Altenbeken.protect|Altenbeken.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Altenbeken.private|Altenbeken.private]] 

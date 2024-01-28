@@ -1,5 +1,5 @@
 ﻿---
-location: [52.43,14.13]
+location: [52.43,14.13] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.13]
-[geo-lat::52.43]
-[name::Erkner]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::14.13] 
+[geo-lat::52.43] 
+[name::Erkner] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Erkner
-coordinates: [[Erkner]]
-markerFile: [[Erkner]]
+coordinates: [[Erkner]] 
+markerFile: [[Erkner]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [51.38,7.98]
+location: [51.38,7.98] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.98]
-[geo-lat::51.38]
-[name::Hachen]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.98] 
+[geo-lat::51.38] 
+[name::Hachen] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hachen
-coordinates: [[Hachen]]
-markerFile: [[Hachen]]
+coordinates: [[Hachen]] 
+markerFile: [[Hachen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hachen|Hachen]]] 
+- [[Hachen|Hachen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hachen.internal|Hachen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hachen.protect|Hachen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hachen.private|Hachen.private]] 

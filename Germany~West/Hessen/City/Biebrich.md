@@ -1,5 +1,5 @@
 ﻿---
-location: [50.05,8.25]
+location: [50.05,8.25] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.25]
-[geo-lat::50.05]
-[name::Biebrich]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.25] 
+[geo-lat::50.05] 
+[name::Biebrich] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Biebrich
-coordinates: [[Biebrich]]
-markerFile: [[Biebrich]]
+coordinates: [[Biebrich]] 
+markerFile: [[Biebrich]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Biebrich|Biebrich]]] 
+- [[Biebrich|Biebrich]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Biebrich.internal|Biebrich.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Biebrich.protect|Biebrich.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Biebrich.private|Biebrich.private]] 

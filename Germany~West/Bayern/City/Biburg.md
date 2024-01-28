@@ -1,5 +1,5 @@
 ﻿---
-location: [49.03,11.25]
+location: [49.03,11.25] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.25]
-[geo-lat::49.03]
-[name::Biburg]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.25] 
+[geo-lat::49.03] 
+[name::Biburg] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Biburg
-coordinates: [[Biburg]]
-markerFile: [[Biburg]]
+coordinates: [[Biburg]] 
+markerFile: [[Biburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Biburg|Biburg]]] 
+- [[Biburg|Biburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Biburg.internal|Biburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Biburg.protect|Biburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Biburg.private|Biburg.private]] 

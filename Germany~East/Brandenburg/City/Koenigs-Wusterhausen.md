@@ -1,5 +1,5 @@
 ﻿---
-location: [52.3,13.62]
+location: [52.3,13.62] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.62]
-[geo-lat::52.3]
-[name::Koenigs-Wusterhausen]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.62] 
+[geo-lat::52.3] 
+[name::Koenigs-Wusterhausen] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Koenigs-Wusterhausen
-coordinates: [[Koenigs-Wusterhausen]]
-markerFile: [[Koenigs-Wusterhausen]]
+coordinates: [[Koenigs-Wusterhausen]] 
+markerFile: [[Koenigs-Wusterhausen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

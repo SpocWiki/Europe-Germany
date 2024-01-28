@@ -1,5 +1,5 @@
 ﻿---
-location: [53.47,12.27]
+location: [53.47,12.27] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.27]
-[geo-lat::53.47]
-[name::Plau]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.27] 
+[geo-lat::53.47] 
+[name::Plau] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Plau
-coordinates: [[Plau]]
-markerFile: [[Plau]]
+coordinates: [[Plau]] 
+markerFile: [[Plau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

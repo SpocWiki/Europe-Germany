@@ -1,5 +1,5 @@
 ﻿---
-location: [50.4,12.33]
+location: [50.4,12.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.33]
-[geo-lat::50.4]
-[name::Schoeneck]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.33] 
+[geo-lat::50.4] 
+[name::Schoeneck] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schoeneck
-coordinates: [[Schoeneck]]
-markerFile: [[Schoeneck]]
+coordinates: [[Schoeneck]] 
+markerFile: [[Schoeneck]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

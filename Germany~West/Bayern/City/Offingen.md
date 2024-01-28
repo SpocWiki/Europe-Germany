@@ -1,5 +1,5 @@
 ﻿---
-location: [48.48,10.4]
+location: [48.48,10.4] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.4]
-[geo-lat::48.48]
-[name::Offingen]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.4] 
+[geo-lat::48.48] 
+[name::Offingen] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Offingen
-coordinates: [[Offingen]]
-markerFile: [[Offingen]]
+coordinates: [[Offingen]] 
+markerFile: [[Offingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Offingen|Offingen]]] 
+- [[Offingen|Offingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Offingen.internal|Offingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Offingen.protect|Offingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Offingen.private|Offingen.private]] 

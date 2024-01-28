@@ -1,5 +1,5 @@
 ---
-location: [49.914,7.57652]
+location: [49.914,7.57652] 
 type: State
 ISO3166-2: DE-RP
 SpocWebEntityId: 36021
@@ -9,13 +9,13 @@ tags:
 - geo/State
 
 ---
-[name::Rheinland-Pfalz]
+[name::Rheinland-Pfalz] 
 
-[name-abbr::RZ]
+[name-abbr::RZ] 
 
-![[Coat_of_arms_of_Rhineland-Palatinate.svg|350]]
+![[Coat_of_arms_of_Rhineland-Palatinate.svg|350]] 
 
-![[Flag_of_Rhineland-Palatinate.svg|350]]
+![[Flag_of_Rhineland-Palatinate.svg|350]] 
 
 
 ```leaflet
@@ -27,16 +27,16 @@ geojsonFolder: ./Rheinland-Pfalz/
 markerFolder: ./Rheinland-Pfalz/
 ```
 
-[Country::[[Germany]]]
-[ Capital ::[[Mainz]]] ]
-[geo-lon::7.57652]
-[geo-lat::49.914]
-[Population::]
+Country :: [[Germany]]  
+Capital :: [[Mainz]]  
+[geo-lon::7.57652] 
+[geo-lat::49.914] 
+[Population::] 
 
 
 
 ## Confidential Links & Embeds: 
--[[Rheinland-Pfalz|Rheinland-Pfalz]]] 
+- [[Rheinland-Pfalz|Rheinland-Pfalz]]  
 - [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.internal|Rheinland-Pfalz.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.protect|Rheinland-Pfalz.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.private|Rheinland-Pfalz.private]] 

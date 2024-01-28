@@ -1,5 +1,5 @@
 ﻿---
-location: [48.82,9.35]
+location: [48.82,9.35] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.35]
-[geo-lat::48.82]
-[name::Geratstetten]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.35] 
+[geo-lat::48.82] 
+[name::Geratstetten] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Geratstetten
-coordinates: [[Geratstetten]]
-markerFile: [[Geratstetten]]
+coordinates: [[Geratstetten]] 
+markerFile: [[Geratstetten]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Geratstetten|Geratstetten]]] 
+- [[Geratstetten|Geratstetten]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Geratstetten.internal|Geratstetten.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Geratstetten.protect|Geratstetten.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Geratstetten.private|Geratstetten.private]] 

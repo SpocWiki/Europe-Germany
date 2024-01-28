@@ -1,5 +1,5 @@
 ﻿---
-location: [52.77,13.03]
+location: [52.77,13.03] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.03]
-[geo-lat::52.77]
-[name::Kremmen]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.03] 
+[geo-lat::52.77] 
+[name::Kremmen] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kremmen
-coordinates: [[Kremmen]]
-markerFile: [[Kremmen]]
+coordinates: [[Kremmen]] 
+markerFile: [[Kremmen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

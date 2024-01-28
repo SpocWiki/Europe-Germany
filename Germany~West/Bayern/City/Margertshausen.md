@@ -1,5 +1,5 @@
 ﻿---
-location: [48.32,10.72]
+location: [48.32,10.72] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.72]
-[geo-lat::48.32]
-[name::Margertshausen]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.72] 
+[geo-lat::48.32] 
+[name::Margertshausen] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Margertshausen
-coordinates: [[Margertshausen]]
-markerFile: [[Margertshausen]]
+coordinates: [[Margertshausen]] 
+markerFile: [[Margertshausen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Margertshausen|Margertshausen]]] 
+- [[Margertshausen|Margertshausen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Margertshausen.internal|Margertshausen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Margertshausen.protect|Margertshausen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Margertshausen.private|Margertshausen.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [48.7,11.37]
+location: [48.7,11.37] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.37]
-[geo-lat::48.7]
-[name::Pobenhausen]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.37] 
+[geo-lat::48.7] 
+[name::Pobenhausen] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Pobenhausen
-coordinates: [[Pobenhausen]]
-markerFile: [[Pobenhausen]]
+coordinates: [[Pobenhausen]] 
+markerFile: [[Pobenhausen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Pobenhausen|Pobenhausen]]] 
+- [[Pobenhausen|Pobenhausen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Pobenhausen.internal|Pobenhausen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Pobenhausen.protect|Pobenhausen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Pobenhausen.private|Pobenhausen.private]] 

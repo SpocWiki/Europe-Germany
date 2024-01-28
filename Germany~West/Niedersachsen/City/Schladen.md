@@ -1,5 +1,5 @@
 ﻿---
-location: [52.03,10.55]
+location: [52.03,10.55] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.55]
-[geo-lat::52.03]
-[name::Schladen]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.55] 
+[geo-lat::52.03] 
+[name::Schladen] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schladen
-coordinates: [[Schladen]]
-markerFile: [[Schladen]]
+coordinates: [[Schladen]] 
+markerFile: [[Schladen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Schladen|Schladen]]] 
+- [[Schladen|Schladen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schladen.internal|Schladen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schladen.protect|Schladen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schladen.private|Schladen.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [50.47,11.55]
+location: [50.47,11.55] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.55]
-[geo-lat::50.47]
-[name::Wurzbach]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.55] 
+[geo-lat::50.47] 
+[name::Wurzbach] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wurzbach
-coordinates: [[Wurzbach]]
-markerFile: [[Wurzbach]]
+coordinates: [[Wurzbach]] 
+markerFile: [[Wurzbach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

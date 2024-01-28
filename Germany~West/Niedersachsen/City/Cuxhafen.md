@@ -1,5 +1,5 @@
 ﻿---
-location: [53.87,8.7]
+location: [53.87,8.7] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.7]
-[geo-lat::53.87]
-[name::Cuxhafen]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.7] 
+[geo-lat::53.87] 
+[name::Cuxhafen] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Cuxhafen
-coordinates: [[Cuxhafen]]
-markerFile: [[Cuxhafen]]
+coordinates: [[Cuxhafen]] 
+markerFile: [[Cuxhafen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Cuxhafen|Cuxhafen]]] 
+- [[Cuxhafen|Cuxhafen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Cuxhafen.internal|Cuxhafen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Cuxhafen.protect|Cuxhafen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Cuxhafen.private|Cuxhafen.private]] 

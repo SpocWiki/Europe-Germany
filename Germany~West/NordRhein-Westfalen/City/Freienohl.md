@@ -1,5 +1,5 @@
 ﻿---
-location: [51.38,8.17]
+location: [51.38,8.17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.17]
-[geo-lat::51.38]
-[name::Freienohl]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.17] 
+[geo-lat::51.38] 
+[name::Freienohl] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Freienohl
-coordinates: [[Freienohl]]
-markerFile: [[Freienohl]]
+coordinates: [[Freienohl]] 
+markerFile: [[Freienohl]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Freienohl|Freienohl]]] 
+- [[Freienohl|Freienohl]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Freienohl.internal|Freienohl.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Freienohl.protect|Freienohl.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Freienohl.private|Freienohl.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [50.87,12.083]
+location: [50.87,12.083] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.083]
-[geo-lat::50.87]
-[name::Gera]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.083] 
+[geo-lat::50.87] 
+[name::Gera] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gera
-coordinates: [[Gera]]
-markerFile: [[Gera]]
+coordinates: [[Gera]] 
+markerFile: [[Gera]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

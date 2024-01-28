@@ -1,5 +1,5 @@
 ﻿---
-location: [47.82,12.48]
+location: [47.82,12.48] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.48]
-[geo-lat::47.82]
-[name::Übersee]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.48] 
+[geo-lat::47.82] 
+[name::Übersee] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Übersee
-coordinates: [[Übersee]]
-markerFile: [[Übersee]]
+coordinates: [[Übersee]] 
+markerFile: [[Übersee]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Übersee|Übersee]]] 
+- [[Übersee|Übersee]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Übersee.internal|Übersee.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Übersee.protect|Übersee.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Übersee.private|Übersee.private]] 

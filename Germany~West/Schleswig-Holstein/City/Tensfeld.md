@@ -1,5 +1,5 @@
 ﻿---
-location: [54.05,10.32]
+location: [54.05,10.32] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.32]
-[geo-lat::54.05]
-[name::Tensfeld]
-[Country::[[Germany]]]
-[State ::[[Schleswig-Holstein]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.32] 
+[geo-lat::54.05] 
+[name::Tensfeld] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Tensfeld
-coordinates: [[Tensfeld]]
-markerFile: [[Tensfeld]]
+coordinates: [[Tensfeld]] 
+markerFile: [[Tensfeld]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Tensfeld|Tensfeld]]] 
+- [[Tensfeld|Tensfeld]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Tensfeld.internal|Tensfeld.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Tensfeld.protect|Tensfeld.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Tensfeld.private|Tensfeld.private]] 

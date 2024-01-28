@@ -1,5 +1,5 @@
 ﻿---
-location: [51.67,8.63]
+location: [51.67,8.63] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.63]
-[geo-lat::51.67]
-[name::Salzkotten]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.63] 
+[geo-lat::51.67] 
+[name::Salzkotten] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Salzkotten
-coordinates: [[Salzkotten]]
-markerFile: [[Salzkotten]]
+coordinates: [[Salzkotten]] 
+markerFile: [[Salzkotten]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Salzkotten|Salzkotten]]] 
+- [[Salzkotten|Salzkotten]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Salzkotten.internal|Salzkotten.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Salzkotten.protect|Salzkotten.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Salzkotten.private|Salzkotten.private]] 

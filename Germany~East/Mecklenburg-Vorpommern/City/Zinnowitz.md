@@ -1,5 +1,5 @@
 ﻿---
-location: [54.08,13.92]
+location: [54.08,13.92] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.92]
-[geo-lat::54.08]
-[name::Zinnowitz]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.92] 
+[geo-lat::54.08] 
+[name::Zinnowitz] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Zinnowitz
-coordinates: [[Zinnowitz]]
-markerFile: [[Zinnowitz]]
+coordinates: [[Zinnowitz]] 
+markerFile: [[Zinnowitz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

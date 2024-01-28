@@ -1,5 +1,5 @@
 ﻿---
-location: [50.97,8.98]
+location: [50.97,8.98] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.98]
-[geo-lat::50.97]
-[name::Gemuenden]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.98] 
+[geo-lat::50.97] 
+[name::Gemuenden] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gemuenden
-coordinates: [[Gemuenden]]
-markerFile: [[Gemuenden]]
+coordinates: [[Gemuenden]] 
+markerFile: [[Gemuenden]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Gemuenden|Gemuenden]]] 
+- [[Gemuenden|Gemuenden]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Gemuenden.internal|Gemuenden.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Gemuenden.protect|Gemuenden.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Gemuenden.private|Gemuenden.private]] 

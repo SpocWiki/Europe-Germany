@@ -1,5 +1,5 @@
 ﻿---
-location: [50.22,9.17]
+location: [50.22,9.17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.17]
-[geo-lat::50.22]
-[name::Gelnhausen]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.17] 
+[geo-lat::50.22] 
+[name::Gelnhausen] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gelnhausen
-coordinates: [[Gelnhausen]]
-markerFile: [[Gelnhausen]]
+coordinates: [[Gelnhausen]] 
+markerFile: [[Gelnhausen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Gelnhausen|Gelnhausen]]] 
+- [[Gelnhausen|Gelnhausen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Gelnhausen.internal|Gelnhausen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Gelnhausen.protect|Gelnhausen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Gelnhausen.private|Gelnhausen.private]] 

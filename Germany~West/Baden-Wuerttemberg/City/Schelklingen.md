@@ -1,5 +1,5 @@
 ﻿---
-location: [48.38,9.75]
+location: [48.38,9.75] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.75]
-[geo-lat::48.38]
-[name::Schelklingen]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.75] 
+[geo-lat::48.38] 
+[name::Schelklingen] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schelklingen
-coordinates: [[Schelklingen]]
-markerFile: [[Schelklingen]]
+coordinates: [[Schelklingen]] 
+markerFile: [[Schelklingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Schelklingen|Schelklingen]]] 
+- [[Schelklingen|Schelklingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schelklingen.internal|Schelklingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schelklingen.protect|Schelklingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schelklingen.private|Schelklingen.private]] 

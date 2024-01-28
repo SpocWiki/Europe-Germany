@@ -1,5 +1,5 @@
 ﻿---
-location: [49.03,12.22]
+location: [49.03,12.22] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.22]
-[geo-lat::49.03]
-[name::Donaustauf]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.22] 
+[geo-lat::49.03] 
+[name::Donaustauf] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Donaustauf
-coordinates: [[Donaustauf]]
-markerFile: [[Donaustauf]]
+coordinates: [[Donaustauf]] 
+markerFile: [[Donaustauf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Donaustauf|Donaustauf]]] 
+- [[Donaustauf|Donaustauf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Donaustauf.internal|Donaustauf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Donaustauf.protect|Donaustauf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Donaustauf.private|Donaustauf.private]] 

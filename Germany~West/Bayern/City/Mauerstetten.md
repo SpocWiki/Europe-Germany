@@ -1,5 +1,5 @@
 ﻿---
-location: [47.92,10.68]
+location: [47.92,10.68] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.68]
-[geo-lat::47.92]
-[name::Mauerstetten]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.68] 
+[geo-lat::47.92] 
+[name::Mauerstetten] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mauerstetten
-coordinates: [[Mauerstetten]]
-markerFile: [[Mauerstetten]]
+coordinates: [[Mauerstetten]] 
+markerFile: [[Mauerstetten]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Mauerstetten|Mauerstetten]]] 
+- [[Mauerstetten|Mauerstetten]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Mauerstetten.internal|Mauerstetten.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Mauerstetten.protect|Mauerstetten.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Mauerstetten.private|Mauerstetten.private]] 

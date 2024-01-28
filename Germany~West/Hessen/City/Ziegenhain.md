@@ -1,5 +1,5 @@
 ﻿---
-location: [50.92,9.25]
+location: [50.92,9.25] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.25]
-[geo-lat::50.92]
-[name::Ziegenhain]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.25] 
+[geo-lat::50.92] 
+[name::Ziegenhain] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ziegenhain
-coordinates: [[Ziegenhain]]
-markerFile: [[Ziegenhain]]
+coordinates: [[Ziegenhain]] 
+markerFile: [[Ziegenhain]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Ziegenhain|Ziegenhain]]] 
+- [[Ziegenhain|Ziegenhain]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Ziegenhain.internal|Ziegenhain.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Ziegenhain.protect|Ziegenhain.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Ziegenhain.private|Ziegenhain.private]] 

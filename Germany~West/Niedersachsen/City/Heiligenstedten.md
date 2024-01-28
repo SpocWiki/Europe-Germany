@@ -1,5 +1,5 @@
 ﻿---
-location: [53.43,9.45]
+location: [53.43,9.45] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.45]
-[geo-lat::53.43]
-[name::Heiligenstedten]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.45] 
+[geo-lat::53.43] 
+[name::Heiligenstedten] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Heiligenstedten
-coordinates: [[Heiligenstedten]]
-markerFile: [[Heiligenstedten]]
+coordinates: [[Heiligenstedten]] 
+markerFile: [[Heiligenstedten]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Heiligenstedten|Heiligenstedten]]] 
+- [[Heiligenstedten|Heiligenstedten]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Heiligenstedten.internal|Heiligenstedten.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Heiligenstedten.protect|Heiligenstedten.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Heiligenstedten.private|Heiligenstedten.private]] 

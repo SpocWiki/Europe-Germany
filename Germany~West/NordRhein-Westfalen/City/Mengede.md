@@ -1,5 +1,5 @@
 ﻿---
-location: [51.58,7.38]
+location: [51.58,7.38] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.38]
-[geo-lat::51.58]
-[name::Mengede]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.38] 
+[geo-lat::51.58] 
+[name::Mengede] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mengede
-coordinates: [[Mengede]]
-markerFile: [[Mengede]]
+coordinates: [[Mengede]] 
+markerFile: [[Mengede]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Mengede|Mengede]]] 
+- [[Mengede|Mengede]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mengede.internal|Mengede.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mengede.protect|Mengede.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mengede.private|Mengede.private]] 

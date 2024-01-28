@@ -1,5 +1,5 @@
 ﻿---
-location: [53.57,13.27]
+location: [53.57,13.27] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.27]
-[geo-lat::53.57]
-[name::Neu-Brandenburg]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.27] 
+[geo-lat::53.57] 
+[name::Neu-Brandenburg] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Neu-Brandenburg
-coordinates: [[Neu-Brandenburg]]
-markerFile: [[Neu-Brandenburg]]
+coordinates: [[Neu-Brandenburg]] 
+markerFile: [[Neu-Brandenburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

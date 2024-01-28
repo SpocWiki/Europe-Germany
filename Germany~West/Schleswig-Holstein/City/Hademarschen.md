@@ -1,5 +1,5 @@
 ﻿---
-location: [54.13,9.42]
+location: [54.13,9.42] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.42]
-[geo-lat::54.13]
-[name::Hademarschen]
-[Country::[[Germany]]]
-[State ::[[Schleswig-Holstein]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.42] 
+[geo-lat::54.13] 
+[name::Hademarschen] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hademarschen
-coordinates: [[Hademarschen]]
-markerFile: [[Hademarschen]]
+coordinates: [[Hademarschen]] 
+markerFile: [[Hademarschen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hademarschen|Hademarschen]]] 
+- [[Hademarschen|Hademarschen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hademarschen.internal|Hademarschen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hademarschen.protect|Hademarschen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hademarschen.private|Hademarschen.private]] 

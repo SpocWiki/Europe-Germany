@@ -1,5 +1,5 @@
 ﻿---
-location: [50.73,12.7]
+location: [50.73,12.7] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.7]
-[geo-lat::50.73]
-[name::Oelsnitz~Erzgebirge]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.7] 
+[geo-lat::50.73] 
+[name::Oelsnitz~Erzgebirge] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Oelsnitz~Erzgebirge
-coordinates: [[Oelsnitz~Erzgebirge]]
-markerFile: [[Oelsnitz~Erzgebirge]]
+coordinates: [[Oelsnitz~Erzgebirge]] 
+markerFile: [[Oelsnitz~Erzgebirge]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [49.82,6.7]
+location: [49.82,6.7] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.7]
-[geo-lat::49.82]
-[name::Ehrang]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::6.7] 
+[geo-lat::49.82] 
+[name::Ehrang] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ehrang
-coordinates: [[Ehrang]]
-markerFile: [[Ehrang]]
+coordinates: [[Ehrang]] 
+markerFile: [[Ehrang]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Ehrang|Ehrang]]] 
+- [[Ehrang|Ehrang]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ehrang.internal|Ehrang.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ehrang.protect|Ehrang.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ehrang.private|Ehrang.private]] 

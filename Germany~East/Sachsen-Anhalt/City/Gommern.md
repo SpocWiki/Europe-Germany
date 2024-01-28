@@ -1,5 +1,5 @@
 ﻿---
-location: [52.07,11.83]
+location: [52.07,11.83] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.83]
-[geo-lat::52.07]
-[name::Gommern]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.83] 
+[geo-lat::52.07] 
+[name::Gommern] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gommern
-coordinates: [[Gommern]]
-markerFile: [[Gommern]]
+coordinates: [[Gommern]] 
+markerFile: [[Gommern]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

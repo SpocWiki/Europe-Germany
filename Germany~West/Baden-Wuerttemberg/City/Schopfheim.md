@@ -1,5 +1,5 @@
 ﻿---
-location: [47.65,7.82]
+location: [47.65,7.82] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.82]
-[geo-lat::47.65]
-[name::Schopfheim]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.82] 
+[geo-lat::47.65] 
+[name::Schopfheim] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schopfheim
-coordinates: [[Schopfheim]]
-markerFile: [[Schopfheim]]
+coordinates: [[Schopfheim]] 
+markerFile: [[Schopfheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Schopfheim|Schopfheim]]] 
+- [[Schopfheim|Schopfheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schopfheim.internal|Schopfheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schopfheim.protect|Schopfheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schopfheim.private|Schopfheim.private]] 

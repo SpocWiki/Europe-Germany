@@ -1,5 +1,5 @@
 ﻿---
-location: [53.78,8.6]
+location: [53.78,8.6] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.6]
-[geo-lat::53.78]
-[name::Nordholz]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.6] 
+[geo-lat::53.78] 
+[name::Nordholz] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Nordholz
-coordinates: [[Nordholz]]
-markerFile: [[Nordholz]]
+coordinates: [[Nordholz]] 
+markerFile: [[Nordholz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Nordholz|Nordholz]]] 
+- [[Nordholz|Nordholz]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nordholz.internal|Nordholz.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nordholz.protect|Nordholz.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nordholz.private|Nordholz.private]] 

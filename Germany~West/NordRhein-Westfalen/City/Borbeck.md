@@ -1,5 +1,5 @@
 ﻿---
-location: [51.48,6.9]
+location: [51.48,6.9] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.9]
-[geo-lat::51.48]
-[name::Borbeck]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.9] 
+[geo-lat::51.48] 
+[name::Borbeck] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Borbeck
-coordinates: [[Borbeck]]
-markerFile: [[Borbeck]]
+coordinates: [[Borbeck]] 
+markerFile: [[Borbeck]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Borbeck|Borbeck]]] 
+- [[Borbeck|Borbeck]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Borbeck.internal|Borbeck.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Borbeck.protect|Borbeck.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Borbeck.private|Borbeck.private]] 

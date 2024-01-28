@@ -1,5 +1,5 @@
 ﻿---
-location: [51.2,11.22]
+location: [51.2,11.22] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.22]
-[geo-lat::51.2]
-[name::Koelleda]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.22] 
+[geo-lat::51.2] 
+[name::Koelleda] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Koelleda
-coordinates: [[Koelleda]]
-markerFile: [[Koelleda]]
+coordinates: [[Koelleda]] 
+markerFile: [[Koelleda]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

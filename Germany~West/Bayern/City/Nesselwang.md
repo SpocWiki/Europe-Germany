@@ -1,5 +1,5 @@
 ﻿---
-location: [47.65,10.5]
+location: [47.65,10.5] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.5]
-[geo-lat::47.65]
-[name::Nesselwang]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.5] 
+[geo-lat::47.65] 
+[name::Nesselwang] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Nesselwang
-coordinates: [[Nesselwang]]
-markerFile: [[Nesselwang]]
+coordinates: [[Nesselwang]] 
+markerFile: [[Nesselwang]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Nesselwang|Nesselwang]]] 
+- [[Nesselwang|Nesselwang]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Nesselwang.internal|Nesselwang.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Nesselwang.protect|Nesselwang.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Nesselwang.private|Nesselwang.private]] 

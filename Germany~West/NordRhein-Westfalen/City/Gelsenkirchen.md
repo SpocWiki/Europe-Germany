@@ -1,5 +1,5 @@
 ﻿---
-location: [51.51,7.09]
+location: [51.51,7.09] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.09]
-[geo-lat::51.51]
-[name::Gelsenkirchen]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.09] 
+[geo-lat::51.51] 
+[name::Gelsenkirchen] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gelsenkirchen
-coordinates: [[Gelsenkirchen]]
-markerFile: [[Gelsenkirchen]]
+coordinates: [[Gelsenkirchen]] 
+markerFile: [[Gelsenkirchen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Gelsenkirchen|Gelsenkirchen]]] 
+- [[Gelsenkirchen|Gelsenkirchen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Gelsenkirchen.internal|Gelsenkirchen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Gelsenkirchen.protect|Gelsenkirchen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Gelsenkirchen.private|Gelsenkirchen.private]] 

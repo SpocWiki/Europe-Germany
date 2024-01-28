@@ -1,5 +1,5 @@
 ---
-location: [52.43,9.33]
+location: [52.43,9.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.33]
-[geo-lat::52.43]
-[name::Hagenburg]
-[Country::[[Germany]]]
-[State :: [[Niedersachsen]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.33] 
+[geo-lat::52.43] 
+[name::Hagenburg] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]] ] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hagenburg
-coordinates: [[Hagenburg]]
-markerFile: [[Hagenburg]]
+coordinates: [[Hagenburg]] 
+markerFile: [[Hagenburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hagenburg|Hagenburg]]] 
+- [[Hagenburg|Hagenburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hagenburg.internal|Hagenburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hagenburg.protect|Hagenburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hagenburg.private|Hagenburg.private]] 

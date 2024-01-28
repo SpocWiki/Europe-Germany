@@ -1,5 +1,5 @@
 ﻿---
-location: [51.07,6.1]
+location: [51.07,6.1] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.1]
-[geo-lat::51.07]
-[name::Heinsberg~Rheinland]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.1] 
+[geo-lat::51.07] 
+[name::Heinsberg~Rheinland] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Heinsberg~Rheinland
-coordinates: [[Heinsberg~Rheinland]]
-markerFile: [[Heinsberg~Rheinland]]
+coordinates: [[Heinsberg~Rheinland]] 
+markerFile: [[Heinsberg~Rheinland]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Heinsberg~Rheinland|Heinsberg~Rheinland]]] 
+- [[Heinsberg~Rheinland|Heinsberg~Rheinland]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heinsberg~Rheinland.internal|Heinsberg~Rheinland.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heinsberg~Rheinland.protect|Heinsberg~Rheinland.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heinsberg~Rheinland.private|Heinsberg~Rheinland.private]] 

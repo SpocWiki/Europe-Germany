@@ -1,5 +1,5 @@
 ﻿---
-location: [53.55,9.95]
+location: [53.55,9.95] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.95]
-[geo-lat::53.55]
-[name::Altona]
-[Country::[[Germany]]]
-[State:[[State~Hamburg]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.95] 
+[geo-lat::53.55] 
+[name::Altona] 
+Country :: [[Germany]]  
+State :: [[State~Hamburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Altona
-coordinates: [[Altona]]
-markerFile: [[Altona]]
+coordinates: [[Altona]] 
+markerFile: [[Altona]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Altona|Altona]]] 
+- [[Altona|Altona]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Hamburg/City/Altona.internal|Altona.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Hamburg/City/Altona.protect|Altona.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Hamburg/City/Altona.private|Altona.private]] 

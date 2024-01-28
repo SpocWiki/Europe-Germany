@@ -1,5 +1,5 @@
 ---
-location: [51.4279,7.6153]
+location: [51.4279,7.6153] 
 type: State
 ISO3166-2: DE-NW
 SpocWebEntityId: 36020
@@ -9,11 +9,11 @@ tags:
 - geo/State
 
 ---
-[name::NordRhein-Westfalen]
+[name::NordRhein-Westfalen] 
 
-[name-abbr::NW]
-![[Coat_of_arms_of_North_Rhine-Westfalia.svg|350]]
-![[Flag_of_North_Rhine-Westphalia.svg|350]]
+[name-abbr::NW] 
+![[Coat_of_arms_of_North_Rhine-Westfalia.svg|350]] 
+![[Flag_of_North_Rhine-Westphalia.svg|350]] 
 
 ```leaflet
 id: NordRhein-Westfalen
@@ -24,16 +24,16 @@ geojsonFolder: ./NordRhein-Westfalen//
 markerFolder: ./NordRhein-Westfalen/City/
 ```
 
-[Country::[[Germany]]]
-[Capital ::[[Duesseldorf]]] ]
-[geo-lon::7.6153]
-[geo-lat::51.4279]
-[Population::]
+Country :: [[Germany]]  
+Capital :: [[Duesseldorf]]  
+[geo-lon::7.6153] 
+[geo-lat::51.4279] 
+[Population::] 
 
 
 
 ## Confidential Links & Embeds: 
--[[NordRhein-Westfalen|NordRhein-Westfalen]]] 
+- [[NordRhein-Westfalen|NordRhein-Westfalen]]  
 - [[../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfalen.internal|NordRhein-Westfalen.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfalen.protect|NordRhein-Westfalen.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfalen.private|NordRhein-Westfalen.private]] 

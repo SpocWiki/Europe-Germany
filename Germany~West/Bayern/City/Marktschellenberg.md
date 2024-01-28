@@ -1,5 +1,5 @@
 ﻿---
-location: [47.68,13.05]
+location: [47.68,13.05] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.05]
-[geo-lat::47.68]
-[name::Marktschellenberg]
-[Country::[[Germany]]]
-[State:[[Bayern]]]]
-[Population::]
-[Unknown::]
+[geo-lon::13.05] 
+[geo-lat::47.68] 
+[name::Marktschellenberg] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Marktschellenberg
-coordinates: [[Marktschellenberg]]
-markerFile: [[Marktschellenberg]]
+coordinates: [[Marktschellenberg]] 
+markerFile: [[Marktschellenberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Marktschellenberg|Marktschellenberg]]] 
+- [[Marktschellenberg|Marktschellenberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Marktschellenberg.internal|Marktschellenberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Marktschellenberg.protect|Marktschellenberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Marktschellenberg.private|Marktschellenberg.private]] 

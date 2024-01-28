@@ -1,5 +1,5 @@
 ﻿---
-location: [47.82,10.53]
+location: [47.82,10.53] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.53]
-[geo-lat::47.82]
-[name::Aitrang]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.53] 
+[geo-lat::47.82] 
+[name::Aitrang] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Aitrang
-coordinates: [[Aitrang]]
-markerFile: [[Aitrang]]
+coordinates: [[Aitrang]] 
+markerFile: [[Aitrang]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Aitrang|Aitrang]]] 
+- [[Aitrang|Aitrang]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Aitrang.internal|Aitrang.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Aitrang.protect|Aitrang.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Aitrang.private|Aitrang.private]] 

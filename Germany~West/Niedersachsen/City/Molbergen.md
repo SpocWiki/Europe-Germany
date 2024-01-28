@@ -1,5 +1,5 @@
 ﻿---
-location: [52.87,7.92]
+location: [52.87,7.92] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.92]
-[geo-lat::52.87]
-[name::Molbergen]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.92] 
+[geo-lat::52.87] 
+[name::Molbergen] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Molbergen
-coordinates: [[Molbergen]]
-markerFile: [[Molbergen]]
+coordinates: [[Molbergen]] 
+markerFile: [[Molbergen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Molbergen|Molbergen]]] 
+- [[Molbergen|Molbergen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Molbergen.internal|Molbergen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Molbergen.protect|Molbergen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Molbergen.private|Molbergen.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [48.67,11.3]
+location: [48.67,11.3] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.3]
-[geo-lat::48.67]
-[name::Karlshuld]
-[Country::[[Germany]]]
-[State:[[Bayern]]]]
-[Population::]
-[Unknown::]
+[geo-lon::11.3] 
+[geo-lat::48.67] 
+[name::Karlshuld] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Karlshuld
-coordinates: [[Karlshuld]]
-markerFile: [[Karlshuld]]
+coordinates: [[Karlshuld]] 
+markerFile: [[Karlshuld]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Karlshuld|Karlshuld]]] 
+- [[Karlshuld|Karlshuld]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Karlshuld.internal|Karlshuld.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Karlshuld.protect|Karlshuld.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Karlshuld.private|Karlshuld.private]] 

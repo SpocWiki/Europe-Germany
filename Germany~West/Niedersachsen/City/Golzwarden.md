@@ -1,5 +1,5 @@
 ﻿---
-location: [53.35,8.47]
+location: [53.35,8.47] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.47]
-[geo-lat::53.35]
-[name::Golzwarden]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.47] 
+[geo-lat::53.35] 
+[name::Golzwarden] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Golzwarden
-coordinates: [[Golzwarden]]
-markerFile: [[Golzwarden]]
+coordinates: [[Golzwarden]] 
+markerFile: [[Golzwarden]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Golzwarden|Golzwarden]]] 
+- [[Golzwarden|Golzwarden]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Golzwarden.internal|Golzwarden.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Golzwarden.protect|Golzwarden.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Golzwarden.private|Golzwarden.private]] 

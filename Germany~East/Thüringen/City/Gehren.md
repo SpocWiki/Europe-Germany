@@ -1,5 +1,5 @@
 ﻿---
-location: [50.62,11]
+location: [50.62,11] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11]
-[geo-lat::50.62]
-[name::Gehren]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11] 
+[geo-lat::50.62] 
+[name::Gehren] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gehren
-coordinates: [[Gehren]]
-markerFile: [[Gehren]]
+coordinates: [[Gehren]] 
+markerFile: [[Gehren]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

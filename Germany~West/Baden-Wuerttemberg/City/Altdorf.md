@@ -1,5 +1,5 @@
 ﻿---
-location: [47.75,9.57]
+location: [47.75,9.57] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.57]
-[geo-lat::47.75]
-[name::Altdorf]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.57] 
+[geo-lat::47.75] 
+[name::Altdorf] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Altdorf
-coordinates: [[Altdorf]]
-markerFile: [[Altdorf]]
+coordinates: [[Altdorf]] 
+markerFile: [[Altdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Altdorf|Altdorf]]] 
+- [[Altdorf|Altdorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Altdorf.internal|Altdorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Altdorf.protect|Altdorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Altdorf.private|Altdorf.private]] 

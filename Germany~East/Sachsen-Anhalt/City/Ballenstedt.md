@@ -1,5 +1,5 @@
 ﻿---
-location: [51.57,11.22]
+location: [51.57,11.22] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.22]
-[geo-lat::51.57]
-[name::Ballenstedt]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.22] 
+[geo-lat::51.57] 
+[name::Ballenstedt] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ballenstedt
-coordinates: [[Ballenstedt]]
-markerFile: [[Ballenstedt]]
+coordinates: [[Ballenstedt]] 
+markerFile: [[Ballenstedt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

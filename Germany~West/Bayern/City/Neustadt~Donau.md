@@ -1,5 +1,5 @@
 ﻿---
-location: [48.82,11.77]
+location: [48.82,11.77] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.77]
-[geo-lat::48.82]
-[name::Neustadt~Donau]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.77] 
+[geo-lat::48.82] 
+[name::Neustadt~Donau] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Neustadt~Donau
-coordinates: [[Neustadt~Donau]]
-markerFile: [[Neustadt~Donau]]
+coordinates: [[Neustadt~Donau]] 
+markerFile: [[Neustadt~Donau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Neustadt~Donau|Neustadt~Donau]]] 
+- [[Neustadt~Donau|Neustadt~Donau]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Donau.internal|Neustadt~Donau.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Donau.protect|Neustadt~Donau.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Donau.private|Neustadt~Donau.private]] 

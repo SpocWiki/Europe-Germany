@@ -1,5 +1,5 @@
 ﻿---
-location: [48.63,8.88]
+location: [48.63,8.88] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.88]
-[geo-lat::48.63]
-[name::Nufringen]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.88] 
+[geo-lat::48.63] 
+[name::Nufringen] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Nufringen
-coordinates: [[Nufringen]]
-markerFile: [[Nufringen]]
+coordinates: [[Nufringen]] 
+markerFile: [[Nufringen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Nufringen|Nufringen]]] 
+- [[Nufringen|Nufringen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Nufringen.internal|Nufringen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Nufringen.protect|Nufringen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Nufringen.private|Nufringen.private]] 

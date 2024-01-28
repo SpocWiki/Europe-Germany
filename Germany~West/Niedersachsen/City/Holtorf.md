@@ -1,5 +1,5 @@
 ﻿---
-location: [52.67,9.22]
+location: [52.67,9.22] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.22]
-[geo-lat::52.67]
-[name::Holtorf]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.22] 
+[geo-lat::52.67] 
+[name::Holtorf] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Holtorf
-coordinates: [[Holtorf]]
-markerFile: [[Holtorf]]
+coordinates: [[Holtorf]] 
+markerFile: [[Holtorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Holtorf|Holtorf]]] 
+- [[Holtorf|Holtorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Holtorf.internal|Holtorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Holtorf.protect|Holtorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Holtorf.private|Holtorf.private]] 

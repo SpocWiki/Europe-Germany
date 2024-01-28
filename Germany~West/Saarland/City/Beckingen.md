@@ -1,5 +1,5 @@
 ﻿---
-location: [49.4,6.7]
+location: [49.4,6.7] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.7]
-[geo-lat::49.4]
-[name::Beckingen]
-[Country::[[Germany]]]
-[State[[Saarland]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.7] 
+[geo-lat::49.4] 
+[name::Beckingen] 
+Country :: [[Germany]]  
+State :: [[Saarland]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Beckingen
-coordinates: [[Beckingen]]
-markerFile: [[Beckingen]]
+coordinates: [[Beckingen]] 
+markerFile: [[Beckingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Beckingen|Beckingen]]] 
+- [[Beckingen|Beckingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Beckingen.internal|Beckingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Beckingen.protect|Beckingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Beckingen.private|Beckingen.private]] 

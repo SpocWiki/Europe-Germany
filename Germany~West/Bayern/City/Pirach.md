@@ -1,5 +1,5 @@
 ﻿---
-location: [48.15,12.77]
+location: [48.15,12.77] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.77]
-[geo-lat::48.15]
-[name::Pirach]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.77] 
+[geo-lat::48.15] 
+[name::Pirach] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Pirach
-coordinates: [[Pirach]]
-markerFile: [[Pirach]]
+coordinates: [[Pirach]] 
+markerFile: [[Pirach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Pirach|Pirach]]] 
+- [[Pirach|Pirach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Pirach.internal|Pirach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Pirach.protect|Pirach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Pirach.private|Pirach.private]] 

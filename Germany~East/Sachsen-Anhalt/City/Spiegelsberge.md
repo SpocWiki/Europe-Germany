@@ -1,5 +1,5 @@
 ﻿---
-location: [51.88,11.03]
+location: [51.88,11.03] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.03]
-[geo-lat::51.88]
-[name::Spiegelsberge]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.03] 
+[geo-lat::51.88] 
+[name::Spiegelsberge] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Spiegelsberge
-coordinates: [[Spiegelsberge]]
-markerFile: [[Spiegelsberge]]
+coordinates: [[Spiegelsberge]] 
+markerFile: [[Spiegelsberge]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

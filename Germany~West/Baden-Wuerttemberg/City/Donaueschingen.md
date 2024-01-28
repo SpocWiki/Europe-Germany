@@ -1,5 +1,5 @@
 ﻿---
-location: [47.95,8.49]
+location: [47.95,8.49] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.49]
-[geo-lat::47.95]
-[name::Donaueschingen]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.49] 
+[geo-lat::47.95] 
+[name::Donaueschingen] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Donaueschingen
-coordinates: [[Donaueschingen]]
-markerFile: [[Donaueschingen]]
+coordinates: [[Donaueschingen]] 
+markerFile: [[Donaueschingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Donaueschingen|Donaueschingen]]] 
+- [[Donaueschingen|Donaueschingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Donaueschingen.internal|Donaueschingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Donaueschingen.protect|Donaueschingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Donaueschingen.private|Donaueschingen.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [50.83,12.92]
+location: [50.83,12.92] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.92]
-[geo-lat::50.83]
-[name::Chemnitz]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.92] 
+[geo-lat::50.83] 
+[name::Chemnitz] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Chemnitz
-coordinates: [[Chemnitz]]
-markerFile: [[Chemnitz]]
+coordinates: [[Chemnitz]] 
+markerFile: [[Chemnitz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

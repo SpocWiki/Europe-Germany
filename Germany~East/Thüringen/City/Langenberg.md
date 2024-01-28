@@ -1,5 +1,5 @@
 ﻿---
-location: [50.92,12.05]
+location: [50.92,12.05] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.05]
-[geo-lat::50.92]
-[name::Langenberg]
-[Country::[[Germany]]]
-[State:[[Thüringen]]]]
-[Population::]
-[Unknown::]
+[geo-lon::12.05] 
+[geo-lat::50.92] 
+[name::Langenberg] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Langenberg
-coordinates: [[Langenberg]]
-markerFile: [[Langenberg]]
+coordinates: [[Langenberg]] 
+markerFile: [[Langenberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

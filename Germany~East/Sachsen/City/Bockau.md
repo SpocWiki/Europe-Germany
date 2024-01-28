@@ -1,5 +1,5 @@
 ﻿---
-location: [50.53,12.75]
+location: [50.53,12.75] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.75]
-[geo-lat::50.53]
-[name::Bockau]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.75] 
+[geo-lat::50.53] 
+[name::Bockau] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Bockau
-coordinates: [[Bockau]]
-markerFile: [[Bockau]]
+coordinates: [[Bockau]] 
+markerFile: [[Bockau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

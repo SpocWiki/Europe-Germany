@@ -1,5 +1,5 @@
 ﻿---
-location: [51.18,13.05]
+location: [51.18,13.05] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.05]
-[geo-lat::51.18]
-[name::Toellschuetz]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.05] 
+[geo-lat::51.18] 
+[name::Toellschuetz] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Toellschuetz
-coordinates: [[Toellschuetz]]
-markerFile: [[Toellschuetz]]
+coordinates: [[Toellschuetz]] 
+markerFile: [[Toellschuetz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

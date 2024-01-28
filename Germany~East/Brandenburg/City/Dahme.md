@@ -1,5 +1,5 @@
 ﻿---
-location: [51.87,13.43]
+location: [51.87,13.43] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.43]
-[geo-lat::51.87]
-[name::Dahme]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.43] 
+[geo-lat::51.87] 
+[name::Dahme] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Dahme
-coordinates: [[Dahme]]
-markerFile: [[Dahme]]
+coordinates: [[Dahme]] 
+markerFile: [[Dahme]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

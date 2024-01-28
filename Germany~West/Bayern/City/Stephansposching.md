@@ -1,5 +1,5 @@
 ﻿---
-location: [48.82,12.8]
+location: [48.82,12.8] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.8]
-[geo-lat::48.82]
-[name::Stephansposching]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.8] 
+[geo-lat::48.82] 
+[name::Stephansposching] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Stephansposching
-coordinates: [[Stephansposching]]
-markerFile: [[Stephansposching]]
+coordinates: [[Stephansposching]] 
+markerFile: [[Stephansposching]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Stephansposching|Stephansposching]]] 
+- [[Stephansposching|Stephansposching]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Stephansposching.internal|Stephansposching.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Stephansposching.protect|Stephansposching.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Stephansposching.private|Stephansposching.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [51.88,10.57]
+location: [51.88,10.57] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.57]
-[geo-lat::51.88]
-[name::Harzburg]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.57] 
+[geo-lat::51.88] 
+[name::Harzburg] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Harzburg
-coordinates: [[Harzburg]]
-markerFile: [[Harzburg]]
+coordinates: [[Harzburg]] 
+markerFile: [[Harzburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Harzburg|Harzburg]]] 
+- [[Harzburg|Harzburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Harzburg.internal|Harzburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Harzburg.protect|Harzburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Harzburg.private|Harzburg.private]] 

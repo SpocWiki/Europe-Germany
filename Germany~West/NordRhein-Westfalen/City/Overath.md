@@ -1,5 +1,5 @@
 ﻿---
-location: [50.93,7.28]
+location: [50.93,7.28] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.28]
-[geo-lat::50.93]
-[name::Overath]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.28] 
+[geo-lat::50.93] 
+[name::Overath] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Overath
-coordinates: [[Overath]]
-markerFile: [[Overath]]
+coordinates: [[Overath]] 
+markerFile: [[Overath]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Overath|Overath]]] 
+- [[Overath|Overath]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Overath.internal|Overath.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Overath.protect|Overath.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Overath.private|Overath.private]] 

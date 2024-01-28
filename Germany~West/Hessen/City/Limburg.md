@@ -1,5 +1,5 @@
 ﻿---
-location: [50.38,8.06]
+location: [50.38,8.06] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.06]
-[geo-lat::50.38]
-[name::Limburg]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.06] 
+[geo-lat::50.38] 
+[name::Limburg] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Limburg
-coordinates: [[Limburg]]
-markerFile: [[Limburg]]
+coordinates: [[Limburg]] 
+markerFile: [[Limburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-[[geo/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/City/Limburg|Limburg]]]] 
+[[geo/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/City/Limburg|Limburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Limburg.internal|Limburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Limburg.protect|Limburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Limburg.private|Limburg.private]] 

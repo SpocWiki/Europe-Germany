@@ -1,5 +1,5 @@
 ﻿---
-location: [52.67,10.85]
+location: [52.67,10.85] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.85]
-[geo-lat::52.67]
-[name::Zasenbeck]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.85] 
+[geo-lat::52.67] 
+[name::Zasenbeck] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Zasenbeck
-coordinates: [[Zasenbeck]]
-markerFile: [[Zasenbeck]]
+coordinates: [[Zasenbeck]] 
+markerFile: [[Zasenbeck]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Zasenbeck|Zasenbeck]]] 
+- [[Zasenbeck|Zasenbeck]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zasenbeck.internal|Zasenbeck.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zasenbeck.protect|Zasenbeck.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zasenbeck.private|Zasenbeck.private]] 

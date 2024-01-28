@@ -1,5 +1,5 @@
 ﻿---
-location: [47.48,11.07]
+location: [47.48,11.07] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.07]
-[geo-lat::47.48]
-[name::Garmisch-Partenkirchen]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.07] 
+[geo-lat::47.48] 
+[name::Garmisch-Partenkirchen] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Garmisch-Partenkirchen
-coordinates: [[Garmisch-Partenkirchen]]
-markerFile: [[Garmisch-Partenkirchen]]
+coordinates: [[Garmisch-Partenkirchen]] 
+markerFile: [[Garmisch-Partenkirchen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Garmisch-Partenkirchen|Garmisch-Partenkirchen]]] 
+- [[Garmisch-Partenkirchen|Garmisch-Partenkirchen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Garmisch-Partenkirchen.internal|Garmisch-Partenkirchen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Garmisch-Partenkirchen.protect|Garmisch-Partenkirchen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Garmisch-Partenkirchen.private|Garmisch-Partenkirchen.private]] 

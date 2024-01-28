@@ -1,5 +1,5 @@
 ﻿---
-location: [52.9,12.48]
+location: [52.9,12.48] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.48]
-[geo-lat::52.9]
-[name::Wusterhausen]
-[Country::[[Germany]]]
-[State:[[Brandenburg]]]]
-[Population::]
-[Unknown::]
+[geo-lon::12.48] 
+[geo-lat::52.9] 
+[name::Wusterhausen] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wusterhausen
-coordinates: [[Wusterhausen]]
-markerFile: [[Wusterhausen]]
+coordinates: [[Wusterhausen]] 
+markerFile: [[Wusterhausen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

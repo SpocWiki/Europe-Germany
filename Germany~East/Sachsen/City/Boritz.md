@@ -1,5 +1,5 @@
 ﻿---
-location: [51.28,13.5]
+location: [51.28,13.5] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.5]
-[geo-lat::51.28]
-[name::Boritz]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.5] 
+[geo-lat::51.28] 
+[name::Boritz] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Boritz
-coordinates: [[Boritz]]
-markerFile: [[Boritz]]
+coordinates: [[Boritz]] 
+markerFile: [[Boritz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

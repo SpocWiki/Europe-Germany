@@ -1,5 +1,5 @@
 ﻿---
-location: [52.41,12.56]
+location: [52.41,12.56] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.56]
-[geo-lat::52.41]
-[name::Brandenburg~Havel]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.56] 
+[geo-lat::52.41] 
+[name::Brandenburg~Havel] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Brandenburg~Havel
-coordinates: [[Brandenburg~Havel]]
-markerFile: [[Brandenburg~Havel]]
+coordinates: [[Brandenburg~Havel]] 
+markerFile: [[Brandenburg~Havel]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [51.32,9.5]
+location: [51.32,9.5] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.5]
-[geo-lat::51.32]
-[name::Kassel]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.5] 
+[geo-lat::51.32] 
+[name::Kassel] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kassel
-coordinates: [[Kassel]]
-markerFile: [[Kassel]]
+coordinates: [[Kassel]] 
+markerFile: [[Kassel]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kassel|Kassel]]] 
+- [[Kassel|Kassel]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Kassel.internal|Kassel.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Kassel.protect|Kassel.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Kassel.private|Kassel.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [47.85,9.02]
+location: [47.85,9.02] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.02]
-[geo-lat::47.85]
-[name::Stockach]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.02] 
+[geo-lat::47.85] 
+[name::Stockach] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Stockach
-coordinates: [[Stockach]]
-markerFile: [[Stockach]]
+coordinates: [[Stockach]] 
+markerFile: [[Stockach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Stockach|Stockach]]] 
+- [[Stockach|Stockach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stockach.internal|Stockach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stockach.protect|Stockach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stockach.private|Stockach.private]] 

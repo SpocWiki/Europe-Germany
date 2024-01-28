@@ -1,5 +1,5 @@
 ﻿---
-location: [51.7,6.88]
+location: [51.7,6.88] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.88]
-[geo-lat::51.7]
-[name::Schermbeck]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.88] 
+[geo-lat::51.7] 
+[name::Schermbeck] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schermbeck
-coordinates: [[Schermbeck]]
-markerFile: [[Schermbeck]]
+coordinates: [[Schermbeck]] 
+markerFile: [[Schermbeck]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Schermbeck|Schermbeck]]] 
+- [[Schermbeck|Schermbeck]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Schermbeck.internal|Schermbeck.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Schermbeck.protect|Schermbeck.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Schermbeck.private|Schermbeck.private]] 

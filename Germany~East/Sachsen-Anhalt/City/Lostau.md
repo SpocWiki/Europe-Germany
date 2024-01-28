@@ -1,5 +1,5 @@
 ﻿---
-location: [52.22,11.73]
+location: [52.22,11.73] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.73]
-[geo-lat::52.22]
-[name::Lostau]
-[Country::[[Germany]]]
-[State:[[Sachsen-Anhalt]]]]
-[Population::]
-[Unknown::]
+[geo-lon::11.73] 
+[geo-lat::52.22] 
+[name::Lostau] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lostau
-coordinates: [[Lostau]]
-markerFile: [[Lostau]]
+coordinates: [[Lostau]] 
+markerFile: [[Lostau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

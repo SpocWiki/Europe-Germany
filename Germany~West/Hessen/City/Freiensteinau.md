@@ -1,5 +1,5 @@
 ﻿---
-location: [50.43,9.4]
+location: [50.43,9.4] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.4]
-[geo-lat::50.43]
-[name::Freiensteinau]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.4] 
+[geo-lat::50.43] 
+[name::Freiensteinau] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Freiensteinau
-coordinates: [[Freiensteinau]]
-markerFile: [[Freiensteinau]]
+coordinates: [[Freiensteinau]] 
+markerFile: [[Freiensteinau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Freiensteinau|Freiensteinau]]] 
+- [[Freiensteinau|Freiensteinau]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Freiensteinau.internal|Freiensteinau.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Freiensteinau.protect|Freiensteinau.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Freiensteinau.private|Freiensteinau.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [51.28,9.63]
+location: [51.28,9.63] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.63]
-[geo-lat::51.28]
-[name::Kaufungen]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.63] 
+[geo-lat::51.28] 
+[name::Kaufungen] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kaufungen
-coordinates: [[Kaufungen]]
-markerFile: [[Kaufungen]]
+coordinates: [[Kaufungen]] 
+markerFile: [[Kaufungen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kaufungen|Kaufungen]]] 
+- [[Kaufungen|Kaufungen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Kaufungen.internal|Kaufungen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Kaufungen.protect|Kaufungen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Kaufungen.private|Kaufungen.private]] 

@@ -1,5 +1,5 @@
 ---
-location: [50.01889,8.696111]
+location: [50.01889,8.696111] 
 type: Station 
 mapzoom: [8,18] 
 mapmarker: train 
@@ -10,17 +10,17 @@ SpocWebEntityId: 156407
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.696111]
-[geo-lat::50.01889]
-[name::Dreieich-Buchschlag]
-[Country::[[Germany]]]
-[City:[[Frankfurt~Main]] ]
+[geo-lon::8.696111] 
+[geo-lat::50.01889] 
+[name::Dreieich-Buchschlag] 
+Country :: [[Germany]]  
+City :: [[Frankfurt~Main]] ] 
 
 
 ```leaflet
 id: S-Dreieich-Buchschlag.md
-coordinates: [[S-Dreieich-Buchschlag]]
-markerFile: [[S-Dreieich-Buchschlag]]
+coordinates: [[S-Dreieich-Buchschlag]] 
+markerFile: [[S-Dreieich-Buchschlag]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

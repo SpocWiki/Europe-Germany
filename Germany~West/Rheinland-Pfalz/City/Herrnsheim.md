@@ -1,5 +1,5 @@
 ﻿---
-location: [49.65,8.32]
+location: [49.65,8.32] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.32]
-[geo-lat::49.65]
-[name::Herrnsheim]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.32] 
+[geo-lat::49.65] 
+[name::Herrnsheim] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Herrnsheim
-coordinates: [[Herrnsheim]]
-markerFile: [[Herrnsheim]]
+coordinates: [[Herrnsheim]] 
+markerFile: [[Herrnsheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Herrnsheim|Herrnsheim]]] 
+- [[Herrnsheim|Herrnsheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Herrnsheim.internal|Herrnsheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Herrnsheim.protect|Herrnsheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Herrnsheim.private|Herrnsheim.private]] 

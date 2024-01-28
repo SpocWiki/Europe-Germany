@@ -1,5 +1,5 @@
 ﻿---
-location: [51.63,10.47]
+location: [51.63,10.47] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.47]
-[geo-lat::51.63]
-[name::Lauterberg]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.47] 
+[geo-lat::51.63] 
+[name::Lauterberg] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lauterberg
-coordinates: [[Lauterberg]]
-markerFile: [[Lauterberg]]
+coordinates: [[Lauterberg]] 
+markerFile: [[Lauterberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Lauterberg|Lauterberg]]] 
+- [[Lauterberg|Lauterberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lauterberg.internal|Lauterberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lauterberg.protect|Lauterberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lauterberg.private|Lauterberg.private]] 

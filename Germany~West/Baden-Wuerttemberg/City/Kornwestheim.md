@@ -1,5 +1,5 @@
 ﻿---
-location: [48.87,9.2]
+location: [48.87,9.2] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.2]
-[geo-lat::48.87]
-[name::Kornwestheim]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.2] 
+[geo-lat::48.87] 
+[name::Kornwestheim] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kornwestheim
-coordinates: [[Kornwestheim]]
-markerFile: [[Kornwestheim]]
+coordinates: [[Kornwestheim]] 
+markerFile: [[Kornwestheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kornwestheim|Kornwestheim]]] 
+- [[Kornwestheim|Kornwestheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kornwestheim.internal|Kornwestheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kornwestheim.protect|Kornwestheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kornwestheim.private|Kornwestheim.private]] 

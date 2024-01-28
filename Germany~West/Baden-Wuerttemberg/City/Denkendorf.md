@@ -1,5 +1,5 @@
 ﻿---
-location: [48.7,9.68]
+location: [48.7,9.68] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.68]
-[geo-lat::48.7]
-[name::Denkendorf]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.68] 
+[geo-lat::48.7] 
+[name::Denkendorf] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Denkendorf
-coordinates: [[Denkendorf]]
-markerFile: [[Denkendorf]]
+coordinates: [[Denkendorf]] 
+markerFile: [[Denkendorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Denkendorf|Denkendorf]]] 
+- [[Denkendorf|Denkendorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Denkendorf.internal|Denkendorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Denkendorf.protect|Denkendorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Denkendorf.private|Denkendorf.private]] 

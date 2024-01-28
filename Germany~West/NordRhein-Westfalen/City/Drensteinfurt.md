@@ -1,5 +1,5 @@
 ﻿---
-location: [51.8,7.77]
+location: [51.8,7.77] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.77]
-[geo-lat::51.8]
-[name::Drensteinfurt]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.77] 
+[geo-lat::51.8] 
+[name::Drensteinfurt] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Drensteinfurt
-coordinates: [[Drensteinfurt]]
-markerFile: [[Drensteinfurt]]
+coordinates: [[Drensteinfurt]] 
+markerFile: [[Drensteinfurt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Drensteinfurt|Drensteinfurt]]] 
+- [[Drensteinfurt|Drensteinfurt]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Drensteinfurt.internal|Drensteinfurt.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Drensteinfurt.protect|Drensteinfurt.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Drensteinfurt.private|Drensteinfurt.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [54.55,13.6]
+location: [54.55,13.6] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.6]
-[geo-lat::54.55]
-[name::Promoisel]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.6] 
+[geo-lat::54.55] 
+[name::Promoisel] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Promoisel
-coordinates: [[Promoisel]]
-markerFile: [[Promoisel]]
+coordinates: [[Promoisel]] 
+markerFile: [[Promoisel]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

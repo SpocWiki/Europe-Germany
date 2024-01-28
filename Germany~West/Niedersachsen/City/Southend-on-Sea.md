@@ -1,5 +1,5 @@
 ﻿---
-location: [51.53,9.72]
+location: [51.53,9.72] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.72]
-[geo-lat::51.53]
-[name::Southend-on-Sea]
-[State::]
-[Country::[[United_Kingdom]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::9.72] 
+[geo-lat::51.53] 
+[name::Southend-on-Sea] 
+State ::  
+Country :: [[United_Kingdom]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Southend-on-Sea
-coordinates: [[Southend-on-Sea]]
-markerFile: [[Southend-on-Sea]]
+coordinates: [[Southend-on-Sea]] 
+markerFile: [[Southend-on-Sea]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

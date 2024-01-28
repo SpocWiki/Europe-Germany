@@ -1,5 +1,5 @@
 ﻿---
-location: [49.55,9.73]
+location: [49.55,9.73] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.73]
-[geo-lat::49.55]
-[name::Gerlachsheim]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.73] 
+[geo-lat::49.55] 
+[name::Gerlachsheim] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gerlachsheim
-coordinates: [[Gerlachsheim]]
-markerFile: [[Gerlachsheim]]
+coordinates: [[Gerlachsheim]] 
+markerFile: [[Gerlachsheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Gerlachsheim|Gerlachsheim]]] 
+- [[Gerlachsheim|Gerlachsheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Gerlachsheim.internal|Gerlachsheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Gerlachsheim.protect|Gerlachsheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Gerlachsheim.private|Gerlachsheim.private]] 

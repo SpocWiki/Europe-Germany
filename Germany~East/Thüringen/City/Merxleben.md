@@ -1,5 +1,5 @@
 ﻿---
-location: [51.13,10.67]
+location: [51.13,10.67] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.67]
-[geo-lat::51.13]
-[name::Merxleben]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.67] 
+[geo-lat::51.13] 
+[name::Merxleben] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Merxleben
-coordinates: [[Merxleben]]
-markerFile: [[Merxleben]]
+coordinates: [[Merxleben]] 
+markerFile: [[Merxleben]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

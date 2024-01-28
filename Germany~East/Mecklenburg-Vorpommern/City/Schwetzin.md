@@ -1,5 +1,5 @@
 ﻿---
-location: [53.85,12.58]
+location: [53.85,12.58] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.58]
-[geo-lat::53.85]
-[name::Schwetzin]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.58] 
+[geo-lat::53.85] 
+[name::Schwetzin] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schwetzin
-coordinates: [[Schwetzin]]
-markerFile: [[Schwetzin]]
+coordinates: [[Schwetzin]] 
+markerFile: [[Schwetzin]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

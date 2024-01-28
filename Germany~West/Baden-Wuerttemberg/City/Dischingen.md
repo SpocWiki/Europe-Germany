@@ -1,5 +1,5 @@
 ﻿---
-location: [48.72,10.3]
+location: [48.72,10.3] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.3]
-[geo-lat::48.72]
-[name::Dischingen]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::10.3] 
+[geo-lat::48.72] 
+[name::Dischingen] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Dischingen
-coordinates: [[Dischingen]]
-markerFile: [[Dischingen]]
+coordinates: [[Dischingen]] 
+markerFile: [[Dischingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Dischingen|Dischingen]]] 
+- [[Dischingen|Dischingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Dischingen.internal|Dischingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Dischingen.protect|Dischingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Dischingen.private|Dischingen.private]] 

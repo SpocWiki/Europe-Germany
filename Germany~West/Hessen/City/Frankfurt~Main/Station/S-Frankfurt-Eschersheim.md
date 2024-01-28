@@ -1,5 +1,5 @@
 ---
-location: [50.15821,8.655016]
+location: [50.15821,8.655016] 
 type: Station 
 mapzoom: [8,18] 
 mapmarker: train 
@@ -10,17 +10,17 @@ SpocWebEntityId: 156445
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.655016]
-[geo-lat::50.15821]
-[name::Frankfurt-Eschersheim]
-[Country::[[Germany]]]
-[City:[[Frankfurt~Main]] ]
+[geo-lon::8.655016] 
+[geo-lat::50.15821] 
+[name::Frankfurt-Eschersheim] 
+Country :: [[Germany]]  
+City :: [[Frankfurt~Main]] ] 
 
 
 ```leaflet
 id: S-Frankfurt-Eschersheim.md
-coordinates: [[S-Frankfurt-Eschersheim]]
-markerFile: [[S-Frankfurt-Eschersheim]]
+coordinates: [[S-Frankfurt-Eschersheim]] 
+markerFile: [[S-Frankfurt-Eschersheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

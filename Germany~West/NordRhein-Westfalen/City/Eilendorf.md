@@ -1,5 +1,5 @@
 ﻿---
-location: [50.78,6.17]
+location: [50.78,6.17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.17]
-[geo-lat::50.78]
-[name::Eilendorf]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.17] 
+[geo-lat::50.78] 
+[name::Eilendorf] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Eilendorf
-coordinates: [[Eilendorf]]
-markerFile: [[Eilendorf]]
+coordinates: [[Eilendorf]] 
+markerFile: [[Eilendorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Eilendorf|Eilendorf]]] 
+- [[Eilendorf|Eilendorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Eilendorf.internal|Eilendorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Eilendorf.protect|Eilendorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Eilendorf.private|Eilendorf.private]] 

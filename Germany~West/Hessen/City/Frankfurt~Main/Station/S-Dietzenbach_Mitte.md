@@ -1,5 +1,5 @@
 ---
-location: [50.01766,8.78923]
+location: [50.01766,8.78923] 
 type: Station 
 mapzoom: [8,18] 
 mapmarker: train 
@@ -10,17 +10,17 @@ SpocWebEntityId: 156401
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.775556]
-[geo-lat::50.00861]
-[name::Dietzenbach Mitte]
-[Country::[[Germany]]]
-[City:[[Frankfurt~Main]] ]
+[geo-lon::8.775556] 
+[geo-lat::50.00861] 
+[name::Dietzenbach Mitte] 
+Country :: [[Germany]]  
+City :: [[Frankfurt~Main]] ] 
 
 
 ```leaflet
 id: S-Dietzenbach_Mitte.md
-coordinates: [[S-Dietzenbach_Mitte]]
-markerFile: [[S-Dietzenbach_Mitte]]
+coordinates: [[S-Dietzenbach_Mitte]] 
+markerFile: [[S-Dietzenbach_Mitte]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

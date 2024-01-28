@@ -1,5 +1,5 @@
 ﻿---
-location: [48.85,10.48]
+location: [48.85,10.48] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.48]
-[geo-lat::48.85]
-[name::Noerdlingen]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.48] 
+[geo-lat::48.85] 
+[name::Noerdlingen] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Noerdlingen
-coordinates: [[Noerdlingen]]
-markerFile: [[Noerdlingen]]
+coordinates: [[Noerdlingen]] 
+markerFile: [[Noerdlingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Noerdlingen|Noerdlingen]]] 
+- [[Noerdlingen|Noerdlingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Noerdlingen.internal|Noerdlingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Noerdlingen.protect|Noerdlingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Noerdlingen.private|Noerdlingen.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [48.33,11.57]
+location: [48.33,11.57] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.57]
-[geo-lat::48.33]
-[name::Haimhausen]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.57] 
+[geo-lat::48.33] 
+[name::Haimhausen] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Haimhausen
-coordinates: [[Haimhausen]]
-markerFile: [[Haimhausen]]
+coordinates: [[Haimhausen]] 
+markerFile: [[Haimhausen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Haimhausen|Haimhausen]]] 
+- [[Haimhausen|Haimhausen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Haimhausen.internal|Haimhausen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Haimhausen.protect|Haimhausen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Haimhausen.private|Haimhausen.private]] 

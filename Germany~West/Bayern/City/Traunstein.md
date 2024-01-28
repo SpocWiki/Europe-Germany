@@ -1,5 +1,5 @@
 ﻿---
-location: [47.87,10.63]
+location: [47.87,10.63] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.63]
-[geo-lat::47.87]
-[name::Traunstein]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.63] 
+[geo-lat::47.87] 
+[name::Traunstein] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Traunstein
-coordinates: [[Traunstein]]
-markerFile: [[Traunstein]]
+coordinates: [[Traunstein]] 
+markerFile: [[Traunstein]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Traunstein|Traunstein]]] 
+- [[Traunstein|Traunstein]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Traunstein.internal|Traunstein.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Traunstein.protect|Traunstein.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Traunstein.private|Traunstein.private]] 

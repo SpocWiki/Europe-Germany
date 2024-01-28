@@ -1,5 +1,5 @@
 ﻿---
-location: [52.55,12.95]
+location: [52.55,12.95] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.95]
-[geo-lat::52.55]
-[name::Wustermark]
-[Country::[[Germany]]]
-[State:[[Brandenburg]]]]
-[Population::]
-[Unknown::]
+[geo-lon::12.95] 
+[geo-lat::52.55] 
+[name::Wustermark] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wustermark
-coordinates: [[Wustermark]]
-markerFile: [[Wustermark]]
+coordinates: [[Wustermark]] 
+markerFile: [[Wustermark]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [51.7,10.85]
+location: [51.7,10.85] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.85]
-[geo-lat::51.7]
-[name::Hasselfelde]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.85] 
+[geo-lat::51.7] 
+[name::Hasselfelde] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hasselfelde
-coordinates: [[Hasselfelde]]
-markerFile: [[Hasselfelde]]
+coordinates: [[Hasselfelde]] 
+markerFile: [[Hasselfelde]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

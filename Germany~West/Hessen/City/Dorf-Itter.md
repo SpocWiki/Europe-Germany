@@ -1,5 +1,5 @@
 ﻿---
-location: [51.25,8.88]
+location: [51.25,8.88] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.88]
-[geo-lat::51.25]
-[name::Dorf-Itter]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.88] 
+[geo-lat::51.25] 
+[name::Dorf-Itter] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Dorf-Itter
-coordinates: [[Dorf-Itter]]
-markerFile: [[Dorf-Itter]]
+coordinates: [[Dorf-Itter]] 
+markerFile: [[Dorf-Itter]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Dorf-Itter|Dorf-Itter]]] 
+- [[Dorf-Itter|Dorf-Itter]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Dorf-Itter.internal|Dorf-Itter.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Dorf-Itter.protect|Dorf-Itter.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Dorf-Itter.private|Dorf-Itter.private]] 

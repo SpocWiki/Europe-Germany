@@ -9,8 +9,8 @@ isDeleted: false
 confidential: public
 
 ---
-[ISO2::]
-[ISO3::DDR]
+[ISO2::] 
+[ISO3::DDR] 
 
 ```leaflet
 id: East Germany
@@ -21,17 +21,17 @@ geojsonFolder: ./Germany~East/
 markerFolder: ./Germany~East/
 ```
 
-[name-en::East Germany]
-[name-de::DDR]
-[Area-Total::]
-[Area-Land::]
-[Continent::[[Europe]]]
-[VehicleCode::DDR]
-[Capital-Id::]
-[Alcohol-l::]
-[Language-Id::497]
-[geo-lon::]
-[geo-lat::]
+[name-en::East Germany] 
+[name-de::DDR] 
+[Area-Total::] 
+[Area-Land::] 
+Continent :: [[Europe]]  
+[VehicleCode::DDR] 
+[Capital-Id::] 
+[Alcohol-l::] 
+[Language-Id::497] 
+[geo-lon::] 
+[geo-lat::] 
 
 
 

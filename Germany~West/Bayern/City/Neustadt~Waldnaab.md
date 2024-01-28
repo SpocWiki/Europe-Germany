@@ -1,5 +1,5 @@
 ---
-location: [49.73,12.17]
+location: [49.73,12.17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.17]
-[geo-lat::49.73]
-[name::Neustadt an der Waldnaab]
-[Country::[[Germany]]]
-[State :: [[Bayern]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.17] 
+[geo-lat::49.73] 
+[name::Neustadt an der Waldnaab] 
+Country :: [[Germany]]  
+State :: [[Bayern]] ] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Neustadt an der Waldnaab
-coordinates: [[Neustadt~Waldnaab]]
-markerFile: [[Neustadt~Waldnaab]]
+coordinates: [[Neustadt~Waldnaab]] 
+markerFile: [[Neustadt~Waldnaab]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [48.77,12.2]
+location: [48.77,12.2] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.2]
-[geo-lat::48.77]
-[name::Steinrain]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.2] 
+[geo-lat::48.77] 
+[name::Steinrain] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Steinrain
-coordinates: [[Steinrain]]
-markerFile: [[Steinrain]]
+coordinates: [[Steinrain]] 
+markerFile: [[Steinrain]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Steinrain|Steinrain]]] 
+- [[Steinrain|Steinrain]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Steinrain.internal|Steinrain.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Steinrain.protect|Steinrain.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Steinrain.private|Steinrain.private]] 

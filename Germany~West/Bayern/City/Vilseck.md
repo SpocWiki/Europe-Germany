@@ -1,5 +1,5 @@
 ﻿---
-location: [49.62,11.82]
+location: [49.62,11.82] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.82]
-[geo-lat::49.62]
-[name::Vilseck]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.82] 
+[geo-lat::49.62] 
+[name::Vilseck] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Vilseck
-coordinates: [[Vilseck]]
-markerFile: [[Vilseck]]
+coordinates: [[Vilseck]] 
+markerFile: [[Vilseck]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Vilseck|Vilseck]]] 
+- [[Vilseck|Vilseck]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Vilseck.internal|Vilseck.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Vilseck.protect|Vilseck.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Vilseck.private|Vilseck.private]] 

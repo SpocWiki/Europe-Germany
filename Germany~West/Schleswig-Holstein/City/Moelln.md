@@ -1,5 +1,5 @@
 ﻿---
-location: [53.62,10.68]
+location: [53.62,10.68] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.68]
-[geo-lat::53.62]
-[name::Moelln]
-[Country::[[Germany]]]
-[State ::[[Schleswig-Holstein]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.68] 
+[geo-lat::53.62] 
+[name::Moelln] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Moelln
-coordinates: [[Moelln]]
-markerFile: [[Moelln]]
+coordinates: [[Moelln]] 
+markerFile: [[Moelln]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Moelln|Moelln]]] 
+- [[Moelln|Moelln]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Moelln.internal|Moelln.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Moelln.protect|Moelln.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Moelln.private|Moelln.private]] 

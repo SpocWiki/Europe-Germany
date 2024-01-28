@@ -1,5 +1,5 @@
 ﻿---
-location: [48.17,10.98]
+location: [48.17,10.98] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.98]
-[geo-lat::48.17]
-[name::Wabern]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.98] 
+[geo-lat::48.17] 
+[name::Wabern] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wabern
-coordinates: [[Wabern]]
-markerFile: [[Wabern]]
+coordinates: [[Wabern]] 
+markerFile: [[Wabern]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Wabern|Wabern]]] 
+- [[Wabern|Wabern]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wabern.internal|Wabern.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wabern.protect|Wabern.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wabern.private|Wabern.private]] 

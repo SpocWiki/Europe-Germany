@@ -1,5 +1,5 @@
 ﻿---
-location: [54.47,9.1]
+location: [54.47,9.1] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.1]
-[geo-lat::54.47]
-[name::Mildstedt]
-[Country::[[Germany]]]
-[State ::[[Schleswig-Holstein]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.1] 
+[geo-lat::54.47] 
+[name::Mildstedt] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mildstedt
-coordinates: [[Mildstedt]]
-markerFile: [[Mildstedt]]
+coordinates: [[Mildstedt]] 
+markerFile: [[Mildstedt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Mildstedt|Mildstedt]]] 
+- [[Mildstedt|Mildstedt]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Mildstedt.internal|Mildstedt.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Mildstedt.protect|Mildstedt.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Mildstedt.private|Mildstedt.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [51.28,12.32]
+location: [51.28,12.32] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.32]
-[geo-lat::51.28]
-[name::Gautzsch]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.32] 
+[geo-lat::51.28] 
+[name::Gautzsch] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gautzsch
-coordinates: [[Gautzsch]]
-markerFile: [[Gautzsch]]
+coordinates: [[Gautzsch]] 
+markerFile: [[Gautzsch]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

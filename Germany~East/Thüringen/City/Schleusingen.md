@@ -1,5 +1,5 @@
 ﻿---
-location: [50.52,10.75]
+location: [50.52,10.75] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.75]
-[geo-lat::50.52]
-[name::Schleusingen]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.75] 
+[geo-lat::50.52] 
+[name::Schleusingen] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schleusingen
-coordinates: [[Schleusingen]]
-markerFile: [[Schleusingen]]
+coordinates: [[Schleusingen]] 
+markerFile: [[Schleusingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

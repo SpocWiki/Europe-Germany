@@ -1,5 +1,5 @@
 ﻿---
-location: [51.85,14.42]
+location: [51.85,14.42] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.42]
-[geo-lat::51.85]
-[name::Peitz]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::14.42] 
+[geo-lat::51.85] 
+[name::Peitz] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Peitz
-coordinates: [[Peitz]]
-markerFile: [[Peitz]]
+coordinates: [[Peitz]] 
+markerFile: [[Peitz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ---
-location: [50.11972,8.653611]
+location: [50.11972,8.653611] 
 type: Station 
 mapzoom: [8,18] 
 mapmarker: subway 
@@ -7,24 +7,24 @@ tags:
 - geo/station/subway
 ---
 SpocWebEntityId: 156235
-[StationUId::3]
+[StationUId::3] 
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.653611]
-[geo-lat::50.11972]
-[name::Bockenheimer Warte]
-[Country::[[Germany]]]
-[City:[[Frankfurt~Main]] ]
-[switch-to-SPNV::D, Straßenbahn]
-[switch-to-ÖPNV::32, 36, 50, 75]
+[geo-lon::8.653611] 
+[geo-lat::50.11972] 
+[name::Bockenheimer Warte] 
+Country :: [[Germany]]  
+City :: [[Frankfurt~Main]] ] 
+[switch-to-SPNV::D, Straßenbahn] 
+[switch-to-ÖPNV::32, 36, 50, 75] 
 
 Verbindungskurve zur D-Strecke
 
 ```leaflet
 id: U-Bockenheimer_Warte.md
-coordinates: [[U-Bockenheimer_Warte]]
-markerFile: [[U-Bockenheimer_Warte]]
+coordinates: [[U-Bockenheimer_Warte]] 
+markerFile: [[U-Bockenheimer_Warte]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

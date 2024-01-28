@@ -1,5 +1,5 @@
 ﻿---
-location: [52.6,11.33]
+location: [52.6,11.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.33]
-[geo-lat::52.6]
-[name::Wiepke]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.33] 
+[geo-lat::52.6] 
+[name::Wiepke] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wiepke
-coordinates: [[Wiepke]]
-markerFile: [[Wiepke]]
+coordinates: [[Wiepke]] 
+markerFile: [[Wiepke]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

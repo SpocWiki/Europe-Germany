@@ -1,5 +1,5 @@
 ﻿---
-location: [52.07,14.05]
+location: [52.07,14.05] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.05]
-[geo-lat::52.07]
-[name::Wittmannsdorf]
-[Country::[[Germany]]]
-[State:[[Brandenburg]]]]
-[Population::]
-[Unknown::]
+[geo-lon::14.05] 
+[geo-lat::52.07] 
+[name::Wittmannsdorf] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wittmannsdorf
-coordinates: [[Wittmannsdorf]]
-markerFile: [[Wittmannsdorf]]
+coordinates: [[Wittmannsdorf]] 
+markerFile: [[Wittmannsdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

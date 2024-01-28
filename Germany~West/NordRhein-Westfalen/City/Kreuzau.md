@@ -1,5 +1,5 @@
 ﻿---
-location: [50.75,6.48]
+location: [50.75,6.48] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.48]
-[geo-lat::50.75]
-[name::Kreuzau]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.48] 
+[geo-lat::50.75] 
+[name::Kreuzau] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kreuzau
-coordinates: [[Kreuzau]]
-markerFile: [[Kreuzau]]
+coordinates: [[Kreuzau]] 
+markerFile: [[Kreuzau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kreuzau|Kreuzau]]] 
+- [[Kreuzau|Kreuzau]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Kreuzau.internal|Kreuzau.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Kreuzau.protect|Kreuzau.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Kreuzau.private|Kreuzau.private]] 

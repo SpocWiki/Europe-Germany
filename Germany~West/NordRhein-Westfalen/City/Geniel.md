@@ -1,5 +1,5 @@
 ﻿---
-location: [51.52,6.28]
+location: [51.52,6.28] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.28]
-[geo-lat::51.52]
-[name::Geniel]
-[State::]
-[Country::[[Portugal]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::6.28] 
+[geo-lat::51.52] 
+[name::Geniel] 
+State ::  
+Country :: [[Portugal]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Geniel
-coordinates: [[Geniel]]
-markerFile: [[Geniel]]
+coordinates: [[Geniel]] 
+markerFile: [[Geniel]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

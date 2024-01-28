@@ -1,5 +1,5 @@
 ﻿---
-location: [50.27,7.15]
+location: [50.27,7.15] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.15]
-[geo-lat::50.27]
-[name::Duengenheim]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.15] 
+[geo-lat::50.27] 
+[name::Duengenheim] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Duengenheim
-coordinates: [[Duengenheim]]
-markerFile: [[Duengenheim]]
+coordinates: [[Duengenheim]] 
+markerFile: [[Duengenheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Duengenheim|Duengenheim]]] 
+- [[Duengenheim|Duengenheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Duengenheim.internal|Duengenheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Duengenheim.protect|Duengenheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Duengenheim.private|Duengenheim.private]] 

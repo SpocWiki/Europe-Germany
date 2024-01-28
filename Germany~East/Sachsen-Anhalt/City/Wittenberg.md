@@ -1,5 +1,5 @@
 ﻿---
-location: [51.87,12.64]
+location: [51.87,12.64] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.64]
-[geo-lat::51.87]
-[name::Wittenberg]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.64] 
+[geo-lat::51.87] 
+[name::Wittenberg] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wittenberg
-coordinates: [[Wittenberg]]
-markerFile: [[Wittenberg]]
+coordinates: [[Wittenberg]] 
+markerFile: [[Wittenberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

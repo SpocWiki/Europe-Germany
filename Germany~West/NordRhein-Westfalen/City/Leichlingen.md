@@ -1,5 +1,5 @@
 ﻿---
-location: [51.12,7.02]
+location: [51.12,7.02] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.02]
-[geo-lat::51.12]
-[name::Leichlingen]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.02] 
+[geo-lat::51.12] 
+[name::Leichlingen] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Leichlingen
-coordinates: [[Leichlingen]]
-markerFile: [[Leichlingen]]
+coordinates: [[Leichlingen]] 
+markerFile: [[Leichlingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Leichlingen|Leichlingen]]] 
+- [[Leichlingen|Leichlingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Leichlingen.internal|Leichlingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Leichlingen.protect|Leichlingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Leichlingen.private|Leichlingen.private]] 

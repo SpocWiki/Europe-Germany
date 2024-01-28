@@ -1,5 +1,5 @@
 ﻿---
-location: [53.5,10.57]
+location: [53.5,10.57] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.57]
-[geo-lat::53.5]
-[name::Muessen]
-[Country::[[Germany]]]
-[State ::[[Schleswig-Holstein]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.57] 
+[geo-lat::53.5] 
+[name::Muessen] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Muessen
-coordinates: [[Muessen]]
-markerFile: [[Muessen]]
+coordinates: [[Muessen]] 
+markerFile: [[Muessen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Muessen|Muessen]]] 
+- [[Muessen|Muessen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Muessen.internal|Muessen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Muessen.protect|Muessen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Muessen.private|Muessen.private]] 

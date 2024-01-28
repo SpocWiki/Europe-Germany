@@ -1,5 +1,5 @@
 ﻿---
-location: [54.33,9.25]
+location: [54.33,9.25] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.25]
-[geo-lat::54.33]
-[name::Delve]
-[Country::[[Germany]]]
-[State ::[[Schleswig-Holstein]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.25] 
+[geo-lat::54.33] 
+[name::Delve] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Delve
-coordinates: [[Delve]]
-markerFile: [[Delve]]
+coordinates: [[Delve]] 
+markerFile: [[Delve]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Delve|Delve]]] 
+- [[Delve|Delve]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Delve.internal|Delve.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Delve.protect|Delve.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Delve.private|Delve.private]] 

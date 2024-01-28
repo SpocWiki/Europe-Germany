@@ -1,5 +1,5 @@
 ﻿---
-location: [50.5,8.68]
+location: [50.5,8.68] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.68]
-[geo-lat::50.5]
-[name::Lang-Goens]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.68] 
+[geo-lat::50.5] 
+[name::Lang-Goens] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lang-Goens
-coordinates: [[Lang-Goens]]
-markerFile: [[Lang-Goens]]
+coordinates: [[Lang-Goens]] 
+markerFile: [[Lang-Goens]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Lang-Goens|Lang-Goens]]] 
+- [[Lang-Goens|Lang-Goens]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Lang-Goens.internal|Lang-Goens.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Lang-Goens.protect|Lang-Goens.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Lang-Goens.private|Lang-Goens.private]] 

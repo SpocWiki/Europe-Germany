@@ -1,5 +1,5 @@
 ﻿---
-location: [53.9,13.03]
+location: [53.9,13.03] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.03]
-[geo-lat::53.9]
-[name::Demmin~Pommern]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.03] 
+[geo-lat::53.9] 
+[name::Demmin~Pommern] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Demmin~Pommern
-coordinates: [[Demmin~Pommern]]
-markerFile: [[Demmin~Pommern]]
+coordinates: [[Demmin~Pommern]] 
+markerFile: [[Demmin~Pommern]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

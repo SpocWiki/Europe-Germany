@@ -1,5 +1,5 @@
 ﻿---
-location: [52.42,13.3]
+location: [52.42,13.3] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.3]
-[geo-lat::52.42]
-[name::Lichterfelde]
-[Country::[[Germany]]]
-[State:[[State~Berlin]]]]
-[Population::]
-[Unknown::]
+[geo-lon::13.3] 
+[geo-lat::52.42] 
+[name::Lichterfelde] 
+Country :: [[Germany]]  
+State :: [[State~Berlin]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lichterfelde
-coordinates: [[Lichterfelde]]
-markerFile: [[Lichterfelde]]
+coordinates: [[Lichterfelde]] 
+markerFile: [[Lichterfelde]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Lichterfelde|Lichterfelde]]] 
+- [[Lichterfelde|Lichterfelde]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin/City/Lichterfelde.internal|Lichterfelde.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin/City/Lichterfelde.protect|Lichterfelde.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin/City/Lichterfelde.private|Lichterfelde.private]] 

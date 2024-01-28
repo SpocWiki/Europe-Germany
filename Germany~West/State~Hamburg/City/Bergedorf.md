@@ -1,5 +1,5 @@
 ﻿---
-location: [53.47,10.23]
+location: [53.47,10.23] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.23]
-[geo-lat::53.47]
-[name::Bergedorf]
-[Country::[[Germany]]]
-[State:[[State~Hamburg]]]]
-[Population::]
-[Unknown::]
+[geo-lon::10.23] 
+[geo-lat::53.47] 
+[name::Bergedorf] 
+Country :: [[Germany]]  
+State :: [[State~Hamburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Bergedorf
-coordinates: [[Bergedorf]]
-markerFile: [[Bergedorf]]
+coordinates: [[Bergedorf]] 
+markerFile: [[Bergedorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Bergedorf|Bergedorf]]] 
+- [[Bergedorf|Bergedorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Hamburg/City/Bergedorf.internal|Bergedorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Hamburg/City/Bergedorf.protect|Bergedorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Hamburg/City/Bergedorf.private|Bergedorf.private]] 

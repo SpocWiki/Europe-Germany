@@ -1,5 +1,5 @@
 ﻿---
-location: [53.12,7.68]
+location: [53.12,7.68] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.68]
-[geo-lat::53.12]
-[name::Struecklingen]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.68] 
+[geo-lat::53.12] 
+[name::Struecklingen] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Struecklingen
-coordinates: [[Struecklingen]]
-markerFile: [[Struecklingen]]
+coordinates: [[Struecklingen]] 
+markerFile: [[Struecklingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Struecklingen|Struecklingen]]] 
+- [[Struecklingen|Struecklingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Struecklingen.internal|Struecklingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Struecklingen.protect|Struecklingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Struecklingen.private|Struecklingen.private]] 

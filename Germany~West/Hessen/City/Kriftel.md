@@ -1,5 +1,5 @@
 ﻿---
-location: [50.1,8.47]
+location: [50.1,8.47] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.47]
-[geo-lat::50.1]
-[name::Kriftel]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.47] 
+[geo-lat::50.1] 
+[name::Kriftel] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kriftel
-coordinates: [[Kriftel]]
-markerFile: [[Kriftel]]
+coordinates: [[Kriftel]] 
+markerFile: [[Kriftel]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kriftel|Kriftel]]] 
+- [[Kriftel|Kriftel]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Kriftel.internal|Kriftel.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Kriftel.protect|Kriftel.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Kriftel.private|Kriftel.private]] 

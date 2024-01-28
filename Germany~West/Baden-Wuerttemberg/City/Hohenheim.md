@@ -1,5 +1,5 @@
 ﻿---
-location: [48.72,9.22]
+location: [48.72,9.22] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.22]
-[geo-lat::48.72]
-[name::Hohenheim]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.22] 
+[geo-lat::48.72] 
+[name::Hohenheim] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hohenheim
-coordinates: [[Hohenheim]]
-markerFile: [[Hohenheim]]
+coordinates: [[Hohenheim]] 
+markerFile: [[Hohenheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hohenheim|Hohenheim]]] 
+- [[Hohenheim|Hohenheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hohenheim.internal|Hohenheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hohenheim.protect|Hohenheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hohenheim.private|Hohenheim.private]] 

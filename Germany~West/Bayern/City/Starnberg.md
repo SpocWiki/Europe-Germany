@@ -1,5 +1,5 @@
 ﻿---
-location: [48,11.33]
+location: [48,11.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.33]
-[geo-lat::48]
-[name::Starnberg]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.33] 
+[geo-lat::48] 
+[name::Starnberg] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Starnberg
-coordinates: [[Starnberg]]
-markerFile: [[Starnberg]]
+coordinates: [[Starnberg]] 
+markerFile: [[Starnberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Starnberg|Starnberg]]] 
+- [[Starnberg|Starnberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Starnberg.internal|Starnberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Starnberg.protect|Starnberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Starnberg.private|Starnberg.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [52.47,8.4]
+location: [52.47,8.4] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.4]
-[geo-lat::52.47]
-[name::Lemfoerde]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.4] 
+[geo-lat::52.47] 
+[name::Lemfoerde] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lemfoerde
-coordinates: [[Lemfoerde]]
-markerFile: [[Lemfoerde]]
+coordinates: [[Lemfoerde]] 
+markerFile: [[Lemfoerde]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Lemfoerde|Lemfoerde]]] 
+- [[Lemfoerde|Lemfoerde]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lemfoerde.internal|Lemfoerde.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lemfoerde.protect|Lemfoerde.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lemfoerde.private|Lemfoerde.private]] 

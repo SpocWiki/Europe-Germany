@@ -1,5 +1,5 @@
 ﻿---
-location: [48.35,13.32]
+location: [48.35,13.32] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.32]
-[geo-lat::48.35]
-[name::Pocking]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.32] 
+[geo-lat::48.35] 
+[name::Pocking] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Pocking
-coordinates: [[Pocking]]
-markerFile: [[Pocking]]
+coordinates: [[Pocking]] 
+markerFile: [[Pocking]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Pocking|Pocking]]] 
+- [[Pocking|Pocking]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Pocking.internal|Pocking.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Pocking.protect|Pocking.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Pocking.private|Pocking.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [49.72,6.5]
+location: [49.72,6.5] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.5]
-[geo-lat::49.72]
-[name::Wasserbillig]
-[State::]
-[Country[[geo/Continent/Europe/Europe~West/Luxembourg]]]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::6.5] 
+[geo-lat::49.72] 
+[name::Wasserbillig] 
+State ::  
+Country :: [[geo/Continent/Europe/Europe~West/Luxembourg]] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wasserbillig
-coordinates: [[Wasserbillig]]
-markerFile: [[Wasserbillig]]
+coordinates: [[Wasserbillig]] 
+markerFile: [[Wasserbillig]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

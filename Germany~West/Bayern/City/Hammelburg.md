@@ -1,5 +1,5 @@
 ﻿---
-location: [50.12,9.9]
+location: [50.12,9.9] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.9]
-[geo-lat::50.12]
-[name::Hammelburg]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.9] 
+[geo-lat::50.12] 
+[name::Hammelburg] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hammelburg
-coordinates: [[Hammelburg]]
-markerFile: [[Hammelburg]]
+coordinates: [[Hammelburg]] 
+markerFile: [[Hammelburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hammelburg|Hammelburg]]] 
+- [[Hammelburg|Hammelburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hammelburg.internal|Hammelburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hammelburg.protect|Hammelburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hammelburg.private|Hammelburg.private]] 

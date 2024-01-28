@@ -1,5 +1,5 @@
 ﻿---
-location: [50.57,10.42]
+location: [50.57,10.42] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.42]
-[geo-lat::50.57]
-[name::Meiningen]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.42] 
+[geo-lat::50.57] 
+[name::Meiningen] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Meiningen
-coordinates: [[Meiningen]]
-markerFile: [[Meiningen]]
+coordinates: [[Meiningen]] 
+markerFile: [[Meiningen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

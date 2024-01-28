@@ -1,5 +1,5 @@
 ﻿---
-location: [53.02,8.75]
+location: [53.02,8.75] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.75]
-[geo-lat::53.02]
-[name::Brinkum]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.75] 
+[geo-lat::53.02] 
+[name::Brinkum] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Brinkum
-coordinates: [[Brinkum]]
-markerFile: [[Brinkum]]
+coordinates: [[Brinkum]] 
+markerFile: [[Brinkum]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Brinkum|Brinkum]]] 
+- [[Brinkum|Brinkum]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Brinkum.internal|Brinkum.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Brinkum.protect|Brinkum.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Brinkum.private|Brinkum.private]] 

@@ -1,5 +1,5 @@
 ---
-location: [47.61,8.21]
+location: [47.61,8.21] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.21]
-[geo-lat::47.61]
-[name::Waldshut-Tiengen]
-[Country::[[Germany]]]
-[State:[[Baden-Wuerttemberg]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.21] 
+[geo-lat::47.61] 
+[name::Waldshut-Tiengen] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Waldshut-Tiengen
-coordinates: [[Waldshut-Tiengen]]
-markerFile: [[Waldshut-Tiengen]]
+coordinates: [[Waldshut-Tiengen]] 
+markerFile: [[Waldshut-Tiengen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Waldshut-Tiengen|Waldshut-Tiengen]]] 
+- [[Waldshut-Tiengen|Waldshut-Tiengen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Waldshut-Tiengen.internal|Waldshut-Tiengen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Waldshut-Tiengen.protect|Waldshut-Tiengen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Waldshut-Tiengen.private|Waldshut-Tiengen.private]] 

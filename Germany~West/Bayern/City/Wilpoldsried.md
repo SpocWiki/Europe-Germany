@@ -1,5 +1,5 @@
 ﻿---
-location: [47.77,10.42]
+location: [47.77,10.42] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.42]
-[geo-lat::47.77]
-[name::Wilpoldsried]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.42] 
+[geo-lat::47.77] 
+[name::Wilpoldsried] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wilpoldsried
-coordinates: [[Wilpoldsried]]
-markerFile: [[Wilpoldsried]]
+coordinates: [[Wilpoldsried]] 
+markerFile: [[Wilpoldsried]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Wilpoldsried|Wilpoldsried]]] 
+- [[Wilpoldsried|Wilpoldsried]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wilpoldsried.internal|Wilpoldsried.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wilpoldsried.protect|Wilpoldsried.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wilpoldsried.private|Wilpoldsried.private]] 

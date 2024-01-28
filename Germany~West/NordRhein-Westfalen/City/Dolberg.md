@@ -1,5 +1,5 @@
 ﻿---
-location: [51.72,7.93]
+location: [51.72,7.93] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.93]
-[geo-lat::51.72]
-[name::Dolberg]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.93] 
+[geo-lat::51.72] 
+[name::Dolberg] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Dolberg
-coordinates: [[Dolberg]]
-markerFile: [[Dolberg]]
+coordinates: [[Dolberg]] 
+markerFile: [[Dolberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Dolberg|Dolberg]]] 
+- [[Dolberg|Dolberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Dolberg.internal|Dolberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Dolberg.protect|Dolberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Dolberg.private|Dolberg.private]] 

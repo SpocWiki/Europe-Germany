@@ -1,5 +1,5 @@
 ﻿---
-location: [51.75,8.05]
+location: [51.75,8.05] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.05]
-[geo-lat::51.75]
-[name::Beckum]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.05] 
+[geo-lat::51.75] 
+[name::Beckum] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Beckum
-coordinates: [[Beckum]]
-markerFile: [[Beckum]]
+coordinates: [[Beckum]] 
+markerFile: [[Beckum]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Beckum|Beckum]]] 
+- [[Beckum|Beckum]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Beckum.internal|Beckum.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Beckum.protect|Beckum.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Beckum.private|Beckum.private]] 

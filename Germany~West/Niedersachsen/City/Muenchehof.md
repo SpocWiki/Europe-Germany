@@ -1,5 +1,5 @@
 ﻿---
-location: [51.85,10.17]
+location: [51.85,10.17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.17]
-[geo-lat::51.85]
-[name::Muenchehof]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.17] 
+[geo-lat::51.85] 
+[name::Muenchehof] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Muenchehof
-coordinates: [[Muenchehof]]
-markerFile: [[Muenchehof]]
+coordinates: [[Muenchehof]] 
+markerFile: [[Muenchehof]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Muenchehof|Muenchehof]]] 
+- [[Muenchehof|Muenchehof]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muenchehof.internal|Muenchehof.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muenchehof.protect|Muenchehof.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muenchehof.private|Muenchehof.private]] 

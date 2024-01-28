@@ -1,5 +1,5 @@
 ﻿---
-location: [48.27,11]
+location: [48.27,11] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11]
-[geo-lat::48.27]
-[name::Mering]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11] 
+[geo-lat::48.27] 
+[name::Mering] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mering
-coordinates: [[Mering]]
-markerFile: [[Mering]]
+coordinates: [[Mering]] 
+markerFile: [[Mering]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Mering|Mering]]] 
+- [[Mering|Mering]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Mering.internal|Mering.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Mering.protect|Mering.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Mering.private|Mering.private]] 

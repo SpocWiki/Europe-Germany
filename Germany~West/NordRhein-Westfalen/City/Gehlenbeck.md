@@ -1,5 +1,5 @@
 ﻿---
-location: [52.3,8.65]
+location: [52.3,8.65] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.65]
-[geo-lat::52.3]
-[name::Gehlenbeck]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.65] 
+[geo-lat::52.3] 
+[name::Gehlenbeck] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gehlenbeck
-coordinates: [[Gehlenbeck]]
-markerFile: [[Gehlenbeck]]
+coordinates: [[Gehlenbeck]] 
+markerFile: [[Gehlenbeck]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Gehlenbeck|Gehlenbeck]]] 
+- [[Gehlenbeck|Gehlenbeck]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Gehlenbeck.internal|Gehlenbeck.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Gehlenbeck.protect|Gehlenbeck.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Gehlenbeck.private|Gehlenbeck.private]] 

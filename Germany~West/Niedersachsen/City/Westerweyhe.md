@@ -1,5 +1,5 @@
 ﻿---
-location: [53,10.5]
+location: [53,10.5] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.5]
-[geo-lat::53]
-[name::Westerweyhe]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.5] 
+[geo-lat::53] 
+[name::Westerweyhe] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Westerweyhe
-coordinates: [[Westerweyhe]]
-markerFile: [[Westerweyhe]]
+coordinates: [[Westerweyhe]] 
+markerFile: [[Westerweyhe]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Westerweyhe|Westerweyhe]]] 
+- [[Westerweyhe|Westerweyhe]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westerweyhe.internal|Westerweyhe.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westerweyhe.protect|Westerweyhe.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westerweyhe.private|Westerweyhe.private]] 

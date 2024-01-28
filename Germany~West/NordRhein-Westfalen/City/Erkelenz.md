@@ -1,5 +1,5 @@
 ﻿---
-location: [51.08,6.32]
+location: [51.08,6.32] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.32]
-[geo-lat::51.08]
-[name::Erkelenz]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.32] 
+[geo-lat::51.08] 
+[name::Erkelenz] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Erkelenz
-coordinates: [[Erkelenz]]
-markerFile: [[Erkelenz]]
+coordinates: [[Erkelenz]] 
+markerFile: [[Erkelenz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Erkelenz|Erkelenz]]] 
+- [[Erkelenz|Erkelenz]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Erkelenz.internal|Erkelenz.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Erkelenz.protect|Erkelenz.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Erkelenz.private|Erkelenz.private]] 

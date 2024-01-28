@@ -1,5 +1,5 @@
 ﻿---
-location: [52.03,11.67]
+location: [52.03,11.67] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.67]
-[geo-lat::52.03]
-[name::Frohse]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.67] 
+[geo-lat::52.03] 
+[name::Frohse] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Frohse
-coordinates: [[Frohse]]
-markerFile: [[Frohse]]
+coordinates: [[Frohse]] 
+markerFile: [[Frohse]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

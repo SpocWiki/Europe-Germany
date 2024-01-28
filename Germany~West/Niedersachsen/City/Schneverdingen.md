@@ -1,5 +1,5 @@
 ﻿---
-location: [53.12,9.78]
+location: [53.12,9.78] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.78]
-[geo-lat::53.12]
-[name::Schneverdingen]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.78] 
+[geo-lat::53.12] 
+[name::Schneverdingen] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schneverdingen
-coordinates: [[Schneverdingen]]
-markerFile: [[Schneverdingen]]
+coordinates: [[Schneverdingen]] 
+markerFile: [[Schneverdingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Schneverdingen|Schneverdingen]]] 
+- [[Schneverdingen|Schneverdingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schneverdingen.internal|Schneverdingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schneverdingen.protect|Schneverdingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schneverdingen.private|Schneverdingen.private]] 

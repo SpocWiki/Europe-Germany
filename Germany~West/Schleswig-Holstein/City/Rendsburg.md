@@ -1,5 +1,5 @@
 ﻿---
-location: [54.3,9.67]
+location: [54.3,9.67] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.67]
-[geo-lat::54.3]
-[name::Rendsburg]
-[Country::[[Germany]]]
-[State ::[[Schleswig-Holstein]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.67] 
+[geo-lat::54.3] 
+[name::Rendsburg] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Rendsburg
-coordinates: [[Rendsburg]]
-markerFile: [[Rendsburg]]
+coordinates: [[Rendsburg]] 
+markerFile: [[Rendsburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Rendsburg|Rendsburg]]] 
+- [[Rendsburg|Rendsburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Rendsburg.internal|Rendsburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Rendsburg.protect|Rendsburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Rendsburg.private|Rendsburg.private]] 

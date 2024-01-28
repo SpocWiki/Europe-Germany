@@ -1,5 +1,5 @@
 ﻿---
-location: [53.25,7.55]
+location: [53.25,7.55] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.55]
-[geo-lat::53.25]
-[name::Nortmoor]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.55] 
+[geo-lat::53.25] 
+[name::Nortmoor] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Nortmoor
-coordinates: [[Nortmoor]]
-markerFile: [[Nortmoor]]
+coordinates: [[Nortmoor]] 
+markerFile: [[Nortmoor]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Nortmoor|Nortmoor]]] 
+- [[Nortmoor|Nortmoor]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nortmoor.internal|Nortmoor.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nortmoor.protect|Nortmoor.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nortmoor.private|Nortmoor.private]] 

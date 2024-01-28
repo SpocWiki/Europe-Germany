@@ -1,5 +1,5 @@
 ﻿---
-location: [52.97,11.15]
+location: [52.97,11.15] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.15]
-[geo-lat::52.97]
-[name::Luechow]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.15] 
+[geo-lat::52.97] 
+[name::Luechow] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Luechow
-coordinates: [[Luechow]]
-markerFile: [[Luechow]]
+coordinates: [[Luechow]] 
+markerFile: [[Luechow]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Luechow|Luechow]]] 
+- [[Luechow|Luechow]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luechow.internal|Luechow.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luechow.protect|Luechow.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luechow.private|Luechow.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [53.7,12.92]
+location: [53.7,12.92] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.92]
-[geo-lat::53.7]
-[name::Stavenhagen]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.92] 
+[geo-lat::53.7] 
+[name::Stavenhagen] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Stavenhagen
-coordinates: [[Stavenhagen]]
-markerFile: [[Stavenhagen]]
+coordinates: [[Stavenhagen]] 
+markerFile: [[Stavenhagen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

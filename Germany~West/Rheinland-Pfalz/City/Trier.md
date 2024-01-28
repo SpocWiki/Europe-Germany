@@ -1,5 +1,5 @@
 ﻿---
-location: [49.76,6.64]
+location: [49.76,6.64] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.64]
-[geo-lat::49.76]
-[name::Trier]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::6.64] 
+[geo-lat::49.76] 
+[name::Trier] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Trier
-coordinates: [[Trier]]
-markerFile: [[Trier]]
+coordinates: [[Trier]] 
+markerFile: [[Trier]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Trier|Trier]]] 
+- [[Trier|Trier]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Trier.internal|Trier.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Trier.protect|Trier.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Trier.private|Trier.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [48.45,12.35]
+location: [48.45,12.35] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.35]
-[geo-lat::48.45]
-[name::Vilsbiburg]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.35] 
+[geo-lat::48.45] 
+[name::Vilsbiburg] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Vilsbiburg
-coordinates: [[Vilsbiburg]]
-markerFile: [[Vilsbiburg]]
+coordinates: [[Vilsbiburg]] 
+markerFile: [[Vilsbiburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Vilsbiburg|Vilsbiburg]]] 
+- [[Vilsbiburg|Vilsbiburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Vilsbiburg.internal|Vilsbiburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Vilsbiburg.protect|Vilsbiburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Vilsbiburg.private|Vilsbiburg.private]] 

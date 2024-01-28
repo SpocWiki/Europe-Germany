@@ -1,5 +1,5 @@
 ﻿---
-location: [52.9,8.43]
+location: [52.9,8.43] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.43]
-[geo-lat::52.9]
-[name::Wildeshausen]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.43] 
+[geo-lat::52.9] 
+[name::Wildeshausen] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wildeshausen
-coordinates: [[Wildeshausen]]
-markerFile: [[Wildeshausen]]
+coordinates: [[Wildeshausen]] 
+markerFile: [[Wildeshausen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Wildeshausen|Wildeshausen]]] 
+- [[Wildeshausen|Wildeshausen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wildeshausen.internal|Wildeshausen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wildeshausen.protect|Wildeshausen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wildeshausen.private|Wildeshausen.private]] 

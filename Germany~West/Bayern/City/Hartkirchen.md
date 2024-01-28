@@ -1,5 +1,5 @@
 ﻿---
-location: [48.4,13.4]
+location: [48.4,13.4] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.4]
-[geo-lat::48.4]
-[name::Hartkirchen]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.4] 
+[geo-lat::48.4] 
+[name::Hartkirchen] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hartkirchen
-coordinates: [[Hartkirchen]]
-markerFile: [[Hartkirchen]]
+coordinates: [[Hartkirchen]] 
+markerFile: [[Hartkirchen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hartkirchen|Hartkirchen]]] 
+- [[Hartkirchen|Hartkirchen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hartkirchen.internal|Hartkirchen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hartkirchen.protect|Hartkirchen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hartkirchen.private|Hartkirchen.private]] 

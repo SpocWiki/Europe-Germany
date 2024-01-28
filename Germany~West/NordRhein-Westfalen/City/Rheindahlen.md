@@ -1,5 +1,5 @@
 ﻿---
-location: [51.15,6.37]
+location: [51.15,6.37] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.37]
-[geo-lat::51.15]
-[name::Rheindahlen]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.37] 
+[geo-lat::51.15] 
+[name::Rheindahlen] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Rheindahlen
-coordinates: [[Rheindahlen]]
-markerFile: [[Rheindahlen]]
+coordinates: [[Rheindahlen]] 
+markerFile: [[Rheindahlen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Rheindahlen|Rheindahlen]]] 
+- [[Rheindahlen|Rheindahlen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Rheindahlen.internal|Rheindahlen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Rheindahlen.protect|Rheindahlen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Rheindahlen.private|Rheindahlen.private]] 

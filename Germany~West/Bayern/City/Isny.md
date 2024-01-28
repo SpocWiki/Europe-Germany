@@ -1,5 +1,5 @@
 ﻿---
-location: [47.68,10.05]
+location: [47.68,10.05] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.05]
-[geo-lat::47.68]
-[name::Isny]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.05] 
+[geo-lat::47.68] 
+[name::Isny] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Isny
-coordinates: [[Isny]]
-markerFile: [[Isny]]
+coordinates: [[Isny]] 
+markerFile: [[Isny]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Isny|Isny]]] 
+- [[Isny|Isny]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Isny.internal|Isny.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Isny.protect|Isny.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Isny.private|Isny.private]] 

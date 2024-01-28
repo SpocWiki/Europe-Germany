@@ -1,5 +1,5 @@
 ﻿---
-location: [51.12,8.07]
+location: [51.12,8.07] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.07]
-[geo-lat::51.12]
-[name::Maumke]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.07] 
+[geo-lat::51.12] 
+[name::Maumke] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Maumke
-coordinates: [[Maumke]]
-markerFile: [[Maumke]]
+coordinates: [[Maumke]] 
+markerFile: [[Maumke]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Maumke|Maumke]]] 
+- [[Maumke|Maumke]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Maumke.internal|Maumke.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Maumke.protect|Maumke.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Maumke.private|Maumke.private]] 

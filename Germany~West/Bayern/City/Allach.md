@@ -1,5 +1,5 @@
 ﻿---
-location: [48.2,11.5]
+location: [48.2,11.5] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.5]
-[geo-lat::48.2]
-[name::Allach]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.5] 
+[geo-lat::48.2] 
+[name::Allach] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Allach
-coordinates: [[Allach]]
-markerFile: [[Allach]]
+coordinates: [[Allach]] 
+markerFile: [[Allach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Allach|Allach]]] 
+- [[Allach|Allach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Allach.internal|Allach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Allach.protect|Allach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Allach.private|Allach.private]] 

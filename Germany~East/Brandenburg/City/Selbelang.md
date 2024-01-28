@@ -1,5 +1,5 @@
 ﻿---
-location: [52.65,12.67]
+location: [52.65,12.67] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.67]
-[geo-lat::52.65]
-[name::Selbelang]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.67] 
+[geo-lat::52.65] 
+[name::Selbelang] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Selbelang
-coordinates: [[Selbelang]]
-markerFile: [[Selbelang]]
+coordinates: [[Selbelang]] 
+markerFile: [[Selbelang]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

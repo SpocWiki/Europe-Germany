@@ -1,5 +1,5 @@
 ﻿---
-location: [50.53,11.32]
+location: [50.53,11.32] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.32]
-[geo-lat::50.53]
-[name::Groefenthal]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.32] 
+[geo-lat::50.53] 
+[name::Groefenthal] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Groefenthal
-coordinates: [[Groefenthal]]
-markerFile: [[Groefenthal]]
+coordinates: [[Groefenthal]] 
+markerFile: [[Groefenthal]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

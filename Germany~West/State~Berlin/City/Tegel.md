@@ -1,5 +1,5 @@
 ﻿---
-location: [52.56,13.3]
+location: [52.56,13.3] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.3]
-[geo-lat::52.56]
-[name::Tegel]
-[Country::[[Germany]]]
-[State ::[[State~Berlin]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.3] 
+[geo-lat::52.56] 
+[name::Tegel] 
+Country :: [[Germany]]  
+State :: [[State~Berlin]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Tegel
-coordinates: [[Tegel]]
-markerFile: [[Tegel]]
+coordinates: [[Tegel]] 
+markerFile: [[Tegel]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Tegel|Tegel]]] 
+- [[Tegel|Tegel]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin/City/Tegel.internal|Tegel.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin/City/Tegel.protect|Tegel.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin/City/Tegel.private|Tegel.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [51.25,6.98]
+location: [51.25,6.98] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.98]
-[geo-lat::51.25]
-[name::Mettmann]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.98] 
+[geo-lat::51.25] 
+[name::Mettmann] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mettmann
-coordinates: [[Mettmann]]
-markerFile: [[Mettmann]]
+coordinates: [[Mettmann]] 
+markerFile: [[Mettmann]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Mettmann|Mettmann]]] 
+- [[Mettmann|Mettmann]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mettmann.internal|Mettmann.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mettmann.protect|Mettmann.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mettmann.private|Mettmann.private]] 

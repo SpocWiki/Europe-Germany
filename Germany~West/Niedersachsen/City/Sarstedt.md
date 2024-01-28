@@ -1,5 +1,5 @@
 ﻿---
-location: [52.23,9.88]
+location: [52.23,9.88] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.88]
-[geo-lat::52.23]
-[name::Sarstedt]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.88] 
+[geo-lat::52.23] 
+[name::Sarstedt] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Sarstedt
-coordinates: [[Sarstedt]]
-markerFile: [[Sarstedt]]
+coordinates: [[Sarstedt]] 
+markerFile: [[Sarstedt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Sarstedt|Sarstedt]]] 
+- [[Sarstedt|Sarstedt]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sarstedt.internal|Sarstedt.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sarstedt.protect|Sarstedt.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sarstedt.private|Sarstedt.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [49.7,9.27]
+location: [49.7,9.27] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.27]
-[geo-lat::49.7]
-[name::Miltenberg]
-[Country::[[Germany]]]
-[State:[[Bayern]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.27] 
+[geo-lat::49.7] 
+[name::Miltenberg] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Miltenberg
-coordinates: [[Miltenberg]]
-markerFile: [[Miltenberg]]
+coordinates: [[Miltenberg]] 
+markerFile: [[Miltenberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Miltenberg|Miltenberg]]] 
+- [[Miltenberg|Miltenberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Miltenberg.internal|Miltenberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Miltenberg.protect|Miltenberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Miltenberg.private|Miltenberg.private]] 

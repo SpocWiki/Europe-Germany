@@ -1,5 +1,5 @@
 ﻿---
-location: [52.28,7.9]
+location: [52.28,7.9] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.9]
-[geo-lat::52.28]
-[name::Lotte]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.9] 
+[geo-lat::52.28] 
+[name::Lotte] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lotte
-coordinates: [[Lotte]]
-markerFile: [[Lotte]]
+coordinates: [[Lotte]] 
+markerFile: [[Lotte]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Lotte|Lotte]]] 
+- [[Lotte|Lotte]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Lotte.internal|Lotte.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Lotte.protect|Lotte.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Lotte.private|Lotte.private]] 

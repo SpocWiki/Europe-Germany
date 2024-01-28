@@ -1,5 +1,5 @@
 ---
-location: [50.07431,8.652657]
+location: [50.07431,8.652657] 
 type: Station 
 mapzoom: [8,18] 
 mapmarker: tram 
@@ -10,17 +10,17 @@ SpocWebEntityId: 156516
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.652657]
-[geo-lat::50.07431]
-[name::Stadion Straßenbahn]
-[Country::[[Germany]]]
-[City:[[Frankfurt~Main]] ]
+[geo-lon::8.652657] 
+[geo-lat::50.07431] 
+[name::Stadion Straßenbahn] 
+Country :: [[Germany]]  
+City :: [[Frankfurt~Main]] ] 
 
 
 ```leaflet
 id: S-Stadion_Straßenbahn.md
-coordinates: [[T-Stadion_Straßenbahn]]
-markerFile: [[T-Stadion_Straßenbahn]]
+coordinates: [[T-Stadion_Straßenbahn]] 
+markerFile: [[T-Stadion_Straßenbahn]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

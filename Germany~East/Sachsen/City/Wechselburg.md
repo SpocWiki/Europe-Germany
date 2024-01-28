@@ -1,5 +1,5 @@
 ﻿---
-location: [51,12.78]
+location: [51,12.78] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.78]
-[geo-lat::51]
-[name::Wechselburg]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.78] 
+[geo-lat::51] 
+[name::Wechselburg] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wechselburg
-coordinates: [[Wechselburg]]
-markerFile: [[Wechselburg]]
+coordinates: [[Wechselburg]] 
+markerFile: [[Wechselburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

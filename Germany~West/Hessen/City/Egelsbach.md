@@ -1,5 +1,5 @@
 ﻿---
-location: [49.97,8.68]
+location: [49.97,8.68] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.68]
-[geo-lat::49.97]
-[name::Egelsbach]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.68] 
+[geo-lat::49.97] 
+[name::Egelsbach] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Egelsbach
-coordinates: [[Egelsbach]]
-markerFile: [[Egelsbach]]
+coordinates: [[Egelsbach]] 
+markerFile: [[Egelsbach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Egelsbach|Egelsbach]]] 
+- [[Egelsbach|Egelsbach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Egelsbach.internal|Egelsbach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Egelsbach.protect|Egelsbach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Egelsbach.private|Egelsbach.private]] 

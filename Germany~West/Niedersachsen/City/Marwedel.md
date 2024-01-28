@@ -1,5 +1,5 @@
 ﻿---
-location: [53.15,11.03]
+location: [53.15,11.03] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.03]
-[geo-lat::53.15]
-[name::Marwedel]
-[Country::[[Germany]]]
-[State:[[Niedersachsen]]]]
-[Population::]
-[Unknown::]
+[geo-lon::11.03] 
+[geo-lat::53.15] 
+[name::Marwedel] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Marwedel
-coordinates: [[Marwedel]]
-markerFile: [[Marwedel]]
+coordinates: [[Marwedel]] 
+markerFile: [[Marwedel]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Marwedel|Marwedel]]] 
+- [[Marwedel|Marwedel]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Marwedel.internal|Marwedel.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Marwedel.protect|Marwedel.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Marwedel.private|Marwedel.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [49.45,11.07]
+location: [49.45,11.07] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.07]
-[geo-lat::49.45]
-[name::Nuernberg]
-[Country::[[Germany]]]
-[State:[[Bayern]]]]
-[Population::]
-[Unknown::]
+[geo-lon::11.07] 
+[geo-lat::49.45] 
+[name::Nuernberg] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Nuernberg
-coordinates: [[Nuernberg]]
-markerFile: [[Nuernberg]]
+coordinates: [[Nuernberg]] 
+markerFile: [[Nuernberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Nuernberg|Nuernberg]]] 
+- [[Nuernberg|Nuernberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Nuernberg.internal|Nuernberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Nuernberg.protect|Nuernberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Nuernberg.private|Nuernberg.private]] 

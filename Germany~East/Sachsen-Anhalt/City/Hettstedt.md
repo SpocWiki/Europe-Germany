@@ -1,5 +1,5 @@
 ﻿---
-location: [51.65,11.5]
+location: [51.65,11.5] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.5]
-[geo-lat::51.65]
-[name::Hettstedt]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.5] 
+[geo-lat::51.65] 
+[name::Hettstedt] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hettstedt
-coordinates: [[Hettstedt]]
-markerFile: [[Hettstedt]]
+coordinates: [[Hettstedt]] 
+markerFile: [[Hettstedt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

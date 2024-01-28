@@ -1,5 +1,5 @@
 ﻿---
-location: [51.47,13.25]
+location: [51.47,13.25] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.25]
-[geo-lat::51.47]
-[name::Burgsdorf]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.25] 
+[geo-lat::51.47] 
+[name::Burgsdorf] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Burgsdorf
-coordinates: [[Burgsdorf]]
-markerFile: [[Burgsdorf]]
+coordinates: [[Burgsdorf]] 
+markerFile: [[Burgsdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

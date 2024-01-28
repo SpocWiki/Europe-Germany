@@ -1,5 +1,5 @@
 ﻿---
-location: [54.37,10.98]
+location: [54.37,10.98] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.98]
-[geo-lat::54.37]
-[name::Heiligenhafen]
-[Country::[[Germany]]]
-[State ::[[Schleswig-Holstein]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.98] 
+[geo-lat::54.37] 
+[name::Heiligenhafen] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Heiligenhafen
-coordinates: [[Heiligenhafen]]
-markerFile: [[Heiligenhafen]]
+coordinates: [[Heiligenhafen]] 
+markerFile: [[Heiligenhafen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Heiligenhafen|Heiligenhafen]]] 
+- [[Heiligenhafen|Heiligenhafen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heiligenhafen.internal|Heiligenhafen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heiligenhafen.protect|Heiligenhafen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heiligenhafen.private|Heiligenhafen.private]] 

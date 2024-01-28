@@ -1,5 +1,5 @@
 ﻿---
-location: [50.35,7.55]
+location: [50.35,7.55] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.55]
-[geo-lat::50.35]
-[name::Guels]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.55] 
+[geo-lat::50.35] 
+[name::Guels] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Guels
-coordinates: [[Guels]]
-markerFile: [[Guels]]
+coordinates: [[Guels]] 
+markerFile: [[Guels]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Guels|Guels]]] 
+- [[Guels|Guels]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Guels.internal|Guels.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Guels.protect|Guels.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Guels.private|Guels.private]] 

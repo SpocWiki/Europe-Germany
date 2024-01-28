@@ -1,5 +1,5 @@
 ﻿---
-location: [50.68,8.3]
+location: [50.68,8.3] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.3]
-[geo-lat::50.68]
-[name::Herborn]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.3] 
+[geo-lat::50.68] 
+[name::Herborn] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Herborn
-coordinates: [[Herborn]]
-markerFile: [[Herborn]]
+coordinates: [[Herborn]] 
+markerFile: [[Herborn]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Herborn|Herborn]]] 
+- [[Herborn|Herborn]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Herborn.internal|Herborn.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Herborn.protect|Herborn.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Herborn.private|Herborn.private]] 

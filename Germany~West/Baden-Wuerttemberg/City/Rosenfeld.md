@@ -1,5 +1,5 @@
 ﻿---
-location: [48.22,8.73]
+location: [48.22,8.73] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.73]
-[geo-lat::48.22]
-[name::Rosenfeld]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.73] 
+[geo-lat::48.22] 
+[name::Rosenfeld] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Rosenfeld
-coordinates: [[Rosenfeld]]
-markerFile: [[Rosenfeld]]
+coordinates: [[Rosenfeld]] 
+markerFile: [[Rosenfeld]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Rosenfeld|Rosenfeld]]] 
+- [[Rosenfeld|Rosenfeld]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Rosenfeld.internal|Rosenfeld.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Rosenfeld.protect|Rosenfeld.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Rosenfeld.private|Rosenfeld.private]] 

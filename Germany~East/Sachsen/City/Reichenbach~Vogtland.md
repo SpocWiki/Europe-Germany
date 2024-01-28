@@ -1,5 +1,5 @@
 ﻿---
-location: [50.63,12.32]
+location: [50.63,12.32] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.32]
-[geo-lat::50.63]
-[name::Reichenbach~Vogtland]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.32] 
+[geo-lat::50.63] 
+[name::Reichenbach~Vogtland] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Reichenbach~Vogtland
-coordinates: [[Reichenbach~Vogtland]]
-markerFile: [[Reichenbach~Vogtland]]
+coordinates: [[Reichenbach~Vogtland]] 
+markerFile: [[Reichenbach~Vogtland]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

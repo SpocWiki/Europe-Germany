@@ -1,5 +1,5 @@
 ﻿---
-location: [50.37,12.47]
+location: [50.37,12.47] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.47]
-[geo-lat::50.37]
-[name::Klingenthal]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.47] 
+[geo-lat::50.37] 
+[name::Klingenthal] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Klingenthal
-coordinates: [[Klingenthal]]
-markerFile: [[Klingenthal]]
+coordinates: [[Klingenthal]] 
+markerFile: [[Klingenthal]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [53.92,9.4]
+location: [53.92,9.4] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.4]
-[geo-lat::53.92]
-[name::Wilster]
-[Country::[[Germany]]]
-[State:[[Schleswig-Holstein]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.4] 
+[geo-lat::53.92] 
+[name::Wilster] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wilster
-coordinates: [[Wilster]]
-markerFile: [[Wilster]]
+coordinates: [[Wilster]] 
+markerFile: [[Wilster]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Wilster|Wilster]]] 
+- [[Wilster|Wilster]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wilster.internal|Wilster.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wilster.protect|Wilster.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wilster.private|Wilster.private]] 

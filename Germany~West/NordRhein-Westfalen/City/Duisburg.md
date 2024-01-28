@@ -1,5 +1,5 @@
 ﻿---
-location: [51.43,6.76]
+location: [51.43,6.76] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.76]
-[geo-lat::51.43]
-[name::Duisburg]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.76] 
+[geo-lat::51.43] 
+[name::Duisburg] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Duisburg
-coordinates: [[Duisburg]]
-markerFile: [[Duisburg]]
+coordinates: [[Duisburg]] 
+markerFile: [[Duisburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Duisburg|Duisburg]]] 
+- [[Duisburg|Duisburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Duisburg.internal|Duisburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Duisburg.protect|Duisburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Duisburg.private|Duisburg.private]] 

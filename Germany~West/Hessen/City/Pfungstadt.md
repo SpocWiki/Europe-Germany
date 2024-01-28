@@ -1,5 +1,5 @@
 ﻿---
-location: [49.8,8.6]
+location: [49.8,8.6] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.6]
-[geo-lat::49.8]
-[name::Pfungstadt]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.6] 
+[geo-lat::49.8] 
+[name::Pfungstadt] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Pfungstadt
-coordinates: [[Pfungstadt]]
-markerFile: [[Pfungstadt]]
+coordinates: [[Pfungstadt]] 
+markerFile: [[Pfungstadt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Pfungstadt|Pfungstadt]]] 
+- [[Pfungstadt|Pfungstadt]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Pfungstadt.internal|Pfungstadt.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Pfungstadt.protect|Pfungstadt.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Pfungstadt.private|Pfungstadt.private]] 

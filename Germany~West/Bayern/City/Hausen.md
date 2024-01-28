@@ -1,5 +1,5 @@
 ﻿---
-location: [50.5,10.13]
+location: [50.5,10.13] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.13]
-[geo-lat::50.5]
-[name::Hausen]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.13] 
+[geo-lat::50.5] 
+[name::Hausen] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hausen
-coordinates: [[Hausen]]
-markerFile: [[Hausen]]
+coordinates: [[Hausen]] 
+markerFile: [[Hausen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hausen|Hausen]]] 
+- [[Hausen|Hausen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hausen.internal|Hausen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hausen.protect|Hausen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hausen.private|Hausen.private]] 

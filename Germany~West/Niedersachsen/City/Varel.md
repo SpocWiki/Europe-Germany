@@ -1,5 +1,5 @@
 ﻿---
-location: [53.39,8.13]
+location: [53.39,8.13] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.13]
-[geo-lat::53.39]
-[name::Varel]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.13] 
+[geo-lat::53.39] 
+[name::Varel] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Varel
-coordinates: [[Varel]]
-markerFile: [[Varel]]
+coordinates: [[Varel]] 
+markerFile: [[Varel]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Varel|Varel]]] 
+- [[Varel|Varel]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Varel.internal|Varel.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Varel.protect|Varel.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Varel.private|Varel.private]] 

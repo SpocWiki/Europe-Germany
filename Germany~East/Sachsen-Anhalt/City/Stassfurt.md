@@ -1,5 +1,5 @@
 ﻿---
-location: [51.85,11.58]
+location: [51.85,11.58] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.58]
-[geo-lat::51.85]
-[name::Stassfurt]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.58] 
+[geo-lat::51.85] 
+[name::Stassfurt] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Stassfurt
-coordinates: [[Stassfurt]]
-markerFile: [[Stassfurt]]
+coordinates: [[Stassfurt]] 
+markerFile: [[Stassfurt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

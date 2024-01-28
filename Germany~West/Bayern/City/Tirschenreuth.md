@@ -1,5 +1,5 @@
 ﻿---
-location: [49.88,12.35]
+location: [49.88,12.35] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.35]
-[geo-lat::49.88]
-[name::Tirschenreuth]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.35] 
+[geo-lat::49.88] 
+[name::Tirschenreuth] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Tirschenreuth
-coordinates: [[Tirschenreuth]]
-markerFile: [[Tirschenreuth]]
+coordinates: [[Tirschenreuth]] 
+markerFile: [[Tirschenreuth]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Tirschenreuth|Tirschenreuth]]] 
+- [[Tirschenreuth|Tirschenreuth]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Tirschenreuth.internal|Tirschenreuth.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Tirschenreuth.protect|Tirschenreuth.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Tirschenreuth.private|Tirschenreuth.private]] 

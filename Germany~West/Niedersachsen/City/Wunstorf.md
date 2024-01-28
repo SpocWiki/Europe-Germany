@@ -1,5 +1,5 @@
 ﻿---
-location: [52.43,9.43]
+location: [52.43,9.43] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.43]
-[geo-lat::52.43]
-[name::Wunstorf]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.43] 
+[geo-lat::52.43] 
+[name::Wunstorf] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wunstorf
-coordinates: [[Wunstorf]]
-markerFile: [[Wunstorf]]
+coordinates: [[Wunstorf]] 
+markerFile: [[Wunstorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Wunstorf|Wunstorf]]] 
+- [[Wunstorf|Wunstorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wunstorf.internal|Wunstorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wunstorf.protect|Wunstorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wunstorf.private|Wunstorf.private]] 

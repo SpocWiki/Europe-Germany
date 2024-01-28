@@ -1,5 +1,5 @@
 ﻿---
-location: [52.4,12.15]
+location: [52.4,12.15] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.15]
-[geo-lat::52.4]
-[name::Gentin]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.15] 
+[geo-lat::52.4] 
+[name::Gentin] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gentin
-coordinates: [[Gentin]]
-markerFile: [[Gentin]]
+coordinates: [[Gentin]] 
+markerFile: [[Gentin]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [50.1,8.58]
+location: [50.1,8.58] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.58]
-[geo-lat::50.1]
-[name::Nied]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.58] 
+[geo-lat::50.1] 
+[name::Nied] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Nied
-coordinates: [[Nied]]
-markerFile: [[Nied]]
+coordinates: [[Nied]] 
+markerFile: [[Nied]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Nied|Nied]]] 
+- [[Nied|Nied]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Nied.internal|Nied.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Nied.protect|Nied.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Nied.private|Nied.private]] 

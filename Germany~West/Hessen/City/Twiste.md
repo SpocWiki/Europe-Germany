@@ -1,5 +1,5 @@
 ﻿---
-location: [51.35,8.97]
+location: [51.35,8.97] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.97]
-[geo-lat::51.35]
-[name::Twiste]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.97] 
+[geo-lat::51.35] 
+[name::Twiste] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Twiste
-coordinates: [[Twiste]]
-markerFile: [[Twiste]]
+coordinates: [[Twiste]] 
+markerFile: [[Twiste]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Twiste|Twiste]]] 
+- [[Twiste|Twiste]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Twiste.internal|Twiste.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Twiste.protect|Twiste.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Twiste.private|Twiste.private]] 

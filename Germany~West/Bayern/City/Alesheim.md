@@ -1,5 +1,5 @@
 ﻿---
-location: [49.05,10.75]
+location: [49.05,10.75] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.75]
-[geo-lat::49.05]
-[name::Alesheim]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.75] 
+[geo-lat::49.05] 
+[name::Alesheim] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Alesheim
-coordinates: [[Alesheim]]
-markerFile: [[Alesheim]]
+coordinates: [[Alesheim]] 
+markerFile: [[Alesheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Alesheim|Alesheim]]] 
+- [[Alesheim|Alesheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Alesheim.internal|Alesheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Alesheim.protect|Alesheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Alesheim.private|Alesheim.private]] 

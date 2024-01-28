@@ -1,5 +1,5 @@
 ﻿---
-location: [50.43,7.47]
+location: [50.43,7.47] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.47]
-[geo-lat::50.43]
-[name::Neuwied]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.47] 
+[geo-lat::50.43] 
+[name::Neuwied] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Neuwied
-coordinates: [[Neuwied]]
-markerFile: [[Neuwied]]
+coordinates: [[Neuwied]] 
+markerFile: [[Neuwied]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Neuwied|Neuwied]]] 
+- [[Neuwied|Neuwied]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neuwied.internal|Neuwied.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neuwied.protect|Neuwied.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neuwied.private|Neuwied.private]] 

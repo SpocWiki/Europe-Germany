@@ -1,5 +1,5 @@
 ﻿---
-location: [49.32,8.43]
+location: [49.32,8.43] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.43]
-[geo-lat::49.32]
-[name::Speyer]
-[Country::[[Germany]]]
-[State:[[Rheinland-Pfalz]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.43] 
+[geo-lat::49.32] 
+[name::Speyer] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Speyer
-coordinates: [[Speyer]]
-markerFile: [[Speyer]]
+coordinates: [[Speyer]] 
+markerFile: [[Speyer]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Speyer|Speyer]]] 
+- [[Speyer|Speyer]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Speyer.internal|Speyer.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Speyer.protect|Speyer.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Speyer.private|Speyer.private]] 

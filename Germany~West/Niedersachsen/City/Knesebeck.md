@@ -1,5 +1,5 @@
 ﻿---
-location: [52.68,10.7]
+location: [52.68,10.7] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.7]
-[geo-lat::52.68]
-[name::Knesebeck]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.7] 
+[geo-lat::52.68] 
+[name::Knesebeck] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Knesebeck
-coordinates: [[Knesebeck]]
-markerFile: [[Knesebeck]]
+coordinates: [[Knesebeck]] 
+markerFile: [[Knesebeck]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Knesebeck|Knesebeck]]] 
+- [[Knesebeck|Knesebeck]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Knesebeck.internal|Knesebeck.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Knesebeck.protect|Knesebeck.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Knesebeck.private|Knesebeck.private]] 

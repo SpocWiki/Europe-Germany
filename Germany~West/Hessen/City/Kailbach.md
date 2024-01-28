@@ -1,5 +1,5 @@
 ﻿---
-location: [49.53,9.1]
+location: [49.53,9.1] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.1]
-[geo-lat::49.53]
-[name::Kailbach]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.1] 
+[geo-lat::49.53] 
+[name::Kailbach] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kailbach
-coordinates: [[Kailbach]]
-markerFile: [[Kailbach]]
+coordinates: [[Kailbach]] 
+markerFile: [[Kailbach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kailbach|Kailbach]]] 
+- [[Kailbach|Kailbach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kailbach.internal|Kailbach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kailbach.protect|Kailbach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kailbach.private|Kailbach.private]] 

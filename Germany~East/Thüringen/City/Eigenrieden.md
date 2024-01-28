@@ -1,5 +1,5 @@
 ﻿---
-location: [51.22,10.32]
+location: [51.22,10.32] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.32]
-[geo-lat::51.22]
-[name::Eigenrieden]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.32] 
+[geo-lat::51.22] 
+[name::Eigenrieden] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Eigenrieden
-coordinates: [[Eigenrieden]]
-markerFile: [[Eigenrieden]]
+coordinates: [[Eigenrieden]] 
+markerFile: [[Eigenrieden]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

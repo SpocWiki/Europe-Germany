@@ -1,5 +1,5 @@
 ﻿---
-location: [47.57,10.7]
+location: [47.57,10.7] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.7]
-[geo-lat::47.57]
-[name::Fuessen]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.7] 
+[geo-lat::47.57] 
+[name::Fuessen] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Fuessen
-coordinates: [[Fuessen]]
-markerFile: [[Fuessen]]
+coordinates: [[Fuessen]] 
+markerFile: [[Fuessen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Fuessen|Fuessen]]] 
+- [[Fuessen|Fuessen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Fuessen.internal|Fuessen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Fuessen.protect|Fuessen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Fuessen.private|Fuessen.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [48.57,11.27]
+location: [48.57,11.27] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.27]
-[geo-lat::48.57]
-[name::Schrobenhausen]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.27] 
+[geo-lat::48.57] 
+[name::Schrobenhausen] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schrobenhausen
-coordinates: [[Schrobenhausen]]
-markerFile: [[Schrobenhausen]]
+coordinates: [[Schrobenhausen]] 
+markerFile: [[Schrobenhausen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Schrobenhausen|Schrobenhausen]]] 
+- [[Schrobenhausen|Schrobenhausen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Schrobenhausen.internal|Schrobenhausen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Schrobenhausen.protect|Schrobenhausen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Schrobenhausen.private|Schrobenhausen.private]] 

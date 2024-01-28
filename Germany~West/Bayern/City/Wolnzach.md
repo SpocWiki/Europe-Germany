@@ -1,5 +1,5 @@
 ﻿---
-location: [48.62,11.63]
+location: [48.62,11.63] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.63]
-[geo-lat::48.62]
-[name::Wolnzach]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.63] 
+[geo-lat::48.62] 
+[name::Wolnzach] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wolnzach
-coordinates: [[Wolnzach]]
-markerFile: [[Wolnzach]]
+coordinates: [[Wolnzach]] 
+markerFile: [[Wolnzach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Wolnzach|Wolnzach]]] 
+- [[Wolnzach|Wolnzach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wolnzach.internal|Wolnzach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wolnzach.protect|Wolnzach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wolnzach.private|Wolnzach.private]] 

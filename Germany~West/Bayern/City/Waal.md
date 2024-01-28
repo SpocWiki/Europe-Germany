@@ -1,5 +1,5 @@
 ﻿---
-location: [48,10.78]
+location: [48,10.78] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.78]
-[geo-lat::48]
-[name::Waal]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.78] 
+[geo-lat::48] 
+[name::Waal] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Waal
-coordinates: [[Waal]]
-markerFile: [[Waal]]
+coordinates: [[Waal]] 
+markerFile: [[Waal]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Waal|Waal]]] 
+- [[Waal|Waal]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Waal.internal|Waal.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Waal.protect|Waal.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Waal.private|Waal.private]] 

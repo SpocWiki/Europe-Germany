@@ -1,5 +1,5 @@
 ﻿---
-location: [50.87,7.73]
+location: [50.87,7.73] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.73]
-[geo-lat::50.87]
-[name::Morsbach]
-[Country::[[Germany]]]
-[State:[[Rheinland-Pfalz]]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.73] 
+[geo-lat::50.87] 
+[name::Morsbach] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Morsbach
-coordinates: [[Morsbach]]
-markerFile: [[Morsbach]]
+coordinates: [[Morsbach]] 
+markerFile: [[Morsbach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Morsbach|Morsbach]]] 
+- [[Morsbach|Morsbach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Morsbach.internal|Morsbach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Morsbach.protect|Morsbach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Morsbach.private|Morsbach.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [48.27,12.27]
+location: [48.27,12.27] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.27]
-[geo-lat::48.27]
-[name::Schwindegg]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.27] 
+[geo-lat::48.27] 
+[name::Schwindegg] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schwindegg
-coordinates: [[Schwindegg]]
-markerFile: [[Schwindegg]]
+coordinates: [[Schwindegg]] 
+markerFile: [[Schwindegg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Schwindegg|Schwindegg]]] 
+- [[Schwindegg|Schwindegg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Schwindegg.internal|Schwindegg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Schwindegg.protect|Schwindegg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Schwindegg.private|Schwindegg.private]] 

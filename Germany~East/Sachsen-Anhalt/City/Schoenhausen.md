@@ -1,5 +1,5 @@
 ﻿---
-location: [52.58,12.03]
+location: [52.58,12.03] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.03]
-[geo-lat::52.58]
-[name::Schoenhausen]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.03] 
+[geo-lat::52.58] 
+[name::Schoenhausen] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schoenhausen
-coordinates: [[Schoenhausen]]
-markerFile: [[Schoenhausen]]
+coordinates: [[Schoenhausen]] 
+markerFile: [[Schoenhausen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [49.38,12.72]
+location: [49.38,12.72] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.72]
-[geo-lat::49.38]
-[name::Waldmuenchen]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.72] 
+[geo-lat::49.38] 
+[name::Waldmuenchen] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Waldmuenchen
-coordinates: [[Waldmuenchen]]
-markerFile: [[Waldmuenchen]]
+coordinates: [[Waldmuenchen]] 
+markerFile: [[Waldmuenchen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Waldmuenchen|Waldmuenchen]]] 
+- [[Waldmuenchen|Waldmuenchen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Waldmuenchen.internal|Waldmuenchen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Waldmuenchen.protect|Waldmuenchen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Waldmuenchen.private|Waldmuenchen.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [50.35,7.59]
+location: [50.35,7.59] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.59]
-[geo-lat::50.35]
-[name::Koblenz]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.59] 
+[geo-lat::50.35] 
+[name::Koblenz] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Koblenz
-coordinates: [[Koblenz]]
-markerFile: [[Koblenz]]
+coordinates: [[Koblenz]] 
+markerFile: [[Koblenz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Koblenz|Koblenz]]] 
+- [[Koblenz|Koblenz]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Koblenz.internal|Koblenz.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Koblenz.protect|Koblenz.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Koblenz.private|Koblenz.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [51.08,12.13]
+location: [51.08,12.13] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.13]
-[geo-lat::51.08]
-[name::Aylsdorf]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.13] 
+[geo-lat::51.08] 
+[name::Aylsdorf] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Aylsdorf
-coordinates: [[Aylsdorf]]
-markerFile: [[Aylsdorf]]
+coordinates: [[Aylsdorf]] 
+markerFile: [[Aylsdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [51.77,14.33]
+location: [51.77,14.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.33]
-[geo-lat::51.77]
-[name::Kottbus]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::14.33] 
+[geo-lat::51.77] 
+[name::Kottbus] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kottbus
-coordinates: [[Kottbus]]
-markerFile: [[Kottbus]]
+coordinates: [[Kottbus]] 
+markerFile: [[Kottbus]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

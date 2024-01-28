@@ -1,5 +1,5 @@
 ﻿---
-location: [51.57,13]
+location: [51.57,13] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13]
-[geo-lat::51.57]
-[name::Torgau]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13] 
+[geo-lat::51.57] 
+[name::Torgau] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Torgau
-coordinates: [[Torgau]]
-markerFile: [[Torgau]]
+coordinates: [[Torgau]] 
+markerFile: [[Torgau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

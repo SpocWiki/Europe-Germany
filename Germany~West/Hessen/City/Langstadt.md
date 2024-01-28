@@ -1,5 +1,5 @@
 ﻿---
-location: [49.93,8.97]
+location: [49.93,8.97] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.97]
-[geo-lat::49.93]
-[name::Langstadt]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.97] 
+[geo-lat::49.93] 
+[name::Langstadt] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Langstadt
-coordinates: [[Langstadt]]
-markerFile: [[Langstadt]]
+coordinates: [[Langstadt]] 
+markerFile: [[Langstadt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Langstadt|Langstadt]]] 
+- [[Langstadt|Langstadt]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Langstadt.internal|Langstadt.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Langstadt.protect|Langstadt.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Langstadt.private|Langstadt.private]] 

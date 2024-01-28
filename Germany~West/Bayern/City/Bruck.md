@@ -1,5 +1,5 @@
 ﻿---
-location: [48.17,11.25]
+location: [48.17,11.25] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.25]
-[geo-lat::48.17]
-[name::Bruck]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.25] 
+[geo-lat::48.17] 
+[name::Bruck] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Bruck
-coordinates: [[Bruck]]
-markerFile: [[Bruck]]
+coordinates: [[Bruck]] 
+markerFile: [[Bruck]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Bruck|Bruck]]] 
+- [[Bruck|Bruck]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bruck.internal|Bruck.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bruck.protect|Bruck.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bruck.private|Bruck.private]] 

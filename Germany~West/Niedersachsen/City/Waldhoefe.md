@@ -1,5 +1,5 @@
 ﻿---
-location: [52.82,7.57]
+location: [52.82,7.57] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.57]
-[geo-lat::52.82]
-[name::Waldhoefe]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.57] 
+[geo-lat::52.82] 
+[name::Waldhoefe] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Waldhoefe
-coordinates: [[Waldhoefe]]
-markerFile: [[Waldhoefe]]
+coordinates: [[Waldhoefe]] 
+markerFile: [[Waldhoefe]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Waldhoefe|Waldhoefe]]] 
+- [[Waldhoefe|Waldhoefe]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Waldhoefe.internal|Waldhoefe.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Waldhoefe.protect|Waldhoefe.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Waldhoefe.private|Waldhoefe.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [52.88,7.32]
+location: [52.88,7.32] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.32]
-[geo-lat::52.88]
-[name::Fresenburg]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.32] 
+[geo-lat::52.88] 
+[name::Fresenburg] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Fresenburg
-coordinates: [[Fresenburg]]
-markerFile: [[Fresenburg]]
+coordinates: [[Fresenburg]] 
+markerFile: [[Fresenburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Fresenburg|Fresenburg]]] 
+- [[Fresenburg|Fresenburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fresenburg.internal|Fresenburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fresenburg.protect|Fresenburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fresenburg.private|Fresenburg.private]] 

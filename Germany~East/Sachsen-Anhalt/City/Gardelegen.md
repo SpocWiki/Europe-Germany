@@ -1,5 +1,5 @@
 ﻿---
-location: [52.53,11.4]
+location: [52.53,11.4] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.4]
-[geo-lat::52.53]
-[name::Gardelegen]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.4] 
+[geo-lat::52.53] 
+[name::Gardelegen] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gardelegen
-coordinates: [[Gardelegen]]
-markerFile: [[Gardelegen]]
+coordinates: [[Gardelegen]] 
+markerFile: [[Gardelegen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

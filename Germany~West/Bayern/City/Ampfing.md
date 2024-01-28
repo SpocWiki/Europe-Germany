@@ -1,5 +1,5 @@
 ﻿---
-location: [48.25,12.5]
+location: [48.25,12.5] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.5]
-[geo-lat::48.25]
-[name::Ampfing]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.5] 
+[geo-lat::48.25] 
+[name::Ampfing] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ampfing
-coordinates: [[Ampfing]]
-markerFile: [[Ampfing]]
+coordinates: [[Ampfing]] 
+markerFile: [[Ampfing]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Ampfing|Ampfing]]] 
+- [[Ampfing|Ampfing]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Ampfing.internal|Ampfing.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Ampfing.protect|Ampfing.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Ampfing.private|Ampfing.private]] 

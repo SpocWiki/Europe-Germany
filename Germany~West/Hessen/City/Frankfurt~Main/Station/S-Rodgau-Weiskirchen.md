@@ -1,5 +1,5 @@
 ---
-location: [50.05318,8.891466]
+location: [50.05318,8.891466] 
 type: Station 
 mapzoom: [8,18] 
 mapmarker: train 
@@ -10,17 +10,17 @@ SpocWebEntityId: 156384
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.891466]
-[geo-lat::50.05318]
-[name::Rodgau-Weiskirchen]
-[Country::[[Germany]]]
-[City:[[Frankfurt~Main]] ]
+[geo-lon::8.891466] 
+[geo-lat::50.05318] 
+[name::Rodgau-Weiskirchen] 
+Country :: [[Germany]]  
+City :: [[Frankfurt~Main]] ] 
 
 
 ```leaflet
 id: S-Rodgau-Weiskirchen.md
-coordinates: [[S-Rodgau-Weiskirchen]]
-markerFile: [[S-Rodgau-Weiskirchen]]
+coordinates: [[S-Rodgau-Weiskirchen]] 
+markerFile: [[S-Rodgau-Weiskirchen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

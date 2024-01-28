@@ -1,5 +1,5 @@
 ﻿---
-location: [50.97,11.33]
+location: [50.97,11.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.33]
-[geo-lat::50.97]
-[name::Weimar]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.33] 
+[geo-lat::50.97] 
+[name::Weimar] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Weimar
-coordinates: [[Weimar]]
-markerFile: [[Weimar]]
+coordinates: [[Weimar]] 
+markerFile: [[Weimar]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

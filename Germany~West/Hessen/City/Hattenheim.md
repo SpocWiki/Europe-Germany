@@ -1,5 +1,5 @@
 ﻿---
-location: [50.03,8.05]
+location: [50.03,8.05] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.05]
-[geo-lat::50.03]
-[name::Hattenheim]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.05] 
+[geo-lat::50.03] 
+[name::Hattenheim] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hattenheim
-coordinates: [[Hattenheim]]
-markerFile: [[Hattenheim]]
+coordinates: [[Hattenheim]] 
+markerFile: [[Hattenheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hattenheim|Hattenheim]]] 
+- [[Hattenheim|Hattenheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Hattenheim.internal|Hattenheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Hattenheim.protect|Hattenheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Hattenheim.private|Hattenheim.private]] 

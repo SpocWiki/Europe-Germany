@@ -1,5 +1,5 @@
 ﻿---
-location: [52.75,8.25]
+location: [52.75,8.25] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.25]
-[geo-lat::52.75]
-[name::Calveslage]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.25] 
+[geo-lat::52.75] 
+[name::Calveslage] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Calveslage
-coordinates: [[Calveslage]]
-markerFile: [[Calveslage]]
+coordinates: [[Calveslage]] 
+markerFile: [[Calveslage]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Calveslage|Calveslage]]] 
+- [[Calveslage|Calveslage]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Calveslage.internal|Calveslage.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Calveslage.protect|Calveslage.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Calveslage.private|Calveslage.private]] 

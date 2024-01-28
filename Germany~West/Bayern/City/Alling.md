@@ -1,5 +1,5 @@
 ﻿---
-location: [49,11.98]
+location: [49,11.98] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.98]
-[geo-lat::49]
-[name::Alling]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.98] 
+[geo-lat::49] 
+[name::Alling] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Alling
-coordinates: [[Alling]]
-markerFile: [[Alling]]
+coordinates: [[Alling]] 
+markerFile: [[Alling]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Alling|Alling]]] 
+- [[Alling|Alling]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Alling.internal|Alling.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Alling.protect|Alling.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Alling.private|Alling.private]] 

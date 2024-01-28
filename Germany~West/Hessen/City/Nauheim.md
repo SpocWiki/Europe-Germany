@@ -1,5 +1,5 @@
 ﻿---
-location: [50.37,8.75]
+location: [50.37,8.75] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.75]
-[geo-lat::50.37]
-[name::Nauheim]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.75] 
+[geo-lat::50.37] 
+[name::Nauheim] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Nauheim
-coordinates: [[Nauheim]]
-markerFile: [[Nauheim]]
+coordinates: [[Nauheim]] 
+markerFile: [[Nauheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Nauheim|Nauheim]]] 
+- [[Nauheim|Nauheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Nauheim.internal|Nauheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Nauheim.protect|Nauheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Nauheim.private|Nauheim.private]] 

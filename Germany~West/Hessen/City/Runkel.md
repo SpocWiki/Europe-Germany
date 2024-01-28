@@ -1,5 +1,5 @@
 ﻿---
-location: [50.42,8.17]
+location: [50.42,8.17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.17]
-[geo-lat::50.42]
-[name::Runkel]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.17] 
+[geo-lat::50.42] 
+[name::Runkel] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Runkel
-coordinates: [[Runkel]]
-markerFile: [[Runkel]]
+coordinates: [[Runkel]] 
+markerFile: [[Runkel]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Runkel|Runkel]]] 
+- [[Runkel|Runkel]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Runkel.internal|Runkel.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Runkel.protect|Runkel.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Runkel.private|Runkel.private]] 

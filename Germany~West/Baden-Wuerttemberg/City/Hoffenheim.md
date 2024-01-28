@@ -1,5 +1,5 @@
 ﻿---
-location: [49.28,8.85]
+location: [49.28,8.85] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.85]
-[geo-lat::49.28]
-[name::Hoffenheim]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.85] 
+[geo-lat::49.28] 
+[name::Hoffenheim] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hoffenheim
-coordinates: [[Hoffenheim]]
-markerFile: [[Hoffenheim]]
+coordinates: [[Hoffenheim]] 
+markerFile: [[Hoffenheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hoffenheim|Hoffenheim]]] 
+- [[Hoffenheim|Hoffenheim]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hoffenheim.internal|Hoffenheim.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hoffenheim.protect|Hoffenheim.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hoffenheim.private|Hoffenheim.private]] 

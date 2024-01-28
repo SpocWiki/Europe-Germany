@@ -1,5 +1,5 @@
 ﻿---
-location: [48.73,13.38]
+location: [48.73,13.38] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.38]
-[geo-lat::48.73]
-[name::Tittling]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.38] 
+[geo-lat::48.73] 
+[name::Tittling] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Tittling
-coordinates: [[Tittling]]
-markerFile: [[Tittling]]
+coordinates: [[Tittling]] 
+markerFile: [[Tittling]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Tittling|Tittling]]] 
+- [[Tittling|Tittling]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Tittling.internal|Tittling.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Tittling.protect|Tittling.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Tittling.private|Tittling.private]] 

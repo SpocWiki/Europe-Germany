@@ -1,5 +1,5 @@
 ﻿---
-location: [48.45,8.57]
+location: [48.45,8.57] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.57]
-[geo-lat::48.45]
-[name::Dettingen]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.57] 
+[geo-lat::48.45] 
+[name::Dettingen] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Dettingen
-coordinates: [[Dettingen]]
-markerFile: [[Dettingen]]
+coordinates: [[Dettingen]] 
+markerFile: [[Dettingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Dettingen|Dettingen]]] 
+- [[Dettingen|Dettingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Dettingen.internal|Dettingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Dettingen.protect|Dettingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Dettingen.private|Dettingen.private]] 

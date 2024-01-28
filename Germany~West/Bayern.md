@@ -1,5 +1,5 @@
 ---
-location: [48.8642,11.3382]
+location: [48.8642,11.3382] 
 type: State
 ISO3166-2: DE-BY
 SpocWebEntityId: 36016
@@ -9,10 +9,10 @@ tags:
 - geo/State
 
 ---
-[name::Bayern]
-[name-abbr::BY]
-![[Coat_of_arms_of_Bavaria.svg|350]]
-![[Flag_of_Bavaria_(lozengy).svg|350]]
+[name::Bayern] 
+[name-abbr::BY] 
+![[Coat_of_arms_of_Bavaria.svg|350]] 
+![[Flag_of_Bavaria_(lozengy).svg|350]] 
 
 ```leaflet
 id: Bayern
@@ -23,11 +23,11 @@ geojsonFolder: ./Bayern/
 markerFolder: ./Bayern/
 ```
 
-[Country::[[Germany]]]
-[ Capital :: [[München]] ]
-[geo-lon::11.3382]
-[geo-lat::48.8642]
-[Population::]
+Country :: [[Germany]]  
+Capital ::  [[München]] ] 
+[geo-lon::11.3382] 
+[geo-lat::48.8642] 
+[Population::] 
 
 
 

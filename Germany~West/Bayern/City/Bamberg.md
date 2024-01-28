@@ -1,5 +1,5 @@
 ﻿---
-location: [49.88,10.88]
+location: [49.88,10.88] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.88]
-[geo-lat::49.88]
-[name::Bamberg]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.88] 
+[geo-lat::49.88] 
+[name::Bamberg] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Bamberg
-coordinates: [[Bamberg]]
-markerFile: [[Bamberg]]
+coordinates: [[Bamberg]] 
+markerFile: [[Bamberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Bamberg|Bamberg]]] 
+- [[Bamberg|Bamberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bamberg.internal|Bamberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bamberg.protect|Bamberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bamberg.private|Bamberg.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [49.35,12.38]
+location: [49.35,12.38] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.38]
-[geo-lat::49.35]
-[name::Neunburg]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.38] 
+[geo-lat::49.35] 
+[name::Neunburg] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Neunburg
-coordinates: [[Neunburg]]
-markerFile: [[Neunburg]]
+coordinates: [[Neunburg]] 
+markerFile: [[Neunburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Neunburg|Neunburg]]] 
+- [[Neunburg|Neunburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Neunburg.internal|Neunburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Neunburg.protect|Neunburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Neunburg.private|Neunburg.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [52.03,7.12]
+location: [52.03,7.12] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.12]
-[geo-lat::52.03]
-[name::Legden]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.12] 
+[geo-lat::52.03] 
+[name::Legden] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Legden
-coordinates: [[Legden]]
-markerFile: [[Legden]]
+coordinates: [[Legden]] 
+markerFile: [[Legden]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Legden|Legden]]] 
+- [[Legden|Legden]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Legden.internal|Legden.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Legden.protect|Legden.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Legden.private|Legden.private]] 

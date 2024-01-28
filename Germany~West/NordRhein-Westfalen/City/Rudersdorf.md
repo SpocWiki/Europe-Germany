@@ -1,5 +1,5 @@
 ﻿---
-location: [50.83,8.13]
+location: [50.83,8.13] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.13]
-[geo-lat::50.83]
-[name::Rudersdorf]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.13] 
+[geo-lat::50.83] 
+[name::Rudersdorf] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Rudersdorf
-coordinates: [[Rudersdorf]]
-markerFile: [[Rudersdorf]]
+coordinates: [[Rudersdorf]] 
+markerFile: [[Rudersdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Rudersdorf|Rudersdorf]]] 
+- [[Rudersdorf|Rudersdorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Rudersdorf.internal|Rudersdorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Rudersdorf.protect|Rudersdorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Rudersdorf.private|Rudersdorf.private]] 

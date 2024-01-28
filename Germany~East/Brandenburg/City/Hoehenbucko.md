@@ -1,5 +1,5 @@
 ﻿---
-location: [51.77,13.47]
+location: [51.77,13.47] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.47]
-[geo-lat::51.77]
-[name::Hoehenbucko]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.47] 
+[geo-lat::51.77] 
+[name::Hoehenbucko] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hoehenbucko
-coordinates: [[Hoehenbucko]]
-markerFile: [[Hoehenbucko]]
+coordinates: [[Hoehenbucko]] 
+markerFile: [[Hoehenbucko]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

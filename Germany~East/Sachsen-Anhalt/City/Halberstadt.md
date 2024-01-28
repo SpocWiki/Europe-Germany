@@ -1,5 +1,5 @@
 ﻿---
-location: [51.9,11.05]
+location: [51.9,11.05] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.05]
-[geo-lat::51.9]
-[name::Halberstadt]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.05] 
+[geo-lat::51.9] 
+[name::Halberstadt] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Halberstadt
-coordinates: [[Halberstadt]]
-markerFile: [[Halberstadt]]
+coordinates: [[Halberstadt]] 
+markerFile: [[Halberstadt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

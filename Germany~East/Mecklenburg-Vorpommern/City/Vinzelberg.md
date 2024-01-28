@@ -1,5 +1,5 @@
 ﻿---
-location: [53.57,11.67]
+location: [53.57,11.67] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.67]
-[geo-lat::53.57]
-[name::Vinzelberg]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.67] 
+[geo-lat::53.57] 
+[name::Vinzelberg] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Vinzelberg
-coordinates: [[Vinzelberg]]
-markerFile: [[Vinzelberg]]
+coordinates: [[Vinzelberg]] 
+markerFile: [[Vinzelberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

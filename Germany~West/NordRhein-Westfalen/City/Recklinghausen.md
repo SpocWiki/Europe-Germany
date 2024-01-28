@@ -1,5 +1,5 @@
 ﻿---
-location: [51.61,7.19]
+location: [51.61,7.19] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.19]
-[geo-lat::51.61]
-[name::Recklinghausen]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.19] 
+[geo-lat::51.61] 
+[name::Recklinghausen] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Recklinghausen
-coordinates: [[Recklinghausen]]
-markerFile: [[Recklinghausen]]
+coordinates: [[Recklinghausen]] 
+markerFile: [[Recklinghausen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Recklinghausen|Recklinghausen]]] 
+- [[Recklinghausen|Recklinghausen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Recklinghausen.internal|Recklinghausen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Recklinghausen.protect|Recklinghausen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Recklinghausen.private|Recklinghausen.private]] 

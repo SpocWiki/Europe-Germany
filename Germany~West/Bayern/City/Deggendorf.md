@@ -1,5 +1,5 @@
 ﻿---
-location: [48.83,12.97]
+location: [48.83,12.97] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.97]
-[geo-lat::48.83]
-[name::Deggendorf]
-[Country::[[Germany]]]
-[State:[[Bayern]]]]
-[Population::]
-[Unknown::]
+[geo-lon::12.97] 
+[geo-lat::48.83] 
+[name::Deggendorf] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Deggendorf
-coordinates: [[Deggendorf]]
-markerFile: [[Deggendorf]]
+coordinates: [[Deggendorf]] 
+markerFile: [[Deggendorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Deggendorf|Deggendorf]]] 
+- [[Deggendorf|Deggendorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Deggendorf.internal|Deggendorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Deggendorf.protect|Deggendorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Deggendorf.private|Deggendorf.private]] 

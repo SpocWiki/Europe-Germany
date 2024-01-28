@@ -1,5 +1,5 @@
 ﻿---
-location: [50.52,8.83]
+location: [50.52,8.83] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.83]
-[geo-lat::50.52]
-[name::Lich]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.83] 
+[geo-lat::50.52] 
+[name::Lich] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lich
-coordinates: [[Lich]]
-markerFile: [[Lich]]
+coordinates: [[Lich]] 
+markerFile: [[Lich]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Lich|Lich]]] 
+- [[Lich|Lich]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Lich.internal|Lich.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Lich.protect|Lich.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Lich.private|Lich.private]] 

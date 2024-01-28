@@ -1,5 +1,5 @@
 ﻿---
-location: [48.18,11.26]
+location: [48.18,11.26] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.26]
-[geo-lat::48.18]
-[name::Fuerstenfeldbruck]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.26] 
+[geo-lat::48.18] 
+[name::Fuerstenfeldbruck] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Fuerstenfeldbruck
-coordinates: [[Fuerstenfeldbruck]]
-markerFile: [[Fuerstenfeldbruck]]
+coordinates: [[Fuerstenfeldbruck]] 
+markerFile: [[Fuerstenfeldbruck]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Fuerstenfeldbruck|Fuerstenfeldbruck]]] 
+- [[Fuerstenfeldbruck|Fuerstenfeldbruck]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Fuerstenfeldbruck.internal|Fuerstenfeldbruck.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Fuerstenfeldbruck.protect|Fuerstenfeldbruck.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Fuerstenfeldbruck.private|Fuerstenfeldbruck.private]] 

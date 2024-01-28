@@ -1,5 +1,5 @@
 ﻿---
-location: [47.82,11.3]
+location: [47.82,11.3] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.3]
-[geo-lat::47.82]
-[name::Seeshaupt]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.3] 
+[geo-lat::47.82] 
+[name::Seeshaupt] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Seeshaupt
-coordinates: [[Seeshaupt]]
-markerFile: [[Seeshaupt]]
+coordinates: [[Seeshaupt]] 
+markerFile: [[Seeshaupt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Seeshaupt|Seeshaupt]]] 
+- [[Seeshaupt|Seeshaupt]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Seeshaupt.internal|Seeshaupt.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Seeshaupt.protect|Seeshaupt.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Seeshaupt.private|Seeshaupt.private]] 

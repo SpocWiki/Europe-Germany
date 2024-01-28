@@ -1,5 +1,5 @@
 ﻿---
-location: [48.1,11.5]
+location: [48.1,11.5] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.5]
-[geo-lat::48.1]
-[name::Berloch]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.5] 
+[geo-lat::48.1] 
+[name::Berloch] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Berloch
-coordinates: [[Berloch]]
-markerFile: [[Berloch]]
+coordinates: [[Berloch]] 
+markerFile: [[Berloch]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Berloch|Berloch]]] 
+- [[Berloch|Berloch]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Berloch.internal|Berloch.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Berloch.protect|Berloch.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Berloch.private|Berloch.private]] 

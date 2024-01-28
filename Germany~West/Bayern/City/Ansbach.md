@@ -1,5 +1,5 @@
 ﻿---
-location: [49.3,10.57]
+location: [49.3,10.57] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.57]
-[geo-lat::49.3]
-[name::Ansbach]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.57] 
+[geo-lat::49.3] 
+[name::Ansbach] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ansbach
-coordinates: [[Ansbach]]
-markerFile: [[Ansbach]]
+coordinates: [[Ansbach]] 
+markerFile: [[Ansbach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Ansbach|Ansbach]]] 
+- [[Ansbach|Ansbach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Ansbach.internal|Ansbach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Ansbach.protect|Ansbach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Ansbach.private|Ansbach.private]] 

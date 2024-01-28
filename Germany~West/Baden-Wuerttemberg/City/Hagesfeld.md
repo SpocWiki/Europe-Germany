@@ -1,5 +1,5 @@
 ﻿---
-location: [49.03,8.45]
+location: [49.03,8.45] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.45]
-[geo-lat::49.03]
-[name::Hagesfeld]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.45] 
+[geo-lat::49.03] 
+[name::Hagesfeld] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hagesfeld
-coordinates: [[Hagesfeld]]
-markerFile: [[Hagesfeld]]
+coordinates: [[Hagesfeld]] 
+markerFile: [[Hagesfeld]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hagesfeld|Hagesfeld]]] 
+- [[Hagesfeld|Hagesfeld]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hagesfeld.internal|Hagesfeld.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hagesfeld.protect|Hagesfeld.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hagesfeld.private|Hagesfeld.private]] 

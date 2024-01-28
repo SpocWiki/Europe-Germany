@@ -1,5 +1,5 @@
 ﻿---
-location: [53.27,7.93]
+location: [53.27,7.93] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.93]
-[geo-lat::53.27]
-[name::Westerstede]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.93] 
+[geo-lat::53.27] 
+[name::Westerstede] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Westerstede
-coordinates: [[Westerstede]]
-markerFile: [[Westerstede]]
+coordinates: [[Westerstede]] 
+markerFile: [[Westerstede]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Westerstede|Westerstede]]] 
+- [[Westerstede|Westerstede]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westerstede.internal|Westerstede.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westerstede.protect|Westerstede.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westerstede.private|Westerstede.private]] 

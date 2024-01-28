@@ -1,5 +1,5 @@
 ﻿---
-location: [53.93,10.32]
+location: [53.93,10.32] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.32]
-[geo-lat::53.93]
-[name::Segeberg]
-[Country::[[Germany]]]
-[State:[[Schleswig-Holstein]]]]
-[Population::]
-[Unknown::]
+[geo-lon::10.32] 
+[geo-lat::53.93] 
+[name::Segeberg] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Segeberg
-coordinates: [[Segeberg]]
-markerFile: [[Segeberg]]
+coordinates: [[Segeberg]] 
+markerFile: [[Segeberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Segeberg|Segeberg]]] 
+- [[Segeberg|Segeberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Segeberg.internal|Segeberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Segeberg.protect|Segeberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Segeberg.private|Segeberg.private]] 

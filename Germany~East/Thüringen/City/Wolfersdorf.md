@@ -1,5 +1,5 @@
 ﻿---
-location: [50.78,11.7]
+location: [50.78,11.7] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.7]
-[geo-lat::50.78]
-[name::Wolfersdorf]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.7] 
+[geo-lat::50.78] 
+[name::Wolfersdorf] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wolfersdorf
-coordinates: [[Wolfersdorf]]
-markerFile: [[Wolfersdorf]]
+coordinates: [[Wolfersdorf]] 
+markerFile: [[Wolfersdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [52.32,8.87]
+location: [52.32,8.87] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.87]
-[geo-lat::52.32]
-[name::Hahlen]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.87] 
+[geo-lat::52.32] 
+[name::Hahlen] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hahlen
-coordinates: [[Hahlen]]
-markerFile: [[Hahlen]]
+coordinates: [[Hahlen]] 
+markerFile: [[Hahlen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Hahlen|Hahlen]]] 
+- [[Hahlen|Hahlen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hahlen.internal|Hahlen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hahlen.protect|Hahlen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hahlen.private|Hahlen.private]] 

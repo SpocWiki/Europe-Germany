@@ -1,5 +1,5 @@
 ﻿---
-location: [54.22,8.93]
+location: [54.22,8.93] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.93]
-[geo-lat::54.22]
-[name::Wesselburen]
-[Country::[[Germany]]]
-[State:[[Schleswig-Holstein]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.93] 
+[geo-lat::54.22] 
+[name::Wesselburen] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wesselburen
-coordinates: [[Wesselburen]]
-markerFile: [[Wesselburen]]
+coordinates: [[Wesselburen]] 
+markerFile: [[Wesselburen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Wesselburen|Wesselburen]]] 
+- [[Wesselburen|Wesselburen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wesselburen.internal|Wesselburen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wesselburen.protect|Wesselburen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wesselburen.private|Wesselburen.private]] 

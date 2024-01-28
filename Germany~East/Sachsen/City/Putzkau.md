@@ -1,5 +1,5 @@
 ﻿---
-location: [51.1,14.25]
+location: [51.1,14.25] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.25]
-[geo-lat::51.1]
-[name::Putzkau]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::14.25] 
+[geo-lat::51.1] 
+[name::Putzkau] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Putzkau
-coordinates: [[Putzkau]]
-markerFile: [[Putzkau]]
+coordinates: [[Putzkau]] 
+markerFile: [[Putzkau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

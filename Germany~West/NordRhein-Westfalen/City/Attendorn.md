@@ -1,5 +1,5 @@
 ﻿---
-location: [51.13,7.9]
+location: [51.13,7.9] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.9]
-[geo-lat::51.13]
-[name::Attendorn]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.9] 
+[geo-lat::51.13] 
+[name::Attendorn] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Attendorn
-coordinates: [[Attendorn]]
-markerFile: [[Attendorn]]
+coordinates: [[Attendorn]] 
+markerFile: [[Attendorn]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Attendorn|Attendorn]]] 
+- [[Attendorn|Attendorn]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Attendorn.internal|Attendorn.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Attendorn.protect|Attendorn.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Attendorn.private|Attendorn.private]] 

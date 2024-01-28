@@ -1,5 +1,5 @@
 ﻿---
-location: [51.7,10]
+location: [51.7,10] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10]
-[geo-lat::51.7]
-[name::Katlenburg]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10] 
+[geo-lat::51.7] 
+[name::Katlenburg] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Katlenburg
-coordinates: [[Katlenburg]]
-markerFile: [[Katlenburg]]
+coordinates: [[Katlenburg]] 
+markerFile: [[Katlenburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Katlenburg|Katlenburg]]] 
+- [[Katlenburg|Katlenburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Katlenburg.internal|Katlenburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Katlenburg.protect|Katlenburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Katlenburg.private|Katlenburg.private]] 

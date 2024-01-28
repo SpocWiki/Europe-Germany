@@ -1,5 +1,5 @@
 ﻿---
-location: [50.93,11.58]
+location: [50.93,11.58] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.58]
-[geo-lat::50.93]
-[name::Jena]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.58] 
+[geo-lat::50.93] 
+[name::Jena] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Jena
-coordinates: [[Jena]]
-markerFile: [[Jena]]
+coordinates: [[Jena]] 
+markerFile: [[Jena]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

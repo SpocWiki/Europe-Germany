@@ -1,5 +1,5 @@
 ﻿---
-location: [48.72,8.73]
+location: [48.72,8.73] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.73]
-[geo-lat::48.72]
-[name::Calw]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.73] 
+[geo-lat::48.72] 
+[name::Calw] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Calw
-coordinates: [[Calw]]
-markerFile: [[Calw]]
+coordinates: [[Calw]] 
+markerFile: [[Calw]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Calw|Calw]]] 
+- [[Calw|Calw]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Calw.internal|Calw.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Calw.protect|Calw.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Calw.private|Calw.private]] 

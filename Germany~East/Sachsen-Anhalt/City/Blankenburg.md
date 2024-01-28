@@ -1,5 +1,5 @@
 ﻿---
-location: [51.8,10.97]
+location: [51.8,10.97] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.97]
-[geo-lat::51.8]
-[name::Blankenburg]
-[Country::[[Germany]]]
-[State ::[[Sachsen-Anhalt]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.97] 
+[geo-lat::51.8] 
+[name::Blankenburg] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Blankenburg
-coordinates: [[Blankenburg]]
-markerFile: [[Blankenburg]]
+coordinates: [[Blankenburg]] 
+markerFile: [[Blankenburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

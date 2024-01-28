@@ -1,5 +1,5 @@
 ﻿---
-location: [51.47,13.75]
+location: [51.47,13.75] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.75]
-[geo-lat::51.47]
-[name::Mueckenberg]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.75] 
+[geo-lat::51.47] 
+[name::Mueckenberg] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mueckenberg
-coordinates: [[Mueckenberg]]
-markerFile: [[Mueckenberg]]
+coordinates: [[Mueckenberg]] 
+markerFile: [[Mueckenberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

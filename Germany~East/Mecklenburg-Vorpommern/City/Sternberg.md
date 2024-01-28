@@ -1,5 +1,5 @@
 ﻿---
-location: [53.72,11.83]
+location: [53.72,11.83] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.83]
-[geo-lat::53.72]
-[name::Sternberg]
-[Country::[[Germany]]]
-[State:[[Mecklenburg-Vorpommern]]]]
-[Population::]
-[Unknown::]
+[geo-lon::11.83] 
+[geo-lat::53.72] 
+[name::Sternberg] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Sternberg
-coordinates: [[Sternberg]]
-markerFile: [[Sternberg]]
+coordinates: [[Sternberg]] 
+markerFile: [[Sternberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

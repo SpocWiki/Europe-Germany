@@ -1,5 +1,5 @@
 ﻿---
-location: [48.55,9]
+location: [48.55,9] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9]
-[geo-lat::48.55]
-[name::Jesingen]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9] 
+[geo-lat::48.55] 
+[name::Jesingen] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Jesingen
-coordinates: [[Jesingen]]
-markerFile: [[Jesingen]]
+coordinates: [[Jesingen]] 
+markerFile: [[Jesingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Jesingen|Jesingen]]] 
+- [[Jesingen|Jesingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Jesingen.internal|Jesingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Jesingen.protect|Jesingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Jesingen.private|Jesingen.private]] 

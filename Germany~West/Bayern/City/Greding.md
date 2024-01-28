@@ -1,5 +1,5 @@
 ﻿---
-location: [49.05,11.32]
+location: [49.05,11.32] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.32]
-[geo-lat::49.05]
-[name::Greding]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.32] 
+[geo-lat::49.05] 
+[name::Greding] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Greding
-coordinates: [[Greding]]
-markerFile: [[Greding]]
+coordinates: [[Greding]] 
+markerFile: [[Greding]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Greding|Greding]]] 
+- [[Greding|Greding]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Greding.internal|Greding.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Greding.protect|Greding.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Greding.private|Greding.private]] 

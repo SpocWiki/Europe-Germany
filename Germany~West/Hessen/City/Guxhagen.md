@@ -1,5 +1,5 @@
 ﻿---
-location: [51.2,9.52]
+location: [51.2,9.52] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.52]
-[geo-lat::51.2]
-[name::Guxhagen]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.52] 
+[geo-lat::51.2] 
+[name::Guxhagen] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Guxhagen
-coordinates: [[Guxhagen]]
-markerFile: [[Guxhagen]]
+coordinates: [[Guxhagen]] 
+markerFile: [[Guxhagen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Guxhagen|Guxhagen]]] 
+- [[Guxhagen|Guxhagen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Guxhagen.internal|Guxhagen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Guxhagen.protect|Guxhagen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Guxhagen.private|Guxhagen.private]] 

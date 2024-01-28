@@ -1,5 +1,5 @@
 ﻿---
-location: [53.8,9.57]
+location: [53.8,9.57] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.57]
-[geo-lat::53.8]
-[name::Sommerland]
-[Country::[[Germany]]]
-[State:[[Schleswig-Holstein]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.57] 
+[geo-lat::53.8] 
+[name::Sommerland] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Sommerland
-coordinates: [[Sommerland]]
-markerFile: [[Sommerland]]
+coordinates: [[Sommerland]] 
+markerFile: [[Sommerland]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Sommerland|Sommerland]]] 
+- [[Sommerland|Sommerland]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Sommerland.internal|Sommerland.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Sommerland.protect|Sommerland.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Sommerland.private|Sommerland.private]] 

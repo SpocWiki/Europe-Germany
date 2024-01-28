@@ -1,5 +1,5 @@
 ﻿---
-location: [52.8,12.48]
+location: [52.8,12.48] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.48]
-[geo-lat::52.8]
-[name::Dreetz]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.48] 
+[geo-lat::52.8] 
+[name::Dreetz] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Dreetz
-coordinates: [[Dreetz]]
-markerFile: [[Dreetz]]
+coordinates: [[Dreetz]] 
+markerFile: [[Dreetz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

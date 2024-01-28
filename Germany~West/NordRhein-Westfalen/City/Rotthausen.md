@@ -1,5 +1,5 @@
 ﻿---
-location: [51.48,7.08]
+location: [51.48,7.08] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.08]
-[geo-lat::51.48]
-[name::Rotthausen]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.08] 
+[geo-lat::51.48] 
+[name::Rotthausen] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Rotthausen
-coordinates: [[Rotthausen]]
-markerFile: [[Rotthausen]]
+coordinates: [[Rotthausen]] 
+markerFile: [[Rotthausen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Rotthausen|Rotthausen]]] 
+- [[Rotthausen|Rotthausen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Rotthausen.internal|Rotthausen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Rotthausen.protect|Rotthausen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Rotthausen.private|Rotthausen.private]] 

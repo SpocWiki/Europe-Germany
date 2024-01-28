@@ -1,5 +1,5 @@
 ﻿---
-location: [52.7,9.17]
+location: [52.7,9.17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.17]
-[geo-lat::52.7]
-[name::Mehlbergen]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.17] 
+[geo-lat::52.7] 
+[name::Mehlbergen] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mehlbergen
-coordinates: [[Mehlbergen]]
-markerFile: [[Mehlbergen]]
+coordinates: [[Mehlbergen]] 
+markerFile: [[Mehlbergen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Mehlbergen|Mehlbergen]]] 
+- [[Mehlbergen|Mehlbergen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mehlbergen.internal|Mehlbergen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mehlbergen.protect|Mehlbergen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mehlbergen.private|Mehlbergen.private]] 

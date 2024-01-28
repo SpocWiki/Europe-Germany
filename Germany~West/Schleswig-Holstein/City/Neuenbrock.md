@@ -1,5 +1,5 @@
 ﻿---
-location: [53.87,9.53]
+location: [53.87,9.53] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.53]
-[geo-lat::53.87]
-[name::Neuenbrock]
-[Country::[[Germany]]]
-[State ::[[Schleswig-Holstein]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.53] 
+[geo-lat::53.87] 
+[name::Neuenbrock] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Neuenbrock
-coordinates: [[Neuenbrock]]
-markerFile: [[Neuenbrock]]
+coordinates: [[Neuenbrock]] 
+markerFile: [[Neuenbrock]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Neuenbrock|Neuenbrock]]] 
+- [[Neuenbrock|Neuenbrock]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neuenbrock.internal|Neuenbrock.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neuenbrock.protect|Neuenbrock.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neuenbrock.private|Neuenbrock.private]] 

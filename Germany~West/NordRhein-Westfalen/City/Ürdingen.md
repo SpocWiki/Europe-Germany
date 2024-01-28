@@ -1,5 +1,5 @@
 ﻿---
-location: [51.37,6.65]
+location: [51.37,6.65] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.65]
-[geo-lat::51.37]
-[name::Ürdingen]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.65] 
+[geo-lat::51.37] 
+[name::Ürdingen] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ürdingen
-coordinates: [[Ürdingen]]
-markerFile: [[Ürdingen]]
+coordinates: [[Ürdingen]] 
+markerFile: [[Ürdingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Ürdingen|Ürdingen]]] 
+- [[Ürdingen|Ürdingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Ürdingen.internal|Ürdingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Ürdingen.protect|Ürdingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Ürdingen.private|Ürdingen.private]] 

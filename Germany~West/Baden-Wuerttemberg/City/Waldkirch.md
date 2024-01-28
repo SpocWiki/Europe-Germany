@@ -1,5 +1,5 @@
 ﻿---
-location: [48.08,7.97]
+location: [48.08,7.97] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.97]
-[geo-lat::48.08]
-[name::Waldkirch]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.97] 
+[geo-lat::48.08] 
+[name::Waldkirch] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Waldkirch
-coordinates: [[Waldkirch]]
-markerFile: [[Waldkirch]]
+coordinates: [[Waldkirch]] 
+markerFile: [[Waldkirch]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Waldkirch|Waldkirch]]] 
+- [[Waldkirch|Waldkirch]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Waldkirch.internal|Waldkirch.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Waldkirch.protect|Waldkirch.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Waldkirch.private|Waldkirch.private]] 

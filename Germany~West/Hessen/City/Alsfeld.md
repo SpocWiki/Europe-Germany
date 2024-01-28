@@ -1,5 +1,5 @@
 ﻿---
-location: [50.75,9.28]
+location: [50.75,9.28] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.28]
-[geo-lat::50.75]
-[name::Alsfeld]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.28] 
+[geo-lat::50.75] 
+[name::Alsfeld] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Alsfeld
-coordinates: [[Alsfeld]]
-markerFile: [[Alsfeld]]
+coordinates: [[Alsfeld]] 
+markerFile: [[Alsfeld]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Alsfeld|Alsfeld]]] 
+- [[Alsfeld|Alsfeld]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Alsfeld.internal|Alsfeld.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Alsfeld.protect|Alsfeld.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Alsfeld.private|Alsfeld.private]] 

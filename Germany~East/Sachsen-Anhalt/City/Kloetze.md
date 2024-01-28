@@ -1,5 +1,5 @@
 ﻿---
-location: [52.63,11.17]
+location: [52.63,11.17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.17]
-[geo-lat::52.63]
-[name::Kloetze]
-[Country::[[Germany]]]
-[State:[[Sachsen-Anhalt]]]]
-[Population::]
-[Unknown::]
+[geo-lon::11.17] 
+[geo-lat::52.63] 
+[name::Kloetze] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kloetze
-coordinates: [[Kloetze]]
-markerFile: [[Kloetze]]
+coordinates: [[Kloetze]] 
+markerFile: [[Kloetze]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

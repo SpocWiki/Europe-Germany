@@ -1,5 +1,5 @@
 ---
-location: [47.75,8.47]
+location: [47.75,8.47] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.47]
-[geo-lat::47.75]
-[name::Braeunlingen]
-[Country::[[Germany]]]
-[State:[[Baden-Wuerttemberg]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.47] 
+[geo-lat::47.75] 
+[name::Braeunlingen] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Braeunlingen
-coordinates: [[Braeunlingen]]
-markerFile: [[Braeunlingen]]
+coordinates: [[Braeunlingen]] 
+markerFile: [[Braeunlingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Braeunlingen|Braeunlingen]]] 
+- [[Braeunlingen|Braeunlingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Braeunlingen.internal|Braeunlingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Braeunlingen.protect|Braeunlingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Braeunlingen.private|Braeunlingen.private]] 

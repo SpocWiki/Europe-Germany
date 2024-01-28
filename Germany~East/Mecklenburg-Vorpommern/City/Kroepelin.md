@@ -1,5 +1,5 @@
 ﻿---
-location: [54.08,11.8]
+location: [54.08,11.8] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.8]
-[geo-lat::54.08]
-[name::Kroepelin]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.8] 
+[geo-lat::54.08] 
+[name::Kroepelin] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kroepelin
-coordinates: [[Kroepelin]]
-markerFile: [[Kroepelin]]
+coordinates: [[Kroepelin]] 
+markerFile: [[Kroepelin]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

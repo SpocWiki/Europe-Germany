@@ -1,5 +1,5 @@
 ﻿---
-location: [53.52,8.35]
+location: [53.52,8.35] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.35]
-[geo-lat::53.52]
-[name::Stollhamm]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.35] 
+[geo-lat::53.52] 
+[name::Stollhamm] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Stollhamm
-coordinates: [[Stollhamm]]
-markerFile: [[Stollhamm]]
+coordinates: [[Stollhamm]] 
+markerFile: [[Stollhamm]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Stollhamm|Stollhamm]]] 
+- [[Stollhamm|Stollhamm]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stollhamm.internal|Stollhamm.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stollhamm.protect|Stollhamm.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stollhamm.private|Stollhamm.private]] 

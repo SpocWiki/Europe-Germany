@@ -1,5 +1,5 @@
 ﻿---
-location: [49.28,8.4]
+location: [49.28,8.4] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.4]
-[geo-lat::49.28]
-[name::Heiligenstein]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.4] 
+[geo-lat::49.28] 
+[name::Heiligenstein] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Heiligenstein
-coordinates: [[Heiligenstein]]
-markerFile: [[Heiligenstein]]
+coordinates: [[Heiligenstein]] 
+markerFile: [[Heiligenstein]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Heiligenstein|Heiligenstein]]] 
+- [[Heiligenstein|Heiligenstein]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Heiligenstein.internal|Heiligenstein.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Heiligenstein.protect|Heiligenstein.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Heiligenstein.private|Heiligenstein.private]] 

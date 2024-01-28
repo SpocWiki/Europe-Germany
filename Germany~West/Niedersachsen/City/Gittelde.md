@@ -1,5 +1,5 @@
 ﻿---
-location: [51.8,10.18]
+location: [51.8,10.18] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.18]
-[geo-lat::51.8]
-[name::Gittelde]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.18] 
+[geo-lat::51.8] 
+[name::Gittelde] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gittelde
-coordinates: [[Gittelde]]
-markerFile: [[Gittelde]]
+coordinates: [[Gittelde]] 
+markerFile: [[Gittelde]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Gittelde|Gittelde]]] 
+- [[Gittelde|Gittelde]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gittelde.internal|Gittelde.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gittelde.protect|Gittelde.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gittelde.private|Gittelde.private]] 

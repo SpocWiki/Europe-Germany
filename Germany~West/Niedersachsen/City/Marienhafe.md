@@ -1,5 +1,5 @@
 ﻿---
-location: [53.52,7.27]
+location: [53.52,7.27] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.27]
-[geo-lat::53.52]
-[name::Marienhafe]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.27] 
+[geo-lat::53.52] 
+[name::Marienhafe] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Marienhafe
-coordinates: [[Marienhafe]]
-markerFile: [[Marienhafe]]
+coordinates: [[Marienhafe]] 
+markerFile: [[Marienhafe]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Marienhafe|Marienhafe]]] 
+- [[Marienhafe|Marienhafe]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Marienhafe.internal|Marienhafe.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Marienhafe.protect|Marienhafe.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Marienhafe.private|Marienhafe.private]] 

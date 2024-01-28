@@ -1,5 +1,5 @@
 ﻿---
-location: [51.57,8.15]
+location: [51.57,8.15] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.15]
-[geo-lat::51.57]
-[name::Opmuenden]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.15] 
+[geo-lat::51.57] 
+[name::Opmuenden] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Opmuenden
-coordinates: [[Opmuenden]]
-markerFile: [[Opmuenden]]
+coordinates: [[Opmuenden]] 
+markerFile: [[Opmuenden]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Opmuenden|Opmuenden]]] 
+- [[Opmuenden|Opmuenden]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Opmuenden.internal|Opmuenden.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Opmuenden.protect|Opmuenden.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Opmuenden.private|Opmuenden.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [54.33,10.14]
+location: [54.33,10.14] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.14]
-[geo-lat::54.33]
-[name::Kiel]
-[Country::[[Germany]]]
-[State ::[[Schleswig-Holstein]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.14] 
+[geo-lat::54.33] 
+[name::Kiel] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kiel
-coordinates: [[Kiel]]
-markerFile: [[Kiel]]
+coordinates: [[Kiel]] 
+markerFile: [[Kiel]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kiel|Kiel]]] 
+- [[Kiel|Kiel]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kiel.internal|Kiel.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kiel.protect|Kiel.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kiel.private|Kiel.private]] 

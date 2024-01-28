@@ -1,5 +1,5 @@
 ﻿---
-location: [48.45,10.67]
+location: [48.45,10.67] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.67]
-[geo-lat::48.45]
-[name::Welden]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.67] 
+[geo-lat::48.45] 
+[name::Welden] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Welden
-coordinates: [[Welden]]
-markerFile: [[Welden]]
+coordinates: [[Welden]] 
+markerFile: [[Welden]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Welden|Welden]]] 
+- [[Welden|Welden]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Welden.internal|Welden.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Welden.protect|Welden.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Welden.private|Welden.private]] 

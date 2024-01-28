@@ -1,5 +1,5 @@
 ﻿---
-location: [54.18,12.88]
+location: [54.18,12.88] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.88]
-[geo-lat::54.18]
-[name::Franzburg]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.88] 
+[geo-lat::54.18] 
+[name::Franzburg] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Franzburg
-coordinates: [[Franzburg]]
-markerFile: [[Franzburg]]
+coordinates: [[Franzburg]] 
+markerFile: [[Franzburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

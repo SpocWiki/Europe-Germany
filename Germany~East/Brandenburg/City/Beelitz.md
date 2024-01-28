@@ -1,5 +1,5 @@
 ﻿---
-location: [52.22,12.97]
+location: [52.22,12.97] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.97]
-[geo-lat::52.22]
-[name::Beelitz]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.97] 
+[geo-lat::52.22] 
+[name::Beelitz] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Beelitz
-coordinates: [[Beelitz]]
-markerFile: [[Beelitz]]
+coordinates: [[Beelitz]] 
+markerFile: [[Beelitz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

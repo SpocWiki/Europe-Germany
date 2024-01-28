@@ -1,5 +1,5 @@
 ﻿---
-location: [49.27,12.33]
+location: [49.27,12.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.33]
-[geo-lat::49.27]
-[name::Mappach]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::12.33] 
+[geo-lat::49.27] 
+[name::Mappach] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mappach
-coordinates: [[Mappach]]
-markerFile: [[Mappach]]
+coordinates: [[Mappach]] 
+markerFile: [[Mappach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Mappach|Mappach]]] 
+- [[Mappach|Mappach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Mappach.internal|Mappach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Mappach.protect|Mappach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Mappach.private|Mappach.private]] 

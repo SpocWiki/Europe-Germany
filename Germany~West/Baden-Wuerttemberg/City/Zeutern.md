@@ -1,5 +1,5 @@
 ﻿---
-location: [49.17,8.7]
+location: [49.17,8.7] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.7]
-[geo-lat::49.17]
-[name::Zeutern]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.7] 
+[geo-lat::49.17] 
+[name::Zeutern] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Zeutern
-coordinates: [[Zeutern]]
-markerFile: [[Zeutern]]
+coordinates: [[Zeutern]] 
+markerFile: [[Zeutern]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Zeutern|Zeutern]]] 
+- [[Zeutern|Zeutern]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Zeutern.internal|Zeutern.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Zeutern.protect|Zeutern.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Zeutern.private|Zeutern.private]] 

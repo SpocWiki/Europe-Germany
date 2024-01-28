@@ -1,5 +1,5 @@
 ﻿---
-location: [48.02,8.45]
+location: [48.02,8.45] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.45]
-[geo-lat::48.02]
-[name::Fridingen]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.45] 
+[geo-lat::48.02] 
+[name::Fridingen] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Fridingen
-coordinates: [[Fridingen]]
-markerFile: [[Fridingen]]
+coordinates: [[Fridingen]] 
+markerFile: [[Fridingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Fridingen|Fridingen]]] 
+- [[Fridingen|Fridingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Fridingen.internal|Fridingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Fridingen.protect|Fridingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Fridingen.private|Fridingen.private]] 

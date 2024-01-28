@@ -1,5 +1,5 @@
 ﻿---
-location: [51.67,9.5]
+location: [51.67,9.5] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.5]
-[geo-lat::51.67]
-[name::Beyersdorf]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.5] 
+[geo-lat::51.67] 
+[name::Beyersdorf] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Beyersdorf
-coordinates: [[Beyersdorf]]
-markerFile: [[Beyersdorf]]
+coordinates: [[Beyersdorf]] 
+markerFile: [[Beyersdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Beyersdorf|Beyersdorf]]] 
+- [[Beyersdorf|Beyersdorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Beyersdorf.internal|Beyersdorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Beyersdorf.protect|Beyersdorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Beyersdorf.private|Beyersdorf.private]] 

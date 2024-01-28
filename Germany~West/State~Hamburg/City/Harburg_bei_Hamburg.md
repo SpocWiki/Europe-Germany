@@ -1,5 +1,5 @@
 ﻿---
-location: [53.47,9.98]
+location: [53.47,9.98] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.98]
-[geo-lat::53.47]
-[name::Harburg bei Hamburg]
-[Country::[[Germany]]]
-[State:[[State~Hamburg]]]]
-[Population::]
-[Unknown::]
+[geo-lon::9.98] 
+[geo-lat::53.47] 
+[name::Harburg bei Hamburg] 
+Country :: [[Germany]]  
+State :: [[State~Hamburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Harburg bei Hamburg
-coordinates: [[Harburg_bei_Hamburg]]
-markerFile: [[Harburg_bei_Hamburg]]
+coordinates: [[Harburg_bei_Hamburg]] 
+markerFile: [[Harburg_bei_Hamburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Harburg_bei_Hamburg|Harburg_bei_Hamburg]]] 
+- [[Harburg_bei_Hamburg|Harburg_bei_Hamburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Hamburg/City/Harburg_bei_Hamburg.internal|Harburg_bei_Hamburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Hamburg/City/Harburg_bei_Hamburg.protect|Harburg_bei_Hamburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Hamburg/City/Harburg_bei_Hamburg.private|Harburg_bei_Hamburg.private]] 

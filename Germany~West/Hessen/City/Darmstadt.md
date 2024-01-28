@@ -1,5 +1,5 @@
 ﻿---
-location: [49.87,8.66]
+location: [49.87,8.66] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.66]
-[geo-lat::49.87]
-[name::Darmstadt]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.66] 
+[geo-lat::49.87] 
+[name::Darmstadt] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Darmstadt
-coordinates: [[Darmstadt]]
-markerFile: [[Darmstadt]]
+coordinates: [[Darmstadt]] 
+markerFile: [[Darmstadt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Darmstadt|Darmstadt]]] 
+- [[Darmstadt|Darmstadt]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Darmstadt.internal|Darmstadt.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Darmstadt.protect|Darmstadt.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Darmstadt.private|Darmstadt.private]] 

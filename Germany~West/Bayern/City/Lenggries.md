@@ -1,5 +1,5 @@
 ﻿---
-location: [47.68,11.58]
+location: [47.68,11.58] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.58]
-[geo-lat::47.68]
-[name::Lenggries]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.58] 
+[geo-lat::47.68] 
+[name::Lenggries] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lenggries
-coordinates: [[Lenggries]]
-markerFile: [[Lenggries]]
+coordinates: [[Lenggries]] 
+markerFile: [[Lenggries]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Lenggries|Lenggries]]] 
+- [[Lenggries|Lenggries]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Lenggries.internal|Lenggries.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Lenggries.protect|Lenggries.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Lenggries.private|Lenggries.private]] 

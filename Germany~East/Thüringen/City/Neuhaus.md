@@ -1,5 +1,5 @@
 ﻿---
-location: [50.52,11.13]
+location: [50.52,11.13] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.13]
-[geo-lat::50.52]
-[name::Neuhaus]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.13] 
+[geo-lat::50.52] 
+[name::Neuhaus] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Neuhaus
-coordinates: [[Neuhaus]]
-markerFile: [[Neuhaus]]
+coordinates: [[Neuhaus]] 
+markerFile: [[Neuhaus]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

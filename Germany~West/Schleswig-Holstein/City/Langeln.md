@@ -1,5 +1,5 @@
 ﻿---
-location: [53.8,9.88]
+location: [53.8,9.88] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.88]
-[geo-lat::53.8]
-[name::Langeln]
-[Country::[[Germany]]]
-[State ::[[Schleswig-Holstein]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.88] 
+[geo-lat::53.8] 
+[name::Langeln] 
+Country :: [[Germany]]  
+State :: [[Schleswig-Holstein]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Langeln
-coordinates: [[Langeln]]
-markerFile: [[Langeln]]
+coordinates: [[Langeln]] 
+markerFile: [[Langeln]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Langeln|Langeln]]] 
+- [[Langeln|Langeln]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Langeln.internal|Langeln.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Langeln.protect|Langeln.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Langeln.private|Langeln.private]] 

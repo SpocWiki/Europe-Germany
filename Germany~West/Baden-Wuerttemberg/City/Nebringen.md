@@ -1,5 +1,5 @@
 ﻿---
-location: [48.55,8.83]
+location: [48.55,8.83] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.83]
-[geo-lat::48.55]
-[name::Nebringen]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.83] 
+[geo-lat::48.55] 
+[name::Nebringen] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Nebringen
-coordinates: [[Nebringen]]
-markerFile: [[Nebringen]]
+coordinates: [[Nebringen]] 
+markerFile: [[Nebringen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Nebringen|Nebringen]]] 
+- [[Nebringen|Nebringen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Nebringen.internal|Nebringen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Nebringen.protect|Nebringen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Nebringen.private|Nebringen.private]] 

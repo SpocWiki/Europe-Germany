@@ -1,5 +1,5 @@
 ﻿---
-location: [48.48,10.33]
+location: [48.48,10.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.33]
-[geo-lat::48.48]
-[name::Neuoffingen]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.33] 
+[geo-lat::48.48] 
+[name::Neuoffingen] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Neuoffingen
-coordinates: [[Neuoffingen]]
-markerFile: [[Neuoffingen]]
+coordinates: [[Neuoffingen]] 
+markerFile: [[Neuoffingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Neuoffingen|Neuoffingen]]] 
+- [[Neuoffingen|Neuoffingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Neuoffingen.internal|Neuoffingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Neuoffingen.protect|Neuoffingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Neuoffingen.private|Neuoffingen.private]] 

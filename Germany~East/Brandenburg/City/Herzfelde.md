@@ -1,5 +1,5 @@
 ﻿---
-location: [52.48,13.85]
+location: [52.48,13.85] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.85]
-[geo-lat::52.48]
-[name::Herzfelde]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.85] 
+[geo-lat::52.48] 
+[name::Herzfelde] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Herzfelde
-coordinates: [[Herzfelde]]
-markerFile: [[Herzfelde]]
+coordinates: [[Herzfelde]] 
+markerFile: [[Herzfelde]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [51.27,8.87]
+location: [51.27,8.87] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.87]
-[geo-lat::51.27]
-[name::Korbach]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.87] 
+[geo-lat::51.27] 
+[name::Korbach] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Korbach
-coordinates: [[Korbach]]
-markerFile: [[Korbach]]
+coordinates: [[Korbach]] 
+markerFile: [[Korbach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Korbach|Korbach]]] 
+- [[Korbach|Korbach]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Korbach.internal|Korbach.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Korbach.protect|Korbach.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Korbach.private|Korbach.private]] 

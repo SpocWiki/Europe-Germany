@@ -1,5 +1,5 @@
 ﻿---
-location: [47.82,7.75]
+location: [47.82,7.75] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.75]
-[geo-lat::47.82]
-[name::Belchenberg]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.75] 
+[geo-lat::47.82] 
+[name::Belchenberg] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Belchenberg
-coordinates: [[Belchenberg]]
-markerFile: [[Belchenberg]]
+coordinates: [[Belchenberg]] 
+markerFile: [[Belchenberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Belchenberg|Belchenberg]]] 
+- [[Belchenberg|Belchenberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Belchenberg.internal|Belchenberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Belchenberg.protect|Belchenberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Belchenberg.private|Belchenberg.private]] 

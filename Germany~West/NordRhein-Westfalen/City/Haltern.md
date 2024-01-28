@@ -1,5 +1,5 @@
 ﻿---
-location: [51.75,7.18]
+location: [51.75,7.18] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.18]
-[geo-lat::51.75]
-[name::Haltern]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.18] 
+[geo-lat::51.75] 
+[name::Haltern] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Haltern
-coordinates: [[Haltern]]
-markerFile: [[Haltern]]
+coordinates: [[Haltern]] 
+markerFile: [[Haltern]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Haltern|Haltern]]] 
+- [[Haltern|Haltern]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Haltern.internal|Haltern.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Haltern.protect|Haltern.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Haltern.private|Haltern.private]] 

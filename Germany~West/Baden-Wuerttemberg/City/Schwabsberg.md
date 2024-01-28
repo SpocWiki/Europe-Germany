@@ -1,5 +1,5 @@
 ﻿---
-location: [48.93,10.15]
+location: [48.93,10.15] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.15]
-[geo-lat::48.93]
-[name::Schwabsberg]
-[Country::[[Germany]]]
-[State[[Baden-Wuerttemberg]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::10.15] 
+[geo-lat::48.93] 
+[name::Schwabsberg] 
+Country :: [[Germany]]  
+State :: [[Baden-Wuerttemberg]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schwabsberg
-coordinates: [[Schwabsberg]]
-markerFile: [[Schwabsberg]]
+coordinates: [[Schwabsberg]] 
+markerFile: [[Schwabsberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Schwabsberg|Schwabsberg]]] 
+- [[Schwabsberg|Schwabsberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwabsberg.internal|Schwabsberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwabsberg.protect|Schwabsberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwabsberg.private|Schwabsberg.private]] 

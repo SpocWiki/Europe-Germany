@@ -1,5 +1,5 @@
 ---
-location: [50.03521,8.614166]
+location: [50.03521,8.614166] 
 type: Station 
 mapzoom: [8,18] 
 mapmarker: train 
@@ -10,17 +10,17 @@ SpocWebEntityId: 156452
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.614166]
-[geo-lat::50.03521]
-[name::Zeppelinheim]
-[Country::[[Germany]]]
-[City:[[Frankfurt~Main]] ]
+[geo-lon::8.614166] 
+[geo-lat::50.03521] 
+[name::Zeppelinheim] 
+Country :: [[Germany]]  
+City :: [[Frankfurt~Main]] ] 
 
 
 ```leaflet
 id: S-Zeppelinheim.md
-coordinates: [[S-Zeppelinheim]]
-markerFile: [[S-Zeppelinheim]]
+coordinates: [[S-Zeppelinheim]] 
+markerFile: [[S-Zeppelinheim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

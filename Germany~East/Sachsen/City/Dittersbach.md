@@ -1,5 +1,5 @@
 ﻿---
-location: [50.93,13.1]
+location: [50.93,13.1] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.1]
-[geo-lat::50.93]
-[name::Dittersbach]
-[Country::[[Germany]]]
-[State ::[[Sachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.1] 
+[geo-lat::50.93] 
+[name::Dittersbach] 
+Country :: [[Germany]]  
+State :: [[Sachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Dittersbach
-coordinates: [[Dittersbach]]
-markerFile: [[Dittersbach]]
+coordinates: [[Dittersbach]] 
+markerFile: [[Dittersbach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

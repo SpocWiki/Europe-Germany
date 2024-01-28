@@ -1,5 +1,5 @@
 ﻿---
-location: [47.52,10.28]
+location: [47.52,10.28] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.28]
-[geo-lat::47.52]
-[name::Sonthofen]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.28] 
+[geo-lat::47.52] 
+[name::Sonthofen] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Sonthofen
-coordinates: [[Sonthofen]]
-markerFile: [[Sonthofen]]
+coordinates: [[Sonthofen]] 
+markerFile: [[Sonthofen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Sonthofen|Sonthofen]]] 
+- [[Sonthofen|Sonthofen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Sonthofen.internal|Sonthofen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Sonthofen.protect|Sonthofen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Sonthofen.private|Sonthofen.private]] 

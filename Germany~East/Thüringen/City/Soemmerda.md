@@ -1,5 +1,5 @@
 ﻿---
-location: [51.17,11.12]
+location: [51.17,11.12] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.12]
-[geo-lat::51.17]
-[name::Soemmerda]
-[Country::[[Germany]]]
-[State ::[[Thüringen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.12] 
+[geo-lat::51.17] 
+[name::Soemmerda] 
+Country :: [[Germany]]  
+State :: [[Thüringen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Soemmerda
-coordinates: [[Soemmerda]]
-markerFile: [[Soemmerda]]
+coordinates: [[Soemmerda]] 
+markerFile: [[Soemmerda]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

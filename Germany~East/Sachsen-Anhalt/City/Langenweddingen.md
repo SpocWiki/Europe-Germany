@@ -1,5 +1,5 @@
 ﻿---
-location: [52.05,11.55]
+location: [52.05,11.55] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.55]
-[geo-lat::52.05]
-[name::Langenweddingen]
-[Country::[[Germany]]]
-[State:[[Sachsen-Anhalt]]]]
-[Population::]
-[Unknown::]
+[geo-lon::11.55] 
+[geo-lat::52.05] 
+[name::Langenweddingen] 
+Country :: [[Germany]]  
+State :: [[Sachsen-Anhalt]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Langenweddingen
-coordinates: [[Langenweddingen]]
-markerFile: [[Langenweddingen]]
+coordinates: [[Langenweddingen]] 
+markerFile: [[Langenweddingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

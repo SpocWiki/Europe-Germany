@@ -1,5 +1,5 @@
 ﻿---
-location: [53.23,13.58]
+location: [53.23,13.58] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.58]
-[geo-lat::53.23]
-[name::Hassleben]
-[Country::[[Germany]]]
-[State ::[[Brandenburg]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.58] 
+[geo-lat::53.23] 
+[name::Hassleben] 
+Country :: [[Germany]]  
+State :: [[Brandenburg]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hassleben
-coordinates: [[Hassleben]]
-markerFile: [[Hassleben]]
+coordinates: [[Hassleben]] 
+markerFile: [[Hassleben]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

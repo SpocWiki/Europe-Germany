@@ -1,5 +1,5 @@
 ﻿---
-location: [49.47,8.44]
+location: [49.47,8.44] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.44]
-[geo-lat::49.47]
-[name::Ludwigshafen~Rhein]
-[Country::[[Germany]]]
-[State ::[[Rheinland-Pfalz]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::8.44] 
+[geo-lat::49.47] 
+[name::Ludwigshafen~Rhein] 
+Country :: [[Germany]]  
+State :: [[Rheinland-Pfalz]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ludwigshafen~Rhein
-coordinates: [[Ludwigshafen~Rhein]]
-markerFile: [[Ludwigshafen~Rhein]]
+coordinates: [[Ludwigshafen~Rhein]] 
+markerFile: [[Ludwigshafen~Rhein]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Ludwigshafen~Rhein|Ludwigshafen~Rhein]]] 
+- [[Ludwigshafen~Rhein|Ludwigshafen~Rhein]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ludwigshafen~Rhein.internal|Ludwigshafen~Rhein.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ludwigshafen~Rhein.protect|Ludwigshafen~Rhein.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ludwigshafen~Rhein.private|Ludwigshafen~Rhein.private]] 

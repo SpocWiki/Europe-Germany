@@ -1,5 +1,5 @@
 ﻿---
-location: [53.65,7.43]
+location: [53.65,7.43] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.43]
-[geo-lat::53.65]
-[name::Dornum]
-[Country::[[Germany]]]
-[State ::[[Niedersachsen]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::7.43] 
+[geo-lat::53.65] 
+[name::Dornum] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Dornum
-coordinates: [[Dornum]]
-markerFile: [[Dornum]]
+coordinates: [[Dornum]] 
+markerFile: [[Dornum]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Dornum|Dornum]]] 
+- [[Dornum|Dornum]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dornum.internal|Dornum.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dornum.protect|Dornum.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dornum.private|Dornum.private]] 

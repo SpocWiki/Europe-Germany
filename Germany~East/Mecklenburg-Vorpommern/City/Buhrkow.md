@@ -1,5 +1,5 @@
 ﻿---
-location: [54.65,13.3]
+location: [54.65,13.3] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.3]
-[geo-lat::54.65]
-[name::Buhrkow]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.3] 
+[geo-lat::54.65] 
+[name::Buhrkow] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Buhrkow
-coordinates: [[Buhrkow]]
-markerFile: [[Buhrkow]]
+coordinates: [[Buhrkow]] 
+markerFile: [[Buhrkow]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

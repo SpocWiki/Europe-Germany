@@ -1,5 +1,5 @@
 ---
-location: [52.68,9.9]
+location: [52.68,9.9] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.9]
-[geo-lat::52.68]
-[name::Winsen an der Aller]
-[Country::[[Germany]]]
-[State :: [[Niedersachsen]] ]
-[Population::]
-[Unknown::]
+[geo-lon::9.9] 
+[geo-lat::52.68] 
+[name::Winsen an der Aller] 
+Country :: [[Germany]]  
+State :: [[Niedersachsen]] ] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Winsen an der Aller
-coordinates: [[Winsen~Aller]]
-markerFile: [[Winsen~Aller]]
+coordinates: [[Winsen~Aller]] 
+markerFile: [[Winsen~Aller]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

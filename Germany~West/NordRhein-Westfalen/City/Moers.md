@@ -1,5 +1,5 @@
 ﻿---
-location: [51.45,6.62]
+location: [51.45,6.62] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.62]
-[geo-lat::51.45]
-[name::Moers]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::6.62] 
+[geo-lat::51.45] 
+[name::Moers] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Moers
-coordinates: [[Moers]]
-markerFile: [[Moers]]
+coordinates: [[Moers]] 
+markerFile: [[Moers]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Moers|Moers]]] 
+- [[Moers|Moers]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Moers.internal|Moers.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Moers.protect|Moers.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Moers.private|Moers.private]] 

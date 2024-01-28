@@ -1,5 +1,5 @@
 ---
-location: [50.15389,8.547556]
+location: [50.15389,8.547556] 
 type: Station 
 mapzoom: [8,18] 
 mapmarker: train 
@@ -10,17 +10,17 @@ SpocWebEntityId: 156417
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.547556]
-[geo-lat::50.15389]
-[name::Niederhöchstadt]
-[Country::[[Germany]]]
-[City:[[Frankfurt~Main]] ]
+[geo-lon::8.547556] 
+[geo-lat::50.15389] 
+[name::Niederhöchstadt] 
+Country :: [[Germany]]  
+City :: [[Frankfurt~Main]] ] 
 
 
 ```leaflet
 id: S-Niederhöchstadt.md
-coordinates: [[S-Niederhöchstadt]]
-markerFile: [[S-Niederhöchstadt]]
+coordinates: [[S-Niederhöchstadt]] 
+markerFile: [[S-Niederhöchstadt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

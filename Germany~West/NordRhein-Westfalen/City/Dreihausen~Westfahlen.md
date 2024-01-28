@@ -1,5 +1,5 @@
 ﻿---
-location: [51.53,7.83]
+location: [51.53,7.83] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.83]
-[geo-lat::51.53]
-[name::Dreihausen~Westfahlen]
-[Country::[[Germany]]]
-[State::[[NordRhein-Westfahlen]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.83] 
+[geo-lat::51.53] 
+[name::Dreihausen~Westfahlen] 
+Country :: [[Germany]]  
+State :: [[NordRhein-Westfahlen]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Dreihausen~Westfahlen
-coordinates: [[Dreihausen~Westfahlen]]
-markerFile: [[Dreihausen~Westfahlen]]
+coordinates: [[Dreihausen~Westfahlen]] 
+markerFile: [[Dreihausen~Westfahlen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Dreihausen~Westfahlen|Dreihausen~Westfahlen]]] 
+- [[Dreihausen~Westfahlen|Dreihausen~Westfahlen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Dreihausen~Westfahlen.internal|Dreihausen~Westfahlen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Dreihausen~Westfahlen.protect|Dreihausen~Westfahlen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Dreihausen~Westfahlen.private|Dreihausen~Westfahlen.private]] 

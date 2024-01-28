@@ -1,5 +1,5 @@
 ﻿---
-location: [50.73,8.23]
+location: [50.73,8.23] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.23]
-[geo-lat::50.73]
-[name::Kornberg]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::8.23] 
+[geo-lat::50.73] 
+[name::Kornberg] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kornberg
-coordinates: [[Kornberg]]
-markerFile: [[Kornberg]]
+coordinates: [[Kornberg]] 
+markerFile: [[Kornberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Kornberg|Kornberg]]] 
+- [[Kornberg|Kornberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Kornberg.internal|Kornberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Kornberg.protect|Kornberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Kornberg.private|Kornberg.private]] 

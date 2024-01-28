@@ -1,5 +1,5 @@
 ﻿---
-location: [48.75,10.5]
+location: [48.75,10.5] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.5]
-[geo-lat::48.75]
-[name::Bollstadt]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::10.5] 
+[geo-lat::48.75] 
+[name::Bollstadt] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Bollstadt
-coordinates: [[Bollstadt]]
-markerFile: [[Bollstadt]]
+coordinates: [[Bollstadt]] 
+markerFile: [[Bollstadt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Bollstadt|Bollstadt]]] 
+- [[Bollstadt|Bollstadt]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bollstadt.internal|Bollstadt.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bollstadt.protect|Bollstadt.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bollstadt.private|Bollstadt.private]] 

@@ -1,5 +1,5 @@
 ﻿---
-location: [53.42,11.75]
+location: [53.42,11.75] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,19 +12,19 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.75]
-[geo-lat::53.42]
-[name::Spornitz]
-[Country::[[Germany]]]
-[State ::[[Mecklenburg-Vorpommern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::11.75] 
+[geo-lat::53.42] 
+[name::Spornitz] 
+Country :: [[Germany]]  
+State :: [[Mecklenburg-Vorpommern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Spornitz
-coordinates: [[Spornitz]]
-markerFile: [[Spornitz]]
+coordinates: [[Spornitz]] 
+markerFile: [[Spornitz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

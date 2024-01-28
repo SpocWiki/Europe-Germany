@@ -1,5 +1,5 @@
 ﻿---
-location: [48.43,13.35]
+location: [48.43,13.35] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.35]
-[geo-lat::48.43]
-[name::Ruhstorf]
-[Country::[[Germany]]]
-[State ::[[Bayern]]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.35] 
+[geo-lat::48.43] 
+[name::Ruhstorf] 
+Country :: [[Germany]]  
+State :: [[Bayern]]  
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ruhstorf
-coordinates: [[Ruhstorf]]
-markerFile: [[Ruhstorf]]
+coordinates: [[Ruhstorf]] 
+markerFile: [[Ruhstorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Ruhstorf|Ruhstorf]]] 
+- [[Ruhstorf|Ruhstorf]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Ruhstorf.internal|Ruhstorf.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Ruhstorf.protect|Ruhstorf.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Ruhstorf.private|Ruhstorf.private]] 

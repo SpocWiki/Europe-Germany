@@ -1,5 +1,5 @@
 ﻿---
-location: [50.05,7.82]
+location: [50.05,7.82] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.82]
-[geo-lat::50.05]
-[name::Lorch~Rhein]
-[Country::[[Germany]]]
-[State[[Hessen]]]]]
-[Population::]
-[Unknown::]
+[geo-lon::7.82] 
+[geo-lat::50.05] 
+[name::Lorch~Rhein] 
+Country :: [[Germany]]  
+State :: [[Hessen]] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lorch~Rhein
-coordinates: [[Lorch~Rhein]]
-markerFile: [[Lorch~Rhein]]
+coordinates: [[Lorch~Rhein]] 
+markerFile: [[Lorch~Rhein]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Lorch~Rhein|Lorch~Rhein]]] 
+- [[Lorch~Rhein|Lorch~Rhein]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Lorch~Rhein.internal|Lorch~Rhein.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Lorch~Rhein.protect|Lorch~Rhein.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Lorch~Rhein.private|Lorch~Rhein.private]] 
