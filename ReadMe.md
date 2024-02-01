@@ -38,6 +38,10 @@ publishDate:
 expiryDate: 
 ---
 
+# Germany 
+
+Check out this Repository into this Subfolder: 
+\_Standards\geo\Continent\Europe\Europe~Central\Germany 
 
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
