@@ -38,6 +38,10 @@ publishDate:
 expiryDate: 
 ---
 
+# Germany 
+
+Check out this Repository into this Subfolder: 
+\_Standards\geo\Continent\Europe\Europe~Central\Germany 
 
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
@@ -96,10 +100,10 @@ Sub-region_Name ::  [[Western Europe]]
 [	M49	 :: 276 ] 
 
 [	is_independent	 :: Yes ] 
-[	Developed_/_Developing_Countries	 :: Developed ] 
-[	Land_Locked_Developing_Countries_(LLDC)	 ::  ] 
-[	Least_Developed_Countries_(LDC)	 ::  ] 
-[	Small_Island_Developing_States_(SIDS)	 ::  ] 
+[	Developed_/Developing_Countries	 :: Developed ] 
+[	Land_Locked_Developing_Countries	 ::  ] 
+[	Least_Developed_Countries	 ::  ] 
+[	Small_Island_Developing_States	 ::  ] 
 
 [	ISO3166-1-numeric	 :: 276 ] 
 
