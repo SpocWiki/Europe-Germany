@@ -9,12 +9,13 @@ tags:
 - geo/State
 
 ---
+
+# [[Niedersachsen]] 
+
 [name::Niedersachsen] 
 [name-abbr::NS] 
 
-![[Coat_of_arms_of_Niedersachsen.svg|350]] 
-
-![[Flag_of_Lower_Saxony.svg|350]] 
+## #has_/map 
 
 ```leaflet
 id: Niedersachsen
@@ -30,6 +31,11 @@ Capital ::  [[Hannover]] ]
 [geo-lon::9.02868] 
 [geo-lat::52.7796] 
 [Population::] 
+
+
+![[Coat_of_arms_of_Niedersachsen.svg|350]] 
+
+![[Flag_of_Lower_Saxony.svg|350]] 
 
 
 

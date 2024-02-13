@@ -11,10 +11,7 @@ tags:
 [name::Baden-Wuerttemberg] 
 [name-abbr::BW] 
 
-![[Coat_of_arms_of_Baden-Württemberg.svg|350]] 
-
-![[Flag_of_Baden-Württemberg.svg|350]] 
-
+## #has_/map 
 
 ```leaflet
 id: Baden-Wuerttemberg
@@ -26,11 +23,14 @@ markerFolder: ./Baden-Wuerttemberg/
 ```
 
 Country :: [[Germany]]  
-Capital :: [[Stuttgart]]  
+Capital :: [[Baden-Wuerttemberg/Stuttgart]]  
 [geo-lon::8.97421] 
 [geo-lat::48.5647] 
 [Population::] 
 
+![[Coat_of_arms_of_Baden-Württemberg.svg|350]] 
+
+![[Flag_of_Baden-Württemberg.svg|350]] 
 
 
 ## Confidential Links & Embeds: 
