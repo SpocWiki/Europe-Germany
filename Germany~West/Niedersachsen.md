@@ -22,8 +22,8 @@ id: Niedersachsen
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Niedersachsen/
-markerFolder: ./Niedersachsen/
+geojsonFolder: ./Niedersachsen///
+markerFolder: ./Niedersachsen///
 ```
 
 Country :: [[Germany]]  
