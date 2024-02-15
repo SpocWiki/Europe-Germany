@@ -27,7 +27,7 @@ markerFolder: ./Niedersachsen///
 ```
 
 Country :: [[Germany]]  
-Capital ::  [[Hannover]] ] 
+Capital ::  [[Niedersachsen/counties~Niedersachsen/RegionHannover/cities~RegionHannover/Hannover/boroughs~Hannover/Hannover]] ] 
 [geo-lon::9.02868] 
 [geo-lat::52.7796] 
 [Population::] 
