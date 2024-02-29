@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.10773] 
 [name::Hauptbahnhof] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

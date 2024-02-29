@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.87778] 
 [name::Groß-Gerau-Dornheim] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

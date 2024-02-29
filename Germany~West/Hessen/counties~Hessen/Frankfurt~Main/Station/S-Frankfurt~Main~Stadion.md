@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.06805] 
 [name::S-Bahn, Frankfurt am Main, Stadion] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

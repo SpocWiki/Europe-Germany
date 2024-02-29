@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.15389] 
 [name::Niederhöchstadt] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

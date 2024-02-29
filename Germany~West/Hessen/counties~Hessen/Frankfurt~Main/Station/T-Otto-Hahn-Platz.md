@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.10174] 
 [name::Otto-Hahn-Platz] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

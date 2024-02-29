@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.10157] 
 [name::Rebstöcker Straße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

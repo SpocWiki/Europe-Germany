@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.995] 
 [name::Rüsselsheim Opelwerk] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

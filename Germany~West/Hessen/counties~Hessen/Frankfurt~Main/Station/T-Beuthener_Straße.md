@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.09097] 
 [name::Beuthener Straße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

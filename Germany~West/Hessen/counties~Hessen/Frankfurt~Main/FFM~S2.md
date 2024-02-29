@@ -29,7 +29,7 @@ expiryDate:
 
 # FFM~S2
 
-S-Bahn in[[Frankfurt~Main]]  
+S-Bahn i[[../Frankfurt~Main]]]  
 
 # Stations: 
 1)[[S-Niedernhausen]]  

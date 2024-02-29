@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.33528] 
 [name::Friedberg~Hess] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.17222] 
 [name::Frankfurt-Berkersheim] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

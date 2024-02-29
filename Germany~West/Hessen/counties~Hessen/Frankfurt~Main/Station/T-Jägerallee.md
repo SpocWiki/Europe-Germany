@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.10017] 
 [name::Jägerallee] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

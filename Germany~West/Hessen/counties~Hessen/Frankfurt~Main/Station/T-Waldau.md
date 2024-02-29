@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.07677] 
 [name::Waldau] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

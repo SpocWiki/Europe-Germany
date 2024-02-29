@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.09955] 
 [name::Stresemannallee/Gartenstraße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

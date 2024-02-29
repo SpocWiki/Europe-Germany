@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.99441] 
 [name::Mainz-Gustavsburg] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

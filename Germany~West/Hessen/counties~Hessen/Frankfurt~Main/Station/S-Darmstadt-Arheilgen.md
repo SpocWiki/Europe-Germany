@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.91083] 
 [name::Darmstadt-Arheilgen] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

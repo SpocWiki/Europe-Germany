@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.10389] 
 [name::Frankfurt~Main Galluswarte] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

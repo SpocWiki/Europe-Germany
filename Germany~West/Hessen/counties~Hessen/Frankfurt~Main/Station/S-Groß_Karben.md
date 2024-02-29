@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.23755] 
 [name::Groß Karben] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

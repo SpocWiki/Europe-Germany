@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.11137] 
 [name::Ostbahnhof/Honsellstraße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

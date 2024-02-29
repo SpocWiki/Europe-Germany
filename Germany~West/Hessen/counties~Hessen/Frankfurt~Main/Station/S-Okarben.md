@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.25159] 
 [name::Okarben] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

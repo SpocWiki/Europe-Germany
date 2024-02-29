@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.0863] 
 [name::Triftstraße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

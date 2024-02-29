@@ -20,7 +20,7 @@ confidential: public
 [geo-lat::50.10189] 
 [name::Offenbach Stadtgrenze] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

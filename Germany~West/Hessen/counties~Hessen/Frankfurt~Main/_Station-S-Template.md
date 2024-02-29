@@ -22,7 +22,7 @@ StationSId: {{Id}}
 [geo-lat::{{GeoLat}}] 
 [name::{{Bahnhof}}] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]]  
+City :: [[../Frankfurt~Main]]  
 
 ```leaflet
 id: S-Waldschmidtstraße.md

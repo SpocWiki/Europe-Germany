@@ -9,7 +9,7 @@ id: cities~Uelzen
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./cities~Uelzen//
+geojsonFolder: ./cities~Uelzen///
 markerFolder: ./cities~Uelzen/
 ```
 

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.09731] 
 [name::Vogelweidstraße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

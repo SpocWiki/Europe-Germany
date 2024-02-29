@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.14243] 
 [name::Bad Soden~Taunus] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

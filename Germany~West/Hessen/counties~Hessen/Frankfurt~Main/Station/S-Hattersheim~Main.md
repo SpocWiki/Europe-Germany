@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.06972] 
 [name::Hattersheim~Main] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

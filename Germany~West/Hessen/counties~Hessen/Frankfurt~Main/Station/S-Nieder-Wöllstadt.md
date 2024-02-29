@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.28722] 
 [name::Nieder-Wöllstadt] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

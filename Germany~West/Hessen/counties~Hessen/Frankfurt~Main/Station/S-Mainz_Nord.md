@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.01944] 
 [name::Mainz Nord] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

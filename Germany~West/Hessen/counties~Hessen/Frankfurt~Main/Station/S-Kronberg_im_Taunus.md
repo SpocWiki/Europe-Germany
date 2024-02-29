@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.18] 
 [name::Kronberg im Taunus] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

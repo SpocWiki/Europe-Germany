@@ -29,7 +29,7 @@ expiryDate:
 
 # FFM~S5
 
-S-Bahn in[[Frankfurt~Main]]  
+S-Bahn in[[../Frankfurt~Main]]  
 
 # Stations:
 1)[[S-Friedrichsdorf~Taunus]]  

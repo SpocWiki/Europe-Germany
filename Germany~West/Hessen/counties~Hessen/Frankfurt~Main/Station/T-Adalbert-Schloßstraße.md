@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.11899] 
 [name::Adalbert-/Schloßstraße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.10037] 
 [name::Mönchhofstraße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

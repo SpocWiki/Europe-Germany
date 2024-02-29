@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.00523] 
 [name::Langen-Flugsicherung] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

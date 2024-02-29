@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.08323] 
 [name::Rennbahn] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.07645] 
 [name::Kiesschneise] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

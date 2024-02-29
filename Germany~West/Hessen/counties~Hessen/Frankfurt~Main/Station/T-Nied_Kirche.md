@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.09824] 
 [name::Nied Kirche] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

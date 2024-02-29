@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.10435] 
 [name::Pforzheimer Straße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

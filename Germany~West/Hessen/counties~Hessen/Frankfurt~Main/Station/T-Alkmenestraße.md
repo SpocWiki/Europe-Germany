@@ -17,7 +17,7 @@ confidential: public
 [geo-lat::50.15187] 
 [name::Alkmenestraße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 

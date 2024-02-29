@@ -29,7 +29,7 @@ expiryDate:
 
 # FFM~S3
 
-S-Bahn in[[Frankfurt~Main]]  
+S-Bahn i[[../Frankfurt~Main]]]  
 
 # Stationen:
 1)[[S-Bad_Soden~Taunus]]  

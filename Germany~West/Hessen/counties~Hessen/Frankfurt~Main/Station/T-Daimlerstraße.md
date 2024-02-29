@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.12235] 
 [name::Daimlerstraße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.22924] 
 [name::Bad Homburg] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

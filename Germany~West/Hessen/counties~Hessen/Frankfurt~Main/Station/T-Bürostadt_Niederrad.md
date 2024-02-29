@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.07814] 
 [name::Bürostadt Niederrad] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

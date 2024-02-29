@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.13306] 
 [name::Sulzbach~Taunus Nord] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

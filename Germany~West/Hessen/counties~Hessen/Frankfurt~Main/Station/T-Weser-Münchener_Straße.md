@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.1079] 
 [name::Weser-/Münchener Straße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

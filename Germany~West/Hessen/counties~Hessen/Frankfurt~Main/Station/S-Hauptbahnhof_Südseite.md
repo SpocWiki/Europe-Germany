@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.10567] 
 [name::Hauptbahnhof Südseite] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

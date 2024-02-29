@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.18569] 
 [name::Oberursel-Stierstadt] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

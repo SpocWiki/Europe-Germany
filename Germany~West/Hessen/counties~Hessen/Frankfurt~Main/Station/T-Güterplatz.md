@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.10781] 
 [name::Güterplatz] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

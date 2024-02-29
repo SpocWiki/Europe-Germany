@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.07083] 
 [name::Wiesbaden Hbf] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

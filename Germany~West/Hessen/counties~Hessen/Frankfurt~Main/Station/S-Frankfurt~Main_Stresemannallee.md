@@ -17,7 +17,7 @@ confidential: public
 [geo-lat::50.09139] 
 [name::Frankfurt~Main Stresemannallee] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

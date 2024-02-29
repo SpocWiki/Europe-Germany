@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.11374] 
 [name::Rebstockbad] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

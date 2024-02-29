@@ -10,7 +10,7 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 defaultZoom: 11
-geojsonFolder: ./Uelzen//
+geojsonFolder: ./Uelzen/
 markerFolder: ./Uelzen/
 ```
 

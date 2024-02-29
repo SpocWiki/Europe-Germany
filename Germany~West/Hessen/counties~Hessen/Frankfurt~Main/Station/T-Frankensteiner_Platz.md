@@ -17,7 +17,7 @@ confidential: public
 [geo-lat::50.1069] 
 [name::Frankensteiner Platz] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.08419] 
 [name::Louisa Bahnhof] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

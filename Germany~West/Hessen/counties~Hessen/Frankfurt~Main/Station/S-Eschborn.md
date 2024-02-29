@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.14375] 
 [name::Eschborn] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.00134] 
 [name::Walldorf] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 Ich habe jetzt auch ein gutes Stück 
 ```leaflet

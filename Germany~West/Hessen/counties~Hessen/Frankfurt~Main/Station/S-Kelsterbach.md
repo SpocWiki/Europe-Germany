@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.06882] 
 [name::Kelsterbach] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

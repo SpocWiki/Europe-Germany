@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.1014] 
 [name::Brücken-/Textorstraße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

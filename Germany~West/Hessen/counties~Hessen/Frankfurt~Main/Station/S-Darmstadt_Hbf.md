@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.8725] 
 [name::Darmstadt Hbf] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

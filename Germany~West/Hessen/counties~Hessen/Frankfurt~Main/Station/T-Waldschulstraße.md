@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.10028] 
 [name::Waldschulstraße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

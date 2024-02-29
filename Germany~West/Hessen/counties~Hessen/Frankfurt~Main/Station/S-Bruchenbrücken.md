@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.30264] 
 [name::Bruchenbrücken] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

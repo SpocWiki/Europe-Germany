@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.0013] 
 [name::Mainz Hbf] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

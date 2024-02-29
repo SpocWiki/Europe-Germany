@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.10236] 
 [name::Schwalbacher Straße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

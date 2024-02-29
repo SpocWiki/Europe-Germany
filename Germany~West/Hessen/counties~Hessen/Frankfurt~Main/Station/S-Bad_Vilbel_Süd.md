@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.1787] 
 [name::Bad Vilbel Süd] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

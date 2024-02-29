@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.95333] 
 [name::Erzhausen] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.05944] 
 [name::Neu-Isenburg Stadtgrenze] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

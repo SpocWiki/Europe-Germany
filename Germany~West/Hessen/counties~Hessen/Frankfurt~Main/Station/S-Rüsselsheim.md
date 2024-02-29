@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.99164] 
 [name::Rüsselsheim] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

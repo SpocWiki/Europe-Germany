@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.11089] 
 [name::Hohenstaufenstraße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

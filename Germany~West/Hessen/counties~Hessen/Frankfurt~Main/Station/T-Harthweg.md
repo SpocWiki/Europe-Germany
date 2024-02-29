@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.08102] 
 [name::Harthweg] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

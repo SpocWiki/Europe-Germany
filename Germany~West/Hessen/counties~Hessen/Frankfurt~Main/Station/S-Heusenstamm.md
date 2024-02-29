@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.05958] 
 [name::Heusenstamm] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

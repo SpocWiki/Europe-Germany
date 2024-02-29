@@ -17,7 +17,7 @@ confidential: public
 [geo-lat::50.12748] 
 [name::Rohrbachstr./Friedberger Ldstr.] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.12064] 
 [name::Bockenheimer Warte] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

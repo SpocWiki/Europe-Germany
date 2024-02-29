@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.11917] 
 [name::Frankfurt~Main West] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

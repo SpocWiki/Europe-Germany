@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.97702] 
 [name::Rödermark-Ober Roden] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

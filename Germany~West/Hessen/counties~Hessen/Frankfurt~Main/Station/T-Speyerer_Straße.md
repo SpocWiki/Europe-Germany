@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.10542] 
 [name::Speyerer Straße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

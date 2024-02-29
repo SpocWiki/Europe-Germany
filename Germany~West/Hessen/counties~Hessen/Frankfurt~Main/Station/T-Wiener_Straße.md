@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.10036] 
 [name::Wiener Straße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 Tram Station 
 

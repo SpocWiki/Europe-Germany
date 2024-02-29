@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.09053] 
 [name::Offenbach-Bieber] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

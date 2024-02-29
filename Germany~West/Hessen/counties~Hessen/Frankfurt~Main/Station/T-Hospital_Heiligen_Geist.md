@@ -17,7 +17,7 @@ confidential: public
 [geo-lat::50.11099] 
 [name::Hospital Heiligen Geist] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

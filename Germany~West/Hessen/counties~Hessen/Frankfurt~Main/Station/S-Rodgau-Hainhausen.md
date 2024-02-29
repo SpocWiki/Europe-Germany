@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.04322] 
 [name::Rodgau-Hainhausen] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

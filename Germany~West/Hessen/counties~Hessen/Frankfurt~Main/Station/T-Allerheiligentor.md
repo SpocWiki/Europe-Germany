@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.11329] 
 [name::Allerheiligentor] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

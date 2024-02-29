@@ -17,7 +17,7 @@ confidential: public
 [geo-lat::50.10347] 
 [name::Heister-/Seehofstraße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

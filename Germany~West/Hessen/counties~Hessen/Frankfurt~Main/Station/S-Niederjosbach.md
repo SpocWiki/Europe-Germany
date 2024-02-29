@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.15355] 
 [name::Niederjosbach] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

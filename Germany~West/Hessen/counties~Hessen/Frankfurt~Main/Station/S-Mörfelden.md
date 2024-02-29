@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::49.979] 
 [name::Mörfelden] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

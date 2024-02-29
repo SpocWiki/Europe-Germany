@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.11742] 
 [name::Riederhöfe] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

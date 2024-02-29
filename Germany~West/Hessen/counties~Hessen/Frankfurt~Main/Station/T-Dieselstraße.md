@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.12413] 
 [name::Dieselstraße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

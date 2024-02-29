@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.12001] 
 [name::Habsburger-/Wittelsbacherallee] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

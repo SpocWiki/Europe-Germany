@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.07936] 
 [name::Oberforsthaus] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

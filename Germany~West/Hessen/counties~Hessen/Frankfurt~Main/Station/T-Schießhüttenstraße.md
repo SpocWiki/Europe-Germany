@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.12149] 
 [name::Schießhüttenstraße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

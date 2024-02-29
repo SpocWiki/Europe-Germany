@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.10258] 
 [name::Textorstraße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.12139] 
 [name::Steinheim~Main] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

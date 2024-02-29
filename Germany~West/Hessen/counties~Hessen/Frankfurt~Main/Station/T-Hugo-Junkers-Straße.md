@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.1272] 
 [name::Hugo-Junkers-Straße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

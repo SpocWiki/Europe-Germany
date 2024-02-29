@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.05194] 
 [name::Frankfurt-Flughafen] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

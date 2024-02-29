@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.07689] 
 [name::Waldfriedhof Goldstein] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

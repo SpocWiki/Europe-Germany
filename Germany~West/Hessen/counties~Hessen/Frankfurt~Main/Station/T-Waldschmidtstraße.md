@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.11817] 
 [name::S-Bahn Waldschmidtstraße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

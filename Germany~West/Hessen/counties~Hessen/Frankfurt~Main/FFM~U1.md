@@ -29,7 +29,7 @@ expiryDate:
 
 # FFM~U1
 
-U-Bahn in[[Frankfurt~Main]]  
+U-Bahn i[[../Frankfurt~Main]]]  
 
 
 ```leaflet

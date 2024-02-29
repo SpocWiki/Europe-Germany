@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.11195] 
 [name::Frankfurt am Main Messe] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

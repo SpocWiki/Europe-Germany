@@ -7,11 +7,11 @@
 
 ```leaflet
 id: counties~Niedersachsen
+geojsonFolder: ./counties~Niedersachsen/
+markerFolder: ./counties~Niedersachsen/City
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./counties~Niedersachsen///
-markerFolder: ./counties~Niedersachsen/City
 ```
 
 

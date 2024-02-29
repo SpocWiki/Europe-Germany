@@ -19,7 +19,7 @@ confidential: public
 [geo-lat::50.10014] 
 [name::Bleiweißstraße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

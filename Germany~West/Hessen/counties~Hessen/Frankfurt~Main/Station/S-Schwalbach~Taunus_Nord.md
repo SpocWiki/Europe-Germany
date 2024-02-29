@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.15986] 
 [name::Schwalbach~Taunus Nord] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

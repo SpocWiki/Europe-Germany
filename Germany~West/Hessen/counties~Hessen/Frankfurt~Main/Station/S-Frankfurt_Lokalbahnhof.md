@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.10305] 
 [name::Frankfurt Lokalbahnhof] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

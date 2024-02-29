@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.24353] 
 [name::Seulberg] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

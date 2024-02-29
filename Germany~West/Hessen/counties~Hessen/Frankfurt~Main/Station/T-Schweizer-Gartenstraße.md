@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.10333] 
 [name::Schweizer-/Gartenstraße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

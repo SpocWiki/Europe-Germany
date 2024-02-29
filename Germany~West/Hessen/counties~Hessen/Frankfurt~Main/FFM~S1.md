@@ -29,7 +29,7 @@ expiryDate:
 
 # FFM~S1
 
-S-Bahn in[[Frankfurt~Main]]  
+S-Bahn in[[../Frankfurt~Main]]  
 
 # Stations
 1)[[S-Wiesbaden_Hbf]]  

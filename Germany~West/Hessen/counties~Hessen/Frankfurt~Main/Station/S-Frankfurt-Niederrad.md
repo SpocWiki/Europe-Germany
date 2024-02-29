@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.08833] 
 [name::Frankfurt-Niederrad] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.13662] 
 [name::Markus-Krankenhaus] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

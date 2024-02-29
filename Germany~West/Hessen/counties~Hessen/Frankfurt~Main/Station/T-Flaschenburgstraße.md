@@ -19,7 +19,7 @@ confidential: public
 [geo-lat::50.10045] 
 [name::Flaschenburgstraße] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet

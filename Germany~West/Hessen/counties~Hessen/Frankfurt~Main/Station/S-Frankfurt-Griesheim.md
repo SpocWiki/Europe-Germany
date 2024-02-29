@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::50.09417] 
 [name::Frankfurt-Griesheim] 
 Country :: [[Germany]]  
-City :: [[Frankfurt~Main]] ] 
+City :: [[../../Frankfurt~Main]] ] 
 
 
 ```leaflet
