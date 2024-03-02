@@ -43,8 +43,15 @@ expiryDate:
 Check out this Repository into this Subfolder: 
 \_Standards\geo\Continent\Europe\Europe~Central\Germany 
 
-> Caution: this is a very deep folder Structure! 
+> Caution: this is a very deep folder Structure with up to 170 Characters! 
 > Make sure to check it out into a shallow Location on Windows! 
+> 
+> If you see a chance to reduce this Depth, create an Issue and discuss first, because any Change may break Links! 
+> Constraints to consider when refactoring: 
+> - Every Folder Name should be unique, also the grouping-Folders, so you can link to it without specifying the relative Path 
+> - all Link-Paths should be relative. Wiki-Links are possible, but only when the Target-Folders or Files have unique Names. 
+> - Between each Level and its Sub-Levels there should be a grouping Folder, to allow adding other Lists. 
+>   - e.g. a City's boroughs should NOT be directly in the City Folder, but in a Sub-Folder named `City~boroughs` 
 
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
