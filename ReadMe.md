@@ -43,6 +43,9 @@ expiryDate:
 Check out this Repository into this Subfolder: 
 \_Standards\geo\Continent\Europe\Europe~Central\Germany 
 
+> Caution: this is a very deep folder Structure! 
+> Make sure to check it out into a shallow Location on Windows! 
+
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ] 
