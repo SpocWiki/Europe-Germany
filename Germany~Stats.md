@@ -1,7 +1,8 @@
 # Germany~Stats
 
 ## 2023
-### Food Waste
+### Food Waste 2023 
+
 | Source     | Tons |
 | ---------- | ---- |
 | Household  | 6.5  |
