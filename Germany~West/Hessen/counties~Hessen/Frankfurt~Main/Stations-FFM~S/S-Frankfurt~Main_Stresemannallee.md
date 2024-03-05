@@ -7,7 +7,7 @@ tags:
 - geo/station/train
 ---
 
-[[T-Frankfurt~Main_Stresemannallee]] is directly below it. 
+[[../Stations-FFM~T/T-Frankfurt~Main_Stresemannallee]] is directly below it. 
 
 SpocWebEntityId: 156426
 isDeleted: false
