@@ -32,16 +32,16 @@ expiryDate:
 S-Bahn i[[../Frankfurt~Main]]]  
 
 # Stations: 
-1)[[S-Kronberg_im_Taunus]]  
-2)[[S-Kronberg_Süd]]  
-3)[[S-Niederhöchstadt]]  
-4)[[S-Eschborn]]  
-5)[[S-Eschborn_Süd]]  
-6)[[S-Frankfurt-Rödelheim]]  
-7)[[S-Frankfurt~Main_West]]  
-8)[[S-Frankfurt~Main~Messe]]  
-9)[[S-Frankfurt~Main_Galluswarte]]  
-10)[[S-Frankfurt~Main_Hbf_tief]]  
+[[Stations-FFM~S/S-Kronberg_im_Taunus]]]]  
+[[Stations-FFM~S/S-Kronberg_Süd]]]]  
+[[Stations-FFM~S/S-Niederhöchstadt]]]]  
+[[Stations-FFM~S/S-Eschborn]]]]  
+[[Stations-FFM~S/S-Eschborn_Süd]]]]  
+[[Stations-FFM~S/S-Frankfurt-Rödelheim]]]]  
+[[Stations-FFM~S/S-Frankfurt~Main_West]]]]  
+[[Stations-FFM~S/S-Frankfurt~Main~Messe]]]]  
+[[Stations-FFM~S/S-Frankfurt~Main_Galluswarte]]]]  
+1[[Stations-FFM~S/S-Frankfurt~Main_Hbf_tief]]]]  
 
 ```leaflet
 id: FFM~S4
@@ -53,23 +53,23 @@ geojsonFolder: ./FFM~S4/
 markerFolder: ./Station/
 ```
 
-11)[[S-Frankfurt_Taunusanlage]]  
-12)[[S-Frankfurt_Hauptwache]]  
-13)[[S-Frankfurt_Konstablerwache]]  
-14)[[S-Frankfurt_Ostendstraße]]  
-15)[[S-Frankfurt_Lokalbahnhof]]  
-16)[[S-Frankfurt~Main~Süd]]  
-17)[[S-Frankfurt~Main_Stresemannallee]]  
-18)[[S-Frankfurt-Louisa]]  
-19)[[S-Neu-Isenburg]]  
-20)[[S-Dreieich-Buchschlag]]  
-21)[[S-Langen-Flugsicherung]]  
-22)[[S-Langen~Hessen]]  
-23)[[S-Egelsbach]]  
-24)[[S-Erzhausen]]  
-25)[[S-Darmstadt-Wixhausen]]  
-26)[[S-Darmstadt-Arheilgen]]  
-27)[[S-Darmstadt_Hbf]]  
+1[[Stations-FFM~S/S-Frankfurt_Taunusanlage]]]]  
+1[[Stations-FFM~S/S-Frankfurt_Hauptwache]]]]  
+1[[Stations-FFM~S/S-Frankfurt_Konstablerwache]]]]  
+1[[Stations-FFM~S/S-Frankfurt_Ostendstraße]]]]  
+1[[Stations-FFM~S/S-Frankfurt_Lokalbahnhof]]]]  
+1[[Stations-FFM~S/S-Frankfurt~Main~Süd]]]]  
+1[[Stations-FFM~S/S-Frankfurt~Main_Stresemannallee]]]]  
+1[[Stations-FFM~S/S-Frankfurt-Louisa]]]]  
+1[[Stations-FFM~S/S-Neu-Isenburg]]]]  
+2[[Stations-FFM~S/S-Dreieich-Buchschlag]]]]  
+2[[Stations-FFM~S/S-Langen-Flugsicherung]]]]  
+2[[Stations-FFM~S/S-Langen~Hessen]]]]  
+2[[Stations-FFM~S/S-Egelsbach]]]]  
+2[[Stations-FFM~S/S-Erzhausen]]]]  
+2[[Stations-FFM~S/S-Darmstadt-Wixhausen]]]]  
+2[[Stations-FFM~S/S-Darmstadt-Arheilgen]]]]  
+2[[Stations-FFM~S/S-Darmstadt_Hbf]]]]  
 
 
 ## Confidential Links & Embeds: 

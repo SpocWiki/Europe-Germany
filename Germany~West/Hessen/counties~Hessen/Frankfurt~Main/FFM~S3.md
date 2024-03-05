@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 50.05278 , 8.665833 ] 
 type: geo-Region
 title: FFM~S3
@@ -32,18 +32,18 @@ expiryDate:
 S-Bahn i[[../Frankfurt~Main]]]  
 
 # Stationen:
-1)[[S-Bad_Soden~Taunus]]  
-2)[[S-Sulzbach~Taunus_Nord]]  
-3)[[S-Schwalbach~Taunus_Limes]]  
-4)[[S-Schwalbach~Taunus_Nord]]  
-5)[[S-Niederhöchstadt]]  
-6)[[S-Eschborn]]  
-7)[[S-Eschborn_Süd]]  
-8)[[S-Frankfurt-Rödelheim]]  
-9)[[S-Frankfurt~Main_West]]  
-10)[[S-Frankfurt~Main~Messe]]  
-11)[[S-Frankfurt~Main_Galluswarte]]  
-12)[[S-Frankfurt~Main_Hbf_tief]]  
+1[[Stations-FFM~S/S-Bad_Soden~Taunus]]]  
+2[[Stations-FFM~S/S-Sulzbach~Taunus_Nord]]]  
+3[[Stations-FFM~S/S-Schwalbach~Taunus_Limes]]]  
+4[[Stations-FFM~S/S-Schwalbach~Taunus_Nord]]]  
+5[[Stations-FFM~S/S-Niederhöchstadt]]]  
+6[[Stations-FFM~S/S-Eschborn]]]  
+7[[Stations-FFM~S/S-Eschborn_Süd]]]  
+8[[Stations-FFM~S/S-Frankfurt-Rödelheim]]]  
+9[[Stations-FFM~S/S-Frankfurt~Main_West]]]  
+10[[Stations-FFM~S/S-Frankfurt~Main~Messe]]]  
+11[[Stations-FFM~S/S-Frankfurt~Main_Galluswarte]]]  
+12[[Stations-FFM~S/S-Frankfurt~Main_Hbf_tief]]]  
 
 ```leaflet
 id: FFM~S3
@@ -55,23 +55,23 @@ geojsonFolder: ./FFM~S3/
 markerFolder: ./Station/
 ```
 
-13)[[S-Frankfurt_Taunusanlage]]  
-14)[[S-Frankfurt_Hauptwache]]  
-15)[[S-Frankfurt_Konstablerwache]]  
-16)[[S-Frankfurt_Ostendstraße]]  
-17)[[S-Frankfurt_Lokalbahnhof]]  
-18)[[S-Frankfurt~Main~Süd]]  
-19)[[S-Frankfurt~Main_Stresemannallee]]  
-20)[[S-Frankfurt-Louisa]]  
-21)[[S-Neu-Isenburg]]  
-22)[[S-Dreieich-Buchschlag]]  
-23)[[S-Langen-Flugsicherung]]  
-24)[[S-Langen~Hessen]]  
-25)[[S-Egelsbach]]  
-26)[[S-Erzhausen]]  
-27)[[S-Darmstadt-Wixhausen]]  
-28)[[S-Darmstadt-Arheilgen]]  
-29)[[S-Darmstadt_Hbf]]  
+13[[Stations-FFM~S/S-Frankfurt_Taunusanlage]]]  
+14[[Stations-FFM~S/S-Frankfurt_Hauptwache]]]  
+15[[Stations-FFM~S/S-Frankfurt_Konstablerwache]]]  
+16[[Stations-FFM~S/S-Frankfurt_Ostendstraße]]]  
+17[[Stations-FFM~S/S-Frankfurt_Lokalbahnhof]]]  
+18[[Stations-FFM~S/S-Frankfurt~Main~Süd]]]  
+19[[Stations-FFM~S/S-Frankfurt~Main_Stresemannallee]]]  
+20[[Stations-FFM~S/S-Frankfurt-Louisa]]]  
+21[[Stations-FFM~S/S-Neu-Isenburg]]]  
+22[[Stations-FFM~S/S-Dreieich-Buchschlag]]]  
+23[[Stations-FFM~S/S-Langen-Flugsicherung]]]  
+24[[Stations-FFM~S/S-Langen~Hessen]]]  
+25[[Stations-FFM~S/S-Egelsbach]]]  
+26[[Stations-FFM~S/S-Erzhausen]]]  
+27[[Stations-FFM~S/S-Darmstadt-Wixhausen]]]  
+28[[Stations-FFM~S/S-Darmstadt-Arheilgen]]]  
+29[[Stations-FFM~S/S-Darmstadt_Hbf]]]  
 
 
 

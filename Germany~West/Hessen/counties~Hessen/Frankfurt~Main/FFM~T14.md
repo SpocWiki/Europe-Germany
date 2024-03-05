@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 50.10258 , 8.689552 ] 
 type: geo-Region
 title: FFM~T14

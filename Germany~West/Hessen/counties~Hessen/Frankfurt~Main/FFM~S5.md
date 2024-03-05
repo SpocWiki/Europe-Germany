@@ -32,17 +32,17 @@ expiryDate:
 S-Bahn in[[../Frankfurt~Main]]  
 
 # Stations:
-1)[[S-Friedrichsdorf~Taunus]]  
-2)[[S-Seulberg]]  
-3)[[S-Bad_Homburg]]  
-4)[[S-Oberursel~Taunus]]  
-5)[[S-Oberursel-Stierstadt]]  
-6)[[S-Oberursel-Weißkirchen_Steinbach]]  
-7)[[S-Frankfurt-Rödelheim]]  
-8)[[S-Frankfurt~Main_West]]  
-9)[[S-Frankfurt~Main~Messe]]  
-10)[[S-Frankfurt~Main_Galluswarte]]  
-11)[[S-Frankfurt~Main_Hbf_tief]]  
+1)[[Stations-FFM~S/S-Friedrichsdorf~Taunus]]  
+2)[[Stations-FFM~S/S-Seulberg]]  
+3)[[Stations-FFM~S/S-Bad_Homburg]]  
+4)[[Stations-FFM~S/S-Oberursel~Taunus]]  
+5)[[Stations-FFM~S/S-Oberursel-Stierstadt]]  
+6)[[Stations-FFM~S/S-Oberursel-Weißkirchen_Steinbach]]  
+7)[[Stations-FFM~S/S-Frankfurt-Rödelheim]]  
+8)[[Stations-FFM~S/S-Frankfurt~Main_West]]  
+9)[[Stations-FFM~S/S-Frankfurt~Main~Messe]]  
+10)[[Stations-FFM~S/S-Frankfurt~Main_Galluswarte]]  
+11)[[Stations-FFM~S/S-Frankfurt~Main_Hbf_tief]]  
 
 ```leaflet
 id: FFM~S5
@@ -54,12 +54,12 @@ geojsonFolder: ./FFM~S5/
 markerFolder: ./Station/
 ```
 
-12)[[S-Frankfurt_Taunusanlage]]  
-13)[[S-Frankfurt_Hauptwache]]  
-14)[[S-Frankfurt_Konstablerwache]]  
-15)[[S-Frankfurt_Ostendstraße]]  
-16)[[S-Frankfurt_Lokalbahnhof]]  
-17)[[S-Frankfurt~Main~Süd]]  
+12)[[Stations-FFM~S/S-Frankfurt_Taunusanlage]]  
+13)[[Stations-FFM~S/S-Frankfurt_Hauptwache]]  
+14)[[Stations-FFM~S/S-Frankfurt_Konstablerwache]]  
+15)[[Stations-FFM~S/S-Frankfurt_Ostendstraße]]  
+16)[[Stations-FFM~S/S-Frankfurt_Lokalbahnhof]]  
+17)[[Stations-FFM~S/S-Frankfurt~Main~Süd]]  
 
 
 ## Confidential Links & Embeds: 
