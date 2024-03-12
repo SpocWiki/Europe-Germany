@@ -1,5 +1,5 @@
 ---
-wikidata entity id: Q1197
+has_id_wikidata: Q1197
 location: [52.7796,9.02868] 
 type: State
 SpocWebEntityId: 36019

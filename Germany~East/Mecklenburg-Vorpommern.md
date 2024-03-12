@@ -1,5 +1,5 @@
 ---
-wikidata entity id: Q1196
+has_id_wikidata: Q1196
 location: [53.7906,12.5967] 
 type: State
 ISO3166-2: DE-MV

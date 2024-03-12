@@ -1,5 +1,5 @@
 ---
-wikidata entity id: Q1201
+has_id_wikidata: Q1201
 location: [49.355,6.935] 
 type: State
 ISO3166-2: DE-SL

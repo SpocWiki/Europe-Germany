@@ -1,5 +1,5 @@
 ---
-wikidata entity id: Q1206
+has_id_wikidata: Q1206
 location: [51.8905,11.7371] 
 type: State
 ISO3166-2: DE-ST

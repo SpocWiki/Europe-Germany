@@ -1,5 +1,5 @@
 ---
-wikidata entity id: Q985
+has_id_wikidata: Q985
 inception: 1952-04-25T00:00:00Z
 budget: 60976489200
 location: [48.5647,8.97421] 

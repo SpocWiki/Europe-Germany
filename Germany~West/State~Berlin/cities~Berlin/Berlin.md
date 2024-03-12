@@ -1,5 +1,5 @@
 ---
-wikidata entity id: Q64
+has_id_wikidata: Q64
 location: [52.5,13.5] 
 mapzoom: [7,12] 
 mapmarker: city 

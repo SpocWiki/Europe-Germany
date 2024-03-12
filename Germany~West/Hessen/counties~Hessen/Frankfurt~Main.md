@@ -19,7 +19,7 @@ lang: en
 
 native label: Frankfurt am Main
 official name: Frankfurt am Main
-wikidata entity id: Q1794
+has_id_wikidata: Q1794
 German district key: "06412"
 coordinate location: Point(8.682222222 50.110555555)
 elevation above sea level: 112

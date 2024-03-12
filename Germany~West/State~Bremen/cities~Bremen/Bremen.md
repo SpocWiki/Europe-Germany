@@ -1,5 +1,5 @@
 ---
-wikidata entity id: Q1209
+has_id_wikidata: Q1209
 location: [53.08,8.81] 
 mapzoom: [7,12] 
 mapmarker: city 

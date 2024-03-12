@@ -1,5 +1,5 @@
 ---
-wikidata entity id: Q1202
+has_id_wikidata: Q1202
 location: [50.968,13.2481] 
 type: State
 ISO3166-2: DE-SN

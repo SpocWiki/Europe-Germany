@@ -1,5 +1,5 @@
 ---
-wikidata entity id: Q1200
+has_id_wikidata: Q1200
 location: [49.914,7.57652] 
 type: State
 ISO3166-2: DE-RP

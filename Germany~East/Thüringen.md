@@ -1,5 +1,5 @@
 ---
-wikidata entity id: Q1205
+has_id_wikidata: Q1205
 location: [50.8463,11.0683] 
 type: State
 ISO3166-2: DE-TH

@@ -1,5 +1,5 @@
 ---
-wikidata entity id: Q1194
+has_id_wikidata: Q1194
 location: [54.1593,9.87324] 
 type: State
 ISO3166-2: DE-SH

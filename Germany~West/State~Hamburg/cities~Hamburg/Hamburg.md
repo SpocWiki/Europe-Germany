@@ -225,7 +225,7 @@ HASC:
   - DE.HH.HM
 EU VAT number: DE118509725
 FIPS 10-4 (countries and regions): GM04
-wikidata entity id: Q1055
+has_id_wikidata: Q1055
 
 ---
 

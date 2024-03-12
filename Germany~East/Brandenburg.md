@@ -1,5 +1,5 @@
 ---
-wikidata entity id: Q1208
+has_id_wikidata: Q1208
 phone number: +49-331-8660
 location: [52.3844,13.3801] 
 type: State
