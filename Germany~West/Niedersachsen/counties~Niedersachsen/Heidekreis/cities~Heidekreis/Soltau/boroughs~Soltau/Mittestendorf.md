@@ -5,7 +5,7 @@ mapmarker: city
 type: City
 tags:
 - geo/City
-- is_a/City
+- is_a_/City
 
 
 SpocWebEntityId: 32517
