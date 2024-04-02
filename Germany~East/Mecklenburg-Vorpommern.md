@@ -112,10 +112,12 @@ geojsonFolder: ./Mecklenburg-Vorpommern/
 markerFolder: ./Mecklenburg-Vorpommern/
 ```
 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 Capital :: [[Schwerin]] ]] 
-[geo-lon::12.5967] 
-[geo-lat::53.7906] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.5967] 
+[has_place_latitude::53.7906] 
 [Population::] 
 
 

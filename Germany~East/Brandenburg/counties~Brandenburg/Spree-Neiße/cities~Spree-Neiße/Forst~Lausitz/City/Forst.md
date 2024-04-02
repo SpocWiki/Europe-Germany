@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.65] 
-[geo-lat::51.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.65] 
+[has_place_latitude::51.75] 
 [name::Forst] 
-Country :: [[Germany]]  
-State :: [[Brandenburg]] ] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Brandenburg]] ] 
 [Population::] 
 [Unknown::] 
 

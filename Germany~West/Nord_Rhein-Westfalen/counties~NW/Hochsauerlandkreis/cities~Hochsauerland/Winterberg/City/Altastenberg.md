@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.48] 
-[geo-lat::51.2] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.48] 
+[has_place_latitude::51.2] 
 [name::Altastenberg] 
-Country :: [[Germany]]  
-State :: [[NordRhein-Westfahlen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[NordRhein-Westfahlen]]  
 [Population::] 
 [Unknown::] 
 

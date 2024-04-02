@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.42] 
-[geo-lat::53.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.42] 
+[has_place_latitude::53.9] 
 [name::Mittel-Wendorf] 
-Country :: [[Germany]]  
-State :: [[Mecklenburg-Vorpommern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Mecklenburg-Vorpommern]]  
 [Population::] 
 [Unknown::] 
 

@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.35] 
-[geo-lat::53.3] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.35] 
+[has_place_latitude::53.3] 
 [name::Freyenstein] 
-Country :: [[Germany]]  
-State :: [[Mecklenburg-Vorpommern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Mecklenburg-Vorpommern]]  
 [Population::] 
 [Unknown::] 
 

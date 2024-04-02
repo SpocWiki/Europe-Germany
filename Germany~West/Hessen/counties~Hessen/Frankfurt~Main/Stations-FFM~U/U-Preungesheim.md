@@ -11,10 +11,12 @@ SpocWebEntityId: 156297
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.687869] 
-[geo-lat::50.15848] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.687869] 
+[has_place_latitude::50.15848] 
 [name::Preungesheim] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::-] 
 [switch-to-ÖPNV::27, 39, 63] 

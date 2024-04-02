@@ -11,10 +11,12 @@ SpocWebEntityId: 156256
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.675717] 
-[geo-lat::50.1218] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.675717] 
+[has_place_latitude::50.1218] 
 [name::Grüneburgweg] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::-] 
 [switch-to-ÖPNV::-] 

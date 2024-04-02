@@ -130,10 +130,12 @@ geojsonFolder: ./Schleswig-Holstein/
 markerFolder: ./Schleswig-Holstein/
 ```
 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 Capital :: [[Kiel]]  
-[geo-lon::9.87324] 
-[geo-lat::54.1593] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.87324] 
+[has_place_latitude::54.1593] 
 [Population::] 
 
 

@@ -84,11 +84,13 @@ flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Breme
 official website: https://www.bremen.de/
 
 ---
-[geo-lon::8.81] 
-[geo-lat::53.08] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.81] 
+[has_place_latitude::53.08] 
 [name::Bremen] 
-Country :: [[Germany]]  
-State :: [[State~Bremen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[State~Bremen]]  
 [Population::] 
 [Unknown::] 
 

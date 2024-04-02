@@ -13,10 +13,12 @@ SpocWebEntityId: 156470
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.692863] 
-[geo-lat::50.11099] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.692863] 
+[has_place_latitude::50.11099] 
 [name::Hospital Heiligen Geist] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

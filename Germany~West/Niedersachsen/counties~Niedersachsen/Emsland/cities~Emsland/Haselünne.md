@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.48] 
-[geo-lat::52.67] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.48] 
+[has_place_latitude::52.67] 
 [name::Haseluenne] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]]  
 [Population::] 
 [Unknown::] 
 

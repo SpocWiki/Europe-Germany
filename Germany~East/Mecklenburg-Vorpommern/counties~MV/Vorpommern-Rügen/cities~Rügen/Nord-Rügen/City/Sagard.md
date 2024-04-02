@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.55] 
-[geo-lat::54.53] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.55] 
+[has_place_latitude::54.53] 
 [name::Sagard] 
-Country :: [[Germany]]  
-State :: [[Mecklenburg-Vorpommern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Mecklenburg-Vorpommern]]  
 [Population::] 
 [Unknown::] 
 

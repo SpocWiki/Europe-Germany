@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.12] 
-[geo-lat::51.47] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.12] 
+[has_place_latitude::51.47] 
 [name::Buschwitz] 
-Country :: [[Germany]]  
-State :: [[Sachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Sachsen]]  
 [Population::] 
 [Unknown::] 
 

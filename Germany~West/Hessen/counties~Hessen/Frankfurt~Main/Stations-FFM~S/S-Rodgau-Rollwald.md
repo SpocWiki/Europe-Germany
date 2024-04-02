@@ -10,10 +10,12 @@ SpocWebEntityId: 156389
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.846545] 
-[geo-lat::49.98798] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.846545] 
+[has_place_latitude::49.98798] 
 [name::Rodgau-Rollwald] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

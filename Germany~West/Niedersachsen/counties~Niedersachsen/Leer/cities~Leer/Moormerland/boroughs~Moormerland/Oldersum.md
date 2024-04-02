@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.35] 
-[geo-lat::53.32] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.35] 
+[has_place_latitude::53.32] 
 [name::Oldersum] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]]  
 [Population::] 
 [Unknown::] 
 

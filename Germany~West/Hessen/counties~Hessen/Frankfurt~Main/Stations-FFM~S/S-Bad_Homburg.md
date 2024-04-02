@@ -10,10 +10,12 @@ SpocWebEntityId: 156431
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.610486] 
-[geo-lat::50.22924] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.610486] 
+[has_place_latitude::50.22924] 
 [name::Bad Homburg] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

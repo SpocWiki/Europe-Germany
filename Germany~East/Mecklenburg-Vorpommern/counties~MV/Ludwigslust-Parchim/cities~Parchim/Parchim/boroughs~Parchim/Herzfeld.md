@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.76] 
-[geo-lat::53.33] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.76] 
+[has_place_latitude::53.33] 
 [name::Herzfeld] 
-Country :: [[Germany]]  
-State :: [[Mecklenburg-Vorpommern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Mecklenburg-Vorpommern]]  
 [Population::] 
 [Unknown::] 
 

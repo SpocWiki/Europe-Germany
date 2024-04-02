@@ -10,10 +10,12 @@ SpocWebEntityId: 156362
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.471677] 
-[geo-lat::50.03953] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.471677] 
+[has_place_latitude::50.03953] 
 [name::Eddersheim] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

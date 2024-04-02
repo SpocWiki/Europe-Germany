@@ -10,10 +10,12 @@ SpocWebEntityId: 156527
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.670987] 
-[geo-lat::50.08419] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.670987] 
+[has_place_latitude::50.08419] 
 [name::Louisa Bahnhof] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

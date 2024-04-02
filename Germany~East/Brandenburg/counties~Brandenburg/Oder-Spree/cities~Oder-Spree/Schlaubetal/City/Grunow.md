@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.38] 
-[geo-lat::52.17] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.38] 
+[has_place_latitude::52.17] 
 [name::Grunow] 
-Country :: [[Germany]]  
-State :: [[Brandenburg]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Brandenburg]]  
 [Population::] 
 [Unknown::] 
 

@@ -10,10 +10,12 @@ SpocWebEntityId: 156441
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.735278] 
-[geo-lat::50.1775] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.735278] 
+[has_place_latitude::50.1775] 
 [name::Bad Vilbel] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

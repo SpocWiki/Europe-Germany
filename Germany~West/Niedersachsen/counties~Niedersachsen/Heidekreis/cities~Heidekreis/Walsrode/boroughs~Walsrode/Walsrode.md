@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.58] 
-[geo-lat::52.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.58] 
+[has_place_latitude::52.87] 
 [name::Walsrode] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]]  
 [Population::] 
 [Unknown::] 
 

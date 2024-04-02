@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.53] 
-[geo-lat::52.23] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.53] 
+[has_place_latitude::52.23] 
 [name::Duerne] 
-Country :: [[Germany]]  
-State :: [[NordRhein-Westfahlen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[NordRhein-Westfahlen]]  
 [Population::] 
 [Unknown::] 
 

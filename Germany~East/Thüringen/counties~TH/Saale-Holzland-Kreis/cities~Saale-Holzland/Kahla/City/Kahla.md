@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.57] 
-[geo-lat::50.8] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.57] 
+[has_place_latitude::50.8] 
 [name::Kahla] 
-Country :: [[Germany]]  
-State :: [[Thüringen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Thüringen]]  
 [Population::] 
 [Unknown::] 
 

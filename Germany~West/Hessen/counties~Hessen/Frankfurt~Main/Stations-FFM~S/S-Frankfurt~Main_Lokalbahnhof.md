@@ -10,10 +10,12 @@ SpocWebEntityId: 157416
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.692223] 
-[geo-lat::50.10305] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.692223] 
+[has_place_latitude::50.10305] 
 [name::Frankfurt~Main Lokalbahnhof] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

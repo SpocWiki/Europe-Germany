@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.6] 
-[geo-lat::52.52] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.6] 
+[has_place_latitude::52.52] 
 [name::Triangel] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]]  
 [Population::] 
 [Unknown::] 
 

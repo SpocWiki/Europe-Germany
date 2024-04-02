@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13] 
-[geo-lat::51.67] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13] 
+[has_place_latitude::51.67] 
 [name::Bethan] 
-Country :: [[Germany]]  
-State :: [[Sachsen-Anhalt]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Sachsen-Anhalt]]  
 [Population::] 
 [Unknown::] 
 

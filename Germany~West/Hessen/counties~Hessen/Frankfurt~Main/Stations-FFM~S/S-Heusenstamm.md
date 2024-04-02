@@ -10,10 +10,12 @@ SpocWebEntityId: 156399
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.806806] 
-[geo-lat::50.05958] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.806806] 
+[has_place_latitude::50.05958] 
 [name::Heusenstamm] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

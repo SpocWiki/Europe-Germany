@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.92] 
-[geo-lat::49.45] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.92] 
+[has_place_latitude::49.45] 
 [name::Hirschhorn] 
-Country :: [[Germany]]  
-State :: [[Baden-Wuerttemberg]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Baden-Wuerttemberg]] 
 [Population::] 
 [Unknown::] 
 

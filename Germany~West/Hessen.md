@@ -109,10 +109,12 @@ geojsonFolder: ./Hessen/
 markerFolder: ./Hessen/
 ```
 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 Capital :: [[Wiesbaden]]  
-[geo-lon::8.8478] 
-[geo-lat::50.4897] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.8478] 
+[has_place_latitude::50.4897] 
 [Population::] 
 
 

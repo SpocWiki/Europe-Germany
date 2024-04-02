@@ -11,10 +11,12 @@ SpocWebEntityId: 156259
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.664167] 
-[geo-lat::50.1078] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.664167] 
+[has_place_latitude::50.1078] 
 [name::Hauptbahnhof] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::Fern- und Regionalverkehr, S-Bahn, Straßenbahn] 
 [switch-to-ÖPNV::32, 33, 35, 37, 46, 64] 

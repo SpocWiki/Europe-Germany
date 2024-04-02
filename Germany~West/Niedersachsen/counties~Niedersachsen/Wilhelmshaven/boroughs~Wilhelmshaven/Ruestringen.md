@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.1] 
-[geo-lat::53.53] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.1] 
+[has_place_latitude::53.53] 
 [name::Ruestringen] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]]  
 [Population::] 
 [Unknown::] 
 

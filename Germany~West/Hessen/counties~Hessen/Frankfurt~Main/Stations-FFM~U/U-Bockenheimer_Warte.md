@@ -11,10 +11,12 @@ SpocWebEntityId: 156235
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.653611] 
-[geo-lat::50.11972] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.653611] 
+[has_place_latitude::50.11972] 
 [name::Bockenheimer Warte] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::D, Straßenbahn] 
 [switch-to-ÖPNV::32, 36, 50, 75] 

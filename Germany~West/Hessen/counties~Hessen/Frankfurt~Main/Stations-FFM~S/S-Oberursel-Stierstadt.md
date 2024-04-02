@@ -10,10 +10,12 @@ SpocWebEntityId: 156433
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.584694] 
-[geo-lat::50.18569] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.584694] 
+[has_place_latitude::50.18569] 
 [name::Oberursel-Stierstadt] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

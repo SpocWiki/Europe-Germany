@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.933] 
-[geo-lat::51.45] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.933] 
+[has_place_latitude::51.45] 
 [name::Schildau] 
-Country :: [[Germany]]  
-State :: [[Sachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Sachsen]]  
 [Population::] 
 [Unknown::] 
 

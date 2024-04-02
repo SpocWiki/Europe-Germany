@@ -229,14 +229,16 @@ has_id_wikidata: Q1055
 
 ---
 
-[geo-lon::9.99] 
-[geo-lat::53.54] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.99] 
+[has_place_latitude::53.54] 
 
 [name::Hamburg] 
 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 
-State :: [[State~Hamburg]]  
+has_place_province:: [[State~Hamburg]]  
 
 [Population::] 
 

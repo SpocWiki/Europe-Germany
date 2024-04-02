@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.18] 
-[geo-lat::52.42] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.18] 
+[has_place_latitude::52.42] 
 [name::Genthin] 
-Country :: [[Germany]]  
-State :: [[Sachsen-Anhalt]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Sachsen-Anhalt]]  
 [Population::] 
 [Unknown::] 
 

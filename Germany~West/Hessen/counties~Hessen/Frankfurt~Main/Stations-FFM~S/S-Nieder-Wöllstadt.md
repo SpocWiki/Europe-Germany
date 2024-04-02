@@ -10,10 +10,12 @@ SpocWebEntityId: 156437
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.757222] 
-[geo-lat::50.28722] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.757222] 
+[has_place_latitude::50.28722] 
 [name::Nieder-Wöllstadt] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

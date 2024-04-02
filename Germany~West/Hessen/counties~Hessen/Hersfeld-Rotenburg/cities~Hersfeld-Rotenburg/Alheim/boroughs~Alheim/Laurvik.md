@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.62] 
-[geo-lat::51.02] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.62] 
+[has_place_latitude::51.02] 
 [name::Laurvik] 
-State ::  
-Country :: [[Norway]]  
+has_place_province::  
+has_place_country:: [[Norway]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

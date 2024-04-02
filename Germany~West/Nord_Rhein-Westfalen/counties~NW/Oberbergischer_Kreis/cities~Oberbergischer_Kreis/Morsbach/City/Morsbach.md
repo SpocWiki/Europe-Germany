@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.73] 
-[geo-lat::50.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.73] 
+[has_place_latitude::50.87] 
 [name::Morsbach] 
-Country :: [[Germany]]  
-State :: [[Rheinland-Pfalz]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Rheinland-Pfalz]]  
 [Population::] 
 [Unknown::] 
 

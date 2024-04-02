@@ -10,10 +10,12 @@ SpocWebEntityId: 156377
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.738377] 
-[geo-lat::50.10533] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.738377] 
+[has_place_latitude::50.10533] 
 [name::Offenbach Kaiserlei] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

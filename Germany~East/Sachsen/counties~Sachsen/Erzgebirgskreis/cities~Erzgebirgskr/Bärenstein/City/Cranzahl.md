@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.03] 
-[geo-lat::50.5] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.03] 
+[has_place_latitude::50.5] 
 [name::Cranzahl] 
-Country :: [[Germany]]  
-State :: [[Sachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Sachsen]]  
 [Population::] 
 [Unknown::] 
 

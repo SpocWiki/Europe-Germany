@@ -14,10 +14,12 @@ SpocWebEntityId: 156553
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.691623] 
-[geo-lat::50.12311] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.691623] 
+[has_place_latitude::50.12311] 
 [name::Friedberger Platz] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

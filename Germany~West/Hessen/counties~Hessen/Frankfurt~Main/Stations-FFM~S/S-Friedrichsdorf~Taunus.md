@@ -10,10 +10,12 @@ SpocWebEntityId: 156429
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.644776] 
-[geo-lat::50.25249] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.644776] 
+[has_place_latitude::50.25249] 
 [name::Friedrichsdorf~Taunus] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

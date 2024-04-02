@@ -11,10 +11,12 @@ SpocWebEntityId: 156295
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.708056] 
-[geo-lat::50.11278] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.708056] 
+[has_place_latitude::50.11278] 
 [name::Ostbahnhof] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::Regionalverkehr, Straßenbahn] 
 [switch-to-ÖPNV::(31), 32] 

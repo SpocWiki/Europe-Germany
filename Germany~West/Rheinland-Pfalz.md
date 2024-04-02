@@ -136,10 +136,12 @@ geojsonFolder: ./Rheinland-Pfalz/
 markerFolder: ./Rheinland-Pfalz/
 ```
 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 Capital :: [[Mainz]]  
-[geo-lon::7.57652] 
-[geo-lat::49.914] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.57652] 
+[has_place_latitude::49.914] 
 [Population::] 
 
 

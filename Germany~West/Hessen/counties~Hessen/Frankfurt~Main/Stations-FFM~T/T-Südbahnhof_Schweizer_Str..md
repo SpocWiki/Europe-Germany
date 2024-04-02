@@ -10,10 +10,12 @@ SpocWebEntityId: 156521
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.683227] 
-[geo-lat::50.09858] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.683227] 
+[has_place_latitude::50.09858] 
 [name::Südbahnhof/Schweizer Str.] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

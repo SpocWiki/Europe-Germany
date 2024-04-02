@@ -13,10 +13,12 @@ SpocWebEntityId: 156547
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.701574] 
-[geo-lat::50.14219] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.701574] 
+[has_place_latitude::50.14219] 
 [name::Bodenweg] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

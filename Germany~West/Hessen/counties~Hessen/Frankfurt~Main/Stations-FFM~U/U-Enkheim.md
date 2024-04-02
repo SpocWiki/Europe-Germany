@@ -11,10 +11,12 @@ SpocWebEntityId: 156244
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.752692] 
-[geo-lat::50.14222] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.752692] 
+[has_place_latitude::50.14222] 
 [name::Enkheim] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::-] 
 [switch-to-ÖPNV::42, 551, MKK-23, MKK-25] 

@@ -11,10 +11,12 @@ SpocWebEntityId: 156275
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.63721] 
-[geo-lat::50.12508] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.63721] 
+[has_place_latitude::50.12508] 
 [name::Kirchplatz] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::-] 
 [switch-to-ÖPNV::34] 

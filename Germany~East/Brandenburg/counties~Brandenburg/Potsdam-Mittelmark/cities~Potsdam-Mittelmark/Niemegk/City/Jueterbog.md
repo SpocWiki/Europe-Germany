@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.58] 
-[geo-lat::52] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.58] 
+[has_place_latitude::52] 
 [name::Jueterbog] 
-Country :: [[Germany]]  
-State :: [[Brandenburg]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Brandenburg]]  
 [Population::] 
 [Unknown::] 
 

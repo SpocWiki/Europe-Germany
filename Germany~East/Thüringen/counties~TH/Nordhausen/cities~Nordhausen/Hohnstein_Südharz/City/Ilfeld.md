@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.78] 
-[geo-lat::51.58] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.78] 
+[has_place_latitude::51.58] 
 [name::Ilfeld] 
-Country :: [[Germany]]  
-State :: [[Thüringen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Thüringen]]  
 [Population::] 
 [Unknown::] 
 

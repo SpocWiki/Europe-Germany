@@ -113,10 +113,12 @@ geojsonFolder: ./Sachsen-Anhalt/
 markerFolder: ./Sachsen-Anhalt/
 ```
 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 Capital :: [[Magdeburg]] ]] 
-[geo-lon::11.7371] 
-[geo-lat::51.8905] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.7371] 
+[has_place_latitude::51.8905] 
 [Population::] 
 
 

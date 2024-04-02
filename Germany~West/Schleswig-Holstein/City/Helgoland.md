@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.88] 
-[geo-lat::54.17] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.88] 
+[has_place_latitude::54.17] 
 [name::Helgoland] 
-Country :: [[Germany]]  
-State :: [[Schleswig-Holstein]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Schleswig-Holstein]]  
 [Population::] 
 [Unknown::] 
 

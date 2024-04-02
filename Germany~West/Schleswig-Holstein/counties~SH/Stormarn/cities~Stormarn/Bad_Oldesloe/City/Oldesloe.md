@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.38] 
-[geo-lat::53.82] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.38] 
+[has_place_latitude::53.82] 
 [name::Oldesloe] 
-Country :: [[Germany]]  
-State :: [[Schleswig-Holstein]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Schleswig-Holstein]]  
 [Population::] 
 [Unknown::] 
 

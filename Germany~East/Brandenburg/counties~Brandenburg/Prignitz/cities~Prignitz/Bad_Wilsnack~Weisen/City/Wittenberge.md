@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.77] 
-[geo-lat::53.02] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.77] 
+[has_place_latitude::53.02] 
 [name::Wittenberge] 
-Country :: [[Germany]]  
-State :: [[Brandenburg]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Brandenburg]]  
 [Population::] 
 [Unknown::] 
 

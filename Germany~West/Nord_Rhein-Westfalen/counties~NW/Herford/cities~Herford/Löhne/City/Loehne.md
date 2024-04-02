@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.7] 
-[geo-lat::52.2] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.7] 
+[has_place_latitude::52.2] 
 [name::Loehne] 
-Country :: [[Germany]]  
-State :: [[NordRhein-Westfahlen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[NordRhein-Westfahlen]]  
 [Population::] 
 [Unknown::] 
 

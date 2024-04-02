@@ -10,10 +10,12 @@ SpocWebEntityId: 156501
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.652849] 
-[geo-lat::50.09259] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.652849] 
+[has_place_latitude::50.09259] 
 [name::Hch.Hoffmann-Str/Blutsp.Dienst] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

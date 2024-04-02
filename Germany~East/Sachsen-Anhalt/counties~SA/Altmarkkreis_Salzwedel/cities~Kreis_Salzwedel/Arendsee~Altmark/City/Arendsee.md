@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.5] 
-[geo-lat::52.88] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.5] 
+[has_place_latitude::52.88] 
 [name::Arendsee] 
-Country :: [[Germany]]  
-State :: [[Sachsen-Anhalt]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Sachsen-Anhalt]]  
 [Population::] 
 [Unknown::] 
 

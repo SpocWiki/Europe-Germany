@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.57] 
-[geo-lat::51.6] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.57] 
+[has_place_latitude::51.6] 
 [name::Friedrichshain] 
-Country :: [[Germany]]  
-State :: [[Brandenburg]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Brandenburg]]  
 [Population::] 
 [Unknown::] 
 

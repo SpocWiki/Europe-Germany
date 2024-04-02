@@ -10,10 +10,12 @@ SpocWebEntityId: 156483
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.74008] 
-[geo-lat::50.12235] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.74008] 
+[has_place_latitude::50.12235] 
 [name::Daimlerstraße] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

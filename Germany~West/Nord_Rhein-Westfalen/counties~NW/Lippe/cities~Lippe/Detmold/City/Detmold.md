@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.88] 
-[geo-lat::51.92] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.88] 
+[has_place_latitude::51.92] 
 [name::Detmold] 
-Country :: [[Germany]]  
-State :: [[NordRhein-Westfahlen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[NordRhein-Westfahlen]]  
 [Population::] 
 [Unknown::] 
 

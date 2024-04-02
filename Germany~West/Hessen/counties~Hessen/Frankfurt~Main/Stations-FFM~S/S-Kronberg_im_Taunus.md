@@ -10,10 +10,12 @@ SpocWebEntityId: 156415
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.516935] 
-[geo-lat::50.18] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.516935] 
+[has_place_latitude::50.18] 
 [name::Kronberg im Taunus] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

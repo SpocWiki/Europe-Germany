@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.48] 
-[geo-lat::49.92] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.48] 
+[has_place_latitude::49.92] 
 [name::Grossgerau] 
-Country :: [[Germany]]  
-State :: [[Hessen]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Hessen]] 
 [Population::] 
 [Unknown::] 
 

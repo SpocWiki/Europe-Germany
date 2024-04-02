@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.62] 
-[geo-lat::49.52] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.62] 
+[has_place_latitude::49.52] 
 [name::Saarhoelzbach] 
-Country :: [[Germany]]  
-State :: [[Saarland]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Saarland]] 
 [Population::] 
 [Unknown::] 
 

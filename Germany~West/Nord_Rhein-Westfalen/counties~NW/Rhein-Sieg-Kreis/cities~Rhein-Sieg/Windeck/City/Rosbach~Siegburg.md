@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.62] 
-[geo-lat::50.8] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.62] 
+[has_place_latitude::50.8] 
 [name::Rosbach~Siegburg] 
-Country :: [[Germany]]  
-State :: [[Rheinland-Pfalz]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Rheinland-Pfalz]]  
 [Population::] 
 [Unknown::] 
 

@@ -10,10 +10,12 @@ SpocWebEntityId: 156397
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.466666] 
-[geo-lat::50.08278] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.466666] 
+[has_place_latitude::50.08278] 
 [name::Kriftel] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

@@ -10,10 +10,12 @@ SpocWebEntityId: 156409
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.656905] 
-[geo-lat::49.99345] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.656905] 
+[has_place_latitude::49.99345] 
 [name::Langen~Hess] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

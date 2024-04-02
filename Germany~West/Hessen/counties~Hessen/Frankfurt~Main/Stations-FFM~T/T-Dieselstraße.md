@@ -10,10 +10,12 @@ SpocWebEntityId: 156482
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.744345] 
-[geo-lat::50.12413] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.744345] 
+[has_place_latitude::50.12413] 
 [name::Dieselstraße] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

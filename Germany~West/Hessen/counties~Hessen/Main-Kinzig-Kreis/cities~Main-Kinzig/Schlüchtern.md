@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.53] 
-[geo-lat::50.35] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.53] 
+[has_place_latitude::50.35] 
 [name::Schluechtern] 
-Country :: [[Germany]]  
-State :: [[Hessen]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Hessen]] 
 [Population::] 
 [Unknown::] 
 

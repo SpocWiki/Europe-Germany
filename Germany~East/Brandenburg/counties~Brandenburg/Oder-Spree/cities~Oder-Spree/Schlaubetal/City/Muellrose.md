@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.42] 
-[geo-lat::52.25] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.42] 
+[has_place_latitude::52.25] 
 [name::Muellrose] 
-Country :: [[Germany]]  
-State :: [[Brandenburg]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Brandenburg]]  
 [Population::] 
 [Unknown::] 
 

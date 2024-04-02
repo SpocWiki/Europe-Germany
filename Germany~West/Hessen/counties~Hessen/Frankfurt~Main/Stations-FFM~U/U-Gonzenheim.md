@@ -11,10 +11,12 @@ SpocWebEntityId: 156254
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.640438] 
-[geo-lat::50.219] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.640438] 
+[has_place_latitude::50.219] 
 [name::Gonzenheim] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::-] 
 [switch-to-ÖPNV::Stadtverkehr Bad Homburg] 

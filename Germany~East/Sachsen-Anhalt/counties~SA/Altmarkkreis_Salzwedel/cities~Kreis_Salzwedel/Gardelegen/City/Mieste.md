@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.22] 
-[geo-lat::52.47] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.22] 
+[has_place_latitude::52.47] 
 [name::Mieste] 
-Country :: [[Germany]]  
-State :: [[Sachsen-Anhalt]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Sachsen-Anhalt]]  
 [Population::] 
 [Unknown::] 
 

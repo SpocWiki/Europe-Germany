@@ -10,10 +10,12 @@ SpocWebEntityId: 156418
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.569028] 
-[geo-lat::50.14375] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.569028] 
+[has_place_latitude::50.14375] 
 [name::Eschborn] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

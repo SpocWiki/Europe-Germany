@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.4] 
-[geo-lat::53.22] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.4] 
+[has_place_latitude::53.22] 
 [name::Gartz~Oder] 
-Country :: [[Germany]]  
-State :: [[Brandenburg]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Brandenburg]]  
 [Population::] 
 [Unknown::] 
 

@@ -11,10 +11,12 @@ SpocWebEntityId: 156292
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.577747] 
-[geo-lat::50.20632] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.577747] 
+[has_place_latitude::50.20632] 
 [name::Oberursel Altstadt] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::-] 
 [switch-to-ÖPNV::Stadtverkehr Oberursel] 

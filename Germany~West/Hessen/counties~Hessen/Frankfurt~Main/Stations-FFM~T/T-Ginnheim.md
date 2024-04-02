@@ -10,10 +10,12 @@ SpocWebEntityId: 156599
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.646436] 
-[geo-lat::50.13862] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.646436] 
+[has_place_latitude::50.13862] 
 [name::Ginnheim] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

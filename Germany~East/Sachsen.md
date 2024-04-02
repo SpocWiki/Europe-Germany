@@ -129,10 +129,12 @@ geojsonFolder: ./Sachsen/
 markerFolder: ./Sachsen/
 ```
 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 Capital :: [[Dresden]] ] 
-[geo-lon::13.2481] 
-[geo-lat::50.968] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.2481] 
+[has_place_latitude::50.968] 
 [Population::] 
 
 

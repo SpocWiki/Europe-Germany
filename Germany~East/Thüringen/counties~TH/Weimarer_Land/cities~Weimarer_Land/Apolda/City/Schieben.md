@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.52] 
-[geo-lat::51.02] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.52] 
+[has_place_latitude::51.02] 
 [name::Schieben] 
-Country :: [[Germany]]  
-State :: [[Thüringen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Thüringen]]  
 [Population::] 
 [Unknown::] 
 

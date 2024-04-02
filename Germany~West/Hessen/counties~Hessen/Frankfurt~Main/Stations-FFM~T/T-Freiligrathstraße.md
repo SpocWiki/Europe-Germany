@@ -10,10 +10,12 @@ SpocWebEntityId: 156540
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.709934] 
-[geo-lat::50.12197] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.709934] 
+[has_place_latitude::50.12197] 
 [name::Freiligrathstraße] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

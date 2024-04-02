@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.5] 
-[geo-lat::50.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.5] 
+[has_place_latitude::50.87] 
 [name::Grueneberg] 
-Country :: [[Germany]]  
-State :: [[Hessen]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Hessen]] 
 [Population::] 
 [Unknown::] 
 

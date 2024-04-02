@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.03] 
-[geo-lat::51.48] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.03] 
+[has_place_latitude::51.48] 
 [name::Stoppenberg] 
-Country :: [[Germany]]  
-State :: [[NordRhein-Westfahlen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[NordRhein-Westfahlen]]  
 [Population::] 
 [Unknown::] 
 

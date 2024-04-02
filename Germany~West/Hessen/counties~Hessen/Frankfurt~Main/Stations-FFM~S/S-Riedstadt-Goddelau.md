@@ -10,10 +10,12 @@ SpocWebEntityId: 156446
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.497778] 
-[geo-lat::49.83528] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.497778] 
+[has_place_latitude::49.83528] 
 [name::Riedstadt-Goddelau] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

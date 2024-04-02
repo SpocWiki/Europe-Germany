@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.28] 
-[geo-lat::51.82] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.28] 
+[has_place_latitude::51.82] 
 [name::Nachterstedt] 
-Country :: [[Germany]]  
-State :: [[Sachsen-Anhalt]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Sachsen-Anhalt]]  
 [Population::] 
 [Unknown::] 
 

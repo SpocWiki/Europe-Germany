@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.57] 
-[geo-lat::49.65] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.57] 
+[has_place_latitude::49.65] 
 [name::Lorsch] 
-Country :: [[Germany]]  
-State :: [[Hessen]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Hessen]] 
 [Population::] 
 [Unknown::] 
 

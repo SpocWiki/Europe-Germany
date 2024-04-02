@@ -10,10 +10,12 @@ SpocWebEntityId: 156522
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.684231] 
-[geo-lat::50.09686] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.684231] 
+[has_place_latitude::50.09686] 
 [name::Schweizer Str./Mörfelder Ldstr.] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

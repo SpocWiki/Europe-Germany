@@ -10,10 +10,12 @@ SpocWebEntityId: 156508
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.617742] 
-[geo-lat::50.07645] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.617742] 
+[has_place_latitude::50.07645] 
 [name::Kiesschneise] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

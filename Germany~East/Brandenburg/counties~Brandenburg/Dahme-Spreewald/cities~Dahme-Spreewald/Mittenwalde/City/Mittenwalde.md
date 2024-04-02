@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.53] 
-[geo-lat::52.27] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.53] 
+[has_place_latitude::52.27] 
 [name::Mittenwalde] 
-Country :: [[Germany]]  
-State :: [[Brandenburg]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Brandenburg]]  
 [Population::] 
 [Unknown::] 
 

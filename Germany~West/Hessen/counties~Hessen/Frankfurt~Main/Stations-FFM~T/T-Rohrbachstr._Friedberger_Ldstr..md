@@ -13,10 +13,12 @@ SpocWebEntityId: 156552
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.692468] 
-[geo-lat::50.12748] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.692468] 
+[has_place_latitude::50.12748] 
 [name::Rohrbachstr./Friedberger Ldstr.] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

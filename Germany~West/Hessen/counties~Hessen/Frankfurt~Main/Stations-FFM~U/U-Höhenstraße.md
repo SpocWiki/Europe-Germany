@@ -11,10 +11,12 @@ SpocWebEntityId: 156269
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.701389] 
-[geo-lat::50.12278] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.701389] 
+[has_place_latitude::50.12278] 
 [name::Höhenstraße] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::-] 
 [switch-to-ÖPNV::32] 

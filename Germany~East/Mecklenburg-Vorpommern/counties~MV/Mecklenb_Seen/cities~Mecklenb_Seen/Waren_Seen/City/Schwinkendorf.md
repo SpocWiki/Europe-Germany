@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.7] 
-[geo-lat::53.65] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.7] 
+[has_place_latitude::53.65] 
 [name::Schwinkendorf] 
-Country :: [[Germany]]  
-State :: [[Mecklenburg-Vorpommern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Mecklenburg-Vorpommern]]  
 [Population::] 
 [Unknown::] 
 

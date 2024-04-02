@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10] 
-[geo-lat::51.28] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10] 
+[has_place_latitude::51.28] 
 [name::Allendorf] 
-Country :: [[Germany]]  
-State :: [[Thüringen]] ] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Thüringen]] ] 
 [Population::] 
 [Unknown::] 
 

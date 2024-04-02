@@ -26,10 +26,12 @@ geojsonFolder: ./State~Bremen/
 markerFolder: ./State~Bremen/
 ```
 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 Capital ::  [[Bremen]] ] 
-[geo-lon::8.682] 
-[geo-lat::53.222] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.682] 
+[has_place_latitude::53.222] 
 [Population::] 
 
 

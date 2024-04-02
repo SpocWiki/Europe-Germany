@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.62] 
-[geo-lat::54.13] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.62] 
+[has_place_latitude::54.13] 
 [name::Eutin] 
-Country :: [[Germany]]  
-State :: [[Schleswig-Holstein]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Schleswig-Holstein]]  
 [Population::] 
 [Unknown::] 
 

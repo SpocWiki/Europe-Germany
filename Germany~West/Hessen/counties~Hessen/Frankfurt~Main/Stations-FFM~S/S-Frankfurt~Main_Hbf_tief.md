@@ -10,10 +10,12 @@ SpocWebEntityId: 156369
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.6625] 
-[geo-lat::50.10695] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.6625] 
+[has_place_latitude::50.10695] 
 [name::Frankfurt~Main Hbf tief] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

@@ -11,10 +11,12 @@ SpocWebEntityId: 156278
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.557963] 
-[geo-lat::50.21415] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.557963] 
+[has_place_latitude::50.21415] 
 [name::Kupferhammer] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::-] 
 [switch-to-ÖPNV::-] 

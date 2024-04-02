@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.52] 
-[geo-lat::50.67] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.52] 
+[has_place_latitude::50.67] 
 [name::Wilkau~Sachsen] 
-Country :: [[Germany]]  
-State :: [[Sachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Sachsen]]  
 [Population::] 
 [Unknown::] 
 

@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.82] 
-[geo-lat::53.67] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.82] 
+[has_place_latitude::53.67] 
 [name::Pinneberg] 
-Country :: [[Germany]]  
-State :: [[Schleswig-Holstein]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Schleswig-Holstein]]  
 [Population::] 
 [Unknown::] 
 

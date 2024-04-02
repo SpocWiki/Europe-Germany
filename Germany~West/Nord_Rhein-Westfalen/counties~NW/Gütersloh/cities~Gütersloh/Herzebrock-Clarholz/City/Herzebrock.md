@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.25] 
-[geo-lat::51.88] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.25] 
+[has_place_latitude::51.88] 
 [name::Herzebrock] 
-Country :: [[Germany]]  
-State :: [[NordRhein-Westfahlen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[NordRhein-Westfahlen]]  
 [Population::] 
 [Unknown::] 
 

@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.37] 
-[geo-lat::50.32] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.37] 
+[has_place_latitude::50.32] 
 [name::Erlbach] 
-Country :: [[Germany]]  
-State :: [[Sachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Sachsen]]  
 [Population::] 
 [Unknown::] 
 

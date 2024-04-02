@@ -10,10 +10,12 @@ SpocWebEntityId: 156390
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.828543] 
-[geo-lat::49.97702] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.828543] 
+[has_place_latitude::49.97702] 
 [name::Rödermark-Ober Roden] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

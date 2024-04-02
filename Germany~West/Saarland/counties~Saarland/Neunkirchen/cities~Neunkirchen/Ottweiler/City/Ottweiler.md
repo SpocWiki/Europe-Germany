@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.17] 
-[geo-lat::49.4] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.17] 
+[has_place_latitude::49.4] 
 [name::Ottweiler] 
-Country :: [[Germany]]  
-State :: [[Saarland]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Saarland]] 
 [Population::] 
 [Unknown::] 
 

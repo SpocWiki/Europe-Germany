@@ -10,10 +10,12 @@ SpocWebEntityId: 156582
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.566985] 
-[geo-lat::50.09824] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.566985] 
+[has_place_latitude::50.09824] 
 [name::Nied Kirche] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

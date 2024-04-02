@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.55] 
-[geo-lat::53.35] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.55] 
+[has_place_latitude::53.35] 
 [name::Hohnstorf] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]]  
 [Population::] 
 [Unknown::] 
 

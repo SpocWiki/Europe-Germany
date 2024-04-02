@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.66] 
-[geo-lat::49.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.66] 
+[has_place_latitude::49.87] 
 [name::Darmstadt] 
-Country :: [[Germany]]  
-State :: [[Hessen]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Hessen]] 
 [Population::] 
 [Unknown::] 
 

@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.71] 
-[geo-lat::53.58] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.71] 
+[has_place_latitude::53.58] 
 [name::Borkum] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]]  
 [Population::] 
 [Unknown::] 
 

@@ -11,10 +11,12 @@ SpocWebEntityId: 156274
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.658256] 
-[geo-lat::50.18362] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.658256] 
+[has_place_latitude::50.18362] 
 [name::Kalbach] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::-] 
 [switch-to-ÖPNV::24, 28, 29] 

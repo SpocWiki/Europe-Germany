@@ -11,10 +11,12 @@ SpocWebEntityId: 156245
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.679306] 
-[geo-lat::50.1175] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.679306] 
+[has_place_latitude::50.1175] 
 [name::Eschenheimer Tor] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::-] 
 [switch-to-ÖPNV::36] 

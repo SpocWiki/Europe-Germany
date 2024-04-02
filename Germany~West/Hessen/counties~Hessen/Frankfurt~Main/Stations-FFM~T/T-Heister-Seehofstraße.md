@@ -13,10 +13,12 @@ SpocWebEntityId: 156473
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.697395] 
-[geo-lat::50.10347] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.697395] 
+[has_place_latitude::50.10347] 
 [name::Heister-/Seehofstraße] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

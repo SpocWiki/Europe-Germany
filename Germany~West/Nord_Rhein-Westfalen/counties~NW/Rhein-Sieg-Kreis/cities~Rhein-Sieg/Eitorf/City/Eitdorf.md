@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.45] 
-[geo-lat::50.77] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.45] 
+[has_place_latitude::50.77] 
 [name::Eitdorf] 
-Country :: [[Germany]]  
-State :: [[NordRhein-Westfahlen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[NordRhein-Westfahlen]]  
 [Population::] 
 [Unknown::] 
 

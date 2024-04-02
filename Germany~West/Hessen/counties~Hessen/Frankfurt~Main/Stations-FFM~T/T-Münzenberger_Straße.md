@@ -13,10 +13,12 @@ SpocWebEntityId: 156550
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.695279] 
-[geo-lat::50.13278] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.695279] 
+[has_place_latitude::50.13278] 
 [name::Münzenberger Straße] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

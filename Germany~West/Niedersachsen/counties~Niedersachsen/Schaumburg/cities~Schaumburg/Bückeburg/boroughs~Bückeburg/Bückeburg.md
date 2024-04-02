@@ -15,11 +15,13 @@ confidential: public
 aliases:
   - Bueckeburg
 ---
-[geo-lon::9.03] 
-[geo-lat::52.27] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.03] 
+[has_place_latitude::52.27] 
 [name::Bueckeburg] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]]  
 [Population::] 
 [Unknown::] 
 

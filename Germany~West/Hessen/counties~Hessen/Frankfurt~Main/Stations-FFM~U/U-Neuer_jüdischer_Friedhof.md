@@ -11,10 +11,12 @@ SpocWebEntityId: 156286
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.684864] 
-[geo-lat::50.13881] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.684864] 
+[has_place_latitude::50.13881] 
 [name::Neuer jüdischer Friedhof] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::-] 
 [switch-to-ÖPNV::-] 

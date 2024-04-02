@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.32] 
-[geo-lat::52.2] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.32] 
+[has_place_latitude::52.2] 
 [name::Wettringen] 
-Country :: [[Germany]]  
-State :: [[NordRhein-Westfahlen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[NordRhein-Westfahlen]]  
 [Population::] 
 [Unknown::] 
 

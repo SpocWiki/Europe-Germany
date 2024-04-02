@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.62] 
-[geo-lat::51.45] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.62] 
+[has_place_latitude::51.45] 
 [name::Moers] 
-Country :: [[Germany]]  
-State :: [[NordRhein-Westfahlen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[NordRhein-Westfahlen]]  
 [Population::] 
 [Unknown::] 
 

@@ -15,11 +15,13 @@ confidential: public
 aliases:
   - Luehnde
 ---
-[geo-lon::9.95] 
-[geo-lat::52.28] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.95] 
+[has_place_latitude::52.28] 
 [name::Luehnde] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]]  
 [Population::] 
 [Unknown::] 
 

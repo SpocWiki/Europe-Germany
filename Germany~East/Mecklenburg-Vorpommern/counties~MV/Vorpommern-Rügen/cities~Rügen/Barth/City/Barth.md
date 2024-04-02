@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.77] 
-[geo-lat::54.37] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.77] 
+[has_place_latitude::54.37] 
 [name::Barth] 
-Country :: [[Germany]]  
-State :: [[Mecklenburg-Vorpommern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Mecklenburg-Vorpommern]]  
 [Population::] 
 [Unknown::] 
 

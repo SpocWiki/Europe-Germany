@@ -10,10 +10,12 @@ SpocWebEntityId: 156447
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.500556] 
-[geo-lat::49.85305] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.500556] 
+[has_place_latitude::49.85305] 
 [name::Riedstadt-Wolfskehlen] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

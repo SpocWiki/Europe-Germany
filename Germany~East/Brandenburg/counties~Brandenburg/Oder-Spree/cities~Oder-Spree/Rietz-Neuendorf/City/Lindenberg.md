@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.13] 
-[geo-lat::52.22] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.13] 
+[has_place_latitude::52.22] 
 [name::Lindenberg] 
-Country :: [[Germany]]  
-State :: [[Brandenburg]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Brandenburg]]  
 [Population::] 
 [Unknown::] 
 

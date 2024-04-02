@@ -10,10 +10,12 @@ SpocWebEntityId: 156519
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.681355] 
-[geo-lat::50.10097] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.681355] 
+[has_place_latitude::50.10097] 
 [name::Schwanthalerstraße] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

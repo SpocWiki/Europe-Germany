@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.12] 
-[geo-lat::50.97] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.12] 
+[has_place_latitude::50.97] 
 [name::Geilenkirchen] 
-Country :: [[Germany]]  
-State :: [[NordRhein-Westfahlen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[NordRhein-Westfahlen]]  
 [Population::] 
 [Unknown::] 
 

@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.32] 
-[geo-lat::54.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.32] 
+[has_place_latitude::54.9] 
 [name::Westerland] 
-Country :: [[Germany]]  
-State :: [[Schleswig-Holstein]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Schleswig-Holstein]]  
 [Population::] 
 [Unknown::] 
 

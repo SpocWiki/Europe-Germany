@@ -25,13 +25,13 @@ markerFolder: ./Germany~East/
 [name-de::DDR] 
 [Area-Total::] 
 [Area-Land::] 
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::DDR] 
 [Capital-Id::] 
 [Alcohol-l::] 
 [Language-Id::497] 
-[geo-lon::] 
-[geo-lat::] 
+[has_place_longitude::] 
+[has_place_latitude::] 
 
 
 

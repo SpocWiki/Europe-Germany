@@ -10,10 +10,12 @@ SpocWebEntityId: 156386
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.884023] 
-[geo-lat::50.02598] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.884023] 
+[has_place_latitude::50.02598] 
 [name::Rodgau-Jügesheim] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

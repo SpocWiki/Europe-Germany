@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.65] 
-[geo-lat::49.43] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.65] 
+[has_place_latitude::49.43] 
 [name::Merzig] 
-Country :: [[Germany]]  
-State :: [[Saarland]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Saarland]] 
 [Population::] 
 [Unknown::] 
 

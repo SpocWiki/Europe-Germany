@@ -11,10 +11,12 @@ SpocWebEntityId: 156251
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.6464] 
-[geo-lat::50.1403] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.6464] 
+[has_place_latitude::50.1403] 
 [name::Ginnheim] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::Straßenbahn] 
 [switch-to-ÖPNV::39, 64] 

@@ -10,10 +10,12 @@ SpocWebEntityId: 156476
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.773484] 
-[geo-lat::50.12149] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.773484] 
+[has_place_latitude::50.12149] 
 [name::Schießhüttenstraße] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

@@ -15,11 +15,13 @@ confidential: public
 aliases:
   - Bremervoerde
 ---
-[geo-lon::9.13] 
-[geo-lat::53.48] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.13] 
+[has_place_latitude::53.48] 
 [name::Bremervoerde] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]]  
 [Population::] 
 [Unknown::] 
 

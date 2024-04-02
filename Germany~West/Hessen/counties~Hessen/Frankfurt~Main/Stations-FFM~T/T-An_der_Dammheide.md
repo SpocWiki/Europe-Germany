@@ -10,10 +10,12 @@ SpocWebEntityId: 156591
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.630308] 
-[geo-lat::50.11734] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.630308] 
+[has_place_latitude::50.11734] 
 [name::An der Dammheide] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

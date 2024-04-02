@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.3] 
-[geo-lat::53.83] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.3] 
+[has_place_latitude::53.83] 
 [name::Freiburg~Hamburg] 
-Country :: [[Germany]]  
-State :: [[State~Hamburg]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[State~Hamburg]]  
 [Population::] 
 [Unknown::] 
 

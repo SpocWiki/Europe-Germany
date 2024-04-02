@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.77] 
-[geo-lat::51.97] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.77] 
+[has_place_latitude::51.97] 
 [name::Gross-Werther] 
-Country :: [[Germany]]  
-State :: [[Sachsen-Anhalt]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Sachsen-Anhalt]]  
 [Population::] 
 [Unknown::] 
 

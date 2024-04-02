@@ -156,10 +156,12 @@ geojsonFolder: ./Niedersachsen///
 markerFolder: ./Niedersachsen///
 ```
 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 Capital ::  [[Niedersachsen/counties~Niedersachsen/RegionHannover/cities~RegionHannover/Hannover/boroughs~Hannover/Hannover]] ] 
-[geo-lon::9.02868] 
-[geo-lat::52.7796] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.02868] 
+[has_place_latitude::52.7796] 
 [Population::] 
 
 

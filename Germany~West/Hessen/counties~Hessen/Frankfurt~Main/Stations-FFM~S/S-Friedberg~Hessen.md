@@ -10,10 +10,12 @@ SpocWebEntityId: 156435
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.755] 
-[geo-lat::50.33528] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.755] 
+[has_place_latitude::50.33528] 
 [name::Friedberg~Hess] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

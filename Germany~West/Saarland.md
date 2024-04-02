@@ -109,10 +109,12 @@ geojsonFolder: ./Saarland/
 markerFolder: ./Saarland/
 ```
 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 Capital :: [[Saarbruecken]]  
-[geo-lon::6.935] 
-[geo-lat::49.355] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.935] 
+[has_place_latitude::49.355] 
 [Population::] 
 
 

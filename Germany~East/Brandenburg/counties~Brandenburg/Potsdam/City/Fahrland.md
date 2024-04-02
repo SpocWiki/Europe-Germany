@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.02] 
-[geo-lat::52.47] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.02] 
+[has_place_latitude::52.47] 
 [name::Fahrland] 
-Country :: [[Germany]]  
-State :: [[Brandenburg]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Brandenburg]]  
 [Population::] 
 [Unknown::] 
 

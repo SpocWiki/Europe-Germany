@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.43] 
-[geo-lat::54.42] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.43] 
+[has_place_latitude::54.42] 
 [name::Bergen~Ruegen] 
-Country :: [[Germany]]  
-State :: [[Mecklenburg-Vorpommern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Mecklenburg-Vorpommern]]  
 [Population::] 
 [Unknown::] 
 

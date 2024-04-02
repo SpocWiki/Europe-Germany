@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.33] 
-[geo-lat::50.4] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.33] 
+[has_place_latitude::50.4] 
 [name::Schoeneck] 
-Country :: [[Germany]]  
-State :: [[Sachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Sachsen]]  
 [Population::] 
 [Unknown::] 
 

@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.1] 
-[geo-lat::54.2] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.1] 
+[has_place_latitude::54.2] 
 [name::Heide~Holstein] 
-Country :: [[Germany]]  
-State :: [[Schleswig-Holstein]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Schleswig-Holstein]]  
 [Population::] 
 [Unknown::] 
 

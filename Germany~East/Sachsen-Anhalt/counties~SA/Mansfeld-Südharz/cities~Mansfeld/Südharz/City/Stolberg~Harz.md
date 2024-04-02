@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.95] 
-[geo-lat::51.58] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.95] 
+[has_place_latitude::51.58] 
 [name::Stolberg~Harz] 
-Country :: [[Germany]]  
-State :: [[Sachsen-Anhalt]] ] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Sachsen-Anhalt]] ] 
 [Population::] 
 [Unknown::] 
 

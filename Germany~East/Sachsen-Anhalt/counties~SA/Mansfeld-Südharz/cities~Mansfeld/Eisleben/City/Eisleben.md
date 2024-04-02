@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.53] 
-[geo-lat::51.53] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.53] 
+[has_place_latitude::51.53] 
 [name::Eisleben] 
-Country :: [[Germany]]  
-State :: [[Sachsen-Anhalt]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Sachsen-Anhalt]]  
 [Population::] 
 [Unknown::] 
 

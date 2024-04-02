@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.92] 
-[geo-lat::50.55] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.92] 
+[has_place_latitude::50.55] 
 [name::Scheibenberg] 
-Country :: [[Germany]]  
-State :: [[Sachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Sachsen]]  
 [Population::] 
 [Unknown::] 
 

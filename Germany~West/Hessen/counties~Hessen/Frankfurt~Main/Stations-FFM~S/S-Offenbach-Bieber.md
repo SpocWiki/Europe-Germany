@@ -10,10 +10,12 @@ SpocWebEntityId: 156381
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.808406] 
-[geo-lat::50.09053] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.808406] 
+[has_place_latitude::50.09053] 
 [name::Offenbach-Bieber] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

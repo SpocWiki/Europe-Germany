@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12] 
-[geo-lat::52.68] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12] 
+[has_place_latitude::52.68] 
 [name::Arneburg] 
-Country :: [[Germany]]  
-State :: [[Sachsen-Anhalt]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Sachsen-Anhalt]]  
 [Population::] 
 [Unknown::] 
 

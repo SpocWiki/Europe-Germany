@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.05] 
-[geo-lat::50.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.05] 
+[has_place_latitude::50.9] 
 [name::Weidenau an der Sieg] 
-Country :: [[Germany]]  
-State :: [[NordRhein-Westfahlen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[NordRhein-Westfahlen]]  
 [Population::] 
 [Unknown::] 
 

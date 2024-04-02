@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.6] 
-[geo-lat::54.53] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.6] 
+[has_place_latitude::54.53] 
 [name::Klensby] 
-Country :: [[Germany]]  
-State :: [[Schleswig-Holstein]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Schleswig-Holstein]]  
 [Population::] 
 [Unknown::] 
 

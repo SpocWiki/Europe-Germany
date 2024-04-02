@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.67] 
-[geo-lat::52.12] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.67] 
+[has_place_latitude::52.12] 
 [name::Herford] 
-State ::  
-Country :: [[United_Kingdom]]  
+has_place_province::  
+has_place_country:: [[United_Kingdom]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

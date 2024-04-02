@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.82] 
-[geo-lat::49.57] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.82] 
+[has_place_latitude::49.57] 
 [name::Waldmichelbach] 
-Country :: [[Germany]]  
-State :: [[Hessen]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Hessen]] 
 [Population::] 
 [Unknown::] 
 

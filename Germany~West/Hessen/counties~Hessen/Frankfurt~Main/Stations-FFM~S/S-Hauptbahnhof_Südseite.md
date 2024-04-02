@@ -10,10 +10,12 @@ SpocWebEntityId: 156600
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.663985] 
-[geo-lat::50.10567] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.663985] 
+[has_place_latitude::50.10567] 
 [name::Hauptbahnhof Südseite] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.07] 
-[geo-lat::53.57] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.07] 
+[has_place_latitude::53.57] 
 [name::Wandsbeck] 
-Country :: [[Germany]]  
-State :: [[State~Hamburg]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[State~Hamburg]]  
 [Population::] 
 [Unknown::] 
 

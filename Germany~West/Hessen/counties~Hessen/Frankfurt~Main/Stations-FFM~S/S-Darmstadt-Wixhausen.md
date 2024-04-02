@@ -10,10 +10,12 @@ SpocWebEntityId: 156412
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.649722] 
-[geo-lat::49.93111] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.649722] 
+[has_place_latitude::49.93111] 
 [name::Darmstadt-Wixhausen] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

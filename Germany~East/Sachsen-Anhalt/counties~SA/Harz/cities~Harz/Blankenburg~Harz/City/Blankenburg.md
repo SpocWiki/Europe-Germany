@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.97] 
-[geo-lat::51.8] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.97] 
+[has_place_latitude::51.8] 
 [name::Blankenburg] 
-Country :: [[Germany]]  
-State :: [[Sachsen-Anhalt]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Sachsen-Anhalt]]  
 [Population::] 
 [Unknown::] 
 

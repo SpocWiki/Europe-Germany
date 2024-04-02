@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.5] 
-[geo-lat::53.17] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.5] 
+[has_place_latitude::53.17] 
 [name::Bassel] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]]  
 [Population::] 
 [Unknown::] 
 

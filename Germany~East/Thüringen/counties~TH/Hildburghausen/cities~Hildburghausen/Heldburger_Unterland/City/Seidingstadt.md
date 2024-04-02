@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.7] 
-[geo-lat::50.33] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.7] 
+[has_place_latitude::50.33] 
 [name::Seidingstadt] 
-Country :: [[Germany]]  
-State :: [[../../Bayern]] ] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[../../Bayern]] ] 
 [Population::] 
 [Unknown::] 
 

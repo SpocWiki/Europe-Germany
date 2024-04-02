@@ -26,10 +26,12 @@ geojsonFolder: ./State~Hamburg/
 markerFolder: ./State~Hamburg/
 ```
 
-Country :: [[Germany]] ] 
+has_place_country:: [[Germany]] ] 
 Capital :: [[Hamburg]] ] 
-[geo-lon::9.93222] 
-[geo-lat::53.54] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.93222] 
+[has_place_latitude::53.54] 
 [Population::] 
 
 

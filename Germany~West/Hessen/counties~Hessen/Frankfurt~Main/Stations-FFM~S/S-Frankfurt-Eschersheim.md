@@ -10,10 +10,12 @@ SpocWebEntityId: 156445
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.655016] 
-[geo-lat::50.15821] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.655016] 
+[has_place_latitude::50.15821] 
 [name::Frankfurt-Eschersheim] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

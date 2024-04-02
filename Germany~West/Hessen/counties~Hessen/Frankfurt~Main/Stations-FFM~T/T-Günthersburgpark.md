@@ -10,10 +10,12 @@ SpocWebEntityId: 156560
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.700394] 
-[geo-lat::50.12889] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.700394] 
+[has_place_latitude::50.12889] 
 [name::Günthersburgpark] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

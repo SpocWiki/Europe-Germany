@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.37] 
-[geo-lat::53.4] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.37] 
+[has_place_latitude::53.4] 
 [name::Jasnitz] 
-Country :: [[Germany]]  
-State :: [[Mecklenburg-Vorpommern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Mecklenburg-Vorpommern]]  
 [Population::] 
 [Unknown::] 
 

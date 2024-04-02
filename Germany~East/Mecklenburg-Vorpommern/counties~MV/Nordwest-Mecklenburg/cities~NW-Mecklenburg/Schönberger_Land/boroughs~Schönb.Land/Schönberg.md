@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.93] 
-[geo-lat::53.85] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.93] 
+[has_place_latitude::53.85] 
 [name::Schoenberg] 
-Country :: [[Germany]]  
-State :: [[Mecklenburg-Vorpommern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Mecklenburg-Vorpommern]]  
 [Population::] 
 [Unknown::] 
 

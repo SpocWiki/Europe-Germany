@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.88] 
-[geo-lat::54.29] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.88] 
+[has_place_latitude::54.29] 
 [name::Oldenburg~Holstein] 
-Country :: [[Germany]]  
-State :: [[Schleswig-Holstein]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Schleswig-Holstein]]  
 [Population::] 
 [Unknown::] 
 

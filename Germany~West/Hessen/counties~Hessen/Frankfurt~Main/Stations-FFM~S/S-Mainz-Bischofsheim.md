@@ -10,10 +10,12 @@ SpocWebEntityId: 156460
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.362575] 
-[geo-lat::49.99031] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.362575] 
+[has_place_latitude::49.99031] 
 [name::Mainz-Bischofsheim] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

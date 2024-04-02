@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.97] 
-[geo-lat::49.93] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.97] 
+[has_place_latitude::49.93] 
 [name::Langstadt] 
-Country :: [[Germany]]  
-State :: [[Hessen]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Hessen]] 
 [Population::] 
 [Unknown::] 
 

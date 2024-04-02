@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.05] 
-[geo-lat::51.85] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.05] 
+[has_place_latitude::51.85] 
 [name::Gandersheim] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]]  
 [Population::] 
 [Unknown::] 
 

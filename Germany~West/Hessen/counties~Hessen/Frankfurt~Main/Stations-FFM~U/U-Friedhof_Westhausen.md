@@ -11,10 +11,12 @@ SpocWebEntityId: 156248
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.612863] 
-[geo-lat::50.13905] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.612863] 
+[has_place_latitude::50.13905] 
 [name::Friedhof Westhausen] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::-] 
 [switch-to-ÖPNV::-] 

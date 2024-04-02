@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.65] 
-[geo-lat::50.65] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.65] 
+[has_place_latitude::50.65] 
 [name::Gelenau] 
-Country :: [[Germany]]  
-State :: [[Sachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Sachsen]]  
 [Population::] 
 [Unknown::] 
 

@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.43] 
-[geo-lat::54.68] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.43] 
+[has_place_latitude::54.68] 
 [name::Arkona] 
-State ::  
-Country :: [[Portugal]]  
+has_place_province::  
+has_place_country:: [[Portugal]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

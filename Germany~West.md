@@ -52,7 +52,7 @@ markerFolder: ./Germany~West/
 [name-de::BRD] 
 [Area-Total::] 
 [Area-Land::] 
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::D] 
 [Capital-Id::] 
 ![[Coat_of_arms_of_Germany.svg|350]] 
@@ -60,8 +60,10 @@ Continent :: [[Europe]]
 ![[Flag_of_Germany.svg|350]] 
 [Alcohol-l::12.8] 
 [Language-Id::497] 
-[geo-lon::10.1207] 
-[geo-lat::50.8699] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.1207] 
+[has_place_latitude::50.8699] 
 
 # Countries 
 [[Baden-Wuerttemberg|Baden-Wuerttemberg]] 

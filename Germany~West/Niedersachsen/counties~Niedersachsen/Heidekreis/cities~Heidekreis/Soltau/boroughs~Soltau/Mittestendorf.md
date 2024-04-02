@@ -16,11 +16,13 @@ confidential: public
 
 #is_a_/City 
 
-[geo-lon::9.8] 
-[geo-lat::52.95] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.8] 
+[has_place_latitude::52.95] 
 [name::Mittestendorf] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]]  
 [Population::] 
 [Unknown::] 
 

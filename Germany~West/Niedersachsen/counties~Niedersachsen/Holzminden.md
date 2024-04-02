@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.45] 
-[geo-lat::51.83] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.45] 
+[has_place_latitude::51.83] 
 [name::Holzminden] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]] ] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]] ] 
 [Population::] 
 [Unknown::] 
 

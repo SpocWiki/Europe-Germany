@@ -10,10 +10,12 @@ SpocWebEntityId: 156363
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.48618] 
-[geo-lat::50.06972] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.48618] 
+[has_place_latitude::50.06972] 
 [name::Hattersheim~Main] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

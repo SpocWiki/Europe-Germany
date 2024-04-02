@@ -13,10 +13,12 @@ SpocWebEntityId: 156471
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.692476] 
-[geo-lat::50.1069] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.692476] 
+[has_place_latitude::50.1069] 
 [name::Frankensteiner Platz] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

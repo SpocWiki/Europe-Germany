@@ -10,10 +10,12 @@ SpocWebEntityId: 156458
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.277778] 
-[geo-lat::49.99333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.277778] 
+[has_place_latitude::49.99333] 
 [name::Mainz Römisches Theater] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

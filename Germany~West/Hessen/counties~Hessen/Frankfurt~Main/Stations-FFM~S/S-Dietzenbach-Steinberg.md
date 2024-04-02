@@ -10,10 +10,12 @@ SpocWebEntityId: 156400
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.775556] 
-[geo-lat::50.00861] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.775556] 
+[has_place_latitude::50.00861] 
 [name::Dietzenbach-Steinberg] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

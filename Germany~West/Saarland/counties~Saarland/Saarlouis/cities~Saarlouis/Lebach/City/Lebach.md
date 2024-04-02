@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.9] 
-[geo-lat::49.42] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.9] 
+[has_place_latitude::49.42] 
 [name::Lebach] 
-Country :: [[Germany]]  
-State :: [[Saarland]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Saarland]] 
 [Population::] 
 [Unknown::] 
 

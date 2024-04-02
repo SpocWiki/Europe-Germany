@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.1] 
-[geo-lat::52.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.1] 
+[has_place_latitude::52.9] 
 [name::Bergen~Dumme] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]] ] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]] ] 
 [Population::] 
 [Unknown::] 
 

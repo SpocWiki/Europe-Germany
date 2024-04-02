@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.87] 
-[geo-lat::51.48] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.87] 
+[has_place_latitude::51.48] 
 [name::Oberhausen~Westfahlen] 
-Country :: [[Germany]]  
-State :: [[NordRhein-Westfahlen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[NordRhein-Westfahlen]]  
 [Population::] 
 [Unknown::] 
 

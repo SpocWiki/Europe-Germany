@@ -11,10 +11,12 @@ SpocWebEntityId: 156298
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.634558] 
-[geo-lat::50.17915] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.634558] 
+[has_place_latitude::50.17915] 
 [name::Riedberg] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::-] 
 [switch-to-ÖPNV::29] 

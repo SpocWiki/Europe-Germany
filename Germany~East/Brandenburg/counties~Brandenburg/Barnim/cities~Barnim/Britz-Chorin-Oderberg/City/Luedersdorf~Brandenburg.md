@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.07] 
-[geo-lat::52.93] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.07] 
+[has_place_latitude::52.93] 
 [name::Luedersdorf~Brandenburg] 
-Country :: [[Germany]]  
-State :: [[Brandenburg]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Brandenburg]]  
 [Population::] 
 [Unknown::] 
 

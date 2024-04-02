@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.18] 
-[geo-lat::50.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.18] 
+[has_place_latitude::50.87] 
 [name::Ronneburg] 
-Country :: [[Germany]]  
-State :: [[Thüringen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Thüringen]]  
 [Population::] 
 [Unknown::] 
 

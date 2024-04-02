@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.75] 
-[geo-lat::52.97] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.75] 
+[has_place_latitude::52.97] 
 [name::Joachimsthal=Jachymov] 
-State ::  
-Country :: Czech_Rep.] 
+has_place_province::  
+has_place_country:: Czech_Rep.] 
 [StateId::] 
 [Population::] 
 [Unknown::] 

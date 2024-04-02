@@ -13,10 +13,12 @@ SpocWebEntityId: 156492
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.688642] 
-[geo-lat::50.11247] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.688642] 
+[has_place_latitude::50.11247] 
 [name::Börneplatz/Stolzestraße] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

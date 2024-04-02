@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.28] 
-[geo-lat::53.32] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.28] 
+[has_place_latitude::53.32] 
 [name::Radbruch] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]]  
 [Population::] 
 [Unknown::] 
 

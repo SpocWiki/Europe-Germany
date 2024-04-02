@@ -11,10 +11,12 @@ SpocWebEntityId: 156308
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.616024] 
-[geo-lat::50.13502] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.616024] 
+[has_place_latitude::50.13502] 
 [name::Stephan-Heise-Straße] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::-] 
 [switch-to-ÖPNV::-] 

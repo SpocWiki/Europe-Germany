@@ -11,10 +11,12 @@ SpocWebEntityId: 156309
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.6861] 
-[geo-lat::50.0994] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.6861] 
+[has_place_latitude::50.0994] 
 [name::Südbahnhof] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::Fern- und Regionalverkehr, S-Bahn, Straßenbahn] 
 [switch-to-ÖPNV::45, 47, 48, 61, 78, 653, OF-50] 

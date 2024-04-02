@@ -11,10 +11,12 @@ SpocWebEntityId: 156293
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.587596] 
-[geo-lat::50.19919] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.587596] 
+[has_place_latitude::50.19919] 
 [name::Oberursel Bahnhof] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::S-Bahn, Regionalbahn (Taunusbahn)] 
 [switch-to-ÖPNV::Stadtverkehr Oberursel, 252, 261] 

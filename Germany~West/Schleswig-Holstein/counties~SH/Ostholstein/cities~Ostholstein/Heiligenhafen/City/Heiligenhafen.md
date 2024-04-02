@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.98] 
-[geo-lat::54.37] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.98] 
+[has_place_latitude::54.37] 
 [name::Heiligenhafen] 
-Country :: [[Germany]]  
-State :: [[Schleswig-Holstein]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Schleswig-Holstein]]  
 [Population::] 
 [Unknown::] 
 

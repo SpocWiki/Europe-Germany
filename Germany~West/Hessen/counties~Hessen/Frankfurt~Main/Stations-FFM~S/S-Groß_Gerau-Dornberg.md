@@ -10,10 +10,12 @@ SpocWebEntityId: 156449
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.486341] 
-[geo-lat::49.90724] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.486341] 
+[has_place_latitude::49.90724] 
 [name::Groß Gerau-Dornberg] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

@@ -11,10 +11,12 @@ SpocWebEntityId: 156264
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.649709] 
-[geo-lat::50.16139] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.649709] 
+[has_place_latitude::50.16139] 
 [name::Heddernheim] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::-] 
 [switch-to-ÖPNV::60] 

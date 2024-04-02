@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.77] 
-[geo-lat::54] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.77] 
+[has_place_latitude::54] 
 [name::Timmendorfer Strand] 
-Country :: [[Germany]]  
-State :: [[Schleswig-Holstein]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Schleswig-Holstein]]  
 [Population::] 
 [Unknown::] 
 

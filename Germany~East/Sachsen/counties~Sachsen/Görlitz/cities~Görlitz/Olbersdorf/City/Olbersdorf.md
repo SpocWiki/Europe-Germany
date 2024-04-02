@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.78] 
-[geo-lat::50.88] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.78] 
+[has_place_latitude::50.88] 
 [name::Olbersdorf] 
-Country :: [[Germany]]  
-State :: [[Sachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Sachsen]]  
 [Population::] 
 [Unknown::] 
 

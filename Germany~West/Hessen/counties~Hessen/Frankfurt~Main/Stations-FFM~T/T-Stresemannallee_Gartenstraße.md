@@ -10,10 +10,12 @@ SpocWebEntityId: 156498
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.669487] 
-[geo-lat::50.09955] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.669487] 
+[has_place_latitude::50.09955] 
 [name::Stresemannallee/Gartenstraße] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

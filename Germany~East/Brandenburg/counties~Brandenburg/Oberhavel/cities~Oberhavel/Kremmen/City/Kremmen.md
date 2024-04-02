@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.03] 
-[geo-lat::52.77] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.03] 
+[has_place_latitude::52.77] 
 [name::Kremmen] 
-Country :: [[Germany]]  
-State :: [[Brandenburg]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Brandenburg]]  
 [Population::] 
 [Unknown::] 
 

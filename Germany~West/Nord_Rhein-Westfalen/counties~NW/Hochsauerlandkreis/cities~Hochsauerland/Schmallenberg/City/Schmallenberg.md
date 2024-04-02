@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.3] 
-[geo-lat::51.15] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.3] 
+[has_place_latitude::51.15] 
 [name::Schmallenberg] 
-Country :: [[Germany]]  
-State :: [[NordRhein-Westfahlen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[NordRhein-Westfahlen]]  
 [Population::] 
 [Unknown::] 
 

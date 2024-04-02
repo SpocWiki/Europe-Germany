@@ -10,10 +10,12 @@ SpocWebEntityId: 156456
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.227777] 
-[geo-lat::50.01944] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.227777] 
+[has_place_latitude::50.01944] 
 [name::Mainz Nord] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

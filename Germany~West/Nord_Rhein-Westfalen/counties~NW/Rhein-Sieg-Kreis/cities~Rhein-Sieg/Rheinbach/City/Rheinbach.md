@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.95] 
-[geo-lat::50.63] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.95] 
+[has_place_latitude::50.63] 
 [name::Rheinbach] 
-Country :: [[Germany]]  
-State :: [[NordRhein-Westfahlen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[NordRhein-Westfahlen]]  
 [Population::] 
 [Unknown::] 
 

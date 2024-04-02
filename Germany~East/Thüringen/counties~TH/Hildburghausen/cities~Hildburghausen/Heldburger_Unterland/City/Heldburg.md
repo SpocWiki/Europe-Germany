@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.73] 
-[geo-lat::50.28] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.73] 
+[has_place_latitude::50.28] 
 [name::Heldburg] 
-Country :: [[Germany]]  
-State :: [[../../Bayern]] ] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[../../Bayern]] ] 
 [Population::] 
 [Unknown::] 
 

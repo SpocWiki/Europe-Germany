@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.93] 
-[geo-lat::49.98] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.93] 
+[has_place_latitude::49.98] 
 [name::Ruedesheim] 
-Country :: [[Germany]]  
-State :: [[Rheinland-Pfalz]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Rheinland-Pfalz]]  
 [Population::] 
 [Unknown::] 
 

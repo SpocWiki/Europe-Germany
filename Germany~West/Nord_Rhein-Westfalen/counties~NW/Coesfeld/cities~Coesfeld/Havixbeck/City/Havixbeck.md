@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.4] 
-[geo-lat::51.98] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.4] 
+[has_place_latitude::51.98] 
 [name::Havixbeck] 
-Country :: [[Germany]]  
-State :: [[NordRhein-Westfahlen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[NordRhein-Westfahlen]]  
 [Population::] 
 [Unknown::] 
 

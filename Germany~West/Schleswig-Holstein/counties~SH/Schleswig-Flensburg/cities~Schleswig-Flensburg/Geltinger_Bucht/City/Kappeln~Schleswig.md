@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.93] 
-[geo-lat::54.67] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.93] 
+[has_place_latitude::54.67] 
 [name::Kappeln~Schleswig] 
-Country :: [[Germany]]  
-State :: [[Schleswig-Holstein]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Schleswig-Holstein]]  
 [Population::] 
 [Unknown::] 
 

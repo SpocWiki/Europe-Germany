@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.61] 
-[geo-lat::51.66] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.61] 
+[has_place_latitude::51.66] 
 [name::Wesel] 
-Country :: [[Germany]]  
-State :: [[NordRhein-Westfahlen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[NordRhein-Westfahlen]]  
 [Population::] 
 [Unknown::] 
 

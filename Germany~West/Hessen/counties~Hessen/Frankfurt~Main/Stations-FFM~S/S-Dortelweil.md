@@ -10,10 +10,12 @@ SpocWebEntityId: 156440
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.754723] 
-[geo-lat::50.2075] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.754723] 
+[has_place_latitude::50.2075] 
 [name::Dortelweil] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

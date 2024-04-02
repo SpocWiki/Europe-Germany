@@ -10,10 +10,12 @@ SpocWebEntityId: 156487
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.708612] 
-[geo-lat::50.11137] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.708612] 
+[has_place_latitude::50.11137] 
 [name::Ostbahnhof/Honsellstraße] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

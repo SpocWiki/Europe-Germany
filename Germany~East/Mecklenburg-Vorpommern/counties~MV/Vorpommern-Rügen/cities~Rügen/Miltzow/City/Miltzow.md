@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.22] 
-[geo-lat::54.2] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.22] 
+[has_place_latitude::54.2] 
 [name::Miltzow] 
-Country :: [[Germany]]  
-State :: [[Mecklenburg-Vorpommern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Mecklenburg-Vorpommern]]  
 [Population::] 
 [Unknown::] 
 

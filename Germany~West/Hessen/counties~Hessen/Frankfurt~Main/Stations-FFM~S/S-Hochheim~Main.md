@@ -10,10 +10,12 @@ SpocWebEntityId: 156360
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.350764] 
-[geo-lat::50.01083] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.350764] 
+[has_place_latitude::50.01083] 
 [name::Hochheim~Main] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

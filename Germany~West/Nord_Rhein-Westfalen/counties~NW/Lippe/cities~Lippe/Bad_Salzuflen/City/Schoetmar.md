@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.77] 
-[geo-lat::52.07] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.77] 
+[has_place_latitude::52.07] 
 [name::Schoetmar] 
-Country :: [[Germany]]  
-State :: [[NordRhein-Westfahlen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[NordRhein-Westfahlen]]  
 [Population::] 
 [Unknown::] 
 

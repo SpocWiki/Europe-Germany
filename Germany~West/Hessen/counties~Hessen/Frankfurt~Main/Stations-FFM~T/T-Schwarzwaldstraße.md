@@ -10,10 +10,12 @@ SpocWebEntityId: 156562
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.646634] 
-[geo-lat::50.0868] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.646634] 
+[has_place_latitude::50.0868] 
 [name::Schwarzwaldstraße] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

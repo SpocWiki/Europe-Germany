@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.43] 
-[geo-lat::53.65] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.43] 
+[has_place_latitude::53.65] 
 [name::Dornum] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]]  
 [Population::] 
 [Unknown::] 
 

@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10] 
-[geo-lat::52.37] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10] 
+[has_place_latitude::52.37] 
 [name::Lehrte] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]]  
 [Population::] 
 [Unknown::] 
 

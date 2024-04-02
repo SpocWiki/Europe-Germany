@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.92] 
-[geo-lat::50.62] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.92] 
+[has_place_latitude::50.62] 
 [name::Milseburg] 
-Country :: [[Germany]]  
-State :: [[Hessen]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Hessen]] 
 [Population::] 
 [Unknown::] 
 

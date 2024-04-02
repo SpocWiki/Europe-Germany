@@ -15,10 +15,12 @@ SpocWebEntityId: 156534
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.731064] 
-[geo-lat::50.10045] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.731064] 
+[has_place_latitude::50.10045] 
 [name::Flaschenburgstraße] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

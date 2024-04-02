@@ -10,10 +10,12 @@ SpocWebEntityId: 156406
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.534777] 
-[geo-lat::50.15986] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.534777] 
+[has_place_latitude::50.15986] 
 [name::Schwalbach~Taunus Nord] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

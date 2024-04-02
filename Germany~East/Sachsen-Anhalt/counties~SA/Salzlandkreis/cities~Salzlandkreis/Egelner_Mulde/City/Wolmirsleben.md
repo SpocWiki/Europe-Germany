@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.48] 
-[geo-lat::51.95] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.48] 
+[has_place_latitude::51.95] 
 [name::Wolmirsleben] 
-Country :: [[Germany]]  
-State :: [[Sachsen-Anhalt]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Sachsen-Anhalt]]  
 [Population::] 
 [Unknown::] 
 

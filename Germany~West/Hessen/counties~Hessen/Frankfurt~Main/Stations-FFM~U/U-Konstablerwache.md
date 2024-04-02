@@ -11,10 +11,12 @@ SpocWebEntityId: 156276
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.688] 
-[geo-lat::50.1141] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.688] 
+[has_place_latitude::50.1141] 
 [name::Konstablerwache] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::C, S-Bahn, Straßenbahn] 
 [switch-to-ÖPNV::30, 36] 

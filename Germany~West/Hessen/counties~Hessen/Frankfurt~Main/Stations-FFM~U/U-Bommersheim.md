@@ -11,10 +11,12 @@ SpocWebEntityId: 156236
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.59324] 
-[geo-lat::50.19361] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.59324] 
+[has_place_latitude::50.19361] 
 [name::Bommersheim] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::-] 
 [switch-to-ÖPNV::Stadtverkehr Oberursel] 

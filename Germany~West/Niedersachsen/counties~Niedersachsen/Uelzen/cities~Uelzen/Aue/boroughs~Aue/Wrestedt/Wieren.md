@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.65] 
-[geo-lat::52.88] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.65] 
+[has_place_latitude::52.88] 
 [name::Wieren] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]]  
 [Population::] 
 [Unknown::] 
 

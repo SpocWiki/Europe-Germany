@@ -10,10 +10,12 @@ SpocWebEntityId: 156524
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.677882] 
-[geo-lat::50.09332] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.677882] 
+[has_place_latitude::50.09332] 
 [name::Breslauer Straße] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

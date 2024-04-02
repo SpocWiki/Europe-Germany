@@ -10,10 +10,12 @@ SpocWebEntityId: 156383
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.848194] 
-[geo-lat::50.07153] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.848194] 
+[has_place_latitude::50.07153] 
 [name::Obertshausen] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

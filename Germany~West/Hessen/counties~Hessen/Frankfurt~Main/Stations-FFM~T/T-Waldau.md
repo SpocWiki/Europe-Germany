@@ -10,10 +10,12 @@ SpocWebEntityId: 156509
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.611544] 
-[geo-lat::50.07677] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.611544] 
+[has_place_latitude::50.07677] 
 [name::Waldau] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

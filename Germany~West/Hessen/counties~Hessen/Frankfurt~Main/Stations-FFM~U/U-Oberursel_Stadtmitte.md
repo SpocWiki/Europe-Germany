@@ -11,10 +11,12 @@ SpocWebEntityId: 156294
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.585354] 
-[geo-lat::50.2025] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.585354] 
+[has_place_latitude::50.2025] 
 [name::Oberursel Stadtmitte] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::-] 
 [switch-to-ÖPNV::-] 

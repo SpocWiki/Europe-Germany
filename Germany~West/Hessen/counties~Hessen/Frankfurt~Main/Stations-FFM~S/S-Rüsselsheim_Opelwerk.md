@@ -10,10 +10,12 @@ SpocWebEntityId: 156461
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.411944] 
-[geo-lat::49.995] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.411944] 
+[has_place_latitude::49.995] 
 [name::Rüsselsheim Opelwerk] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

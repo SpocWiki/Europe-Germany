@@ -10,10 +10,12 @@ SpocWebEntityId: 156370
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.669723] 
-[geo-lat::50.11389] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.669723] 
+[has_place_latitude::50.11389] 
 [name::Frankfurt Taunusanlage] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

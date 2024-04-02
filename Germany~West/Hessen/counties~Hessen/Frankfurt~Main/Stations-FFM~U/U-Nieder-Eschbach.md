@@ -11,10 +11,12 @@ SpocWebEntityId: 156288
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.670487] 
-[geo-lat::50.19913] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.670487] 
+[has_place_latitude::50.19913] 
 [name::Nieder-Eschbach] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::-] 
 [switch-to-ÖPNV::27, 29] 

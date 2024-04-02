@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.04] 
-[geo-lat::52.28] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.04] 
+[has_place_latitude::52.28] 
 [name::Osnabrueck] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]]  
 [Population::] 
 [Unknown::] 
 

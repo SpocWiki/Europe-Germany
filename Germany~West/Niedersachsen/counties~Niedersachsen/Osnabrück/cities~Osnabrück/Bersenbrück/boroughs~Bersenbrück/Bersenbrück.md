@@ -15,11 +15,13 @@ confidential: public
 aliases:
   - Bersenbrueck
 ---
-[geo-lon::8] 
-[geo-lat::52.88] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8] 
+[has_place_latitude::52.88] 
 [name::Bersenbrueck] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]]  
 [Population::] 
 [Unknown::] 
 

@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.38] 
-[geo-lat::49.55] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.38] 
+[has_place_latitude::49.55] 
 [name::Remich] 
-State ::  
-Country :: [[geo/Continent/Europe/Europe~West/Luxembourg]] 
+has_place_province::  
+has_place_country:: [[geo/Continent/Europe/Europe~West/Luxembourg]] 
 [StateId::] 
 [Population::] 
 [Unknown::] 

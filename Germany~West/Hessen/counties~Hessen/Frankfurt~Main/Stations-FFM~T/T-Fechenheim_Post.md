@@ -10,10 +10,12 @@ SpocWebEntityId: 156477
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.770209] 
-[geo-lat::50.12461] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.770209] 
+[has_place_latitude::50.12461] 
 [name::Fechenheim Post] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

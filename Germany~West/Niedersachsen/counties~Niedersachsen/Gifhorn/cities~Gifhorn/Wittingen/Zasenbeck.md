@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.85] 
-[geo-lat::52.67] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.85] 
+[has_place_latitude::52.67] 
 [name::Zasenbeck] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]]  
 [Population::] 
 [Unknown::] 
 

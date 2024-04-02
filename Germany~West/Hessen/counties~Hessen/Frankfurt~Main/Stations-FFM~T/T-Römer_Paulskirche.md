@@ -10,10 +10,12 @@ SpocWebEntityId: 156493
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.681671] 
-[geo-lat::50.11159] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.681671] 
+[has_place_latitude::50.11159] 
 [name::Römer/Paulskirche] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.38] 
-[geo-lat::50.83] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.38] 
+[has_place_latitude::50.83] 
 [name::Nausis] 
-Country :: [[Germany]]  
-State :: [[Hessen]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Hessen]] 
 [Population::] 
 [Unknown::] 
 

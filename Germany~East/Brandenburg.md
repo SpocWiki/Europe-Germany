@@ -145,10 +145,12 @@ markerFolder: ./Brandenburg/
 markerFolder: ./Brandenburg/
 ```
 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 Capital :: [[Potsdam]] ] 
-[geo-lon::13.3801] 
-[geo-lat::52.3844] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.3801] 
+[has_place_latitude::52.3844] 
 [Population::] 
 
 

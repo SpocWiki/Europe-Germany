@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.42] 
-[geo-lat::52.57] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.42] 
+[has_place_latitude::52.57] 
 [name::Pankow] 
-Country :: [[Germany]]  
-State :: [[State~Berlin]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[State~Berlin]]  
 [Population::] 
 [Unknown::] 
 

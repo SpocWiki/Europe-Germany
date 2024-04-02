@@ -10,10 +10,12 @@ SpocWebEntityId: 156365
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.528183] 
-[geo-lat::50.09836] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.528183] 
+[has_place_latitude::50.09836] 
 [name::Frankfurt-Höchst Farbwerke] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

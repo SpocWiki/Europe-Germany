@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.47] 
-[geo-lat::51.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.47] 
+[has_place_latitude::51.75] 
 [name::Graefenheinichen] 
-Country :: [[Germany]]  
-State :: [[Sachsen-Anhalt]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Sachsen-Anhalt]]  
 [Population::] 
 [Unknown::] 
 

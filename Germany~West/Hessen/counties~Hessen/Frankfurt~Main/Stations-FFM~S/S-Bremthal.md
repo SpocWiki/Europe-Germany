@@ -10,10 +10,12 @@ SpocWebEntityId: 156393
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.358789] 
-[geo-lat::50.14029] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.358789] 
+[has_place_latitude::50.14029] 
 [name::Bremthal] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

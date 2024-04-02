@@ -10,10 +10,12 @@ SpocWebEntityId: 156464
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.530139] 
-[geo-lat::50.06882] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.530139] 
+[has_place_latitude::50.06882] 
 [name::Kelsterbach] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

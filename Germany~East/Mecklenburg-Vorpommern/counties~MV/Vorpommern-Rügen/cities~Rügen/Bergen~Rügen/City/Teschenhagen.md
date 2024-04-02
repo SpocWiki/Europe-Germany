@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.37] 
-[geo-lat::54.4] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.37] 
+[has_place_latitude::54.4] 
 [name::Teschenhagen] 
-Country :: [[Germany]]  
-State :: [[Mecklenburg-Vorpommern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Mecklenburg-Vorpommern]]  
 [Population::] 
 [Unknown::] 
 

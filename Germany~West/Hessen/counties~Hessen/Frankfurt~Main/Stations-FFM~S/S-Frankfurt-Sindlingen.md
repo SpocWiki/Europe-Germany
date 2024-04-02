@@ -10,10 +10,12 @@ SpocWebEntityId: 156364
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.512283] 
-[geo-lat::50.08746] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.512283] 
+[has_place_latitude::50.08746] 
 [name::Frankfurt-Sindlingen] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

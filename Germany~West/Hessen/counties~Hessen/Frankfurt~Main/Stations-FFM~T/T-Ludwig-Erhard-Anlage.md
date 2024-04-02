@@ -10,10 +10,12 @@ SpocWebEntityId: 156588
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.6518] 
-[geo-lat::50.1134] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.6518] 
+[has_place_latitude::50.1134] 
 [name::Ludwig-Erhard-Anlage] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

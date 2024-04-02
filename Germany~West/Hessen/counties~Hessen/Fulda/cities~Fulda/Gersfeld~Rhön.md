@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.93] 
-[geo-lat::50.45] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.93] 
+[has_place_latitude::50.45] 
 [name::Gersfeld] 
-Country :: [[Germany]]  
-State :: [[Hessen]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Hessen]] 
 [Population::] 
 [Unknown::] 
 

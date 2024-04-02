@@ -25,10 +25,12 @@ geojsonFolder: ./State~Berlin/
 markerFolder: ./State~Berlin/
 ```
 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 Capital :: [[Berlin]]  
-[geo-lon::13.3689] 
-[geo-lat::52.4926] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.3689] 
+[has_place_latitude::52.4926] 
 [Population::] 
 
 

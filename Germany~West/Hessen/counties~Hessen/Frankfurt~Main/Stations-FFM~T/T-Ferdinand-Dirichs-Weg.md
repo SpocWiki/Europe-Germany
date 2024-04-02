@@ -10,10 +10,12 @@ SpocWebEntityId: 156512
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.588766] 
-[geo-lat::50.0826] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.588766] 
+[has_place_latitude::50.0826] 
 [name::Ferdinand-Dirichs-Weg] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

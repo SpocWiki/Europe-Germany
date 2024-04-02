@@ -11,10 +11,12 @@ SpocWebEntityId: 156291
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.649699] 
-[geo-lat::50.21477] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.649699] 
+[has_place_latitude::50.21477] 
 [name::Ober-Eschbach] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::-] 
 [switch-to-ÖPNV::Stadtverkehr Bad Homburg] 

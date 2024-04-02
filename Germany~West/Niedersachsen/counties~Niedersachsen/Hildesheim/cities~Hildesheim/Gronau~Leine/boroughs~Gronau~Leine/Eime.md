@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.73] 
-[geo-lat::52.08] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.73] 
+[has_place_latitude::52.08] 
 [name::Eime] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]]  
 [Population::] 
 [Unknown::] 
 

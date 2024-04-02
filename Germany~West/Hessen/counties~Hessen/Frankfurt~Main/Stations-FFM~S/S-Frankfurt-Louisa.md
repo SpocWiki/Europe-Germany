@@ -10,10 +10,12 @@ SpocWebEntityId: 156427
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.670337] 
-[geo-lat::50.08318] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.670337] 
+[has_place_latitude::50.08318] 
 [name::Frankfurt-Louisa] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.2] 
-[geo-lat::51.07] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.2] 
+[has_place_latitude::51.07] 
 [name::Ifta] 
-Country :: [[Germany]]  
-State :: [[Thüringen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Thüringen]]  
 [Population::] 
 [Unknown::] 
 

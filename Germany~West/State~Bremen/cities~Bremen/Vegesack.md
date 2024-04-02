@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.62] 
-[geo-lat::53.18] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.62] 
+[has_place_latitude::53.18] 
 [name::Vegesack] 
-Country :: [[Germany]]  
-State :: [[State~Bremen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[State~Bremen]]  
 [Population::] 
 [Unknown::] 
 

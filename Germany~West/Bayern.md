@@ -211,10 +211,12 @@ geojsonFolder: ./Bayern/
 markerFolder: ./Bayern/
 ```
 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 Capital ::  [[München]] ] 
-[geo-lon::11.3382] 
-[geo-lat::48.8642] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.3382] 
+[has_place_latitude::48.8642] 
 [Population::] 
 
 

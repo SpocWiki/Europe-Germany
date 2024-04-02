@@ -11,10 +11,12 @@ SpocWebEntityId: 156234
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.672222] 
-[geo-lat::50.115] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.672222] 
+[has_place_latitude::50.115] 
 [name::Alte Oper] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 [switch-to-SPNV::-] 
 [switch-to-ÖPNV::64] 

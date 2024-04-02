@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.07] 
-[geo-lat::51.4] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.07] 
+[has_place_latitude::51.4] 
 [name::Arnsberg] 
-Country :: [[Germany]]  
-State :: [[NordRhein-Westfahlen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[NordRhein-Westfahlen]]  
 [Population::] 
 [Unknown::] 
 

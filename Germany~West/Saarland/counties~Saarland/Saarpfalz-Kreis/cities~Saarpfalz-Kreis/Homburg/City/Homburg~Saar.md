@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.33] 
-[geo-lat::49.33] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.33] 
+[has_place_latitude::49.33] 
 [name::Homburg~Saar] 
-Country :: [[Germany]]  
-State :: [[Rheinland-Pfalz]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Rheinland-Pfalz]]  
 [Population::] 
 [Unknown::] 
 

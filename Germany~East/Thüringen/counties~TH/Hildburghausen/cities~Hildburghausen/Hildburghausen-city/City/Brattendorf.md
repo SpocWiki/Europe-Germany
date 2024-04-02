@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.75] 
-[geo-lat::50.42] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.75] 
+[has_place_latitude::50.42] 
 [name::Brattendorf] 
-Country :: [[Germany]]  
-State :: [[Thüringen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Thüringen]]  
 [Population::] 
 [Unknown::] 
 

@@ -10,10 +10,12 @@ SpocWebEntityId: 156542
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.701526] 
-[geo-lat::50.11817] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.701526] 
+[has_place_latitude::50.11817] 
 [name::S-Bahn Waldschmidtstraße] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

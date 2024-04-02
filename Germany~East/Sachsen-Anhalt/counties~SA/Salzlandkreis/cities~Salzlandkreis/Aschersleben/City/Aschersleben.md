@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.45] 
-[geo-lat::51.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.45] 
+[has_place_latitude::51.75] 
 [name::Aschersleben] 
-Country :: [[Germany]]  
-State :: [[Sachsen-Anhalt]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Sachsen-Anhalt]]  
 [Population::] 
 [Unknown::] 
 

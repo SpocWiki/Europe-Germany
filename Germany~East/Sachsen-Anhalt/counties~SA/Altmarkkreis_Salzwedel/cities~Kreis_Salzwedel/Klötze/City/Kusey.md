@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.08] 
-[geo-lat::52.58] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.08] 
+[has_place_latitude::52.58] 
 [name::Kusey] 
-Country :: [[Germany]]  
-State :: [[Sachsen-Anhalt]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Sachsen-Anhalt]]  
 [Population::] 
 [Unknown::] 
 

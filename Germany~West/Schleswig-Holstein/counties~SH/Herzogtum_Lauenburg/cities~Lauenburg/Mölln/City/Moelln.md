@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.68] 
-[geo-lat::53.62] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.68] 
+[has_place_latitude::53.62] 
 [name::Moelln] 
-Country :: [[Germany]]  
-State :: [[Schleswig-Holstein]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Schleswig-Holstein]]  
 [Population::] 
 [Unknown::] 
 

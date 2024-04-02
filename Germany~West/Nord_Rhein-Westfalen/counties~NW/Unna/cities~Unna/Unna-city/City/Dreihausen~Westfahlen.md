@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.83] 
-[geo-lat::51.53] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.83] 
+[has_place_latitude::51.53] 
 [name::Dreihausen~Westfahlen] 
-Country :: [[Germany]]  
-State :: [[NordRhein-Westfahlen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[NordRhein-Westfahlen]]  
 [Population::] 
 [Unknown::] 
 

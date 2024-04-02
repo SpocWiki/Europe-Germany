@@ -15,11 +15,13 @@ confidential: public
 aliases:
   - Lueneburg
 ---
-[geo-lon::10.41] 
-[geo-lat::53.24] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.41] 
+[has_place_latitude::53.24] 
 [name::Lüneburg] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]] ] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]] ] 
 [Population::] 
 [Unknown::] 
 

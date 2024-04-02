@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.72] 
-[geo-lat::53.13] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.72] 
+[has_place_latitude::53.13] 
 [name::Grambke] 
-Country :: [[Germany]]  
-State :: [[State~Bremen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[State~Bremen]]  
 [Population::] 
 [Unknown::] 
 

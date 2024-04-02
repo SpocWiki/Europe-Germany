@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.98] 
-[geo-lat::51.65] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.98] 
+[has_place_latitude::51.65] 
 [name::Gross-Treben] 
-Country :: [[Germany]]  
-State :: [[Sachsen-Anhalt]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Sachsen-Anhalt]]  
 [Population::] 
 [Unknown::] 
 

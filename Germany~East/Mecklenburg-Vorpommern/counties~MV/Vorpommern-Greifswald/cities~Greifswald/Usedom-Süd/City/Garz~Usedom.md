@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.18] 
-[geo-lat::53.88] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.18] 
+[has_place_latitude::53.88] 
 [name::Garz~Usedom] 
-Country :: [[Germany]]  
-State :: [[Mecklenburg-Vorpommern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Mecklenburg-Vorpommern]]  
 [Population::] 
 [Unknown::] 
 

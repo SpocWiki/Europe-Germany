@@ -15,11 +15,13 @@ confidential: public
 aliases:
   - Koenigslutter
 ---
-[geo-lon::10.82] 
-[geo-lat::52.25] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.82] 
+[has_place_latitude::52.25] 
 [name::Koenigslutter] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]]  
 [Population::] 
 [Unknown::] 
 

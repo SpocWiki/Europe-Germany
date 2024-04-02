@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.18] 
-[geo-lat::51.02] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.18] 
+[has_place_latitude::51.02] 
 [name::Herleshausen] 
-Country :: [[Germany]]  
-State :: [[../../Thüringen]] ] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[../../Thüringen]] ] 
 [Population::] 
 [Unknown::] 
 

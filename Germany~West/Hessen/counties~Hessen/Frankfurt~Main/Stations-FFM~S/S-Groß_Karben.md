@@ -10,10 +10,12 @@ SpocWebEntityId: 156439
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.771467] 
-[geo-lat::50.23755] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.771467] 
+[has_place_latitude::50.23755] 
 [name::Groß Karben] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

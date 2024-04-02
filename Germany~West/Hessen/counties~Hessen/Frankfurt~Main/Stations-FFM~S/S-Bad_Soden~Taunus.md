@@ -10,10 +10,12 @@ SpocWebEntityId: 156403
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.499722] 
-[geo-lat::50.14243] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.499722] 
+[has_place_latitude::50.14243] 
 [name::Bad Soden~Taunus] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

@@ -10,10 +10,12 @@ SpocWebEntityId: 156361
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::8.428056] 
-[geo-lat::50.01167] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.428056] 
+[has_place_latitude::50.01167] 
 [name::Flörsheim~Main] 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 City :: [[../../Frankfurt~Main]] ] 
 
 

@@ -147,10 +147,12 @@ geojsonFolder: ./Thüringen/
 markerFolder: ./Thüringen/
 ```
 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 Capital :: [[Erfurt]] ] 
-[geo-lon::11.0683] 
-[geo-lat::50.8463] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.0683] 
+[has_place_latitude::50.8463] 
 [Population::] 
 
 

@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.55] 
-[geo-lat::53.25] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.55] 
+[has_place_latitude::53.25] 
 [name::Nortmoor] 
-Country :: [[Germany]]  
-State :: [[Niedersachsen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Niedersachsen]]  
 [Population::] 
 [Unknown::] 
 

@@ -111,10 +111,12 @@ geojsonFolder: ./NordRhein-Westfalen//
 markerFolder: ./NordRhein-Westfalen/City/
 ```
 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 Capital :: [[Duesseldorf]]  
-[geo-lon::7.6153] 
-[geo-lat::51.4279] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.6153] 
+[has_place_latitude::51.4279] 
 [Population::] 
 
 
