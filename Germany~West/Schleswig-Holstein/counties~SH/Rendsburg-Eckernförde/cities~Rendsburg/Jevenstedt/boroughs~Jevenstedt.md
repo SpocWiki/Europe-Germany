@@ -1,17 +1,18 @@
-# [[Uelzen]] 
+
+# [[boroughs~Jevenstedt]]
 
 
 ## #has_/map 
 
 
 ```leaflet
-id: Uelzen
+id: boroughs~Jevenstedt
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
 defaultZoom: 11
-geojsonFolder: ./Uelzen/
-markerFolder: ./Uelzen/
+geojsonFolder: ./boroughs~Jevenstedt/
+markerFolder: ./boroughs~Jevenstedt///
 ```
 
 
