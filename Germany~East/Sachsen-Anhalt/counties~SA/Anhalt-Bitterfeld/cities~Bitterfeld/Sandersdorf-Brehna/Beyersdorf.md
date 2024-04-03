@@ -1,5 +1,5 @@
 ---
-location: [51.67,9.5] 
+location: [51.58,12.17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -18,7 +18,7 @@ confidential: public
 [has_place_latitude::51.67] 
 [name::Beyersdorf] 
 has_place_country:: [[Germany]]  
-has_place_province:: [[Niedersachsen]]  
+has_place_province:: [[Sachsen-Anhalt]]  
 [Population::] 
 [Unknown::] 
 
