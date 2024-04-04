@@ -1,5 +1,5 @@
 ﻿---
-location: [51.02,6.7] 
+location: [51.52, 6.69] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -14,8 +14,8 @@ confidential: public
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 
-[has_place_longitude::6.7] 
-[has_place_latitude::51.02] 
+[has_place_longitude::6.69] 
+[has_place_latitude::51.52] 
 [name::Orsoy] 
 has_place_country:: [[Germany]]  
 has_place_province:: [[NordRhein-Westfahlen]]  
