@@ -212,31 +212,60 @@ expiryDate:
 [name-abbr::BY] 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Germany-Bayern 
 
+> [!info]
 This Article is only a Stub. 
 If you need detailed geographical or historical Information, 
-please check out the ['Bavaria' Sub-Repository](https://github.com/SpocWiki/Germany-Bayern) 
-into a sub-folder named `/Bavaria/` next to this File. 
-Beware though, that this can considerably increase 
-the total size and depth of your wiki.
+do check out [this 'Bavaria' Sub-Repository](https://github.com/SpocWiki/Germany-Bayern) 
+into a sub-folder named `/Bavaria/` next to this File, 
+so that this Link into the Sub-Repository works: [[Bavaria/ReadMe]] 
+
+> [!warning] This can considerably increase the total size and depth of your wiki.
 
 
 ## #has_/text_of_/abstract  
 
-> **Bavaria**, officially the Free State of Bavaria, is a state in the southeast of Germany. With an area of 70,550.19 km2 (27,239.58 sq mi), it is the largest German state by land area, comprising roughly a fifth of the total land area of Germany. With over 13 million inhabitants, it is the second most populous German state  behind North Rhine-Westphalia, but due to its large physical size its population density is below the German average. Major cities include Munich (its capital and largest city, which is also the third largest city in Germany), Nuremberg, and Augsburg.
->
-> The history of Bavaria includes its earliest settlement by Iron Age Celtic tribes, followed by the conquests of the Roman Empire in the 1st century BC, when the territory was incorporated into the provinces of Raetia and Noricum. It became the Duchy of Bavaria (a stem duchy) in the 6th century AD following the collapse of the Western Roman Empire. It was later incorporated into the Holy Roman Empire, became the independent Kingdom of Bavaria after 1806, joined the Prussian-led German Empire in 1871 while retaining its title of kingdom, and finally became a state of the Federal Republic of Germany in 1949.Bavaria has a distinct culture, largely because of its Catholic heritage and conservative traditions, which includes a language, cuisine, architecture, festivals and elements of Alpine symbolism. It also has the second-largest economy among the German states by GDP figures, giving it the status of a wealthy German region. 
+> **Bavaria**, officially the Free State of Bavaria, is a state in the southeast of Germany. 
+> With an area of 70,550.19 km2 (27,239.58 sq mi), it is the largest German state by land area, 
+> comprising roughly a fifth of the total land area of Germany. 
 > 
-> Contemporary Bavaria also includes parts of the historical regions of Franconia and Swabia, in addition to Altbayern.
+> With over 13 million inhabitants, it is the second most populous German state 
+> behind North Rhine-Westphalia, but due to its large physical size 
+> its population density is below the German average. 
+> 
+> Major cities include Munich (its capital and largest city, 
+> which is also the third largest city in Germany), Nuremberg, and Augsburg.
+>
+> The history of Bavaria includes its earliest settlement by Iron Age Celtic tribes, 
+> followed by the conquests of the Roman Empire in the 1st century BC, 
+> when the territory was incorporated into the provinces of Raetia and Noricum. 
+> 
+> It became the Duchy of Bavaria (a stem duchy) in the 6th century AD 
+> following the collapse of the Western Roman Empire. 
+> 
+> It was later incorporated into the Holy Roman Empire, 
+> became the independent Kingdom of Bavaria after 1806, 
+> joined the Prussian-led German Empire in 1871 while retaining its title of kingdom, 
+> and finally became a state of the Federal Republic of Germany in 1949. 
+> Bavaria has a distinct culture, largely because of its Catholic heritage and conservative traditions, 
+> which includes a language, cuisine, architecture, festivals and elements of Alpine symbolism. 
+> 
+> It also has the second-largest economy among the German states by GDP figures, 
+> giving it the status of a wealthy German region. 
+> 
+> Contemporary Bavaria also includes parts of the historical regions of Franconia and Swabia, 
+> in addition to Altbayern.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bavaria)
 
+## Maps and Flags 
+
 ## #has_/image_for_/coat_of_arms 
 
-#has_/image_for_/coat_of_arms :: ![<img src="./Bayern/Coat_of_arms_of_Bavaria.svg" width=350/>|350](./Bayern/Coat_of_arms_of_Bavaria.svg)
+#has_/image_for_/coat_of_arms :: ![[./Bayern/Coat_of_arms_of_Bavaria.svg|350]] <img src="./Bayern/Coat_of_arms_of_Bavaria.svg" width=350/> 
 
 ## #has_/image_for_/flag 
 
-#has_/image_for_/flag :: ![<img src="./Bayern/Flag_of_Bavaria~lozengy.svg" width=200/>|200](./Bayern/Flag_of_Bavaria~lozengy.svg)
+#has_/image_for_/flag :: ![[./Bayern/Flag_of_Bavaria~lozengy.svg|200]] <img src="./Bayern/Flag_of_Bavaria~lozengy.svg" width=200/> 
 
 ## #has_/map 
 

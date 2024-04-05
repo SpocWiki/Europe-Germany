@@ -686,14 +686,14 @@ because Changes may break Links or at least require every User to update their l
 
 ## #has_/image_for_/coat_of_arms 
 
-#has_/image_for_/coat_of_arms :: [<img src="./Coat_of_arms_of_Germany.svg" width="200"/>|350](./Coat_of_arms_of_Germany.svg)
+#has_/image_for_/coat_of_arms :: ![[./Coat_of_arms_of_Germany.svg|150]] <img src="./Coat_of_arms_of_Germany.svg" width="150"/> 
+
 
 #has_/sound_of_/anthem :: ![[Anthem-Germany.mp3]]
 
 ## #has_/image_for_/flag 
 
-#has_/image_for_/flag :: [<img src="./Flag_of_Germany.svg" width="200"/>|200](./Flag_of_Germany.svg) 
-
+#has_/image_for_/flag :: ![[./Flag_of_Germany.svg|200]] <img src="./Flag_of_Germany.svg" width="200"/> 
 
 ## #has_/map 
 
