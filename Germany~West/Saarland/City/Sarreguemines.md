@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.12,7.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -17,7 +17,9 @@ confidential: public
 [has_place_longitude::7.07] 
 [has_place_latitude::49.12] 
 [name::Sarreguemines] 
-has_place_province::  
+#has_/name_/fr_ :: Sarreguemines
+#has_/name_/de_ :: Saargemünd
+has_place_province::  [[Grand es]]
 has_place_country:: [[France]]  
 [StateId::] 
 [Population::] 
