@@ -4,88 +4,93 @@ location: [48.8642,11.3382]
 type: State
 ISO3166-2: DE-BY
 SpocWebEntityId: 36016
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
 isDeleted: false
-Confidential: public
+isReadOnly: false
+draft: false
+confidential: public
 tags:
 - geo/State
 
 language used:
-  - "[_Standards/db/East Franconian German](_Standards/db/East%20Franconian%20German)"
-  - "[_Standards/db/Swabian](_Standards/db/Swabian)"
-  - "[_Standards/db/Main-Franconian](_Standards/db/Main-Franconian)"
-  - "[_Standards/db/Bavarian](_Standards/db/Bavarian)"
-  - "[_Standards/db/German](_Standards/db/German)"
+  - "[[_Standards/db/East Franconian German]]"
+  - "[[_Standards/db/Swabian]]"
+  - "[[_Standards/db/Main-Franconian]]"
+  - "[[_Standards/db/Bavarian]]"
+  - "[[_Standards/db/German]]"
 twinned administrative body:
-  - "[_Standards/db/Western Cape](_Standards/db/Western%20Cape)"
-  - "[_Standards/db/Gauteng](_Standards/db/Gauteng)"
-  - "[_Standards/db/Karnataka](_Standards/db/Karnataka)"
-  - "[_Standards/db/Georgia](_Standards/db/Georgia)"
-  - "[_Standards/db/Guangdong](_Standards/db/Guangdong)"
-  - "[_Standards/db/São Paulo](_Standards/db/São%20Paulo)"
-  - "[_Standards/db/Quebec](_Standards/db/Quebec)"
-  - "[_Standards/db/Shandong](_Standards/db/Shandong)"
+  - "[[_Standards/db/Western Cape]]"
+  - "[[_Standards/db/Gauteng]]"
+  - "[[_Standards/db/Karnataka]]"
+  - "[[_Standards/db/Georgia]]"
+  - "[[_Standards/db/Guangdong]]"
+  - "[[_Standards/db/São Paulo]]"
+  - "[[_Standards/db/Quebec]]"
+  - "[[_Standards/db/Shandong]]"
 public holiday:
-  - "[_Standards/db/Epiphany](_Standards/db/Epiphany)"
-  - "[_Standards/db/Feast of Corpus Christi](_Standards/db/Feast%20of%20Corpus%20Christi)"
-  - "[_Standards/db/Reformation Day](_Standards/db/Reformation%20Day)"
-  - "[_Standards/db/Assumption of Mary](_Standards/db/Assumption%20of%20Mary)"
-  - "[_Standards/db/Easter Monday](_Standards/db/Easter%20Monday)"
-  - "[_Standards/db/Whit Monday](_Standards/db/Whit%20Monday)"
-  - "[_Standards/db/Second Day of Christmas](_Standards/db/Second%20Day%20of%20Christmas)"
-  - "[_Standards/db/All Saints' Day](_Standards/db/All%20Saints'%20Day)"
-  - "[_Standards/db/Christmas](_Standards/db/Christmas)"
-  - "[_Standards/db/New Year](_Standards/db/New%20Year)"
-  - "[_Standards/db/Good Friday](_Standards/db/Good%20Friday)"
-  - "[_Standards/db/International Workers' Day](_Standards/db/International%20Workers'%20Day)"
-  - "[_Standards/db/Feast of the Ascension](_Standards/db/Feast%20of%20the%20Ascension)"
-follows: "[_Standards/db/Kingdom of Bavaria](_Standards/db/Kingdom%20of%20Bavaria)"
-named after: "[_Standards/db/Bajuwari](_Standards/db/Bajuwari)"
-lowest point: "[_Standards/db/Kahl am Main](_Standards/db/Kahl%20am%20Main)"
+  - "[[_Standards/db/Epiphany]]"
+  - "[[_Standards/db/Feast of Corpus Christi]]"
+  - "[[_Standards/db/Reformation Day]]"
+  - "[[_Standards/db/Assumption of Mary]]"
+  - "[[_Standards/db/Easter Monday]]"
+  - "[[_Standards/db/Whit Monday]]"
+  - "[[_Standards/db/Second Day of Christmas]]"
+  - "[[_Standards/db/All Saints' Day]]"
+  - "[[_Standards/db/Christmas]]"
+  - "[[_Standards/db/New Year]]"
+  - "[[_Standards/db/Good Friday]]"
+  - "[[_Standards/db/International Workers' Day]]"
+  - "[[_Standards/db/Feast of the Ascension]]"
+follows: "[[_Standards/db/Kingdom of Bavaria]]"
+named after: "[[_Standards/db/Bajuwari]]"
+lowest point: "[[_Standards/db/Kahl am Main]]"
 shares border with:
-  - "[_Standards/db/South Bohemian Region](_Standards/db/South%20Bohemian%20Region)"
-  - "[_Standards/db/Karlovy Vary Region](_Standards/db/Karlovy%20Vary%20Region)"
-  - "[_Standards/db/Baden-Württemberg](_Standards/db/Baden-Württemberg)"
-  - "[Hesse](Hesse.md)"
-  - "[Saxony](Saxony.md)"
-  - "[Thuringia](Thuringia.md)"
-  - "[_Standards/db/canton St. Gallen](_Standards/db/canton%20St.%20Gallen)"
-  - "[_Standards/db/Vorarlberg](_Standards/db/Vorarlberg)"
-  - "[_Standards/db/Upper Austria](_Standards/db/Upper%20Austria)"
-  - "[_Standards/db/Tyrol](_Standards/db/Tyrol)"
-  - "[_Standards/db/Salzburg](_Standards/db/Salzburg)"
-  - "[_Standards/db/Plzeň Region](_Standards/db/Plzeň%20Region)"
-anthem: "[_Standards/db/Bayernhymne](_Standards/db/Bayernhymne)"
-history of topic: "[_Standards/db/history of Bavaria](_Standards/db/history%20of%20Bavaria)"
+  - "[[_Standards/db/South Bohemian Region]]"
+  - "[[_Standards/db/Karlovy Vary Region]]"
+  - "[[_Standards/db/Baden-Württemberg]]"
+  - "[[_Standards/db/Hesse]]"
+  - "[[_Standards/db/Saxony]]"
+  - "[[_Standards/db/Thuringia]]"
+  - "[[_Standards/db/canton St. Gallen]]"
+  - "[[_Standards/db/Vorarlberg]]"
+  - "[[_Standards/db/Upper Austria]]"
+  - "[[_Standards/db/Tyrol]]"
+  - "[[_Standards/db/Salzburg]]"
+  - "[[_Standards/db/Plzeň Region]]"
+anthem: "[[_Standards/db/Bayernhymne]]"
+history of topic: "[[_Standards/db/history of Bavaria]]"
 official language:
-  - "[_Standards/db/Standard High German](_Standards/db/Standard%20High%20German)"
-  - "[_Standards/db/Bavarian](_Standards/db/Bavarian)"
+  - "[[_Standards/db/Standard High German]]"
+  - "[[_Standards/db/Bavarian]]"
 described by source:
-  - "[_Standards/db/Brockhaus and Efron Encyclopedic Dictionary](_Standards/db/Brockhaus%20and%20Efron%20Encyclopedic%20Dictionary)"
-  - "[_Standards/db/Encyclopædia Britannica 11th edition](_Standards/db/Encyclopædia%20Britannica%2011th%20edition)"
-  - "[_Standards/db/The Nuttall Encyclopædia](_Standards/db/The%20Nuttall%20Encyclopædia)"
-  - "[_Standards/db/Sytin Military Encyclopedia](_Standards/db/Sytin%20Military%20Encyclopedia)"
-  - "[_Standards/db/Jewish Encyclopedia of Brockhaus and Efron](_Standards/db/Jewish%20Encyclopedia%20of%20Brockhaus%20and%20Efron)"
-  - "[_Standards/db/Granat Encyclopedic Dictionary](_Standards/db/Granat%20Encyclopedic%20Dictionary)"
-  - "[_Standards/db/Small Brockhaus and Efron Encyclopedic Dictionary](_Standards/db/Small%20Brockhaus%20and%20Efron%20Encyclopedic%20Dictionary)"
-  - "[_Standards/db/Orthodox Theological Encyclopedia](_Standards/db/Orthodox%20Theological%20Encyclopedia)"
-  - "[_Standards/db/Vlastenský slovník historický](_Standards/db/Vlastenský%20slovník%20historický)"
-legislative body: "[_Standards/db/Landtag of Bavaria](_Standards/db/Landtag%20of%20Bavaria)"
-coat of arms: "[_Standards/db/coat of arms of Bavaria](_Standards/db/coat%20of%20arms%20of%20Bavaria)"
-flag: "[_Standards/db/flag of Bavaria](_Standards/db/flag%20of%20Bavaria)"
-executive body: "[_Standards/db/Government of Bavaria](_Standards/db/Government%20of%20Bavaria)"
-highest judicial authority: "[_Standards/db/Bavarian Constitutional Court](_Standards/db/Bavarian%20Constitutional%20Court)"
-archives at: "[_Standards/db/Bavarian Hauptstaatsarchiv](_Standards/db/Bavarian%20Hauptstaatsarchiv)"
-instance of: "[_Standards/db/federated state of Germany](_Standards/db/federated%20state%20of%20Germany)"
-basic form of government: "[_Standards/db/parliamentary republic](_Standards/db/parliamentary%20republic)"
-topic's main Wikimedia portal: "[_Standards/db/Portal:Bavaria](_Standards/db/Portal:Bavaria)"
-office held by head of government: "[_Standards/db/Minister-President of Bavaria](_Standards/db/Minister-President%20of%20Bavaria)"
+  - "[[_Standards/db/Brockhaus and Efron Encyclopedic Dictionary]]"
+  - "[[_Standards/db/Encyclopædia Britannica 11th edition]]"
+  - "[[_Standards/db/The Nuttall Encyclopædia]]"
+  - "[[_Standards/db/Sytin Military Encyclopedia]]"
+  - "[[_Standards/db/Jewish Encyclopedia of Brockhaus and Efron]]"
+  - "[[_Standards/db/Granat Encyclopedic Dictionary]]"
+  - "[[_Standards/db/Small Brockhaus and Efron Encyclopedic Dictionary]]"
+  - "[[_Standards/db/Orthodox Theological Encyclopedia]]"
+  - "[[_Standards/db/Vlastenský slovník historický]]"
+legislative body: "[[_Standards/db/Landtag of Bavaria]]"
+coat of arms: "[[_Standards/db/coat of arms of Bavaria]]"
+flag: "[[_Standards/db/flag of Bavaria]]"
+executive body: "[[_Standards/db/Government of Bavaria]]"
+highest judicial authority: "[[_Standards/db/Bavarian Constitutional Court]]"
+archives at: "[[_Standards/db/Bavarian Hauptstaatsarchiv]]"
+instance of: "[[_Standards/db/federated state of Germany]]"
+basic form of government: "[[_Standards/db/parliamentary republic]]"
+topic's main Wikimedia portal: "[[_Standards/db/Portal:Bavaria]]"
+office held by head of government: "[[_Standards/db/Minister-President of Bavaria]]"
 coordinates of southernmost point: Point(10.17833 47.2701)
-top-level Internet domain: "[_Standards/db/.bayern](_Standards/db/.bayern)"
+top-level Internet domain: "[[_Standards/db/.bayern]]"
 "Image Archive, Herder Institute": Q980
-open data portal: "[_Standards/db/open bydata](_Standards/db/open%20bydata)"
-economy of topic: "[_Standards/db/economy of Bavaria](_Standards/db/economy%20of%20Bavaria)"
-different from: "[_Standards/db/Q108285653](_Standards/db/Q108285653)"
-award received: "[_Standards/db/BigBrotherAwards](_Standards/db/BigBrotherAwards)"
+open data portal: "[[_Standards/db/open bydata]]"
+economy of topic: "[[_Standards/db/economy of Bavaria]]"
+different from: "[[_Standards/db/Q108285653]]"
+award received: "[[_Standards/db/BigBrotherAwards]]"
 U.S. National Archives Identifier: "10044973"
 geoshape: http://commons.wikimedia.org/data/main/Data:Bayern.map
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Bavaria%20banner%20Neuschwanstein%20Castle.jpg
@@ -149,29 +154,29 @@ web feed URL:
   - https://www.bayern.de/rss/newsletter.php
   - https://www.bayern.de/rss/pm_alle.php
 coordinates of westernmost point: Point(8.97627 50.05033)
-patron saint: "[_Standards/db/Virgin Mary](_Standards/db/Virgin%20Mary)"
-capital: "[_Standards/db/Munich](_Standards/db/Munich)"
-highest point: "[_Standards/db/Zugspitze](_Standards/db/Zugspitze)"
+patron saint: "[[_Standards/db/Virgin Mary]]"
+capital: "[[_Standards/db/Munich]]"
+highest point: "[[_Standards/db/Zugspitze]]"
 contains the administrative territorial entity:
-  - "[_Standards/db/Lower Franconia](_Standards/db/Lower%20Franconia)"
-  - "[_Standards/db/Middle Franconia](_Standards/db/Middle%20Franconia)"
-  - "[_Standards/db/Upper Franconia](_Standards/db/Upper%20Franconia)"
-  - "[_Standards/db/Upper Palatinate](_Standards/db/Upper%20Palatinate)"
-  - "[_Standards/db/Lower Bavaria](_Standards/db/Lower%20Bavaria)"
-  - "[_Standards/db/Swabia](_Standards/db/Swabia)"
-  - "[_Standards/db/Upper Bavaria](_Standards/db/Upper%20Bavaria)"
-located in time zone: "[_Standards/db/Central European Time](_Standards/db/Central%20European%20Time)"
-continent: "[_Standards/db/Europe](_Standards/db/Europe)"
-located in the administrative territorial entity: "[Germany](_Standards/db/Germany.md)"
-country: "[Germany](_Standards/db/Germany.md)"
+  - "[[_Standards/db/Lower Franconia]]"
+  - "[[_Standards/db/Middle Franconia]]"
+  - "[[_Standards/db/Upper Franconia]]"
+  - "[[_Standards/db/Upper Palatinate]]"
+  - "[[_Standards/db/Lower Bavaria]]"
+  - "[[_Standards/db/Swabia]]"
+  - "[[_Standards/db/Upper Bavaria]]"
+located in time zone: "[[_Standards/db/Central European Time]]"
+continent: "[[_Standards/db/Europe]]"
+located in the administrative territorial entity: "[[_Standards/db/Germany]]"
+country: "[[_Standards/db/Germany]]"
 water as percent of area: 2
 unemployment rate: 3
 compulsory education (minimum age): 6
 compulsory education (maximum age): 18
 social media followers: 24100
-part of: "[_Standards/db/Southern Germany](_Standards/db/Southern%20Germany)"
+part of: "[[_Standards/db/Southern Germany]]"
 elevation above sea level: 503
-head of government: "[_Standards/db/Markus Söder](_Standards/db/Markus%20Söder)"
+head of government: "[[_Standards/db/Markus Söder]]"
 German regional key: "09"
 OmegaWiki Defined Meaning: "7138"
 area: 70551
@@ -192,10 +197,20 @@ Commons category: Bavaria
 Commons gallery: Bayern
 YouTube handle: Bayern
 
+cssclasses: state
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
 ---
 
 # [[Bayern]] 
 
+[name::Bayern] 
+[name-abbr::BY] 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Germany-Bayern 
 
 This Article is only a Stub. 
 If you need detailed geographical or historical Information, 
@@ -203,6 +218,7 @@ please check out the ['Bavaria' Sub-Repository](https://github.com/SpocWiki/Germ
 into a sub-folder named `/Bavaria/` next to this File. 
 Beware though, that this can considerably increase 
 the total size and depth of your wiki.
+
 
 ## #has_/text_of_/abstract  
 
@@ -214,16 +230,13 @@ the total size and depth of your wiki.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bavaria)
 
-[name::Bayern] 
-[name-abbr::BY] 
-
 ## #has_/image_for_/coat_of_arms 
 
-![350](Coat_of_arms_of_Bavaria.svg) 
+#has_/image_for_/coat_of_arms :: ![<img src="./Bayern/Coat_of_arms_of_Bavaria.svg" width=350/>|350](./Bayern/Coat_of_arms_of_Bavaria.svg)
 
 ## #has_/image_for_/flag 
 
-![Flag_of_Bavaria~lozengy|200](Flag_of_Bavaria~lozengy.svg) 
+#has_/image_for_/flag :: ![<img src="./Bayern/Flag_of_Bavaria~lozengy.svg" width=200/>|200](./Bayern/Flag_of_Bavaria~lozengy.svg)
 
 ## #has_/map 
 
@@ -236,10 +249,11 @@ geojsonFolder: ./Bayern/
 markerFolder: ./Bayern/
 ```
 
-has_place_country:: [Germany](_Standards/db/Germany.md)  
-Capital ::  [München](München.md) ] 
+
+has_place_country:: [[Germany]]  
+Capital ::  [[München]] 
 #is_a_/Place  
-#is_a_ :: [place](place.md) 
+#is_a_ :: [[Place]] 
 [has_place_longitude::11.3382] 
 [has_place_latitude::48.8642] 
 [Population::] 
@@ -247,9 +261,9 @@ Capital ::  [München](München.md) ]
 
 
 ## Confidential Links & Embeds: 
-- [Bayern](Bayern.md) 
-- [Bayern.internal](../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern.internal) 
-- [Bayern.protect](../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern.protect) 
-- [Bayern.private](../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern.private) 
-- [Bayern.personal](../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern.personal) 
-- [Bayern.secret](../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern.secret) 
+- [[Bayern|Bayern]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern.internal|Bayern.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern.protect|Bayern.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern.private|Bayern.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern.personal|Bayern.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern.secret|Bayern.secret]] 

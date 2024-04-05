@@ -38,7 +38,30 @@ publishDate:
 expiryDate: 
 ---
 
-# Germany 
+# Germany (Deutschland)
+
+### International Names
+[	name	 :: Germany ] 
+[	name-en	 :: Germany ] 
+[	name-es	 :: Alemania ] 
+[	name-fr	 :: Allemagne ] 
+[	name-cn	 :: 德国 ] 
+[	name-ar	 :: ألمانيا ] 
+[	name-ru	 :: Германия ] 
+[	name-de  :: Deutschland] 
+## Maps and Flags 
+
+[ISO2::DE] 
+[ISO3::DEU] 
+
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Germany-Bayern 
+
+This Repository/Folder/Wiki/Vault contains freely usable Text and Data 
+covering the European country of [Germany](https://en.wikipedia.org/wiki/Germany). 
+
+This Repository is intended to be shared as a common basis, 
+by including it as a Sub-Repository in local File-Systems, 
+specifically as part of the [\_Standards](https://github.com/SpocWiki/_Standards) Repository. 
 
 Check out this Repository into this Subfolder: 
 \_Standards\geo\Continent\Europe\Europe~Central\Germany 
@@ -46,13 +69,37 @@ Check out this Repository into this Subfolder:
 > Caution: this is a very deep folder Structure with up to 170 Characters! 
 > Make sure to check it out into a shallow Location on Windows! 
 > 
-> If you see a chance to reduce this Depth, create an Issue and discuss first, because any Change may break Links! 
+> If you see an opportunity to reduce this Depth, create an Issue and discuss first, 
+because Changes may break Links or at least require every User to update their local Repos! 
 > Constraints to consider when refactoring: 
 > - Every Folder Name should be unique, also the grouping-Folders, so you can link to it without specifying the relative Path 
 > - all Link-Paths should be relative. Wiki-Links are possible, but only when the Target-Folders or Files have unique Names. 
 > - Between each Level and its Sub-Levels there should be a grouping Folder, to allow adding other Lists. 
 >   - e.g. a City's boroughs should NOT be directly in the City Folder, but in a Sub-Folder named `City~boroughs` 
 
+## #has_/image_for_/coat_of_arms 
+
+#has_/image_for_/coat_of_arms :: ![<img src="./Coat_of_arms_of_Germany.svg" width=350/>|350](./Coat_of_arms_of_Germany.svg)
+
+#has_/sound_of_/anthem :: ![[Anthem-Germany.mp3]]
+
+## #has_/image_for_/flag 
+
+#has_/image_for_/flag :: ![<img src="./Flag_of_Germany.svg" width=200/>|200](./Flag_of_Germany.svg) 
+
+
+## #has_/map 
+
+```leaflet
+id: Germany
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: .//
+markerFolder: ./
+```
+
+## Metadata 
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
 [	ISO4217-currency_name	 :: Euro ] 
@@ -64,14 +111,6 @@ Check out this Repository into this Subfolder:
 
 [	Global	 :: True ] 
 [	Global_Name	 :: World ] 
-
-[	name	 :: Germany ] 
-[	name-en	 :: Germany ] 
-[	name-es	 :: Alemania ] 
-[	name-fr	 :: Allemagne ] 
-[	name-cn	 :: 德国 ] 
-[	name-ar	 :: ألمانيا ] 
-[	name-ru	 :: Германия ] 
 
 [	CLDR_display_name	 :: Germany ] 
 
@@ -117,32 +156,6 @@ Sub-region_Name ::  [[Western Europe]]
 
 [	ISO3166-1-numeric	 :: 276 ] 
 
-
-
-
-# Germany (Deutschland)
-
-[ISO2::DE] 
-[ISO3::DEU] 
-
-```leaflet
-id: Germany
-zoomFeatures: true 
-minZoom: 2 
-maxZoom: 18
-geojsonFolder: .//
-markerFolder: ./
-```
-
-[name-en::Germany] 
-
-![[Coat_of_arms_of_Germany.svg|350]] 
-
-![[Anthem-Germany.mp3]] 
-![[Flag_of_Germany.svg|350]] 
-
-
-[name-de::Deutschland] 
 [Area-Total::357042] 
 [Area-Land::349270] 
 has_place_continent:: [[Europe]]  
@@ -157,6 +170,7 @@ Capital :: [[Berlin]]
 
 
 
+
 ## Confidential Links & Embeds: 
 - [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Germany|Germany]] 
 - [[../../../../../_public/geo/Continent/Europe/Europe~Central/Germany.public|Germany.public]] 
@@ -167,4 +181,3 @@ Capital :: [[Berlin]]
 - [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Germany.secret|Germany.secret]] 
 
 
-[[Germany]] 
