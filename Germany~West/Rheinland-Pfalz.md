@@ -117,14 +117,79 @@ native label: Rheinland-Pfalz
 official name: Rheinland-Pfalz
 Dewey Decimal Classification: 2--4343
 
+cssclasses: state
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
 ---
+
+# Rhineland-Palatinate
+
 [name::Rheinland-Pfalz] 
 
 [name-abbr::RZ] 
 
-![[Coat_of_arms_of_Rhineland-Palatinate.svg|350]] 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Germany-Rheinland-Pfalz 
 
-![[Flag_of_Rhineland-Palatinate.svg|350]] 
+This Repository/Folder/Wiki/Vault contains freely usable Text and Data 
+covering the German state of [Rhineland-Palatinate](https://en.wikipedia.org/wiki/Rhineland-Palatinate).   
+
+This Repository is intended to be shared as a common basis, 
+by including it as a Sub-Repository in local File-Systems, 
+specifically as part of the [\_Standards](https://github.com/SpocWiki/_Standards) Repository. 
+
+Check out this Repository into this Subfolder: 
+\_Standards\geo\Continent\Europe\Europe~Central\Germany\Germany~West\Rheinland-Pfalz 
+
+
+## #has_/text_of_/abstract  
+
+
+> **Rhineland-Palatinate** is a western state of Germany. 
+> It covers 19,846 km² and has about 4.05 million residents. 
+> It is the ninth largest and sixth most populous of the sixteen states. 
+> Mainz is the capital and largest city. Other cities are Ludwigshafen am Rhein, 
+> Koblenz, Trier, Kaiserslautern, Worms and Neuwied. 
+> It is bordered by North Rhine-Westphalia, Saarland, Baden-Württemberg and Hesse 
+> and by France, Luxembourg and Belgium.
+>
+> Rhineland-Palatinate was established in 1946 after World War II, from parts of the 
+> former states of Prussia (part of its Rhineland and Nassau provinces), 
+> Hesse (Rhenish Hesse) and Bavaria (its former outlying Palatinate kreis or district), 
+> by the French military administration in Allied-occupied Germany. 
+> 
+> Rhineland-Palatinate became part of the Federal Republic of Germany in 1949 
+> and shared the country's only border with the Saar Protectorate 
+> until the latter was returned to German control in 1957. 
+> 
+> Rhineland-Palatinate's natural and cultural heritage includes 
+> the extensive Palatinate winegrowing region, picturesque landscapes, 
+> and many castles and palaces. 
+> 
+> Rhineland-Palatinate is currently the only federal state in Germany 
+> where nuclear weapons are stored extraterritorially 
+> under the responsibility and supervision of US forces.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Rhineland-Palatinate) 
+
+
+## Maps and Flags 
+
+### #has_/image_for_/coat_of_arms 
+
+
+#has_/image_for_/coat_of_arms :: ![[./Rheinland-Pfalz/Coat_of_arms_of_Rhineland-Palatinate.svg|250]]<img src="./Rheinland-Pfalz/Coat_of_arms_of_Rhineland-Palatinate.svg" width=250/> 
+
+### #has_/image_for_/flag
+
+
+#has_/image_for_/flag :: ![[./Rheinland-Pfalz/Flag_of_Rhineland-Palatinate.svg|200]] <img src="./Rheinland-Pfalz/Flag_of_Rhineland-Palatinate.svg" width=200/> 
+
+
+### #has_/map :: [DEU-Germany-1580-Rheinland-Pfalz.geojson](./Rheinland-Pfalz/DEU-Germany-1580-Rheinland-Pfalz.geojson) 
 
 
 ```leaflet

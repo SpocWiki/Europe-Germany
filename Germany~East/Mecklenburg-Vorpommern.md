@@ -91,7 +91,6 @@ located in time zone:
   - "[[_Standards/db/UTC+01:00]]"
   - "[[_Standards/db/UTC+02:00]]"
 elevation above sea level: 0
-location: "[[_Standards/db/Germany]]"
 located in the administrative territorial entity: "[[_Standards/db/Germany]]"
 country: "[[_Standards/db/Germany]]"
 number of seats in assembly: 3
@@ -100,8 +99,8 @@ number of seats in assembly: 3
 
 [name::Mecklenburg-Vorpommern] 
 [name-abbr::MV] 
-![[Coat_of_arms_of_Mecklenburg-Western_Pomerania~great.svg|350]] ] 
-![[Flag_of_Mecklenburg-Western_Pomerania.svg|350]] ] 
+![[Coat_of_arms_of_Mecklenburg-Western_Pomerania~great.svg|350]] 
+![[Flag_of_Mecklenburg-Western_Pomerania.svg|350]] 
 
 ```leaflet
 id: Mecklenburg-Vorpommern

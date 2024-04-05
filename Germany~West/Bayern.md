@@ -267,7 +267,7 @@ so that this Link into the Sub-Repository works: [[Bavaria/ReadMe]]
 
 #has_/image_for_/flag :: ![[./Bayern/Flag_of_Bavaria~lozengy.svg|200]] <img src="./Bayern/Flag_of_Bavaria~lozengy.svg" width=200/> 
 
-## #has_/map 
+## #has_/map :: [DEU-Germany-1591-Bayern](./Bayern/DEU-Germany-1591-Bayern.geojson) 
 
 ```leaflet
 id: Bayern

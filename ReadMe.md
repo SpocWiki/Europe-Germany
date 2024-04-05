@@ -646,7 +646,7 @@ has_name:
 
 # Germany (Deutschland)
 
-### International Names
+## International Names
 [	name	 :: Germany ] 
 [	name-en	 :: Germany ] 
 [	name-es	 :: Alemania ] 
@@ -669,13 +669,15 @@ by including it as a Sub-Repository in local File-Systems,
 specifically as part of the [\_Standards](https://github.com/SpocWiki/_Standards) Repository. 
 
 Check out this Repository into this Subfolder: 
-\_Standards\geo\Continent\Europe\Europe~Central\Germany 
+\_Standards/geo/Continent/Europe/Europe~Central/Germany 
 
 > Caution: this is a very deep folder Structure with up to 170 Characters! 
 > Make sure to check it out into a shallow Location on Windows! 
 > 
 > If you see an opportunity to reduce this Depth, create an Issue and discuss first, 
-because Changes may break Links or at least require every User to update their local Repos! 
+> because Changes may break Links or at least require every User 
+> to update their local Repos! 
+> 
 > Constraints to consider when refactoring: 
 > - Every Folder Name should be unique, also the grouping-Folders, so you can link to it without specifying the relative Path 
 > - all Link-Paths should be relative. Wiki-Links are possible, but only when the Target-Folders or Files have unique Names. 
@@ -687,7 +689,6 @@ because Changes may break Links or at least require every User to update their l
 ## #has_/image_for_/coat_of_arms 
 
 #has_/image_for_/coat_of_arms :: ![[./Coat_of_arms_of_Germany.svg|150]] <img src="./Coat_of_arms_of_Germany.svg" width="150"/> 
-
 
 #has_/sound_of_/anthem :: ![[Anthem-Germany.mp3]]
 
