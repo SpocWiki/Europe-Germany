@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.17,10.42] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -16,7 +16,7 @@ confidential: public
 #is_a_ :: [[Place]] 
 [has_place_longitude::10.42] 
 [has_place_latitude::54.17] 
-[name::Ploen] 
+[name::Plön] 
 has_place_country:: [[Germany]]  
 has_place_province:: [[Schleswig-Holstein]]  
 [Population::] 
@@ -24,18 +24,23 @@ has_place_province:: [[Schleswig-Holstein]]
 
 
 ```leaflet
-id: Ploen
-coordinates: [[Ploen]] 
-markerFile: [[Ploen]] 
-defaultZoom: 11 
+id: Plön
+coordinates: [[Plön]] 
+markerFile: [[Plön]] 
+zoomFeatures: true 
+minZoom: 2 
 maxZoom: 18
+defaultZoom: 11
+geojsonFolder: ./Plön//
+markerFolder: ./Plön//
+
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[Ploen|Ploen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Ploen.internal|Ploen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Ploen.protect|Ploen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Ploen.private|Ploen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Ploen.personal|Ploen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Ploen.secret|Ploen.secret]] 
+- [[Plön|Plön]]  
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Plön.internal|Plön.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Plön.protect|Plön.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Plön.private|Plön.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Plön.personal|Plön.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Plön.secret|Plön.secret]] 
