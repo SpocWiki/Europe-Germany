@@ -18,7 +18,7 @@ confidential: public
 [has_place_latitude::52.12] 
 [name::Herford] 
 has_place_province::  
-has_place_country:: [[United_Kingdom]]  
+has_place_country:: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -34,10 +34,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/United_Kingdom/City/Herford|Herford]] 
-- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Herford.public|Herford.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Herford.internal|Herford.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Herford.protect|Herford.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Herford.private|Herford.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Herford.personal|Herford.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Herford.secret|Herford.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Herford/cities~Herford/Herford-city|Herford]] 
+- [[../../../../../../_public/geo/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Herford/cities~Herford/Herford-city.public|Herford.public]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Herford/cities~Herford/Herford-city.internal|Herford.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Herford/cities~Herford/Herford-city.protect|Herford.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Herford/cities~Herford/Herford-city.private|Herford.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Herford/cities~Herford/Herford-city.personal|Herford.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Herford/cities~Herford/Herford-city.secret|Herford.secret]] 
