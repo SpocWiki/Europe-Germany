@@ -1,19 +1,20 @@
 ---
+title: Deutschland (Germany)
+type: Country
+location: [50.8699,10.1207] 
 has_id_wikidata: Q183
+SpocWebEntityId: 26878
 WOEID: "23424829"
 mobile country code: "262"
 M49 code: "276"
 ISO 3166-1 numeric code: "276"
 GS1 country code: 400-440
-location: [50.8699,10.1207] 
-type: Country
-title: Deutschland (Germany)
-SpocWebEntityId: 26878
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
+cssclasses: Country
+publish: true
 draft: false
 confidential: public
 
@@ -34,9 +35,6 @@ aliases:
 
 Languages:
 - de
-
-cssclasses: Country
-publish: true
 linkTitle: 
 keywords: 
 layout: 
@@ -684,8 +682,11 @@ Check out this Repository into this Subfolder:
 > - Between each Level and its Sub-Levels there should be a grouping Folder, to allow adding other Lists. 
 >   - e.g. a City's boroughs should NOT be directly in the City Folder, but in a Sub-Folder named `City~boroughs` 
 
-## #has_/text_of_/abstract 
+### #has_/image_for_/flag 
 
+#has_/image_for_/flag :: ![[./Flag_of_Germany.svg|200]] <img src="./Flag_of_Germany.svg" width="200"/> 
+
+## #has_/text_of_/abstract 
 
 > **Germany**, officially the Federal Republic of Germany, is a country in the western region of Central Europe. It is the second-most populous country in Europe after Russia, and the most populous member state of the European Union. Germany lies between the Baltic and North Sea to the north and the Alps to the south. Its 16 constituent states have a total population of over 84 million, covering a combined area of 357,600 km2 (138,100 sq mi) and sharing land borders with Denmark to the north, Poland and the Czech Republic to the east, Austria and Switzerland to the south, and France, Luxembourg, Belgium, and the Netherlands to the west. The nation's capital and most populous city is Berlin and its main financial centre is Frankfurt; the largest urban area is the Ruhr.
 >
@@ -700,17 +701,14 @@ Check out this Repository into this Subfolder:
 
 ## Maps and Flags 
 
-## #has_/image_for_/coat_of_arms 
+
+### #has_/image_for_/coat_of_arms 
 
 #has_/image_for_/coat_of_arms :: ![[./Coat_of_arms_of_Germany.svg|150]] <img src="./Coat_of_arms_of_Germany.svg" width="150"/> 
 
 #has_/sound_of_/anthem :: ![[Anthem-Germany.mp3]]
 
-## #has_/image_for_/flag 
-
-#has_/image_for_/flag :: ![[./Flag_of_Germany.svg|200]] <img src="./Flag_of_Germany.svg" width="200"/> 
-
-## #has_/map 
+### #has_/map 
 
 ```leaflet
 id: Germany
