@@ -657,14 +657,14 @@ has_name:
 [ISO2::DE] 
 [ISO3::DEU] 
 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Germany 
-
 This Repository/Folder/Wiki/Vault contains freely usable Text and Data 
 covering the European country of [Germany](https://en.wikipedia.org/wiki/Germany). 
 
 This Repository is intended to be shared as a common basis, 
 by including it as a Sub-Repository in local File-Systems, 
 specifically as part of the [\_Standards](https://github.com/SpocWiki/_Standards) Repository. 
+
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Germany 
 
 Check out this Repository into this Subfolder: 
 \_Standards/geo/Continent/Europe/Europe~Central/Germany 
