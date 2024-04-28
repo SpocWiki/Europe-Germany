@@ -8,7 +8,7 @@ isDeleted: false
 Confidential: public
 tags:
 - geo/State
-
+flag: Flag_of_Thuringia
 head of government: "[[_Standards/db/Bodo Ramelow]]"
 flag: "[[_Standards/db/flag of Thuringia]]"
 named after: "[[_Standards/db/Thuringii]]"

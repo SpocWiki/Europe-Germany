@@ -8,7 +8,7 @@ isDeleted: false
 Confidential: public
 tags:
 - geo/State
-
+icon: Flag_of_Rhineland-Palatinate
 head of government: "[[_Standards/db/Malu Dreyer]]"
 legislative body: "[[_Standards/db/Landtag of Rhineland-Palatinate]]"
 highest point: "[[_Standards/db/Erbeskopf]]"

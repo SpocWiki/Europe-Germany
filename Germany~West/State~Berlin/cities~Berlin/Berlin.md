@@ -273,6 +273,15 @@ maxZoom: 18
 ```
 
 
+
+[[../../../../../../../../../assets/museumsinsel_003.webp]] 
+![[../../../../../../../../../assets/museumsinsel_003.webp]] 
+Museumsinsel Berlin ([[Unesco]] Welterbe seit 1999)  
+
+[[../../../../../../../../../assets/berlin_006.webp]] 
+![[../../../../../../../../../assets/berlin_006.webp]] 
+Siedlungen der Berliner Moderne ([[Unesco]] Welterbe seit 2008) 
+
 ## Confidential Links & Embeds: 
 - [[Berlin|Berlin]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin/City/Berlin.internal|Berlin.internal]] 

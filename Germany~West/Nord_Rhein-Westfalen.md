@@ -8,7 +8,7 @@ isDeleted: false
 Confidential: public
 tags:
 - geo/State
-
+icon: Flag_of_North_Rhine-Westphalia
 has part(s) of the class:
   - "[[_Standards/db/district of Germany]]"
   - "[[_Standards/db/Regierungsbezirk]]"

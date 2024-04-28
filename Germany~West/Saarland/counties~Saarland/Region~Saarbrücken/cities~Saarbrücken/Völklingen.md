@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.25,6.85] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,6 +32,9 @@ maxZoom: 18
 ```
 
 
+[[../../../../../../../../../../../assets/voelklinger-huette_002.webp]] 
+![[../../../../../../../../../../../assets/voelklinger-huette_002.webp]] 
+Völklinger Hütte ( [[Unesco]] Welterbe seit 1994) 
 ## Confidential Links & Embeds: 
 - [[Voelklingen|Voelklingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Voelklingen.internal|Voelklingen.internal]] 

@@ -8,7 +8,7 @@ isDeleted: false
 Confidential: public
 tags:
 - geo/State
-
+flag: Flag_of_Mecklenburg-Western_Pomerania 
 replaces:
   - "[[_Standards/db/Schwerin District]]"
   - "[[_Standards/db/Western Pomerania]]"

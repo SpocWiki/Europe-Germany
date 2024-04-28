@@ -8,7 +8,7 @@ Confidential: public
 ISO3166-2: DE-NI
 tags:
 - geo/State
-
+icon: Flag_of_Lower_Saxony
 named after: "[[_Standards/db/Saxons]]"
 language used:
   - "[[_Standards/db/East Frisian Low Saxon]]"

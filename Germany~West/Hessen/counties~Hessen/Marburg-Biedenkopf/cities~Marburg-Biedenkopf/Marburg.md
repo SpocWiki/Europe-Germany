@@ -32,6 +32,13 @@ maxZoom: 18
 ```
 
 
+[[../../../../../../../../../../../assets/marburg-altstadt.webp]]
+![[../../../../../../../../../../../assets/marburg-altstadt.webp]]
+Marburgs Altstadt ist geprägt von der Hanglage am Schlosshügel, 
+mit enger und gedrängter Bebauung mittelalterlicher Gebäude. 
+In der Marburger Altstadt findet man mehr als 700 historische Häuser, 
+die zum größten Teil in der Zeit zwischen dem 14.- und 19. Jahrhundert erbaut wurden.
+
 ## Confidential Links & Embeds: 
 - [[Marburg|Marburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Marburg.internal|Marburg.internal]] 

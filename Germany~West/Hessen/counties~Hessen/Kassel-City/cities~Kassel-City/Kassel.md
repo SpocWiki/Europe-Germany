@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.32,9.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -12,6 +12,8 @@ isDeleted: false
 confidential: public
 
 ---
+
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::9.5] 
@@ -31,6 +33,10 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
+
+[[../../../../../../../../../../../assets/wilhelmshoehe_005.webp]] 
+![[../../../../../../../../../../../assets/wilhelmshoehe_005.webp]] 
+Bergpark Wilhelmshöhe (2013) 
 
 ## Confidential Links & Embeds: 
 - [[Kassel|Kassel]]  

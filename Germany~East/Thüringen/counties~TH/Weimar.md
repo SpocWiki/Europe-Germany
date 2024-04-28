@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.97,11.33] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -30,6 +30,22 @@ markerFile: [[Weimar]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+[[../../../../../../../../../assets/Weimar-Altstadt.webp]] 
+![[../../../../../../../../../assets/Weimar-Altstadt.webp]] 
+Die Weimarer Altstadt (Thüringen): 
+Die Straßen, Plätze und kleinen Gassen sind weitgehend verkehrsberuhigt. 
+Die meisten Wohnhäuser gehören hier zur historischen Substanz. 
+Hinter dem Neptunbrunnen ist das Cranachhaus zu sehen.
+
+[[../../../../../../../../../assets/weimar_004.webp]] 
+![[../../../../../../../../../assets/weimar_004.webp]] 
+Weimar (1998)
+
+[[../../../../../../../../../assets/bauhaus_004.webp]] 
+![[../../../../../../../../../assets/bauhaus_004.webp]] 
+Bauhaus und seine Stätten in Weimar, Dessau und Bernau ( [[Unesco]] Welterbe seit 1996)
 
 
 ## Confidential Links & Embeds: 

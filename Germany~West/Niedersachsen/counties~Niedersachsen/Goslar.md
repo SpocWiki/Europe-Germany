@@ -33,6 +33,19 @@ maxZoom: 18
 ```
 
 
+
+[[../../../../../../../../../assets/Goslar,NS,Marktplatz.webp]]
+![[../../../../../../../../../assets/Goslar,NS,Marktplatz.webp]]
+Ein zentraler Ort in Goslar (Niedersachsen) ist der Marktplatz mit dem Wappentier der ehemals freien Reichsstadt auf dem Marktbrunnen. 
+In der historischen Altstadt und ihrer Umgebung zählt der Besucher zudem über 30 Kirchengebäude. 
+Seit 1992 gehört die Altstadt von Goslar zu den Weltkulturerbestätten der Unesco.
+
+
+[[../../../../../../../../../assets/rammelsberg.webp]] 
+![[../../../../../../../../../assets/rammelsberg.webp]] 
+Bergwerk Rammelsberg, Altstadt von Goslar und Oberharzer Wasserwirtschaft ( [[Unesco]] Welterbe seit 1992) 
+
+
 ## Confidential Links & Embeds: 
 - [[Goslar|Goslar]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Goslar.internal|Goslar.internal]] 

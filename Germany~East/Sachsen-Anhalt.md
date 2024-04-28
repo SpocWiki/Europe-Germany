@@ -8,7 +8,7 @@ isDeleted: false
 Confidential: public
 tags:
 - geo/State
-
+icon: Flag_of_Saxony-Anhalt_(state)
 located in time zone:
   - "[[_Standards/db/UTC+02:00]]"
   - "[[_Standards/db/UTC+01:00]]"

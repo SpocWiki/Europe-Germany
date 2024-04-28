@@ -10,7 +10,7 @@ isDeleted: false
 Confidential: public
 tags:
 - geo/State
-
+icon: Flag_of_Schleswig-Holstein
 twinned administrative body:
   - "[[_Standards/db/Hyogo Prefecture]]"
   - "[[_Standards/db/South Jutland County]]"

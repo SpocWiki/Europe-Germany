@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.83,12.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -12,6 +12,8 @@ isDeleted: false
 confidential: public
 
 ---
+
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::12.23] 
@@ -30,6 +32,11 @@ markerFile: [[Dessau]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+[[../../../../../../../../../../../assets/dessau_003.webp]] 
+![[../../../../../../../../../../../assets/dessau_003.webp]] 
+Gartenreich Dessau-Wörlitz (2000) 
 
 
 ## Confidential Links & Embeds: 

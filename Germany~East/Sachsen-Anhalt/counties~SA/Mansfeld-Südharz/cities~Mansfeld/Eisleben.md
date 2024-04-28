@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.53,11.53] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -12,6 +12,8 @@ isDeleted: false
 confidential: public
 
 ---
+
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::11.53] 
@@ -32,6 +34,9 @@ maxZoom: 18
 ```
 
 
+[[../../../../../../../../../../../assets/eisleben_004.webp]] 
+![[../../../../../../../../../../../assets/eisleben_004.webp]] 
+Luthergedenkstätten in Eisleben und Wittenberg ( [[Unesco]] Welterbe seit 1996) 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Eisleben|Eisleben]] 
 - [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Eisleben.public|Eisleben.public]] 

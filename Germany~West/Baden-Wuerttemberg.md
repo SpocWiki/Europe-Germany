@@ -15,6 +15,8 @@ draft: false
 confidential: public
 tags:
 - geo/State
+
+flag: Flag_of_Baden-Württemberg
 aliases:
 - Baden-Württemberg
 

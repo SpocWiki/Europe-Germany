@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.83,10.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -31,6 +31,13 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
+
+[[../../../../../../../../../../../assets/Wernigerode-Marktplatz.webp]]
+![[../../../../../../../../../../../assets/Wernigerode-Marktplatz.webp]]
+Beim Bummel durch Wernigerode  im Harzgehört das historische Rathaus 
+zu den eindrucksvollen Sehenswürdigkeiten. 
+Ein Spaziergang durch das Heideviertel ist geprägt 
+von den alten Fachwerkfassaden und den kopfsteingepflasterten Straßen.
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Wernigerode|Wernigerode]] 

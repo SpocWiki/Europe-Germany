@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.32,13.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -31,6 +31,13 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
+
+![[../../../../../../../../../../../assets/Stralsund-Altstadt.webp]]
+Die Altstadt von Stralsund repräsentiert den Reichtum, 
+den regionalen Einfluss und die Macht der Hanse. 
+Die Bausubstanz umfasst Beispiele der Backsteingotik, so wie hier zu sehen. 
+Am Alten Markt stehen das Rathaus der Stadt und die Nikolaikirche. 
+Stralsunds Altstadt wurde 2002 in die Welterbeliste der Unesco aufgenommen.
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Stralsund|Stralsund]] 

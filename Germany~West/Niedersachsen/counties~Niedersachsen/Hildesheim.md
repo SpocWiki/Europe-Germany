@@ -12,6 +12,8 @@ isDeleted: false
 confidential: public
 
 ---
+
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::9.94] 
@@ -31,6 +33,10 @@ geojsonFolder: ./Hildesheim/
 defaultZoom: 10 
 maxZoom: 18
 ```
+
+
+![[../../../../../../../../../assets/Hildesheim-Dom.webp]]
+Dom und Michaeliskirche in Hildesheim ([[Unesco]] Welterbe seit  1985)
 
 
 ## Confidential Links & Embeds: 

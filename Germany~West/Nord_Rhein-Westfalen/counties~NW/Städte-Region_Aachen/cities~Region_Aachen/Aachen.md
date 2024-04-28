@@ -12,6 +12,8 @@ isDeleted: false
 confidential: public
 
 ---
+
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::96.07] 
@@ -31,6 +33,10 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
+
+
+![[../../../../../../../../../../../assets/aachener-dom_004.webp]]
+Aachener Dom (seit 1978 Teil der Unesco-Welterbeliste)
 
 ## Confidential Links & Embeds: 
 - [[Aachen|Aachen]]  

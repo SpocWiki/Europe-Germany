@@ -7,7 +7,7 @@ isDeleted: false
 Confidential: public
 tags:
 - geo/State
-
+icon: Flag_of_Hamburg
 ---
 
 [name::State~Hamburg] 
