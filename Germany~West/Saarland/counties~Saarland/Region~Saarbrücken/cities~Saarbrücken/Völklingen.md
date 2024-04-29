@@ -32,8 +32,8 @@ maxZoom: 18
 ```
 
 
-[[../../../../../../../../../../../assets/voelklinger-huette_002.webp]] 
-![[../../../../../../../../../../../assets/voelklinger-huette_002.webp]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Völklinger_Hütte.webp]] 
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Völklinger_Hütte.webp]] 
 Völklinger Hütte ( [[Unesco]] Welterbe seit 1994) 
 ## Confidential Links & Embeds: 
 - [[Voelklingen|Voelklingen]]  

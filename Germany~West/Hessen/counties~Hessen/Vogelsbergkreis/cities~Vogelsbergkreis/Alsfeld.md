@@ -32,7 +32,7 @@ maxZoom: 18
 ```
 
 
-![[../../../../../../../../../../../assets/Rathaus_Alsfeld01.png]]
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Alsfeld~Rathaus.png]]
 Unbedingt sehenswert ist der Marktplatz mit Weinhaus, Rathaus und dem Turm der Walpurgiskirche sowie vielen Fachwerkhäusern.
 
 ## Confidential Links & Embeds: 

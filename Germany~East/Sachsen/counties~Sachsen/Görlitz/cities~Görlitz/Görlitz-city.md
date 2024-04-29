@@ -32,8 +32,8 @@ maxZoom: 18
 ```
 
 
-[[../../../../../../../../../../../../../assets/Görlitz-Altstadt.webp]] 
-![[../../../../../../../../../../../../../assets/Görlitz-Altstadt.webp]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Görlitz-Altstadt.webp]] 
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Görlitz-Altstadt.webp]] 
 Die Stadt Görlitz (Sachsen) hat mehr als 4.000 Kultur- und Baudenkmäler zu bieten. 
 Zahlreiche Bauwerke erinnern hier an die längst vergangenen Zeiten, 
 wie der Schönhof, die Rathaustreppe 

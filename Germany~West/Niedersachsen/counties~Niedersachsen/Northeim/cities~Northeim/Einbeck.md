@@ -8,7 +8,7 @@
 
 Timber framed houses. 
 Between 1540-1600 AD. In Tiedexer Strasse
-[[../../../../../../../../../../../assets/Einbeck-Tiedexer.Str.Haeuserzeile.03.png]]
-![[../../../../../../../../../../../assets/Einbeck-Tiedexer.Str.Haeuserzeile.03.png]]
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Einbeck-Tiedexer.Str.Haeuserzeile.03.png]]
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Einbeck-Tiedexer.Str.Haeuserzeile.03.png]]
 Die historische Altstadt Einbecks (Niedersachsen) zeugt von dem Reichtum, der durch den Bierhandel erzielt wurde. 
 Eine der längsten zusammenhängenden Fachwerkzeilen mit architektonischen Merkmalen aus dem 16. Jahrhundert befindet sich dort.

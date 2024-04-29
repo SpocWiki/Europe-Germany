@@ -34,8 +34,8 @@ maxZoom: 18
 
 
 
-[[../../../../../../../../../../../assets/Wismar-Altstadt.webp]] 
-![[../../../../../../../../../../../assets/Wismar-Altstadt.webp]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Wismar-Altstadt.webp]] 
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Wismar-Altstadt.webp]] 
 Die Altstadt von Wismar (Mecklenburg-Vorpommern) wurde in die Welterbeliste der [[Unesco]] aufgenommen. 
 Wismar wurde im 13. Jahrhundert gegründet, seitdem ist der mittelalterliche Grundriss der Stadt beinahe unverändert erhalten. 
 Auch hier sind Beispiele für die Backsteingotik zu finden.

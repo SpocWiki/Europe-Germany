@@ -37,8 +37,8 @@ maxZoom: 18
 ```
 
 
-[[../../../../../../../../../../../assets/karolingisches-westwerk_006.webp]] 
-![[../../../../../../../../../../../assets/karolingisches-westwerk_006.webp]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Höxter~Karolingisches-Westwerk.webp]] 
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Höxter~Karolingisches-Westwerk.webp]] 
 Karolingisches Westwerk und Civitas Corvey (2014) 
 
 ## Confidential Links & Embeds: 

@@ -34,8 +34,8 @@ maxZoom: 18
 
 
 
-[[../../../../../../../../../assets/Celle-Altstadt.webp]] 
-![[../../../../../../../../../assets/Celle-Altstadt.webp]] 
+[[../../../../../../../../../assets/geo/Europe/Germany/Celle-Altstadt.webp]] 
+![[../../../../../../../../../assets/geo/Europe/Germany/Celle-Altstadt.webp]] 
 In Celle (Niedersachsen) befindet sich das kompakteste und größte Fachwerkensemble der Welt. 
 Hier können Sie zwischen moderner Bauhaus-Architektur und dem Welfenschloss mit seinem Schlosstheater wandeln. 
 Das Schloss ist die Wiege der englischen Krone.

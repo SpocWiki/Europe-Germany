@@ -33,7 +33,7 @@ maxZoom: 18
 ```
 
 
-![[../../../../../../../../../../../assets/Haus_Bürgel.webp]] 
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Monheim~Haus_Bürgel.webp]] 
 Grenzen des Römischen Reiches - Niedergermanischer Limes (2021) 
 
 

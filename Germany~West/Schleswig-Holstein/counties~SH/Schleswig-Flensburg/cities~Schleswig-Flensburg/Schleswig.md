@@ -34,8 +34,8 @@ maxZoom: 18
 ```
 
 
-[[../../../../../../../../../../../assets/danewerk_002.webp]] 
-![[../../../../../../../../../../../assets/danewerk_002.webp]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Schleswig~Danewerk.webp]] 
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Schleswig~Danewerk.webp]] 
 Archäologischer Grenzkomplex Haithabu und Danewerk (2018) 
 
 ## Confidential Links & Embeds: 

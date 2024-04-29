@@ -32,8 +32,8 @@ maxZoom: 18
 ```
 
 
-[[../../../../../../../../../../../assets/muskauer-park_017.webp]] 
-![[../../../../../../../../../../../assets/muskauer-park_017.webp]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Muskauer_Park.webp]] 
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Muskauer_Park.webp]] 
 Muskauer Park/Park Mużakowski ( [[Unesco]] Welterbe seit 2004)  
 
 ## Confidential Links & Embeds: 

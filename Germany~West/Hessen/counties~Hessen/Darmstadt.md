@@ -33,8 +33,8 @@ maxZoom: 18
 ```
 
 
-[[../../../../../../../../../assets/mathildenhoehe-darmstadt_006.webp]] 
-![[../../../../../../../../../assets/mathildenhoehe-darmstadt_006.webp]] 
+[[../../../../../../../../../assets/geo/Europe/Germany/Darmstadt~Mathildenhoehe.webp]] 
+![[../../../../../../../../../assets/geo/Europe/Germany/Darmstadt~Mathildenhoehe.webp]] 
 Mathildenhöhe Darmstadt (2021) 
 
 ## Confidential Links & Embeds: 

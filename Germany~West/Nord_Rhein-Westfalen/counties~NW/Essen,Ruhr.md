@@ -34,7 +34,7 @@ maxZoom: 18
 ```
 
 
-![[../../../../../../../../../assets/essen_004.webp]] 
+![[../../../../../../../../../assets/geo/Europe/Germany/Essen,Ruhr~Zeche_Zollverein.webp]] 
 Industriekomplex Zeche Zollverein in Essen ( [[Unesco]] Welterbe seit 2001) 
 
 ## Confidential Links & Embeds: 

@@ -34,8 +34,8 @@ maxZoom: 18
 ```
 
 
-[[../../../../../../../../../../../assets/wilhelmshoehe_005.webp]] 
-![[../../../../../../../../../../../assets/wilhelmshoehe_005.webp]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Kassel~Wilhelmshöhe.webp]] 
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Kassel~Wilhelmshöhe.webp]] 
 Bergpark Wilhelmshöhe (2013) 
 
 ## Confidential Links & Embeds: 

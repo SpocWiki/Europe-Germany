@@ -33,7 +33,7 @@ maxZoom: 18
 ```
 
 
-![[../../../../../../../../../../../../../assets/Bautzen-Altstadt.webp]]
+![[../../../../../../../../../../../../../assets/geo/Europe/Germany/Bautzen-Altstadt.webp]]
 Bautzen (Sachsen): 
 Eine Altstadt, die geprägt ist durch Kriege, Stadtbrände, Königsparaden und Strafgerichte. 
 An jeder Ecke findet sich Geschichte umgeben von Häusern aus Gotik, Renaissance oder Barock.

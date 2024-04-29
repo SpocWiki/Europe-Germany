@@ -1,5 +1,5 @@
 
 
-[[../../../../../../../../../assets/wartburg_004.webp]] 
-![[../../../../../../../../../assets/wartburg_004.webp]] 
+[[../../../../../../../../../assets/geo/Europe/Germany/Wartburg.webp]] 
+![[../../../../../../../../../assets/geo/Europe/Germany/Wartburg.webp]] 
 Wartburg ( [[Unesco]] Welterbe seit 1999)  

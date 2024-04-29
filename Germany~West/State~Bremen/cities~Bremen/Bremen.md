@@ -105,12 +105,12 @@ maxZoom: 18
 ```
 
 
-[[../../../../../../../../../assets/bremen_002.webp]] 
-![[../../../../../../../../../assets/bremen_002.webp]] 
+[[../../../../../../../../../assets/geo/Europe/Germany/Bremen-Rathausplatz.webp]] 
+![[../../../../../../../../../assets/geo/Europe/Germany/Bremen-Rathausplatz.webp]] 
 Rathaus und Roland in Bremen ( [[Unesco]] Welterbe seit 2004) 
 
-[[../../../../../../../../../assets/Bremen-Schnoor-viertel.webp]]
-![[../../../../../../../../../assets/Bremen-Schnoor-viertel.webp]]
+[[../../../../../../../../../assets/geo/Europe/Germany/Bremen-Schnoor-viertel.webp]]
+![[../../../../../../../../../assets/geo/Europe/Germany/Bremen-Schnoor-viertel.webp]]
 Nur ein paar hundert Meter vom Bremer Marktplatz entfernt 
 liegt das einzigartige und zugleich älteste Quartier der Stadt. 
 Im Schnoor-Viertel reihen sich in engen Gassen kleine, bunte Häuser und Geschäfte 

@@ -34,8 +34,8 @@ maxZoom: 18
 ```
 
 
-[[../../../../../../../../../../../assets/augustusburg_004.webp]] 
-![[../../../../../../../../../../../assets/augustusburg_004.webp]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Augustusburg.webp]] 
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Augustusburg.webp]] 
 Schlösser Augustusburg und Falkenlust in Brühl ([[Unesco]] Welterbe seit 1984)
 
 ## Confidential Links & Embeds: 
