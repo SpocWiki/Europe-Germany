@@ -12,6 +12,8 @@ isDeleted: false
 confidential: public
 
 ---
+# [[Osnabrück-City]]
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::8.04] 
