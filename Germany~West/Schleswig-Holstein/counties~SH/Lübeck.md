@@ -1,22 +1,26 @@
-﻿---
-location: [53.87,10.68] 
-mapzoom: [7,12] 
-mapmarker: city 
+---
+location:
+  - 53.87
+  - 10.68
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32165
 isDeleted: false
 confidential: public
-
+aliases:
+  - Lübeck
 ---
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::10.68] 
 [has_place_latitude::53.87] 
-[name::Luebeck] 
+[name::Lübeck] 
 has_place_country:: [[Germany]]  
 has_place_province:: [[Schleswig-Holstein]]  
 [Population::] 
@@ -24,18 +28,30 @@ has_place_province:: [[Schleswig-Holstein]]
 
 
 ```leaflet
-id: Luebeck
-coordinates: [[Luebeck]] 
-markerFile: [[Luebeck]] 
+id: Lübeck
+coordinates: [[Lübeck]] 
+markerFile: [[Lübeck]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
+[[../../../../../../../../../assets/geo/Europe/Germany/Lübeck-Holstentor.webp]] 
+![[../../../../../../../../../assets/geo/Europe/Germany/Lübeck-Holstentor.webp]] 
+Lübeck Holstentor ([[Unesco]] Welterbe seit 1987)
+
+[[../../../../../../../../../assets/geo/Europe/Germany/Lübeck.webp]] 
+![[../../../../../../../../../assets/geo/Europe/Germany/Lübeck.webp]]
+Lübecks komplett von Wasser umschlossene Altstadt 
+mit ihrer beeindruckenden Backsteinarchitektur der Bürgerhäuser und der Kirchen 
+prägt bis heute das Gesicht der Hansestadt, 
+die bereits 1143 als erste Hafenstadt an der Ostsee gegründet wurde 
+und seit 1987 Teil des Unesco-Welterbes der Menschheit ist. 
+
 ## Confidential Links & Embeds: 
-- [[Luebeck|Luebeck]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Luebeck.internal|Luebeck.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Luebeck.protect|Luebeck.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Luebeck.private|Luebeck.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Luebeck.personal|Luebeck.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Luebeck.secret|Luebeck.secret]] 
+- [[Lübeck|Lübeck]]  
+- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lübeck.internal|Lübeck.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lübeck.protect|Lübeck.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lübeck.private|Lübeck.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lübeck.personal|Lübeck.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lübeck.secret|Lübeck.secret]] 

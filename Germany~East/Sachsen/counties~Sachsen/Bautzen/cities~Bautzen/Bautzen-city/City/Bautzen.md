@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.18,14.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -12,6 +12,7 @@ isDeleted: false
 confidential: public
 
 ---
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::14.43] 
@@ -31,6 +32,11 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
+
+![[../../../../../../../../../../../../../assets/geo/Europe/Germany/Bautzen-Altstadt.webp]]
+Bautzen (Sachsen): 
+Eine Altstadt, die geprägt ist durch Kriege, Stadtbrände, Königsparaden und Strafgerichte. 
+An jeder Ecke findet sich Geschichte umgeben von Häusern aus Gotik, Renaissance oder Barock.
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bautzen|Bautzen]] 

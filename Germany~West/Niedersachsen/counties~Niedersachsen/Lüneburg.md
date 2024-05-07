@@ -13,6 +13,12 @@ markerFolder: ./Lüneburg/
 ```
 
 
+[[../../../../../../../../../assets/geo/Europe/Germany/Lüneburg.webp]]
+![[../../../../../../../../../assets/geo/Europe/Germany/Lüneburg.webp]]
+In der mehr als 1.050 Jahre alten Salz- und Hansestadt Lüneburg 
+gibt es mittelalterliche Architektur im Stil der Backsteingotik. 
+Die historischen Treppen-, Schnecken- oder Spitzgiebel 
+sind das Markenzeichen der niedersächsischen Stadt.
 ## Overview
  
 ```folderv

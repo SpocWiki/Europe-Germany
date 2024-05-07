@@ -7,7 +7,7 @@ isDeleted: false
 Confidential: public
 tags:
 - geo/State
-
+icon: Flag_of_Berlin
 ---
 [name::State~Berlin] 
 [name-abbr::BL]

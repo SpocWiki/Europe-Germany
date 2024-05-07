@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.51,9.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -12,6 +12,8 @@ isDeleted: false
 confidential: public
 
 ---
+
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::9.57] 
@@ -31,6 +33,10 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
+
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Schleswig~Danewerk.webp]] 
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Schleswig~Danewerk.webp]] 
+Archäologischer Grenzkomplex Haithabu und Danewerk (2018) 
 
 ## Confidential Links & Embeds: 
 - [[Schleswig|Schleswig]]  

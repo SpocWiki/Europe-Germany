@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.87,8.66] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -12,6 +12,7 @@ isDeleted: false
 confidential: public
 
 ---
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::8.66] 
@@ -31,6 +32,10 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
+
+[[../../../../../../../../../assets/geo/Europe/Germany/Darmstadt~Mathildenhoehe.webp]] 
+![[../../../../../../../../../assets/geo/Europe/Germany/Darmstadt~Mathildenhoehe.webp]] 
+Mathildenhöhe Darmstadt (2021) 
 
 ## Confidential Links & Embeds: 
 - [[Darmstadt|Darmstadt]]  

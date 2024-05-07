@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.75,9.28] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -31,6 +31,9 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
+
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Alsfeld~Rathaus.png]]
+Unbedingt sehenswert ist der Marktplatz mit Weinhaus, Rathaus und dem Turm der Walpurgiskirche sowie vielen Fachwerkhäusern.
 
 ## Confidential Links & Embeds: 
 - [[Alsfeld|Alsfeld]]  

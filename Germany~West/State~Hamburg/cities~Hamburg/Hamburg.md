@@ -252,6 +252,17 @@ maxZoom: 18
 ```
 
 
+[[../../../../../../../../../assets/geo/Europe/Germany/Hamburg~Speicherstadt.webp]] 
+![[../../../../../../../../../assets/geo/Europe/Germany/Hamburg~Speicherstadt.webp]] 
+Hamburger Speicherstadt mit Kontorhausviertel und Chilehaus (2015) 
+
+[[../../../../../../../../../assets/geo/Europe/Germany/Hamburg-Krameramtsstuben.webp]] 
+![[../../../../../../../../../assets/geo/Europe/Germany/Hamburg-Krameramtsstuben.webp]] 
+Beim Gang durch den historischen Kern des alten Hamburg beeindrucken die Krameramtsstuben, 
+die Bebauung am Nikolaifleet und die Peterstraße, 
+mit ihren detailgetreu nachgebauten Wohnhäusern aus dem 17. Jahrhundert.
+
+
 ## Confidential Links & Embeds: 
 - [[Hamburg|Hamburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Hamburg/City/Hamburg.internal|Hamburg.internal]] 

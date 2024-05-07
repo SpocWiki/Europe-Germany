@@ -8,7 +8,7 @@ isDeleted: false
 Confidential: public
 tags:
 - geo/State
-
+icon: Flag_of_Hesse
 social media followers: 502
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wiesbaden%20banner%20Bowling-Green%20Panorama%20Nacht.jpg
 German regional key: "06"

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.87,12.64] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -30,6 +30,13 @@ markerFile: [[Wittenberg]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+![[../../../../../../../../../../../../../assets/geo/Europe/Germany/Wittenberg-Altstadt.webp]]
+Neben dem Unesco-Welterbe "Luthergedenkstätten in Wittenberg" hat die Universitätsstadt in Sachsen-Anhalt noch einiges mehr zu bieten: 
+Die malerischen Straßen und Plätze der Altstadt, wie der Schlossplatz, 
+sowie die Cranachhöfe und üppigen Grünanlagen sind ebenfalls sehenswert. 
+Nach der Wende wurde die Lutherstadt denkmalgerecht restauriert und vor weiterem Verfall bewahrt.
 
 
 ## Confidential Links & Embeds: 

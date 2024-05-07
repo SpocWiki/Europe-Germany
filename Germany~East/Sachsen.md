@@ -8,7 +8,7 @@ isDeleted: false
 Confidential: public
 tags:
 - geo/State
-
+icon: Flag_of_Saxony
 language used:
   - "[[_Standards/db/East Frisian Low Saxon]]"
   - "[[_Standards/db/Upper Saxon]]"

@@ -32,6 +32,10 @@ maxZoom: 18
 ```
 
 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/kloster-lorsch.webp]] 
+![[../../../../../../../../../../../assets/geo/Europe/Germany/kloster-lorsch.webp]] 
+Kloster Lorsch und Altenmünster ( [[Unesco]] Welterbe seit 1991)
+
 ## Confidential Links & Embeds: 
 - [[Lorsch|Lorsch]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Lorsch.internal|Lorsch.internal]] 

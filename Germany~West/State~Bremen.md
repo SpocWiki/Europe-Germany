@@ -6,7 +6,7 @@ isDeleted: false
 Confidential: public
 tags:
 - geo/State
-
+icon: Flag_of_Bremen
 ---
 
 [name::State~Bremen] 

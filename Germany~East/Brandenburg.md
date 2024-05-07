@@ -9,7 +9,7 @@ isDeleted: false
 Confidential: public
 tags:
 - geo/State
-
+icon: Flag_of_Brandenburg
 shares border with:
   - "[[_Standards/db/Mecklenburg-Western Pomerania]]"
   - "[[_Standards/db/Lower Saxony]]"

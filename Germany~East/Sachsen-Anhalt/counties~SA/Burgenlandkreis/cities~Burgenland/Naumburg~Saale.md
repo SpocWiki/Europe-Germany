@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.15,11.82] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -12,6 +12,7 @@ isDeleted: false
 confidential: public
 
 ---
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::11.82] 
@@ -31,6 +32,11 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
+
+
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Naumburger_Dom.webp]] 
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Naumburger_Dom.webp]] 
+Naumburger Dom ([[Unesco]] Welterbe seit 2018) 
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Naumburg~Saale|Naumburg~Saale]] 

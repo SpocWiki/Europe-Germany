@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.39,13.06] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -31,6 +31,10 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
+
+
+![[../../../../../../../../../assets/geo/Europe/Germany/Potsdam~Sanssouci.webp]] 
+Schlösser und Parks von Potsdam und Berlin (1990)
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Potsdam|Potsdam]] 

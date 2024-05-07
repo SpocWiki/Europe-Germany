@@ -13,7 +13,7 @@ draft: false
 confidential: public
 tags:
 - geo/State
-
+icon: Flag_of_Bavaria_(lozengy)
 language used:
   - "[[_Standards/db/East Franconian German]]"
   - "[[_Standards/db/Swabian]]"
