@@ -12,6 +12,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+## [[Görlitz-city]] 
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::14.98] 

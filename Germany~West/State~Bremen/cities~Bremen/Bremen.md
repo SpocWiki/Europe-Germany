@@ -84,6 +84,9 @@ flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Breme
 official website: https://www.bremen.de/
 
 ---
+
+# [[Bremen]]
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::8.81] 
