@@ -10,17 +10,17 @@ tags:
 - geo/State
 icon: Flag_of_Saxony-Anhalt_(state)
 located in time zone:
-  - "[[_Standards/db/UTC+02:00]]"
-  - "[[_Standards/db/UTC+01:00]]"
+  - "[[_Standards/WikiData/WD~UTC+02:00]]"
+  - "[[_Standards/WikiData/WD~UTC+01:00]]"
 located in the administrative territorial entity:
-  - "[[_Standards/db/German Democratic Republic]]"
-  - "[[_Standards/db/Germany]]"
-country: "[[_Standards/db/Germany]]"
+  - "[[_Standards/WikiData/WD~German Democratic Republic]]"
+  - "[[_Standards/WikiData/WD~Germany]]"
+country: "[[_Standards/WikiData/WD~Germany]]"
 elevation above sea level: 51
 replaces:
-  - "[[_Standards/db/Cottbus District]]"
-  - "[[_Standards/db/Halle District]]"
-  - "[[_Standards/db/Magdeburg District]]"
+  - "[[_Standards/WikiData/WD~Cottbus District]]"
+  - "[[_Standards/WikiData/WD~Halle District]]"
+  - "[[_Standards/WikiData/WD~Magdeburg District]]"
 social media followers: 6520
 German regional key: "15"
 area: 20454
@@ -36,22 +36,22 @@ coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Wappen%20
 Commons gallery: Sachsen-Anhalt
 Commons category: Saxony-Anhalt
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saxony-Anhalt%20%28state%29.svg
-head of government: "[[_Standards/db/Reiner Haseloff]]"
-highest point: "[[_Standards/db/Brocken]]"
-coat of arms: "[[_Standards/db/coat of arms of Saxony-Anhalt]]"
-flag: "[[_Standards/db/flag of Saxony-Anhalt]]"
-language used: "[[_Standards/db/Upper Saxon]]"
-legislative body: "[[_Standards/db/Landtag of Saxony-Anhalt]]"
-instance of: "[[_Standards/db/federated state of Germany]]"
-member of: "[[_Standards/db/Common Library Network]]"
-archives at: "[[_Standards/db/State Archives Sachsen-Anhalt]]"
-highest judicial authority: "[[_Standards/db/State Constitutional Court of Saxony-Anhalt]]"
-owner of: "[[_Standards/db/Mitteldeutsche Flughafen AG]]"
-main regulatory text: "[[_Standards/db/Constitution of the State of Saxony-Anhalt]]"
-topic's main Wikimedia portal: "[[_Standards/db/Portal:Saxony-Anhalt]]"
-history of topic: "[[_Standards/db/history of Saxony-Anhalt]]"
-office held by head of government: "[[_Standards/db/Minister-President of Saxony-Anhalt]]"
-economy of topic: "[[_Standards/db/economy of Saxony-Anhalt]]"
+head of government: "[[_Standards/WikiData/WD~Reiner Haseloff]]"
+highest point: "[[_Standards/WikiData/WD~Brocken]]"
+coat of arms: "[[_Standards/WikiData/WD~coat of arms of Saxony-Anhalt]]"
+flag: "[[_Standards/WikiData/WD~flag of Saxony-Anhalt]]"
+language used: "[[_Standards/WikiData/WD~Upper Saxon]]"
+legislative body: "[[_Standards/WikiData/WD~Landtag of Saxony-Anhalt]]"
+instance of: "[[_Standards/WikiData/WD~federated state of Germany]]"
+member of: "[[_Standards/WikiData/WD~Common Library Network]]"
+archives at: "[[_Standards/WikiData/WD~State Archives Sachsen-Anhalt]]"
+highest judicial authority: "[[_Standards/WikiData/WD~State Constitutional Court of Saxony-Anhalt]]"
+owner of: "[[_Standards/WikiData/WD~Mitteldeutsche Flughafen AG]]"
+main regulatory text: "[[_Standards/WikiData/WD~Constitution of the State of Saxony-Anhalt]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal:Saxony-Anhalt]]"
+history of topic: "[[_Standards/WikiData/WD~history of Saxony-Anhalt]]"
+office held by head of government: "[[_Standards/WikiData/WD~Minister-President of Saxony-Anhalt]]"
+economy of topic: "[[_Standards/WikiData/WD~economy of Saxony-Anhalt]]"
 geoshape: http://commons.wikimedia.org/data/main/Data:Sachsen-Anhalt.map
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Landtag%20von%20Sachsen-Anhalt%20in%20Magdeburg.jpg
 locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Saxony-Anhalt%20in%20Germany.svg
@@ -74,26 +74,26 @@ email address: mailto:staatskanzlei@stk.sachsen-anhalt.de
 Telegram username: SachsenAnhaltde_bot
 coordinate location: Point(11.7 52.0)
 shares border with:
-  - "[[_Standards/db/Lower Saxony]]"
-  - "[[_Standards/db/Saxony]]"
-  - "[[_Standards/db/Thuringia]]"
-  - "[[_Standards/db/Brandenburg]]"
+  - "[[_Standards/WikiData/WD~Lower Saxony]]"
+  - "[[_Standards/WikiData/WD~Saxony]]"
+  - "[[_Standards/WikiData/WD~Thuringia]]"
+  - "[[_Standards/WikiData/WD~Brandenburg]]"
 contains the administrative territorial entity:
-  - "[[_Standards/db/Magdeburg]]"
-  - "[[_Standards/db/Halle (Saale)]]"
-  - "[[_Standards/db/Dessau-Roßlau]]"
-  - "[[_Standards/db/Stendal District]]"
-  - "[[_Standards/db/Altmarkkreis Salzwedel]]"
-  - "[[_Standards/db/Börde]]"
-  - "[[_Standards/db/Anhalt-Bitterfeld]]"
-  - "[[_Standards/db/Jerichower Land]]"
-  - "[[_Standards/db/Wittenberg]]"
-  - "[[_Standards/db/Salzlandkreis]]"
-  - "[[_Standards/db/Harz District]]"
-  - "[[_Standards/db/Mansfeld-Südharz]]"
-  - "[[_Standards/db/Saalekreis]]"
-  - "[[_Standards/db/Burgenlandkreis]]"
-capital: "[[_Standards/db/Magdeburg]]"
+  - "[[_Standards/WikiData/WD~Magdeburg]]"
+  - "[[_Standards/WikiData/WD~Halle (Saale)]]"
+  - "[[_Standards/WikiData/WD~Dessau-Roßlau]]"
+  - "[[_Standards/WikiData/WD~Stendal District]]"
+  - "[[_Standards/WikiData/WD~Altmarkkreis Salzwedel]]"
+  - "[[_Standards/WikiData/WD~Börde]]"
+  - "[[_Standards/WikiData/WD~Anhalt-Bitterfeld]]"
+  - "[[_Standards/WikiData/WD~Jerichower Land]]"
+  - "[[_Standards/WikiData/WD~Wittenberg]]"
+  - "[[_Standards/WikiData/WD~Salzlandkreis]]"
+  - "[[_Standards/WikiData/WD~Harz District]]"
+  - "[[_Standards/WikiData/WD~Mansfeld-Südharz]]"
+  - "[[_Standards/WikiData/WD~Saalekreis]]"
+  - "[[_Standards/WikiData/WD~Burgenlandkreis]]"
+capital: "[[_Standards/WikiData/WD~Magdeburg]]"
 
 ---
 

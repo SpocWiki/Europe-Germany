@@ -10,31 +10,31 @@ tags:
 - geo/State
 icon: Flag_of_North_Rhine-Westphalia
 has part(s) of the class:
-  - "[[_Standards/db/district of Germany]]"
-  - "[[_Standards/db/Regierungsbezirk]]"
-  - "[[_Standards/db/independent city of Germany]]"
-has part(s): "[[_Standards/db/Rhine-Ruhr Metropolitan Region]]"
-highest point: "[[_Standards/db/Langenberg]]"
-coat of arms: "[[_Standards/db/coat of arms of North Rhine-Westphalia]]"
+  - "[[_Standards/WikiData/WD~district of Germany]]"
+  - "[[_Standards/WikiData/WD~Regierungsbezirk]]"
+  - "[[_Standards/WikiData/WD~independent city of Germany]]"
+has part(s): "[[_Standards/WikiData/WD~Rhine-Ruhr Metropolitan Region]]"
+highest point: "[[_Standards/WikiData/WD~Langenberg]]"
+coat of arms: "[[_Standards/WikiData/WD~coat of arms of North Rhine-Westphalia]]"
 language used:
-  - "[[_Standards/db/Westphalian]]"
-  - "[[_Standards/db/Ripuarian]]"
-legislative body: "[[_Standards/db/Landtag of North Rhine-Westphalia]]"
-flag: "[[_Standards/db/flag of North Rhine-Westphalia]]"
+  - "[[_Standards/WikiData/WD~Westphalian]]"
+  - "[[_Standards/WikiData/WD~Ripuarian]]"
+legislative body: "[[_Standards/WikiData/WD~Landtag of North Rhine-Westphalia]]"
+flag: "[[_Standards/WikiData/WD~flag of North Rhine-Westphalia]]"
 replaces:
-  - "[[_Standards/db/Province of Westphalia]]"
-  - "[[_Standards/db/Land Lippe]]"
-  - "[[_Standards/db/North Rhine]]"
+  - "[[_Standards/WikiData/WD~Province of Westphalia]]"
+  - "[[_Standards/WikiData/WD~Land Lippe]]"
+  - "[[_Standards/WikiData/WD~North Rhine]]"
 named after:
-  - "[[_Standards/db/Province of Westphalia]]"
-  - "[[_Standards/db/North Rhine]]"
-instance of: "[[_Standards/db/federated state of Germany]]"
-head of government: "[[_Standards/db/Hendrik Wüst]]"
-geography of topic: "[[_Standards/db/geography of North Rhine-Westphalia]]"
-history of topic: "[[_Standards/db/history of North Rhine-Westphalia]]"
-archives at: "[[_Standards/db/State Archives of North Rhine-Westphalia]]"
-member of: "[[_Standards/db/Climate Alliance]]"
-economy of topic: "[[_Standards/db/economy of North Rhine-Westphalia]]"
+  - "[[_Standards/WikiData/WD~Province of Westphalia]]"
+  - "[[_Standards/WikiData/WD~North Rhine]]"
+instance of: "[[_Standards/WikiData/WD~federated state of Germany]]"
+head of government: "[[_Standards/WikiData/WD~Hendrik Wüst]]"
+geography of topic: "[[_Standards/WikiData/WD~geography of North Rhine-Westphalia]]"
+history of topic: "[[_Standards/WikiData/WD~history of North Rhine-Westphalia]]"
+archives at: "[[_Standards/WikiData/WD~State Archives of North Rhine-Westphalia]]"
+member of: "[[_Standards/WikiData/WD~Climate Alliance]]"
+economy of topic: "[[_Standards/WikiData/WD~economy of North Rhine-Westphalia]]"
 geoshape: http://commons.wikimedia.org/data/main/Data:Nordrhein-Westfalen.map
 locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20North%20Rhine-Westphalia%20in%20Germany.svg
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Rapsfeld%20banner.jpg
@@ -47,38 +47,38 @@ Libris-URI: jgvxwsm21s1mktd
 Commons gallery: Nordrhein-Westfalen
 short name: NRW
 motto text: Germany at its best
-follows: "[[_Standards/db/North Rhine]]"
-office held by head of government: "[[_Standards/db/Minister-President of North Rhine-Westphalia]]"
+follows: "[[_Standards/WikiData/WD~North Rhine]]"
+office held by head of government: "[[_Standards/WikiData/WD~Minister-President of North Rhine-Westphalia]]"
 coordinate location: Point(7.55 51.466666666)
-open data portal: "[[_Standards/db/open.nrw]]"
-highest judicial authority: "[[_Standards/db/Constitutional Court of North Rhine-Westphalia]]"
-described by source: "[[_Standards/db/Armenian Soviet Encyclopedia, vol. 6]]"
+open data portal: "[[_Standards/WikiData/WD~open.nrw]]"
+highest judicial authority: "[[_Standards/WikiData/WD~Constitutional Court of North Rhine-Westphalia]]"
+described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6]]"
 X username: landnrw
 Instagram username: land.nrw
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20North%20Rhine-Westphalia.svg
 ISNI: "0000000109415702"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rhine%20from%20Bonn%20to%20Cologne.jpeg
 shares border with:
-  - "[[_Standards/db/Gelderland]]"
-  - "[[_Standards/db/Overijssel]]"
-  - "[[_Standards/db/Limburg]]"
-  - "[[_Standards/db/Province of Liege]]"
-  - "[[_Standards/db/Hesse]]"
-  - "[[_Standards/db/Lower Saxony]]"
-  - "[[_Standards/db/Rhineland-Palatinate]]"
-  - "[[_Standards/db/Wallonia]]"
-capital: "[[_Standards/db/Düsseldorf]]"
+  - "[[_Standards/WikiData/WD~Gelderland]]"
+  - "[[_Standards/WikiData/WD~Overijssel]]"
+  - "[[_Standards/WikiData/WD~Limburg]]"
+  - "[[_Standards/WikiData/WD~Province of Liege]]"
+  - "[[_Standards/WikiData/WD~Hesse]]"
+  - "[[_Standards/WikiData/WD~Lower Saxony]]"
+  - "[[_Standards/WikiData/WD~Rhineland-Palatinate]]"
+  - "[[_Standards/WikiData/WD~Wallonia]]"
+capital: "[[_Standards/WikiData/WD~Düsseldorf]]"
 located in time zone:
-  - "[[_Standards/db/UTC+01:00]]"
-  - "[[_Standards/db/UTC+02:00]]"
+  - "[[_Standards/WikiData/WD~UTC+01:00]]"
+  - "[[_Standards/WikiData/WD~UTC+02:00]]"
 contains the administrative territorial entity:
-  - "[[_Standards/db/Detmold Government Region]]"
-  - "[[_Standards/db/Münster Government Region]]"
-  - "[[_Standards/db/Düsseldorf Government Region]]"
-  - "[[_Standards/db/Cologne Government Region]]"
-  - "[[_Standards/db/Arnsberg Government Region]]"
-located in the administrative territorial entity: "[[_Standards/db/Germany]]"
-country: "[[_Standards/db/Germany]]"
+  - "[[_Standards/WikiData/WD~Detmold Government Region]]"
+  - "[[_Standards/WikiData/WD~Münster Government Region]]"
+  - "[[_Standards/WikiData/WD~Düsseldorf Government Region]]"
+  - "[[_Standards/WikiData/WD~Cologne Government Region]]"
+  - "[[_Standards/WikiData/WD~Arnsberg Government Region]]"
+located in the administrative territorial entity: "[[_Standards/WikiData/WD~Germany]]"
+country: "[[_Standards/WikiData/WD~Germany]]"
 elevation above sea level: 45
 social media followers: 7960
 German regional key: "05"

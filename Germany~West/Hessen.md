@@ -26,26 +26,26 @@ NUTS code: DE7
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hesse.svg
 coordinate location: Point(9.028472222 50.608027777)
 budget: 48053957900
-head of government: "[[_Standards/db/Boris Rhein]]"
-named after: "[[_Standards/db/Chatti]]"
-highest point: "[[_Standards/db/Wasserkuppe]]"
-said to be the same as: "[[_Standards/db/Greater Hesse]]"
-coat of arms: "[[_Standards/db/coat of arms of Hesse]]"
-legislative body: "[[_Standards/db/Landtag of Hesse]]"
+head of government: "[[_Standards/WikiData/WD~Boris Rhein]]"
+named after: "[[_Standards/WikiData/WD~Chatti]]"
+highest point: "[[_Standards/WikiData/WD~Wasserkuppe]]"
+said to be the same as: "[[_Standards/WikiData/WD~Greater Hesse]]"
+coat of arms: "[[_Standards/WikiData/WD~coat of arms of Hesse]]"
+legislative body: "[[_Standards/WikiData/WD~Landtag of Hesse]]"
 described by source:
-  - "[[_Standards/db/Encyclopædia Britannica 11th edition]]"
-  - "[[_Standards/db/Svensk uppslagsbok]]"
-  - "[[_Standards/db/Topographia Hassiae]]"
-  - "[[_Standards/db/Q105740947]]"
-instance of: "[[_Standards/db/federated state of Germany]]"
-archives at: "[[_Standards/db/Hessisches Hauptstaatsarchiv]]"
-office held by head of government: "[[_Standards/db/Minister-President of Hesse]]"
-highest judicial authority: "[[_Standards/db/Constitutional Court of the State of Hesse]]"
-flag: "[[_Standards/db/flag of Hesse]]"
-history of topic: "[[_Standards/db/history of Hesse]]"
-topic's main Wikimedia portal: "[[_Standards/db/Portal:Hesse]]"
-maintained by WikiProject: "[[_Standards/db/Q59078454]]"
-economy of topic: "[[_Standards/db/economy of Hesse]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition]]"
+  - "[[_Standards/WikiData/WD~Svensk uppslagsbok]]"
+  - "[[_Standards/WikiData/WD~Topographia Hassiae]]"
+  - "[[_Standards/WikiData/WD~Q105740947]]"
+instance of: "[[_Standards/WikiData/WD~federated state of Germany]]"
+archives at: "[[_Standards/WikiData/WD~Hessisches Hauptstaatsarchiv]]"
+office held by head of government: "[[_Standards/WikiData/WD~Minister-President of Hesse]]"
+highest judicial authority: "[[_Standards/WikiData/WD~Constitutional Court of the State of Hesse]]"
+flag: "[[_Standards/WikiData/WD~flag of Hesse]]"
+history of topic: "[[_Standards/WikiData/WD~history of Hesse]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal:Hesse]]"
+maintained by WikiProject: "[[_Standards/WikiData/WD~Q59078454]]"
+economy of topic: "[[_Standards/WikiData/WD~economy of Hesse]]"
 geoshape: http://commons.wikimedia.org/data/main/Data:Hessen.map
 locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Hesse%20in%20Germany.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wiesbaden%20Landtag%20Hessen%20im%20Stadtschlo%C3%9F%20Wiesbaden%20am%20Schlo%C3%9Fplatz%20-%20Foto%20Wolfgang%20Pehlemann%20Wiesbaden%20DSCN1417.jpg
@@ -68,26 +68,26 @@ impressum URL: https://hessen.de/impressum
 contact page URL: https://hessen.de/kontakt
 privacy policy URL: https://hessen.de/datenschutz
 shares border with:
-  - "[[_Standards/db/Bavaria]]"
-  - "[[_Standards/db/Baden-Württemberg]]"
-  - "[[_Standards/db/North Rhine-Westphalia]]"
-  - "[[_Standards/db/Lower Saxony]]"
-  - "[[_Standards/db/Rhineland-Palatinate]]"
-  - "[[_Standards/db/Thuringia]]"
+  - "[[_Standards/WikiData/WD~Bavaria]]"
+  - "[[_Standards/WikiData/WD~Baden-Württemberg]]"
+  - "[[_Standards/WikiData/WD~North Rhine-Westphalia]]"
+  - "[[_Standards/WikiData/WD~Lower Saxony]]"
+  - "[[_Standards/WikiData/WD~Rhineland-Palatinate]]"
+  - "[[_Standards/WikiData/WD~Thuringia]]"
 twinned administrative body:
-  - "[[_Standards/db/Emilia-Romagna]]"
-  - "[[_Standards/db/Wisconsin]]"
-capital: "[[_Standards/db/Wiesbaden]]"
+  - "[[_Standards/WikiData/WD~Emilia-Romagna]]"
+  - "[[_Standards/WikiData/WD~Wisconsin]]"
+capital: "[[_Standards/WikiData/WD~Wiesbaden]]"
 located in time zone:
-  - "[[_Standards/db/UTC+01:00]]"
-  - "[[_Standards/db/UTC+02:00]]"
+  - "[[_Standards/WikiData/WD~UTC+01:00]]"
+  - "[[_Standards/WikiData/WD~UTC+02:00]]"
 contains the administrative territorial entity:
-  - "[[_Standards/db/Giessen Government Region]]"
-  - "[[_Standards/db/Kassel Government Region]]"
-  - "[[_Standards/db/Darmstadt Government Region]]"
-located in the administrative territorial entity: "[[_Standards/db/Germany]]"
-country: "[[_Standards/db/Germany]]"
-official language: "[[_Standards/db/German]]"
+  - "[[_Standards/WikiData/WD~Giessen Government Region]]"
+  - "[[_Standards/WikiData/WD~Kassel Government Region]]"
+  - "[[_Standards/WikiData/WD~Darmstadt Government Region]]"
+located in the administrative territorial entity: "[[_Standards/WikiData/WD~Germany]]"
+country: "[[_Standards/WikiData/WD~Germany]]"
+official language: "[[_Standards/WikiData/WD~German]]"
 area: 21100
 elevation above sea level: 264
 ---

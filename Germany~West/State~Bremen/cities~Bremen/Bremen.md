@@ -19,25 +19,25 @@ Commons category: Bremen (state)
 coordinate location: Point(8.733333333 53.133333333)
 inception: 1646-01-01T00:00:00Z
 instance of:
-  - "[[_Standards/db/city-state]]"
-  - "[[_Standards/db/federated state of Germany]]"
-located in/on physical feature: "[[_Standards/db/Bremen/Oldenburg Metropolitan Region]]"
-legislative body: "[[_Standards/db/Bürgerschaft of Bremen]]"
-coat of arms: "[[_Standards/db/coat of arms of Bremen]]"
-head of government: "[[_Standards/db/Andreas Bovenschulte]]"
-flag: "[[_Standards/db/flag of Bremen]]"
+  - "[[_Standards/WikiData/WD~city-state]]"
+  - "[[_Standards/WikiData/WD~federated state of Germany]]"
+located in/on physical feature: "[[_Standards/WikiData/WD~Bremen/Oldenburg Metropolitan Region]]"
+legislative body: "[[_Standards/WikiData/WD~Bürgerschaft of Bremen]]"
+coat of arms: "[[_Standards/WikiData/WD~coat of arms of Bremen]]"
+head of government: "[[_Standards/WikiData/WD~Andreas Bovenschulte]]"
+flag: "[[_Standards/WikiData/WD~flag of Bremen]]"
 described by source:
-  - "[[_Standards/db/Encyclopædia Britannica 11th edition]]"
-  - "[[_Standards/db/Meyers Konversations-Lexikon, 4th edition (1885–1890)]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890)]]"
 different from:
-  - "[[_Standards/db/Brema]]"
-  - "[[_Standards/db/Bremen]]"
-archives at: "[[_Standards/db/State Archives of Bremen]]"
-highest point: "[[_Standards/db/Friedehorst Park]]"
-highest judicial authority: "[[_Standards/db/Constitutional Court of the Free Hanseatic City of Bremen]]"
-topic's main Wikimedia portal: "[[_Standards/db/Portal:Bremen]]"
-office held by head of government: "[[_Standards/db/mayor of Bremen]]"
-economy of topic: "[[_Standards/db/economy of the Free Hanseatic City of Bremen]]"
+  - "[[_Standards/WikiData/WD~Brema]]"
+  - "[[_Standards/WikiData/WD~Bremen]]"
+archives at: "[[_Standards/WikiData/WD~State Archives of Bremen]]"
+highest point: "[[_Standards/WikiData/WD~Friedehorst Park]]"
+highest judicial authority: "[[_Standards/WikiData/WD~Constitutional Court of the Free Hanseatic City of Bremen]]"
+topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal:Bremen]]"
+office held by head of government: "[[_Standards/WikiData/WD~mayor of Bremen]]"
+economy of topic: "[[_Standards/WikiData/WD~economy of the Free Hanseatic City of Bremen]]"
 U.S. National Archives Identifier: "10044975"
 geoshape: http://commons.wikimedia.org/data/main/Data:Bremen.map
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bremen%20aerial%20view%209.JPG
@@ -58,20 +58,20 @@ ISNI:
   - "0000000115440576"
   - "0000000417994056"
 PM20 geo code: A10(1)
-shares border with: "[[_Standards/db/Lower Saxony]]"
-enclave within: "[[_Standards/db/Lower Saxony]]"
+shares border with: "[[_Standards/WikiData/WD~Lower Saxony]]"
+enclave within: "[[_Standards/WikiData/WD~Lower Saxony]]"
 located in or next to body of water:
-  - "[[_Standards/db/Weser]]"
-  - "[[_Standards/db/North Sea]]"
+  - "[[_Standards/WikiData/WD~Weser]]"
+  - "[[_Standards/WikiData/WD~North Sea]]"
 contains the administrative territorial entity:
-  - "[[_Standards/db/Bremerhaven]]"
-  - "[[_Standards/db/Bremen]]"
+  - "[[_Standards/WikiData/WD~Bremerhaven]]"
+  - "[[_Standards/WikiData/WD~Bremen]]"
 located in time zone:
-  - "[[_Standards/db/UTC+01:00]]"
-  - "[[_Standards/db/UTC+02:00]]"
-capital: "[[_Standards/db/Bremen]]"
-located in the administrative territorial entity: "[[_Standards/db/Germany]]"
-country: "[[_Standards/db/Germany]]"
+  - "[[_Standards/WikiData/WD~UTC+01:00]]"
+  - "[[_Standards/WikiData/WD~UTC+02:00]]"
+capital: "[[_Standards/WikiData/WD~Bremen]]"
+located in the administrative territorial entity: "[[_Standards/WikiData/WD~Germany]]"
+country: "[[_Standards/WikiData/WD~Germany]]"
 unemployment rate: 11.1
 population: 661000
 area: 419.38
