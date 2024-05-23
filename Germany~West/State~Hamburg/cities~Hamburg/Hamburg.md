@@ -7,6 +7,7 @@ tags:
 - geo/City
 
 
+has_id_wikidata: Q1055
 SpocWebEntityId: 30742
 isDeleted: false
 confidential: public
@@ -225,9 +226,10 @@ HASC:
   - DE.HH.HM
 EU VAT number: DE118509725
 FIPS 10-4 (countries and regions): GM04
-has_id_wikidata: Q1055
 
 ---
+
+# [[Hamburg]] 
 
 #is_a_/Place  
 #is_a_ :: [[Place]] 

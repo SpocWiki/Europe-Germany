@@ -252,6 +252,9 @@ time of earliest written record:
 coordinates of northernmost point: Point(13.47944 52.6754)
 
 ---
+
+# [[Berlin]] 
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::13.5] 
