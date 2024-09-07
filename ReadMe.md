@@ -848,6 +848,8 @@ has_place_continent:: [[Europe]]
 Capital :: [[Berlin]]  
 [Alcohol-l::12.8] 
 [Language-Id::497] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
 [has_place_longitude::10.1207] 
 [has_place_latitude::50.8699] 
 
