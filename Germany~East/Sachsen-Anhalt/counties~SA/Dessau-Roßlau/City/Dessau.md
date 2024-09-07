@@ -12,7 +12,7 @@ isDeleted: false
 confidential: public
 
 ---
-
+	
 
 #is_a_/Place  
 #is_a_ :: [[Place]] 
