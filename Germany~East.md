@@ -1,13 +1,13 @@
 ---
-
 type: Country
 tags:
-- geo/Country
-
+  - geo/Country
 SpocWebEntityId: 59063
 isDeleted: false
 confidential: public
-
+aliases:
+  - DDR
+  - Deutsche  Demokratische Republik
 ---
 [ISO2::] 
 [ISO3::DDR] 

@@ -25,6 +25,8 @@ aliases:
 - ????????
 - the Federal Republic of Germany
 - la Republica Federal de Alemania
+- Bundesrepublik Deutschland 
+- 
 
 Languages:
 - de
