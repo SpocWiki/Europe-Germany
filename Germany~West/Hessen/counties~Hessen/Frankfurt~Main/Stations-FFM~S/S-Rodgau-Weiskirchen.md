@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.05318,8.891466] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[S-Rodgau-Weiskirchen|S-Rodgau-Weiskirchen]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Weiskirchen.internal|S-Rodgau-Weiskirchen.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Weiskirchen.protect|S-Rodgau-Weiskirchen.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Weiskirchen.private|S-Rodgau-Weiskirchen.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Weiskirchen.personal|S-Rodgau-Weiskirchen.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Weiskirchen.secret|S-Rodgau-Weiskirchen.secret]] 
+
+### [S-Rodgau-Weiskirchen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Weiskirchen.md) 
+
+### [S-Rodgau-Weiskirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Weiskirchen.internal.md) 
+
+### [S-Rodgau-Weiskirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Weiskirchen.protect.md) 
+
+### [S-Rodgau-Weiskirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Weiskirchen.private.md) 
+
+### [S-Rodgau-Weiskirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Weiskirchen.personal.md) 
+
+### [S-Rodgau-Weiskirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Weiskirchen.secret.md) 

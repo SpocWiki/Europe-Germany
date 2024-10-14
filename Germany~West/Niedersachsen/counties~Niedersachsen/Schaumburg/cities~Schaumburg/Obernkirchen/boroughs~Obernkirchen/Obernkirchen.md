@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.28,9.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Obernkirchen|Obernkirchen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Obernkirchen.internal|Obernkirchen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Obernkirchen.protect|Obernkirchen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Obernkirchen.private|Obernkirchen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Obernkirchen.personal|Obernkirchen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Obernkirchen.secret|Obernkirchen.secret]] 
+
+### [Obernkirchen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.md) 
+
+### [Obernkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.internal.md) 
+
+### [Obernkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.protect.md) 
+
+### [Obernkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.private.md) 
+
+### [Obernkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.personal.md) 
+
+### [Obernkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.secret.md) 

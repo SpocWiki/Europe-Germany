@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.66,11.15] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Allendorf|Allendorf]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Allendorf.public|Allendorf.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Allendorf.internal|Allendorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Allendorf.protect|Allendorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Allendorf.private|Allendorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Allendorf.personal|Allendorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Allendorf.secret|Allendorf.secret]] 
+
+### [Allendorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schwarzatal~Mitte/boroughs~Schwarzatal-M/Allendorf.md) 
+
+### [Allendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schwarzatal~Mitte/boroughs~Schwarzatal-M/Allendorf.internal.md) 
+
+### [Allendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schwarzatal~Mitte/boroughs~Schwarzatal-M/Allendorf.protect.md) 
+
+### [Allendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schwarzatal~Mitte/boroughs~Schwarzatal-M/Allendorf.private.md) 
+
+### [Allendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schwarzatal~Mitte/boroughs~Schwarzatal-M/Allendorf.personal.md) 
+
+### [Allendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schwarzatal~Mitte/boroughs~Schwarzatal-M/Allendorf.secret.md) 

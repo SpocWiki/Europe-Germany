@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Carlsfeld|Carlsfeld]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Carlsfeld.public|Carlsfeld.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Carlsfeld.internal|Carlsfeld.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Carlsfeld.protect|Carlsfeld.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Carlsfeld.private|Carlsfeld.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Carlsfeld.personal|Carlsfeld.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Carlsfeld.secret|Carlsfeld.secret]] 
+
+### [Carlsfeld](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Eibenstock/City/Carlsfeld.md) 
+
+### [Carlsfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Eibenstock/City/Carlsfeld.internal.md) 
+
+### [Carlsfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Eibenstock/City/Carlsfeld.protect.md) 
+
+### [Carlsfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Eibenstock/City/Carlsfeld.private.md) 
+
+### [Carlsfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Eibenstock/City/Carlsfeld.personal.md) 
+
+### [Carlsfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Eibenstock/City/Carlsfeld.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.5,10.54] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,9 +34,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Gifhorn|Gifhorn]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gifhorn.internal|Gifhorn.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gifhorn.protect|Gifhorn.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gifhorn.private|Gifhorn.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gifhorn.personal|Gifhorn.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gifhorn.secret|Gifhorn.secret]] 
+
+### [Gifhorn](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn.md) 
+
+### [Gifhorn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn.internal.md) 
+
+### [Gifhorn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn.protect.md) 
+
+### [Gifhorn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn.private.md) 
+
+### [Gifhorn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn.personal.md) 
+
+### [Gifhorn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn.secret.md) 

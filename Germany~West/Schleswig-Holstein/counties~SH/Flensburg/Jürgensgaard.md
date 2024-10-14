@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Juergensgaarde|Juergensgaarde]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Juergensgaarde.internal|Juergensgaarde.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Juergensgaarde.protect|Juergensgaarde.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Juergensgaarde.private|Juergensgaarde.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Juergensgaarde.personal|Juergensgaarde.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Juergensgaarde.secret|Juergensgaarde.secret]] 
+
+### [Jürgensgaard](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Flensburg/Jürgensgaard.md) 
+
+### [Jürgensgaard.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Flensburg/Jürgensgaard.internal.md) 
+
+### [Jürgensgaard.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Flensburg/Jürgensgaard.protect.md) 
+
+### [Jürgensgaard.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Flensburg/Jürgensgaard.private.md) 
+
+### [Jürgensgaard.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Flensburg/Jürgensgaard.personal.md) 
+
+### [Jürgensgaard.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Flensburg/Jürgensgaard.secret.md) 

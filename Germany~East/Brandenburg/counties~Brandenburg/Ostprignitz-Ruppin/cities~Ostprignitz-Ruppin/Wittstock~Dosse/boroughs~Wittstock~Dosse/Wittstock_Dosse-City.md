@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wittstock|Wittstock]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wittstock.public|Wittstock.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wittstock.internal|Wittstock.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wittstock.protect|Wittstock.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wittstock.private|Wittstock.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wittstock.personal|Wittstock.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wittstock.secret|Wittstock.secret]] 
+
+### [Wittstock_Dosse-City](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Wittstock_Dosse-City.md) 
+
+### [Wittstock_Dosse-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Wittstock_Dosse-City.internal.md) 
+
+### [Wittstock_Dosse-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Wittstock_Dosse-City.protect.md) 
+
+### [Wittstock_Dosse-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Wittstock_Dosse-City.private.md) 
+
+### [Wittstock_Dosse-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Wittstock_Dosse-City.personal.md) 
+
+### [Wittstock_Dosse-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Wittstock_Dosse-City.secret.md) 

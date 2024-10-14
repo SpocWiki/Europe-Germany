@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.65,8.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Fuerth~Odenwald|Fuerth~Odenwald]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Fuerth~Odenwald.internal|Fuerth~Odenwald.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Fuerth~Odenwald.protect|Fuerth~Odenwald.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Fuerth~Odenwald.private|Fuerth~Odenwald.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Fuerth~Odenwald.personal|Fuerth~Odenwald.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Fuerth~Odenwald.secret|Fuerth~Odenwald.secret]] 
+
+### [Fürth~Odenwald](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Fürth~Odenwald.md) 
+
+### [Fürth~Odenwald.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Fürth~Odenwald.internal.md) 
+
+### [Fürth~Odenwald.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Fürth~Odenwald.protect.md) 
+
+### [Fürth~Odenwald.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Fürth~Odenwald.private.md) 
+
+### [Fürth~Odenwald.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Fürth~Odenwald.personal.md) 
+
+### [Fürth~Odenwald.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Fürth~Odenwald.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.08833,8.643611] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[S-Frankfurt-Niederrad|S-Frankfurt-Niederrad]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Niederrad.internal|S-Frankfurt-Niederrad.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Niederrad.protect|S-Frankfurt-Niederrad.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Niederrad.private|S-Frankfurt-Niederrad.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Niederrad.personal|S-Frankfurt-Niederrad.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Niederrad.secret|S-Frankfurt-Niederrad.secret]] 
+
+### [S-Frankfurt-Niederrad](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Niederrad.md) 
+
+### [S-Frankfurt-Niederrad.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Niederrad.internal.md) 
+
+### [S-Frankfurt-Niederrad.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Niederrad.protect.md) 
+
+### [S-Frankfurt-Niederrad.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Niederrad.private.md) 
+
+### [S-Frankfurt-Niederrad.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Niederrad.personal.md) 
+
+### [S-Frankfurt-Niederrad.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Niederrad.secret.md) 

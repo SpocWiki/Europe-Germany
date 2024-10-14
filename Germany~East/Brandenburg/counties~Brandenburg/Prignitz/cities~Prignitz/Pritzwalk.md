@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Pritzwalk|Pritzwalk]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Pritzwalk.public|Pritzwalk.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Pritzwalk.internal|Pritzwalk.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Pritzwalk.protect|Pritzwalk.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Pritzwalk.private|Pritzwalk.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Pritzwalk.personal|Pritzwalk.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Pritzwalk.secret|Pritzwalk.secret]] 
+
+### [Pritzwalk](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Pritzwalk.md) 
+
+### [Pritzwalk.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Pritzwalk.internal.md) 
+
+### [Pritzwalk.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Pritzwalk.protect.md) 
+
+### [Pritzwalk.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Pritzwalk.private.md) 
+
+### [Pritzwalk.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Pritzwalk.personal.md) 
+
+### [Pritzwalk.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Pritzwalk.secret.md) 

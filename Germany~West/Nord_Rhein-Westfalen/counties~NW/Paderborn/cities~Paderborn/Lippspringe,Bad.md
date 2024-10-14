@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Lippspringe|Lippspringe]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Lippspringe.internal|Lippspringe.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Lippspringe.protect|Lippspringe.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Lippspringe.private|Lippspringe.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Lippspringe.personal|Lippspringe.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Lippspringe.secret|Lippspringe.secret]] 
+
+### [Lippspringe,Bad](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Lippspringe,Bad.md) 
+
+### [Lippspringe,Bad.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Lippspringe,Bad.internal.md) 
+
+### [Lippspringe,Bad.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Lippspringe,Bad.protect.md) 
+
+### [Lippspringe,Bad.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Lippspringe,Bad.private.md) 
+
+### [Lippspringe,Bad.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Lippspringe,Bad.personal.md) 
+
+### [Lippspringe,Bad.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Lippspringe,Bad.secret.md) 

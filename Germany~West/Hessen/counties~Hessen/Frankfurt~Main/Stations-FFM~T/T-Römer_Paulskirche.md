@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.11159,8.681671] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[T-Römer_Paulskirche|T-Römer_Paulskirche]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Römer_Paulskirche.internal|T-Römer_Paulskirche.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Römer_Paulskirche.protect|T-Römer_Paulskirche.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Römer_Paulskirche.private|T-Römer_Paulskirche.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Römer_Paulskirche.personal|T-Römer_Paulskirche.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Römer_Paulskirche.secret|T-Römer_Paulskirche.secret]] 
+
+### [T-Römer_Paulskirche](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Römer_Paulskirche.md) 
+
+### [T-Römer_Paulskirche.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Römer_Paulskirche.internal.md) 
+
+### [T-Römer_Paulskirche.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Römer_Paulskirche.protect.md) 
+
+### [T-Römer_Paulskirche.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Römer_Paulskirche.private.md) 
+
+### [T-Römer_Paulskirche.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Römer_Paulskirche.personal.md) 
+
+### [T-Römer_Paulskirche.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Römer_Paulskirche.secret.md) 

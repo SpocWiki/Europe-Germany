@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.3,8.73] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Rosbach~Frankfurt|Rosbach~Frankfurt]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Rosbach~Frankfurt.internal|Rosbach~Frankfurt.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Rosbach~Frankfurt.protect|Rosbach~Frankfurt.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Rosbach~Frankfurt.private|Rosbach~Frankfurt.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Rosbach~Frankfurt.personal|Rosbach~Frankfurt.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Rosbach~Frankfurt.secret|Rosbach~Frankfurt.secret]] 
+
+### [Rosbach~Höhe](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Rosbach~Höhe.md) 
+
+### [Rosbach~Höhe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Rosbach~Höhe.internal.md) 
+
+### [Rosbach~Höhe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Rosbach~Höhe.protect.md) 
+
+### [Rosbach~Höhe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Rosbach~Höhe.private.md) 
+
+### [Rosbach~Höhe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Rosbach~Höhe.personal.md) 
+
+### [Rosbach~Höhe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Rosbach~Höhe.secret.md) 

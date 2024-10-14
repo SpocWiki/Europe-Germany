@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Menden~Iserlohn|Menden~Iserlohn]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Menden~Iserlohn.internal|Menden~Iserlohn.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Menden~Iserlohn.protect|Menden~Iserlohn.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Menden~Iserlohn.private|Menden~Iserlohn.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Menden~Iserlohn.personal|Menden~Iserlohn.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Menden~Iserlohn.secret|Menden~Iserlohn.secret]] 
+
+### [Menden,Sauerland](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Menden,Sauerland.md) 
+
+### [Menden,Sauerland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Menden,Sauerland.internal.md) 
+
+### [Menden,Sauerland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Menden,Sauerland.protect.md) 
+
+### [Menden,Sauerland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Menden,Sauerland.private.md) 
+
+### [Menden,Sauerland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Menden,Sauerland.personal.md) 
+
+### [Menden,Sauerland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Menden,Sauerland.secret.md) 

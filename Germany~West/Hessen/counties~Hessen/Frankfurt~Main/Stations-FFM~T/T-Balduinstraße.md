@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.09936,8.714561] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[T-Balduinstraße|T-Balduinstraße]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Balduinstraße.internal|T-Balduinstraße.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Balduinstraße.protect|T-Balduinstraße.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Balduinstraße.private|T-Balduinstraße.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Balduinstraße.personal|T-Balduinstraße.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Balduinstraße.secret|T-Balduinstraße.secret]] 
+
+### [T-Balduinstraße](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Balduinstraße.md) 
+
+### [T-Balduinstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Balduinstraße.internal.md) 
+
+### [T-Balduinstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Balduinstraße.protect.md) 
+
+### [T-Balduinstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Balduinstraße.private.md) 
+
+### [T-Balduinstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Balduinstraße.personal.md) 
+
+### [T-Balduinstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Balduinstraße.secret.md) 

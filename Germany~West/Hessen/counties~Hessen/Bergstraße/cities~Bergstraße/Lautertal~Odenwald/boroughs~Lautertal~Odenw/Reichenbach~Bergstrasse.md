@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.72,8.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Reichenbach~Bergstrasse|Reichenbach~Bergstrasse]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Reichenbach~Bergstrasse.internal|Reichenbach~Bergstrasse.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Reichenbach~Bergstrasse.protect|Reichenbach~Bergstrasse.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Reichenbach~Bergstrasse.private|Reichenbach~Bergstrasse.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Reichenbach~Bergstrasse.personal|Reichenbach~Bergstrasse.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Reichenbach~Bergstrasse.secret|Reichenbach~Bergstrasse.secret]] 
+
+### [Reichenbach~Bergstrasse](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lautertal~Odenwald/boroughs~Lautertal~Odenw/Reichenbach~Bergstrasse.md) 
+
+### [Reichenbach~Bergstrasse.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lautertal~Odenwald/boroughs~Lautertal~Odenw/Reichenbach~Bergstrasse.internal.md) 
+
+### [Reichenbach~Bergstrasse.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lautertal~Odenwald/boroughs~Lautertal~Odenw/Reichenbach~Bergstrasse.protect.md) 
+
+### [Reichenbach~Bergstrasse.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lautertal~Odenwald/boroughs~Lautertal~Odenw/Reichenbach~Bergstrasse.private.md) 
+
+### [Reichenbach~Bergstrasse.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lautertal~Odenwald/boroughs~Lautertal~Odenw/Reichenbach~Bergstrasse.personal.md) 
+
+### [Reichenbach~Bergstrasse.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lautertal~Odenwald/boroughs~Lautertal~Odenw/Reichenbach~Bergstrasse.secret.md) 

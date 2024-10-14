@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.72,8.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Barnstorf|Barnstorf]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Barnstorf.internal|Barnstorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Barnstorf.protect|Barnstorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Barnstorf.private|Barnstorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Barnstorf.personal|Barnstorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Barnstorf.secret|Barnstorf.secret]] 
+
+### [Barnstorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.md) 
+
+### [Barnstorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.internal.md) 
+
+### [Barnstorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.protect.md) 
+
+### [Barnstorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.private.md) 
+
+### [Barnstorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.personal.md) 
+
+### [Barnstorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.secret.md) 

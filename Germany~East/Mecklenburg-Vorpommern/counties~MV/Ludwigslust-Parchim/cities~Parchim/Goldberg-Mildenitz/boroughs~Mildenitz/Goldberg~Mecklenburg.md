@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Goldberg~Meklenburg|Goldberg~Meklenburg]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Goldberg~Meklenburg.public|Goldberg~Meklenburg.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Goldberg~Meklenburg.internal|Goldberg~Meklenburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Goldberg~Meklenburg.protect|Goldberg~Meklenburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Goldberg~Meklenburg.private|Goldberg~Meklenburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Goldberg~Meklenburg.personal|Goldberg~Meklenburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Goldberg~Meklenburg.secret|Goldberg~Meklenburg.secret]] 
+
+### [Goldberg~Mecklenburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Goldberg-Mildenitz/boroughs~Mildenitz/Goldberg~Mecklenburg.md) 
+
+### [Goldberg~Mecklenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Goldberg-Mildenitz/boroughs~Mildenitz/Goldberg~Mecklenburg.internal.md) 
+
+### [Goldberg~Mecklenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Goldberg-Mildenitz/boroughs~Mildenitz/Goldberg~Mecklenburg.protect.md) 
+
+### [Goldberg~Mecklenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Goldberg-Mildenitz/boroughs~Mildenitz/Goldberg~Mecklenburg.private.md) 
+
+### [Goldberg~Mecklenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Goldberg-Mildenitz/boroughs~Mildenitz/Goldberg~Mecklenburg.personal.md) 
+
+### [Goldberg~Mecklenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Goldberg-Mildenitz/boroughs~Mildenitz/Goldberg~Mecklenburg.secret.md) 

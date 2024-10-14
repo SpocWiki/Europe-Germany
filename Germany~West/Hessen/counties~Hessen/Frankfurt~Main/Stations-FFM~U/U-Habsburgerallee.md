@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.11694,8.7078] 
 type: Station 
 mapzoom: [8,18] 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[U-Habsburgerallee|U-Habsburgerallee]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Habsburgerallee.internal|U-Habsburgerallee.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Habsburgerallee.protect|U-Habsburgerallee.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Habsburgerallee.private|U-Habsburgerallee.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Habsburgerallee.personal|U-Habsburgerallee.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Habsburgerallee.secret|U-Habsburgerallee.secret]] 
+
+### [U-Habsburgerallee](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Habsburgerallee.md) 
+
+### [U-Habsburgerallee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Habsburgerallee.internal.md) 
+
+### [U-Habsburgerallee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Habsburgerallee.protect.md) 
+
+### [U-Habsburgerallee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Habsburgerallee.private.md) 
+
+### [U-Habsburgerallee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Habsburgerallee.personal.md) 
+
+### [U-Habsburgerallee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Habsburgerallee.secret.md) 

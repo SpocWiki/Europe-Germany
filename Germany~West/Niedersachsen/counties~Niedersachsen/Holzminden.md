@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.83,9.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,9 +34,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Holzminden|Holzminden]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Holzminden.internal|Holzminden.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Holzminden.protect|Holzminden.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Holzminden.private|Holzminden.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Holzminden.personal|Holzminden.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Holzminden.secret|Holzminden.secret]] 
+
+### [Holzminden](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden.md) 
+
+### [Holzminden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden.internal.md) 
+
+### [Holzminden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden.protect.md) 
+
+### [Holzminden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden.private.md) 
+
+### [Holzminden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden.personal.md) 
+
+### [Holzminden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden.secret.md) 

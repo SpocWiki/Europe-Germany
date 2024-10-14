@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.10045,8.731064] 
 type: Station 
 mapzoom: [8,18] 
@@ -34,9 +34,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[T-Flaschenburgstraße|T-Flaschenburgstraße]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Flaschenburgstraße.internal|T-Flaschenburgstraße.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Flaschenburgstraße.protect|T-Flaschenburgstraße.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Flaschenburgstraße.private|T-Flaschenburgstraße.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Flaschenburgstraße.personal|T-Flaschenburgstraße.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Flaschenburgstraße.secret|T-Flaschenburgstraße.secret]] 
+
+### [T-Flaschenburgstraße](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Flaschenburgstraße.md) 
+
+### [T-Flaschenburgstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Flaschenburgstraße.internal.md) 
+
+### [T-Flaschenburgstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Flaschenburgstraße.protect.md) 
+
+### [T-Flaschenburgstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Flaschenburgstraße.private.md) 
+
+### [T-Flaschenburgstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Flaschenburgstraße.personal.md) 
+
+### [T-Flaschenburgstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Flaschenburgstraße.secret.md) 

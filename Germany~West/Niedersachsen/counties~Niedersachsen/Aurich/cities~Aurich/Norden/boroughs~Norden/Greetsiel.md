@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.5,7.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Greetsiel|Greetsiel]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Greetsiel.internal|Greetsiel.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Greetsiel.protect|Greetsiel.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Greetsiel.private|Greetsiel.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Greetsiel.personal|Greetsiel.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Greetsiel.secret|Greetsiel.secret]] 
+
+### [Greetsiel](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norden/boroughs~Norden/Greetsiel.md) 
+
+### [Greetsiel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norden/boroughs~Norden/Greetsiel.internal.md) 
+
+### [Greetsiel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norden/boroughs~Norden/Greetsiel.protect.md) 
+
+### [Greetsiel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norden/boroughs~Norden/Greetsiel.private.md) 
+
+### [Greetsiel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norden/boroughs~Norden/Greetsiel.personal.md) 
+
+### [Greetsiel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norden/boroughs~Norden/Greetsiel.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.83,9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Ballie|Ballie]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ballie.internal|Ballie.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ballie.protect|Ballie.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ballie.private|Ballie.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ballie.personal|Ballie.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ballie.secret|Ballie.secret]] 
+
+### [Ballie](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie.md) 
+
+### [Ballie.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie.internal.md) 
+
+### [Ballie.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie.protect.md) 
+
+### [Ballie.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie.private.md) 
+
+### [Ballie.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie.personal.md) 
+
+### [Ballie.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie.secret.md) 

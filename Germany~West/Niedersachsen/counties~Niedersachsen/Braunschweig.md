@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.27,10.52] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,9 +34,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Braunschweig|Braunschweig]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Braunschweig.internal|Braunschweig.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Braunschweig.protect|Braunschweig.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Braunschweig.private|Braunschweig.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Braunschweig.personal|Braunschweig.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Braunschweig.secret|Braunschweig.secret]] 
+
+### [Braunschweig](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Braunschweig.md) 
+
+### [Braunschweig.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Braunschweig.internal.md) 
+
+### [Braunschweig.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Braunschweig.protect.md) 
+
+### [Braunschweig.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Braunschweig.private.md) 
+
+### [Braunschweig.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Braunschweig.personal.md) 
+
+### [Braunschweig.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Braunschweig.secret.md) 

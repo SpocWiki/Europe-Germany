@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Goyaz|Goyaz]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Goyaz.public|Goyaz.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Goyaz.internal|Goyaz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Goyaz.protect|Goyaz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Goyaz.private|Goyaz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Goyaz.personal|Goyaz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Goyaz.secret|Goyaz.secret]] 
+
+### [Goyatz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Lieberose~Oberspreew/boroughs~Lieberose/Schwielochsee/Goyatz.md) 
+
+### [Goyatz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Lieberose~Oberspreew/boroughs~Lieberose/Schwielochsee/Goyatz.internal.md) 
+
+### [Goyatz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Lieberose~Oberspreew/boroughs~Lieberose/Schwielochsee/Goyatz.protect.md) 
+
+### [Goyatz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Lieberose~Oberspreew/boroughs~Lieberose/Schwielochsee/Goyatz.private.md) 
+
+### [Goyatz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Lieberose~Oberspreew/boroughs~Lieberose/Schwielochsee/Goyatz.personal.md) 
+
+### [Goyatz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Lieberose~Oberspreew/boroughs~Lieberose/Schwielochsee/Goyatz.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.23,7.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,9 +34,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Leer|Leer]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer.internal|Leer.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer.protect|Leer.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer.private|Leer.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer.personal|Leer.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer.secret|Leer.secret]] 
+
+### [Leer](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer.md) 
+
+### [Leer.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer.internal.md) 
+
+### [Leer.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer.protect.md) 
+
+### [Leer.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer.private.md) 
+
+### [Leer.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer.personal.md) 
+
+### [Leer.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer.secret.md) 

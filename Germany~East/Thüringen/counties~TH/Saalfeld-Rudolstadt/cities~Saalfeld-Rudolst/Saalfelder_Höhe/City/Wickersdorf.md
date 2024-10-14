@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Wickersdorf|Wickersdorf]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Wickersdorf.public|Wickersdorf.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Wickersdorf.internal|Wickersdorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Wickersdorf.protect|Wickersdorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Wickersdorf.private|Wickersdorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Wickersdorf.personal|Wickersdorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Wickersdorf.secret|Wickersdorf.secret]] 
+
+### [Wickersdorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Saalfelder_Höhe/City/Wickersdorf.md) 
+
+### [Wickersdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Saalfelder_Höhe/City/Wickersdorf.internal.md) 
+
+### [Wickersdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Saalfelder_Höhe/City/Wickersdorf.protect.md) 
+
+### [Wickersdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Saalfelder_Höhe/City/Wickersdorf.private.md) 
+
+### [Wickersdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Saalfelder_Höhe/City/Wickersdorf.personal.md) 
+
+### [Wickersdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Saalfelder_Höhe/City/Wickersdorf.secret.md) 

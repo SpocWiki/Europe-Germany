@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.42,10.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Fallersleben|Fallersleben]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fallersleben.internal|Fallersleben.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fallersleben.protect|Fallersleben.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fallersleben.private|Fallersleben.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fallersleben.personal|Fallersleben.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fallersleben.secret|Fallersleben.secret]] 
+
+### [Fallersleben](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.md) 
+
+### [Fallersleben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.internal.md) 
+
+### [Fallersleben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.protect.md) 
+
+### [Fallersleben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.private.md) 
+
+### [Fallersleben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.personal.md) 
+
+### [Fallersleben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.secret.md) 

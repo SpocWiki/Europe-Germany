@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Storkow|Storkow]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Storkow.public|Storkow.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Storkow.internal|Storkow.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Storkow.protect|Storkow.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Storkow.private|Storkow.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Storkow.personal|Storkow.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Storkow.secret|Storkow.secret]] 
+
+### [Storkow~Mark-City](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City.md) 
+
+### [Storkow~Mark-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City.internal.md) 
+
+### [Storkow~Mark-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City.protect.md) 
+
+### [Storkow~Mark-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City.private.md) 
+
+### [Storkow~Mark-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City.personal.md) 
+
+### [Storkow~Mark-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City.secret.md) 

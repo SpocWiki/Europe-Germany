@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Heidersbach|Heidersbach]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Heidersbach.public|Heidersbach.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Heidersbach.internal|Heidersbach.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Heidersbach.protect|Heidersbach.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Heidersbach.private|Heidersbach.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Heidersbach.personal|Heidersbach.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Heidersbach.secret|Heidersbach.secret]] 
+
+### [Heidersbach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Suhl/City/Heidersbach.md) 
+
+### [Heidersbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Suhl/City/Heidersbach.internal.md) 
+
+### [Heidersbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Suhl/City/Heidersbach.protect.md) 
+
+### [Heidersbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Suhl/City/Heidersbach.private.md) 
+
+### [Heidersbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Suhl/City/Heidersbach.personal.md) 
+
+### [Heidersbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Suhl/City/Heidersbach.secret.md) 

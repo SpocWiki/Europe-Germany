@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.62,9.73] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Marbach~Fulda|Marbach~Fulda]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Marbach~Fulda.internal|Marbach~Fulda.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Marbach~Fulda.protect|Marbach~Fulda.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Marbach~Fulda.private|Marbach~Fulda.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Marbach~Fulda.personal|Marbach~Fulda.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Marbach~Fulda.secret|Marbach~Fulda.secret]] 
+
+### [Marbach~Petersberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Petersberg/boroughs~Petersberg/Marbach~Petersberg.md) 
+
+### [Marbach~Petersberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Petersberg/boroughs~Petersberg/Marbach~Petersberg.internal.md) 
+
+### [Marbach~Petersberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Petersberg/boroughs~Petersberg/Marbach~Petersberg.protect.md) 
+
+### [Marbach~Petersberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Petersberg/boroughs~Petersberg/Marbach~Petersberg.private.md) 
+
+### [Marbach~Petersberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Petersberg/boroughs~Petersberg/Marbach~Petersberg.personal.md) 
+
+### [Marbach~Petersberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Petersberg/boroughs~Petersberg/Marbach~Petersberg.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.01766,8.78923] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[S-Dietzenbach_Mitte|S-Dietzenbach_Mitte]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach_Mitte.internal|S-Dietzenbach_Mitte.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach_Mitte.protect|S-Dietzenbach_Mitte.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach_Mitte.private|S-Dietzenbach_Mitte.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach_Mitte.personal|S-Dietzenbach_Mitte.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach_Mitte.secret|S-Dietzenbach_Mitte.secret]] 
+
+### [S-Dietzenbach_Mitte](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Dietzenbach_Mitte.md) 
+
+### [S-Dietzenbach_Mitte.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Dietzenbach_Mitte.internal.md) 
+
+### [S-Dietzenbach_Mitte.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Dietzenbach_Mitte.protect.md) 
+
+### [S-Dietzenbach_Mitte.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Dietzenbach_Mitte.private.md) 
+
+### [S-Dietzenbach_Mitte.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Dietzenbach_Mitte.personal.md) 
+
+### [S-Dietzenbach_Mitte.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Dietzenbach_Mitte.secret.md) 

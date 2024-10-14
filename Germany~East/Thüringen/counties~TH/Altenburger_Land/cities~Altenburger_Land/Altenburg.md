@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Altenburg|Altenburg]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Altenburg.public|Altenburg.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Altenburg.internal|Altenburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Altenburg.protect|Altenburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Altenburg.private|Altenburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Altenburg.personal|Altenburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Altenburg.secret|Altenburg.secret]] 
+
+### [Altenburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg.md) 
+
+### [Altenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg.internal.md) 
+
+### [Altenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg.protect.md) 
+
+### [Altenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg.private.md) 
+
+### [Altenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg.personal.md) 
+
+### [Altenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg.secret.md) 

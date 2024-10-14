@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.62,10.6] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Wahrenholz|Wahrenholz]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wahrenholz.internal|Wahrenholz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wahrenholz.protect|Wahrenholz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wahrenholz.private|Wahrenholz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wahrenholz.personal|Wahrenholz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wahrenholz.secret|Wahrenholz.secret]] 
+
+### [Wahrenholz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wesendorf/boroughs~Wesendorf/Wahrenholz.md) 
+
+### [Wahrenholz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wesendorf/boroughs~Wesendorf/Wahrenholz.internal.md) 
+
+### [Wahrenholz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wesendorf/boroughs~Wesendorf/Wahrenholz.protect.md) 
+
+### [Wahrenholz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wesendorf/boroughs~Wesendorf/Wahrenholz.private.md) 
+
+### [Wahrenholz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wesendorf/boroughs~Wesendorf/Wahrenholz.personal.md) 
+
+### [Wahrenholz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wesendorf/boroughs~Wesendorf/Wahrenholz.secret.md) 

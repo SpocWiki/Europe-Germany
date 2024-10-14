@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.98,8.87] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Kirchweyhe|Kirchweyhe]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchweyhe.internal|Kirchweyhe.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchweyhe.protect|Kirchweyhe.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchweyhe.private|Kirchweyhe.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchweyhe.personal|Kirchweyhe.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchweyhe.secret|Kirchweyhe.secret]] 
+
+### [Kirchweyhe](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Weyhe/boroughs~Weyhe/Kirchweyhe.md) 
+
+### [Kirchweyhe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Weyhe/boroughs~Weyhe/Kirchweyhe.internal.md) 
+
+### [Kirchweyhe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Weyhe/boroughs~Weyhe/Kirchweyhe.protect.md) 
+
+### [Kirchweyhe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Weyhe/boroughs~Weyhe/Kirchweyhe.private.md) 
+
+### [Kirchweyhe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Weyhe/boroughs~Weyhe/Kirchweyhe.personal.md) 
+
+### [Kirchweyhe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Weyhe/boroughs~Weyhe/Kirchweyhe.secret.md) 

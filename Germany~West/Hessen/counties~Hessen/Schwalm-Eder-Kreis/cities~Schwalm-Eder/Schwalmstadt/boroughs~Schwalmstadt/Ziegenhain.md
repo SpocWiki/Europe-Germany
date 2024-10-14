@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.92,9.25] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Ziegenhain|Ziegenhain]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Ziegenhain.internal|Ziegenhain.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Ziegenhain.protect|Ziegenhain.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Ziegenhain.private|Ziegenhain.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Ziegenhain.personal|Ziegenhain.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Ziegenhain.secret|Ziegenhain.secret]] 
+
+### [Ziegenhain](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Ziegenhain.md) 
+
+### [Ziegenhain.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Ziegenhain.internal.md) 
+
+### [Ziegenhain.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Ziegenhain.protect.md) 
+
+### [Ziegenhain.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Ziegenhain.private.md) 
+
+### [Ziegenhain.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Ziegenhain.personal.md) 
+
+### [Ziegenhain.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Ziegenhain.secret.md) 

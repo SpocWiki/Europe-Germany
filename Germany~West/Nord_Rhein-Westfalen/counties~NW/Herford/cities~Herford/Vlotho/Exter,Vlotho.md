@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Exter|Exter]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Exter.internal|Exter.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Exter.protect|Exter.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Exter.private|Exter.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Exter.personal|Exter.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Exter.secret|Exter.secret]] 
+
+### [Exter,Vlotho](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Herford/cities~Herford/Vlotho/Exter,Vlotho.md) 
+
+### [Exter,Vlotho.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Herford/cities~Herford/Vlotho/Exter,Vlotho.internal.md) 
+
+### [Exter,Vlotho.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Herford/cities~Herford/Vlotho/Exter,Vlotho.protect.md) 
+
+### [Exter,Vlotho.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Herford/cities~Herford/Vlotho/Exter,Vlotho.private.md) 
+
+### [Exter,Vlotho.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Herford/cities~Herford/Vlotho/Exter,Vlotho.personal.md) 
+
+### [Exter,Vlotho.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Herford/cities~Herford/Vlotho/Exter,Vlotho.secret.md) 

@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Dreetz|Dreetz]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Dreetz.public|Dreetz.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Dreetz.internal|Dreetz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Dreetz.protect|Dreetz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Dreetz.private|Dreetz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Dreetz.personal|Dreetz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Dreetz.secret|Dreetz.secret]] 
+
+### [Dreetz,Brandenburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neustadt~Dosse/boroughs~Neust~Dosse/Neustadt~Dosse/Dreetz,Brandenburg.md) 
+
+### [Dreetz,Brandenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neustadt~Dosse/boroughs~Neust~Dosse/Neustadt~Dosse/Dreetz,Brandenburg.internal.md) 
+
+### [Dreetz,Brandenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neustadt~Dosse/boroughs~Neust~Dosse/Neustadt~Dosse/Dreetz,Brandenburg.protect.md) 
+
+### [Dreetz,Brandenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neustadt~Dosse/boroughs~Neust~Dosse/Neustadt~Dosse/Dreetz,Brandenburg.private.md) 
+
+### [Dreetz,Brandenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neustadt~Dosse/boroughs~Neust~Dosse/Neustadt~Dosse/Dreetz,Brandenburg.personal.md) 
+
+### [Dreetz,Brandenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neustadt~Dosse/boroughs~Neust~Dosse/Neustadt~Dosse/Dreetz,Brandenburg.secret.md) 

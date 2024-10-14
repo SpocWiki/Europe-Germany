@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.10936,8.660627] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[T-Platz_der_Republik|T-Platz_der_Republik]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Platz_der_Republik.internal|T-Platz_der_Republik.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Platz_der_Republik.protect|T-Platz_der_Republik.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Platz_der_Republik.private|T-Platz_der_Republik.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Platz_der_Republik.personal|T-Platz_der_Republik.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Platz_der_Republik.secret|T-Platz_der_Republik.secret]] 
+
+### [T-Platz_der_Republik](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Platz_der_Republik.md) 
+
+### [T-Platz_der_Republik.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Platz_der_Republik.internal.md) 
+
+### [T-Platz_der_Republik.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Platz_der_Republik.protect.md) 
+
+### [T-Platz_der_Republik.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Platz_der_Republik.private.md) 
+
+### [T-Platz_der_Republik.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Platz_der_Republik.personal.md) 
+
+### [T-Platz_der_Republik.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Platz_der_Republik.secret.md) 

@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Blekendorf|Blekendorf]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Blekendorf.internal|Blekendorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Blekendorf.protect|Blekendorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Blekendorf.private|Blekendorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Blekendorf.personal|Blekendorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Blekendorf.secret|Blekendorf.secret]] 
+
+### [Blekendorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf.md) 
+
+### [Blekendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf.internal.md) 
+
+### [Blekendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf.protect.md) 
+
+### [Blekendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf.private.md) 
+
+### [Blekendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf.personal.md) 
+
+### [Blekendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf.secret.md) 

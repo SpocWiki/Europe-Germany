@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Breitenberg|Breitenberg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Breitenberg.internal|Breitenberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Breitenberg.protect|Breitenberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Breitenberg.private|Breitenberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Breitenberg.personal|Breitenberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Breitenberg.secret|Breitenberg.secret]] 
+
+### [Breitenberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Breitenburg/boroughs~Breitenburg/Breitenberg.md) 
+
+### [Breitenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Breitenburg/boroughs~Breitenburg/Breitenberg.internal.md) 
+
+### [Breitenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Breitenburg/boroughs~Breitenburg/Breitenberg.protect.md) 
+
+### [Breitenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Breitenburg/boroughs~Breitenburg/Breitenberg.private.md) 
+
+### [Breitenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Breitenburg/boroughs~Breitenburg/Breitenberg.personal.md) 
+
+### [Breitenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Breitenburg/boroughs~Breitenburg/Breitenberg.secret.md) 

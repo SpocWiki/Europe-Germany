@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.17669,8.630118] 
 type: Station 
 mapzoom: [8,18] 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[U-Uni-Campus_Riedberg|U-Uni-Campus_Riedberg]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Uni-Campus_Riedberg.internal|U-Uni-Campus_Riedberg.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Uni-Campus_Riedberg.protect|U-Uni-Campus_Riedberg.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Uni-Campus_Riedberg.private|U-Uni-Campus_Riedberg.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Uni-Campus_Riedberg.personal|U-Uni-Campus_Riedberg.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Uni-Campus_Riedberg.secret|U-Uni-Campus_Riedberg.secret]] 
+
+### [U-Uni-Campus_Riedberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Uni-Campus_Riedberg.md) 
+
+### [U-Uni-Campus_Riedberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Uni-Campus_Riedberg.internal.md) 
+
+### [U-Uni-Campus_Riedberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Uni-Campus_Riedberg.protect.md) 
+
+### [U-Uni-Campus_Riedberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Uni-Campus_Riedberg.private.md) 
+
+### [U-Uni-Campus_Riedberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Uni-Campus_Riedberg.personal.md) 
+
+### [U-Uni-Campus_Riedberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Uni-Campus_Riedberg.secret.md) 

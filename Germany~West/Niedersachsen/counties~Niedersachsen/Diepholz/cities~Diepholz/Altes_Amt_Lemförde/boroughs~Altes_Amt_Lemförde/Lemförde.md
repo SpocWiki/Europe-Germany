@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Lemfoerde|Lemfoerde]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lemfoerde.internal|Lemfoerde.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lemfoerde.protect|Lemfoerde.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lemfoerde.private|Lemfoerde.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lemfoerde.personal|Lemfoerde.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lemfoerde.secret|Lemfoerde.secret]] 
+
+### [Lemförde](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Altes_Amt_Lemförde/boroughs~Altes_Amt_Lemförde/Lemförde.md) 
+
+### [Lemförde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Altes_Amt_Lemförde/boroughs~Altes_Amt_Lemförde/Lemförde.internal.md) 
+
+### [Lemförde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Altes_Amt_Lemförde/boroughs~Altes_Amt_Lemförde/Lemförde.protect.md) 
+
+### [Lemförde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Altes_Amt_Lemförde/boroughs~Altes_Amt_Lemförde/Lemförde.private.md) 
+
+### [Lemförde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Altes_Amt_Lemförde/boroughs~Altes_Amt_Lemförde/Lemförde.personal.md) 
+
+### [Lemförde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Altes_Amt_Lemförde/boroughs~Altes_Amt_Lemförde/Lemförde.secret.md) 

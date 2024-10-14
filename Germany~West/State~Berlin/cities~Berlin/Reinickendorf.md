@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Reinickendorf|Reinickendorf]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin/City/Reinickendorf.internal|Reinickendorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin/City/Reinickendorf.protect|Reinickendorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin/City/Reinickendorf.private|Reinickendorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Berlin/City/Reinickendorf.personal|Reinickendorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Berlin/City/Reinickendorf.secret|Reinickendorf.secret]] 
+
+### [Reinickendorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Reinickendorf.md) 
+
+### [Reinickendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Reinickendorf.internal.md) 
+
+### [Reinickendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Reinickendorf.protect.md) 
+
+### [Reinickendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Reinickendorf.private.md) 
+
+### [Reinickendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Reinickendorf.personal.md) 
+
+### [Reinickendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Reinickendorf.secret.md) 

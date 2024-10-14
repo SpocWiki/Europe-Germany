@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Kronsburg|Kronsburg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kronsburg.internal|Kronsburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kronsburg.protect|Kronsburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kronsburg.private|Kronsburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kronsburg.personal|Kronsburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kronsburg.secret|Kronsburg.secret]] 
+
+### [Kronsburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Achterwehr/boroughs~Achterwehr/Bredenbek/Kronsburg.md) 
+
+### [Kronsburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Achterwehr/boroughs~Achterwehr/Bredenbek/Kronsburg.internal.md) 
+
+### [Kronsburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Achterwehr/boroughs~Achterwehr/Bredenbek/Kronsburg.protect.md) 
+
+### [Kronsburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Achterwehr/boroughs~Achterwehr/Bredenbek/Kronsburg.private.md) 
+
+### [Kronsburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Achterwehr/boroughs~Achterwehr/Bredenbek/Kronsburg.personal.md) 
+
+### [Kronsburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Achterwehr/boroughs~Achterwehr/Bredenbek/Kronsburg.secret.md) 

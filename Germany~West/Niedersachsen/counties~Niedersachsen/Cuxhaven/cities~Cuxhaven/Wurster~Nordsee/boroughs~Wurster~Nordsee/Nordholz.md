@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.78,8.6] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Nordholz|Nordholz]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nordholz.internal|Nordholz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nordholz.protect|Nordholz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nordholz.private|Nordholz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nordholz.personal|Nordholz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nordholz.secret|Nordholz.secret]] 
+
+### [Nordholz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Wurster~Nordsee/boroughs~Wurster~Nordsee/Nordholz.md) 
+
+### [Nordholz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Wurster~Nordsee/boroughs~Wurster~Nordsee/Nordholz.internal.md) 
+
+### [Nordholz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Wurster~Nordsee/boroughs~Wurster~Nordsee/Nordholz.protect.md) 
+
+### [Nordholz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Wurster~Nordsee/boroughs~Wurster~Nordsee/Nordholz.private.md) 
+
+### [Nordholz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Wurster~Nordsee/boroughs~Wurster~Nordsee/Nordholz.personal.md) 
+
+### [Nordholz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Wurster~Nordsee/boroughs~Wurster~Nordsee/Nordholz.secret.md) 

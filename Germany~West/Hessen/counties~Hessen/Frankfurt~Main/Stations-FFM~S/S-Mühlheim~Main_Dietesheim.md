@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.12052,8.857998] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[S-Mühlheim~Main_Dietesheim|S-Mühlheim~Main_Dietesheim]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mühlheim~Main_Dietesheim.internal|S-Mühlheim~Main_Dietesheim.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mühlheim~Main_Dietesheim.protect|S-Mühlheim~Main_Dietesheim.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mühlheim~Main_Dietesheim.private|S-Mühlheim~Main_Dietesheim.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mühlheim~Main_Dietesheim.personal|S-Mühlheim~Main_Dietesheim.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mühlheim~Main_Dietesheim.secret|S-Mühlheim~Main_Dietesheim.secret]] 
+
+### [S-Mühlheim~Main_Dietesheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mühlheim~Main_Dietesheim.md) 
+
+### [S-Mühlheim~Main_Dietesheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mühlheim~Main_Dietesheim.internal.md) 
+
+### [S-Mühlheim~Main_Dietesheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mühlheim~Main_Dietesheim.protect.md) 
+
+### [S-Mühlheim~Main_Dietesheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mühlheim~Main_Dietesheim.private.md) 
+
+### [S-Mühlheim~Main_Dietesheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mühlheim~Main_Dietesheim.personal.md) 
+
+### [S-Mühlheim~Main_Dietesheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mühlheim~Main_Dietesheim.secret.md) 

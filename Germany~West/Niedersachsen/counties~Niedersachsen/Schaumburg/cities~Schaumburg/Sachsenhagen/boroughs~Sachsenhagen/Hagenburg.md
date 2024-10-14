@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.43,9.33] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Hagenburg|Hagenburg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hagenburg.internal|Hagenburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hagenburg.protect|Hagenburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hagenburg.private|Hagenburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hagenburg.personal|Hagenburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hagenburg.secret|Hagenburg.secret]] 
+
+### [Hagenburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Sachsenhagen/boroughs~Sachsenhagen/Hagenburg.md) 
+
+### [Hagenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Sachsenhagen/boroughs~Sachsenhagen/Hagenburg.internal.md) 
+
+### [Hagenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Sachsenhagen/boroughs~Sachsenhagen/Hagenburg.protect.md) 
+
+### [Hagenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Sachsenhagen/boroughs~Sachsenhagen/Hagenburg.private.md) 
+
+### [Hagenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Sachsenhagen/boroughs~Sachsenhagen/Hagenburg.personal.md) 
+
+### [Hagenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Sachsenhagen/boroughs~Sachsenhagen/Hagenburg.secret.md) 

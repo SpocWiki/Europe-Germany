@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Hessenstein|Hessenstein]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hessenstein.internal|Hessenstein.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hessenstein.protect|Hessenstein.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hessenstein.private|Hessenstein.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hessenstein.personal|Hessenstein.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hessenstein.secret|Hessenstein.secret]] 
+
+### [Turm_Hessenstein](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Panker/Turm_Hessenstein.md) 
+
+### [Turm_Hessenstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Panker/Turm_Hessenstein.internal.md) 
+
+### [Turm_Hessenstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Panker/Turm_Hessenstein.protect.md) 
+
+### [Turm_Hessenstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Panker/Turm_Hessenstein.private.md) 
+
+### [Turm_Hessenstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Panker/Turm_Hessenstein.personal.md) 
+
+### [Turm_Hessenstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Panker/Turm_Hessenstein.secret.md) 

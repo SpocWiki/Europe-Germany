@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.32,9.6] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Vollmerz|Vollmerz]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Vollmerz.internal|Vollmerz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Vollmerz.protect|Vollmerz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Vollmerz.private|Vollmerz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Vollmerz.personal|Vollmerz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Vollmerz.secret|Vollmerz.secret]] 
+
+### [Vollmerz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Sinntal/boroughs~Sinntal/Vollmerz.md) 
+
+### [Vollmerz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Sinntal/boroughs~Sinntal/Vollmerz.internal.md) 
+
+### [Vollmerz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Sinntal/boroughs~Sinntal/Vollmerz.protect.md) 
+
+### [Vollmerz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Sinntal/boroughs~Sinntal/Vollmerz.private.md) 
+
+### [Vollmerz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Sinntal/boroughs~Sinntal/Vollmerz.personal.md) 
+
+### [Vollmerz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Sinntal/boroughs~Sinntal/Vollmerz.secret.md) 

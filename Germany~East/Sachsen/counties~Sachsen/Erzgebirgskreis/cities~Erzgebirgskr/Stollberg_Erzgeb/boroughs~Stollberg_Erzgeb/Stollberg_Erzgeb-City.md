@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.69,12.81] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -35,10 +35,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Stollberg~Sachsen|Stollberg~Sachsen]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Stollberg~Sachsen.public|Stollberg~Sachsen.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Stollberg~Sachsen.internal|Stollberg~Sachsen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Stollberg~Sachsen.protect|Stollberg~Sachsen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Stollberg~Sachsen.private|Stollberg~Sachsen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Stollberg~Sachsen.personal|Stollberg~Sachsen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Stollberg~Sachsen.secret|Stollberg~Sachsen.secret]] 
+
+### [Stollberg_Erzgeb-City](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Stollberg_Erzgeb/boroughs~Stollberg_Erzgeb/Stollberg_Erzgeb-City.md) 
+
+### [Stollberg_Erzgeb-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Stollberg_Erzgeb/boroughs~Stollberg_Erzgeb/Stollberg_Erzgeb-City.internal.md) 
+
+### [Stollberg_Erzgeb-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Stollberg_Erzgeb/boroughs~Stollberg_Erzgeb/Stollberg_Erzgeb-City.protect.md) 
+
+### [Stollberg_Erzgeb-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Stollberg_Erzgeb/boroughs~Stollberg_Erzgeb/Stollberg_Erzgeb-City.private.md) 
+
+### [Stollberg_Erzgeb-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Stollberg_Erzgeb/boroughs~Stollberg_Erzgeb/Stollberg_Erzgeb-City.personal.md) 
+
+### [Stollberg_Erzgeb-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Stollberg_Erzgeb/boroughs~Stollberg_Erzgeb/Stollberg_Erzgeb-City.secret.md) 

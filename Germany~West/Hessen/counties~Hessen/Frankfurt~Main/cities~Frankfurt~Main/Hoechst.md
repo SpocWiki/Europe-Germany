@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Hoechst|Hoechst]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Hoechst.internal|Hoechst.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Hoechst.protect|Hoechst.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Hoechst.private|Hoechst.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Hoechst.personal|Hoechst.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Hoechst.secret|Hoechst.secret]] 
+
+### [Hoechst](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Hoechst.md) 
+
+### [Hoechst.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Hoechst.internal.md) 
+
+### [Hoechst.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Hoechst.protect.md) 
+
+### [Hoechst.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Hoechst.private.md) 
+
+### [Hoechst.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Hoechst.personal.md) 
+
+### [Hoechst.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Hoechst.secret.md) 

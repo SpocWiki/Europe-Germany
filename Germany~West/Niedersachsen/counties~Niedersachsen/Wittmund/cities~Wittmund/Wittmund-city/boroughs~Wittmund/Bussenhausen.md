@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.62,7.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Bussenhausen|Bussenhausen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bussenhausen.internal|Bussenhausen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bussenhausen.protect|Bussenhausen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bussenhausen.private|Bussenhausen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bussenhausen.personal|Bussenhausen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bussenhausen.secret|Bussenhausen.secret]] 
+
+### [Bussenhausen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Wittmund-city/boroughs~Wittmund/Bussenhausen.md) 
+
+### [Bussenhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Wittmund-city/boroughs~Wittmund/Bussenhausen.internal.md) 
+
+### [Bussenhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Wittmund-city/boroughs~Wittmund/Bussenhausen.protect.md) 
+
+### [Bussenhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Wittmund-city/boroughs~Wittmund/Bussenhausen.private.md) 
+
+### [Bussenhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Wittmund-city/boroughs~Wittmund/Bussenhausen.personal.md) 
+
+### [Bussenhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Wittmund-city/boroughs~Wittmund/Bussenhausen.secret.md) 

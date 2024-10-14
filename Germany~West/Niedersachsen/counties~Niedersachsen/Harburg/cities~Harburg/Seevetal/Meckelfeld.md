@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.42,10.03] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Meckelfeld|Meckelfeld]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Meckelfeld.internal|Meckelfeld.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Meckelfeld.protect|Meckelfeld.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Meckelfeld.private|Meckelfeld.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Meckelfeld.personal|Meckelfeld.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Meckelfeld.secret|Meckelfeld.secret]] 
+
+### [Meckelfeld](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Seevetal/Meckelfeld.md) 
+
+### [Meckelfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Seevetal/Meckelfeld.internal.md) 
+
+### [Meckelfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Seevetal/Meckelfeld.protect.md) 
+
+### [Meckelfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Seevetal/Meckelfeld.private.md) 
+
+### [Meckelfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Seevetal/Meckelfeld.personal.md) 
+
+### [Meckelfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Seevetal/Meckelfeld.secret.md) 

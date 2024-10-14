@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.62,9.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Vernawahlshausen|Vernawahlshausen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vernawahlshausen.internal|Vernawahlshausen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vernawahlshausen.protect|Vernawahlshausen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vernawahlshausen.private|Vernawahlshausen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vernawahlshausen.personal|Vernawahlshausen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vernawahlshausen.secret|Vernawahlshausen.secret]] 
+
+### [Vernawahlshausen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Wahlsburg/bboroughs~Wahlsburg/Vernawahlshausen.md) 
+
+### [Vernawahlshausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Wahlsburg/bboroughs~Wahlsburg/Vernawahlshausen.internal.md) 
+
+### [Vernawahlshausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Wahlsburg/bboroughs~Wahlsburg/Vernawahlshausen.protect.md) 
+
+### [Vernawahlshausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Wahlsburg/bboroughs~Wahlsburg/Vernawahlshausen.private.md) 
+
+### [Vernawahlshausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Wahlsburg/bboroughs~Wahlsburg/Vernawahlshausen.personal.md) 
+
+### [Vernawahlshausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Wahlsburg/bboroughs~Wahlsburg/Vernawahlshausen.secret.md) 

@@ -34,10 +34,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Portugal/City/Geniel|Geniel]] 
-- [[../../../../../../_public/geo/Continent/Europe/Portugal/City/Geniel.public|Geniel.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Portugal/City/Geniel.internal|Geniel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Portugal/City/Geniel.protect|Geniel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Portugal/City/Geniel.private|Geniel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Portugal/City/Geniel.personal|Geniel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Portugal/City/Geniel.secret|Geniel.secret]] 
+
+### [Geniel](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Geldern/Geniel.md) 
+
+### [Geniel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Geldern/Geniel.internal.md) 
+
+### [Geniel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Geldern/Geniel.protect.md) 
+
+### [Geniel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Geldern/Geniel.private.md) 
+
+### [Geniel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Geldern/Geniel.personal.md) 
+
+### [Geniel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Geldern/Geniel.secret.md) 

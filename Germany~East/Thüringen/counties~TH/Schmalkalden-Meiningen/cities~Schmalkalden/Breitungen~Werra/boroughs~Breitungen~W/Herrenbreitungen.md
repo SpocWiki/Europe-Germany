@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Herrenbreitungen|Herrenbreitungen]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Herrenbreitungen.public|Herrenbreitungen.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Herrenbreitungen.internal|Herrenbreitungen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Herrenbreitungen.protect|Herrenbreitungen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Herrenbreitungen.private|Herrenbreitungen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Herrenbreitungen.personal|Herrenbreitungen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Herrenbreitungen.secret|Herrenbreitungen.secret]] 
+
+### [Herrenbreitungen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Breitungen~Werra/boroughs~Breitungen~W/Herrenbreitungen.md) 
+
+### [Herrenbreitungen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Breitungen~Werra/boroughs~Breitungen~W/Herrenbreitungen.internal.md) 
+
+### [Herrenbreitungen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Breitungen~Werra/boroughs~Breitungen~W/Herrenbreitungen.protect.md) 
+
+### [Herrenbreitungen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Breitungen~Werra/boroughs~Breitungen~W/Herrenbreitungen.private.md) 
+
+### [Herrenbreitungen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Breitungen~Werra/boroughs~Breitungen~W/Herrenbreitungen.personal.md) 
+
+### [Herrenbreitungen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Breitungen~Werra/boroughs~Breitungen~W/Herrenbreitungen.secret.md) 

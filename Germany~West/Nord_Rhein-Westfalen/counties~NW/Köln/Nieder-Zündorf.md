@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Nieder-Zuendorf|Nieder-Zuendorf]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Nieder-Zuendorf.internal|Nieder-Zuendorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Nieder-Zuendorf.protect|Nieder-Zuendorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Nieder-Zuendorf.private|Nieder-Zuendorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Nieder-Zuendorf.personal|Nieder-Zuendorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Nieder-Zuendorf.secret|Nieder-Zuendorf.secret]] 
+
+### [Nieder-Zündorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Köln/Nieder-Zündorf.md) 
+
+### [Nieder-Zündorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Köln/Nieder-Zündorf.internal.md) 
+
+### [Nieder-Zündorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Köln/Nieder-Zündorf.protect.md) 
+
+### [Nieder-Zündorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Köln/Nieder-Zündorf.private.md) 
+
+### [Nieder-Zündorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Köln/Nieder-Zündorf.personal.md) 
+
+### [Nieder-Zündorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Köln/Nieder-Zündorf.secret.md) 

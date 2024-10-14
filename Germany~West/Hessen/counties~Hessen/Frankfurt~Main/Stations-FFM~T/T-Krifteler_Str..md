@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.09896,8.634068] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[T-Krifteler_Str.|T-Krifteler_Str.]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Krifteler_Str..internal|T-Krifteler_Str..internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Krifteler_Str..protect|T-Krifteler_Str..protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Krifteler_Str..private|T-Krifteler_Str..private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Krifteler_Str..personal|T-Krifteler_Str..personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Krifteler_Str..secret|T-Krifteler_Str..secret]] 
+
+### [T-Krifteler_Str.](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Krifteler_Str..md) 
+
+### [T-Krifteler_Str..internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Krifteler_Str..internal.md) 
+
+### [T-Krifteler_Str..protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Krifteler_Str..protect.md) 
+
+### [T-Krifteler_Str..private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Krifteler_Str..private.md) 
+
+### [T-Krifteler_Str..personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Krifteler_Str..personal.md) 
+
+### [T-Krifteler_Str..secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Krifteler_Str..secret.md) 

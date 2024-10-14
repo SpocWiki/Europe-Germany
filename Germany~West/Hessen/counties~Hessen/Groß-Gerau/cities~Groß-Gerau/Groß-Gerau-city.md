@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.92,8.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Grossgerau|Grossgerau]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Grossgerau.internal|Grossgerau.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Grossgerau.protect|Grossgerau.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Grossgerau.private|Grossgerau.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Grossgerau.personal|Grossgerau.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Grossgerau.secret|Grossgerau.secret]] 
+
+### [Groß-Gerau-city](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Groß-Gerau-city.md) 
+
+### [Groß-Gerau-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Groß-Gerau-city.internal.md) 
+
+### [Groß-Gerau-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Groß-Gerau-city.protect.md) 
+
+### [Groß-Gerau-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Groß-Gerau-city.private.md) 
+
+### [Groß-Gerau-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Groß-Gerau-city.personal.md) 
+
+### [Groß-Gerau-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Groß-Gerau-city.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 type: Country
 tags:
   - geo/Country
@@ -36,10 +36,15 @@ has_place_continent:: [[Europe]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Germany/Germany~East|Germany~East]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~Central/Germany/Germany~East.public|Germany~East.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~Central/Germany/Germany~East.internal|Germany~East.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~Central/Germany/Germany~East.protect|Germany~East.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~Central/Germany/Germany~East.private|Germany~East.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~Central/Germany/Germany~East.personal|Germany~East.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Germany/Germany~East.secret|Germany~East.secret]] 
+
+### [Germany~East](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East.md) 
+
+### [Germany~East.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East.internal.md) 
+
+### [Germany~East.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East.protect.md) 
+
+### [Germany~East.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East.private.md) 
+
+### [Germany~East.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East.personal.md) 
+
+### [Germany~East.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East.secret.md) 

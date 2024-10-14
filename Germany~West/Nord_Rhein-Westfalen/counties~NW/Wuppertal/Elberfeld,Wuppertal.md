@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Wuppertal-Elberfeld|Wuppertal-Elberfeld]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wuppertal-Elberfeld.internal|Wuppertal-Elberfeld.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wuppertal-Elberfeld.protect|Wuppertal-Elberfeld.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wuppertal-Elberfeld.private|Wuppertal-Elberfeld.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wuppertal-Elberfeld.personal|Wuppertal-Elberfeld.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wuppertal-Elberfeld.secret|Wuppertal-Elberfeld.secret]] 
+
+### [Elberfeld,Wuppertal](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Elberfeld,Wuppertal.md) 
+
+### [Elberfeld,Wuppertal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Elberfeld,Wuppertal.internal.md) 
+
+### [Elberfeld,Wuppertal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Elberfeld,Wuppertal.protect.md) 
+
+### [Elberfeld,Wuppertal.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Elberfeld,Wuppertal.private.md) 
+
+### [Elberfeld,Wuppertal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Elberfeld,Wuppertal.personal.md) 
+
+### [Elberfeld,Wuppertal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Elberfeld,Wuppertal.secret.md) 

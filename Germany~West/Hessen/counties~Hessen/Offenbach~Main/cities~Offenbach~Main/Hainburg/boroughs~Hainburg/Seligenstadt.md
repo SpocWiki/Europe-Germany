@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Seligenstadt|Seligenstadt]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Seligenstadt.internal|Seligenstadt.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Seligenstadt.protect|Seligenstadt.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Seligenstadt.private|Seligenstadt.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Seligenstadt.personal|Seligenstadt.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Seligenstadt.secret|Seligenstadt.secret]] 
+
+### [Seligenstadt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Hainburg/boroughs~Hainburg/Seligenstadt.md) 
+
+### [Seligenstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Hainburg/boroughs~Hainburg/Seligenstadt.internal.md) 
+
+### [Seligenstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Hainburg/boroughs~Hainburg/Seligenstadt.protect.md) 
+
+### [Seligenstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Hainburg/boroughs~Hainburg/Seligenstadt.private.md) 
+
+### [Seligenstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Hainburg/boroughs~Hainburg/Seligenstadt.personal.md) 
+
+### [Seligenstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Hainburg/boroughs~Hainburg/Seligenstadt.secret.md) 

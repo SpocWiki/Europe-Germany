@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Mildstedt|Mildstedt]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Mildstedt.internal|Mildstedt.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Mildstedt.protect|Mildstedt.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Mildstedt.private|Mildstedt.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Mildstedt.personal|Mildstedt.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Mildstedt.secret|Mildstedt.secret]] 
+
+### [Mildstedt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Nordsee-Treene/boroughs~Nordsee-Treene/Mildstedt.md) 
+
+### [Mildstedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Nordsee-Treene/boroughs~Nordsee-Treene/Mildstedt.internal.md) 
+
+### [Mildstedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Nordsee-Treene/boroughs~Nordsee-Treene/Mildstedt.protect.md) 
+
+### [Mildstedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Nordsee-Treene/boroughs~Nordsee-Treene/Mildstedt.private.md) 
+
+### [Mildstedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Nordsee-Treene/boroughs~Nordsee-Treene/Mildstedt.personal.md) 
+
+### [Mildstedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Nordsee-Treene/boroughs~Nordsee-Treene/Mildstedt.secret.md) 

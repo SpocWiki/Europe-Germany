@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.02,9.62] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Norway/City/Laurvik|Laurvik]] 
-- [[../../../../../../_public/geo/Continent/Europe/Norway/City/Laurvik.public|Laurvik.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Norway/City/Laurvik.internal|Laurvik.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Norway/City/Laurvik.protect|Laurvik.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Norway/City/Laurvik.private|Laurvik.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Norway/City/Laurvik.personal|Laurvik.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Norway/City/Laurvik.secret|Laurvik.secret]] 
+
+### [Laurvik](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Alheim/boroughs~Alheim/Laurvik.md) 
+
+### [Laurvik.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Alheim/boroughs~Alheim/Laurvik.internal.md) 
+
+### [Laurvik.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Alheim/boroughs~Alheim/Laurvik.protect.md) 
+
+### [Laurvik.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Alheim/boroughs~Alheim/Laurvik.private.md) 
+
+### [Laurvik.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Alheim/boroughs~Alheim/Laurvik.personal.md) 
+
+### [Laurvik.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Alheim/boroughs~Alheim/Laurvik.secret.md) 

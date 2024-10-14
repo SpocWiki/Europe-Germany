@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.222,8.682] 
 type: State
 SpocWebEntityId: 29332
@@ -37,9 +37,15 @@ Capital ::  [[Bremen]] ]
 
 
 ## Confidential Links & Embeds: 
-- [[State~Bremen|State~Bremen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Bremen.internal|State~Bremen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Bremen.protect|State~Bremen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/West/State~Bremen.private|State~Bremen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Bremen.personal|State~Bremen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Bremen.secret|State~Bremen.secret]] 
+
+### [State~Bremen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen.md) 
+
+### [State~Bremen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen.internal.md) 
+
+### [State~Bremen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen.protect.md) 
+
+### [State~Bremen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen.private.md) 
+
+### [State~Bremen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen.personal.md) 
+
+### [State~Bremen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.8,8.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Twistringen|Twistringen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Twistringen.internal|Twistringen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Twistringen.protect|Twistringen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Twistringen.private|Twistringen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Twistringen.personal|Twistringen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Twistringen.secret|Twistringen.secret]] 
+
+### [Twistringen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Twistringen/boroughs~Twistringen/Twistringen.md) 
+
+### [Twistringen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Twistringen/boroughs~Twistringen/Twistringen.internal.md) 
+
+### [Twistringen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Twistringen/boroughs~Twistringen/Twistringen.protect.md) 
+
+### [Twistringen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Twistringen/boroughs~Twistringen/Twistringen.private.md) 
+
+### [Twistringen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Twistringen/boroughs~Twistringen/Twistringen.personal.md) 
+
+### [Twistringen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Twistringen/boroughs~Twistringen/Twistringen.secret.md) 

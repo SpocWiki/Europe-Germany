@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.83,6.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -40,8 +40,15 @@ maxZoom: 18
 Schlösser Augustusburg und Falkenlust in Brühl ([[Unesco]] Welterbe seit 1984)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Brühl,Rhld.internal|Brühl,Rhld.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Brühl,Rhld.protect|Brühl,Rhld.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Brühl,Rhld.private|Brühl,Rhld.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Brühl,Rhld.personal|Brühl,Rhld.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Brühl,Rhld.secret|Brühl,Rhld.secret]] 
+
+### [Brühl,Rhld](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Brühl,Rhld.md) 
+
+### [Brühl,Rhld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Brühl,Rhld.internal.md) 
+
+### [Brühl,Rhld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Brühl,Rhld.protect.md) 
+
+### [Brühl,Rhld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Brühl,Rhld.private.md) 
+
+### [Brühl,Rhld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Brühl,Rhld.personal.md) 
+
+### [Brühl,Rhld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Brühl,Rhld.secret.md) 

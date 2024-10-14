@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.43,9.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Wunstorf|Wunstorf]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wunstorf.internal|Wunstorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wunstorf.protect|Wunstorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wunstorf.private|Wunstorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wunstorf.personal|Wunstorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wunstorf.secret|Wunstorf.secret]] 
+
+### [Wunstorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Wunstorf/boroughs~Wunstorf/Wunstorf.md) 
+
+### [Wunstorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Wunstorf/boroughs~Wunstorf/Wunstorf.internal.md) 
+
+### [Wunstorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Wunstorf/boroughs~Wunstorf/Wunstorf.protect.md) 
+
+### [Wunstorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Wunstorf/boroughs~Wunstorf/Wunstorf.private.md) 
+
+### [Wunstorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Wunstorf/boroughs~Wunstorf/Wunstorf.personal.md) 
+
+### [Wunstorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Wunstorf/boroughs~Wunstorf/Wunstorf.secret.md) 

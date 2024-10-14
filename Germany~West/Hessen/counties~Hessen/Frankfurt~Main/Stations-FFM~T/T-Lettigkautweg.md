@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.09977,8.703457] 
 type: Station 
 mapzoom: [8,18] 
@@ -30,9 +30,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[T-Lettigkautweg|T-Lettigkautweg]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Lettigkautweg.internal|T-Lettigkautweg.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Lettigkautweg.protect|T-Lettigkautweg.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Lettigkautweg.private|T-Lettigkautweg.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Lettigkautweg.personal|T-Lettigkautweg.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Lettigkautweg.secret|T-Lettigkautweg.secret]] 
+
+### [T-Lettigkautweg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Lettigkautweg.md) 
+
+### [T-Lettigkautweg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Lettigkautweg.internal.md) 
+
+### [T-Lettigkautweg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Lettigkautweg.protect.md) 
+
+### [T-Lettigkautweg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Lettigkautweg.private.md) 
+
+### [T-Lettigkautweg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Lettigkautweg.personal.md) 
+
+### [T-Lettigkautweg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Lettigkautweg.secret.md) 

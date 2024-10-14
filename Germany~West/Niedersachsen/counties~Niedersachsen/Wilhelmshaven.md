@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.52,8.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,9 +34,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Wilhelmshaven|Wilhelmshaven]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wilhelmshaven.internal|Wilhelmshaven.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wilhelmshaven.protect|Wilhelmshaven.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wilhelmshaven.private|Wilhelmshaven.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wilhelmshaven.personal|Wilhelmshaven.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wilhelmshaven.secret|Wilhelmshaven.secret]] 
+
+### [Wilhelmshaven](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven.md) 
+
+### [Wilhelmshaven.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven.internal.md) 
+
+### [Wilhelmshaven.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven.protect.md) 
+
+### [Wilhelmshaven.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven.private.md) 
+
+### [Wilhelmshaven.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven.personal.md) 
+
+### [Wilhelmshaven.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven.secret.md) 

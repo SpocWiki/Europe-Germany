@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.10695,8.6625] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[S-Frankfurt~Main_Hbf_tief|S-Frankfurt~Main_Hbf_tief]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Hbf_tief.internal|S-Frankfurt~Main_Hbf_tief.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Hbf_tief.protect|S-Frankfurt~Main_Hbf_tief.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Hbf_tief.private|S-Frankfurt~Main_Hbf_tief.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Hbf_tief.personal|S-Frankfurt~Main_Hbf_tief.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_Hbf_tief.secret|S-Frankfurt~Main_Hbf_tief.secret]] 
+
+### [S-Frankfurt~Main_Hbf_tief](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Hbf_tief.md) 
+
+### [S-Frankfurt~Main_Hbf_tief.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Hbf_tief.internal.md) 
+
+### [S-Frankfurt~Main_Hbf_tief.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Hbf_tief.protect.md) 
+
+### [S-Frankfurt~Main_Hbf_tief.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Hbf_tief.private.md) 
+
+### [S-Frankfurt~Main_Hbf_tief.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Hbf_tief.personal.md) 
+
+### [S-Frankfurt~Main_Hbf_tief.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Hbf_tief.secret.md) 

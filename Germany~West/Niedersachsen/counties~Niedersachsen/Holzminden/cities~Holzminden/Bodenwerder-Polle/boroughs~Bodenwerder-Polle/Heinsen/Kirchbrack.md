@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.97,9.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Kirchbrack|Kirchbrack]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchbrack.internal|Kirchbrack.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchbrack.protect|Kirchbrack.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchbrack.private|Kirchbrack.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchbrack.personal|Kirchbrack.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchbrack.secret|Kirchbrack.secret]] 
+
+### [Kirchbrack](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Bodenwerder-Polle/boroughs~Bodenwerder-Polle/Heinsen/Kirchbrack.md) 
+
+### [Kirchbrack.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Bodenwerder-Polle/boroughs~Bodenwerder-Polle/Heinsen/Kirchbrack.internal.md) 
+
+### [Kirchbrack.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Bodenwerder-Polle/boroughs~Bodenwerder-Polle/Heinsen/Kirchbrack.protect.md) 
+
+### [Kirchbrack.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Bodenwerder-Polle/boroughs~Bodenwerder-Polle/Heinsen/Kirchbrack.private.md) 
+
+### [Kirchbrack.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Bodenwerder-Polle/boroughs~Bodenwerder-Polle/Heinsen/Kirchbrack.personal.md) 
+
+### [Kirchbrack.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Bodenwerder-Polle/boroughs~Bodenwerder-Polle/Heinsen/Kirchbrack.secret.md) 

@@ -1,16 +1,19 @@
----
+﻿---
 has_id_wikidata: Q1200
-location: [49.914,7.57652] 
+location:
+  - 49.914
+  - 7.57652
 type: State
 ISO3166-2: DE-RP
 SpocWebEntityId: 36021
 isDeleted: false
 Confidential: public
 tags:
-- geo/State
+  - geo/State
 icon: Flag_of_Rhineland-Palatinate
 head of government: "[[_Standards/WikiData/WD~Malu Dreyer]]"
-legislative body: "[[_Standards/WikiData/WD~Landtag of Rhineland-Palatinate]]"
+legislative body:
+  - "[[_Standards/WikiData/WD~Landtag of Rhineland-Palatinate]]"
 highest point: "[[_Standards/WikiData/WD~Erbeskopf]]"
 contains the administrative territorial entity:
   - "[[_Standards/WikiData/WD~Rheinhessen-Pfalz]]"
@@ -58,11 +61,13 @@ contains the administrative territorial entity:
 coat of arms: "[[_Standards/WikiData/WD~coat of arms of Rhineland-Palatinate]]"
 lowest point: "[[_Standards/WikiData/WD~Nonnenwerth]]"
 flag: "[[_Standards/WikiData/WD~flag of Rhineland-Palatinate]]"
-instance of: "[[_Standards/WikiData/WD~federated state of Germany]]"
+instance of:
+  - "[[_Standards/WikiData/WD~federated state of Germany]]"
 archives at: "[[_Standards/WikiData/WD~Landeshauptarchiv Koblenz]]"
 history of topic: "[[_Standards/WikiData/WD~history of Rhineland-Palatinate]]"
 highest judicial authority: "[[_Standards/WikiData/WD~Constitutional Court of Rhineland-Palatinate]]"
-described by source: "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia]]"
 topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal:Rhineland-Palatinate]]"
 office held by head of government: "[[_Standards/WikiData/WD~Minister-President of Rhineland-Palatinate]]"
 category for honorary citizens of entity: "[[_Standards/WikiData/WD~Q19473381]]"
@@ -76,8 +81,10 @@ shares border with:
   - "[[_Standards/WikiData/WD~Moselle]]"
   - "[[_Standards/WikiData/WD~Bas-Rhin]]"
   - "[[_Standards/WikiData/WD~Wallonia]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q25930020]]"
-open data portal: "[[_Standards/WikiData/WD~Open-Government-Data-Portal Rheinland-Pfalz]]"
+permanent duplicated item:
+  - "[[_Standards/WikiData/WD~Q25930020]]"
+open data portal:
+  - "[[_Standards/WikiData/WD~Open-Government-Data-Portal Rheinland-Pfalz]]"
 economy of topic: "[[_Standards/WikiData/WD~economy of Rhineland-Palatinate]]"
 award received: "[[_Standards/WikiData/WD~BigBrotherAwards]]"
 geoshape: http://commons.wikimedia.org/data/main/Data:Rheinland-Pfalz.map
@@ -86,7 +93,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Mainz%20Deutschhaus%20
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Rhine%20valley%20banner.jpg
 official website: https://www.rlp.de/
 ISO 3166-2 code: DE-RP
-HASC: DE.RP
+HASC:
+  - DE.RP
 FIPS 10-4 (countries and regions): GM08
 Commons gallery: Rheinland-Pfalz
 X username: rlpNews
@@ -113,17 +121,21 @@ inception: 1946-08-30T00:00:00Z
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Rhineland-Palatinate.svg
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rhineland-Palatinate.svg
 Commons category: Rhineland-Palatinate
-native label: Rheinland-Pfalz
+native label:
+  - Rheinland-Pfalz
 official name: Rheinland-Pfalz
 Dewey Decimal Classification: 2--4343
-
-cssclasses: state
+cssclasses:
+  - state
 publish: true
 linkTitle: 
 keywords: 
 layout: 
 publishDate: 
 expiryDate: 
+aliases:
+  - Rhineland-Palatinate
+  - Rheinland-Pfalz
 ---
 
 # Rhineland-Palatinate
@@ -212,9 +224,15 @@ Capital :: [[Mainz]]
 
 
 ## Confidential Links & Embeds: 
-- [[Rheinland-Pfalz|Rheinland-Pfalz]]  
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.internal|Rheinland-Pfalz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.protect|Rheinland-Pfalz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.private|Rheinland-Pfalz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.personal|Rheinland-Pfalz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.secret|Rheinland-Pfalz.secret]] 
+
+### [Rheinland-Pfalz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz.md) 
+
+### [Rheinland-Pfalz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz.internal.md) 
+
+### [Rheinland-Pfalz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz.protect.md) 
+
+### [Rheinland-Pfalz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz.private.md) 
+
+### [Rheinland-Pfalz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz.personal.md) 
+
+### [Rheinland-Pfalz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz.secret.md) 

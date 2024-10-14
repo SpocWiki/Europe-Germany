@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.90724,8.486341] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[S-Groß_Gerau-Dornberg|S-Groß_Gerau-Dornberg]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Groß_Gerau-Dornberg.internal|S-Groß_Gerau-Dornberg.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Groß_Gerau-Dornberg.protect|S-Groß_Gerau-Dornberg.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Groß_Gerau-Dornberg.private|S-Groß_Gerau-Dornberg.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Groß_Gerau-Dornberg.personal|S-Groß_Gerau-Dornberg.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Groß_Gerau-Dornberg.secret|S-Groß_Gerau-Dornberg.secret]] 
+
+### [S-Groß_Gerau-Dornberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Groß_Gerau-Dornberg.md) 
+
+### [S-Groß_Gerau-Dornberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Groß_Gerau-Dornberg.internal.md) 
+
+### [S-Groß_Gerau-Dornberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Groß_Gerau-Dornberg.protect.md) 
+
+### [S-Groß_Gerau-Dornberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Groß_Gerau-Dornberg.private.md) 
+
+### [S-Groß_Gerau-Dornberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Groß_Gerau-Dornberg.personal.md) 
+
+### [S-Groß_Gerau-Dornberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Groß_Gerau-Dornberg.secret.md) 

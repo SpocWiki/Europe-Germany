@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.42,10.37] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Nieder-Marschacht|Nieder-Marschacht]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nieder-Marschacht.internal|Nieder-Marschacht.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nieder-Marschacht.protect|Nieder-Marschacht.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nieder-Marschacht.private|Nieder-Marschacht.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nieder-Marschacht.personal|Nieder-Marschacht.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nieder-Marschacht.secret|Nieder-Marschacht.secret]] 
+
+### [Nieder-Marschacht](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Elbmarsch/Nieder-Marschacht.md) 
+
+### [Nieder-Marschacht.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Elbmarsch/Nieder-Marschacht.internal.md) 
+
+### [Nieder-Marschacht.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Elbmarsch/Nieder-Marschacht.protect.md) 
+
+### [Nieder-Marschacht.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Elbmarsch/Nieder-Marschacht.private.md) 
+
+### [Nieder-Marschacht.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Elbmarsch/Nieder-Marschacht.personal.md) 
+
+### [Nieder-Marschacht.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Elbmarsch/Nieder-Marschacht.secret.md) 

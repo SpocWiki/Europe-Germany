@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Tensfeld|Tensfeld]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Tensfeld.internal|Tensfeld.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Tensfeld.protect|Tensfeld.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Tensfeld.private|Tensfeld.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Tensfeld.personal|Tensfeld.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Tensfeld.secret|Tensfeld.secret]] 
+
+### [Tensfeld](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Bornhöved/boroughs~Bornhöved/Tensfeld.md) 
+
+### [Tensfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Bornhöved/boroughs~Bornhöved/Tensfeld.internal.md) 
+
+### [Tensfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Bornhöved/boroughs~Bornhöved/Tensfeld.protect.md) 
+
+### [Tensfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Bornhöved/boroughs~Bornhöved/Tensfeld.private.md) 
+
+### [Tensfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Bornhöved/boroughs~Bornhöved/Tensfeld.personal.md) 
+
+### [Tensfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Bornhöved/boroughs~Bornhöved/Tensfeld.secret.md) 

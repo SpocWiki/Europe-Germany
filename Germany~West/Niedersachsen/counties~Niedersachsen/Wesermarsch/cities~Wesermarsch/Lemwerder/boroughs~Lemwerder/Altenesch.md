@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.13,8.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Altenesch|Altenesch]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Altenesch.internal|Altenesch.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Altenesch.protect|Altenesch.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Altenesch.private|Altenesch.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Altenesch.personal|Altenesch.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Altenesch.secret|Altenesch.secret]] 
+
+### [Altenesch](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Lemwerder/boroughs~Lemwerder/Altenesch.md) 
+
+### [Altenesch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Lemwerder/boroughs~Lemwerder/Altenesch.internal.md) 
+
+### [Altenesch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Lemwerder/boroughs~Lemwerder/Altenesch.protect.md) 
+
+### [Altenesch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Lemwerder/boroughs~Lemwerder/Altenesch.private.md) 
+
+### [Altenesch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Lemwerder/boroughs~Lemwerder/Altenesch.personal.md) 
+
+### [Altenesch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Lemwerder/boroughs~Lemwerder/Altenesch.secret.md) 

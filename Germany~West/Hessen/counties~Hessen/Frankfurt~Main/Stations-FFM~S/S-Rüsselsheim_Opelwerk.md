@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.995,8.411944] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[S-Rüsselsheim_Opelwerk|S-Rüsselsheim_Opelwerk]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rüsselsheim_Opelwerk.internal|S-Rüsselsheim_Opelwerk.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rüsselsheim_Opelwerk.protect|S-Rüsselsheim_Opelwerk.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rüsselsheim_Opelwerk.private|S-Rüsselsheim_Opelwerk.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rüsselsheim_Opelwerk.personal|S-Rüsselsheim_Opelwerk.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rüsselsheim_Opelwerk.secret|S-Rüsselsheim_Opelwerk.secret]] 
+
+### [S-Rüsselsheim_Opelwerk](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rüsselsheim_Opelwerk.md) 
+
+### [S-Rüsselsheim_Opelwerk.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rüsselsheim_Opelwerk.internal.md) 
+
+### [S-Rüsselsheim_Opelwerk.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rüsselsheim_Opelwerk.protect.md) 
+
+### [S-Rüsselsheim_Opelwerk.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rüsselsheim_Opelwerk.private.md) 
+
+### [S-Rüsselsheim_Opelwerk.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rüsselsheim_Opelwerk.personal.md) 
+
+### [S-Rüsselsheim_Opelwerk.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rüsselsheim_Opelwerk.secret.md) 

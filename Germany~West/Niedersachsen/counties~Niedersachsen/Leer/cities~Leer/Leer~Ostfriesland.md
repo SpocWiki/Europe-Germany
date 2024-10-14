@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Leer~Ostfriesland|Leer~Ostfriesland]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer~Ostfriesland.internal|Leer~Ostfriesland.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer~Ostfriesland.protect|Leer~Ostfriesland.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer~Ostfriesland.private|Leer~Ostfriesland.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer~Ostfriesland.personal|Leer~Ostfriesland.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer~Ostfriesland.secret|Leer~Ostfriesland.secret]] 
+
+### [Leer~Ostfriesland](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Leer~Ostfriesland.md) 
+
+### [Leer~Ostfriesland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Leer~Ostfriesland.internal.md) 
+
+### [Leer~Ostfriesland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Leer~Ostfriesland.protect.md) 
+
+### [Leer~Ostfriesland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Leer~Ostfriesland.private.md) 
+
+### [Leer~Ostfriesland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Leer~Ostfriesland.personal.md) 
+
+### [Leer~Ostfriesland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Leer~Ostfriesland.secret.md) 

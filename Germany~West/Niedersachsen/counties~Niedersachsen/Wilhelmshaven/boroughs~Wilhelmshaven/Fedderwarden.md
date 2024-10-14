@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Fedderwarden|Fedderwarden]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fedderwarden.internal|Fedderwarden.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fedderwarden.protect|Fedderwarden.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fedderwarden.private|Fedderwarden.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fedderwarden.personal|Fedderwarden.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fedderwarden.secret|Fedderwarden.secret]] 
+
+### [Fedderwarden](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven/boroughs~Wilhelmshaven/Fedderwarden.md) 
+
+### [Fedderwarden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven/boroughs~Wilhelmshaven/Fedderwarden.internal.md) 
+
+### [Fedderwarden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven/boroughs~Wilhelmshaven/Fedderwarden.protect.md) 
+
+### [Fedderwarden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven/boroughs~Wilhelmshaven/Fedderwarden.private.md) 
+
+### [Fedderwarden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven/boroughs~Wilhelmshaven/Fedderwarden.personal.md) 
+
+### [Fedderwarden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven/boroughs~Wilhelmshaven/Fedderwarden.secret.md) 

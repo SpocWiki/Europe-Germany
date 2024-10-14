@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.55,14.72] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -37,10 +37,15 @@ maxZoom: 18
 Muskauer Park/Park Mużakowski ( [[Unesco]] Welterbe seit 2004)  
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Muskau,Bad|Muskau,Bad]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Muskau,Bad.public|Muskau,Bad.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Muskau,Bad.internal|Muskau,Bad.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Muskau,Bad.protect|Muskau,Bad.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Muskau,Bad.private|Muskau,Bad.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Muskau,Bad.personal|Muskau,Bad.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Muskau,Bad.secret|Muskau,Bad.secret]] 
+
+### [Muskau,Bad](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Muskau,Bad.md) 
+
+### [Muskau,Bad.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Muskau,Bad.internal.md) 
+
+### [Muskau,Bad.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Muskau,Bad.protect.md) 
+
+### [Muskau,Bad.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Muskau,Bad.private.md) 
+
+### [Muskau,Bad.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Muskau,Bad.personal.md) 
+
+### [Muskau,Bad.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Muskau,Bad.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.95,9.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -37,9 +37,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Mittestendorf|Mittestendorf]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mittestendorf.internal|Mittestendorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mittestendorf.protect|Mittestendorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mittestendorf.private|Mittestendorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mittestendorf.personal|Mittestendorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mittestendorf.secret|Mittestendorf.secret]] 
+
+### [Mittestendorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Soltau/boroughs~Soltau/Mittestendorf.md) 
+
+### [Mittestendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Soltau/boroughs~Soltau/Mittestendorf.internal.md) 
+
+### [Mittestendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Soltau/boroughs~Soltau/Mittestendorf.protect.md) 
+
+### [Mittestendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Soltau/boroughs~Soltau/Mittestendorf.private.md) 
+
+### [Mittestendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Soltau/boroughs~Soltau/Mittestendorf.personal.md) 
+
+### [Mittestendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Soltau/boroughs~Soltau/Mittestendorf.secret.md) 

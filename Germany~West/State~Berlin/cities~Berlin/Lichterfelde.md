@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Lichterfelde|Lichterfelde]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin/City/Lichterfelde.internal|Lichterfelde.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin/City/Lichterfelde.protect|Lichterfelde.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin/City/Lichterfelde.private|Lichterfelde.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Berlin/City/Lichterfelde.personal|Lichterfelde.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Berlin/City/Lichterfelde.secret|Lichterfelde.secret]] 
+
+### [Lichterfelde](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Lichterfelde.md) 
+
+### [Lichterfelde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Lichterfelde.internal.md) 
+
+### [Lichterfelde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Lichterfelde.protect.md) 
+
+### [Lichterfelde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Lichterfelde.private.md) 
+
+### [Lichterfelde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Lichterfelde.personal.md) 
+
+### [Lichterfelde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Lichterfelde.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.99441,8.314038] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[S-Mainz-Gustavsburg|S-Mainz-Gustavsburg]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz-Gustavsburg.internal|S-Mainz-Gustavsburg.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz-Gustavsburg.protect|S-Mainz-Gustavsburg.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz-Gustavsburg.private|S-Mainz-Gustavsburg.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz-Gustavsburg.personal|S-Mainz-Gustavsburg.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz-Gustavsburg.secret|S-Mainz-Gustavsburg.secret]] 
+
+### [S-Mainz-Gustavsburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mainz-Gustavsburg.md) 
+
+### [S-Mainz-Gustavsburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mainz-Gustavsburg.internal.md) 
+
+### [S-Mainz-Gustavsburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mainz-Gustavsburg.protect.md) 
+
+### [S-Mainz-Gustavsburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mainz-Gustavsburg.private.md) 
+
+### [S-Mainz-Gustavsburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mainz-Gustavsburg.personal.md) 
+
+### [S-Mainz-Gustavsburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mainz-Gustavsburg.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - 53.87
   - 10.68
@@ -49,9 +49,15 @@ die bereits 1143 als erste Hafenstadt an der Ostsee gegründet wurde
 und seit 1987 Teil des Unesco-Welterbes der Menschheit ist. 
 
 ## Confidential Links & Embeds: 
-- [[Lübeck|Lübeck]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lübeck.internal|Lübeck.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lübeck.protect|Lübeck.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lübeck.private|Lübeck.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lübeck.personal|Lübeck.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lübeck.secret|Lübeck.secret]] 
+
+### [Lübeck](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck.md) 
+
+### [Lübeck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck.internal.md) 
+
+### [Lübeck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck.protect.md) 
+
+### [Lübeck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck.private.md) 
+
+### [Lübeck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck.personal.md) 
+
+### [Lübeck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck.secret.md) 

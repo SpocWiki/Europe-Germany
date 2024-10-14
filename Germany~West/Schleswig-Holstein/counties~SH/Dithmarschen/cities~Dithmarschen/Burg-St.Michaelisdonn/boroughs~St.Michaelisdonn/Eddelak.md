@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Eddelak|Eddelak]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eddelak.internal|Eddelak.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eddelak.protect|Eddelak.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eddelak.private|Eddelak.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eddelak.personal|Eddelak.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eddelak.secret|Eddelak.secret]] 
+
+### [Eddelak](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Burg-St.Michaelisdonn/boroughs~St.Michaelisdonn/Eddelak.md) 
+
+### [Eddelak.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Burg-St.Michaelisdonn/boroughs~St.Michaelisdonn/Eddelak.internal.md) 
+
+### [Eddelak.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Burg-St.Michaelisdonn/boroughs~St.Michaelisdonn/Eddelak.protect.md) 
+
+### [Eddelak.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Burg-St.Michaelisdonn/boroughs~St.Michaelisdonn/Eddelak.private.md) 
+
+### [Eddelak.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Burg-St.Michaelisdonn/boroughs~St.Michaelisdonn/Eddelak.personal.md) 
+
+### [Eddelak.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Burg-St.Michaelisdonn/boroughs~St.Michaelisdonn/Eddelak.secret.md) 

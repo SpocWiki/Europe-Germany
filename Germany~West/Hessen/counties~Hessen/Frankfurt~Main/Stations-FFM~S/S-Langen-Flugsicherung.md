@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.00523,8.658671] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[S-Langen-Flugsicherung|S-Langen-Flugsicherung]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Langen-Flugsicherung.internal|S-Langen-Flugsicherung.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Langen-Flugsicherung.protect|S-Langen-Flugsicherung.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Langen-Flugsicherung.private|S-Langen-Flugsicherung.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Langen-Flugsicherung.personal|S-Langen-Flugsicherung.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Langen-Flugsicherung.secret|S-Langen-Flugsicherung.secret]] 
+
+### [S-Langen-Flugsicherung](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Langen-Flugsicherung.md) 
+
+### [S-Langen-Flugsicherung.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Langen-Flugsicherung.internal.md) 
+
+### [S-Langen-Flugsicherung.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Langen-Flugsicherung.protect.md) 
+
+### [S-Langen-Flugsicherung.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Langen-Flugsicherung.private.md) 
+
+### [S-Langen-Flugsicherung.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Langen-Flugsicherung.personal.md) 
+
+### [S-Langen-Flugsicherung.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Langen-Flugsicherung.secret.md) 

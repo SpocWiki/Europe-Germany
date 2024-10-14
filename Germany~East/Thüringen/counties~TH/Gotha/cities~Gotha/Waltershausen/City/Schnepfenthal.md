@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Schnepfenthal|Schnepfenthal]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Schnepfenthal.public|Schnepfenthal.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Schnepfenthal.internal|Schnepfenthal.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Schnepfenthal.protect|Schnepfenthal.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Schnepfenthal.private|Schnepfenthal.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Schnepfenthal.personal|Schnepfenthal.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Schnepfenthal.secret|Schnepfenthal.secret]] 
+
+### [Schnepfenthal](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Waltershausen/City/Schnepfenthal.md) 
+
+### [Schnepfenthal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Waltershausen/City/Schnepfenthal.internal.md) 
+
+### [Schnepfenthal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Waltershausen/City/Schnepfenthal.protect.md) 
+
+### [Schnepfenthal.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Waltershausen/City/Schnepfenthal.private.md) 
+
+### [Schnepfenthal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Waltershausen/City/Schnepfenthal.personal.md) 
+
+### [Schnepfenthal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Waltershausen/City/Schnepfenthal.secret.md) 

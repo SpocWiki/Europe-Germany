@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.97,10] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Lamspringe|Lamspringe]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lamspringe.internal|Lamspringe.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lamspringe.protect|Lamspringe.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lamspringe.private|Lamspringe.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lamspringe.personal|Lamspringe.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lamspringe.secret|Lamspringe.secret]] 
+
+### [Lamspringe](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Lamspringe/boroughs~Lamspringe/Lamspringe.md) 
+
+### [Lamspringe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Lamspringe/boroughs~Lamspringe/Lamspringe.internal.md) 
+
+### [Lamspringe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Lamspringe/boroughs~Lamspringe/Lamspringe.protect.md) 
+
+### [Lamspringe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Lamspringe/boroughs~Lamspringe/Lamspringe.private.md) 
+
+### [Lamspringe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Lamspringe/boroughs~Lamspringe/Lamspringe.personal.md) 
+
+### [Lamspringe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Lamspringe/boroughs~Lamspringe/Lamspringe.secret.md) 

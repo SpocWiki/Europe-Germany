@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.9,8.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Wildeshausen|Wildeshausen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wildeshausen.internal|Wildeshausen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wildeshausen.protect|Wildeshausen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wildeshausen.private|Wildeshausen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wildeshausen.personal|Wildeshausen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wildeshausen.secret|Wildeshausen.secret]] 
+
+### [Wildeshausen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Wildeshausen/boroughs~Wildeshausen/Wildeshausen.md) 
+
+### [Wildeshausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Wildeshausen/boroughs~Wildeshausen/Wildeshausen.internal.md) 
+
+### [Wildeshausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Wildeshausen/boroughs~Wildeshausen/Wildeshausen.protect.md) 
+
+### [Wildeshausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Wildeshausen/boroughs~Wildeshausen/Wildeshausen.private.md) 
+
+### [Wildeshausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Wildeshausen/boroughs~Wildeshausen/Wildeshausen.personal.md) 
+
+### [Wildeshausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Wildeshausen/boroughs~Wildeshausen/Wildeshausen.secret.md) 

@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[St.Ingbert|St.Ingbert]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/St.Ingbert.internal|St.Ingbert.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/St.Ingbert.protect|St.Ingbert.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/St.Ingbert.private|St.Ingbert.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/St.Ingbert.personal|St.Ingbert.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/St.Ingbert.secret|St.Ingbert.secret]] 
+
+### [St.Ingbert](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert.md) 
+
+### [St.Ingbert.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert.internal.md) 
+
+### [St.Ingbert.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert.protect.md) 
+
+### [St.Ingbert.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert.private.md) 
+
+### [St.Ingbert.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert.personal.md) 
+
+### [St.Ingbert.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert.secret.md) 

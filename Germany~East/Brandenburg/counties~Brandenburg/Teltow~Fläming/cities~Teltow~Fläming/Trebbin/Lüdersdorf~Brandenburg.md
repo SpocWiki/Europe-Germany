@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luedersdorf~Brandenburg|Luedersdorf~Brandenburg]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luedersdorf~Brandenburg.public|Luedersdorf~Brandenburg.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luedersdorf~Brandenburg.internal|Luedersdorf~Brandenburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luedersdorf~Brandenburg.protect|Luedersdorf~Brandenburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luedersdorf~Brandenburg.private|Luedersdorf~Brandenburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luedersdorf~Brandenburg.personal|Luedersdorf~Brandenburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luedersdorf~Brandenburg.secret|Luedersdorf~Brandenburg.secret]] 
+
+### [Lüdersdorf~Brandenburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Trebbin/Lüdersdorf~Brandenburg.md) 
+
+### [Lüdersdorf~Brandenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Trebbin/Lüdersdorf~Brandenburg.internal.md) 
+
+### [Lüdersdorf~Brandenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Trebbin/Lüdersdorf~Brandenburg.protect.md) 
+
+### [Lüdersdorf~Brandenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Trebbin/Lüdersdorf~Brandenburg.private.md) 
+
+### [Lüdersdorf~Brandenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Trebbin/Lüdersdorf~Brandenburg.personal.md) 
+
+### [Lüdersdorf~Brandenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Trebbin/Lüdersdorf~Brandenburg.secret.md) 

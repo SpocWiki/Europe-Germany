@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Opmuenden|Opmuenden]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Opmuenden.internal|Opmuenden.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Opmuenden.protect|Opmuenden.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Opmuenden.private|Opmuenden.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Opmuenden.personal|Opmuenden.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Opmuenden.secret|Opmuenden.secret]] 
+
+### [Opmünden](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city/Opmünden.md) 
+
+### [Opmünden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city/Opmünden.internal.md) 
+
+### [Opmünden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city/Opmünden.protect.md) 
+
+### [Opmünden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city/Opmünden.private.md) 
+
+### [Opmünden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city/Opmünden.personal.md) 
+
+### [Opmünden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city/Opmünden.secret.md) 

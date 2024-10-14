@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Brunsbuettelkoog|Brunsbuettelkoog]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Brunsbuettelkoog.internal|Brunsbuettelkoog.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Brunsbuettelkoog.protect|Brunsbuettelkoog.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Brunsbuettelkoog.private|Brunsbuettelkoog.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Brunsbuettelkoog.personal|Brunsbuettelkoog.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Brunsbuettelkoog.secret|Brunsbuettelkoog.secret]] 
+
+### [Brunsbüttelkoog](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.md) 
+
+### [Brunsbüttelkoog.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.internal.md) 
+
+### [Brunsbüttelkoog.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.protect.md) 
+
+### [Brunsbüttelkoog.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.private.md) 
+
+### [Brunsbüttelkoog.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.personal.md) 
+
+### [Brunsbüttelkoog.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.secret.md) 

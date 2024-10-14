@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.13,9.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Behrensen|Behrensen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Behrensen.internal|Behrensen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Behrensen.protect|Behrensen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Behrensen.private|Behrensen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Behrensen.personal|Behrensen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Behrensen.secret|Behrensen.secret]] 
+
+### [Behrensen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Coppenbrügge/boroughs~Coppenbrügge/Behrensen.md) 
+
+### [Behrensen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Coppenbrügge/boroughs~Coppenbrügge/Behrensen.internal.md) 
+
+### [Behrensen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Coppenbrügge/boroughs~Coppenbrügge/Behrensen.protect.md) 
+
+### [Behrensen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Coppenbrügge/boroughs~Coppenbrügge/Behrensen.private.md) 
+
+### [Behrensen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Coppenbrügge/boroughs~Coppenbrügge/Behrensen.personal.md) 
+
+### [Behrensen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Coppenbrügge/boroughs~Coppenbrügge/Behrensen.secret.md) 

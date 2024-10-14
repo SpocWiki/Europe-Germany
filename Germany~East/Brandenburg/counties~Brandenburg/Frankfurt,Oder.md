@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Frankfurt~Oder|Frankfurt~Oder]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Frankfurt~Oder.public|Frankfurt~Oder.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Frankfurt~Oder.internal|Frankfurt~Oder.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Frankfurt~Oder.protect|Frankfurt~Oder.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Frankfurt~Oder.private|Frankfurt~Oder.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Frankfurt~Oder.personal|Frankfurt~Oder.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Frankfurt~Oder.secret|Frankfurt~Oder.secret]] 
+
+### [Frankfurt,Oder](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Frankfurt,Oder.md) 
+
+### [Frankfurt,Oder.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Frankfurt,Oder.internal.md) 
+
+### [Frankfurt,Oder.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Frankfurt,Oder.protect.md) 
+
+### [Frankfurt,Oder.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Frankfurt,Oder.private.md) 
+
+### [Frankfurt,Oder.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Frankfurt,Oder.personal.md) 
+
+### [Frankfurt,Oder.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Frankfurt,Oder.secret.md) 

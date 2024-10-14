@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.08169,8.828938] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[S-Offenbach-Waldhof|S-Offenbach-Waldhof]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach-Waldhof.internal|S-Offenbach-Waldhof.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach-Waldhof.protect|S-Offenbach-Waldhof.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach-Waldhof.private|S-Offenbach-Waldhof.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach-Waldhof.personal|S-Offenbach-Waldhof.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Offenbach-Waldhof.secret|S-Offenbach-Waldhof.secret]] 
+
+### [S-Offenbach-Waldhof](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Offenbach-Waldhof.md) 
+
+### [S-Offenbach-Waldhof.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Offenbach-Waldhof.internal.md) 
+
+### [S-Offenbach-Waldhof.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Offenbach-Waldhof.protect.md) 
+
+### [S-Offenbach-Waldhof.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Offenbach-Waldhof.private.md) 
+
+### [S-Offenbach-Waldhof.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Offenbach-Waldhof.personal.md) 
+
+### [S-Offenbach-Waldhof.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Offenbach-Waldhof.secret.md) 

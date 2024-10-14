@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.1316,8.683598] 
 type: Station 
 mapzoom: [8,18] 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[U-Deutsche_Nationalbibliothek|U-Deutsche_Nationalbibliothek]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Deutsche_Nationalbibliothek.internal|U-Deutsche_Nationalbibliothek.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Deutsche_Nationalbibliothek.protect|U-Deutsche_Nationalbibliothek.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Deutsche_Nationalbibliothek.private|U-Deutsche_Nationalbibliothek.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Deutsche_Nationalbibliothek.personal|U-Deutsche_Nationalbibliothek.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Deutsche_Nationalbibliothek.secret|U-Deutsche_Nationalbibliothek.secret]] 
+
+### [U-Deutsche_Nationalbibliothek](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Deutsche_Nationalbibliothek.md) 
+
+### [U-Deutsche_Nationalbibliothek.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Deutsche_Nationalbibliothek.internal.md) 
+
+### [U-Deutsche_Nationalbibliothek.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Deutsche_Nationalbibliothek.protect.md) 
+
+### [U-Deutsche_Nationalbibliothek.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Deutsche_Nationalbibliothek.private.md) 
+
+### [U-Deutsche_Nationalbibliothek.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Deutsche_Nationalbibliothek.personal.md) 
+
+### [U-Deutsche_Nationalbibliothek.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Deutsche_Nationalbibliothek.secret.md) 

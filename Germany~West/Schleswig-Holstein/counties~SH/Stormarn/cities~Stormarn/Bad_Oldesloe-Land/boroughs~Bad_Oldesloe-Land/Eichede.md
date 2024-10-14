@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Eichede|Eichede]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eichede.internal|Eichede.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eichede.protect|Eichede.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eichede.private|Eichede.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eichede.personal|Eichede.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eichede.secret|Eichede.secret]] 
+
+### [Eichede](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Bad_Oldesloe-Land/boroughs~Bad_Oldesloe-Land/Eichede.md) 
+
+### [Eichede.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Bad_Oldesloe-Land/boroughs~Bad_Oldesloe-Land/Eichede.internal.md) 
+
+### [Eichede.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Bad_Oldesloe-Land/boroughs~Bad_Oldesloe-Land/Eichede.protect.md) 
+
+### [Eichede.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Bad_Oldesloe-Land/boroughs~Bad_Oldesloe-Land/Eichede.private.md) 
+
+### [Eichede.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Bad_Oldesloe-Land/boroughs~Bad_Oldesloe-Land/Eichede.personal.md) 
+
+### [Eichede.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Bad_Oldesloe-Land/boroughs~Bad_Oldesloe-Land/Eichede.secret.md) 

@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Schweinsberg|Schweinsberg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Schweinsberg.internal|Schweinsberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Schweinsberg.protect|Schweinsberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Schweinsberg.private|Schweinsberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Schweinsberg.personal|Schweinsberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Schweinsberg.secret|Schweinsberg.secret]] 
+
+### [Schweinsberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Stadtallendorf/boroughs~Stadtallendorf/Schweinsberg.md) 
+
+### [Schweinsberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Stadtallendorf/boroughs~Stadtallendorf/Schweinsberg.internal.md) 
+
+### [Schweinsberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Stadtallendorf/boroughs~Stadtallendorf/Schweinsberg.protect.md) 
+
+### [Schweinsberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Stadtallendorf/boroughs~Stadtallendorf/Schweinsberg.private.md) 
+
+### [Schweinsberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Stadtallendorf/boroughs~Stadtallendorf/Schweinsberg.personal.md) 
+
+### [Schweinsberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Stadtallendorf/boroughs~Stadtallendorf/Schweinsberg.secret.md) 

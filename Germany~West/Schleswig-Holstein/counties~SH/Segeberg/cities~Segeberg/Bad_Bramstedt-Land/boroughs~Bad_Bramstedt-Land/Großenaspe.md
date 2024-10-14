@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Großenaspe|Großenaspe]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Großenaspe.internal|Großenaspe.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Großenaspe.protect|Großenaspe.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Großenaspe.private|Großenaspe.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Großenaspe.personal|Großenaspe.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Großenaspe.secret|Großenaspe.secret]] 
+
+### [Großenaspe](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Bad_Bramstedt-Land/boroughs~Bad_Bramstedt-Land/Großenaspe.md) 
+
+### [Großenaspe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Bad_Bramstedt-Land/boroughs~Bad_Bramstedt-Land/Großenaspe.internal.md) 
+
+### [Großenaspe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Bad_Bramstedt-Land/boroughs~Bad_Bramstedt-Land/Großenaspe.protect.md) 
+
+### [Großenaspe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Bad_Bramstedt-Land/boroughs~Bad_Bramstedt-Land/Großenaspe.private.md) 
+
+### [Großenaspe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Bad_Bramstedt-Land/boroughs~Bad_Bramstedt-Land/Großenaspe.personal.md) 
+
+### [Großenaspe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Bad_Bramstedt-Land/boroughs~Bad_Bramstedt-Land/Großenaspe.secret.md) 

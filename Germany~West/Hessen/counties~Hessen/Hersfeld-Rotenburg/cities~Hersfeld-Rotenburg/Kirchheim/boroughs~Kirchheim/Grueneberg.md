@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.87,9.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Grueneberg|Grueneberg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Grueneberg.internal|Grueneberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Grueneberg.protect|Grueneberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Grueneberg.private|Grueneberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Grueneberg.personal|Grueneberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Grueneberg.secret|Grueneberg.secret]] 
+
+### [Grueneberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Kirchheim/boroughs~Kirchheim/Grueneberg.md) 
+
+### [Grueneberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Kirchheim/boroughs~Kirchheim/Grueneberg.internal.md) 
+
+### [Grueneberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Kirchheim/boroughs~Kirchheim/Grueneberg.protect.md) 
+
+### [Grueneberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Kirchheim/boroughs~Kirchheim/Grueneberg.private.md) 
+
+### [Grueneberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Kirchheim/boroughs~Kirchheim/Grueneberg.personal.md) 
+
+### [Grueneberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Kirchheim/boroughs~Kirchheim/Grueneberg.secret.md) 

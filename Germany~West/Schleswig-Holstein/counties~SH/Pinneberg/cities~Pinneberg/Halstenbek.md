@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Halstenbek|Halstenbek]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Halstenbek.internal|Halstenbek.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Halstenbek.protect|Halstenbek.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Halstenbek.private|Halstenbek.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Halstenbek.personal|Halstenbek.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Halstenbek.secret|Halstenbek.secret]] 
+
+### [Halstenbek](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Halstenbek.md) 
+
+### [Halstenbek.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Halstenbek.internal.md) 
+
+### [Halstenbek.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Halstenbek.protect.md) 
+
+### [Halstenbek.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Halstenbek.private.md) 
+
+### [Halstenbek.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Halstenbek.personal.md) 
+
+### [Halstenbek.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Halstenbek.secret.md) 

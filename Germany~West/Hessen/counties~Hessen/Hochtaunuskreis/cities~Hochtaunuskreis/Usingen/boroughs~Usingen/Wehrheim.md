@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.32,8.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Wehrheim|Wehrheim]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Wehrheim.internal|Wehrheim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Wehrheim.protect|Wehrheim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Wehrheim.private|Wehrheim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Wehrheim.personal|Wehrheim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Wehrheim.secret|Wehrheim.secret]] 
+
+### [Wehrheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Usingen/boroughs~Usingen/Wehrheim.md) 
+
+### [Wehrheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Usingen/boroughs~Usingen/Wehrheim.internal.md) 
+
+### [Wehrheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Usingen/boroughs~Usingen/Wehrheim.protect.md) 
+
+### [Wehrheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Usingen/boroughs~Usingen/Wehrheim.private.md) 
+
+### [Wehrheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Usingen/boroughs~Usingen/Wehrheim.personal.md) 
+
+### [Wehrheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Usingen/boroughs~Usingen/Wehrheim.secret.md) 

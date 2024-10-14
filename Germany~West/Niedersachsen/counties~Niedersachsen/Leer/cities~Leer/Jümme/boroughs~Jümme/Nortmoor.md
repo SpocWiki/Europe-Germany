@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Nortmoor|Nortmoor]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nortmoor.internal|Nortmoor.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nortmoor.protect|Nortmoor.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nortmoor.private|Nortmoor.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nortmoor.personal|Nortmoor.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nortmoor.secret|Nortmoor.secret]] 
+
+### [Nortmoor](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Jümme/boroughs~Jümme/Nortmoor.md) 
+
+### [Nortmoor.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Jümme/boroughs~Jümme/Nortmoor.internal.md) 
+
+### [Nortmoor.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Jümme/boroughs~Jümme/Nortmoor.protect.md) 
+
+### [Nortmoor.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Jümme/boroughs~Jümme/Nortmoor.private.md) 
+
+### [Nortmoor.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Jümme/boroughs~Jümme/Nortmoor.personal.md) 
+
+### [Nortmoor.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Jümme/boroughs~Jümme/Nortmoor.secret.md) 

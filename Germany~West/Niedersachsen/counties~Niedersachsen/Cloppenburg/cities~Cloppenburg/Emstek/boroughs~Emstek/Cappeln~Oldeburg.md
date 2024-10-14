@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.82,8.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
--[[Cappeln~Oldeburg|Cappeln~Oldeburg]]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kappeln~Oldeburg.internal|Kappeln~Oldeburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kappeln~Oldeburg.protect|Kappeln~Oldeburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kappeln~Oldeburg.private|Kappeln~Oldeburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kappeln~Oldeburg.personal|Kappeln~Oldeburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kappeln~Oldeburg.secret|Kappeln~Oldeburg.secret]] 
+
+### [Cappeln~Oldeburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Emstek/boroughs~Emstek/Cappeln~Oldeburg.md) 
+
+### [Cappeln~Oldeburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Emstek/boroughs~Emstek/Cappeln~Oldeburg.internal.md) 
+
+### [Cappeln~Oldeburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Emstek/boroughs~Emstek/Cappeln~Oldeburg.protect.md) 
+
+### [Cappeln~Oldeburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Emstek/boroughs~Emstek/Cappeln~Oldeburg.private.md) 
+
+### [Cappeln~Oldeburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Emstek/boroughs~Emstek/Cappeln~Oldeburg.personal.md) 
+
+### [Cappeln~Oldeburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Emstek/boroughs~Emstek/Cappeln~Oldeburg.secret.md) 

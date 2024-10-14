@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 50.05278 , 8.665833 ] 
 type: geo-Region
 title: FFM~S3
@@ -76,9 +76,15 @@ markerFolder: ./Station/
 
 
 ## Confidential Links & Embeds: 
-- [[FFM~S3|FFM~S3]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S3.internal|FFM~S3.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S3.protect|FFM~S3.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S3.private|FFM~S3.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S3.personal|FFM~S3.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S3.secret|FFM~S3.secret]] 
+
+### [FFM~S3](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~S3.md) 
+
+### [FFM~S3.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~S3.internal.md) 
+
+### [FFM~S3.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~S3.protect.md) 
+
+### [FFM~S3.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~S3.private.md) 
+
+### [FFM~S3.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~S3.personal.md) 
+
+### [FFM~S3.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~S3.secret.md) 

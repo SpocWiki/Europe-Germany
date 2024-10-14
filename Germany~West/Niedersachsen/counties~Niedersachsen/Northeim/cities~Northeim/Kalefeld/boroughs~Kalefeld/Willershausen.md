@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.78,10.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Willershausen|Willershausen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Willershausen.internal|Willershausen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Willershausen.protect|Willershausen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Willershausen.private|Willershausen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Willershausen.personal|Willershausen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Willershausen.secret|Willershausen.secret]] 
+
+### [Willershausen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Kalefeld/boroughs~Kalefeld/Willershausen.md) 
+
+### [Willershausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Kalefeld/boroughs~Kalefeld/Willershausen.internal.md) 
+
+### [Willershausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Kalefeld/boroughs~Kalefeld/Willershausen.protect.md) 
+
+### [Willershausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Kalefeld/boroughs~Kalefeld/Willershausen.private.md) 
+
+### [Willershausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Kalefeld/boroughs~Kalefeld/Willershausen.personal.md) 
+
+### [Willershausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Kalefeld/boroughs~Kalefeld/Willershausen.secret.md) 

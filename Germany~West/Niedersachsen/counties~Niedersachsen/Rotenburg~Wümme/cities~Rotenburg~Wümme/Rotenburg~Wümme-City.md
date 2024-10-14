@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - 53.12
   - 9.4
@@ -40,9 +40,15 @@ markerFolder: ./Rotenburg~Wümme-City//
 
 
 ## Confidential Links & Embeds: 
-- [[Rotenburg~Wümme-City|Rotenburg~Wuemme]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rotenburg~Wuemme.internal|Rotenburg~Wuemme.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rotenburg~Wuemme.protect|Rotenburg~Wuemme.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rotenburg~Wuemme.private|Rotenburg~Wuemme.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rotenburg~Wuemme.personal|Rotenburg~Wuemme.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rotenburg~Wuemme.secret|Rotenburg~Wuemme.secret]] 
+
+### [Rotenburg~Wümme-City](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Rotenburg~Wümme-City.md) 
+
+### [Rotenburg~Wümme-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Rotenburg~Wümme-City.internal.md) 
+
+### [Rotenburg~Wümme-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Rotenburg~Wümme-City.protect.md) 
+
+### [Rotenburg~Wümme-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Rotenburg~Wümme-City.private.md) 
+
+### [Rotenburg~Wümme-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Rotenburg~Wümme-City.personal.md) 
+
+### [Rotenburg~Wümme-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Rotenburg~Wümme-City.secret.md) 

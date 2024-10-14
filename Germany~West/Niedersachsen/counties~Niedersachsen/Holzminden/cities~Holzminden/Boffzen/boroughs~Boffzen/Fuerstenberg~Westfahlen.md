@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.73,9.4] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Fuerstenberg~Westfahlen|Fuerstenberg~Westfahlen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fuerstenberg~Westfahlen.internal|Fuerstenberg~Westfahlen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fuerstenberg~Westfahlen.protect|Fuerstenberg~Westfahlen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fuerstenberg~Westfahlen.private|Fuerstenberg~Westfahlen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fuerstenberg~Westfahlen.personal|Fuerstenberg~Westfahlen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fuerstenberg~Westfahlen.secret|Fuerstenberg~Westfahlen.secret]] 
+
+### [Fuerstenberg~Westfahlen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Boffzen/boroughs~Boffzen/Fuerstenberg~Westfahlen.md) 
+
+### [Fuerstenberg~Westfahlen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Boffzen/boroughs~Boffzen/Fuerstenberg~Westfahlen.internal.md) 
+
+### [Fuerstenberg~Westfahlen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Boffzen/boroughs~Boffzen/Fuerstenberg~Westfahlen.protect.md) 
+
+### [Fuerstenberg~Westfahlen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Boffzen/boroughs~Boffzen/Fuerstenberg~Westfahlen.private.md) 
+
+### [Fuerstenberg~Westfahlen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Boffzen/boroughs~Boffzen/Fuerstenberg~Westfahlen.personal.md) 
+
+### [Fuerstenberg~Westfahlen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Boffzen/boroughs~Boffzen/Fuerstenberg~Westfahlen.secret.md) 

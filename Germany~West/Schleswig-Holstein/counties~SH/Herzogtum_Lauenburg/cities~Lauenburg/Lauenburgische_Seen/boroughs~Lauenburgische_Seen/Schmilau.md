@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Schmilau|Schmilau]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schmilau.internal|Schmilau.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schmilau.protect|Schmilau.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schmilau.private|Schmilau.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schmilau.personal|Schmilau.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schmilau.secret|Schmilau.secret]] 
+
+### [Schmilau](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Schmilau.md) 
+
+### [Schmilau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Schmilau.internal.md) 
+
+### [Schmilau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Schmilau.protect.md) 
+
+### [Schmilau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Schmilau.private.md) 
+
+### [Schmilau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Schmilau.personal.md) 
+
+### [Schmilau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Schmilau.secret.md) 

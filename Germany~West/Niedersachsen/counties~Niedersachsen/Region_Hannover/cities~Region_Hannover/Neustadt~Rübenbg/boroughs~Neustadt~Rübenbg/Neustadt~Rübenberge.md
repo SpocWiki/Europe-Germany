@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.52,9.47] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Neustadt~Rübenberge|Neustadt~Rübenberge]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~Rübenberge.internal|Neustadt~Rübenberge.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~Rübenberge.protect|Neustadt~Rübenberge.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~Rübenberge.private|Neustadt~Rübenberge.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~Rübenberge.personal|Neustadt~Rübenberge.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~Rübenberge.secret|Neustadt~Rübenberge.secret]] 
+
+### [Neustadt~Rübenberge](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Neustadt~Rübenbg/boroughs~Neustadt~Rübenbg/Neustadt~Rübenberge.md) 
+
+### [Neustadt~Rübenberge.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Neustadt~Rübenbg/boroughs~Neustadt~Rübenbg/Neustadt~Rübenberge.internal.md) 
+
+### [Neustadt~Rübenberge.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Neustadt~Rübenbg/boroughs~Neustadt~Rübenbg/Neustadt~Rübenberge.protect.md) 
+
+### [Neustadt~Rübenberge.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Neustadt~Rübenbg/boroughs~Neustadt~Rübenbg/Neustadt~Rübenberge.private.md) 
+
+### [Neustadt~Rübenberge.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Neustadt~Rübenbg/boroughs~Neustadt~Rübenbg/Neustadt~Rübenberge.personal.md) 
+
+### [Neustadt~Rübenberge.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Neustadt~Rübenbg/boroughs~Neustadt~Rübenbg/Neustadt~Rübenberge.secret.md) 

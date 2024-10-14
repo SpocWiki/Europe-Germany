@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.9,11.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Bergen~Dumme|Bergen~Dumme]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bergen~Dumme.internal|Bergen~Dumme.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bergen~Dumme.protect|Bergen~Dumme.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bergen~Dumme.private|Bergen~Dumme.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bergen~Dumme.personal|Bergen~Dumme.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bergen~Dumme.secret|Bergen~Dumme.secret]] 
+
+### [Bergen~Dumme](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Bergen~Dumme.md) 
+
+### [Bergen~Dumme.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Bergen~Dumme.internal.md) 
+
+### [Bergen~Dumme.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Bergen~Dumme.protect.md) 
+
+### [Bergen~Dumme.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Bergen~Dumme.private.md) 
+
+### [Bergen~Dumme.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Bergen~Dumme.personal.md) 
+
+### [Bergen~Dumme.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Bergen~Dumme.secret.md) 

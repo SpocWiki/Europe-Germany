@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wilkau~Sachsen|Wilkau~Sachsen]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wilkau~Sachsen.public|Wilkau~Sachsen.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wilkau~Sachsen.internal|Wilkau~Sachsen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wilkau~Sachsen.protect|Wilkau~Sachsen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wilkau~Sachsen.private|Wilkau~Sachsen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wilkau~Sachsen.personal|Wilkau~Sachsen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wilkau~Sachsen.secret|Wilkau~Sachsen.secret]] 
+
+### [Wilkau~Sachsen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Wilkau-Haßlau/City/Wilkau~Sachsen.md) 
+
+### [Wilkau~Sachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Wilkau-Haßlau/City/Wilkau~Sachsen.internal.md) 
+
+### [Wilkau~Sachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Wilkau-Haßlau/City/Wilkau~Sachsen.protect.md) 
+
+### [Wilkau~Sachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Wilkau-Haßlau/City/Wilkau~Sachsen.private.md) 
+
+### [Wilkau~Sachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Wilkau-Haßlau/City/Wilkau~Sachsen.personal.md) 
+
+### [Wilkau~Sachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Wilkau-Haßlau/City/Wilkau~Sachsen.secret.md) 

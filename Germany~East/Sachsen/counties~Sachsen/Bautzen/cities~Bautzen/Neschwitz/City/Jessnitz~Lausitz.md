@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Jessnitz~Lausitz|Jessnitz~Lausitz]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Jessnitz~Lausitz.public|Jessnitz~Lausitz.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Jessnitz~Lausitz.internal|Jessnitz~Lausitz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Jessnitz~Lausitz.protect|Jessnitz~Lausitz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Jessnitz~Lausitz.private|Jessnitz~Lausitz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Jessnitz~Lausitz.personal|Jessnitz~Lausitz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Jessnitz~Lausitz.secret|Jessnitz~Lausitz.secret]] 
+
+### [Jessnitz~Lausitz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neschwitz/City/Jessnitz~Lausitz.md) 
+
+### [Jessnitz~Lausitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neschwitz/City/Jessnitz~Lausitz.internal.md) 
+
+### [Jessnitz~Lausitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neschwitz/City/Jessnitz~Lausitz.protect.md) 
+
+### [Jessnitz~Lausitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neschwitz/City/Jessnitz~Lausitz.private.md) 
+
+### [Jessnitz~Lausitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neschwitz/City/Jessnitz~Lausitz.personal.md) 
+
+### [Jessnitz~Lausitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neschwitz/City/Jessnitz~Lausitz.secret.md) 

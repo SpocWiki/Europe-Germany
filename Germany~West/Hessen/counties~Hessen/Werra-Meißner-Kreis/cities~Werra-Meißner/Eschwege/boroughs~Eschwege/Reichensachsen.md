@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.17,10] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Reichensachsen|Reichensachsen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Reichensachsen.internal|Reichensachsen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Reichensachsen.protect|Reichensachsen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Reichensachsen.private|Reichensachsen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Reichensachsen.personal|Reichensachsen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Reichensachsen.secret|Reichensachsen.secret]] 
+
+### [Reichensachsen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Eschwege/boroughs~Eschwege/Reichensachsen.md) 
+
+### [Reichensachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Eschwege/boroughs~Eschwege/Reichensachsen.internal.md) 
+
+### [Reichensachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Eschwege/boroughs~Eschwege/Reichensachsen.protect.md) 
+
+### [Reichensachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Eschwege/boroughs~Eschwege/Reichensachsen.private.md) 
+
+### [Reichensachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Eschwege/boroughs~Eschwege/Reichensachsen.personal.md) 
+
+### [Reichensachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Eschwege/boroughs~Eschwege/Reichensachsen.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.15805,8.634167] 
 type: Station 
 mapzoom: [8,18] 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[U-Nordwestzentrum|U-Nordwestzentrum]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Nordwestzentrum.internal|U-Nordwestzentrum.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Nordwestzentrum.protect|U-Nordwestzentrum.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Nordwestzentrum.private|U-Nordwestzentrum.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Nordwestzentrum.personal|U-Nordwestzentrum.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Nordwestzentrum.secret|U-Nordwestzentrum.secret]] 
+
+### [U-Nordwestzentrum](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Nordwestzentrum.md) 
+
+### [U-Nordwestzentrum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Nordwestzentrum.internal.md) 
+
+### [U-Nordwestzentrum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Nordwestzentrum.protect.md) 
+
+### [U-Nordwestzentrum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Nordwestzentrum.private.md) 
+
+### [U-Nordwestzentrum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Nordwestzentrum.personal.md) 
+
+### [U-Nordwestzentrum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Nordwestzentrum.secret.md) 

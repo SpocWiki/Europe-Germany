@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Treuenbrietzen|Treuenbrietzen]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Treuenbrietzen.public|Treuenbrietzen.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Treuenbrietzen.internal|Treuenbrietzen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Treuenbrietzen.protect|Treuenbrietzen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Treuenbrietzen.private|Treuenbrietzen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Treuenbrietzen.personal|Treuenbrietzen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Treuenbrietzen.secret|Treuenbrietzen.secret]] 
+
+### [Treuenbrietzen-City](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Treuenbrietzen/boroughs~Treuenbrietzen/Treuenbrietzen-City.md) 
+
+### [Treuenbrietzen-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Treuenbrietzen/boroughs~Treuenbrietzen/Treuenbrietzen-City.internal.md) 
+
+### [Treuenbrietzen-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Treuenbrietzen/boroughs~Treuenbrietzen/Treuenbrietzen-City.protect.md) 
+
+### [Treuenbrietzen-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Treuenbrietzen/boroughs~Treuenbrietzen/Treuenbrietzen-City.private.md) 
+
+### [Treuenbrietzen-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Treuenbrietzen/boroughs~Treuenbrietzen/Treuenbrietzen-City.personal.md) 
+
+### [Treuenbrietzen-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Treuenbrietzen/boroughs~Treuenbrietzen/Treuenbrietzen-City.secret.md) 

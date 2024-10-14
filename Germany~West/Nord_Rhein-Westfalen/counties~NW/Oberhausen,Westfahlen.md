@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Oberhausen~Westfahlen|Oberhausen~Westfahlen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Oberhausen~Westfahlen.internal|Oberhausen~Westfahlen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Oberhausen~Westfahlen.protect|Oberhausen~Westfahlen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Oberhausen~Westfahlen.private|Oberhausen~Westfahlen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Oberhausen~Westfahlen.personal|Oberhausen~Westfahlen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Oberhausen~Westfahlen.secret|Oberhausen~Westfahlen.secret]] 
+
+### [Oberhausen,Westfahlen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Oberhausen,Westfahlen.md) 
+
+### [Oberhausen,Westfahlen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Oberhausen,Westfahlen.internal.md) 
+
+### [Oberhausen,Westfahlen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Oberhausen,Westfahlen.protect.md) 
+
+### [Oberhausen,Westfahlen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Oberhausen,Westfahlen.private.md) 
+
+### [Oberhausen,Westfahlen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Oberhausen,Westfahlen.personal.md) 
+
+### [Oberhausen,Westfahlen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Oberhausen,Westfahlen.secret.md) 

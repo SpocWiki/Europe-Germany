@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.43,9.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Vinnhorst|Vinnhorst]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vinnhorst.internal|Vinnhorst.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vinnhorst.protect|Vinnhorst.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vinnhorst.private|Vinnhorst.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vinnhorst.personal|Vinnhorst.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vinnhorst.secret|Vinnhorst.secret]] 
+
+### [Vinnhorst](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Vinnhorst.md) 
+
+### [Vinnhorst.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Vinnhorst.internal.md) 
+
+### [Vinnhorst.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Vinnhorst.protect.md) 
+
+### [Vinnhorst.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Vinnhorst.private.md) 
+
+### [Vinnhorst.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Vinnhorst.personal.md) 
+
+### [Vinnhorst.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Vinnhorst.secret.md) 

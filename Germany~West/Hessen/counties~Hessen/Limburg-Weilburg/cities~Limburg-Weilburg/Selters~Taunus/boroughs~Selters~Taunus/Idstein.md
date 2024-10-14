@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.37,8.28] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Idstein|Idstein]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Idstein.internal|Idstein.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Idstein.protect|Idstein.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Idstein.private|Idstein.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Idstein.personal|Idstein.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Idstein.secret|Idstein.secret]] 
+
+### [Idstein](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Selters~Taunus/boroughs~Selters~Taunus/Idstein.md) 
+
+### [Idstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Selters~Taunus/boroughs~Selters~Taunus/Idstein.internal.md) 
+
+### [Idstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Selters~Taunus/boroughs~Selters~Taunus/Idstein.protect.md) 
+
+### [Idstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Selters~Taunus/boroughs~Selters~Taunus/Idstein.private.md) 
+
+### [Idstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Selters~Taunus/boroughs~Selters~Taunus/Idstein.personal.md) 
+
+### [Idstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Selters~Taunus/boroughs~Selters~Taunus/Idstein.secret.md) 

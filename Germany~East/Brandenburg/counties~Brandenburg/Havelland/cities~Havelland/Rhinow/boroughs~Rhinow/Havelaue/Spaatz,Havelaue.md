@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Spaatz|Spaatz]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Spaatz.public|Spaatz.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Spaatz.internal|Spaatz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Spaatz.protect|Spaatz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Spaatz.private|Spaatz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Spaatz.personal|Spaatz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Spaatz.secret|Spaatz.secret]] 
+
+### [Spaatz,Havelaue](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rhinow/boroughs~Rhinow/Havelaue/Spaatz,Havelaue.md) 
+
+### [Spaatz,Havelaue.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rhinow/boroughs~Rhinow/Havelaue/Spaatz,Havelaue.internal.md) 
+
+### [Spaatz,Havelaue.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rhinow/boroughs~Rhinow/Havelaue/Spaatz,Havelaue.protect.md) 
+
+### [Spaatz,Havelaue.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rhinow/boroughs~Rhinow/Havelaue/Spaatz,Havelaue.private.md) 
+
+### [Spaatz,Havelaue.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rhinow/boroughs~Rhinow/Havelaue/Spaatz,Havelaue.personal.md) 
+
+### [Spaatz,Havelaue.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rhinow/boroughs~Rhinow/Havelaue/Spaatz,Havelaue.secret.md) 

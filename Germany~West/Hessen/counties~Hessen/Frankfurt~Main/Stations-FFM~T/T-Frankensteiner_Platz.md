@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.1069,8.692476] 
 type: Station 
 mapzoom: [8,18] 
@@ -32,9 +32,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[T-Frankensteiner_Platz|T-Frankensteiner_Platz]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankensteiner_Platz.internal|T-Frankensteiner_Platz.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankensteiner_Platz.protect|T-Frankensteiner_Platz.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankensteiner_Platz.private|T-Frankensteiner_Platz.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankensteiner_Platz.personal|T-Frankensteiner_Platz.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankensteiner_Platz.secret|T-Frankensteiner_Platz.secret]] 
+
+### [T-Frankensteiner_Platz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Frankensteiner_Platz.md) 
+
+### [T-Frankensteiner_Platz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Frankensteiner_Platz.internal.md) 
+
+### [T-Frankensteiner_Platz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Frankensteiner_Platz.protect.md) 
+
+### [T-Frankensteiner_Platz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Frankensteiner_Platz.private.md) 
+
+### [T-Frankensteiner_Platz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Frankensteiner_Platz.personal.md) 
+
+### [T-Frankensteiner_Platz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Frankensteiner_Platz.secret.md) 

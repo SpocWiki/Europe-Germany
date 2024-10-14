@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.93111,8.649722] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[S-Darmstadt-Wixhausen|S-Darmstadt-Wixhausen]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Darmstadt-Wixhausen.internal|S-Darmstadt-Wixhausen.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Darmstadt-Wixhausen.protect|S-Darmstadt-Wixhausen.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Darmstadt-Wixhausen.private|S-Darmstadt-Wixhausen.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Darmstadt-Wixhausen.personal|S-Darmstadt-Wixhausen.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Darmstadt-Wixhausen.secret|S-Darmstadt-Wixhausen.secret]] 
+
+### [S-Darmstadt-Wixhausen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Darmstadt-Wixhausen.md) 
+
+### [S-Darmstadt-Wixhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Darmstadt-Wixhausen.internal.md) 
+
+### [S-Darmstadt-Wixhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Darmstadt-Wixhausen.protect.md) 
+
+### [S-Darmstadt-Wixhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Darmstadt-Wixhausen.private.md) 
+
+### [S-Darmstadt-Wixhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Darmstadt-Wixhausen.personal.md) 
+
+### [S-Darmstadt-Wixhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Darmstadt-Wixhausen.secret.md) 

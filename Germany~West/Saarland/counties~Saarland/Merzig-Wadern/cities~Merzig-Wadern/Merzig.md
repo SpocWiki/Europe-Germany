@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Merzig|Merzig]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Merzig.internal|Merzig.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Merzig.protect|Merzig.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Merzig.private|Merzig.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Merzig.personal|Merzig.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Merzig.secret|Merzig.secret]] 
+
+### [Merzig](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Merzig.md) 
+
+### [Merzig.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Merzig.internal.md) 
+
+### [Merzig.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Merzig.protect.md) 
+
+### [Merzig.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Merzig.private.md) 
+
+### [Merzig.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Merzig.personal.md) 
+
+### [Merzig.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Merzig.secret.md) 

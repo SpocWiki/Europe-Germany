@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.7,10] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Katlenburg|Katlenburg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Katlenburg.internal|Katlenburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Katlenburg.protect|Katlenburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Katlenburg.private|Katlenburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Katlenburg.personal|Katlenburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Katlenburg.secret|Katlenburg.secret]] 
+
+### [Katlenburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Katlenburg-Lindau/boroughs~Katlenburg-Lindau/Katlenburg.md) 
+
+### [Katlenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Katlenburg-Lindau/boroughs~Katlenburg-Lindau/Katlenburg.internal.md) 
+
+### [Katlenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Katlenburg-Lindau/boroughs~Katlenburg-Lindau/Katlenburg.protect.md) 
+
+### [Katlenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Katlenburg-Lindau/boroughs~Katlenburg-Lindau/Katlenburg.private.md) 
+
+### [Katlenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Katlenburg-Lindau/boroughs~Katlenburg-Lindau/Katlenburg.personal.md) 
+
+### [Katlenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Katlenburg-Lindau/boroughs~Katlenburg-Lindau/Katlenburg.secret.md) 

@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Grambke|Grambke]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Bremen/City/Grambke.internal|Grambke.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Bremen/City/Grambke.protect|Grambke.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Bremen/City/Grambke.private|Grambke.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Bremen/City/Grambke.personal|Grambke.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Bremen/City/Grambke.secret|Grambke.secret]] 
+
+### [Grambke](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Grambke.md) 
+
+### [Grambke.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Grambke.internal.md) 
+
+### [Grambke.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Grambke.protect.md) 
+
+### [Grambke.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Grambke.private.md) 
+
+### [Grambke.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Grambke.personal.md) 
+
+### [Grambke.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Grambke.secret.md) 

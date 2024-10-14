@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.8,10.18] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Gittelde|Gittelde]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gittelde.internal|Gittelde.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gittelde.protect|Gittelde.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gittelde.private|Gittelde.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gittelde.personal|Gittelde.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gittelde.secret|Gittelde.secret]] 
+
+### [Gittelde](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Grund~Harz/boroughs~Bad_Grund~Harz/Gittelde.md) 
+
+### [Gittelde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Grund~Harz/boroughs~Bad_Grund~Harz/Gittelde.internal.md) 
+
+### [Gittelde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Grund~Harz/boroughs~Bad_Grund~Harz/Gittelde.protect.md) 
+
+### [Gittelde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Grund~Harz/boroughs~Bad_Grund~Harz/Gittelde.private.md) 
+
+### [Gittelde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Grund~Harz/boroughs~Bad_Grund~Harz/Gittelde.personal.md) 
+
+### [Gittelde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Grund~Harz/boroughs~Bad_Grund~Harz/Gittelde.secret.md) 

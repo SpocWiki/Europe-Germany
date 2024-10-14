@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.28,8.02] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Westerberg|Westerberg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westerberg.internal|Westerberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westerberg.protect|Westerberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westerberg.private|Westerberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westerberg.personal|Westerberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westerberg.secret|Westerberg.secret]] 
+
+### [Westerberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Osnabrück-City/boroughs~Osnabrück/Westerberg.md) 
+
+### [Westerberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Osnabrück-City/boroughs~Osnabrück/Westerberg.internal.md) 
+
+### [Westerberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Osnabrück-City/boroughs~Osnabrück/Westerberg.protect.md) 
+
+### [Westerberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Osnabrück-City/boroughs~Osnabrück/Westerberg.private.md) 
+
+### [Westerberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Osnabrück-City/boroughs~Osnabrück/Westerberg.personal.md) 
+
+### [Westerberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Osnabrück-City/boroughs~Osnabrück/Westerberg.secret.md) 

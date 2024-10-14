@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.28,8.04] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -35,9 +35,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Osnabrueck|Osnabrueck]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osnabrueck.internal|Osnabrueck.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osnabrueck.protect|Osnabrueck.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osnabrueck.private|Osnabrueck.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osnabrueck.personal|Osnabrueck.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osnabrueck.secret|Osnabrueck.secret]] 
+
+### [Osnabrück-City](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Osnabrück-City.md) 
+
+### [Osnabrück-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Osnabrück-City.internal.md) 
+
+### [Osnabrück-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Osnabrück-City.protect.md) 
+
+### [Osnabrück-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Osnabrück-City.private.md) 
+
+### [Osnabrück-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Osnabrück-City.personal.md) 
+
+### [Osnabrück-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Osnabrück-City.secret.md) 

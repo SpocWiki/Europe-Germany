@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schirgiswalde|Schirgiswalde]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schirgiswalde.public|Schirgiswalde.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schirgiswalde.internal|Schirgiswalde.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schirgiswalde.protect|Schirgiswalde.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schirgiswalde.private|Schirgiswalde.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schirgiswalde.personal|Schirgiswalde.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schirgiswalde.secret|Schirgiswalde.secret]] 
+
+### [Schirgiswalde](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Schirgiswalde-Kirschau/City/Schirgiswalde.md) 
+
+### [Schirgiswalde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Schirgiswalde-Kirschau/City/Schirgiswalde.internal.md) 
+
+### [Schirgiswalde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Schirgiswalde-Kirschau/City/Schirgiswalde.protect.md) 
+
+### [Schirgiswalde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Schirgiswalde-Kirschau/City/Schirgiswalde.private.md) 
+
+### [Schirgiswalde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Schirgiswalde-Kirschau/City/Schirgiswalde.personal.md) 
+
+### [Schirgiswalde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Schirgiswalde-Kirschau/City/Schirgiswalde.secret.md) 

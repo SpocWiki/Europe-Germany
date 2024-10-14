@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Hohlacker|Hohlacker]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohlacker.internal|Hohlacker.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohlacker.protect|Hohlacker.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohlacker.private|Hohlacker.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohlacker.personal|Hohlacker.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohlacker.secret|Hohlacker.secret]] 
+
+### [Hohlacker](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Viöl/boroughs~Viöl/Schwesing/Hohlacker.md) 
+
+### [Hohlacker.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Viöl/boroughs~Viöl/Schwesing/Hohlacker.internal.md) 
+
+### [Hohlacker.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Viöl/boroughs~Viöl/Schwesing/Hohlacker.protect.md) 
+
+### [Hohlacker.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Viöl/boroughs~Viöl/Schwesing/Hohlacker.private.md) 
+
+### [Hohlacker.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Viöl/boroughs~Viöl/Schwesing/Hohlacker.personal.md) 
+
+### [Hohlacker.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Viöl/boroughs~Viöl/Schwesing/Hohlacker.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.82,8.92] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Otterndorf|Otterndorf]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Otterndorf.internal|Otterndorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Otterndorf.protect|Otterndorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Otterndorf.private|Otterndorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Otterndorf.personal|Otterndorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Otterndorf.secret|Otterndorf.secret]] 
+
+### [Otterndorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Land_Hadeln/boroughs~Land_Hadeln/Otterndorf.md) 
+
+### [Otterndorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Land_Hadeln/boroughs~Land_Hadeln/Otterndorf.internal.md) 
+
+### [Otterndorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Land_Hadeln/boroughs~Land_Hadeln/Otterndorf.protect.md) 
+
+### [Otterndorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Land_Hadeln/boroughs~Land_Hadeln/Otterndorf.private.md) 
+
+### [Otterndorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Land_Hadeln/boroughs~Land_Hadeln/Otterndorf.personal.md) 
+
+### [Otterndorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Land_Hadeln/boroughs~Land_Hadeln/Otterndorf.secret.md) 

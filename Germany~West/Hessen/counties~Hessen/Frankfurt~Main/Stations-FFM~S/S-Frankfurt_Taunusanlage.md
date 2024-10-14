@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.11389,8.669723] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[S-Frankfurt_Taunusanlage|S-Frankfurt_Taunusanlage]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Taunusanlage.internal|S-Frankfurt_Taunusanlage.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Taunusanlage.protect|S-Frankfurt_Taunusanlage.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Taunusanlage.private|S-Frankfurt_Taunusanlage.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Taunusanlage.personal|S-Frankfurt_Taunusanlage.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Taunusanlage.secret|S-Frankfurt_Taunusanlage.secret]] 
+
+### [S-Frankfurt_Taunusanlage](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt_Taunusanlage.md) 
+
+### [S-Frankfurt_Taunusanlage.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt_Taunusanlage.internal.md) 
+
+### [S-Frankfurt_Taunusanlage.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt_Taunusanlage.protect.md) 
+
+### [S-Frankfurt_Taunusanlage.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt_Taunusanlage.private.md) 
+
+### [S-Frankfurt_Taunusanlage.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt_Taunusanlage.personal.md) 
+
+### [S-Frankfurt_Taunusanlage.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt_Taunusanlage.secret.md) 

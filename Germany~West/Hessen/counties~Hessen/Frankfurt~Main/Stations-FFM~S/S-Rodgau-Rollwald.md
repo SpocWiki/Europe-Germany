@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.98798,8.846545] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[S-Rodgau-Rollwald|S-Rodgau-Rollwald]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Rollwald.internal|S-Rodgau-Rollwald.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Rollwald.protect|S-Rodgau-Rollwald.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Rollwald.private|S-Rodgau-Rollwald.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Rollwald.personal|S-Rodgau-Rollwald.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Rollwald.secret|S-Rodgau-Rollwald.secret]] 
+
+### [S-Rodgau-Rollwald](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Rollwald.md) 
+
+### [S-Rodgau-Rollwald.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Rollwald.internal.md) 
+
+### [S-Rodgau-Rollwald.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Rollwald.protect.md) 
+
+### [S-Rodgau-Rollwald.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Rollwald.private.md) 
+
+### [S-Rodgau-Rollwald.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Rollwald.personal.md) 
+
+### [S-Rodgau-Rollwald.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Rollwald.secret.md) 

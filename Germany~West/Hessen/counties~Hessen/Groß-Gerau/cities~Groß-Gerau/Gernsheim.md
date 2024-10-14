@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.75,8.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Gernsheim|Gernsheim]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Gernsheim.internal|Gernsheim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Gernsheim.protect|Gernsheim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Gernsheim.private|Gernsheim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Gernsheim.personal|Gernsheim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Gernsheim.secret|Gernsheim.secret]] 
+
+### [Gernsheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Gernsheim.md) 
+
+### [Gernsheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Gernsheim.internal.md) 
+
+### [Gernsheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Gernsheim.protect.md) 
+
+### [Gernsheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Gernsheim.private.md) 
+
+### [Gernsheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Gernsheim.personal.md) 
+
+### [Gernsheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Gernsheim.secret.md) 

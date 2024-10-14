@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Hohnstorf|Hohnstorf]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hohnstorf.internal|Hohnstorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hohnstorf.protect|Hohnstorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hohnstorf.private|Hohnstorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hohnstorf.personal|Hohnstorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hohnstorf.secret|Hohnstorf.secret]] 
+
+### [Hohnstorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Scharnebeck/boroughs~Scharnebeck/Hohnstorf.md) 
+
+### [Hohnstorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Scharnebeck/boroughs~Scharnebeck/Hohnstorf.internal.md) 
+
+### [Hohnstorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Scharnebeck/boroughs~Scharnebeck/Hohnstorf.protect.md) 
+
+### [Hohnstorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Scharnebeck/boroughs~Scharnebeck/Hohnstorf.private.md) 
+
+### [Hohnstorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Scharnebeck/boroughs~Scharnebeck/Hohnstorf.personal.md) 
+
+### [Hohnstorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Scharnebeck/boroughs~Scharnebeck/Hohnstorf.secret.md) 

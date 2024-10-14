@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Ziegenrueck|Ziegenrueck]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Ziegenrueck.public|Ziegenrueck.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Ziegenrueck.internal|Ziegenrueck.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Ziegenrueck.protect|Ziegenrueck.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Ziegenrueck.private|Ziegenrueck.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Ziegenrueck.personal|Ziegenrueck.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Ziegenrueck.secret|Ziegenrueck.secret]] 
+
+### [Ziegenrueck](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Ranis-Ziegenrück/City/Ziegenrueck.md) 
+
+### [Ziegenrueck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Ranis-Ziegenrück/City/Ziegenrueck.internal.md) 
+
+### [Ziegenrueck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Ranis-Ziegenrück/City/Ziegenrueck.protect.md) 
+
+### [Ziegenrueck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Ranis-Ziegenrück/City/Ziegenrueck.private.md) 
+
+### [Ziegenrueck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Ranis-Ziegenrück/City/Ziegenrueck.personal.md) 
+
+### [Ziegenrueck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Ranis-Ziegenrück/City/Ziegenrueck.secret.md) 

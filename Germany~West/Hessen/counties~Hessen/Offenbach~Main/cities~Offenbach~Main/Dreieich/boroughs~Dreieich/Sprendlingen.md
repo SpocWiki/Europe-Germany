@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.03,8.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Sprendlingen|Sprendlingen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Sprendlingen.internal|Sprendlingen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Sprendlingen.protect|Sprendlingen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Sprendlingen.private|Sprendlingen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Sprendlingen.personal|Sprendlingen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Sprendlingen.secret|Sprendlingen.secret]] 
+
+### [Sprendlingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen.md) 
+
+### [Sprendlingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen.internal.md) 
+
+### [Sprendlingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen.protect.md) 
+
+### [Sprendlingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen.private.md) 
+
+### [Sprendlingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen.personal.md) 
+
+### [Sprendlingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen.secret.md) 

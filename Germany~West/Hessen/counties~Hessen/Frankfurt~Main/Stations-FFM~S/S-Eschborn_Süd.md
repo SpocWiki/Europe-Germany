@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.13356,8.578487] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[S-Eschborn_Süd|S-Eschborn_Süd]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Eschborn_Süd.internal|S-Eschborn_Süd.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Eschborn_Süd.protect|S-Eschborn_Süd.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Eschborn_Süd.private|S-Eschborn_Süd.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Eschborn_Süd.personal|S-Eschborn_Süd.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Eschborn_Süd.secret|S-Eschborn_Süd.secret]] 
+
+### [S-Eschborn_Süd](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Eschborn_Süd.md) 
+
+### [S-Eschborn_Süd.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Eschborn_Süd.internal.md) 
+
+### [S-Eschborn_Süd.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Eschborn_Süd.protect.md) 
+
+### [S-Eschborn_Süd.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Eschborn_Süd.private.md) 
+
+### [S-Eschborn_Süd.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Eschborn_Süd.personal.md) 
+
+### [S-Eschborn_Süd.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Eschborn_Süd.secret.md) 

@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Leubsdorf~Sachsen|Leubsdorf~Sachsen]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Leubsdorf~Sachsen.public|Leubsdorf~Sachsen.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Leubsdorf~Sachsen.internal|Leubsdorf~Sachsen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Leubsdorf~Sachsen.protect|Leubsdorf~Sachsen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Leubsdorf~Sachsen.private|Leubsdorf~Sachsen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Leubsdorf~Sachsen.personal|Leubsdorf~Sachsen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Leubsdorf~Sachsen.secret|Leubsdorf~Sachsen.secret]] 
+
+### [Leubsdorf~Sachsen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Leubsdorf/City/Leubsdorf~Sachsen.md) 
+
+### [Leubsdorf~Sachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Leubsdorf/City/Leubsdorf~Sachsen.internal.md) 
+
+### [Leubsdorf~Sachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Leubsdorf/City/Leubsdorf~Sachsen.protect.md) 
+
+### [Leubsdorf~Sachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Leubsdorf/City/Leubsdorf~Sachsen.private.md) 
+
+### [Leubsdorf~Sachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Leubsdorf/City/Leubsdorf~Sachsen.personal.md) 
+
+### [Leubsdorf~Sachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Leubsdorf/City/Leubsdorf~Sachsen.secret.md) 

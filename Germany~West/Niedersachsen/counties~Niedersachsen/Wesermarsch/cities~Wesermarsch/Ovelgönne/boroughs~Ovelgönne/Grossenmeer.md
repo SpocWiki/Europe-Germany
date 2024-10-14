@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.27,8.3] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Grossenmeer|Grossenmeer]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Grossenmeer.internal|Grossenmeer.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Grossenmeer.protect|Grossenmeer.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Grossenmeer.private|Grossenmeer.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Grossenmeer.personal|Grossenmeer.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Grossenmeer.secret|Grossenmeer.secret]] 
+
+### [Grossenmeer](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Ovelgönne/boroughs~Ovelgönne/Grossenmeer.md) 
+
+### [Grossenmeer.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Ovelgönne/boroughs~Ovelgönne/Grossenmeer.internal.md) 
+
+### [Grossenmeer.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Ovelgönne/boroughs~Ovelgönne/Grossenmeer.protect.md) 
+
+### [Grossenmeer.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Ovelgönne/boroughs~Ovelgönne/Grossenmeer.private.md) 
+
+### [Grossenmeer.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Ovelgönne/boroughs~Ovelgönne/Grossenmeer.personal.md) 
+
+### [Grossenmeer.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Ovelgönne/boroughs~Ovelgönne/Grossenmeer.secret.md) 

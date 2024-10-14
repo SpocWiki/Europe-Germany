@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.1175,8.679306] 
 type: Station 
 mapzoom: [8,18] 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[U-Eschenheimer_Tor|U-Eschenheimer_Tor]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eschenheimer_Tor.internal|U-Eschenheimer_Tor.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eschenheimer_Tor.protect|U-Eschenheimer_Tor.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eschenheimer_Tor.private|U-Eschenheimer_Tor.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eschenheimer_Tor.personal|U-Eschenheimer_Tor.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Eschenheimer_Tor.secret|U-Eschenheimer_Tor.secret]] 
+
+### [U-Eschenheimer_Tor](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Eschenheimer_Tor.md) 
+
+### [U-Eschenheimer_Tor.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Eschenheimer_Tor.internal.md) 
+
+### [U-Eschenheimer_Tor.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Eschenheimer_Tor.protect.md) 
+
+### [U-Eschenheimer_Tor.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Eschenheimer_Tor.private.md) 
+
+### [U-Eschenheimer_Tor.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Eschenheimer_Tor.personal.md) 
+
+### [U-Eschenheimer_Tor.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Eschenheimer_Tor.secret.md) 

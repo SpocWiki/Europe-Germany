@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Selbelang|Selbelang]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Selbelang.public|Selbelang.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Selbelang.internal|Selbelang.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Selbelang.protect|Selbelang.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Selbelang.private|Selbelang.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Selbelang.personal|Selbelang.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Selbelang.secret|Selbelang.secret]] 
+
+### [Selbelang](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Paulinenaue/Selbelang.md) 
+
+### [Selbelang.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Paulinenaue/Selbelang.internal.md) 
+
+### [Selbelang.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Paulinenaue/Selbelang.protect.md) 
+
+### [Selbelang.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Paulinenaue/Selbelang.private.md) 
+
+### [Selbelang.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Paulinenaue/Selbelang.personal.md) 
+
+### [Selbelang.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Paulinenaue/Selbelang.secret.md) 

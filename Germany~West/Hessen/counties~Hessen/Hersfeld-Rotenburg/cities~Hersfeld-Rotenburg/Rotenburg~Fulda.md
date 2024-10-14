@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.98,9.73] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Rotenburg~Fulda|Rotenburg~Fulda]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.internal|Rotenburg~Fulda.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.protect|Rotenburg~Fulda.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.private|Rotenburg~Fulda.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.personal|Rotenburg~Fulda.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.secret|Rotenburg~Fulda.secret]] 
+
+### [Rotenburg~Fulda](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Rotenburg~Fulda.md) 
+
+### [Rotenburg~Fulda.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Rotenburg~Fulda.internal.md) 
+
+### [Rotenburg~Fulda.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Rotenburg~Fulda.protect.md) 
+
+### [Rotenburg~Fulda.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Rotenburg~Fulda.private.md) 
+
+### [Rotenburg~Fulda.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Rotenburg~Fulda.personal.md) 
+
+### [Rotenburg~Fulda.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Rotenburg~Fulda.secret.md) 

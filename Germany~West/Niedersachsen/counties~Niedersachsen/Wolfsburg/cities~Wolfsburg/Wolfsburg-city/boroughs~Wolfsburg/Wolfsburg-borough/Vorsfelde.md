@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.43,10.85] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Vorsfelde|Vorsfelde]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vorsfelde.internal|Vorsfelde.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vorsfelde.protect|Vorsfelde.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vorsfelde.private|Vorsfelde.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vorsfelde.personal|Vorsfelde.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vorsfelde.secret|Vorsfelde.secret]] 
+
+### [Vorsfelde](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Vorsfelde.md) 
+
+### [Vorsfelde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Vorsfelde.internal.md) 
+
+### [Vorsfelde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Vorsfelde.protect.md) 
+
+### [Vorsfelde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Vorsfelde.private.md) 
+
+### [Vorsfelde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Vorsfelde.personal.md) 
+
+### [Vorsfelde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Vorsfelde.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - 52.27
   - 9.03
@@ -36,9 +36,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Bückeburg|Bueckeburg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bueckeburg.internal|Bueckeburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bueckeburg.protect|Bueckeburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bueckeburg.private|Bueckeburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bueckeburg.personal|Bueckeburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bueckeburg.secret|Bueckeburg.secret]] 
+
+### [Bückeburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Bückeburg/boroughs~Bückeburg/Bückeburg.md) 
+
+### [Bückeburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Bückeburg/boroughs~Bückeburg/Bückeburg.internal.md) 
+
+### [Bückeburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Bückeburg/boroughs~Bückeburg/Bückeburg.protect.md) 
+
+### [Bückeburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Bückeburg/boroughs~Bückeburg/Bückeburg.private.md) 
+
+### [Bückeburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Bückeburg/boroughs~Bückeburg/Bückeburg.personal.md) 
+
+### [Bückeburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Bückeburg/boroughs~Bückeburg/Bückeburg.secret.md) 

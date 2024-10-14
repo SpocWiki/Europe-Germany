@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.53,8.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Geestemuende|Geestemuende]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Geestemuende.internal|Geestemuende.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Geestemuende.protect|Geestemuende.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Geestemuende.private|Geestemuende.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Geestemuende.personal|Geestemuende.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Geestemuende.secret|Geestemuende.secret]] 
+
+### [Geestemünde](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde.md) 
+
+### [Geestemünde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde.internal.md) 
+
+### [Geestemünde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde.protect.md) 
+
+### [Geestemünde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde.private.md) 
+
+### [Geestemünde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde.personal.md) 
+
+### [Geestemünde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde.secret.md) 

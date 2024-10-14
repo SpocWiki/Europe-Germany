@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.13581,8.696754] 
 type: Station 
 mapzoom: [8,18] 
@@ -32,9 +32,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[T-Wasserpark|T-Wasserpark]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Wasserpark.internal|T-Wasserpark.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Wasserpark.protect|T-Wasserpark.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Wasserpark.private|T-Wasserpark.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Wasserpark.personal|T-Wasserpark.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Wasserpark.secret|T-Wasserpark.secret]] 
+
+### [T-Wasserpark](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Wasserpark.md) 
+
+### [T-Wasserpark.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Wasserpark.internal.md) 
+
+### [T-Wasserpark.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Wasserpark.protect.md) 
+
+### [T-Wasserpark.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Wasserpark.private.md) 
+
+### [T-Wasserpark.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Wasserpark.personal.md) 
+
+### [T-Wasserpark.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Wasserpark.secret.md) 

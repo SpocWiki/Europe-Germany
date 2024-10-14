@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.3,9.65] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Weetzen|Weetzen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Weetzen.internal|Weetzen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Weetzen.protect|Weetzen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Weetzen.private|Weetzen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Weetzen.personal|Weetzen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Weetzen.secret|Weetzen.secret]] 
+
+### [Weetzen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.md) 
+
+### [Weetzen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.internal.md) 
+
+### [Weetzen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.protect.md) 
+
+### [Weetzen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.private.md) 
+
+### [Weetzen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.personal.md) 
+
+### [Weetzen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.secret.md) 

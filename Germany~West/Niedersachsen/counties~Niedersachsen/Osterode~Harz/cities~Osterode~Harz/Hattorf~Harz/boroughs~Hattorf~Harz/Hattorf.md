@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.65,10.25] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Hattorf|Hattorf]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hattorf.internal|Hattorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hattorf.protect|Hattorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hattorf.private|Hattorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hattorf.personal|Hattorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hattorf.secret|Hattorf.secret]] 
+
+### [Hattorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Hattorf~Harz/boroughs~Hattorf~Harz/Hattorf.md) 
+
+### [Hattorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Hattorf~Harz/boroughs~Hattorf~Harz/Hattorf.internal.md) 
+
+### [Hattorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Hattorf~Harz/boroughs~Hattorf~Harz/Hattorf.protect.md) 
+
+### [Hattorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Hattorf~Harz/boroughs~Hattorf~Harz/Hattorf.private.md) 
+
+### [Hattorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Hattorf~Harz/boroughs~Hattorf~Harz/Hattorf.personal.md) 
+
+### [Hattorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Hattorf~Harz/boroughs~Hattorf~Harz/Hattorf.secret.md) 

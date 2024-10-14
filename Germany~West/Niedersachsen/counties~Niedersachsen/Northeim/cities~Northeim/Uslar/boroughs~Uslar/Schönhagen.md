@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.68,9.62] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Schoenhagen|Schoenhagen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoenhagen.internal|Schoenhagen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoenhagen.protect|Schoenhagen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoenhagen.private|Schoenhagen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoenhagen.personal|Schoenhagen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoenhagen.secret|Schoenhagen.secret]] 
+
+### [Schönhagen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Uslar/boroughs~Uslar/Schönhagen.md) 
+
+### [Schönhagen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Uslar/boroughs~Uslar/Schönhagen.internal.md) 
+
+### [Schönhagen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Uslar/boroughs~Uslar/Schönhagen.protect.md) 
+
+### [Schönhagen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Uslar/boroughs~Uslar/Schönhagen.private.md) 
+
+### [Schönhagen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Uslar/boroughs~Uslar/Schönhagen.personal.md) 
+
+### [Schönhagen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Uslar/boroughs~Uslar/Schönhagen.secret.md) 

@@ -35,9 +35,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Barmen,Wuppertal|Barmen,Wuppertal]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Barmen,Wuppertal.internal|Barmen,Wuppertal.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Barmen,Wuppertal.protect|Barmen,Wuppertal.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Barmen,Wuppertal.private|Barmen,Wuppertal.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Barmen,Wuppertal.personal|Barmen,Wuppertal.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Barmen,Wuppertal.secret|Barmen,Wuppertal.secret]] 
+
+### [Barmen,Wuppertal](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Barmen,Wuppertal.md) 
+
+### [Barmen,Wuppertal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Barmen,Wuppertal.internal.md) 
+
+### [Barmen,Wuppertal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Barmen,Wuppertal.protect.md) 
+
+### [Barmen,Wuppertal.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Barmen,Wuppertal.private.md) 
+
+### [Barmen,Wuppertal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Barmen,Wuppertal.personal.md) 
+
+### [Barmen,Wuppertal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Barmen,Wuppertal.secret.md) 

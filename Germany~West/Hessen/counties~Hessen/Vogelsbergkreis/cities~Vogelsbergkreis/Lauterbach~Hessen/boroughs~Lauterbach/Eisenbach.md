@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.6,9.38] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Eisenbach|Eisenbach]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Eisenbach.internal|Eisenbach.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Eisenbach.protect|Eisenbach.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Eisenbach.private|Eisenbach.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Eisenbach.personal|Eisenbach.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Eisenbach.secret|Eisenbach.secret]] 
+
+### [Eisenbach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Eisenbach.md) 
+
+### [Eisenbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Eisenbach.internal.md) 
+
+### [Eisenbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Eisenbach.protect.md) 
+
+### [Eisenbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Eisenbach.private.md) 
+
+### [Eisenbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Eisenbach.personal.md) 
+
+### [Eisenbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Eisenbach.secret.md) 

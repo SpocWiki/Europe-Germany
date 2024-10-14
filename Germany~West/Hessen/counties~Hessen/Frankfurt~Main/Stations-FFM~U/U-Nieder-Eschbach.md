@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.19913,8.670487] 
 type: Station 
 mapzoom: [8,18] 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[U-Nieder-Eschbach|U-Nieder-Eschbach]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Nieder-Eschbach.internal|U-Nieder-Eschbach.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Nieder-Eschbach.protect|U-Nieder-Eschbach.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Nieder-Eschbach.private|U-Nieder-Eschbach.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Nieder-Eschbach.personal|U-Nieder-Eschbach.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Nieder-Eschbach.secret|U-Nieder-Eschbach.secret]] 
+
+### [U-Nieder-Eschbach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Nieder-Eschbach.md) 
+
+### [U-Nieder-Eschbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Nieder-Eschbach.internal.md) 
+
+### [U-Nieder-Eschbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Nieder-Eschbach.protect.md) 
+
+### [U-Nieder-Eschbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Nieder-Eschbach.private.md) 
+
+### [U-Nieder-Eschbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Nieder-Eschbach.personal.md) 
+
+### [U-Nieder-Eschbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Nieder-Eschbach.secret.md) 

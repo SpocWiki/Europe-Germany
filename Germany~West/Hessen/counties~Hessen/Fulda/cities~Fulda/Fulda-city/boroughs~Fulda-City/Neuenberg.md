@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Neuenberg|Neuenberg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Neuenberg.internal|Neuenberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Neuenberg.protect|Neuenberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Neuenberg.private|Neuenberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Neuenberg.personal|Neuenberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Neuenberg.secret|Neuenberg.secret]] 
+
+### [Neuenberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Fulda-city/boroughs~Fulda-City/Neuenberg.md) 
+
+### [Neuenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Fulda-city/boroughs~Fulda-City/Neuenberg.internal.md) 
+
+### [Neuenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Fulda-city/boroughs~Fulda-City/Neuenberg.protect.md) 
+
+### [Neuenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Fulda-city/boroughs~Fulda-City/Neuenberg.private.md) 
+
+### [Neuenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Fulda-city/boroughs~Fulda-City/Neuenberg.personal.md) 
+
+### [Neuenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Fulda-city/boroughs~Fulda-City/Neuenberg.secret.md) 

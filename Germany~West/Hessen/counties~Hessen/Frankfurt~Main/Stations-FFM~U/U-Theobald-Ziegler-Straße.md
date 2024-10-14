@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.14792,8.690057] 
 type: Station 
 mapzoom: [8,18] 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[U-Theobald-Ziegler-Straße|U-Theobald-Ziegler-Straße]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Theobald-Ziegler-Straße.internal|U-Theobald-Ziegler-Straße.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Theobald-Ziegler-Straße.protect|U-Theobald-Ziegler-Straße.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Theobald-Ziegler-Straße.private|U-Theobald-Ziegler-Straße.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Theobald-Ziegler-Straße.personal|U-Theobald-Ziegler-Straße.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Theobald-Ziegler-Straße.secret|U-Theobald-Ziegler-Straße.secret]] 
+
+### [U-Theobald-Ziegler-Straße](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Theobald-Ziegler-Straße.md) 
+
+### [U-Theobald-Ziegler-Straße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Theobald-Ziegler-Straße.internal.md) 
+
+### [U-Theobald-Ziegler-Straße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Theobald-Ziegler-Straße.protect.md) 
+
+### [U-Theobald-Ziegler-Straße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Theobald-Ziegler-Straße.private.md) 
+
+### [U-Theobald-Ziegler-Straße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Theobald-Ziegler-Straße.personal.md) 
+
+### [U-Theobald-Ziegler-Straße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Theobald-Ziegler-Straße.secret.md) 

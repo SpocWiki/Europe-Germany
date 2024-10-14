@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Hohensolms|Hohensolms]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Hohensolms.internal|Hohensolms.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Hohensolms.protect|Hohensolms.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Hohensolms.private|Hohensolms.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Hohensolms.personal|Hohensolms.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Hohensolms.secret|Hohensolms.secret]] 
+
+### [Hohensolms](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Hohenahr/boroughs~Hohenahr/Hohensolms.md) 
+
+### [Hohensolms.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Hohenahr/boroughs~Hohenahr/Hohensolms.internal.md) 
+
+### [Hohensolms.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Hohenahr/boroughs~Hohenahr/Hohensolms.protect.md) 
+
+### [Hohensolms.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Hohenahr/boroughs~Hohenahr/Hohensolms.private.md) 
+
+### [Hohensolms.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Hohenahr/boroughs~Hohenahr/Hohensolms.personal.md) 
+
+### [Hohensolms.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Hohenahr/boroughs~Hohenahr/Hohensolms.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 has_id_wikidata: Q1209
 location: [53.08,8.81] 
 mapzoom: [7,12] 
@@ -120,9 +120,15 @@ Im Schnoor-Viertel reihen sich in engen Gassen kleine, bunte Häuser und Geschä
 wie Perlen an einer Schnur auf. 
 
 ## Confidential Links & Embeds: 
-- [[Bremen|Bremen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Bremen/City/Bremen.internal|Bremen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Bremen/City/Bremen.protect|Bremen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Bremen/City/Bremen.private|Bremen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Bremen/City/Bremen.personal|Bremen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Bremen/City/Bremen.secret|Bremen.secret]] 
+
+### [Bremen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremen.md) 
+
+### [Bremen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremen.internal.md) 
+
+### [Bremen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremen.protect.md) 
+
+### [Bremen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremen.private.md) 
+
+### [Bremen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremen.personal.md) 
+
+### [Bremen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremen.secret.md) 

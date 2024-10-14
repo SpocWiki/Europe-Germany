@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.19919,8.587596] 
 type: Station 
 mapzoom: [8,18] 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[U-Oberursel_Bahnhof|U-Oberursel_Bahnhof]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Oberursel_Bahnhof.internal|U-Oberursel_Bahnhof.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Oberursel_Bahnhof.protect|U-Oberursel_Bahnhof.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Oberursel_Bahnhof.private|U-Oberursel_Bahnhof.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Oberursel_Bahnhof.personal|U-Oberursel_Bahnhof.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Oberursel_Bahnhof.secret|U-Oberursel_Bahnhof.secret]] 
+
+### [U-Oberursel_Bahnhof](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Oberursel_Bahnhof.md) 
+
+### [U-Oberursel_Bahnhof.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Oberursel_Bahnhof.internal.md) 
+
+### [U-Oberursel_Bahnhof.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Oberursel_Bahnhof.protect.md) 
+
+### [U-Oberursel_Bahnhof.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Oberursel_Bahnhof.private.md) 
+
+### [U-Oberursel_Bahnhof.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Oberursel_Bahnhof.personal.md) 
+
+### [U-Oberursel_Bahnhof.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Oberursel_Bahnhof.secret.md) 

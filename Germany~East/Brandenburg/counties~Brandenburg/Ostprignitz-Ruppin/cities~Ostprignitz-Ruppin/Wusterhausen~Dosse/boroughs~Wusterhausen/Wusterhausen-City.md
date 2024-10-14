@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wusterhausen|Wusterhausen]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wusterhausen.public|Wusterhausen.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wusterhausen.internal|Wusterhausen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wusterhausen.protect|Wusterhausen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wusterhausen.private|Wusterhausen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wusterhausen.personal|Wusterhausen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wusterhausen.secret|Wusterhausen.secret]] 
+
+### [Wusterhausen-City](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wusterhausen~Dosse/boroughs~Wusterhausen/Wusterhausen-City.md) 
+
+### [Wusterhausen-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wusterhausen~Dosse/boroughs~Wusterhausen/Wusterhausen-City.internal.md) 
+
+### [Wusterhausen-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wusterhausen~Dosse/boroughs~Wusterhausen/Wusterhausen-City.protect.md) 
+
+### [Wusterhausen-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wusterhausen~Dosse/boroughs~Wusterhausen/Wusterhausen-City.private.md) 
+
+### [Wusterhausen-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wusterhausen~Dosse/boroughs~Wusterhausen/Wusterhausen-City.personal.md) 
+
+### [Wusterhausen-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wusterhausen~Dosse/boroughs~Wusterhausen/Wusterhausen-City.secret.md) 

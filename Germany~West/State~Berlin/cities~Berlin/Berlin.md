@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.5,13.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -166,7 +166,7 @@ enclave within: "[[_Standards/WikiData/WD~Brandenburg]]"
 shares border with: "[[_Standards/WikiData/WD~Brandenburg]]"
 twinned administrative body: "[[_Standards/WikiData/WD~Kyiv]]"
 continent: "[[_Standards/WikiData/WD~Europe]]"
-capital of: "[[../geo/Continent/Europe/Europe~Central/Germany]]"
+capital of: "[[../Earth/Continent/Europe/Europe~Central/Germany]]"
 country: "[[_Standards/WikiData/WD~Germany]]"
 located in the administrative territorial entity: "[[_Standards/WikiData/WD~Germany]]"
 official language: "[[_Standards/WikiData/WD~German]]"
@@ -285,9 +285,15 @@ Museumsinsel Berlin ([[Unesco]] Welterbe seit 1999)
 Siedlungen der Berliner Moderne ([[Unesco]] Welterbe seit 2008) 
 
 ## Confidential Links & Embeds: 
-- [[Berlin|Berlin]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin/City/Berlin.internal|Berlin.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin/City/Berlin.protect|Berlin.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin/City/Berlin.private|Berlin.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Berlin/City/Berlin.personal|Berlin.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Berlin/City/Berlin.secret|Berlin.secret]] 
+
+### [Berlin](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Berlin.md) 
+
+### [Berlin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Berlin.internal.md) 
+
+### [Berlin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Berlin.protect.md) 
+
+### [Berlin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Berlin.private.md) 
+
+### [Berlin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Berlin.personal.md) 
+
+### [Berlin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Berlin.secret.md) 

@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Steffenshagen|Steffenshagen]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Steffenshagen.public|Steffenshagen.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Steffenshagen.internal|Steffenshagen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Steffenshagen.protect|Steffenshagen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Steffenshagen.private|Steffenshagen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Steffenshagen.personal|Steffenshagen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Steffenshagen.secret|Steffenshagen.secret]] 
+
+### [Steffenshagen,Wackerow](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Landhagen/boroughs~Landhagen/Wackerow/Steffenshagen,Wackerow.md) 
+
+### [Steffenshagen,Wackerow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Landhagen/boroughs~Landhagen/Wackerow/Steffenshagen,Wackerow.internal.md) 
+
+### [Steffenshagen,Wackerow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Landhagen/boroughs~Landhagen/Wackerow/Steffenshagen,Wackerow.protect.md) 
+
+### [Steffenshagen,Wackerow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Landhagen/boroughs~Landhagen/Wackerow/Steffenshagen,Wackerow.private.md) 
+
+### [Steffenshagen,Wackerow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Landhagen/boroughs~Landhagen/Wackerow/Steffenshagen,Wackerow.personal.md) 
+
+### [Steffenshagen,Wackerow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Landhagen/boroughs~Landhagen/Wackerow/Steffenshagen,Wackerow.secret.md) 

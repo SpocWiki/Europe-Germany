@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.9,8.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Ahlhorn|Ahlhorn]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ahlhorn.internal|Ahlhorn.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ahlhorn.protect|Ahlhorn.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ahlhorn.private|Ahlhorn.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ahlhorn.personal|Ahlhorn.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ahlhorn.secret|Ahlhorn.secret]] 
+
+### [Ahlhorn](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Großenkneten/boroughs~Großenkneten/Ahlhorn.md) 
+
+### [Ahlhorn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Großenkneten/boroughs~Großenkneten/Ahlhorn.internal.md) 
+
+### [Ahlhorn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Großenkneten/boroughs~Großenkneten/Ahlhorn.protect.md) 
+
+### [Ahlhorn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Großenkneten/boroughs~Großenkneten/Ahlhorn.private.md) 
+
+### [Ahlhorn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Großenkneten/boroughs~Großenkneten/Ahlhorn.personal.md) 
+
+### [Ahlhorn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Großenkneten/boroughs~Großenkneten/Ahlhorn.secret.md) 

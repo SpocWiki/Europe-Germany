@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - 52.25
   - 10.82
@@ -36,9 +36,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Königslutter|Koenigslutter]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Koenigslutter.internal|Koenigslutter.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Koenigslutter.protect|Koenigslutter.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Koenigslutter.private|Koenigslutter.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Koenigslutter.personal|Koenigslutter.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Koenigslutter.secret|Koenigslutter.secret]] 
+
+### [Königslutter](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Königslutter~Elm/boroughs~Königslutter~Elm/Königslutter.md) 
+
+### [Königslutter.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Königslutter~Elm/boroughs~Königslutter~Elm/Königslutter.internal.md) 
+
+### [Königslutter.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Königslutter~Elm/boroughs~Königslutter~Elm/Königslutter.protect.md) 
+
+### [Königslutter.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Königslutter~Elm/boroughs~Königslutter~Elm/Königslutter.private.md) 
+
+### [Königslutter.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Königslutter~Elm/boroughs~Königslutter~Elm/Königslutter.personal.md) 
+
+### [Königslutter.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Königslutter~Elm/boroughs~Königslutter~Elm/Königslutter.secret.md) 

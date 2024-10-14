@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - 51.78
   - 9.38
@@ -42,9 +42,15 @@ maxZoom: 18
 Karolingisches Westwerk und Civitas Corvey (2014) 
 
 ## Confidential Links & Embeds: 
-- [[Höxter|Höxter]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Höxter.internal|Höxter.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Höxter.protect|Höxter.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Höxter.private|Höxter.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Höxter.personal|Höxter.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Höxter.secret|Höxter.secret]] 
+
+### [Höxter-city](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Höxter/cities~Höxter/Höxter-city.md) 
+
+### [Höxter-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Höxter/cities~Höxter/Höxter-city.internal.md) 
+
+### [Höxter-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Höxter/cities~Höxter/Höxter-city.protect.md) 
+
+### [Höxter-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Höxter/cities~Höxter/Höxter-city.private.md) 
+
+### [Höxter-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Höxter/cities~Höxter/Höxter-city.personal.md) 
+
+### [Höxter-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Höxter/cities~Höxter/Höxter-city.secret.md) 

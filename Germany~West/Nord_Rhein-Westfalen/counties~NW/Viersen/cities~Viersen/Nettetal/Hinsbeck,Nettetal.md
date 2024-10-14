@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Hinsbeck|Hinsbeck]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hinsbeck.internal|Hinsbeck.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hinsbeck.protect|Hinsbeck.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hinsbeck.private|Hinsbeck.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hinsbeck.personal|Hinsbeck.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hinsbeck.secret|Hinsbeck.secret]] 
+
+### [Hinsbeck,Nettetal](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal.md) 
+
+### [Hinsbeck,Nettetal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal.internal.md) 
+
+### [Hinsbeck,Nettetal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal.protect.md) 
+
+### [Hinsbeck,Nettetal.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal.private.md) 
+
+### [Hinsbeck,Nettetal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal.personal.md) 
+
+### [Hinsbeck,Nettetal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal.secret.md) 

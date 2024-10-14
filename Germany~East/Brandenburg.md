@@ -1,4 +1,4 @@
----
+﻿---
 has_id_wikidata: Q1208
 phone number: +49-331-8660
 location: [52.3844,13.3801] 
@@ -156,10 +156,15 @@ Capital :: [[Potsdam]] ]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Brandenburg|Brandenburg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg.public|Brandenburg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg.internal|Brandenburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg.protect|Brandenburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg.private|Brandenburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg.personal|Brandenburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg.secret|Brandenburg.secret]] 
+
+### [Brandenburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg.md) 
+
+### [Brandenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg.internal.md) 
+
+### [Brandenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg.protect.md) 
+
+### [Brandenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg.private.md) 
+
+### [Brandenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg.personal.md) 
+
+### [Brandenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.8699,10.1207] 
 type: Country
 title: Deutschland (Germany)
@@ -82,10 +82,15 @@ has_place_continent:: [[Europe]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Germany/Germany~West|Germany~West]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~Central/Germany/Germany~West.public|Germany~West.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~Central/Germany/Germany~East.internal|Germany~West.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~Central/Germany/Germany~West.protect|Germany~West.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~Central/Germany/Germany~West.private|Germany~West.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~Central/Germany/Germany~West.personal|Germany~West.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Germany/Germany~West.secret|Germany~West.secret]] 
+
+### [Germany~West](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West.md) 
+
+### [Germany~West.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West.internal.md) 
+
+### [Germany~West.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West.protect.md) 
+
+### [Germany~West.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West.private.md) 
+
+### [Germany~West.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West.personal.md) 
+
+### [Germany~West.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West.secret.md) 

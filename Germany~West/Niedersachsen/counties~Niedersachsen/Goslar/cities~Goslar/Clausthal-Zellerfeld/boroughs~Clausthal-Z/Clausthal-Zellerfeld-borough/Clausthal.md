@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.8,10.33] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Clausthal|Clausthal]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Clausthal.internal|Clausthal.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Clausthal.protect|Clausthal.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Clausthal.private|Clausthal.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Clausthal.personal|Clausthal.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Clausthal.secret|Clausthal.secret]] 
+
+### [Clausthal](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Clausthal-Zellerfeld/boroughs~Clausthal-Z/Clausthal-Zellerfeld-borough/Clausthal.md) 
+
+### [Clausthal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Clausthal-Zellerfeld/boroughs~Clausthal-Z/Clausthal-Zellerfeld-borough/Clausthal.internal.md) 
+
+### [Clausthal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Clausthal-Zellerfeld/boroughs~Clausthal-Z/Clausthal-Zellerfeld-borough/Clausthal.protect.md) 
+
+### [Clausthal.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Clausthal-Zellerfeld/boroughs~Clausthal-Z/Clausthal-Zellerfeld-borough/Clausthal.private.md) 
+
+### [Clausthal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Clausthal-Zellerfeld/boroughs~Clausthal-Z/Clausthal-Zellerfeld-borough/Clausthal.personal.md) 
+
+### [Clausthal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Clausthal-Zellerfeld/boroughs~Clausthal-Z/Clausthal-Zellerfeld-borough/Clausthal.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.25,8.88] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Dorf-Itter|Dorf-Itter]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Dorf-Itter.internal|Dorf-Itter.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Dorf-Itter.protect|Dorf-Itter.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Dorf-Itter.private|Dorf-Itter.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Dorf-Itter.personal|Dorf-Itter.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Dorf-Itter.secret|Dorf-Itter.secret]] 
+
+### [Dorf-Itter](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Korbach/boroughs~Korbach/Dorf-Itter.md) 
+
+### [Dorf-Itter.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Korbach/boroughs~Korbach/Dorf-Itter.internal.md) 
+
+### [Dorf-Itter.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Korbach/boroughs~Korbach/Dorf-Itter.protect.md) 
+
+### [Dorf-Itter.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Korbach/boroughs~Korbach/Dorf-Itter.private.md) 
+
+### [Dorf-Itter.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Korbach/boroughs~Korbach/Dorf-Itter.personal.md) 
+
+### [Dorf-Itter.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Korbach/boroughs~Korbach/Dorf-Itter.secret.md) 

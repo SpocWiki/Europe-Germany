@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Drelsdorf|Drelsdorf]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Drelsdorf.internal|Drelsdorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Drelsdorf.protect|Drelsdorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Drelsdorf.private|Drelsdorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Drelsdorf.personal|Drelsdorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Drelsdorf.secret|Drelsdorf.secret]] 
+
+### [Drelsdorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Mittleres_Nordfriesland/boroughs~Nordfriesland~Mitte/Drelsdorf.md) 
+
+### [Drelsdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Mittleres_Nordfriesland/boroughs~Nordfriesland~Mitte/Drelsdorf.internal.md) 
+
+### [Drelsdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Mittleres_Nordfriesland/boroughs~Nordfriesland~Mitte/Drelsdorf.protect.md) 
+
+### [Drelsdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Mittleres_Nordfriesland/boroughs~Nordfriesland~Mitte/Drelsdorf.private.md) 
+
+### [Drelsdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Mittleres_Nordfriesland/boroughs~Nordfriesland~Mitte/Drelsdorf.personal.md) 
+
+### [Drelsdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Mittleres_Nordfriesland/boroughs~Nordfriesland~Mitte/Drelsdorf.secret.md) 

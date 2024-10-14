@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.13662,8.645873] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[T-Markus-Krankenhaus|T-Markus-Krankenhaus]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Markus-Krankenhaus.internal|T-Markus-Krankenhaus.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Markus-Krankenhaus.protect|T-Markus-Krankenhaus.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Markus-Krankenhaus.private|T-Markus-Krankenhaus.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Markus-Krankenhaus.personal|T-Markus-Krankenhaus.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Markus-Krankenhaus.secret|T-Markus-Krankenhaus.secret]] 
+
+### [T-Markus-Krankenhaus](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Markus-Krankenhaus.md) 
+
+### [T-Markus-Krankenhaus.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Markus-Krankenhaus.internal.md) 
+
+### [T-Markus-Krankenhaus.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Markus-Krankenhaus.protect.md) 
+
+### [T-Markus-Krankenhaus.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Markus-Krankenhaus.private.md) 
+
+### [T-Markus-Krankenhaus.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Markus-Krankenhaus.personal.md) 
+
+### [T-Markus-Krankenhaus.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Markus-Krankenhaus.secret.md) 

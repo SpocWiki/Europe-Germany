@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.15,11.82] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -39,10 +39,15 @@ maxZoom: 18
 Naumburger Dom ([[Unesco]] Welterbe seit 2018) 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Naumburg~Saale|Naumburg~Saale]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Naumburg~Saale.public|Naumburg~Saale.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Naumburg~Saale.internal|Naumburg~Saale.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Naumburg~Saale.protect|Naumburg~Saale.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Naumburg~Saale.private|Naumburg~Saale.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Naumburg~Saale.personal|Naumburg~Saale.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Naumburg~Saale.secret|Naumburg~Saale.secret]] 
+
+### [Naumburg~Saale](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Naumburg~Saale.md) 
+
+### [Naumburg~Saale.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Naumburg~Saale.internal.md) 
+
+### [Naumburg~Saale.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Naumburg~Saale.protect.md) 
+
+### [Naumburg~Saale.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Naumburg~Saale.private.md) 
+
+### [Naumburg~Saale.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Naumburg~Saale.personal.md) 
+
+### [Naumburg~Saale.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Naumburg~Saale.secret.md) 

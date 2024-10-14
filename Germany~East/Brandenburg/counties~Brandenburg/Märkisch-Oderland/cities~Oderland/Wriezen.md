@@ -34,10 +34,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Poland/City/Wriezen|Wriezen]] 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Wriezen.public|Wriezen.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Wriezen.internal|Wriezen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Wriezen.protect|Wriezen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Wriezen.private|Wriezen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Wriezen.personal|Wriezen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Wriezen.secret|Wriezen.secret]] 
+
+### [Wriezen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Wriezen.md) 
+
+### [Wriezen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Wriezen.internal.md) 
+
+### [Wriezen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Wriezen.protect.md) 
+
+### [Wriezen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Wriezen.private.md) 
+
+### [Wriezen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Wriezen.personal.md) 
+
+### [Wriezen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Wriezen.secret.md) 

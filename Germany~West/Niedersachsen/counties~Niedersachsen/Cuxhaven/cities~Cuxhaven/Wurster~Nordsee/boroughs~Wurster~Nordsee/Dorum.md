@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.68,8.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Dorum|Dorum]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dorum.internal|Dorum.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dorum.protect|Dorum.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dorum.private|Dorum.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dorum.personal|Dorum.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dorum.secret|Dorum.secret]] 
+
+### [Dorum](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Wurster~Nordsee/boroughs~Wurster~Nordsee/Dorum.md) 
+
+### [Dorum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Wurster~Nordsee/boroughs~Wurster~Nordsee/Dorum.internal.md) 
+
+### [Dorum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Wurster~Nordsee/boroughs~Wurster~Nordsee/Dorum.protect.md) 
+
+### [Dorum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Wurster~Nordsee/boroughs~Wurster~Nordsee/Dorum.private.md) 
+
+### [Dorum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Wurster~Nordsee/boroughs~Wurster~Nordsee/Dorum.personal.md) 
+
+### [Dorum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Wurster~Nordsee/boroughs~Wurster~Nordsee/Dorum.secret.md) 

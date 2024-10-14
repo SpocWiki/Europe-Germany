@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Lesum-Burgdamm|Lesum-Burgdamm]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Bremen/City/Lesum-Burgdamm.internal|Lesum-Burgdamm.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Bremen/City/Lesum-Burgdamm.protect|Lesum-Burgdamm.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Bremen/City/Lesum-Burgdamm.private|Lesum-Burgdamm.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Bremen/City/Lesum-Burgdamm.personal|Lesum-Burgdamm.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Bremen/City/Lesum-Burgdamm.secret|Lesum-Burgdamm.secret]] 
+
+### [Lesum-Burgdamm](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Lesum-Burgdamm.md) 
+
+### [Lesum-Burgdamm.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Lesum-Burgdamm.internal.md) 
+
+### [Lesum-Burgdamm.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Lesum-Burgdamm.protect.md) 
+
+### [Lesum-Burgdamm.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Lesum-Burgdamm.private.md) 
+
+### [Lesum-Burgdamm.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Lesum-Burgdamm.personal.md) 
+
+### [Lesum-Burgdamm.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Lesum-Burgdamm.secret.md) 

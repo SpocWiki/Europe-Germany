@@ -1,13 +1,15 @@
----
+﻿---
 has_id_wikidata: Q1206
-location: [51.8905,11.7371] 
+location:
+  - 51.8905
+  - 11.7371
 type: State
 ISO3166-2: DE-ST
 SpocWebEntityId: 36024
 isDeleted: false
 Confidential: public
 tags:
-- geo/State
+  - geo/State
 icon: Flag_of_Saxony-Anhalt_(state)
 located in time zone:
   - "[[_Standards/WikiData/WD~UTC+02:00]]"
@@ -29,7 +31,8 @@ NUTS code:
   - DEE0
 OmegaWiki Defined Meaning: "414530"
 population: 2194782
-native label: Sachsen-Anhalt
+native label:
+  - Sachsen-Anhalt
 budget: 15203903000
 inception: 1990-10-03T00:00:00Z
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Wappen%20Sachsen-Anhalt.svg
@@ -40,10 +43,14 @@ head of government: "[[_Standards/WikiData/WD~Reiner Haseloff]]"
 highest point: "[[_Standards/WikiData/WD~Brocken]]"
 coat of arms: "[[_Standards/WikiData/WD~coat of arms of Saxony-Anhalt]]"
 flag: "[[_Standards/WikiData/WD~flag of Saxony-Anhalt]]"
-language used: "[[_Standards/WikiData/WD~Upper Saxon]]"
-legislative body: "[[_Standards/WikiData/WD~Landtag of Saxony-Anhalt]]"
-instance of: "[[_Standards/WikiData/WD~federated state of Germany]]"
-member of: "[[_Standards/WikiData/WD~Common Library Network]]"
+language used:
+  - "[[_Standards/WikiData/WD~Upper Saxon]]"
+legislative body:
+  - "[[_Standards/WikiData/WD~Landtag of Saxony-Anhalt]]"
+instance of:
+  - "[[_Standards/WikiData/WD~federated state of Germany]]"
+member of:
+  - "[[_Standards/WikiData/WD~Common Library Network]]"
 archives at: "[[_Standards/WikiData/WD~State Archives Sachsen-Anhalt]]"
 highest judicial authority: "[[_Standards/WikiData/WD~State Constitutional Court of Saxony-Anhalt]]"
 owner of: "[[_Standards/WikiData/WD~Mitteldeutsche Flughafen AG]]"
@@ -59,7 +66,8 @@ page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Sachsen-Anhalt%2
 official website: https://www.sachsen-anhalt.de/
 Dewey Decimal Classification: 2--4318
 ISO 3166-2 code: DE-ST
-HASC: DE.ST
+HASC:
+  - DE.ST
 Libris-URI: gdsw04x03l38k45
 FIPS 10-4 (countries and regions): GM14
 "Image Archive, Herder Institute": Q1206
@@ -94,7 +102,8 @@ contains the administrative territorial entity:
   - "[[_Standards/WikiData/WD~Saalekreis]]"
   - "[[_Standards/WikiData/WD~Burgenlandkreis]]"
 capital: "[[_Standards/WikiData/WD~Magdeburg]]"
-
+aliases:
+  - Saxony-Anhalt
 ---
 
 # [[Sachsen-Anhalt]] 
@@ -103,6 +112,29 @@ capital: "[[_Standards/WikiData/WD~Magdeburg]]"
 [name-abbr::ST] 
 
 ![[Coat_of_arms_of_Sachsen-Anhalt.svg|350]]  
+
+## #has_/text_of_/abstract 
+
+> **Saxony-Anhalt** (German: Sachsen-Anhalt [ˌzaksn̩ ˈʔanhalt] ; Low German: Sassen-Anholt) 
+> is a state of Germany, bordering the states of Brandenburg, Saxony, Thuringia and Lower Saxony. 
+> It covers an area of 20,451.7 square kilometres (7,896.4 sq mi)
+> and has a population of 2.17 million inhabitants, 
+> making it the 8th-largest state in Germany by area and the 11th-largest by population. 
+> Its capital and most populous city is Magdeburg.
+>
+> The state of Saxony-Anhalt was formed in July 1945 after World War II, 
+> when the Soviet army administration in Allied-occupied Germany 
+> formed it from the former Prussian Province of Saxony and the Free State of Anhalt. 
+> Saxony-Anhalt became part of the German Democratic Republic in 1949, 
+> but was dissolved in 1952 during administrative reforms 
+> and its territory was divided into the districts of Halle and Magdeburg. 
+> Following German reunification, the state of Saxony-Anhalt was re-established in 1990 
+> and became one of the new states of the Federal Republic of Germany.
+>
+> Saxony-Anhalt is renowned for its rich cultural heritage 
+> and possesses the highest concentration of UNESCO World Heritage sites in Germany.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Saxony-Anhalt)
 
 ![[Flag_of_Saxony-Anhalt~state.svg|350]]  
 
@@ -126,10 +158,15 @@ Capital :: [[Magdeburg]] ]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt|Sachsen-Anhalt]] 
-- [[../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt.public|Sachsen-Anhalt.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt.internal|Sachsen-Anhalt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt.protect|Sachsen-Anhalt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt.private|Sachsen-Anhalt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt.personal|Sachsen-Anhalt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt.secret|Sachsen-Anhalt.secret]] 
+
+### [Sachsen-Anhalt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.md) 
+
+### [Sachsen-Anhalt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.internal.md) 
+
+### [Sachsen-Anhalt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.protect.md) 
+
+### [Sachsen-Anhalt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.private.md) 
+
+### [Sachsen-Anhalt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.personal.md) 
+
+### [Sachsen-Anhalt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.secret.md) 

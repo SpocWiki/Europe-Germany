@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rothenkirchen~Vogtland|Rothenkirchen~Vogtland]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rothenkirchen~Vogtland.public|Rothenkirchen~Vogtland.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rothenkirchen~Vogtland.internal|Rothenkirchen~Vogtland.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rothenkirchen~Vogtland.protect|Rothenkirchen~Vogtland.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rothenkirchen~Vogtland.private|Rothenkirchen~Vogtland.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rothenkirchen~Vogtland.personal|Rothenkirchen~Vogtland.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rothenkirchen~Vogtland.secret|Rothenkirchen~Vogtland.secret]] 
+
+### [Rothenkirchen~Vogtland](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Steinberg/City/Rothenkirchen~Vogtland.md) 
+
+### [Rothenkirchen~Vogtland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Steinberg/City/Rothenkirchen~Vogtland.internal.md) 
+
+### [Rothenkirchen~Vogtland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Steinberg/City/Rothenkirchen~Vogtland.protect.md) 
+
+### [Rothenkirchen~Vogtland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Steinberg/City/Rothenkirchen~Vogtland.private.md) 
+
+### [Rothenkirchen~Vogtland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Steinberg/City/Rothenkirchen~Vogtland.personal.md) 
+
+### [Rothenkirchen~Vogtland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Steinberg/City/Rothenkirchen~Vogtland.secret.md) 

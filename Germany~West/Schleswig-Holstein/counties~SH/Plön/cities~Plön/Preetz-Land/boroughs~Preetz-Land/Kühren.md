@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Kuehren|Kuehren]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kuehren.internal|Kuehren.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kuehren.protect|Kuehren.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kuehren.private|Kuehren.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kuehren.personal|Kuehren.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kuehren.secret|Kuehren.secret]] 
+
+### [Kühren](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz-Land/boroughs~Preetz-Land/Kühren.md) 
+
+### [Kühren.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz-Land/boroughs~Preetz-Land/Kühren.internal.md) 
+
+### [Kühren.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz-Land/boroughs~Preetz-Land/Kühren.protect.md) 
+
+### [Kühren.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz-Land/boroughs~Preetz-Land/Kühren.private.md) 
+
+### [Kühren.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz-Land/boroughs~Preetz-Land/Kühren.personal.md) 
+
+### [Kühren.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz-Land/boroughs~Preetz-Land/Kühren.secret.md) 

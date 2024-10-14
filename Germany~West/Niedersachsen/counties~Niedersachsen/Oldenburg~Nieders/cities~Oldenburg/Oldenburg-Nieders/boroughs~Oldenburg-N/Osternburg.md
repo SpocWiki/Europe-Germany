@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.12,8.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Osternburg|Osternburg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osternburg.internal|Osternburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osternburg.protect|Osternburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osternburg.private|Osternburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osternburg.personal|Osternburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osternburg.secret|Osternburg.secret]] 
+
+### [Osternburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Oldenburg-Nieders/boroughs~Oldenburg-N/Osternburg.md) 
+
+### [Osternburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Oldenburg-Nieders/boroughs~Oldenburg-N/Osternburg.internal.md) 
+
+### [Osternburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Oldenburg-Nieders/boroughs~Oldenburg-N/Osternburg.protect.md) 
+
+### [Osternburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Oldenburg-Nieders/boroughs~Oldenburg-N/Osternburg.private.md) 
+
+### [Osternburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Oldenburg-Nieders/boroughs~Oldenburg-N/Osternburg.personal.md) 
+
+### [Osternburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Oldenburg-Nieders/boroughs~Oldenburg-N/Osternburg.secret.md) 

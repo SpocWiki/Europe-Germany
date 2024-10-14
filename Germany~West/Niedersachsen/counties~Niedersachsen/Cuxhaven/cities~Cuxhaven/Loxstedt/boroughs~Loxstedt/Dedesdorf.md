@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.45,8.5033] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Dedesdorf|Dedesdorf]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dedesdorf.internal|Dedesdorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dedesdorf.protect|Dedesdorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dedesdorf.private|Dedesdorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dedesdorf.personal|Dedesdorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dedesdorf.secret|Dedesdorf.secret]] 
+
+### [Dedesdorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Dedesdorf.md) 
+
+### [Dedesdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Dedesdorf.internal.md) 
+
+### [Dedesdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Dedesdorf.protect.md) 
+
+### [Dedesdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Dedesdorf.private.md) 
+
+### [Dedesdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Dedesdorf.personal.md) 
+
+### [Dedesdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Dedesdorf.secret.md) 

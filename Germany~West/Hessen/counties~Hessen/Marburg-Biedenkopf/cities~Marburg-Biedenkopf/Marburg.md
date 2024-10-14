@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.81,8.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -40,9 +40,15 @@ In der Marburger Altstadt findet man mehr als 700 historische Häuser,
 die zum größten Teil in der Zeit zwischen dem 14.- und 19. Jahrhundert erbaut wurden.
 
 ## Confidential Links & Embeds: 
-- [[Marburg|Marburg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Marburg.internal|Marburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Marburg.protect|Marburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Marburg.private|Marburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Marburg.personal|Marburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Marburg.secret|Marburg.secret]] 
+
+### [Marburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Marburg.md) 
+
+### [Marburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Marburg.internal.md) 
+
+### [Marburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Marburg.protect.md) 
+
+### [Marburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Marburg.private.md) 
+
+### [Marburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Marburg.personal.md) 
+
+### [Marburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Marburg.secret.md) 

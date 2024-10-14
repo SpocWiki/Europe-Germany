@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Wanne-Eickel|Wanne-Eickel]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wanne-Eickel.internal|Wanne-Eickel.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wanne-Eickel.protect|Wanne-Eickel.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wanne-Eickel.private|Wanne-Eickel.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wanne-Eickel.personal|Wanne-Eickel.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wanne-Eickel.secret|Wanne-Eickel.secret]] 
+
+### [Wanne-Eickel](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Herne/Wanne-Eickel.md) 
+
+### [Wanne-Eickel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Herne/Wanne-Eickel.internal.md) 
+
+### [Wanne-Eickel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Herne/Wanne-Eickel.protect.md) 
+
+### [Wanne-Eickel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Herne/Wanne-Eickel.private.md) 
+
+### [Wanne-Eickel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Herne/Wanne-Eickel.personal.md) 
+
+### [Wanne-Eickel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Herne/Wanne-Eickel.secret.md) 

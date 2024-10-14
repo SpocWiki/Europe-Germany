@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.83,8.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Bodenteich|Bodenteich]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bodenteich.internal|Bodenteich.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bodenteich.protect|Bodenteich.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bodenteich.private|Bodenteich.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bodenteich.personal|Bodenteich.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bodenteich.secret|Bodenteich.secret]] 
+
+### [Bodenteich](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Harpstedt/boroughs~Harpstedt/Bodenteich.md) 
+
+### [Bodenteich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Harpstedt/boroughs~Harpstedt/Bodenteich.internal.md) 
+
+### [Bodenteich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Harpstedt/boroughs~Harpstedt/Bodenteich.protect.md) 
+
+### [Bodenteich.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Harpstedt/boroughs~Harpstedt/Bodenteich.private.md) 
+
+### [Bodenteich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Harpstedt/boroughs~Harpstedt/Bodenteich.personal.md) 
+
+### [Bodenteich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Harpstedt/boroughs~Harpstedt/Bodenteich.secret.md) 

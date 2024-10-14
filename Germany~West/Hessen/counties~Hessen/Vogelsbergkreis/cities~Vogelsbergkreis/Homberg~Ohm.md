@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.73,9.02] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Homberg~Oberrhein|Homberg~Oberrhein]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Oberrhein.internal|Homberg~Oberrhein.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Oberrhein.protect|Homberg~Oberrhein.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Oberrhein.private|Homberg~Oberrhein.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Oberrhein.personal|Homberg~Oberrhein.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Oberrhein.secret|Homberg~Oberrhein.secret]] 
+
+### [Homberg~Ohm](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Homberg~Ohm.md) 
+
+### [Homberg~Ohm.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Homberg~Ohm.internal.md) 
+
+### [Homberg~Ohm.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Homberg~Ohm.protect.md) 
+
+### [Homberg~Ohm.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Homberg~Ohm.private.md) 
+
+### [Homberg~Ohm.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Homberg~Ohm.personal.md) 
+
+### [Homberg~Ohm.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Homberg~Ohm.secret.md) 

@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Hoehenbucko|Hoehenbucko]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Hoehenbucko.public|Hoehenbucko.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Hoehenbucko.internal|Hoehenbucko.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Hoehenbucko.protect|Hoehenbucko.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Hoehenbucko.private|Hoehenbucko.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Hoehenbucko.personal|Hoehenbucko.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Hoehenbucko.secret|Hoehenbucko.secret]] 
+
+### [Hoehenbucko](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Schlieben/boroughs~Schlieben/Hoehenbucko.md) 
+
+### [Hoehenbucko.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Schlieben/boroughs~Schlieben/Hoehenbucko.internal.md) 
+
+### [Hoehenbucko.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Schlieben/boroughs~Schlieben/Hoehenbucko.protect.md) 
+
+### [Hoehenbucko.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Schlieben/boroughs~Schlieben/Hoehenbucko.private.md) 
+
+### [Hoehenbucko.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Schlieben/boroughs~Schlieben/Hoehenbucko.personal.md) 
+
+### [Hoehenbucko.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Schlieben/boroughs~Schlieben/Hoehenbucko.secret.md) 

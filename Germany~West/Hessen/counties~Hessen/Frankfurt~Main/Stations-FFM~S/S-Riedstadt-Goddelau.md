@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.83528,8.497778] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[S-Riedstadt-Goddelau|S-Riedstadt-Goddelau]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Riedstadt-Goddelau.internal|S-Riedstadt-Goddelau.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Riedstadt-Goddelau.protect|S-Riedstadt-Goddelau.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Riedstadt-Goddelau.private|S-Riedstadt-Goddelau.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Riedstadt-Goddelau.personal|S-Riedstadt-Goddelau.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Riedstadt-Goddelau.secret|S-Riedstadt-Goddelau.secret]] 
+
+### [S-Riedstadt-Goddelau](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Riedstadt-Goddelau.md) 
+
+### [S-Riedstadt-Goddelau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Riedstadt-Goddelau.internal.md) 
+
+### [S-Riedstadt-Goddelau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Riedstadt-Goddelau.protect.md) 
+
+### [S-Riedstadt-Goddelau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Riedstadt-Goddelau.private.md) 
+
+### [S-Riedstadt-Goddelau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Riedstadt-Goddelau.personal.md) 
+
+### [S-Riedstadt-Goddelau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Riedstadt-Goddelau.secret.md) 

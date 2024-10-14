@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.45,9.93] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Gersfeld|Gersfeld]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Gersfeld.internal|Gersfeld.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Gersfeld.protect|Gersfeld.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Gersfeld.private|Gersfeld.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Gersfeld.personal|Gersfeld.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Gersfeld.secret|Gersfeld.secret]] 
+
+### [Gersfeld~Rhön](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Gersfeld~Rhön.md) 
+
+### [Gersfeld~Rhön.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Gersfeld~Rhön.internal.md) 
+
+### [Gersfeld~Rhön.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Gersfeld~Rhön.protect.md) 
+
+### [Gersfeld~Rhön.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Gersfeld~Rhön.private.md) 
+
+### [Gersfeld~Rhön.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Gersfeld~Rhön.personal.md) 
+
+### [Gersfeld~Rhön.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Gersfeld~Rhön.secret.md) 

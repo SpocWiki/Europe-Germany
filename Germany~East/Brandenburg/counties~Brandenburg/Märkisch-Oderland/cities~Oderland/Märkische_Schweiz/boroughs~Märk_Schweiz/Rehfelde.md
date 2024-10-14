@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rehfelde|Rehfelde]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rehfelde.public|Rehfelde.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rehfelde.internal|Rehfelde.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rehfelde.protect|Rehfelde.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rehfelde.private|Rehfelde.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rehfelde.personal|Rehfelde.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rehfelde.secret|Rehfelde.secret]] 
+
+### [Rehfelde](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Märkische_Schweiz/boroughs~Märk_Schweiz/Rehfelde.md) 
+
+### [Rehfelde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Märkische_Schweiz/boroughs~Märk_Schweiz/Rehfelde.internal.md) 
+
+### [Rehfelde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Märkische_Schweiz/boroughs~Märk_Schweiz/Rehfelde.protect.md) 
+
+### [Rehfelde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Märkische_Schweiz/boroughs~Märk_Schweiz/Rehfelde.private.md) 
+
+### [Rehfelde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Märkische_Schweiz/boroughs~Märk_Schweiz/Rehfelde.personal.md) 
+
+### [Rehfelde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Märkische_Schweiz/boroughs~Märk_Schweiz/Rehfelde.secret.md) 

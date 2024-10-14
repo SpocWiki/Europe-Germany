@@ -1,4 +1,4 @@
----
+﻿---
 location: [54.3,10.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -36,9 +36,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Heidberg|Heidberg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heidberg.internal|Heidberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heidberg.protect|Heidberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heidberg.private|Heidberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heidberg.personal|Heidberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heidberg.secret|Heidberg.secret]] 
+
+### [Heidberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Kiel/Heidberg.md) 
+
+### [Heidberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Kiel/Heidberg.internal.md) 
+
+### [Heidberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Kiel/Heidberg.protect.md) 
+
+### [Heidberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Kiel/Heidberg.private.md) 
+
+### [Heidberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Kiel/Heidberg.personal.md) 
+
+### [Heidberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Kiel/Heidberg.secret.md) 

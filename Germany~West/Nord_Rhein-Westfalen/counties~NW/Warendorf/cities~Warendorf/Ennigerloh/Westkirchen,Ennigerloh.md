@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Westkirchen|Westkirchen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Westkirchen.internal|Westkirchen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Westkirchen.protect|Westkirchen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Westkirchen.private|Westkirchen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Westkirchen.personal|Westkirchen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Westkirchen.secret|Westkirchen.secret]] 
+
+### [Westkirchen,Ennigerloh](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Ennigerloh/Westkirchen,Ennigerloh.md) 
+
+### [Westkirchen,Ennigerloh.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Ennigerloh/Westkirchen,Ennigerloh.internal.md) 
+
+### [Westkirchen,Ennigerloh.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Ennigerloh/Westkirchen,Ennigerloh.protect.md) 
+
+### [Westkirchen,Ennigerloh.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Ennigerloh/Westkirchen,Ennigerloh.private.md) 
+
+### [Westkirchen,Ennigerloh.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Ennigerloh/Westkirchen,Ennigerloh.personal.md) 
+
+### [Westkirchen,Ennigerloh.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Ennigerloh/Westkirchen,Ennigerloh.secret.md) 

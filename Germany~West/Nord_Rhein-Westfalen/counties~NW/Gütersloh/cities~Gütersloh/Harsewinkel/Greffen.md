@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Greffen|Greffen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Greffen.internal|Greffen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Greffen.protect|Greffen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Greffen.private|Greffen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Greffen.personal|Greffen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Greffen.secret|Greffen.secret]] 
+
+### [Greffen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.md) 
+
+### [Greffen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.internal.md) 
+
+### [Greffen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.protect.md) 
+
+### [Greffen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.private.md) 
+
+### [Greffen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.personal.md) 
+
+### [Greffen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.secret.md) 

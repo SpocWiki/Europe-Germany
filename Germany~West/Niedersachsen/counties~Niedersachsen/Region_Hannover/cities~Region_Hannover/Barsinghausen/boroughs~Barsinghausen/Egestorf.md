@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.3,9.52] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Egestorf|Egestorf]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Egestorf.internal|Egestorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Egestorf.protect|Egestorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Egestorf.private|Egestorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Egestorf.personal|Egestorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Egestorf.secret|Egestorf.secret]] 
+
+### [Egestorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Barsinghausen/boroughs~Barsinghausen/Egestorf.md) 
+
+### [Egestorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Barsinghausen/boroughs~Barsinghausen/Egestorf.internal.md) 
+
+### [Egestorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Barsinghausen/boroughs~Barsinghausen/Egestorf.protect.md) 
+
+### [Egestorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Barsinghausen/boroughs~Barsinghausen/Egestorf.private.md) 
+
+### [Egestorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Barsinghausen/boroughs~Barsinghausen/Egestorf.personal.md) 
+
+### [Egestorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Barsinghausen/boroughs~Barsinghausen/Egestorf.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.88,12.6] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Waldenburg~Sachsen|Waldenburg~Sachsen]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Waldenburg~Sachsen.public|Waldenburg~Sachsen.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Waldenburg~Sachsen.internal|Waldenburg~Sachsen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Waldenburg~Sachsen.protect|Waldenburg~Sachsen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Waldenburg~Sachsen.private|Waldenburg~Sachsen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Waldenburg~Sachsen.personal|Waldenburg~Sachsen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Waldenburg~Sachsen.secret|Waldenburg~Sachsen.secret]] 
+
+### [Waldenburg~Sachsen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.md) 
+
+### [Waldenburg~Sachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.internal.md) 
+
+### [Waldenburg~Sachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.protect.md) 
+
+### [Waldenburg~Sachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.private.md) 
+
+### [Waldenburg~Sachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.personal.md) 
+
+### [Waldenburg~Sachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.secret.md) 

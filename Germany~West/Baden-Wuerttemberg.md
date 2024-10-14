@@ -1,4 +1,4 @@
----
+﻿---
 has_id_wikidata: Q985
 inception: 1952-04-25T00:00:00Z
 budget: 60976489200
@@ -184,9 +184,15 @@ Capital :: [[Baden-Wuerttemberg/Stuttgart]]
 
 
 ## Confidential Links & Embeds: 
-- [[Baden-Wuerttemberg|Baden-Wuerttemberg]]  
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg.internal|Baden-Wuerttemberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg.protect|Baden-Wuerttemberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg.private|Baden-Wuerttemberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg.personal|Baden-Wuerttemberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg.secret|Baden-Wuerttemberg.secret]] 
+
+### [Baden-Wuerttemberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.md) 
+
+### [Baden-Wuerttemberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.internal.md) 
+
+### [Baden-Wuerttemberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.protect.md) 
+
+### [Baden-Wuerttemberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.private.md) 
+
+### [Baden-Wuerttemberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.personal.md) 
+
+### [Baden-Wuerttemberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.secret.md) 

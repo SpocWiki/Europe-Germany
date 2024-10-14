@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.65,8.33] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Sinn~Dillkreis|Sinn~Dillkreis]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Sinn~Dillkreis.internal|Sinn~Dillkreis.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Sinn~Dillkreis.protect|Sinn~Dillkreis.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Sinn~Dillkreis.private|Sinn~Dillkreis.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Sinn~Dillkreis.personal|Sinn~Dillkreis.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Sinn~Dillkreis.secret|Sinn~Dillkreis.secret]] 
+
+### [Sinn~Dillkreis](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Sinn/boroughs~Sinn/Sinn~Dillkreis.md) 
+
+### [Sinn~Dillkreis.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Sinn/boroughs~Sinn/Sinn~Dillkreis.internal.md) 
+
+### [Sinn~Dillkreis.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Sinn/boroughs~Sinn/Sinn~Dillkreis.protect.md) 
+
+### [Sinn~Dillkreis.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Sinn/boroughs~Sinn/Sinn~Dillkreis.private.md) 
+
+### [Sinn~Dillkreis.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Sinn/boroughs~Sinn/Sinn~Dillkreis.personal.md) 
+
+### [Sinn~Dillkreis.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Sinn/boroughs~Sinn/Sinn~Dillkreis.secret.md) 

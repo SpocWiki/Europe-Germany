@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.37,8.53] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Sandstedt|Sandstedt]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sandstedt.internal|Sandstedt.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sandstedt.protect|Sandstedt.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sandstedt.private|Sandstedt.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sandstedt.personal|Sandstedt.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sandstedt.secret|Sandstedt.secret]] 
+
+### [Sandstedt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.md) 
+
+### [Sandstedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.internal.md) 
+
+### [Sandstedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.protect.md) 
+
+### [Sandstedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.private.md) 
+
+### [Sandstedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.personal.md) 
+
+### [Sandstedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.secret.md) 

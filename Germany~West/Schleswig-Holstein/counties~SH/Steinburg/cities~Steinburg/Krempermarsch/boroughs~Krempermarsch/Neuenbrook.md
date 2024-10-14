@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Neuenbrock|Neuenbrock]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neuenbrock.internal|Neuenbrock.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neuenbrock.protect|Neuenbrock.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neuenbrock.private|Neuenbrock.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neuenbrock.personal|Neuenbrock.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neuenbrock.secret|Neuenbrock.secret]] 
+
+### [Neuenbrook](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Krempermarsch/boroughs~Krempermarsch/Neuenbrook.md) 
+
+### [Neuenbrook.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Krempermarsch/boroughs~Krempermarsch/Neuenbrook.internal.md) 
+
+### [Neuenbrook.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Krempermarsch/boroughs~Krempermarsch/Neuenbrook.protect.md) 
+
+### [Neuenbrook.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Krempermarsch/boroughs~Krempermarsch/Neuenbrook.private.md) 
+
+### [Neuenbrook.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Krempermarsch/boroughs~Krempermarsch/Neuenbrook.personal.md) 
+
+### [Neuenbrook.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Krempermarsch/boroughs~Krempermarsch/Neuenbrook.secret.md) 

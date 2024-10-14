@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.75,9.28] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -36,9 +36,15 @@ maxZoom: 18
 Unbedingt sehenswert ist der Marktplatz mit Weinhaus, Rathaus und dem Turm der Walpurgiskirche sowie vielen Fachwerkhäusern.
 
 ## Confidential Links & Embeds: 
-- [[Alsfeld|Alsfeld]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Alsfeld.internal|Alsfeld.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Alsfeld.protect|Alsfeld.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Alsfeld.private|Alsfeld.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Alsfeld.personal|Alsfeld.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Alsfeld.secret|Alsfeld.secret]] 
+
+### [Alsfeld](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Alsfeld.md) 
+
+### [Alsfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Alsfeld.internal.md) 
+
+### [Alsfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Alsfeld.protect.md) 
+
+### [Alsfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Alsfeld.private.md) 
+
+### [Alsfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Alsfeld.personal.md) 
+
+### [Alsfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Alsfeld.secret.md) 

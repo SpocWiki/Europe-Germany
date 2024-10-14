@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.1134,8.6518] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[T-Ludwig-Erhard-Anlage|T-Ludwig-Erhard-Anlage]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ludwig-Erhard-Anlage.internal|T-Ludwig-Erhard-Anlage.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ludwig-Erhard-Anlage.protect|T-Ludwig-Erhard-Anlage.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ludwig-Erhard-Anlage.private|T-Ludwig-Erhard-Anlage.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ludwig-Erhard-Anlage.personal|T-Ludwig-Erhard-Anlage.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ludwig-Erhard-Anlage.secret|T-Ludwig-Erhard-Anlage.secret]] 
+
+### [T-Ludwig-Erhard-Anlage](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Ludwig-Erhard-Anlage.md) 
+
+### [T-Ludwig-Erhard-Anlage.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Ludwig-Erhard-Anlage.internal.md) 
+
+### [T-Ludwig-Erhard-Anlage.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Ludwig-Erhard-Anlage.protect.md) 
+
+### [T-Ludwig-Erhard-Anlage.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Ludwig-Erhard-Anlage.private.md) 
+
+### [T-Ludwig-Erhard-Anlage.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Ludwig-Erhard-Anlage.personal.md) 
+
+### [T-Ludwig-Erhard-Anlage.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Ludwig-Erhard-Anlage.secret.md) 

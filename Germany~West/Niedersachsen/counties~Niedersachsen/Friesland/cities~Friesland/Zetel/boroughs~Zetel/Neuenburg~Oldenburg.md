@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.38,7.95] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Neuenburg~Oldenburg|Neuenburg~Oldenburg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenburg~Oldenburg.internal|Neuenburg~Oldenburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenburg~Oldenburg.protect|Neuenburg~Oldenburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenburg~Oldenburg.private|Neuenburg~Oldenburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenburg~Oldenburg.personal|Neuenburg~Oldenburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenburg~Oldenburg.secret|Neuenburg~Oldenburg.secret]] 
+
+### [Neuenburg~Oldenburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.md) 
+
+### [Neuenburg~Oldenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.internal.md) 
+
+### [Neuenburg~Oldenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.protect.md) 
+
+### [Neuenburg~Oldenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.private.md) 
+
+### [Neuenburg~Oldenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.personal.md) 
+
+### [Neuenburg~Oldenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.secret.md) 

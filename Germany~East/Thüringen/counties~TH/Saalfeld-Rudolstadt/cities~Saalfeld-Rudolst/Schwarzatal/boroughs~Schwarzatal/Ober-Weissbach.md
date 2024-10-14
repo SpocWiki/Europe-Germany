@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Ober-Weissbach|Ober-Weissbach]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Ober-Weissbach.public|Ober-Weissbach.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Ober-Weissbach.internal|Ober-Weissbach.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Ober-Weissbach.protect|Ober-Weissbach.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Ober-Weissbach.private|Ober-Weissbach.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Ober-Weissbach.personal|Ober-Weissbach.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Ober-Weissbach.secret|Ober-Weissbach.secret]] 
+
+### [Ober-Weissbach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schwarzatal/boroughs~Schwarzatal/Ober-Weissbach.md) 
+
+### [Ober-Weissbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schwarzatal/boroughs~Schwarzatal/Ober-Weissbach.internal.md) 
+
+### [Ober-Weissbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schwarzatal/boroughs~Schwarzatal/Ober-Weissbach.protect.md) 
+
+### [Ober-Weissbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schwarzatal/boroughs~Schwarzatal/Ober-Weissbach.private.md) 
+
+### [Ober-Weissbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schwarzatal/boroughs~Schwarzatal/Ober-Weissbach.personal.md) 
+
+### [Ober-Weissbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schwarzatal/boroughs~Schwarzatal/Ober-Weissbach.secret.md) 

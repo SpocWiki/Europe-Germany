@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.09686,8.684231] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[T-Schweizer_Str._Mörfelder_Ldstr.|T-Schweizer_Str._Mörfelder_Ldstr.]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer_Str._Mörfelder_Ldstr..internal|T-Schweizer_Str._Mörfelder_Ldstr..internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer_Str._Mörfelder_Ldstr..protect|T-Schweizer_Str._Mörfelder_Ldstr..protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer_Str._Mörfelder_Ldstr..private|T-Schweizer_Str._Mörfelder_Ldstr..private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer_Str._Mörfelder_Ldstr..personal|T-Schweizer_Str._Mörfelder_Ldstr..personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer_Str._Mörfelder_Ldstr..secret|T-Schweizer_Str._Mörfelder_Ldstr..secret]] 
+
+### [T-Schweizer_Str._Mörfelder_Ldstr.](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Schweizer_Str._Mörfelder_Ldstr..md) 
+
+### [T-Schweizer_Str._Mörfelder_Ldstr..internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Schweizer_Str._Mörfelder_Ldstr..internal.md) 
+
+### [T-Schweizer_Str._Mörfelder_Ldstr..protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Schweizer_Str._Mörfelder_Ldstr..protect.md) 
+
+### [T-Schweizer_Str._Mörfelder_Ldstr..private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Schweizer_Str._Mörfelder_Ldstr..private.md) 
+
+### [T-Schweizer_Str._Mörfelder_Ldstr..personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Schweizer_Str._Mörfelder_Ldstr..personal.md) 
+
+### [T-Schweizer_Str._Mörfelder_Ldstr..secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Schweizer_Str._Mörfelder_Ldstr..secret.md) 

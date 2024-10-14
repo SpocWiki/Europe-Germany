@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Lanz|Lanz]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Lanz.public|Lanz.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Lanz.internal|Lanz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Lanz.protect|Lanz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Lanz.private|Lanz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Lanz.personal|Lanz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Lanz.secret|Lanz.secret]] 
+
+### [Lanz,Prignitz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Lenzen-Elbtalaue/boroughs~Lenzen-Elbtalaue/Lanz,Prignitz.md) 
+
+### [Lanz,Prignitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Lenzen-Elbtalaue/boroughs~Lenzen-Elbtalaue/Lanz,Prignitz.internal.md) 
+
+### [Lanz,Prignitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Lenzen-Elbtalaue/boroughs~Lenzen-Elbtalaue/Lanz,Prignitz.protect.md) 
+
+### [Lanz,Prignitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Lenzen-Elbtalaue/boroughs~Lenzen-Elbtalaue/Lanz,Prignitz.private.md) 
+
+### [Lanz,Prignitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Lenzen-Elbtalaue/boroughs~Lenzen-Elbtalaue/Lanz,Prignitz.personal.md) 
+
+### [Lanz,Prignitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Lenzen-Elbtalaue/boroughs~Lenzen-Elbtalaue/Lanz,Prignitz.secret.md) 

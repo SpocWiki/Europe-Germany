@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Kaiserswerth|Kaiserswerth]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Kaiserswerth.internal|Kaiserswerth.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Kaiserswerth.protect|Kaiserswerth.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Kaiserswerth.private|Kaiserswerth.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Kaiserswerth.personal|Kaiserswerth.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Kaiserswerth.secret|Kaiserswerth.secret]] 
+
+### [Kaiserswerth](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düsseldorf/Kaiserswerth.md) 
+
+### [Kaiserswerth.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düsseldorf/Kaiserswerth.internal.md) 
+
+### [Kaiserswerth.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düsseldorf/Kaiserswerth.protect.md) 
+
+### [Kaiserswerth.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düsseldorf/Kaiserswerth.private.md) 
+
+### [Kaiserswerth.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düsseldorf/Kaiserswerth.personal.md) 
+
+### [Kaiserswerth.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düsseldorf/Kaiserswerth.secret.md) 

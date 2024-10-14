@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Demitz-Thumitz|Demitz-Thumitz]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Demitz-Thumitz.public|Demitz-Thumitz.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Demitz-Thumitz.internal|Demitz-Thumitz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Demitz-Thumitz.protect|Demitz-Thumitz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Demitz-Thumitz.private|Demitz-Thumitz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Demitz-Thumitz.personal|Demitz-Thumitz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Demitz-Thumitz.secret|Demitz-Thumitz.secret]] 
+
+### [Demitz-Thumitz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Am_Klosterwasser/City/Demitz-Thumitz.md) 
+
+### [Demitz-Thumitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Am_Klosterwasser/City/Demitz-Thumitz.internal.md) 
+
+### [Demitz-Thumitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Am_Klosterwasser/City/Demitz-Thumitz.protect.md) 
+
+### [Demitz-Thumitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Am_Klosterwasser/City/Demitz-Thumitz.private.md) 
+
+### [Demitz-Thumitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Am_Klosterwasser/City/Demitz-Thumitz.personal.md) 
+
+### [Demitz-Thumitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Am_Klosterwasser/City/Demitz-Thumitz.secret.md) 

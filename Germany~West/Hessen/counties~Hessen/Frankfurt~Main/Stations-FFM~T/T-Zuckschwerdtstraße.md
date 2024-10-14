@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.10302,8.551961] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[T-Zuckschwerdtstraße|T-Zuckschwerdtstraße]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Zuckschwerdtstraße.internal|T-Zuckschwerdtstraße.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Zuckschwerdtstraße.protect|T-Zuckschwerdtstraße.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Zuckschwerdtstraße.private|T-Zuckschwerdtstraße.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Zuckschwerdtstraße.personal|T-Zuckschwerdtstraße.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Zuckschwerdtstraße.secret|T-Zuckschwerdtstraße.secret]] 
+
+### [T-Zuckschwerdtstraße](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Zuckschwerdtstraße.md) 
+
+### [T-Zuckschwerdtstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Zuckschwerdtstraße.internal.md) 
+
+### [T-Zuckschwerdtstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Zuckschwerdtstraße.protect.md) 
+
+### [T-Zuckschwerdtstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Zuckschwerdtstraße.private.md) 
+
+### [T-Zuckschwerdtstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Zuckschwerdtstraße.personal.md) 
+
+### [T-Zuckschwerdtstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Zuckschwerdtstraße.secret.md) 

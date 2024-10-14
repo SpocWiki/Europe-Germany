@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Neu-Isenburg|Neu-Isenburg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Neu-Isenburg.internal|Neu-Isenburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Neu-Isenburg.protect|Neu-Isenburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Neu-Isenburg.private|Neu-Isenburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Neu-Isenburg.personal|Neu-Isenburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Neu-Isenburg.secret|Neu-Isenburg.secret]] 
+
+### [Neu-Isenburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Neu-Isenburg.md) 
+
+### [Neu-Isenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Neu-Isenburg.internal.md) 
+
+### [Neu-Isenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Neu-Isenburg.protect.md) 
+
+### [Neu-Isenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Neu-Isenburg.private.md) 
+
+### [Neu-Isenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Neu-Isenburg.personal.md) 
+
+### [Neu-Isenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Neu-Isenburg.secret.md) 

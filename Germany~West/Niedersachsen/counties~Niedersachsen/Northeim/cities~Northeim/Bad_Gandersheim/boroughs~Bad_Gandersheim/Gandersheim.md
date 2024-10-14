@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.85,10.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Gandersheim|Gandersheim]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gandersheim.internal|Gandersheim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gandersheim.protect|Gandersheim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gandersheim.private|Gandersheim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gandersheim.personal|Gandersheim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gandersheim.secret|Gandersheim.secret]] 
+
+### [Gandersheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bad_Gandersheim/boroughs~Bad_Gandersheim/Gandersheim.md) 
+
+### [Gandersheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bad_Gandersheim/boroughs~Bad_Gandersheim/Gandersheim.internal.md) 
+
+### [Gandersheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bad_Gandersheim/boroughs~Bad_Gandersheim/Gandersheim.protect.md) 
+
+### [Gandersheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bad_Gandersheim/boroughs~Bad_Gandersheim/Gandersheim.private.md) 
+
+### [Gandersheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bad_Gandersheim/boroughs~Bad_Gandersheim/Gandersheim.personal.md) 
+
+### [Gandersheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bad_Gandersheim/boroughs~Bad_Gandersheim/Gandersheim.secret.md) 

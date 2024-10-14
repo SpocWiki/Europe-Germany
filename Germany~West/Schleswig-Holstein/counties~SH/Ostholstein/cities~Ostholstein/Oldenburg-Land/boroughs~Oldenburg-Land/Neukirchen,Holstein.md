@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Neukirchen~Holstein|Neukirchen~Holstein]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neukirchen~Holstein.internal|Neukirchen~Holstein.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neukirchen~Holstein.protect|Neukirchen~Holstein.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neukirchen~Holstein.private|Neukirchen~Holstein.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neukirchen~Holstein.personal|Neukirchen~Holstein.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neukirchen~Holstein.secret|Neukirchen~Holstein.secret]] 
+
+### [Neukirchen,Holstein](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg-Land/boroughs~Oldenburg-Land/Neukirchen,Holstein.md) 
+
+### [Neukirchen,Holstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg-Land/boroughs~Oldenburg-Land/Neukirchen,Holstein.internal.md) 
+
+### [Neukirchen,Holstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg-Land/boroughs~Oldenburg-Land/Neukirchen,Holstein.protect.md) 
+
+### [Neukirchen,Holstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg-Land/boroughs~Oldenburg-Land/Neukirchen,Holstein.private.md) 
+
+### [Neukirchen,Holstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg-Land/boroughs~Oldenburg-Land/Neukirchen,Holstein.personal.md) 
+
+### [Neukirchen,Holstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg-Land/boroughs~Oldenburg-Land/Neukirchen,Holstein.secret.md) 

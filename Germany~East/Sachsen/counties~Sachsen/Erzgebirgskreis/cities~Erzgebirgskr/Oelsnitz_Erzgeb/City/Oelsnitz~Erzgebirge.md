@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Erzgebirge|Oelsnitz~Erzgebirge]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Erzgebirge.public|Oelsnitz~Erzgebirge.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Erzgebirge.internal|Oelsnitz~Erzgebirge.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Erzgebirge.protect|Oelsnitz~Erzgebirge.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Erzgebirge.private|Oelsnitz~Erzgebirge.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Erzgebirge.personal|Oelsnitz~Erzgebirge.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Erzgebirge.secret|Oelsnitz~Erzgebirge.secret]] 
+
+### [Oelsnitz~Erzgebirge](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Oelsnitz_Erzgeb/City/Oelsnitz~Erzgebirge.md) 
+
+### [Oelsnitz~Erzgebirge.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Oelsnitz_Erzgeb/City/Oelsnitz~Erzgebirge.internal.md) 
+
+### [Oelsnitz~Erzgebirge.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Oelsnitz_Erzgeb/City/Oelsnitz~Erzgebirge.protect.md) 
+
+### [Oelsnitz~Erzgebirge.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Oelsnitz_Erzgeb/City/Oelsnitz~Erzgebirge.private.md) 
+
+### [Oelsnitz~Erzgebirge.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Oelsnitz_Erzgeb/City/Oelsnitz~Erzgebirge.personal.md) 
+
+### [Oelsnitz~Erzgebirge.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Oelsnitz_Erzgeb/City/Oelsnitz~Erzgebirge.secret.md) 

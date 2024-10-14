@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.1079,8.67047] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[T-Weser-Münchener_Straße|T-Weser-Münchener_Straße]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Weser-Münchener_Straße.internal|T-Weser-Münchener_Straße.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Weser-Münchener_Straße.protect|T-Weser-Münchener_Straße.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Weser-Münchener_Straße.private|T-Weser-Münchener_Straße.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Weser-Münchener_Straße.personal|T-Weser-Münchener_Straße.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Weser-Münchener_Straße.secret|T-Weser-Münchener_Straße.secret]] 
+
+### [T-Weser-Münchener_Straße](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Weser-Münchener_Straße.md) 
+
+### [T-Weser-Münchener_Straße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Weser-Münchener_Straße.internal.md) 
+
+### [T-Weser-Münchener_Straße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Weser-Münchener_Straße.protect.md) 
+
+### [T-Weser-Münchener_Straße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Weser-Münchener_Straße.private.md) 
+
+### [T-Weser-Münchener_Straße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Weser-Münchener_Straße.personal.md) 
+
+### [T-Weser-Münchener_Straße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Weser-Münchener_Straße.secret.md) 

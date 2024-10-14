@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Wiedenbrueck|Wiedenbrueck]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wiedenbrueck.internal|Wiedenbrueck.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wiedenbrueck.protect|Wiedenbrueck.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wiedenbrueck.private|Wiedenbrueck.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wiedenbrueck.personal|Wiedenbrueck.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wiedenbrueck.secret|Wiedenbrueck.secret]] 
+
+### [Wiedenbrück](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Rheda-Wiedenbrück/Wiedenbrück.md) 
+
+### [Wiedenbrück.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Rheda-Wiedenbrück/Wiedenbrück.internal.md) 
+
+### [Wiedenbrück.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Rheda-Wiedenbrück/Wiedenbrück.protect.md) 
+
+### [Wiedenbrück.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Rheda-Wiedenbrück/Wiedenbrück.private.md) 
+
+### [Wiedenbrück.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Rheda-Wiedenbrück/Wiedenbrück.personal.md) 
+
+### [Wiedenbrück.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Rheda-Wiedenbrück/Wiedenbrück.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.42,8.53] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Neuenlande|Neuenlande]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenlande.internal|Neuenlande.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenlande.protect|Neuenlande.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenlande.private|Neuenlande.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenlande.personal|Neuenlande.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenlande.secret|Neuenlande.secret]] 
+
+### [Neuenlande](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Neuenlande.md) 
+
+### [Neuenlande.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Neuenlande.internal.md) 
+
+### [Neuenlande.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Neuenlande.protect.md) 
+
+### [Neuenlande.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Neuenlande.private.md) 
+
+### [Neuenlande.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Neuenlande.personal.md) 
+
+### [Neuenlande.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Neuenlande.secret.md) 

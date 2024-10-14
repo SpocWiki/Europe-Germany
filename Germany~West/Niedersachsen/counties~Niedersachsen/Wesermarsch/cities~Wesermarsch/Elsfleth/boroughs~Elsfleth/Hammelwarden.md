@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.28,8.47] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Hammelwarden|Hammelwarden]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hammelwarden.internal|Hammelwarden.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hammelwarden.protect|Hammelwarden.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hammelwarden.private|Hammelwarden.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hammelwarden.personal|Hammelwarden.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hammelwarden.secret|Hammelwarden.secret]] 
+
+### [Hammelwarden](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Elsfleth/boroughs~Elsfleth/Hammelwarden.md) 
+
+### [Hammelwarden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Elsfleth/boroughs~Elsfleth/Hammelwarden.internal.md) 
+
+### [Hammelwarden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Elsfleth/boroughs~Elsfleth/Hammelwarden.protect.md) 
+
+### [Hammelwarden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Elsfleth/boroughs~Elsfleth/Hammelwarden.private.md) 
+
+### [Hammelwarden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Elsfleth/boroughs~Elsfleth/Hammelwarden.personal.md) 
+
+### [Hammelwarden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Elsfleth/boroughs~Elsfleth/Hammelwarden.secret.md) 

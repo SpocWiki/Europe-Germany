@@ -34,10 +34,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Mikulow|Mikulow]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Mikulow.public|Mikulow.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Mikulow.internal|Mikulow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Mikulow.protect|Mikulow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Mikulow.private|Mikulow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Mikulow.personal|Mikulow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Mikulow.secret|Mikulow.secret]] 
+
+### [Mikulow](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Dippoldiswalde/City/Mikulow.md) 
+
+### [Mikulow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Dippoldiswalde/City/Mikulow.internal.md) 
+
+### [Mikulow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Dippoldiswalde/City/Mikulow.protect.md) 
+
+### [Mikulow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Dippoldiswalde/City/Mikulow.private.md) 
+
+### [Mikulow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Dippoldiswalde/City/Mikulow.personal.md) 
+
+### [Mikulow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Dippoldiswalde/City/Mikulow.secret.md) 

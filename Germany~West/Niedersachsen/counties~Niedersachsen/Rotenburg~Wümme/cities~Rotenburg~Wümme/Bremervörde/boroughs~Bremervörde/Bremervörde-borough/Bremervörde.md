@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - 53.48
   - 9.13
@@ -36,9 +36,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Bremervörde|Bremervoerde]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bremervoerde.internal|Bremervoerde.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bremervoerde.protect|Bremervoerde.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bremervoerde.private|Bremervoerde.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bremervoerde.personal|Bremervoerde.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bremervoerde.secret|Bremervoerde.secret]] 
+
+### [Bremervörde](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Bremervörde/boroughs~Bremervörde/Bremervörde-borough/Bremervörde.md) 
+
+### [Bremervörde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Bremervörde/boroughs~Bremervörde/Bremervörde-borough/Bremervörde.internal.md) 
+
+### [Bremervörde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Bremervörde/boroughs~Bremervörde/Bremervörde-borough/Bremervörde.protect.md) 
+
+### [Bremervörde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Bremervörde/boroughs~Bremervörde/Bremervörde-borough/Bremervörde.private.md) 
+
+### [Bremervörde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Bremervörde/boroughs~Bremervörde/Bremervörde-borough/Bremervörde.personal.md) 
+
+### [Bremervörde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Bremervörde/boroughs~Bremervörde/Bremervörde-borough/Bremervörde.secret.md) 

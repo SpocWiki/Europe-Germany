@@ -1,13 +1,15 @@
----
+﻿---
 has_id_wikidata: Q1197
-location: [52.7796,9.02868] 
+location:
+  - 52.7796
+  - 9.02868
 type: State
 SpocWebEntityId: 36019
 isDeleted: false
 Confidential: public
 ISO3166-2: DE-NI
 tags:
-- geo/State
+  - geo/State
 icon: Flag_of_Lower_Saxony
 named after: "[[_Standards/WikiData/WD~Saxons]]"
 language used:
@@ -17,7 +19,8 @@ language used:
   - "[[_Standards/WikiData/WD~Saterland Frisian]]"
 twinned administrative body: "[[_Standards/WikiData/WD~Tokushima Prefecture]]"
 highest point: "[[_Standards/WikiData/WD~Wurmberg]]"
-legislative body: "[[_Standards/WikiData/WD~Landtag of Lower Saxony]]"
+legislative body:
+  - "[[_Standards/WikiData/WD~Landtag of Lower Saxony]]"
 located in or next to body of water:
   - "[[_Standards/WikiData/WD~German Bight]]"
   - "[[_Standards/WikiData/WD~North Sea]]"
@@ -28,14 +31,17 @@ replaces:
   - "[[_Standards/WikiData/WD~State of Brunswick]]"
 flag: "[[_Standards/WikiData/WD~flag of Lower Saxony]]"
 has part(s): "[[_Standards/WikiData/WD~Brunswick Land]]"
-instance of: "[[_Standards/WikiData/WD~federated state of Germany]]"
-member of: "[[_Standards/WikiData/WD~Common Library Network]]"
+instance of:
+  - "[[_Standards/WikiData/WD~federated state of Germany]]"
+member of:
+  - "[[_Standards/WikiData/WD~Common Library Network]]"
 archives at: "[[_Standards/WikiData/WD~Lower Saxony State Archive]]"
 highest judicial authority: "[[_Standards/WikiData/WD~Constitutional Court of Lower Saxony]]"
 head of government: "[[_Standards/WikiData/WD~Stephan Weil]]"
 coat of arms: "[[_Standards/WikiData/WD~coat of arms of Lower Saxony]]"
 topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal:Lower Saxony]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q25929971]]"
+permanent duplicated item:
+  - "[[_Standards/WikiData/WD~Q25929971]]"
 office held by head of government: "[[_Standards/WikiData/WD~Minister-President of Lower Saxony]]"
 economy of topic: "[[_Standards/WikiData/WD~economy of Lower Saxony]]"
 award received: "[[_Standards/WikiData/WD~BigBrotherAwards]]"
@@ -111,7 +117,8 @@ country: "[[_Standards/WikiData/WD~Germany]]"
 elevation above sea level: 13
 German regional key: "03"
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lower%20Saxony.svg
-native label: Niedersachsen
+native label:
+  - Niedersachsen
 OmegaWiki Defined Meaning: "416994"
 area: 47614.07
 population: 8003421
@@ -123,21 +130,26 @@ coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of
 coordinates of northernmost point: Point(8.67875 53.892277777)
 geoshape: http://commons.wikimedia.org/data/main/Data:Niedersachsen.map
 locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Lower-Saxony%20in%20Germany.svg
-detail map: http://commons.wikimedia.org/wiki/Special:FilePath/Lower%20Saxony%2C%20administrative%20divisions%20-%20de%20-%20colored.svg
+detail map:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lower%20Saxony%2C%20administrative%20divisions%20-%20de%20-%20colored.svg
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wremen%20banner.jpg
 official website: https://www.niedersachsen.de/
-BHCL UUID: 11229295-4449-4948-ba31-6a29878bb56e
+BHCL UUID:
+  - 11229295-4449-4948-ba31-6a29878bb56e
 Dewey Decimal Classification: 2--4359
 Libris-URI: b8nqpl8v3k887x4
 ISO 3166-2 code: DE-NI
-HASC: DE.NI
+HASC:
+  - DE.NI
 NUTS code: DE9
 FIPS 10-4 (countries and regions): GM06
 Facebook username: Niedersachsen
 Commons gallery: Niedersachsen
 "Image Archive, Herder Institute": Q1197
-motto text: Niedersachsen. Klar.
-
+motto text:
+  - Niedersachsen. Klar.
+aliases:
+  - Lower Saxony
 ---
 
 # [[Niedersachsen]] 
@@ -162,8 +174,54 @@ Capital ::  [[Niedersachsen/counties~Niedersachsen/RegionHannover/cities~RegionH
 #is_a_ :: [[Place]] 
 [has_place_longitude::9.02868] 
 [has_place_latitude::52.7796] 
-[Population::] 
+[Population:: 8000000] 
 
+
+## #has_/text_of_/abstract 
+
+> **Lower Saxony** is a German state (Land) in northwestern Germany. 
+> It is the second-largest state by land area, with 47,614 km2 (18,384 sq mi), 
+> and fourth-largest in population (8 million in 2021) 
+> among the 16 Länder federated as the Federal Republic of Germany. 
+> In rural areas, Northern Low Saxon and Saterland Frisian are still spoken, albeit in declining numbers.
+>
+> Lower Saxony borders on (from north and clockwise) the North Sea, 
+> the states of Schleswig-Holstein, Hamburg, Mecklenburg-Vorpommern, Brandenburg, 
+> Saxony-Anhalt, Thuringia, Hesse and North Rhine-Westphalia, and the Netherlands. 
+> Furthermore, the state of Bremen forms two enclaves within Lower Saxony, 
+> one being the city of Bremen, the other its seaport, Bremerhaven (which is a semi-exclave, as it has a coastline). 
+> Lower Saxony thus borders more neighbours than any other single Bundesland. 
+> 
+> The state's largest cities are the state capital Hanover, Braunschweig (Brunswick), 
+> Oldenburg, Osnabrück, Wolfsburg, Göttingen, Salzgitter, Hildesheim, 
+> mainly situated in its central and southern parts, except Oldenburg and Lüneburg.
+>
+> Lower Saxony is the only Bundesland that encompasses both maritime and mountainous areas. 
+> The northwestern area of the state, on the coast of the North Sea, is called East Frisia 
+> and the seven East Frisian Islands offshore are popular with tourists. 
+> In the extreme west of Lower Saxony is the Emsland, an economically emerging 
+> but rather sparsely populated area, once dominated by inaccessible swamps. 
+> 
+> The northern half of Lower Saxony, also known as the North German Plain, 
+> is almost invariably flat except for the gentle hills around the Bremen geestland. 
+> Towards the south and southwest lie the northern parts of the Central Uplands: 
+> the Weser Uplands and the Harz Mountains. 
+> Between these two lie the Lower Saxon Hills, a range of low ridges.
+>
+> The region in the northeast, the Lüneburg Heath (Lüneburger Heide), is the largest heathland area of Germany. 
+> In the Middle Ages, the town of Lüneburg was wealthy due to salt-mining and the salt trade. 
+> To the north the Elbe valley separates Lower Saxony from Hamburg, Schleswig-Holstein, 
+> Mecklenburg-Vorpommern, and Brandenburg. 
+> The left banks of the Elbe downstream Hamburg are known as the Altes Land (Old Country). 
+> Due to its gentle local climate and fertile soil, it is the state's largest area of fruit farming, 
+> its chief produce being apples.
+>
+> Most of the state's territory was part of the historic Kingdom of Hanover, 
+> and the state of Lower Saxony has adopted the coat of arms and other symbols of the former kingdom. 
+> It was created by the merger of the State of Hanover with three smaller states on 1 November 1946.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Lower%20Saxony)
+> 
 
 ![[Coat_of_arms_of_Niedersachsen.svg|350]] 
 
@@ -172,9 +230,15 @@ Capital ::  [[Niedersachsen/counties~Niedersachsen/RegionHannover/cities~RegionH
 
 
 ## Confidential Links & Embeds: 
-- [[Niedersachsen|Niedersachsen]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen.internal|Niedersachsen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen.protect|Niedersachsen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen.private|Niedersachsen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen.personal|Niedersachsen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen.secret|Niedersachsen.secret]] 
+
+### [Niedersachsen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.md) 
+
+### [Niedersachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.internal.md) 
+
+### [Niedersachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.protect.md) 
+
+### [Niedersachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.private.md) 
+
+### [Niedersachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.personal.md) 
+
+### [Niedersachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.27,10.98] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Marientahl|Marientahl]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Marientahl.internal|Marientahl.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Marientahl.protect|Marientahl.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Marientahl.private|Marientahl.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Marientahl.personal|Marientahl.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Marientahl.secret|Marientahl.secret]] 
+
+### [Marientahl](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Grasleben/boroughs~Grasleben/Marientahl.md) 
+
+### [Marientahl.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Grasleben/boroughs~Grasleben/Marientahl.internal.md) 
+
+### [Marientahl.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Grasleben/boroughs~Grasleben/Marientahl.protect.md) 
+
+### [Marientahl.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Grasleben/boroughs~Grasleben/Marientahl.private.md) 
+
+### [Marientahl.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Grasleben/boroughs~Grasleben/Marientahl.personal.md) 
+
+### [Marientahl.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Grasleben/boroughs~Grasleben/Marientahl.secret.md) 

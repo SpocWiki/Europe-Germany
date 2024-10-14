@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.09836,8.528183] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[S-Frankfurt-Höchst_Farbwerke|S-Frankfurt-Höchst_Farbwerke]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Höchst_Farbwerke.internal|S-Frankfurt-Höchst_Farbwerke.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Höchst_Farbwerke.protect|S-Frankfurt-Höchst_Farbwerke.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Höchst_Farbwerke.private|S-Frankfurt-Höchst_Farbwerke.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Höchst_Farbwerke.personal|S-Frankfurt-Höchst_Farbwerke.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Höchst_Farbwerke.secret|S-Frankfurt-Höchst_Farbwerke.secret]] 
+
+### [S-Frankfurt-Höchst_Farbwerke](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Höchst_Farbwerke.md) 
+
+### [S-Frankfurt-Höchst_Farbwerke.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Höchst_Farbwerke.internal.md) 
+
+### [S-Frankfurt-Höchst_Farbwerke.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Höchst_Farbwerke.protect.md) 
+
+### [S-Frankfurt-Höchst_Farbwerke.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Höchst_Farbwerke.private.md) 
+
+### [S-Frankfurt-Höchst_Farbwerke.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Höchst_Farbwerke.personal.md) 
+
+### [S-Frankfurt-Höchst_Farbwerke.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Höchst_Farbwerke.secret.md) 

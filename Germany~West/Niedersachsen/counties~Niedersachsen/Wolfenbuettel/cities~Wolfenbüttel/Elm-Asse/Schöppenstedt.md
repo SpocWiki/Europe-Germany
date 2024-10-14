@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - 52.15
   - 10.77
@@ -36,9 +36,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Schöppenstedt|Schoeppenstedt]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeppenstedt.internal|Schoeppenstedt.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeppenstedt.protect|Schoeppenstedt.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeppenstedt.private|Schoeppenstedt.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeppenstedt.personal|Schoeppenstedt.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeppenstedt.secret|Schoeppenstedt.secret]] 
+
+### [Schöppenstedt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Elm-Asse/Schöppenstedt.md) 
+
+### [Schöppenstedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Elm-Asse/Schöppenstedt.internal.md) 
+
+### [Schöppenstedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Elm-Asse/Schöppenstedt.protect.md) 
+
+### [Schöppenstedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Elm-Asse/Schöppenstedt.private.md) 
+
+### [Schöppenstedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Elm-Asse/Schöppenstedt.personal.md) 
+
+### [Schöppenstedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Elm-Asse/Schöppenstedt.secret.md) 

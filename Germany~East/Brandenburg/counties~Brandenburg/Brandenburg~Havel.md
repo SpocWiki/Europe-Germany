@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Brandenburg~Havel|Brandenburg~Havel]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Brandenburg~Havel.public|Brandenburg~Havel.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Brandenburg~Havel.internal|Brandenburg~Havel.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Brandenburg~Havel.protect|Brandenburg~Havel.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Brandenburg~Havel.private|Brandenburg~Havel.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Brandenburg~Havel.personal|Brandenburg~Havel.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Brandenburg~Havel.secret|Brandenburg~Havel.secret]] 
+
+### [Brandenburg~Havel](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Brandenburg~Havel.md) 
+
+### [Brandenburg~Havel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Brandenburg~Havel.internal.md) 
+
+### [Brandenburg~Havel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Brandenburg~Havel.protect.md) 
+
+### [Brandenburg~Havel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Brandenburg~Havel.private.md) 
+
+### [Brandenburg~Havel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Brandenburg~Havel.personal.md) 
+
+### [Brandenburg~Havel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Brandenburg~Havel.secret.md) 

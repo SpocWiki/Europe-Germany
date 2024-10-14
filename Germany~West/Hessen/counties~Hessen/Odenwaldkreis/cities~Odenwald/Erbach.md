@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.65,9.02] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Erbach|Erbach]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Erbach.internal|Erbach.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Erbach.protect|Erbach.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Erbach.private|Erbach.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Erbach.personal|Erbach.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Erbach.secret|Erbach.secret]] 
+
+### [Erbach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Erbach.md) 
+
+### [Erbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Erbach.internal.md) 
+
+### [Erbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Erbach.protect.md) 
+
+### [Erbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Erbach.private.md) 
+
+### [Erbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Erbach.personal.md) 
+
+### [Erbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Erbach.secret.md) 

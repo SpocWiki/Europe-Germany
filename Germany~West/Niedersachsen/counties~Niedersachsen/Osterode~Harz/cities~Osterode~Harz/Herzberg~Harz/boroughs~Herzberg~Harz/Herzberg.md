@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.65,10.33] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Herzberg|Herzberg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Herzberg.internal|Herzberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Herzberg.protect|Herzberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Herzberg.private|Herzberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Herzberg.personal|Herzberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Herzberg.secret|Herzberg.secret]] 
+
+### [Herzberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Herzberg~Harz/boroughs~Herzberg~Harz/Herzberg.md) 
+
+### [Herzberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Herzberg~Harz/boroughs~Herzberg~Harz/Herzberg.internal.md) 
+
+### [Herzberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Herzberg~Harz/boroughs~Herzberg~Harz/Herzberg.protect.md) 
+
+### [Herzberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Herzberg~Harz/boroughs~Herzberg~Harz/Herzberg.private.md) 
+
+### [Herzberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Herzberg~Harz/boroughs~Herzberg~Harz/Herzberg.personal.md) 
+
+### [Herzberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Herzberg~Harz/boroughs~Herzberg~Harz/Herzberg.secret.md) 

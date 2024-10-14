@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Schoo|Schoo]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoo.internal|Schoo.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoo.protect|Schoo.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoo.private|Schoo.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoo.personal|Schoo.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoo.secret|Schoo.secret]] 
+
+### [Schoo](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Esens/boroughs~Esens/Moorweg/boroughs~Moorweg/Schoo.md) 
+
+### [Schoo.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Esens/boroughs~Esens/Moorweg/boroughs~Moorweg/Schoo.internal.md) 
+
+### [Schoo.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Esens/boroughs~Esens/Moorweg/boroughs~Moorweg/Schoo.protect.md) 
+
+### [Schoo.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Esens/boroughs~Esens/Moorweg/boroughs~Moorweg/Schoo.private.md) 
+
+### [Schoo.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Esens/boroughs~Esens/Moorweg/boroughs~Moorweg/Schoo.personal.md) 
+
+### [Schoo.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Esens/boroughs~Esens/Moorweg/boroughs~Moorweg/Schoo.secret.md) 

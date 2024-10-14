@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Muenchenbernsdorf|Muenchenbernsdorf]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Muenchenbernsdorf.public|Muenchenbernsdorf.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Muenchenbernsdorf.internal|Muenchenbernsdorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Muenchenbernsdorf.protect|Muenchenbernsdorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Muenchenbernsdorf.private|Muenchenbernsdorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Muenchenbernsdorf.personal|Muenchenbernsdorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Muenchenbernsdorf.secret|Muenchenbernsdorf.secret]] 
+
+### [Muenchenbernsdorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Münchenbernsdorf/City/Muenchenbernsdorf.md) 
+
+### [Muenchenbernsdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Münchenbernsdorf/City/Muenchenbernsdorf.internal.md) 
+
+### [Muenchenbernsdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Münchenbernsdorf/City/Muenchenbernsdorf.protect.md) 
+
+### [Muenchenbernsdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Münchenbernsdorf/City/Muenchenbernsdorf.private.md) 
+
+### [Muenchenbernsdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Münchenbernsdorf/City/Muenchenbernsdorf.personal.md) 
+
+### [Muenchenbernsdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Münchenbernsdorf/City/Muenchenbernsdorf.secret.md) 

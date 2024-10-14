@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - 51.42
   - 9.65
@@ -36,9 +36,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Münden|Muenden]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muenden.internal|Muenden.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muenden.protect|Muenden.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muenden.private|Muenden.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muenden.personal|Muenden.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muenden.secret|Muenden.secret]] 
+
+### [Münden](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden/boroughs~Hann.Münden/Münden.md) 
+
+### [Münden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden/boroughs~Hann.Münden/Münden.internal.md) 
+
+### [Münden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden/boroughs~Hann.Münden/Münden.protect.md) 
+
+### [Münden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden/boroughs~Hann.Münden/Münden.private.md) 
+
+### [Münden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden/boroughs~Hann.Münden/Münden.personal.md) 
+
+### [Münden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden/boroughs~Hann.Münden/Münden.secret.md) 

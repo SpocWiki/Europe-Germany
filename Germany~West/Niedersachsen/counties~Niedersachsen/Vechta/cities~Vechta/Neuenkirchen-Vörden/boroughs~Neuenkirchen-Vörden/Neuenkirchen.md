@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Neuenkirchen|Neuenkirchen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenkirchen.internal|Neuenkirchen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenkirchen.protect|Neuenkirchen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenkirchen.private|Neuenkirchen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenkirchen.personal|Neuenkirchen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenkirchen.secret|Neuenkirchen.secret]] 
+
+### [Neuenkirchen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen.md) 
+
+### [Neuenkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen.internal.md) 
+
+### [Neuenkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen.protect.md) 
+
+### [Neuenkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen.private.md) 
+
+### [Neuenkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen.personal.md) 
+
+### [Neuenkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen.secret.md) 

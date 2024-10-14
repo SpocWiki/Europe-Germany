@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.14251,8.668814] 
 type: Station 
 mapzoom: [8,18] 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[U-Fritz-Tarnow-Straße|U-Fritz-Tarnow-Straße]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Fritz-Tarnow-Straße.internal|U-Fritz-Tarnow-Straße.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Fritz-Tarnow-Straße.protect|U-Fritz-Tarnow-Straße.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Fritz-Tarnow-Straße.private|U-Fritz-Tarnow-Straße.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Fritz-Tarnow-Straße.personal|U-Fritz-Tarnow-Straße.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Fritz-Tarnow-Straße.secret|U-Fritz-Tarnow-Straße.secret]] 
+
+### [U-Fritz-Tarnow-Straße](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Fritz-Tarnow-Straße.md) 
+
+### [U-Fritz-Tarnow-Straße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Fritz-Tarnow-Straße.internal.md) 
+
+### [U-Fritz-Tarnow-Straße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Fritz-Tarnow-Straße.protect.md) 
+
+### [U-Fritz-Tarnow-Straße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Fritz-Tarnow-Straße.private.md) 
+
+### [U-Fritz-Tarnow-Straße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Fritz-Tarnow-Straße.personal.md) 
+
+### [U-Fritz-Tarnow-Straße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Fritz-Tarnow-Straße.secret.md) 

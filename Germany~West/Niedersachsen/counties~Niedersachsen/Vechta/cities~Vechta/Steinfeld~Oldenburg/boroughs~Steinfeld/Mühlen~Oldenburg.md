@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Muehlen~Oldenburg|Muehlen~Oldenburg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muehlen~Oldenburg.internal|Muehlen~Oldenburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muehlen~Oldenburg.protect|Muehlen~Oldenburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muehlen~Oldenburg.private|Muehlen~Oldenburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muehlen~Oldenburg.personal|Muehlen~Oldenburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muehlen~Oldenburg.secret|Muehlen~Oldenburg.secret]] 
+
+### [Mühlen~Oldenburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Steinfeld~Oldenburg/boroughs~Steinfeld/Mühlen~Oldenburg.md) 
+
+### [Mühlen~Oldenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Steinfeld~Oldenburg/boroughs~Steinfeld/Mühlen~Oldenburg.internal.md) 
+
+### [Mühlen~Oldenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Steinfeld~Oldenburg/boroughs~Steinfeld/Mühlen~Oldenburg.protect.md) 
+
+### [Mühlen~Oldenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Steinfeld~Oldenburg/boroughs~Steinfeld/Mühlen~Oldenburg.private.md) 
+
+### [Mühlen~Oldenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Steinfeld~Oldenburg/boroughs~Steinfeld/Mühlen~Oldenburg.personal.md) 
+
+### [Mühlen~Oldenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Steinfeld~Oldenburg/boroughs~Steinfeld/Mühlen~Oldenburg.secret.md) 

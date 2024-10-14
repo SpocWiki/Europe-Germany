@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.87,9.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Fallingbostel|Fallingbostel]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fallingbostel.internal|Fallingbostel.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fallingbostel.protect|Fallingbostel.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fallingbostel.private|Fallingbostel.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fallingbostel.personal|Fallingbostel.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fallingbostel.secret|Fallingbostel.secret]] 
+
+### [Fallingbostel](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Bad_Fallingbostel/boroughs~Bad_Fallingbostel/Fallingbostel.md) 
+
+### [Fallingbostel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Bad_Fallingbostel/boroughs~Bad_Fallingbostel/Fallingbostel.internal.md) 
+
+### [Fallingbostel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Bad_Fallingbostel/boroughs~Bad_Fallingbostel/Fallingbostel.protect.md) 
+
+### [Fallingbostel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Bad_Fallingbostel/boroughs~Bad_Fallingbostel/Fallingbostel.private.md) 
+
+### [Fallingbostel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Bad_Fallingbostel/boroughs~Bad_Fallingbostel/Fallingbostel.personal.md) 
+
+### [Fallingbostel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Bad_Fallingbostel/boroughs~Bad_Fallingbostel/Fallingbostel.secret.md) 

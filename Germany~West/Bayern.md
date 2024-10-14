@@ -1,10 +1,11 @@
----
+﻿---
 has_id_wikidata: Q980
-location: [48.8642,11.3382] 
+location:
+  - 48.8642
+  - 11.3382
 type: State
 ISO3166-2: DE-BY
 SpocWebEntityId: 36016
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
@@ -12,7 +13,7 @@ isReadOnly: false
 draft: false
 confidential: public
 tags:
-- geo/State
+  - geo/State
 icon: Flag_of_Bavaria_(lozengy)
 language used:
   - "[[_Standards/WikiData/WD~East Franconian German]]"
@@ -74,22 +75,28 @@ described by source:
   - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary]]"
   - "[[_Standards/WikiData/WD~Orthodox Theological Encyclopedia]]"
   - "[[_Standards/WikiData/WD~Vlastenský slovník historický]]"
-legislative body: "[[_Standards/WikiData/WD~Landtag of Bavaria]]"
+legislative body:
+  - "[[_Standards/WikiData/WD~Landtag of Bavaria]]"
 coat of arms: "[[_Standards/WikiData/WD~coat of arms of Bavaria]]"
 flag: "[[_Standards/WikiData/WD~flag of Bavaria]]"
-executive body: "[[_Standards/WikiData/WD~Government of Bavaria]]"
+executive body:
+  - "[[_Standards/WikiData/WD~Government of Bavaria]]"
 highest judicial authority: "[[_Standards/WikiData/WD~Bavarian Constitutional Court]]"
 archives at: "[[_Standards/WikiData/WD~Bavarian Hauptstaatsarchiv]]"
-instance of: "[[_Standards/WikiData/WD~federated state of Germany]]"
-basic form of government: "[[_Standards/WikiData/WD~parliamentary republic]]"
+instance of:
+  - "[[_Standards/WikiData/WD~federated state of Germany]]"
+basic form of government:
+  - "[[_Standards/WikiData/WD~parliamentary republic]]"
 topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal:Bavaria]]"
 office held by head of government: "[[_Standards/WikiData/WD~Minister-President of Bavaria]]"
 coordinates of southernmost point: Point(10.17833 47.2701)
 top-level Internet domain: "[[_Standards/db/.bayern]]"
 "Image Archive, Herder Institute": Q980
-open data portal: "[[_Standards/WikiData/WD~open bydata]]"
+open data portal:
+  - "[[_Standards/WikiData/WD~open bydata]]"
 economy of topic: "[[_Standards/WikiData/WD~economy of Bavaria]]"
-different from: "[[_Standards/WikiData/WD~Q108285653]]"
+different from:
+  - "[[_Standards/WikiData/WD~Q108285653]]"
 award received: "[[_Standards/WikiData/WD~BigBrotherAwards]]"
 U.S. National Archives Identifier: "10044973"
 geoshape: http://commons.wikimedia.org/data/main/Data:Bayern.map
@@ -102,7 +109,8 @@ pronunciation audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Hu-Bajororsz%C3%A1g.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28BiblioCanet66%29-Bavi%C3%A8re.wav
 locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Bavaria%20in%20Germany.svg
-detail map: http://commons.wikimedia.org/wiki/Special:FilePath/Topografische%20Karte%20Bayern.tif
+detail map:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Topografische%20Karte%20Bayern.tif
 official website: https://www.bayern.de/
 IPA transcription: ˈbaɪ̯ɐn
 Swedish Anbytarforum: "6076.0"
@@ -111,7 +119,8 @@ BHCL UUID:
   - b8111df2-3516-4d30-8087-1895837e1b9a
   - 53e90ed0-ce88-499f-8668-7823f6299b54
 ISO 3166-2 code: DE-BY
-HASC: DE.BY
+HASC:
+  - DE.BY
 NUTS code: DE2
 FIPS 10-4 (countries and regions): GM02
 short name:
@@ -165,7 +174,8 @@ contains the administrative territorial entity:
   - "[[_Standards/WikiData/WD~Lower Bavaria]]"
   - "[[_Standards/WikiData/WD~Swabia]]"
   - "[[_Standards/WikiData/WD~Upper Bavaria]]"
-located in time zone: "[[_Standards/WikiData/WD~Central European Time]]"
+located in time zone:
+  - "[[_Standards/WikiData/WD~Central European Time]]"
 continent: "[[_Standards/WikiData/WD~Europe]]"
 located in the administrative territorial entity: "[[_Standards/WikiData/WD~Germany]]"
 country: "[[_Standards/WikiData/WD~Germany]]"
@@ -189,21 +199,24 @@ flag image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bavaria%20%28lozengy%29.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bavaria%20%28striped%29.svg
 budget: 71424666800
-native label: Freistaat Bayern
+native label:
+  - Freistaat Bayern
 inception: 1919-01-12T00:00:00Z
 coordinate location: Point(11.385555555 49.078611111)
 coordinates of northernmost point: Point(10.19564 50.55515)
 Commons category: Bavaria
 Commons gallery: Bayern
 YouTube handle: Bayern
-
-cssclasses: state
+cssclasses:
+  - state
 publish: true
 linkTitle: 
 keywords: 
 layout: 
 publishDate: 
 expiryDate: 
+aliases:
+  - Bavaria
 ---
 
 # [[Bayern]] 
@@ -290,9 +303,15 @@ Capital ::  [[München]]
 
 
 ## Confidential Links & Embeds: 
-- [[Bayern|Bayern]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern.internal|Bayern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern.protect|Bayern.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern.private|Bayern.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern.personal|Bayern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern.secret|Bayern.secret]] 
+
+### [Bayern](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.md) 
+
+### [Bayern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.internal.md) 
+
+### [Bayern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.protect.md) 
+
+### [Bayern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.private.md) 
+
+### [Bayern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.personal.md) 
+
+### [Bayern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.27,10.37] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Vechelde|Vechelde]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vechelde.internal|Vechelde.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vechelde.protect|Vechelde.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vechelde.private|Vechelde.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vechelde.personal|Vechelde.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vechelde.secret|Vechelde.secret]] 
+
+### [Vechelde](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Peine/cities~Peine/Vechelde/boroughs~Vechelde/Vechelde.md) 
+
+### [Vechelde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Peine/cities~Peine/Vechelde/boroughs~Vechelde/Vechelde.internal.md) 
+
+### [Vechelde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Peine/cities~Peine/Vechelde/boroughs~Vechelde/Vechelde.protect.md) 
+
+### [Vechelde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Peine/cities~Peine/Vechelde/boroughs~Vechelde/Vechelde.private.md) 
+
+### [Vechelde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Peine/cities~Peine/Vechelde/boroughs~Vechelde/Vechelde.personal.md) 
+
+### [Vechelde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Peine/cities~Peine/Vechelde/boroughs~Vechelde/Vechelde.secret.md) 

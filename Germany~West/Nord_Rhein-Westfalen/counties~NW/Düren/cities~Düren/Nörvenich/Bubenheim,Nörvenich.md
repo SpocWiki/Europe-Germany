@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Bubenheim|Bubenheim]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bubenheim.internal|Bubenheim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bubenheim.protect|Bubenheim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bubenheim.private|Bubenheim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bubenheim.personal|Bubenheim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bubenheim.secret|Bubenheim.secret]] 
+
+### [Bubenheim,Nörvenich](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich.md) 
+
+### [Bubenheim,Nörvenich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich.internal.md) 
+
+### [Bubenheim,Nörvenich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich.protect.md) 
+
+### [Bubenheim,Nörvenich.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich.private.md) 
+
+### [Bubenheim,Nörvenich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich.personal.md) 
+
+### [Bubenheim,Nörvenich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich.secret.md) 

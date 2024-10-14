@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.23,8.62] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -41,9 +41,15 @@ Saalburg, Limes des Römischen Reiches ( [[Unesco]] Welterbe seit 2005)
 
 
 ## Confidential Links & Embeds: 
-- [[Bad_Homburg~Höhe|Bad_Homburg~Höhe]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Bad_Homburg~Höhe.internal|Bad_Homburg~Höhe.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Bad_Homburg~Höhe.protect|Bad_Homburg~Höhe.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Bad_Homburg~Höhe.private|Bad_Homburg~Höhe.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Bad_Homburg~Höhe.personal|Bad_Homburg~Höhe.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Bad_Homburg~Höhe.secret|Bad_Homburg~Höhe.secret]] 
+
+### [Bad_Homburg~Höhe](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Bad_Homburg~Höhe.md) 
+
+### [Bad_Homburg~Höhe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Bad_Homburg~Höhe.internal.md) 
+
+### [Bad_Homburg~Höhe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Bad_Homburg~Höhe.protect.md) 
+
+### [Bad_Homburg~Höhe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Bad_Homburg~Höhe.private.md) 
+
+### [Bad_Homburg~Höhe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Bad_Homburg~Höhe.personal.md) 
+
+### [Bad_Homburg~Höhe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Bad_Homburg~Höhe.secret.md) 

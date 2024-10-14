@@ -35,9 +35,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Mülheim~Ruhr|Mülheim~Ruhr]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mülheim~Ruhr.internal|Mülheim~Ruhr.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mülheim~Ruhr.protect|Mülheim~Ruhr.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mülheim~Ruhr.private|Mülheim~Ruhr.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mülheim~Ruhr.personal|Mülheim~Ruhr.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mülheim~Ruhr.secret|Mülheim~Ruhr.secret]] 
+
+### [Mülheim~Ruhr](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Mülheim~Ruhr.md) 
+
+### [Mülheim~Ruhr.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Mülheim~Ruhr.internal.md) 
+
+### [Mülheim~Ruhr.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Mülheim~Ruhr.protect.md) 
+
+### [Mülheim~Ruhr.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Mülheim~Ruhr.private.md) 
+
+### [Mülheim~Ruhr.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Mülheim~Ruhr.personal.md) 
+
+### [Mülheim~Ruhr.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Mülheim~Ruhr.secret.md) 

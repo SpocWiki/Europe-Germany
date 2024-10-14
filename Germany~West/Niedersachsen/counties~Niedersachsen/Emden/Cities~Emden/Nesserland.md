@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.35,7.18] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Nesserland|Nesserland]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nesserland.internal|Nesserland.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nesserland.protect|Nesserland.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nesserland.private|Nesserland.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nesserland.personal|Nesserland.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nesserland.secret|Nesserland.secret]] 
+
+### [Nesserland](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden/Cities~Emden/Nesserland.md) 
+
+### [Nesserland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden/Cities~Emden/Nesserland.internal.md) 
+
+### [Nesserland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden/Cities~Emden/Nesserland.protect.md) 
+
+### [Nesserland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden/Cities~Emden/Nesserland.private.md) 
+
+### [Nesserland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden/Cities~Emden/Nesserland.personal.md) 
+
+### [Nesserland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden/Cities~Emden/Nesserland.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.15,14.98] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -44,10 +44,15 @@ mit Verkündungskanzel von Wendel Roskopf dem Älteren,
 der Dicke sowie der Reichenbacher Turm.
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Görlitz-city|Görlitz-city]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Görlitz-city.public|Görlitz-city.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Görlitz-city.internal|Görlitz-city.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Görlitz-city.protect|Görlitz-city.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Görlitz-city.private|Görlitz-city.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Görlitz-city.personal|Görlitz-city.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Görlitz-city.secret|Görlitz-city.secret]] 
+
+### [Görlitz-city](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.md) 
+
+### [Görlitz-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.internal.md) 
+
+### [Görlitz-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.protect.md) 
+
+### [Görlitz-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.private.md) 
+
+### [Görlitz-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.personal.md) 
+
+### [Görlitz-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.15,11.03] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,30 @@ maxZoom: 18
 ```
 
 
+## #has_/text_of_/abstract 
+
+> **Hitzacker** is a town in the Lüchow-Dannenberg district of Lower Saxony, Germany. 
+> It is situated on the river Elbe, approx. 8 km north of Dannenberg, and 45 km east of Lüneburg. 
+> The 2007 population of Hitzacker was 4,982, and its postal code is 29456. The mayor is Holger Mertins. 
+> The town is located on the [[German Timber-Frame Road]] 
+> and is part of the Samtgemeinde ("collective municipality") of Elbtalaue.
+>
+> The famous library now in Wolfenbüttel was founded here by Augustus the Younger, 
+> Duke of Brunswick-Lüneburg (who died in 1666) and was moved to its present location in 1643.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Hitzacker)
+
+
 ## Confidential Links & Embeds: 
-- [[Hitzacker|Hitzacker]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hitzacker.internal|Hitzacker.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hitzacker.protect|Hitzacker.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hitzacker.private|Hitzacker.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hitzacker.personal|Hitzacker.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hitzacker.secret|Hitzacker.secret]] 
+
+### [Hitzacker~Elbe](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.md) 
+
+### [Hitzacker~Elbe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.internal.md) 
+
+### [Hitzacker~Elbe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.protect.md) 
+
+### [Hitzacker~Elbe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.private.md) 
+
+### [Hitzacker~Elbe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.personal.md) 
+
+### [Hitzacker~Elbe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.secret.md) 

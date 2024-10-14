@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.6,10.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Westercelle|Westercelle]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westercelle.internal|Westercelle.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westercelle.protect|Westercelle.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westercelle.private|Westercelle.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westercelle.personal|Westercelle.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westercelle.secret|Westercelle.secret]] 
+
+### [Westercelle](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle/cities~Celle/Celle-city/boroughs~Celle/Westercelle.md) 
+
+### [Westercelle.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle/cities~Celle/Celle-city/boroughs~Celle/Westercelle.internal.md) 
+
+### [Westercelle.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle/cities~Celle/Celle-city/boroughs~Celle/Westercelle.protect.md) 
+
+### [Westercelle.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle/cities~Celle/Celle-city/boroughs~Celle/Westercelle.private.md) 
+
+### [Westercelle.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle/cities~Celle/Celle-city/boroughs~Celle/Westercelle.personal.md) 
+
+### [Westercelle.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle/cities~Celle/Celle-city/boroughs~Celle/Westercelle.secret.md) 

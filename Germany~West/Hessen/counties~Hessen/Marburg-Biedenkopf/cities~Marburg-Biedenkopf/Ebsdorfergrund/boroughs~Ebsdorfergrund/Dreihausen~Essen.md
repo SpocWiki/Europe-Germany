@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.73,8.87] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Dreihausen~Essen|Dreihausen~Essen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Dreihausen~Essen.internal|Dreihausen~Essen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Dreihausen~Essen.protect|Dreihausen~Essen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Dreihausen~Essen.private|Dreihausen~Essen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Dreihausen~Essen.personal|Dreihausen~Essen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Dreihausen~Essen.secret|Dreihausen~Essen.secret]] 
+
+### [Dreihausen~Essen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Ebsdorfergrund/boroughs~Ebsdorfergrund/Dreihausen~Essen.md) 
+
+### [Dreihausen~Essen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Ebsdorfergrund/boroughs~Ebsdorfergrund/Dreihausen~Essen.internal.md) 
+
+### [Dreihausen~Essen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Ebsdorfergrund/boroughs~Ebsdorfergrund/Dreihausen~Essen.protect.md) 
+
+### [Dreihausen~Essen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Ebsdorfergrund/boroughs~Ebsdorfergrund/Dreihausen~Essen.private.md) 
+
+### [Dreihausen~Essen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Ebsdorfergrund/boroughs~Ebsdorfergrund/Dreihausen~Essen.personal.md) 
+
+### [Dreihausen~Essen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Ebsdorfergrund/boroughs~Ebsdorfergrund/Dreihausen~Essen.secret.md) 

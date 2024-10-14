@@ -36,10 +36,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Joachimsthal|Joachimsthal]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Joachimsthal.public|Joachimsthal.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Joachimsthal.internal|Joachimsthal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Joachimsthal.protect|Joachimsthal.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Joachimsthal.private|Joachimsthal.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Joachimsthal.personal|Joachimsthal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Joachimsthal.secret|Joachimsthal.secret]] 
+
+### [Joachimsthal~Schorfheide](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide.md) 
+
+### [Joachimsthal~Schorfheide.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide.internal.md) 
+
+### [Joachimsthal~Schorfheide.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide.protect.md) 
+
+### [Joachimsthal~Schorfheide.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide.private.md) 
+
+### [Joachimsthal~Schorfheide.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide.personal.md) 
+
+### [Joachimsthal~Schorfheide.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide.secret.md) 

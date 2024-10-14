@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Sommerland|Sommerland]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Sommerland.internal|Sommerland.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Sommerland.protect|Sommerland.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Sommerland.private|Sommerland.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Sommerland.personal|Sommerland.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Sommerland.secret|Sommerland.secret]] 
+
+### [Sommerland](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Horst-Herzhorn/boroughs~Horst-Herzhorn/Sommerland.md) 
+
+### [Sommerland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Horst-Herzhorn/boroughs~Horst-Herzhorn/Sommerland.internal.md) 
+
+### [Sommerland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Horst-Herzhorn/boroughs~Horst-Herzhorn/Sommerland.protect.md) 
+
+### [Sommerland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Horst-Herzhorn/boroughs~Horst-Herzhorn/Sommerland.private.md) 
+
+### [Sommerland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Horst-Herzhorn/boroughs~Horst-Herzhorn/Sommerland.personal.md) 
+
+### [Sommerland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Horst-Herzhorn/boroughs~Horst-Herzhorn/Sommerland.secret.md) 

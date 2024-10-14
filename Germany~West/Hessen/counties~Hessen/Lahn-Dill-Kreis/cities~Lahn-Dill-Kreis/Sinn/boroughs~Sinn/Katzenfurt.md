@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.63,8.32] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Katzenfurt|Katzenfurt]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Katzenfurt.internal|Katzenfurt.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Katzenfurt.protect|Katzenfurt.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Katzenfurt.private|Katzenfurt.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Katzenfurt.personal|Katzenfurt.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Katzenfurt.secret|Katzenfurt.secret]] 
+
+### [Katzenfurt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Sinn/boroughs~Sinn/Katzenfurt.md) 
+
+### [Katzenfurt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Sinn/boroughs~Sinn/Katzenfurt.internal.md) 
+
+### [Katzenfurt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Sinn/boroughs~Sinn/Katzenfurt.protect.md) 
+
+### [Katzenfurt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Sinn/boroughs~Sinn/Katzenfurt.private.md) 
+
+### [Katzenfurt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Sinn/boroughs~Sinn/Katzenfurt.personal.md) 
+
+### [Katzenfurt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Sinn/boroughs~Sinn/Katzenfurt.secret.md) 

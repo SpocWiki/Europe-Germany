@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kampehl|Kampehl]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kampehl.public|Kampehl.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kampehl.internal|Kampehl.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kampehl.protect|Kampehl.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kampehl.private|Kampehl.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kampehl.personal|Kampehl.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kampehl.secret|Kampehl.secret]] 
+
+### [Kampehl](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neustadt~Dosse/boroughs~Neust~Dosse/Neustadt~Dosse/Kampehl.md) 
+
+### [Kampehl.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neustadt~Dosse/boroughs~Neust~Dosse/Neustadt~Dosse/Kampehl.internal.md) 
+
+### [Kampehl.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neustadt~Dosse/boroughs~Neust~Dosse/Neustadt~Dosse/Kampehl.protect.md) 
+
+### [Kampehl.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neustadt~Dosse/boroughs~Neust~Dosse/Neustadt~Dosse/Kampehl.private.md) 
+
+### [Kampehl.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neustadt~Dosse/boroughs~Neust~Dosse/Neustadt~Dosse/Kampehl.personal.md) 
+
+### [Kampehl.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neustadt~Dosse/boroughs~Neust~Dosse/Neustadt~Dosse/Kampehl.secret.md) 

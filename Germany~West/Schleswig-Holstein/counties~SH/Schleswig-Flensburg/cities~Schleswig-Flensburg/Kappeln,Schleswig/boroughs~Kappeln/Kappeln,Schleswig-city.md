@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Kappeln~Schleswig|Kappeln~Schleswig]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kappeln~Schleswig.internal|Kappeln~Schleswig.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kappeln~Schleswig.protect|Kappeln~Schleswig.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kappeln~Schleswig.private|Kappeln~Schleswig.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kappeln~Schleswig.personal|Kappeln~Schleswig.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kappeln~Schleswig.secret|Kappeln~Schleswig.secret]] 
+
+### [Kappeln,Schleswig-city](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kappeln,Schleswig/boroughs~Kappeln/Kappeln,Schleswig-city.md) 
+
+### [Kappeln,Schleswig-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kappeln,Schleswig/boroughs~Kappeln/Kappeln,Schleswig-city.internal.md) 
+
+### [Kappeln,Schleswig-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kappeln,Schleswig/boroughs~Kappeln/Kappeln,Schleswig-city.protect.md) 
+
+### [Kappeln,Schleswig-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kappeln,Schleswig/boroughs~Kappeln/Kappeln,Schleswig-city.private.md) 
+
+### [Kappeln,Schleswig-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kappeln,Schleswig/boroughs~Kappeln/Kappeln,Schleswig-city.personal.md) 
+
+### [Kappeln,Schleswig-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kappeln,Schleswig/boroughs~Kappeln/Kappeln,Schleswig-city.secret.md) 

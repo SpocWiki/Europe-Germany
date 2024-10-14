@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.18,9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Bruchkoebel|Bruchkoebel]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Bruchkoebel.internal|Bruchkoebel.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Bruchkoebel.protect|Bruchkoebel.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Bruchkoebel.private|Bruchkoebel.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Bruchkoebel.personal|Bruchkoebel.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Bruchkoebel.secret|Bruchkoebel.secret]] 
+
+### [Bruchkoebel](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Erlensee/boroughs~Erlensee/Bruchkoebel.md) 
+
+### [Bruchkoebel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Erlensee/boroughs~Erlensee/Bruchkoebel.internal.md) 
+
+### [Bruchkoebel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Erlensee/boroughs~Erlensee/Bruchkoebel.protect.md) 
+
+### [Bruchkoebel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Erlensee/boroughs~Erlensee/Bruchkoebel.private.md) 
+
+### [Bruchkoebel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Erlensee/boroughs~Erlensee/Bruchkoebel.personal.md) 
+
+### [Bruchkoebel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Erlensee/boroughs~Erlensee/Bruchkoebel.secret.md) 

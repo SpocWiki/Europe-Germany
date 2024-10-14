@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Schoenberg~Holstein|Schoenberg~Holstein]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schoenberg~Holstein.internal|Schoenberg~Holstein.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schoenberg~Holstein.protect|Schoenberg~Holstein.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schoenberg~Holstein.private|Schoenberg~Holstein.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schoenberg~Holstein.personal|Schoenberg~Holstein.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schoenberg~Holstein.secret|Schoenberg~Holstein.secret]] 
+
+### [Schönberg,Holstein](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Probstei/boroughs~Probstei/Schönberg,Holstein.md) 
+
+### [Schönberg,Holstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Probstei/boroughs~Probstei/Schönberg,Holstein.internal.md) 
+
+### [Schönberg,Holstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Probstei/boroughs~Probstei/Schönberg,Holstein.protect.md) 
+
+### [Schönberg,Holstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Probstei/boroughs~Probstei/Schönberg,Holstein.private.md) 
+
+### [Schönberg,Holstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Probstei/boroughs~Probstei/Schönberg,Holstein.personal.md) 
+
+### [Schönberg,Holstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Probstei/boroughs~Probstei/Schönberg,Holstein.secret.md) 

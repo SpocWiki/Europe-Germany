@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.68,9.62] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Schwarmstedt|Schwarmstedt]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schwarmstedt.internal|Schwarmstedt.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schwarmstedt.protect|Schwarmstedt.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schwarmstedt.private|Schwarmstedt.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schwarmstedt.personal|Schwarmstedt.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schwarmstedt.secret|Schwarmstedt.secret]] 
+
+### [Schwarmstedt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Schwarmstedt.md) 
+
+### [Schwarmstedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Schwarmstedt.internal.md) 
+
+### [Schwarmstedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Schwarmstedt.protect.md) 
+
+### [Schwarmstedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Schwarmstedt.private.md) 
+
+### [Schwarmstedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Schwarmstedt.personal.md) 
+
+### [Schwarmstedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Schwarmstedt.secret.md) 

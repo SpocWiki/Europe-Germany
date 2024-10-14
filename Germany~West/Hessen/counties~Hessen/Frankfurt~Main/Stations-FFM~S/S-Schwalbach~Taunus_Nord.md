@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.15986,8.534777] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[S-Schwalbach~Taunus_Nord|S-Schwalbach~Taunus_Nord]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Schwalbach~Taunus_Nord.internal|S-Schwalbach~Taunus_Nord.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Schwalbach~Taunus_Nord.protect|S-Schwalbach~Taunus_Nord.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Schwalbach~Taunus_Nord.private|S-Schwalbach~Taunus_Nord.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Schwalbach~Taunus_Nord.personal|S-Schwalbach~Taunus_Nord.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Schwalbach~Taunus_Nord.secret|S-Schwalbach~Taunus_Nord.secret]] 
+
+### [S-Schwalbach~Taunus_Nord](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Schwalbach~Taunus_Nord.md) 
+
+### [S-Schwalbach~Taunus_Nord.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Schwalbach~Taunus_Nord.internal.md) 
+
+### [S-Schwalbach~Taunus_Nord.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Schwalbach~Taunus_Nord.protect.md) 
+
+### [S-Schwalbach~Taunus_Nord.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Schwalbach~Taunus_Nord.private.md) 
+
+### [S-Schwalbach~Taunus_Nord.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Schwalbach~Taunus_Nord.personal.md) 
+
+### [S-Schwalbach~Taunus_Nord.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Schwalbach~Taunus_Nord.secret.md) 

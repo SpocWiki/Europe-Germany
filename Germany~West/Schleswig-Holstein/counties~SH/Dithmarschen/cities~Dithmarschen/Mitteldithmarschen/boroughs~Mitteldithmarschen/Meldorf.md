@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Meldorf|Meldorf]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Meldorf.internal|Meldorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Meldorf.protect|Meldorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Meldorf.private|Meldorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Meldorf.personal|Meldorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Meldorf.secret|Meldorf.secret]] 
+
+### [Meldorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf.md) 
+
+### [Meldorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf.internal.md) 
+
+### [Meldorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf.protect.md) 
+
+### [Meldorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf.private.md) 
+
+### [Meldorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf.personal.md) 
+
+### [Meldorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf.secret.md) 

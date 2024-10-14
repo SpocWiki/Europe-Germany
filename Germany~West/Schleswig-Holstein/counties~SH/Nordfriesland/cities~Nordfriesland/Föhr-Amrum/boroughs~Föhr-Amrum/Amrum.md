@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Amrum|Amrum]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Amrum.internal|Amrum.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Amrum.protect|Amrum.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Amrum.private|Amrum.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Amrum.personal|Amrum.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Amrum.secret|Amrum.secret]] 
+
+### [Amrum](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Föhr-Amrum/boroughs~Föhr-Amrum/Amrum.md) 
+
+### [Amrum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Föhr-Amrum/boroughs~Föhr-Amrum/Amrum.internal.md) 
+
+### [Amrum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Föhr-Amrum/boroughs~Föhr-Amrum/Amrum.protect.md) 
+
+### [Amrum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Föhr-Amrum/boroughs~Föhr-Amrum/Amrum.private.md) 
+
+### [Amrum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Föhr-Amrum/boroughs~Föhr-Amrum/Amrum.personal.md) 
+
+### [Amrum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Föhr-Amrum/boroughs~Föhr-Amrum/Amrum.secret.md) 

@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Dingelstaedt-Eichsfeld|Dingelstaedt-Eichsfeld]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Dingelstaedt-Eichsfeld.public|Dingelstaedt-Eichsfeld.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Dingelstaedt-Eichsfeld.internal|Dingelstaedt-Eichsfeld.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Dingelstaedt-Eichsfeld.protect|Dingelstaedt-Eichsfeld.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Dingelstaedt-Eichsfeld.private|Dingelstaedt-Eichsfeld.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Dingelstaedt-Eichsfeld.personal|Dingelstaedt-Eichsfeld.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Dingelstaedt-Eichsfeld.secret|Dingelstaedt-Eichsfeld.secret]] 
+
+### [Dingelstaedt-Eichsfeld](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Dingelstädt/City/Dingelstaedt-Eichsfeld.md) 
+
+### [Dingelstaedt-Eichsfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Dingelstädt/City/Dingelstaedt-Eichsfeld.internal.md) 
+
+### [Dingelstaedt-Eichsfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Dingelstädt/City/Dingelstaedt-Eichsfeld.protect.md) 
+
+### [Dingelstaedt-Eichsfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Dingelstädt/City/Dingelstaedt-Eichsfeld.private.md) 
+
+### [Dingelstaedt-Eichsfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Dingelstädt/City/Dingelstaedt-Eichsfeld.personal.md) 
+
+### [Dingelstaedt-Eichsfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Dingelstädt/City/Dingelstaedt-Eichsfeld.secret.md) 

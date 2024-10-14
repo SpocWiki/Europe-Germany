@@ -1,19 +1,22 @@
----
+﻿---
 has_id_wikidata: Q1199
-location: [50.4897,8.8478] 
+location:
+  - 50.4897
+  - 8.8478
 type: State
 ISO3166-2: DE-HE
 SpocWebEntityId: 36017
 isDeleted: false
 Confidential: public
 tags:
-- geo/State
+  - geo/State
 icon: Flag_of_Hesse
 social media followers: 502
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wiesbaden%20banner%20Bowling-Green%20Panorama%20Nacht.jpg
 German regional key: "06"
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Hesse.svg
-native label: Hessen
+native label:
+  - Hessen
 official name: Hessen
 U.S. National Archives Identifier: "10044796"
 Commons category: Hesse
@@ -21,7 +24,8 @@ logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Hessische%20Lande
 population: 6265809
 OmegaWiki Defined Meaning: "414556"
 inception: 1945-09-19T00:00:00Z
-subreddit: hessen
+subreddit:
+  - hessen
 NUTS code: DE7
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hesse.svg
 coordinate location: Point(9.028472222 50.608027777)
@@ -31,13 +35,15 @@ named after: "[[_Standards/WikiData/WD~Chatti]]"
 highest point: "[[_Standards/WikiData/WD~Wasserkuppe]]"
 said to be the same as: "[[_Standards/WikiData/WD~Greater Hesse]]"
 coat of arms: "[[_Standards/WikiData/WD~coat of arms of Hesse]]"
-legislative body: "[[_Standards/WikiData/WD~Landtag of Hesse]]"
+legislative body:
+  - "[[_Standards/WikiData/WD~Landtag of Hesse]]"
 described by source:
   - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition]]"
   - "[[_Standards/WikiData/WD~Svensk uppslagsbok]]"
   - "[[_Standards/WikiData/WD~Topographia Hassiae]]"
   - "[[_Standards/WikiData/WD~Q105740947]]"
-instance of: "[[_Standards/WikiData/WD~federated state of Germany]]"
+instance of:
+  - "[[_Standards/WikiData/WD~federated state of Germany]]"
 archives at: "[[_Standards/WikiData/WD~Hessisches Hauptstaatsarchiv]]"
 office held by head of government: "[[_Standards/WikiData/WD~Minister-President of Hesse]]"
 highest judicial authority: "[[_Standards/WikiData/WD~Constitutional Court of the State of Hesse]]"
@@ -51,11 +57,13 @@ locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wiesbaden%20Landtag%20Hessen%20im%20Stadtschlo%C3%9F%20Wiesbaden%20am%20Schlo%C3%9Fplatz%20-%20Foto%20Wolfgang%20Pehlemann%20Wiesbaden%20DSCN1417.jpg
 Dewey Decimal Classification: 2--4341
 ISO 3166-2 code: DE-HE
-HASC: DE.HE
+HASC:
+  - DE.HE
 FIPS 10-4 (countries and regions): GM05
 Commons gallery: Hessen
 "Image Archive, Herder Institute": Q1199
-BHCL UUID: 9de2273d-0fc9-4042-87d0-ace3c22fd703
+BHCL UUID:
+  - 9de2273d-0fc9-4042-87d0-ace3c22fd703
 Mastodon address: landesregierung@social.hessen.de
 Facebook username: hessen.de
 Instagram username: regierunghessen
@@ -90,6 +98,8 @@ country: "[[_Standards/WikiData/WD~Germany]]"
 official language: "[[_Standards/WikiData/WD~German]]"
 area: 21100
 elevation above sea level: 264
+aliases:
+  - Hesse
 ---
 
 [name::Hessen] 
@@ -120,9 +130,15 @@ Capital :: [[Wiesbaden]]
 
 
 ## Confidential Links & Embeds: 
-- [[Hessen|Hessen]]  
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen.internal|Hessen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen.protect|Hessen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen.private|Hessen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen.personal|Hessen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen.secret|Hessen.secret]] 
+
+### [Hessen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.md) 
+
+### [Hessen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.internal.md) 
+
+### [Hessen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.protect.md) 
+
+### [Hessen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.private.md) 
+
+### [Hessen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.personal.md) 
+
+### [Hessen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.secret.md) 

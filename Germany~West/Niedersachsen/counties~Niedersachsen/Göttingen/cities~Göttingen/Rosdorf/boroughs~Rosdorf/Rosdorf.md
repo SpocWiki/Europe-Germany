@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.5,9.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Rosdorf|Rosdorf]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rosdorf.internal|Rosdorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rosdorf.protect|Rosdorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rosdorf.private|Rosdorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rosdorf.personal|Rosdorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rosdorf.secret|Rosdorf.secret]] 
+
+### [Rosdorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf.md) 
+
+### [Rosdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf.internal.md) 
+
+### [Rosdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf.protect.md) 
+
+### [Rosdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf.private.md) 
+
+### [Rosdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf.personal.md) 
+
+### [Rosdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf.secret.md) 

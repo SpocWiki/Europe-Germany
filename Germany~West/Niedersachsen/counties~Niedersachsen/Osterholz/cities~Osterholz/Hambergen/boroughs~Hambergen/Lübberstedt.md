@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - 53.33
   - 8.82
@@ -36,9 +36,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
--[[Lübberstedt|Lübberstedt]]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luebberstedt.internal|Luebberstedt.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luebberstedt.protect|Luebberstedt.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luebberstedt.private|Luebberstedt.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luebberstedt.personal|Luebberstedt.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luebberstedt.secret|Luebberstedt.secret]] 
+
+### [Lübberstedt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Lübberstedt.md) 
+
+### [Lübberstedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Lübberstedt.internal.md) 
+
+### [Lübberstedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Lübberstedt.protect.md) 
+
+### [Lübberstedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Lübberstedt.private.md) 
+
+### [Lübberstedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Lübberstedt.personal.md) 
+
+### [Lübberstedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Lübberstedt.secret.md) 

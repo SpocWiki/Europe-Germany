@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Hohenweststedt|Hohenweststedt]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohenweststedt.internal|Hohenweststedt.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohenweststedt.protect|Hohenweststedt.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohenweststedt.private|Hohenweststedt.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohenweststedt.personal|Hohenweststedt.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohenweststedt.secret|Hohenweststedt.secret]] 
+
+### [Hohenweststedt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Mittelholstein/boroughs~Mittelholstein/Hohenweststedt.md) 
+
+### [Hohenweststedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Mittelholstein/boroughs~Mittelholstein/Hohenweststedt.internal.md) 
+
+### [Hohenweststedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Mittelholstein/boroughs~Mittelholstein/Hohenweststedt.protect.md) 
+
+### [Hohenweststedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Mittelholstein/boroughs~Mittelholstein/Hohenweststedt.private.md) 
+
+### [Hohenweststedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Mittelholstein/boroughs~Mittelholstein/Hohenweststedt.personal.md) 
+
+### [Hohenweststedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Mittelholstein/boroughs~Mittelholstein/Hohenweststedt.secret.md) 

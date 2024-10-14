@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Hattstedt|Hattstedt]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hattstedt.internal|Hattstedt.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hattstedt.protect|Hattstedt.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hattstedt.private|Hattstedt.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hattstedt.personal|Hattstedt.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hattstedt.secret|Hattstedt.secret]] 
+
+### [Hattstedt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Nordsee-Treene/boroughs~Nordsee-Treene/Hattstedt.md) 
+
+### [Hattstedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Nordsee-Treene/boroughs~Nordsee-Treene/Hattstedt.internal.md) 
+
+### [Hattstedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Nordsee-Treene/boroughs~Nordsee-Treene/Hattstedt.protect.md) 
+
+### [Hattstedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Nordsee-Treene/boroughs~Nordsee-Treene/Hattstedt.private.md) 
+
+### [Hattstedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Nordsee-Treene/boroughs~Nordsee-Treene/Hattstedt.personal.md) 
+
+### [Hattstedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Nordsee-Treene/boroughs~Nordsee-Treene/Hattstedt.secret.md) 

@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Harburg_bei_Hamburg|Harburg_bei_Hamburg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Hamburg/City/Harburg_bei_Hamburg.internal|Harburg_bei_Hamburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Hamburg/City/Harburg_bei_Hamburg.protect|Harburg_bei_Hamburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Hamburg/City/Harburg_bei_Hamburg.private|Harburg_bei_Hamburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Hamburg/City/Harburg_bei_Hamburg.personal|Harburg_bei_Hamburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Hamburg/City/Harburg_bei_Hamburg.secret|Harburg_bei_Hamburg.secret]] 
+
+### [Harburg_bei_Hamburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Harburg_bei_Hamburg.md) 
+
+### [Harburg_bei_Hamburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Harburg_bei_Hamburg.internal.md) 
+
+### [Harburg_bei_Hamburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Harburg_bei_Hamburg.protect.md) 
+
+### [Harburg_bei_Hamburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Harburg_bei_Hamburg.private.md) 
+
+### [Harburg_bei_Hamburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Harburg_bei_Hamburg.personal.md) 
+
+### [Harburg_bei_Hamburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Harburg_bei_Hamburg.secret.md) 

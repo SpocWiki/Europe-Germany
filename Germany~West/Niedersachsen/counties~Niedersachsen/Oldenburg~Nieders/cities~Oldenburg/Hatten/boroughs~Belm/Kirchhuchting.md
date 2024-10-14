@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.07,8.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Kirchhuchting|Kirchhuchting]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchhuchting.internal|Kirchhuchting.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchhuchting.protect|Kirchhuchting.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchhuchting.private|Kirchhuchting.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchhuchting.personal|Kirchhuchting.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchhuchting.secret|Kirchhuchting.secret]] 
+
+### [Kirchhuchting](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hatten/boroughs~Belm/Kirchhuchting.md) 
+
+### [Kirchhuchting.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hatten/boroughs~Belm/Kirchhuchting.internal.md) 
+
+### [Kirchhuchting.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hatten/boroughs~Belm/Kirchhuchting.protect.md) 
+
+### [Kirchhuchting.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hatten/boroughs~Belm/Kirchhuchting.private.md) 
+
+### [Kirchhuchting.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hatten/boroughs~Belm/Kirchhuchting.personal.md) 
+
+### [Kirchhuchting.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hatten/boroughs~Belm/Kirchhuchting.secret.md) 

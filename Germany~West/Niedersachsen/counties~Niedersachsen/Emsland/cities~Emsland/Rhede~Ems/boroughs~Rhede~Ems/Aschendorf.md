@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.05,7.25] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Aschendorf|Aschendorf]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Aschendorf.internal|Aschendorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Aschendorf.protect|Aschendorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Aschendorf.private|Aschendorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Aschendorf.personal|Aschendorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Aschendorf.secret|Aschendorf.secret]] 
+
+### [Aschendorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Rhede~Ems/boroughs~Rhede~Ems/Aschendorf.md) 
+
+### [Aschendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Rhede~Ems/boroughs~Rhede~Ems/Aschendorf.internal.md) 
+
+### [Aschendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Rhede~Ems/boroughs~Rhede~Ems/Aschendorf.protect.md) 
+
+### [Aschendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Rhede~Ems/boroughs~Rhede~Ems/Aschendorf.private.md) 
+
+### [Aschendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Rhede~Ems/boroughs~Rhede~Ems/Aschendorf.personal.md) 
+
+### [Aschendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Rhede~Ems/boroughs~Rhede~Ems/Aschendorf.secret.md) 

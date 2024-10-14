@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - 52.15
   - 10.97
@@ -36,9 +36,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
--[[Schöningen|Schöningen]]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeningen.internal|Schoeningen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeningen.protect|Schoeningen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeningen.private|Schoeningen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeningen.personal|Schoeningen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeningen.secret|Schoeningen.secret]] 
+
+### [Schöningen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Schöningen/boroughs~Schöningen/Schöningen.md) 
+
+### [Schöningen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Schöningen/boroughs~Schöningen/Schöningen.internal.md) 
+
+### [Schöningen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Schöningen/boroughs~Schöningen/Schöningen.protect.md) 
+
+### [Schöningen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Schöningen/boroughs~Schöningen/Schöningen.private.md) 
+
+### [Schöningen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Schöningen/boroughs~Schöningen/Schöningen.personal.md) 
+
+### [Schöningen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Schöningen/boroughs~Schöningen/Schöningen.secret.md) 

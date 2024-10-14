@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.119,8.689571] 
 type: Station 
 mapzoom: [8,18] 
@@ -32,9 +32,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[T-Hessendenkmal|T-Hessendenkmal]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hessendenkmal.internal|T-Hessendenkmal.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hessendenkmal.protect|T-Hessendenkmal.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hessendenkmal.private|T-Hessendenkmal.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hessendenkmal.personal|T-Hessendenkmal.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hessendenkmal.secret|T-Hessendenkmal.secret]] 
+
+### [T-Hessendenkmal](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Hessendenkmal.md) 
+
+### [T-Hessendenkmal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Hessendenkmal.internal.md) 
+
+### [T-Hessendenkmal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Hessendenkmal.protect.md) 
+
+### [T-Hessendenkmal.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Hessendenkmal.private.md) 
+
+### [T-Hessendenkmal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Hessendenkmal.personal.md) 
+
+### [T-Hessendenkmal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Hessendenkmal.secret.md) 

@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Heldburg|Heldburg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Heldburg.internal|Heldburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Heldburg.protect|Heldburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Heldburg.private|Heldburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Heldburg.personal|Heldburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Heldburg.secret|Heldburg.secret]] 
+
+### [Heldburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Heldburger_Unterland/City/Heldburg.md) 
+
+### [Heldburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Heldburger_Unterland/City/Heldburg.internal.md) 
+
+### [Heldburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Heldburger_Unterland/City/Heldburg.protect.md) 
+
+### [Heldburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Heldburger_Unterland/City/Heldburg.private.md) 
+
+### [Heldburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Heldburger_Unterland/City/Heldburg.personal.md) 
+
+### [Heldburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Heldburger_Unterland/City/Heldburg.secret.md) 

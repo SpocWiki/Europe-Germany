@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.98,9.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Visselhoevede|Visselhoevede]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Visselhoevede.internal|Visselhoevede.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Visselhoevede.protect|Visselhoevede.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Visselhoevede.private|Visselhoevede.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Visselhoevede.personal|Visselhoevede.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Visselhoevede.secret|Visselhoevede.secret]] 
+
+### [Visselhoevede](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Visselhövede/boroughs~Visselhövede/Visselhoevede.md) 
+
+### [Visselhoevede.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Visselhövede/boroughs~Visselhövede/Visselhoevede.internal.md) 
+
+### [Visselhoevede.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Visselhövede/boroughs~Visselhövede/Visselhoevede.protect.md) 
+
+### [Visselhoevede.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Visselhövede/boroughs~Visselhövede/Visselhoevede.private.md) 
+
+### [Visselhoevede.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Visselhövede/boroughs~Visselhövede/Visselhoevede.personal.md) 
+
+### [Visselhoevede.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Visselhövede/boroughs~Visselhövede/Visselhoevede.secret.md) 

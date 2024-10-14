@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.32,10.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Schwicheldt|Schwicheldt]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schwicheldt.internal|Schwicheldt.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schwicheldt.protect|Schwicheldt.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schwicheldt.private|Schwicheldt.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schwicheldt.personal|Schwicheldt.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schwicheldt.secret|Schwicheldt.secret]] 
+
+### [Schwicheldt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Sehnde/boroughs~Sehnde/Schwicheldt.md) 
+
+### [Schwicheldt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Sehnde/boroughs~Sehnde/Schwicheldt.internal.md) 
+
+### [Schwicheldt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Sehnde/boroughs~Sehnde/Schwicheldt.protect.md) 
+
+### [Schwicheldt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Sehnde/boroughs~Sehnde/Schwicheldt.private.md) 
+
+### [Schwicheldt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Sehnde/boroughs~Sehnde/Schwicheldt.personal.md) 
+
+### [Schwicheldt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Sehnde/boroughs~Sehnde/Schwicheldt.secret.md) 

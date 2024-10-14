@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.95,10.35] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Langelsheim|Langelsheim]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Langelsheim.internal|Langelsheim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Langelsheim.protect|Langelsheim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Langelsheim.private|Langelsheim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Langelsheim.personal|Langelsheim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Langelsheim.secret|Langelsheim.secret]] 
+
+### [Langelsheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Langelsheim/boroughs~Langelsheim/Langelsheim.md) 
+
+### [Langelsheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Langelsheim/boroughs~Langelsheim/Langelsheim.internal.md) 
+
+### [Langelsheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Langelsheim/boroughs~Langelsheim/Langelsheim.protect.md) 
+
+### [Langelsheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Langelsheim/boroughs~Langelsheim/Langelsheim.private.md) 
+
+### [Langelsheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Langelsheim/boroughs~Langelsheim/Langelsheim.personal.md) 
+
+### [Langelsheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Langelsheim/boroughs~Langelsheim/Langelsheim.secret.md) 

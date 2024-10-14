@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Waldhoefe|Waldhoefe]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Waldhoefe.internal|Waldhoefe.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Waldhoefe.protect|Waldhoefe.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Waldhoefe.private|Waldhoefe.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Waldhoefe.personal|Waldhoefe.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Waldhoefe.secret|Waldhoefe.secret]] 
+
+### [Waldhöfe](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Werlte/boroughs~Werlte/Waldhöfe.md) 
+
+### [Waldhöfe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Werlte/boroughs~Werlte/Waldhöfe.internal.md) 
+
+### [Waldhöfe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Werlte/boroughs~Werlte/Waldhöfe.protect.md) 
+
+### [Waldhöfe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Werlte/boroughs~Werlte/Waldhöfe.private.md) 
+
+### [Waldhöfe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Werlte/boroughs~Werlte/Waldhöfe.personal.md) 
+
+### [Waldhöfe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Werlte/boroughs~Werlte/Waldhöfe.secret.md) 

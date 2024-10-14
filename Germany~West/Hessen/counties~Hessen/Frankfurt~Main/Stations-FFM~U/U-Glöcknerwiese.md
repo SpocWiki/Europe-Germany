@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.21313,8.562534] 
 type: Station 
 mapzoom: [8,18] 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[U-Glöcknerwiese|U-Glöcknerwiese]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Glöcknerwiese.internal|U-Glöcknerwiese.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Glöcknerwiese.protect|U-Glöcknerwiese.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Glöcknerwiese.private|U-Glöcknerwiese.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Glöcknerwiese.personal|U-Glöcknerwiese.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Glöcknerwiese.secret|U-Glöcknerwiese.secret]] 
+
+### [U-Glöcknerwiese](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Glöcknerwiese.md) 
+
+### [U-Glöcknerwiese.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Glöcknerwiese.internal.md) 
+
+### [U-Glöcknerwiese.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Glöcknerwiese.protect.md) 
+
+### [U-Glöcknerwiese.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Glöcknerwiese.private.md) 
+
+### [U-Glöcknerwiese.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Glöcknerwiese.personal.md) 
+
+### [U-Glöcknerwiese.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Glöcknerwiese.secret.md) 

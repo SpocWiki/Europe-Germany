@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Goldenstaedt~Meklenburg|Goldenstaedt~Meklenburg]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Goldenstaedt~Meklenburg.public|Goldenstaedt~Meklenburg.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Goldenstaedt~Meklenburg.internal|Goldenstaedt~Meklenburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Goldenstaedt~Meklenburg.protect|Goldenstaedt~Meklenburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Goldenstaedt~Meklenburg.private|Goldenstaedt~Meklenburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Goldenstaedt~Meklenburg.personal|Goldenstaedt~Meklenburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Goldenstaedt~Meklenburg.secret|Goldenstaedt~Meklenburg.secret]] 
+
+### [Goldenstaedt~Meklenburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Ludwigslust/boroughs~Ludwigslust/Goldenstaedt~Meklenburg.md) 
+
+### [Goldenstaedt~Meklenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Ludwigslust/boroughs~Ludwigslust/Goldenstaedt~Meklenburg.internal.md) 
+
+### [Goldenstaedt~Meklenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Ludwigslust/boroughs~Ludwigslust/Goldenstaedt~Meklenburg.protect.md) 
+
+### [Goldenstaedt~Meklenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Ludwigslust/boroughs~Ludwigslust/Goldenstaedt~Meklenburg.private.md) 
+
+### [Goldenstaedt~Meklenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Ludwigslust/boroughs~Ludwigslust/Goldenstaedt~Meklenburg.personal.md) 
+
+### [Goldenstaedt~Meklenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Ludwigslust/boroughs~Ludwigslust/Goldenstaedt~Meklenburg.secret.md) 

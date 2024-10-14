@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - 49.25
   - 6.85
@@ -42,9 +42,15 @@ maxZoom: 18
 ![[../../../../../../../../../../../assets/geo/Europe/Germany/Völklinger_Hütte.webp]] 
 Völklinger Hütte ( [[Unesco]] Welterbe seit 1994) 
 ## Confidential Links & Embeds: 
-- [[Völklingen|Völklingen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Völklingen.internal|Völklingen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Völklingen.protect|Völklingen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Völklingen.private|Völklingen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Völklingen.personal|Völklingen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Völklingen.secret|Völklingen.secret]] 
+
+### [Völklingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Völklingen.md) 
+
+### [Völklingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Völklingen.internal.md) 
+
+### [Völklingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Völklingen.protect.md) 
+
+### [Völklingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Völklingen.private.md) 
+
+### [Völklingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Völklingen.personal.md) 
+
+### [Völklingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Völklingen.secret.md) 

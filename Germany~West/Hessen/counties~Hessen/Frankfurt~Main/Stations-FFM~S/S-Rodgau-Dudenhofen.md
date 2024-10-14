@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.99635,8.874723] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[S-Rodgau-Dudenhofen|S-Rodgau-Dudenhofen]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Dudenhofen.internal|S-Rodgau-Dudenhofen.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Dudenhofen.protect|S-Rodgau-Dudenhofen.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Dudenhofen.private|S-Rodgau-Dudenhofen.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Dudenhofen.personal|S-Rodgau-Dudenhofen.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Dudenhofen.secret|S-Rodgau-Dudenhofen.secret]] 
+
+### [S-Rodgau-Dudenhofen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Dudenhofen.md) 
+
+### [S-Rodgau-Dudenhofen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Dudenhofen.internal.md) 
+
+### [S-Rodgau-Dudenhofen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Dudenhofen.protect.md) 
+
+### [S-Rodgau-Dudenhofen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Dudenhofen.private.md) 
+
+### [S-Rodgau-Dudenhofen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Dudenhofen.personal.md) 
+
+### [S-Rodgau-Dudenhofen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Dudenhofen.secret.md) 

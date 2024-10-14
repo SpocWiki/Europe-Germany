@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Oberschoeneweide|Oberschoeneweide]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin/City/Oberschoeneweide.internal|Oberschoeneweide.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin/City/Oberschoeneweide.protect|Oberschoeneweide.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin/City/Oberschoeneweide.private|Oberschoeneweide.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Berlin/City/Oberschoeneweide.personal|Oberschoeneweide.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Berlin/City/Oberschoeneweide.secret|Oberschoeneweide.secret]] 
+
+### [Oberschoeneweide](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Oberschoeneweide.md) 
+
+### [Oberschoeneweide.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Oberschoeneweide.internal.md) 
+
+### [Oberschoeneweide.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Oberschoeneweide.protect.md) 
+
+### [Oberschoeneweide.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Oberschoeneweide.private.md) 
+
+### [Oberschoeneweide.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Oberschoeneweide.personal.md) 
+
+### [Oberschoeneweide.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Oberschoeneweide.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Deutschland (Germany)
 type: Country
 location: [50.8699,10.1207] 
@@ -669,7 +669,7 @@ specifically as part of the [\_Standards](https://github.com/SpocWiki/_Standards
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Germany 
 
 Check out this Repository into this Subfolder: 
-\_Standards/geo/Continent/Europe/Europe~Central/Germany 
+\_Standards/Earth/Continent/Europe/Europe~Central/Germany 
 
 > Caution: this is a very deep folder Structure with up to 170 Characters! 
 > Make sure to check it out into a shallow Location on Windows! 
@@ -857,12 +857,15 @@ Capital :: [[Berlin]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Germany|Germany]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~Central/Germany.public|Germany.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~Central/Germany.internal|Germany.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~Central/Germany.protect|Germany.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~Central/Germany.private|Germany.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~Central/Germany.personal|Germany.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Germany.secret|Germany.secret]] 
 
+### [ReadMe](/_public/Earth/Continent/Europe/Europe~Central/Germany/ReadMe.md) 
 
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/ReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/ReadMe.protect.md) 
+
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/ReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/ReadMe.secret.md) 

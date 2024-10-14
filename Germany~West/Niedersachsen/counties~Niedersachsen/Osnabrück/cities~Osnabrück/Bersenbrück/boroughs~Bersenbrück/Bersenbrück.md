@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - 52.88
   - 8
@@ -36,9 +36,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Bersenbrück|Bersenbrueck]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bersenbrueck.internal|Bersenbrueck.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bersenbrueck.protect|Bersenbrueck.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bersenbrueck.private|Bersenbrueck.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bersenbrueck.personal|Bersenbrueck.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bersenbrueck.secret|Bersenbrueck.secret]] 
+
+### [Bersenbrück](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Bersenbrück/boroughs~Bersenbrück/Bersenbrück.md) 
+
+### [Bersenbrück.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Bersenbrück/boroughs~Bersenbrück/Bersenbrück.internal.md) 
+
+### [Bersenbrück.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Bersenbrück/boroughs~Bersenbrück/Bersenbrück.protect.md) 
+
+### [Bersenbrück.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Bersenbrück/boroughs~Bersenbrück/Bersenbrück.private.md) 
+
+### [Bersenbrück.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Bersenbrück/boroughs~Bersenbrück/Bersenbrück.personal.md) 
+
+### [Bersenbrück.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Bersenbrück/boroughs~Bersenbrück/Bersenbrück.secret.md) 

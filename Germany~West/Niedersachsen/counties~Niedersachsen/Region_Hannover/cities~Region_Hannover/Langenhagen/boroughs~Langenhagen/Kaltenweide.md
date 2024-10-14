@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.48,9.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Kaltenweide|Kaltenweide]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kaltenweide.internal|Kaltenweide.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kaltenweide.protect|Kaltenweide.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kaltenweide.private|Kaltenweide.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kaltenweide.personal|Kaltenweide.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kaltenweide.secret|Kaltenweide.secret]] 
+
+### [Kaltenweide](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Langenhagen/boroughs~Langenhagen/Kaltenweide.md) 
+
+### [Kaltenweide.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Langenhagen/boroughs~Langenhagen/Kaltenweide.internal.md) 
+
+### [Kaltenweide.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Langenhagen/boroughs~Langenhagen/Kaltenweide.protect.md) 
+
+### [Kaltenweide.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Langenhagen/boroughs~Langenhagen/Kaltenweide.private.md) 
+
+### [Kaltenweide.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Langenhagen/boroughs~Langenhagen/Kaltenweide.personal.md) 
+
+### [Kaltenweide.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Langenhagen/boroughs~Langenhagen/Kaltenweide.secret.md) 

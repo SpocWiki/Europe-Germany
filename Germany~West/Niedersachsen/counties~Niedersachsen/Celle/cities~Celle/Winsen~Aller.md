@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.68,9.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Winsen~Aller|Winsen~Aller]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Aller.internal|Winsen~Aller.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Aller.protect|Winsen~Aller.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Aller.private|Winsen~Aller.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Aller.personal|Winsen~Aller.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Aller.secret|Winsen~Aller.secret]] 
+
+### [Winsen~Aller](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle/cities~Celle/Winsen~Aller.md) 
+
+### [Winsen~Aller.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle/cities~Celle/Winsen~Aller.internal.md) 
+
+### [Winsen~Aller.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle/cities~Celle/Winsen~Aller.protect.md) 
+
+### [Winsen~Aller.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle/cities~Celle/Winsen~Aller.private.md) 
+
+### [Winsen~Aller.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle/cities~Celle/Winsen~Aller.personal.md) 
+
+### [Winsen~Aller.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle/cities~Celle/Winsen~Aller.secret.md) 

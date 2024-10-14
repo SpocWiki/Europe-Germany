@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Moenchen-Gladbach=Moenchengladbach|Moenchen-Gladbach=Moenchengladbach]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Moenchen-Gladbach=Moenchengladbach.internal|Moenchen-Gladbach=Moenchengladbach.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Moenchen-Gladbach=Moenchengladbach.protect|Moenchen-Gladbach=Moenchengladbach.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Moenchen-Gladbach=Moenchengladbach.private|Moenchen-Gladbach=Moenchengladbach.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Moenchen-Gladbach=Moenchengladbach.personal|Moenchen-Gladbach=Moenchengladbach.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Moenchen-Gladbach=Moenchengladbach.secret|Moenchen-Gladbach=Moenchengladbach.secret]] 
+
+### [Mönchengladbach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Mönchengladbach.md) 
+
+### [Mönchengladbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Mönchengladbach.internal.md) 
+
+### [Mönchengladbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Mönchengladbach.protect.md) 
+
+### [Mönchengladbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Mönchengladbach.private.md) 
+
+### [Mönchengladbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Mönchengladbach.personal.md) 
+
+### [Mönchengladbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Mönchengladbach.secret.md) 

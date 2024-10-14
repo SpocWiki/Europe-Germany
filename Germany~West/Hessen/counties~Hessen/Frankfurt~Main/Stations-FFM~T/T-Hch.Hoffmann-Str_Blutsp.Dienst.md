@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.09259,8.652849] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[T-Hch.Hoffmann-Str_Blutsp.Dienst|T-Hch.Hoffmann-Str_Blutsp.Dienst]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hch.Hoffmann-Str_Blutsp.Dienst.internal|T-Hch.Hoffmann-Str_Blutsp.Dienst.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hch.Hoffmann-Str_Blutsp.Dienst.protect|T-Hch.Hoffmann-Str_Blutsp.Dienst.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hch.Hoffmann-Str_Blutsp.Dienst.private|T-Hch.Hoffmann-Str_Blutsp.Dienst.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hch.Hoffmann-Str_Blutsp.Dienst.personal|T-Hch.Hoffmann-Str_Blutsp.Dienst.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hch.Hoffmann-Str_Blutsp.Dienst.secret|T-Hch.Hoffmann-Str_Blutsp.Dienst.secret]] 
+
+### [T-Hch.Hoffmann-Str_Blutsp.Dienst](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Hch.Hoffmann-Str_Blutsp.Dienst.md) 
+
+### [T-Hch.Hoffmann-Str_Blutsp.Dienst.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Hch.Hoffmann-Str_Blutsp.Dienst.internal.md) 
+
+### [T-Hch.Hoffmann-Str_Blutsp.Dienst.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Hch.Hoffmann-Str_Blutsp.Dienst.protect.md) 
+
+### [T-Hch.Hoffmann-Str_Blutsp.Dienst.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Hch.Hoffmann-Str_Blutsp.Dienst.private.md) 
+
+### [T-Hch.Hoffmann-Str_Blutsp.Dienst.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Hch.Hoffmann-Str_Blutsp.Dienst.personal.md) 
+
+### [T-Hch.Hoffmann-Str_Blutsp.Dienst.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Hch.Hoffmann-Str_Blutsp.Dienst.secret.md) 

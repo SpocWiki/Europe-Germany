@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - 51.85
   - 10.17
@@ -36,9 +36,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
--[[Münchehof|Münchehof]]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muenchehof.internal|Muenchehof.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muenchehof.protect|Muenchehof.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muenchehof.private|Muenchehof.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muenchehof.personal|Muenchehof.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muenchehof.secret|Muenchehof.secret]] 
+
+### [Münchehof](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Seesen/boroughs~Seesen/Münchehof.md) 
+
+### [Münchehof.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Seesen/boroughs~Seesen/Münchehof.internal.md) 
+
+### [Münchehof.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Seesen/boroughs~Seesen/Münchehof.protect.md) 
+
+### [Münchehof.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Seesen/boroughs~Seesen/Münchehof.private.md) 
+
+### [Münchehof.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Seesen/boroughs~Seesen/Münchehof.personal.md) 
+
+### [Münchehof.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Seesen/boroughs~Seesen/Münchehof.secret.md) 

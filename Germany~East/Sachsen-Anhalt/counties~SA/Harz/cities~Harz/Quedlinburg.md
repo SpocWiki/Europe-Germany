@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.78,11.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -43,10 +43,15 @@ Der Dichter Friedrich Gottlieb Klopstock ist einer der berühmtesten Söhne Qued
 Stiftskirche, Schloss und Altstadt von Quedlinburg ( [[Unesco]] Welterbe seit 1994) 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Quedlinburg|Quedlinburg]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Quedlinburg.public|Quedlinburg.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Quedlinburg.internal|Quedlinburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Quedlinburg.protect|Quedlinburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Quedlinburg.private|Quedlinburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Quedlinburg.personal|Quedlinburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Quedlinburg.secret|Quedlinburg.secret]] 
+
+### [Quedlinburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.md) 
+
+### [Quedlinburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.internal.md) 
+
+### [Quedlinburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.protect.md) 
+
+### [Quedlinburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.private.md) 
+
+### [Quedlinburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.personal.md) 
+
+### [Quedlinburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.62,9.92] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Milseburg|Milseburg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Milseburg.internal|Milseburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Milseburg.protect|Milseburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Milseburg.private|Milseburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Milseburg.personal|Milseburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Milseburg.secret|Milseburg.secret]] 
+
+### [Milseburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Hofbieber/boroughs~Rosbach~Höhe/Milseburg.md) 
+
+### [Milseburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Hofbieber/boroughs~Rosbach~Höhe/Milseburg.internal.md) 
+
+### [Milseburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Hofbieber/boroughs~Rosbach~Höhe/Milseburg.protect.md) 
+
+### [Milseburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Hofbieber/boroughs~Rosbach~Höhe/Milseburg.private.md) 
+
+### [Milseburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Hofbieber/boroughs~Rosbach~Höhe/Milseburg.personal.md) 
+
+### [Milseburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Hofbieber/boroughs~Rosbach~Höhe/Milseburg.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.2,9.27] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Wirtheim|Wirtheim]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Wirtheim.internal|Wirtheim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Wirtheim.protect|Wirtheim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Wirtheim.private|Wirtheim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Wirtheim.personal|Wirtheim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Wirtheim.secret|Wirtheim.secret]] 
+
+### [Wirtheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Biebergemünd/boroughs~Biebergemünd/Wirtheim.md) 
+
+### [Wirtheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Biebergemünd/boroughs~Biebergemünd/Wirtheim.internal.md) 
+
+### [Wirtheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Biebergemünd/boroughs~Biebergemünd/Wirtheim.protect.md) 
+
+### [Wirtheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Biebergemünd/boroughs~Biebergemünd/Wirtheim.private.md) 
+
+### [Wirtheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Biebergemünd/boroughs~Biebergemünd/Wirtheim.personal.md) 
+
+### [Wirtheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Biebergemünd/boroughs~Biebergemünd/Wirtheim.secret.md) 

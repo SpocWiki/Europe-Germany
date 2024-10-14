@@ -1,4 +1,4 @@
-# [[Emden ]]
+﻿# [[Emden ]]
 
 
 ## #has_/map 
@@ -25,3 +25,17 @@ maxZoom: 18
 type: folder_brief_live
 ```
  
+
+## Confidential Links & Embeds: 
+
+### [Emden](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden.md) 
+
+### [Emden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden.internal.md) 
+
+### [Emden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden.protect.md) 
+
+### [Emden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden.private.md) 
+
+### [Emden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden.personal.md) 
+
+### [Emden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden.secret.md) 

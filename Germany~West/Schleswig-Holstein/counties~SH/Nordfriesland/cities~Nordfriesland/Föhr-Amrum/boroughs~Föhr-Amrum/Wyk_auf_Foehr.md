@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Wyk_auf_Foehr|Wyk_auf_Foehr]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wyk_auf_Foehr.internal|Wyk_auf_Foehr.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wyk_auf_Foehr.protect|Wyk_auf_Foehr.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wyk_auf_Foehr.private|Wyk_auf_Foehr.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wyk_auf_Foehr.personal|Wyk_auf_Foehr.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wyk_auf_Foehr.secret|Wyk_auf_Foehr.secret]] 
+
+### [Wyk_auf_Foehr](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Föhr-Amrum/boroughs~Föhr-Amrum/Wyk_auf_Foehr.md) 
+
+### [Wyk_auf_Foehr.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Föhr-Amrum/boroughs~Föhr-Amrum/Wyk_auf_Foehr.internal.md) 
+
+### [Wyk_auf_Foehr.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Föhr-Amrum/boroughs~Föhr-Amrum/Wyk_auf_Foehr.protect.md) 
+
+### [Wyk_auf_Foehr.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Föhr-Amrum/boroughs~Föhr-Amrum/Wyk_auf_Foehr.private.md) 
+
+### [Wyk_auf_Foehr.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Föhr-Amrum/boroughs~Föhr-Amrum/Wyk_auf_Foehr.personal.md) 
+
+### [Wyk_auf_Foehr.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Föhr-Amrum/boroughs~Föhr-Amrum/Wyk_auf_Foehr.secret.md) 

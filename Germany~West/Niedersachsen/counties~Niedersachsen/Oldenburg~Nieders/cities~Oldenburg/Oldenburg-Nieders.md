@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.13,8.22] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Oldenburg~Niedersachsen|Oldenburg~Niedersachsen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Oldenburg~Niedersachsen.internal|Oldenburg~Niedersachsen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Oldenburg~Niedersachsen.protect|Oldenburg~Niedersachsen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Oldenburg~Niedersachsen.private|Oldenburg~Niedersachsen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Oldenburg~Niedersachsen.personal|Oldenburg~Niedersachsen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Oldenburg~Niedersachsen.secret|Oldenburg~Niedersachsen.secret]] 
+
+### [Oldenburg-Nieders](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Oldenburg-Nieders.md) 
+
+### [Oldenburg-Nieders.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Oldenburg-Nieders.internal.md) 
+
+### [Oldenburg-Nieders.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Oldenburg-Nieders.protect.md) 
+
+### [Oldenburg-Nieders.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Oldenburg-Nieders.private.md) 
+
+### [Oldenburg-Nieders.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Oldenburg-Nieders.personal.md) 
+
+### [Oldenburg-Nieders.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Oldenburg-Nieders.secret.md) 

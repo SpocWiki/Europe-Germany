@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.65,8.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -37,9 +37,15 @@ maxZoom: 18
 Kloster Lorsch und Altenmünster ( [[Unesco]] Welterbe seit 1991)
 
 ## Confidential Links & Embeds: 
-- [[Lorsch|Lorsch]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Lorsch.internal|Lorsch.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Lorsch.protect|Lorsch.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Lorsch.private|Lorsch.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Lorsch.personal|Lorsch.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Lorsch.secret|Lorsch.secret]] 
+
+### [Lorsch](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.md) 
+
+### [Lorsch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.internal.md) 
+
+### [Lorsch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.protect.md) 
+
+### [Lorsch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.private.md) 
+
+### [Lorsch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.personal.md) 
+
+### [Lorsch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.secret.md) 

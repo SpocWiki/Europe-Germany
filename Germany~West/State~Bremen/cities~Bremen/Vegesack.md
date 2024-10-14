@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Vegesack|Vegesack]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Bremen/City/Vegesack.internal|Vegesack.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Bremen/City/Vegesack.protect|Vegesack.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/State~Bremen/City/Vegesack.private|Vegesack.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Bremen/City/Vegesack.personal|Vegesack.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Bremen/City/Vegesack.secret|Vegesack.secret]] 
+
+### [Vegesack](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Vegesack.md) 
+
+### [Vegesack.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Vegesack.internal.md) 
+
+### [Vegesack.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Vegesack.protect.md) 
+
+### [Vegesack.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Vegesack.private.md) 
+
+### [Vegesack.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Vegesack.personal.md) 
+
+### [Vegesack.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Vegesack.secret.md) 

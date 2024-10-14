@@ -1,4 +1,4 @@
----
+﻿---
 location: [50,8.82] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Dreieichenhain|Dreieichenhain]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Dreieichenhain.internal|Dreieichenhain.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Dreieichenhain.protect|Dreieichenhain.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Dreieichenhain.private|Dreieichenhain.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Dreieichenhain.personal|Dreieichenhain.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Dreieichenhain.secret|Dreieichenhain.secret]] 
+
+### [Dreieichenhain](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Rödermark/boroughs~Rödermark/Dreieichenhain.md) 
+
+### [Dreieichenhain.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Rödermark/boroughs~Rödermark/Dreieichenhain.internal.md) 
+
+### [Dreieichenhain.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Rödermark/boroughs~Rödermark/Dreieichenhain.protect.md) 
+
+### [Dreieichenhain.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Rödermark/boroughs~Rödermark/Dreieichenhain.private.md) 
+
+### [Dreieichenhain.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Rödermark/boroughs~Rödermark/Dreieichenhain.personal.md) 
+
+### [Dreieichenhain.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Rödermark/boroughs~Rödermark/Dreieichenhain.secret.md) 

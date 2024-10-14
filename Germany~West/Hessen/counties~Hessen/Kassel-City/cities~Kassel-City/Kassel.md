@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.32,9.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -39,9 +39,15 @@ maxZoom: 18
 Bergpark Wilhelmshöhe (2013) 
 
 ## Confidential Links & Embeds: 
-- [[Kassel|Kassel]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Kassel.internal|Kassel.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Kassel.protect|Kassel.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Kassel.private|Kassel.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Kassel.personal|Kassel.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Kassel.secret|Kassel.secret]] 
+
+### [Kassel](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-City/cities~Kassel-City/Kassel.md) 
+
+### [Kassel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-City/cities~Kassel-City/Kassel.internal.md) 
+
+### [Kassel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-City/cities~Kassel-City/Kassel.protect.md) 
+
+### [Kassel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-City/cities~Kassel-City/Kassel.private.md) 
+
+### [Kassel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-City/cities~Kassel-City/Kassel.personal.md) 
+
+### [Kassel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-City/cities~Kassel-City/Kassel.secret.md) 

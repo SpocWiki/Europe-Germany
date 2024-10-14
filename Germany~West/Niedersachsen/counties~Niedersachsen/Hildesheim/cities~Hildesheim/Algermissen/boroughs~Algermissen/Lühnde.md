@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - 52.28
   - 9.95
@@ -36,9 +36,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Lühnde|Luehnde]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luehnde.internal|Luehnde.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luehnde.protect|Luehnde.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luehnde.private|Luehnde.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luehnde.personal|Luehnde.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luehnde.secret|Luehnde.secret]] 
+
+### [Lühnde](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde.md) 
+
+### [Lühnde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde.internal.md) 
+
+### [Lühnde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde.protect.md) 
+
+### [Lühnde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde.private.md) 
+
+### [Lühnde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde.personal.md) 
+
+### [Lühnde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde.secret.md) 

@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Wesselburen|Wesselburen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wesselburen.internal|Wesselburen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wesselburen.protect|Wesselburen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wesselburen.private|Wesselburen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wesselburen.personal|Wesselburen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wesselburen.secret|Wesselburen.secret]] 
+
+### [Wesselburen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Büsum-Wesselburen/boroughs~Büsum/Wesselburen.md) 
+
+### [Wesselburen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Büsum-Wesselburen/boroughs~Büsum/Wesselburen.internal.md) 
+
+### [Wesselburen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Büsum-Wesselburen/boroughs~Büsum/Wesselburen.protect.md) 
+
+### [Wesselburen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Büsum-Wesselburen/boroughs~Büsum/Wesselburen.private.md) 
+
+### [Wesselburen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Büsum-Wesselburen/boroughs~Büsum/Wesselburen.personal.md) 
+
+### [Wesselburen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Büsum-Wesselburen/boroughs~Büsum/Wesselburen.secret.md) 

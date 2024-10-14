@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.32,9.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Stadthagen|Stadthagen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stadthagen.internal|Stadthagen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stadthagen.protect|Stadthagen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stadthagen.private|Stadthagen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stadthagen.personal|Stadthagen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stadthagen.secret|Stadthagen.secret]] 
+
+### [Stadthagen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen.md) 
+
+### [Stadthagen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen.internal.md) 
+
+### [Stadthagen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen.protect.md) 
+
+### [Stadthagen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen.private.md) 
+
+### [Stadthagen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen.personal.md) 
+
+### [Stadthagen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen.secret.md) 

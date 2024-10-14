@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.54,9.93222] 
 type: State
 ISO3166-2: DE-HH
@@ -37,9 +37,15 @@ Capital :: [[Hamburg]] ]
 
 
 ## Confidential Links & Embeds: 
-- [[State~Hamburg|State~Hamburg]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Hamburg.internal|State~Hamburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Hamburg.protect|State~Hamburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/West/State~Hamburg.private|State~Hamburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Hamburg.personal|State~Hamburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Hamburg.secret|State~Hamburg.secret]] 
+
+### [State~Hamburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.md) 
+
+### [State~Hamburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.internal.md) 
+
+### [State~Hamburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.protect.md) 
+
+### [State~Hamburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.private.md) 
+
+### [State~Hamburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.personal.md) 
+
+### [State~Hamburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.secret.md) 

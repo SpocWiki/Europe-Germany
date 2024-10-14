@@ -1,4 +1,4 @@
----
+﻿---
 location: [53.43,9.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Heiligenstedten|Heiligenstedten]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Heiligenstedten.internal|Heiligenstedten.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Heiligenstedten.protect|Heiligenstedten.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Heiligenstedten.private|Heiligenstedten.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Heiligenstedten.personal|Heiligenstedten.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Heiligenstedten.secret|Heiligenstedten.secret]] 
+
+### [Heiligenstedten](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Harsefeld/Heiligenstedten.md) 
+
+### [Heiligenstedten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Harsefeld/Heiligenstedten.internal.md) 
+
+### [Heiligenstedten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Harsefeld/Heiligenstedten.protect.md) 
+
+### [Heiligenstedten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Harsefeld/Heiligenstedten.private.md) 
+
+### [Heiligenstedten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Harsefeld/Heiligenstedten.personal.md) 
+
+### [Heiligenstedten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Harsefeld/Heiligenstedten.secret.md) 

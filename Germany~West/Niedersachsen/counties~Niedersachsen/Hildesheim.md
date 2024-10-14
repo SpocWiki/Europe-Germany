@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.15,9.94] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -40,9 +40,15 @@ Dom und Michaeliskirche in Hildesheim ([[Unesco]] Welterbe seit  1985)
 
 
 ## Confidential Links & Embeds: 
-- [[Hildesheim|Hildesheim]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hildesheim.internal|Hildesheim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hildesheim.protect|Hildesheim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hildesheim.private|Hildesheim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hildesheim.personal|Hildesheim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hildesheim.secret|Hildesheim.secret]] 
+
+### [Hildesheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim.md) 
+
+### [Hildesheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim.internal.md) 
+
+### [Hildesheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim.protect.md) 
+
+### [Hildesheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim.private.md) 
+
+### [Hildesheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim.personal.md) 
+
+### [Hildesheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim.secret.md) 

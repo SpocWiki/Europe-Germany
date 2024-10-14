@@ -1,4 +1,4 @@
----
+﻿---
 location: [54.51,9.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -39,9 +39,15 @@ maxZoom: 18
 Archäologischer Grenzkomplex Haithabu und Danewerk (2018) 
 
 ## Confidential Links & Embeds: 
-- [[Schleswig|Schleswig]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schleswig.internal|Schleswig.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schleswig.protect|Schleswig.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schleswig.private|Schleswig.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schleswig.personal|Schleswig.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schleswig.secret|Schleswig.secret]] 
+
+### [Schleswig](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Schleswig.md) 
+
+### [Schleswig.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Schleswig.internal.md) 
+
+### [Schleswig.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Schleswig.protect.md) 
+
+### [Schleswig.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Schleswig.private.md) 
+
+### [Schleswig.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Schleswig.personal.md) 
+
+### [Schleswig.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Schleswig.secret.md) 

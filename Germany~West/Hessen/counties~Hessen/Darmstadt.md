@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.87,8.66] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -38,9 +38,15 @@ maxZoom: 18
 Mathildenhöhe Darmstadt (2021) 
 
 ## Confidential Links & Embeds: 
-- [[Darmstadt|Darmstadt]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Darmstadt.internal|Darmstadt.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Darmstadt.protect|Darmstadt.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Darmstadt.private|Darmstadt.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Darmstadt.personal|Darmstadt.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Darmstadt.secret|Darmstadt.secret]] 
+
+### [Darmstadt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.md) 
+
+### [Darmstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.internal.md) 
+
+### [Darmstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.protect.md) 
+
+### [Darmstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.private.md) 
+
+### [Darmstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.personal.md) 
+
+### [Darmstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.secret.md) 

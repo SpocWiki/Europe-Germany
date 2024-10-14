@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.9,11.77] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Seehausen~Altmark|Seehausen~Altmark]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Seehausen~Altmark.public|Seehausen~Altmark.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Seehausen~Altmark.internal|Seehausen~Altmark.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Seehausen~Altmark.protect|Seehausen~Altmark.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Seehausen~Altmark.private|Seehausen~Altmark.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Seehausen~Altmark.personal|Seehausen~Altmark.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Seehausen~Altmark.secret|Seehausen~Altmark.secret]] 
+
+### [Seehausen~Altmark](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Seehausen~Altmark.md) 
+
+### [Seehausen~Altmark.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Seehausen~Altmark.internal.md) 
+
+### [Seehausen~Altmark.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Seehausen~Altmark.protect.md) 
+
+### [Seehausen~Altmark.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Seehausen~Altmark.private.md) 
+
+### [Seehausen~Altmark.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Seehausen~Altmark.personal.md) 
+
+### [Seehausen~Altmark.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Seehausen~Altmark.secret.md) 

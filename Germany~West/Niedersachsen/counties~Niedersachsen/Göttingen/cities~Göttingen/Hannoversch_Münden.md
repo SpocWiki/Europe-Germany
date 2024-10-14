@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Hannoversch_Muenden|Hannoversch_Muenden]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannoversch_Muenden.internal|Hannoversch_Muenden.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannoversch_Muenden.protect|Hannoversch_Muenden.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannoversch_Muenden.private|Hannoversch_Muenden.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannoversch_Muenden.personal|Hannoversch_Muenden.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannoversch_Muenden.secret|Hannoversch_Muenden.secret]] 
+
+### [Hannoversch_Münden](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden.md) 
+
+### [Hannoversch_Münden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden.internal.md) 
+
+### [Hannoversch_Münden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden.protect.md) 
+
+### [Hannoversch_Münden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden.private.md) 
+
+### [Hannoversch_Münden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden.personal.md) 
+
+### [Hannoversch_Münden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 52.44 , 13.65 ] 
 type: geo-Region
 title: _Lakes
@@ -40,11 +40,15 @@ markerFolder: ./_Lakes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~West/State~Berlin/_Lakes|_Lakes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Germany/Germany~West/State~Berlin/_Lakes.public|_Lakes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~West/State~Berlin/_Lakes.internal|_Lakes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~West/State~Berlin/_Lakes.protect|_Lakes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Germany/Germany~West/State~Berlin/_Lakes.private|_Lakes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~West/State~Berlin/_Lakes.personal|_Lakes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~West/State~Berlin/_Lakes.secret|_Lakes.secret]] 
 
+### [_Lakes](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/_Lakes.md) 
+
+### [_Lakes.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/_Lakes.internal.md) 
+
+### [_Lakes.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/_Lakes.protect.md) 
+
+### [_Lakes.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/_Lakes.private.md) 
+
+### [_Lakes.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/_Lakes.personal.md) 
+
+### [_Lakes.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/_Lakes.secret.md) 

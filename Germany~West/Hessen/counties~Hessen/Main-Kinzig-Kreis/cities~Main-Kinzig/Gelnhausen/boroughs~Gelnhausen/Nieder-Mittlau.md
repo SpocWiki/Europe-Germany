@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.18,9.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Nieder-Mittlau|Nieder-Mittlau]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Nieder-Mittlau.internal|Nieder-Mittlau.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Nieder-Mittlau.protect|Nieder-Mittlau.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Nieder-Mittlau.private|Nieder-Mittlau.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Nieder-Mittlau.personal|Nieder-Mittlau.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Nieder-Mittlau.secret|Nieder-Mittlau.secret]] 
+
+### [Nieder-Mittlau](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Nieder-Mittlau.md) 
+
+### [Nieder-Mittlau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Nieder-Mittlau.internal.md) 
+
+### [Nieder-Mittlau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Nieder-Mittlau.protect.md) 
+
+### [Nieder-Mittlau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Nieder-Mittlau.private.md) 
+
+### [Nieder-Mittlau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Nieder-Mittlau.personal.md) 
+
+### [Nieder-Mittlau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Nieder-Mittlau.secret.md) 

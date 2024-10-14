@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.4926,13.3689] 
 type: State
 ISO3166-2: DE-BE
@@ -36,9 +36,15 @@ Capital :: [[Berlin]]
 
 
 ## Confidential Links & Embeds: 
-[[State~Berlin|State~Berlin]]  
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/State~Berlin.internal|State~Berlin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/State~Berlin.protect|State~Berlin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/West/State~Berlin.private|State~Berlin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/State~Berlin.personal|State~Berlin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/State~Berlin.secret|State~Berlin.secret]] 
+
+### [State~Berlin](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin.md) 
+
+### [State~Berlin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin.internal.md) 
+
+### [State~Berlin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin.protect.md) 
+
+### [State~Berlin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin.private.md) 
+
+### [State~Berlin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin.personal.md) 
+
+### [State~Berlin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin.secret.md) 

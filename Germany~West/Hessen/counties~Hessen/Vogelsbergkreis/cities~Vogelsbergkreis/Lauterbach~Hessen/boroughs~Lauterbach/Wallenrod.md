@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.67,9.33] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Wallenrod|Wallenrod]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Wallenrod.internal|Wallenrod.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Wallenrod.protect|Wallenrod.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Wallenrod.private|Wallenrod.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Wallenrod.personal|Wallenrod.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Wallenrod.secret|Wallenrod.secret]] 
+
+### [Wallenrod](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Wallenrod.md) 
+
+### [Wallenrod.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Wallenrod.internal.md) 
+
+### [Wallenrod.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Wallenrod.protect.md) 
+
+### [Wallenrod.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Wallenrod.private.md) 
+
+### [Wallenrod.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Wallenrod.personal.md) 
+
+### [Wallenrod.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Wallenrod.secret.md) 

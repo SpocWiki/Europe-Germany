@@ -1,13 +1,15 @@
----
+﻿---
 has_id_wikidata: Q1202
-location: [50.968,13.2481] 
+location:
+  - 50.968
+  - 13.2481
 type: State
 ISO3166-2: DE-SN
 SpocWebEntityId: 36023
 isDeleted: false
 Confidential: public
 tags:
-- geo/State
+  - geo/State
 icon: Flag_of_Saxony
 language used:
   - "[[_Standards/WikiData/WD~East Frisian Low Saxon]]"
@@ -42,10 +44,13 @@ contains the administrative territorial entity:
   - "[[_Standards/WikiData/WD~Vogtlandkreis]]"
   - "[[_Standards/WikiData/WD~Chemnitz Government Region]]"
 flag: "[[_Standards/WikiData/WD~flag of Saxony]]"
-legislative body: "[[_Standards/WikiData/WD~Landtag of Saxony]]"
+legislative body:
+  - "[[_Standards/WikiData/WD~Landtag of Saxony]]"
 main regulatory text: "[[_Standards/WikiData/WD~Constitution of the Free State of Saxony]]"
-instance of: "[[_Standards/WikiData/WD~federated state of Germany]]"
-different from: "[[_Standards/WikiData/WD~Sachsen]]"
+instance of:
+  - "[[_Standards/WikiData/WD~federated state of Germany]]"
+different from:
+  - "[[_Standards/WikiData/WD~Sachsen]]"
 highest judicial authority: "[[_Standards/WikiData/WD~Constitutional Court of the Free State of Saxony]]"
 head of government: "[[_Standards/WikiData/WD~Michael Kretschmer]]"
 owner of: "[[_Standards/WikiData/WD~Mitteldeutsche Flughafen AG]]"
@@ -102,22 +107,59 @@ locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Sachsen%20Wikivoyage%20banner.png
 official website: https://www.sachsen.de/
 ISO 3166-2 code: DE-SN
-HASC: DE.SN
+HASC:
+  - DE.SN
 Facebook username: Freistaat.Sachsen
 FIPS 10-4 (countries and regions): GM13
 "Image Archive, Herder Institute": Q1202
 Commons gallery: Sachsen
 X username: SachsenDe
 Commons category: Saxony
-native label: Freistaat Sachsen
+native label:
+  - Freistaat Sachsen
 official name: Freistaat Sachsen
-
+aliases:
+  - Saxony
+  - Sachsen
 ---
 
 [name::Sachsen] 
 [name-abbr::SN]
 
 ![[Coat_of_arms_of_Saxony.svg|350]] ] 
+
+
+## #has_/text_of_/abstract 
+
+> **Saxony**, officially the Free State of Saxony, is a landlocked state of Germany, 
+> bordering the states of Brandenburg, Saxony-Anhalt, Thuringia, and Bavaria, 
+> as well as the countries of Poland and the Czech Republic. 
+> Its capital is Dresden, and its largest city is Leipzig. 
+> Saxony is the tenth largest of Germany's sixteen states, 
+> with an area of 18,413 square kilometres (7,109 sq mi), 
+> and the sixth most populous, with more than 4 million inhabitants. 
+>
+> The term Saxony has been in use for more than a millennium. 
+> It was used for the medieval Duchy of Saxony, the Electorate of Saxony of the Holy Roman Empire, 
+> the Kingdom of Saxony, and twice for a republic. 
+> The first Free State of Saxony was established in 1918 as a constituent state of the Weimar Republic. 
+> After World War II, it was under Soviet occupation before it became part of communist East Germany 
+> and was abolished by the government in 1952. 
+> Following German reunification, the Free State of Saxony was reconstituted with enlarged borders in 1990 
+> and became one of the five new states of the Federal Republic of Germany.
+>
+> The area of the modern state of Saxony should not be confused with Old Saxony, the area inhabited by Saxons. 
+> Old Saxony corresponds roughly to the modern German states of Lower Saxony, Saxony-Anhalt, 
+> and the Westphalian portion of North Rhine-Westphalia. 
+> Historically the region of Saxony has sometimes been referred to as Upper Saxony 
+> or Obersachsen in German to distinguish it from Lower Saxony.
+>
+> The state is also home to a minority of Sorbs, 
+> a West Slavic ethnic group native to the area, numbering an estimated 80,000 people.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Saxony)
+
+
 ![[Flag_of_Saxony.svg|350]] ] 
 
 ```leaflet
@@ -140,10 +182,15 @@ Capital :: [[Dresden]] ]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Sachsen|Sachsen]] 
-- [[../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen.public|Sachsen.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen.internal|Sachsen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen.protect|Sachsen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen.private|Sachsen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen.personal|Sachsen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen.secret|Sachsen.secret]] 
+
+### [Sachsen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen.md) 
+
+### [Sachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen.internal.md) 
+
+### [Sachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen.protect.md) 
+
+### [Sachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen.private.md) 
+
+### [Sachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen.personal.md) 
+
+### [Sachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen.secret.md) 

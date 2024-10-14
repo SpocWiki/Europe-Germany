@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - 52.43
   - 10.55
@@ -36,9 +36,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Isenbüttel|Isenbuettel]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Isenbuettel.internal|Isenbuettel.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Isenbuettel.protect|Isenbuettel.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Isenbuettel.private|Isenbuettel.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Isenbuettel.personal|Isenbuettel.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Isenbuettel.secret|Isenbuettel.secret]] 
+
+### [Isenbüttel](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel.md) 
+
+### [Isenbüttel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel.internal.md) 
+
+### [Isenbüttel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel.protect.md) 
+
+### [Isenbüttel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel.private.md) 
+
+### [Isenbüttel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel.personal.md) 
+
+### [Isenbüttel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel.secret.md) 

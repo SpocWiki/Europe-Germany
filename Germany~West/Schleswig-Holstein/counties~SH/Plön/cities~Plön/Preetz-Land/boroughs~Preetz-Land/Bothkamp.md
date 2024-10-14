@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Bothkamp|Bothkamp]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Bothkamp.internal|Bothkamp.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Bothkamp.protect|Bothkamp.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Bothkamp.private|Bothkamp.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Bothkamp.personal|Bothkamp.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Bothkamp.secret|Bothkamp.secret]] 
+
+### [Bothkamp](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz-Land/boroughs~Preetz-Land/Bothkamp.md) 
+
+### [Bothkamp.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz-Land/boroughs~Preetz-Land/Bothkamp.internal.md) 
+
+### [Bothkamp.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz-Land/boroughs~Preetz-Land/Bothkamp.protect.md) 
+
+### [Bothkamp.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz-Land/boroughs~Preetz-Land/Bothkamp.private.md) 
+
+### [Bothkamp.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz-Land/boroughs~Preetz-Land/Bothkamp.personal.md) 
+
+### [Bothkamp.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz-Land/boroughs~Preetz-Land/Bothkamp.secret.md) 

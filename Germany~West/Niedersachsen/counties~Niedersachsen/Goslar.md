@@ -1,4 +1,4 @@
----
+﻿---
 location: [51.9,10.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -47,9 +47,15 @@ Bergwerk Rammelsberg, Altstadt von Goslar und Oberharzer Wasserwirtschaft ( [[Un
 
 
 ## Confidential Links & Embeds: 
-- [[Goslar|Goslar]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Goslar.internal|Goslar.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Goslar.protect|Goslar.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Goslar.private|Goslar.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Goslar.personal|Goslar.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Goslar.secret|Goslar.secret]] 
+
+### [Goslar](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.md) 
+
+### [Goslar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.internal.md) 
+
+### [Goslar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.protect.md) 
+
+### [Goslar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.private.md) 
+
+### [Goslar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.personal.md) 
+
+### [Goslar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.secret.md) 

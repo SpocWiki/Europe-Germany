@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.12785,8.767938] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[T-Alt-Fechenheim|T-Alt-Fechenheim]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Alt-Fechenheim.internal|T-Alt-Fechenheim.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Alt-Fechenheim.protect|T-Alt-Fechenheim.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Alt-Fechenheim.private|T-Alt-Fechenheim.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Alt-Fechenheim.personal|T-Alt-Fechenheim.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Alt-Fechenheim.secret|T-Alt-Fechenheim.secret]] 
+
+### [T-Alt-Fechenheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Alt-Fechenheim.md) 
+
+### [T-Alt-Fechenheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Alt-Fechenheim.internal.md) 
+
+### [T-Alt-Fechenheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Alt-Fechenheim.protect.md) 
+
+### [T-Alt-Fechenheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Alt-Fechenheim.private.md) 
+
+### [T-Alt-Fechenheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Alt-Fechenheim.personal.md) 
+
+### [T-Alt-Fechenheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Alt-Fechenheim.secret.md) 

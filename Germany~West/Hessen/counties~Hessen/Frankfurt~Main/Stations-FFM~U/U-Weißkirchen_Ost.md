@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.186,8.602746] 
 type: Station 
 mapzoom: [8,18] 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[U-Weißkirchen_Ost|U-Weißkirchen_Ost]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Weißkirchen_Ost.internal|U-Weißkirchen_Ost.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Weißkirchen_Ost.protect|U-Weißkirchen_Ost.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Weißkirchen_Ost.private|U-Weißkirchen_Ost.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Weißkirchen_Ost.personal|U-Weißkirchen_Ost.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Weißkirchen_Ost.secret|U-Weißkirchen_Ost.secret]] 
+
+### [U-Weißkirchen_Ost](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Weißkirchen_Ost.md) 
+
+### [U-Weißkirchen_Ost.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Weißkirchen_Ost.internal.md) 
+
+### [U-Weißkirchen_Ost.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Weißkirchen_Ost.protect.md) 
+
+### [U-Weißkirchen_Ost.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Weißkirchen_Ost.private.md) 
+
+### [U-Weißkirchen_Ost.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Weißkirchen_Ost.personal.md) 
+
+### [U-Weißkirchen_Ost.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Weißkirchen_Ost.secret.md) 

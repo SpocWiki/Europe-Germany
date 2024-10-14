@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.93,9.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Treysa|Treysa]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Treysa.internal|Treysa.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Treysa.protect|Treysa.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Treysa.private|Treysa.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Treysa.personal|Treysa.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Treysa.secret|Treysa.secret]] 
+
+### [Treysa](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Treysa.md) 
+
+### [Treysa.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Treysa.internal.md) 
+
+### [Treysa.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Treysa.protect.md) 
+
+### [Treysa.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Treysa.private.md) 
+
+### [Treysa.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Treysa.personal.md) 
+
+### [Treysa.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Treysa.secret.md) 

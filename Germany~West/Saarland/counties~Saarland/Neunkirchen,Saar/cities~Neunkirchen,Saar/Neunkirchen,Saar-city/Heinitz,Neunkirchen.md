@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Heinitz|Heinitz]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Heinitz.internal|Heinitz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Heinitz.protect|Heinitz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Heinitz.private|Heinitz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Heinitz.personal|Heinitz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Heinitz.secret|Heinitz.secret]] 
+
+### [Heinitz,Neunkirchen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Neunkirchen,Saar-city/Heinitz,Neunkirchen.md) 
+
+### [Heinitz,Neunkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Neunkirchen,Saar-city/Heinitz,Neunkirchen.internal.md) 
+
+### [Heinitz,Neunkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Neunkirchen,Saar-city/Heinitz,Neunkirchen.protect.md) 
+
+### [Heinitz,Neunkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Neunkirchen,Saar-city/Heinitz,Neunkirchen.private.md) 
+
+### [Heinitz,Neunkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Neunkirchen,Saar-city/Heinitz,Neunkirchen.personal.md) 
+
+### [Heinitz,Neunkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Neunkirchen,Saar-city/Heinitz,Neunkirchen.secret.md) 

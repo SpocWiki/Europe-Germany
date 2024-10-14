@@ -1,20 +1,22 @@
----
+﻿---
 has_id_wikidata: Q1205
-location: [50.8463,11.0683] 
+location:
+  - 50.8463
+  - 11.0683
 type: State
 ISO3166-2: DE-TH
 SpocWebEntityId: 36026
 isDeleted: false
 Confidential: public
 tags:
-- geo/State
-flag: Flag_of_Thuringia
-head of government: "[[_Standards/WikiData/WD~Bodo Ramelow]]"
+  - geo/State
 flag: "[[_Standards/WikiData/WD~flag of Thuringia]]"
+head of government: "[[_Standards/WikiData/WD~Bodo Ramelow]]"
 named after: "[[_Standards/WikiData/WD~Thuringii]]"
 history of topic: "[[_Standards/WikiData/WD~history of Thuringia]]"
 coat of arms: "[[_Standards/WikiData/WD~coat of arms of Thuringia]]"
-language used: "[[_Standards/WikiData/WD~Main-Franconian]]"
+language used:
+  - "[[_Standards/WikiData/WD~Main-Franconian]]"
 described by source:
   - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary]]"
   - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition]]"
@@ -22,10 +24,13 @@ described by source:
   - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia]]"
   - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary]]"
   - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary]]"
-legislative body: "[[_Standards/WikiData/WD~Landtag of Thuringia]]"
+legislative body:
+  - "[[_Standards/WikiData/WD~Landtag of Thuringia]]"
 highest point: "[[_Standards/WikiData/WD~Großer Beerberg]]"
-instance of: "[[_Standards/WikiData/WD~federated state of Germany]]"
-member of: "[[_Standards/WikiData/WD~Common Library Network]]"
+instance of:
+  - "[[_Standards/WikiData/WD~federated state of Germany]]"
+member of:
+  - "[[_Standards/WikiData/WD~Common Library Network]]"
 highest judicial authority: "[[_Standards/WikiData/WD~Thuringian Constitutional Court]]"
 archives at:
   - "[[_Standards/WikiData/WD~Hauptstaatsarchiv Weimar]]"
@@ -121,14 +126,18 @@ official website: https://thueringen.de/
 Dewey Decimal Classification: 2--4322
 Provenio UUID: c5ace3b5-6ab1-4053-affe-c667cc6da64c
 ISO 3166-2 code: DE-TH
-HASC: DE.TH
+HASC:
+  - DE.TH
 FIPS 10-4 (countries and regions): GM15
 Commons gallery: Thüringen
 Commons category: Thuringia
 Libris-URI: xv8b9bcg4kf5v11
-native label: Freistaat Thüringen
-motto text: Hier hat Zukunft Tradition
-
+native label:
+  - Freistaat Thüringen
+motto text:
+  - Hier hat Zukunft Tradition
+aliases:
+  - Thuringia
 ---
 
 # [[Thüringen]] 
@@ -137,6 +146,41 @@ motto text: Hier hat Zukunft Tradition
 
 [name-abbr::TH] 
 ![[Coat_of_arms_of_Thuringia.svg|350]] 
+
+
+## #has_/text_of_/abstract 
+
+> **Thuringia**, officially the Free State of Thuringia, is one of Germany's 16 states — 
+> with 2.1 million people its 12th-largest by population and 
+> with 16,171 square kilometers its 11th-largest in area.
+>
+> [[Thüringen/counties~TH/Erfurt|Erfurt]] is the capital and largest city. Other cities include [[Thüringen/counties~TH/Jena|Jena]], [[Thüringen/counties~TH/Gera|Gera]] and [[Thüringen/counties~TH/Weimar|Weimar]]. 
+> Thuringia is bordered by [[../Germany~West/Bayern|Bavaria]], [[../Germany~West/Hessen|Hesse]], [[../Germany~West/Niedersachsen|Lower Saxony]], Saxony-Anhalt, and Saxony. 
+> It has been known as "the green heart of Germany" (das grüne Herz Deutschlands) 
+> from the late 19th century due to its broad, dense forest. 
+> Most of Thuringia is in the Saale drainage basin, a left-bank tributary of the Elbe.
+>
+> Thuringia is home to the Rennsteig, Germany's best-known hiking trail. 
+> Its winter resort of Oberhof makes it a well-equipped winter sports destination – 
+> half of Germany's 136 Winter Olympic gold medals had been won by Thuringian athletes as of 2014. 
+> Thuringia was favoured by or was the birthplace of three key intellectuals and leaders in the arts: 
+> Johann Sebastian Bach, Johann Wolfgang von Goethe, and Friedrich Schiller. 
+> The state has the University of Jena, the Ilmenau University of Technology, 
+> the University of Erfurt, and the Bauhaus University of Weimar.
+>
+> The Frankish Duchy of Thuringia was established around 631 AD by King Dagobert I. 
+> The modern state was established in 1920 by the Weimar Republic 
+> through a merger of the Ernestine duchies, save for Saxe-Coburg. 
+> 
+> After World War II, Thuringia came under the Soviet occupation zone in Allied-occupied Germany, 
+> and its borders were reformed, to become contiguous. 
+> Thuringia became part of the German Democratic Republic in 1949, 
+> but was dissolved in 1952 during administrative reforms, 
+> and divided into the Districts of Erfurt, Suhl and Gera. 
+> Thuringia was re-established in 1990 following German reunification, 
+> slightly re-drawn, and became one of the new states of the Federal Republic of Germany.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Thuringia)
 
 ![[Flag_of_Thuringia.svg|350]] 
 
@@ -160,10 +204,15 @@ Capital :: [[Erfurt]] ]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Thüringen|Thüringen]] 
-- [[../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Thüringen.public|Thüringen.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen.internal|Thüringen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen.protect|Thüringen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen.private|Thüringen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen.personal|Thüringen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen.secret|Thüringen.secret]] 
+
+### [Thüringen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.md) 
+
+### [Thüringen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.internal.md) 
+
+### [Thüringen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.protect.md) 
+
+### [Thüringen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.private.md) 
+
+### [Thüringen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.personal.md) 
+
+### [Thüringen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.secret.md) 

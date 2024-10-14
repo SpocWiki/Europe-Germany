@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.1,11.3] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seehausen~Sachsen|Seehausen~Sachsen]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seehausen~Sachsen.public|Seehausen~Sachsen.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seehausen~Sachsen.internal|Seehausen~Sachsen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seehausen~Sachsen.protect|Seehausen~Sachsen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seehausen~Sachsen.private|Seehausen~Sachsen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seehausen~Sachsen.personal|Seehausen~Sachsen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seehausen~Sachsen.secret|Seehausen~Sachsen.secret]] 
+
+### [Seehausen~Sachsen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Seehausen~Sachsen.md) 
+
+### [Seehausen~Sachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Seehausen~Sachsen.internal.md) 
+
+### [Seehausen~Sachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Seehausen~Sachsen.protect.md) 
+
+### [Seehausen~Sachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Seehausen~Sachsen.private.md) 
+
+### [Seehausen~Sachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Seehausen~Sachsen.personal.md) 
+
+### [Seehausen~Sachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Seehausen~Sachsen.secret.md) 

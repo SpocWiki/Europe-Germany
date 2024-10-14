@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.12442,8.713724] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[T-Saalburg-Wittelsbacherallee|T-Saalburg-Wittelsbacherallee]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Saalburg-Wittelsbacherallee.internal|T-Saalburg-Wittelsbacherallee.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Saalburg-Wittelsbacherallee.protect|T-Saalburg-Wittelsbacherallee.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Saalburg-Wittelsbacherallee.private|T-Saalburg-Wittelsbacherallee.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Saalburg-Wittelsbacherallee.personal|T-Saalburg-Wittelsbacherallee.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Saalburg-Wittelsbacherallee.secret|T-Saalburg-Wittelsbacherallee.secret]] 
+
+### [T-Saalburg-Wittelsbacherallee](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Saalburg-Wittelsbacherallee.md) 
+
+### [T-Saalburg-Wittelsbacherallee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Saalburg-Wittelsbacherallee.internal.md) 
+
+### [T-Saalburg-Wittelsbacherallee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Saalburg-Wittelsbacherallee.protect.md) 
+
+### [T-Saalburg-Wittelsbacherallee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Saalburg-Wittelsbacherallee.private.md) 
+
+### [T-Saalburg-Wittelsbacherallee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Saalburg-Wittelsbacherallee.personal.md) 
+
+### [T-Saalburg-Wittelsbacherallee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Saalburg-Wittelsbacherallee.secret.md) 

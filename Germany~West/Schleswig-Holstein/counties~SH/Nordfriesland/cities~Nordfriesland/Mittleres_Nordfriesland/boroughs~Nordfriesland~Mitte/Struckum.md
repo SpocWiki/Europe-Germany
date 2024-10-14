@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Struckum|Struckum]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Struckum.internal|Struckum.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Struckum.protect|Struckum.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Struckum.private|Struckum.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Struckum.personal|Struckum.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Struckum.secret|Struckum.secret]] 
+
+### [Struckum](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Mittleres_Nordfriesland/boroughs~Nordfriesland~Mitte/Struckum.md) 
+
+### [Struckum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Mittleres_Nordfriesland/boroughs~Nordfriesland~Mitte/Struckum.internal.md) 
+
+### [Struckum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Mittleres_Nordfriesland/boroughs~Nordfriesland~Mitte/Struckum.protect.md) 
+
+### [Struckum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Mittleres_Nordfriesland/boroughs~Nordfriesland~Mitte/Struckum.private.md) 
+
+### [Struckum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Mittleres_Nordfriesland/boroughs~Nordfriesland~Mitte/Struckum.personal.md) 
+
+### [Struckum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Mittleres_Nordfriesland/boroughs~Nordfriesland~Mitte/Struckum.secret.md) 

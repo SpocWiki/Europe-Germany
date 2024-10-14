@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - 52.97
   - 11.15
@@ -36,9 +36,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
--[[Lüchow|Lüchow]]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luechow.internal|Luechow.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luechow.protect|Luechow.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luechow.private|Luechow.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luechow.personal|Luechow.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luechow.secret|Luechow.secret]] 
+
+### [Lüchow](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Lüchow.md) 
+
+### [Lüchow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Lüchow.internal.md) 
+
+### [Lüchow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Lüchow.protect.md) 
+
+### [Lüchow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Lüchow.private.md) 
+
+### [Lüchow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Lüchow.personal.md) 
+
+### [Lüchow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Lüchow.secret.md) 

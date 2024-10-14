@@ -1,4 +1,4 @@
----
+﻿---
 location: [52.15,10.32] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Salder|Salder]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salder.internal|Salder.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salder.protect|Salder.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salder.private|Salder.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salder.personal|Salder.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salder.secret|Salder.secret]] 
+
+### [Salder](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter/cities~Salzgitter/Salzgitter-city/boroughs~Salzgitter/Salder.md) 
+
+### [Salder.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter/cities~Salzgitter/Salzgitter-city/boroughs~Salzgitter/Salder.internal.md) 
+
+### [Salder.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter/cities~Salzgitter/Salzgitter-city/boroughs~Salzgitter/Salder.protect.md) 
+
+### [Salder.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter/cities~Salzgitter/Salzgitter-city/boroughs~Salzgitter/Salder.private.md) 
+
+### [Salder.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter/cities~Salzgitter/Salzgitter-city/boroughs~Salzgitter/Salder.personal.md) 
+
+### [Salder.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter/cities~Salzgitter/Salzgitter-city/boroughs~Salzgitter/Salder.secret.md) 

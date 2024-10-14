@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.12847,8.646508] 
 type: Station 
 mapzoom: [8,18] 
@@ -29,9 +29,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[T-Frauenfriedenskirche|T-Frauenfriedenskirche]] 
-- [[../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frauenfriedenskirche.internal|T-Frauenfriedenskirche.internal]] 
-- [[../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frauenfriedenskirche.protect|T-Frauenfriedenskirche.protect]] 
-- [[../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frauenfriedenskirche.private|T-Frauenfriedenskirche.private]] 
-- [[../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frauenfriedenskirche.personal|T-Frauenfriedenskirche.personal]] 
-- [[../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frauenfriedenskirche.secret|T-Frauenfriedenskirche.secret]] 
+
+### [T-Frauenfriedenskirche](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Frauenfriedenskirche.md) 
+
+### [T-Frauenfriedenskirche.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Frauenfriedenskirche.internal.md) 
+
+### [T-Frauenfriedenskirche.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Frauenfriedenskirche.protect.md) 
+
+### [T-Frauenfriedenskirche.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Frauenfriedenskirche.private.md) 
+
+### [T-Frauenfriedenskirche.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Frauenfriedenskirche.personal.md) 
+
+### [T-Frauenfriedenskirche.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Frauenfriedenskirche.secret.md) 

@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Muehlhausen~Thuerungen|Muehlhausen~Thuerungen]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Muehlhausen~Thuerungen.public|Muehlhausen~Thuerungen.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Muehlhausen~Thuerungen.internal|Muehlhausen~Thuerungen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Muehlhausen~Thuerungen.protect|Muehlhausen~Thuerungen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Muehlhausen~Thuerungen.private|Muehlhausen~Thuerungen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Muehlhausen~Thuerungen.personal|Muehlhausen~Thuerungen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Muehlhausen~Thuerungen.secret|Muehlhausen~Thuerungen.secret]] 
+
+### [Muehlhausen~Thuerungen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Mühlhausen~Thüringen/City/Muehlhausen~Thuerungen.md) 
+
+### [Muehlhausen~Thuerungen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Mühlhausen~Thüringen/City/Muehlhausen~Thuerungen.internal.md) 
+
+### [Muehlhausen~Thuerungen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Mühlhausen~Thüringen/City/Muehlhausen~Thuerungen.protect.md) 
+
+### [Muehlhausen~Thuerungen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Mühlhausen~Thüringen/City/Muehlhausen~Thuerungen.private.md) 
+
+### [Muehlhausen~Thuerungen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Mühlhausen~Thüringen/City/Muehlhausen~Thuerungen.personal.md) 
+
+### [Muehlhausen~Thuerungen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Mühlhausen~Thüringen/City/Muehlhausen~Thuerungen.secret.md) 
