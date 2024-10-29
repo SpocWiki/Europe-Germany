@@ -1,4 +1,4 @@
-﻿---
+---
 type: Country
 tags:
   - geo/Country
@@ -7,7 +7,10 @@ isDeleted: false
 confidential: public
 aliases:
   - DDR
-  - Deutsche  Demokratische Republik
+  - East Germany
+  - Deutsche Demokratische Republik
+  - German Democratic Republic
+  - GDR
 ---
 [ISO2::] 
 [ISO3::DDR] 

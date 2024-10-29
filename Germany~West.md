@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.8699,10.1207] 
 type: Country
 title: Deutschland (Germany)
@@ -15,18 +15,13 @@ tags:
 - geo/Country
 aliases:
 - Deutschland
-- DE
-- DEU
-- Germany
+- West Germany
 - Alemania
 - Allemagne
-- ???????
-- ??
-- ????????
-- the Federal Republic of Germany
-- la Republica Federal de Alemania
+- Federal Republic of Germany
+- Republica Federal de Alemania
 - Bundesrepublik Deutschland 
-- 
+- BRD
 
 Languages:
 - de
