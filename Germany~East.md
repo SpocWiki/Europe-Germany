@@ -9,7 +9,7 @@ aliases:
   - DDR
   - East Germany
   - Deutsche Demokratische Republik
-  - German Democratic Republic
+  - German Democratic Republic
   - GDR
 ---
 [ISO2::] 
