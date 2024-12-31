@@ -144,6 +144,9 @@ class S1_Oranienburg,S1_Lehnitz,S1_Borgsdorf,S1_Birkenwerder,S1_Hohen_Neuendorf,
 
 
 
+
+
+
 subgraph S2 ["S2 Line"]
 S2_Bernau("Bernau") --> 
 S2_Bernau_Friedenstal("Bernau-Friedenstal") --> 
@@ -183,88 +186,84 @@ S2_Potsdamer_Platz --> U2_Potsdamer_Platz
 S2_Yorckstraße --> U7_Yorckstraße
 
 
-class S2_Bernau,S2_Bernau_Friedenstal,S2_Zepernick,S2_Röntgental,S2_Buch,S2_Karow,S2_Blankenburg,S2_Pankow_Heinersdorf,S2_Pankow,S2_Bornholmer_Straße,S2_Gesundbrunnen,S2_Humboldthain,S2_Nordbahnhof,S2_Oranienburger_Straße,S2_Friedrichstraße,S2_Brandenburger_Tor,S2_Potsdamer_Platz,S2_Anhalter_Bahnhof,S2_Yorckstraße,S2_Südkreuz,S2_Priesterweg,S2_Attilastraße,S2_Marienfelde,S2_Buckower_Chaussee,S2_Schichauweg,S2_Lichtenrade,S2_Mahlow,S2_Blankenfelde redText;
+class S2_Bernau,S2_Bernau_Friedenstal,S2_Zepernick,S2_Röntgental,S2_Buch,S2_Karow,S2_Blankenburg,S2_Pankow_Heinersdorf,S2_Pankow,S2_Bornholmer_Straße,S2_Gesundbrunnen,S2_Humboldthain,S2_Nordbahnhof,S2_Oranienburger_Straße,S2_Friedrichstraße,S2_Brandenburger_Tor,S2_Potsdamer_Platz,S2_Anhalter_Bahnhof,S2_Yorckstraße,S2_Südkreuz,S2_Priesterweg,S2_Attilastraße,S2_Marienfelde,S2_Buckower_Chaussee,S2_Schichauweg,S2_Lichtenrade,S2_Mahlow,S2_Blankenfelde greenText;
+
+subgraph S26 ["S26 Line"]
+S2_Waidmannslust("Waidmannslust") --> 
+S2_Wittenau("Wittenau") --> 
+S2_Wilhelmsruh("Wilhelmsruh") --> 
+S2_Schönholz("Schönholz") --> 
+S2_Wollankstraße("Wollankstraße") --> 
+S2_Bornholmer_Straße("Bornholmer Straße") --> 
+S2_Gesundbrunnen("Gesundbrunnen") --> 
+S2_Humboldthain("Humboldthain") --> 
+S2_Nordbahnhof("Nordbahnhof") --> 
+S2_Oranienburger_Straße("Oranienburger Straße") --> 
+S2_Friedrichstraße("Friedrichstraße") --> 
+S2_Brandenburger_Tor("Brandenburger Tor") --> 
+S2_Potsdamer_Platz("Potsdamer Platz") --> 
+S2_Anhalter_Bahnhof("Anhalter Bahnhof") --> 
+S2_Yorckstraße("Yorckstraße") --> 
+S2_Südkreuz("Südkreuz") --> 
+S2_Priesterweg("Priesterweg") --> 
+S2_Südende("Südende") --> 
+S2_Lankwitz("Lankwitz") --> 
+S2_Lichterfelde_Ost("Lichterfelde Ost") --> 
+S2_Osdorfer_Straße("Osdorfer Straße") --> 
+S2_Lichterfelde_Süd("Lichterfelde Süd") --> 
+S2_Teltow_Stadt("Teltow Stadt")
+end
 
 
 
 subgraph S25 ["S25 Line"]
-S25_Hennigsdorf("Hennigsdorf") --> 
-S25_Heiligensee("Heiligensee") --> 
-S25_Schulzendorf("Schulzendorf") --> 
-S25_Tegel("Tegel") --> 
-S25_Eichborndamm("Eichborndamm") --> 
-S25_Bonhoeffer("Karl-Bonhoeffer-Nervenklinik") --> 
-S25_Alt_Reinickendorf("Alt-Reinickendorf") --> 
-S25_Schönholz("Schönholz") --> 
-S25_Wollankstraße("Wollankstraße") --> 
-S25_Bornholmer_Straße("Bornholmer Straße") --> 
-S25_Gesundbrunnen("Gesundbrunnen") --> 
-S25_Humboldthain("Humboldthain") --> 
-S25_Nordbahnhof("Nordbahnhof") --> 
-S25_Oranienburger_Straße("Oranienburger Straße") --> 
-S25_Friedrichstraße("Friedrichstraße") --> 
-S25_Brandenburger_Tor("Brandenburger Tor") --> 
-S25_Potsdamer_Platz("Potsdamer Platz") --> 
-S25_Anhalter_Bahnhof("Anhalter Bahnhof") --> 
-S25_Yorckstraße("Yorckstraße") --> 
-S25_Südkreuz("Südkreuz") --> 
-S25_Priesterweg("Priesterweg") --> 
-S25_Südende("Südende") --> 
-S25_Lankwitz("Lankwitz") --> 
-S25_Lichterfelde_Ost("Lichterfelde Ost") --> 
-S25_Osdorfer_Straße("Osdorfer Straße") --> 
-S25_Lichterfelde_Süd("Lichterfelde Süd") --> 
-S25_Teltow_Stadt("Teltow Stadt") 
+S2_Hennigsdorf("Hennigsdorf") --> 
+S2_Heiligensee("Heiligensee") --> 
+S2_Schulzendorf("Schulzendorf") --> 
+S2_Tegel("Tegel") --> 
+S2_Eichborndamm("Eichborndamm") --> 
+S2_Bonhoeffer("Karl-Bonhoeffer-Nervenklinik") --> 
+S2_Alt_Reinickendorf("Alt-Reinickendorf") --> 
+S2_Schönholz("Schönholz") --> 
+S2_Wollankstraße("Wollankstraße") --> 
+S2_Bornholmer_Straße("Bornholmer Straße") --> 
+S2_Gesundbrunnen("Gesundbrunnen") --> 
+S2_Humboldthain("Humboldthain") --> 
+S2_Nordbahnhof("Nordbahnhof") --> 
+S2_Oranienburger_Straße("Oranienburger Straße") --> 
+S2_Friedrichstraße("Friedrichstraße") --> 
+S2_Brandenburger_Tor("Brandenburger Tor") --> 
+S2_Potsdamer_Platz("Potsdamer Platz") --> 
+S2_Anhalter_Bahnhof("Anhalter Bahnhof") --> 
+S2_Yorckstraße("Yorckstraße") --> 
+S2_Südkreuz("Südkreuz") --> 
+S2_Priesterweg("Priesterweg")
 end
 
-S25_Bonhoeffer --> U8_Bonhoeffer
-S25_Gesundbrunnen --> U8_Gesundbrunnen
-S25_Friedrichstraße --> U6_Friedrichstraße
-S25_Brandenburger_Tor --> U5_Brandenburger_Tor
-S25_Potsdamer_Platz --> U2_Potsdamer_Platz
-S25_Yorckstraße --> U7_Yorckstraße 
+S2_Bonhoeffer --> U8_Bonhoeffer
+S2_Gesundbrunnen --> U8_Gesundbrunnen
+S2_Friedrichstraße --> U6_Friedrichstraße
+S2_Brandenburger_Tor --> U5_Brandenburger_Tor
+S2_Potsdamer_Platz --> U2_Potsdamer_Platz
+S2_Yorckstraße --> U7_Yorckstraße 
 
 
-class S25_Hennigsdorf,S25_Heiligensee,S25_Schulzendorf,S25_Tegel,S25_Eichborndamm,S25_Bonhoeffer,S25_Alt_Reinickendorf,S25_Schönholz,S25_Wollankstraße,S25_Bornholmer_Straße,S25_Gesundbrunnen,S25_Humboldthain,S25_Nordbahnhof,S25_Oranienburger_Straße,S25_Friedrichstraße,S25_Brandenburger_Tor,S25_Potsdamer_Platz,S25_Anhalter_Bahnhof,S25_Yorckstraße,S25_Südkreuz,S25_Priesterweg,S25_Südende,S25_Lankwitz,S25_Lichterfelde_Ost,S25_Osdorfer_Straße,S25_Lichterfelde_Süd,S25_Teltow_Stadt redText;
+class S2_Hennigsdorf,S2_Heiligensee,S2_Schulzendorf,S2_Tegel,S2_Eichborndamm,S2_Bonhoeffer,S2_Alt_Reinickendorf,S2_Schönholz,S2_Wollankstraße,S2_Bornholmer_Straße,S2_Gesundbrunnen,S2_Humboldthain,S2_Nordbahnhof,S2_Oranienburger_Straße,S2_Friedrichstraße,S2_Brandenburger_Tor,S2_Potsdamer_Platz,S2_Anhalter_Bahnhof,S2_Yorckstraße,S2_Südkreuz,S2_Priesterweg cyanText;
 
 
 
 
-subgraph S26 ["S26 Line"]
-S26_Waidmannslust("Waidmannslust") --> 
-S26_Wittenau("Wittenau") --> 
-S26_Wilhelmsruh("Wilhelmsruh") --> 
-S26_Schönholz("Schönholz") --> 
-S26_Wollankstraße("Wollankstraße") --> 
-S26_Bornholmer_Straße("Bornholmer Straße") --> 
-S26_Gesundbrunnen("Gesundbrunnen") --> 
-S26_Humboldthain("Humboldthain") --> 
-S26_Nordbahnhof("Nordbahnhof") --> 
-S26_Oranienburger_Straße("Oranienburger Straße") --> 
-S26_Friedrichstraße("Friedrichstraße") --> 
-S26_Brandenburger_Tor("Brandenburger Tor") --> 
-S26_Potsdamer_Platz("Potsdamer Platz") --> 
-S26_Anhalter_Bahnhof("Anhalter Bahnhof") --> 
-S26_Yorckstraße("Yorckstraße") --> 
-S26_Priesterweg("Priesterweg") --> 
-S26_Südende("Südende") --> 
-S26_Lankwitz("Lankwitz") --> 
-S26_Lichterfelde_Ost("Lichterfelde Ost") --> 
-S26_Lichterfelde_Süd("Lichterfelde Süd") --> 
-S26_Teltow_Stadt("Teltow Stadt")
-end
-
-S26_Wittenau --> U8_Wittenau
-S26_Gesundbrunnen --> U8_Gesundbrunnen
-S26_Friedrichstraße --> U6_Friedrichstraße
-S26_Brandenburger_Tor --> U5_Brandenburger_Tor
-S26_Potsdamer_Platz --> U2_Potsdamer_Platz
-S26_Yorckstraße --> U7_Yorckstraße
-S26_
-S26_
+S2_Wittenau --> U8_Wittenau
+S2_Gesundbrunnen --> U8_Gesundbrunnen
+S2_Friedrichstraße --> U6_Friedrichstraße
+S2_Brandenburger_Tor --> U5_Brandenburger_Tor
+S2_Potsdamer_Platz --> U2_Potsdamer_Platz
+S2_Yorckstraße --> U7_Yorckstraße
 
 
-class S26_Waidmannslust,S26_Wittenau,S26_Wilhelmsruh,S26_Schönholz,S26_Wollankstraße,S26_Bornholmer_Straße,S26_Gesundbrunnen,S26_Humboldthain,S26_Nordbahnhof,S26_Oranienburger_Straße,S26_Friedrichstraße,S26_Brandenburger_Tor,S26_Potsdamer_Platz,S26_Anhalter_Bahnhof,S26_Yorckstraße,S26_Priesterweg,S26_Südende,S26_Lankwitz,S26_Lichterfelde_Ost,S26_Lichterfelde_Süd,S26_Teltow_Stadt blueText;
+class S2_Waidmannslust,S2_Wittenau,S2_Wilhelmsruh,S2_Schönholz,S2_Wollankstraße,S2_Bornholmer_Straße,S2_Gesundbrunnen,S2_Humboldthain,S2_Nordbahnhof,S2_Oranienburger_Straße,S2_Friedrichstraße,S2_Brandenburger_Tor,S2_Potsdamer_Platz,S2_Anhalter_Bahnhof,S2_Yorckstraße,S2_Südkreuz,S2_Priesterweg,S2_Südende,S2_Lankwitz,S2_Lichterfelde_Ost,S2_Osdorfer_Straße,S2_Lichterfelde_Süd,S2_Teltow_Stadt oliveText;
+
+
 
 
 Spandau (U7) – Stresow – Pichelsberg – Olympiastadion – Heerstraße – Messe Süd – Westkreuz – Charlottenburg (U7) – Savignyplatz – Zoologischer Garten (U2, U9) – Tiergarten – Bellevue – Hauptbahnhof (U5) – Friedrichstraße (U6) – Hackescher Markt – Alexanderplatz (U2, U5, U8) – Jannowitzbrücke (U8) – Ostbahnhof – Warschauer Straße (U1, U3) – Ostkreuz – Rummelsburg – Betriebsbahnhof Rummelsburg – Karlshorst – Wuhlheide – Köpenick – Hirschgarten – Friedrichshagen – Rahnsdorf – Wilhelmshagen – Erkner
