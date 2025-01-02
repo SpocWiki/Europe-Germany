@@ -1,3 +1,7 @@
+---
+aliases:
+  - Berlin_Metro
+---
 
 ## #has_/text_of_/abstract 
 
@@ -31,7 +35,7 @@
 > except for two West Berlin lines that ran through East Berlin (U6 and U8). 
 > These were allowed to pass through East Berlin without stopping at any of the closed stations. 
 > 
-> [[Berlin_Friedrichstraße_station]] was the exception because it was used as a 
+> [[Berlin_Friedrichstraße_Station]] was the exception because it was used as a 
 > transfer point between U6 and the West Berlin S-Bahn system, and a __border crossing__ into East Berlin. 
 > The system was reopened completely following the fall of the Berlin Wall and German reunification.
 >

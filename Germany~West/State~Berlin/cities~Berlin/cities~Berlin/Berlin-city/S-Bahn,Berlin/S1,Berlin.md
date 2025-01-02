@@ -23,7 +23,7 @@ classDef orangeText fill:#FA0,stroke:#1565C0,stroke-width:2px,color:#FFF;
 classDef brownText fill:#A33,stroke:#1565C0,stroke-width:2px,color:#FFF;
 classDef oliveText fill:#880,stroke:#1565C0,stroke-width:2px,color:#FFF;
 classDef yellowText fill:#FF0,stroke:#1565C0,stroke-width:2px,color:#000;
-classDef pinkText fill:#FBC,stroke:#1565C0,stroke-width:2px,color:#FFF;
+classDef pinkText fill:#FBC,stroke:#1565C0,stroke-width:2px,color:#000;
 
 
 subgraph S1 ["S1 Line"]
