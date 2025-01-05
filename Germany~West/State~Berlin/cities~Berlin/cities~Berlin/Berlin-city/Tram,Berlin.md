@@ -42,19 +42,19 @@
 ### [[Tram,Berlin/M4,Berlin]] 
 
 
-### [[M5,Berlin]] 
+### [[Tram,Berlin/M5,Berlin]] 
 
 
-### [[M6,Berlin]] 
+### [[Tram,Berlin/M6,Berlin]] 
 
 
-### [[M7,Berlin]] 
+### [[Tram,Berlin/M7,Berlin]] 
 
 
-### [[M8,Berlin]] 
+### [[Tram,Berlin/M8,Berlin]] 
 
 
-### [[M9,Berlin]] 
+### [[Tram,Berlin/M9,Berlin]] 
 
 
 ### [[Tram12,Berlin]] 
@@ -163,8 +163,8 @@ graph TD
     M2_Knaackstraße --> M2_Prenzlauer_Allee_Metzer_Straße["Prenzlauer Allee/Metzer Straße"]
     M2_Prenzlauer_Allee_Metzer_Straße --> M2_Mollstraße_Prenzlauer_Allee["Mollstraße/Prenzlauer Allee"]
     M2_Mollstraße_Prenzlauer_Allee --> M2_Alexanderplatz["Alexanderplatz"]
-    M2_Alexanderplatz --> M2_S_U_Alexanderplatz_Bhf_Memhardstraße["S+U Alexanderplatz Bhf/Memhardstraße"]
-    M2_S_U_Alexanderplatz_Bhf_Memhardstraße --> M2_S_U_Alexanderplatz_Bhf_Dircksenstraße["S+U Alexanderplatz Bhf/Dircksenstraße"]
+    M2_Alexanderplatz --> M2_Alexanderplatz_Bhf_Memhardstraße["S+U Alexanderplatz Bhf/Memhardstraße"]
+    M2_Alexanderplatz_Bhf_Memhardstraße --> M2_Alexanderplatz_Bhf_Dircksenstraße["S+U Alexanderplatz Bhf/Dircksenstraße"]
   end
 
   %% Connections to Other Lines
@@ -188,7 +188,7 @@ graph TD
 
 
   %% S+U Alexanderplatz Bhf/Memhardstraße
-  M2_S_U_Alexanderplatz_Bhf_Memhardstraße -- "Tram M4" --> M4_Alexanderplatz_Memhardstraße
+  M2_Alexanderplatz_Bhf_Memhardstraße -- "Tram M4" --> M4_Alexanderplatz_Memhardstraße
 
 
   %% M3 Tram Line with Connections

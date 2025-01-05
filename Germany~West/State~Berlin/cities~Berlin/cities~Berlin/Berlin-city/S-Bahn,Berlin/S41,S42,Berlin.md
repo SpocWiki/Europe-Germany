@@ -2,7 +2,7 @@
 - S41 runs clockwise 
 - S42 runs counter-clockwise 
 
-**S41** and **S42** operate a [circular service](https://en.wikipedia.org/wiki/Circle_route "Circle route") on the _[Ringbahn](https://en.wikipedia.org/wiki/Berlin_Ringbahn "Berlin Ringbahn")_ and are part of the [Berlin S-Bahn](https://en.wikipedia.org/wiki/Berlin_S-Bahn "Berlin S-Bahn"). 
+**S41** and **S42** operate a [circular service](https://en.wikipedia.org/wiki/Circle_route "Circle route") on the same _[Ringbahn](https://en.wikipedia.org/wiki/Berlin_Ringbahn "Berlin Ringbahn")_ and are part of the [Berlin S-Bahn](https://en.wikipedia.org/wiki/Berlin_S-Bahn "Berlin S-Bahn"). 
 The S41 operates clockwise around the circle, 
 the S42 operates counter-clockwise. 
 

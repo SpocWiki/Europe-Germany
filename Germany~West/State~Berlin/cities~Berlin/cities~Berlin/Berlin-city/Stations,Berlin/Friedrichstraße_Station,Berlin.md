@@ -1,3 +1,13 @@
+---
+aliases:
+  - T68_Köpenick
+location: [52.520278,13.386944] 
+---
+
+#has_/place_/latitude :: 52.520278 
+#has_/place_/longitude :: 13.386944 
+
+geo:52.520278,13.386944
 
 > Berlin Friedrichstraße (German: [bɛʁˌliːn ˈfʁiːdʁɪçˌʃtʁaːsə] ) 
 > is a railway station in the German capital Berlin. 
@@ -11,7 +21,7 @@
 > the station is a favorite destination for tourists. 
 > 
 > At the same time, it is the main junction for regional traffic in Berlin, 
-> measured by the number of passengers.
+> measured by the number of passengers. 
 >
 > During the Cold War, Friedrichstraße became famous 
 > for being a station that was located entirely in East Berlin, 
