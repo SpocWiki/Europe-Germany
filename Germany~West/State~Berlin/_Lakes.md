@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.44 , 13.65 ] 
 type: geo-Region
 title: _Lakes
@@ -26,6 +26,8 @@ layout:
 publishDate: 
 expiryDate: 
 ---
+
+geo:52.44,13.65 
 
 # _Lakes
 

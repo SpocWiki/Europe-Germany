@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.78,6.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -23,6 +23,8 @@ has_place_country:: [[Germany]]
 has_place_province:: [[NordRhein-Westfahlen]]  
 [Population::] 
 [Unknown::] 
+
+`$=dv.paragraph("[geo:"+dv.current().location[0]+","+dv.current().location[1]+"](geo:"+dv.current().location[0]+","+dv.current().location[1]+")")` 
 
 
 ```leaflet
