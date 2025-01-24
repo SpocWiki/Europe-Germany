@@ -275,13 +275,9 @@ maxZoom: 18
 ```
 
 
-
-[[../../../../../../../../../assets/geo/Europe/Germany/Berlin~Museumsinsel.webp]] 
-![[../../../../../../../../../assets/geo/Europe/Germany/Berlin~Museumsinsel.webp]] 
+[[../../../../../../../../../assets/geo/Europe/Germany/Berlin/Berlin~Museumsinsel.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Berlin/Berlin~Museumsinsel.webp]]] 
 Museumsinsel Berlin ([[Unesco]] Welterbe seit 1999)  
-
-[[../../../../../../../../../assets/geo/Europe/Germany/Berlin~Gartenstadt_Falkenberg.webp]] 
-![[../../../../../../../../../assets/geo/Europe/Germany/Berlin~Gartenstadt_Falkenberg.webp]] 
+[[../../../../../../../../../assets/geo/Europe/Germany/Berlin/Berlin~Gartenstadt_Falkenberg.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Berlin/Berlin~Gartenstadt_Falkenberg.webp]]] 
 Siedlungen der Berliner Moderne ([[Unesco]] Welterbe seit 2008) 
 
 ## Confidential Links & Embeds: 

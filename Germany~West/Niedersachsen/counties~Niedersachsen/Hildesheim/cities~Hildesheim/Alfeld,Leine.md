@@ -5,9 +5,7 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fagus%20Factory)
 > 
-
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Alfeld,Leine~Fagus-Werk.webp]] 
-![[../../../../../../../../../../../assets/geo/Europe/Germany/Alfeld,Leine~Fagus-Werk.webp]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Alfeld,Leine~Fagus-Werk.webp]]] ![[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Alfeld,Leine~Fagus-Werk.webp]]] 
 Fagus-Werk in Alfeld (2011) 
 
 ## Confidential Links & Embeds: 

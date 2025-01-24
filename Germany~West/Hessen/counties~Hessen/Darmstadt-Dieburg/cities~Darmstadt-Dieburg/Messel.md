@@ -1,6 +1,4 @@
-﻿
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Darmstadt~Grube_Messel.webp]]
-![[../../../../../../../../../../../assets/geo/Europe/Germany/Darmstadt~Grube_Messel.webp]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Darmstadt~Grube_Messel.webp]]
+﻿[[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Darmstadt~Grube_Messel.webp]]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Darmstadt~Grube_Messel.webp]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Darmstadt~Grube_Messel.webp]]]
 Fossillagerstätte Grube Messel ( 1995) 
 
 ## Confidential Links & Embeds: 

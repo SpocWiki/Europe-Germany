@@ -33,16 +33,13 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-
-![[../../../../../../../../../assets/geo/Europe/Germany/Erfurt-Krämerbrücke.webp]] 
+![[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Erfurt-Krämerbrücke.webp]]] 
 Erfurt (Thüringen) besitzt einen der größten Altstadt-Kerne Deutschlands. 
 Die Altstadt wurde im Zweiten Weltkrieg schwer beschädigt, 
 die Wiedervereinigung war schließlich ihre Rettung. 
 Hier zu sehen: die berühmte Krämerbrücke.
 
-
-[[../../../../../../../../../assets/geo/Europe/Germany/Erfurt-alte_Synagoge.webp]] 
-![[../../../../../../../../../assets/geo/Europe/Germany/Erfurt-alte_Synagoge.webp]] 
+[[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Erfurt-alte_Synagoge.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Erfurt-alte_Synagoge.webp]]] 
 Jüdisch-Mittelalterliches Erbe in Erfurt ( [[Unesco]] Welterbe seit 2023) 
 
 ## Confidential Links & Embeds: 

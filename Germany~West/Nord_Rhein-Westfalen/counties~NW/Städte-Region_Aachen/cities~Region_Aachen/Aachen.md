@@ -37,7 +37,7 @@ maxZoom: 18
 
 
 
-![[../../../../../../../../../../../assets/geo/Europe/Germany/Aachener_Dom.webp]]
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Nord_Rhein-Westfalen/Aachener_Dom.webp]]
 Aachener Dom (seit 1978 Teil der Unesco-Welterbeliste)
 
 ## Confidential Links & Embeds: 
