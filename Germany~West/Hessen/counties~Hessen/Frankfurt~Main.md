@@ -1,4 +1,4 @@
-﻿---
+---
 license: (c)copyrighted
 isDeleted: false
 isReadOnly: false
@@ -13,7 +13,8 @@ expiryDate:
 
 aliases:
 - Frankfurt~Main
-- 
+- Frankfurt am Main 
+- Frankfurt, Main
 
 lang: en
 
