@@ -33,9 +33,7 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Eisleben~Luther-Denkmal.webp]] 
-![[../../../../../../../../../../../assets/geo/Europe/Germany/Eisleben~Luther-Denkmal.webp]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen-Anhalt/Eisleben~Luther-Denkmal.webp]]] ![[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen-Anhalt/Eisleben~Luther-Denkmal.webp]]] 
 Luthergedenkstätten in Eisleben und Wittenberg ( [[Unesco]] Welterbe seit 1996) 
 ## Confidential Links & Embeds: 
 

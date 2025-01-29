@@ -37,9 +37,7 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-
-[[../../../../../../../../../../assets/geo/Europe/Germany/Kölner_Dom.webp]] 
-![[../../../../../../../../../../assets/geo/Europe/Germany/Kölner_Dom.webp]] 
+[[../../../../../../../../../../assets/geo/Europe/Germany/Nordrhein-Westfalen/Kölner_Dom.webp]]] ![[../../../../../../../../../../assets/geo/Europe/Germany/Nordrhein-Westfalen/Kölner_Dom.webp]]] 
 Kölner Dom ( [[Unesco]] 1996) 
 
 ## Confidential Links & Embeds: 

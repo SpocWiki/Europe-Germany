@@ -31,16 +31,12 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-
-[[../../../../../../../../../assets/geo/Europe/Germany/Weimar-Altstadt.webp]] 
-![[../../../../../../../../../assets/geo/Europe/Germany/Weimar-Altstadt.webp]] 
+[[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Weimar-Altstadt.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Weimar-Altstadt.webp]]] 
 Die Weimarer Altstadt (Thüringen): 
 Die Straßen, Plätze und kleinen Gassen sind weitgehend verkehrsberuhigt. 
 Die meisten Wohnhäuser gehören hier zur historischen Substanz. 
 Hinter dem Neptunbrunnen ist das Cranachhaus zu sehen.
-
-[[../../../../../../../../../assets/geo/Europe/Germany/Weimar~Castle_Beldevere.webp]] 
-![[../../../../../../../../../assets/geo/Europe/Germany/Weimar~Castle_Beldevere.webp]] 
+[[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Weimar~Castle_Beldevere.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Weimar~Castle_Beldevere.webp]]] 
 Weimar (1998)
 [[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Bauhaus,Weimar.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Bauhaus,Weimar.webp]]] 
 Bauhaus und seine Stätten in Weimar, Dessau und Bernau ( [[Unesco]] Welterbe seit 1996)

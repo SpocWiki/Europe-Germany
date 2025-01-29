@@ -35,13 +35,9 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-
-[[../../../../../../../../../assets/geo/Europe/Germany/Lübeck-Holstentor.webp]] 
-![[../../../../../../../../../assets/geo/Europe/Germany/Lübeck-Holstentor.webp]] 
+[[../../../../../../../../../assets/geo/Europe/Germany/Schleswig-Holstein/Lübeck-Holstentor.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Schleswig-Holstein/Lübeck-Holstentor.webp]]] 
 Lübeck Holstentor ([[Unesco]] Welterbe seit 1987)
-
-[[../../../../../../../../../assets/geo/Europe/Germany/Lübeck.webp]] 
-![[../../../../../../../../../assets/geo/Europe/Germany/Lübeck.webp]]
+[[../../../../../../../../../assets/geo/Europe/Germany/Schleswig-Holstein/Lübeck.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Schleswig-Holstein/Lübeck.webp]]]
 Lübecks komplett von Wasser umschlossene Altstadt 
 mit ihrer beeindruckenden Backsteinarchitektur der Bürgerhäuser und der Kirchen 
 prägt bis heute das Gesicht der Hansestadt, 

@@ -31,9 +31,7 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Marburg~Altstadt.webp]]
-![[../../../../../../../../../../../assets/geo/Europe/Germany/Marburg~Altstadt.webp]]
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Marburg~Altstadt.webp]]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Marburg~Altstadt.webp]]]
 Marburgs Altstadt ist geprägt von der Hanglage am Schlosshügel, 
 mit enger und gedrängter Bebauung mittelalterlicher Gebäude. 
 In der Marburger Altstadt findet man mehr als 700 historische Häuser, 

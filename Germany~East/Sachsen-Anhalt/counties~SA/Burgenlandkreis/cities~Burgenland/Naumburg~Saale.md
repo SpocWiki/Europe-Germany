@@ -33,9 +33,7 @@ maxZoom: 18
 ```
 
 
-
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Naumburger_Dom.webp]] 
-![[../../../../../../../../../../../assets/geo/Europe/Germany/Naumburger_Dom.webp]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen-Anhalt/Naumburger_Dom.webp]]] ![[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen-Anhalt/Naumburger_Dom.webp]]] 
 Naumburger Dom ([[Unesco]] Welterbe seit 2018) 
 
 ## Confidential Links & Embeds: 

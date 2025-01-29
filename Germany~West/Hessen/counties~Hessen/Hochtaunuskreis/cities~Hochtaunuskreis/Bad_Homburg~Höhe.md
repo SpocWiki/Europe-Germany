@@ -34,9 +34,7 @@ maxZoom: 18
 ```
 
 
-
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Limes~Saalburg.webp]] 
-![[../../../../../../../../../../../assets/geo/Europe/Germany/Limes~Saalburg.webp]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Limes~Saalburg.webp]]] ![[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Limes~Saalburg.webp]]] 
 Saalburg, Limes des Römischen Reiches ( [[Unesco]] Welterbe seit 2005) 
 
 

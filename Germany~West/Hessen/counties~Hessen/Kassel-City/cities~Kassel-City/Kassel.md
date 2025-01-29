@@ -33,9 +33,7 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Kassel~Wilhelmshöhe.webp]] 
-![[../../../../../../../../../../../assets/geo/Europe/Germany/Kassel~Wilhelmshöhe.webp]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Kassel~Wilhelmshöhe.webp]]] ![[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Kassel~Wilhelmshöhe.webp]]] 
 Bergpark Wilhelmshöhe (2013) 
 
 ## Confidential Links & Embeds: 

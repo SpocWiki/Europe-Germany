@@ -12,9 +12,7 @@ geojsonFolder: ./Lüneburg///
 markerFolder: ./Lüneburg/
 ```
 
-
-[[../../../../../../../../../assets/geo/Europe/Germany/Lüneburg.webp]]
-![[../../../../../../../../../assets/geo/Europe/Germany/Lüneburg.webp]]
+[[../../../../../../../../../assets/geo/Europe/Germany/Niedersachsen/Lüneburg.webp]]]![[../../../../../../../../../assets/geo/Europe/Germany/Niedersachsen/Lüneburg.webp]]]
 In der mehr als 1.050 Jahre alten Salz- und Hansestadt Lüneburg 
 gibt es mittelalterliche Architektur im Stil der Backsteingotik. 
 Die historischen Treppen-, Schnecken- oder Spitzgiebel 

@@ -33,9 +33,7 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Dessau~Gartenreich.webp]] 
-![[../../../../../../../../../../../assets/geo/Europe/Germany/Dessau~Gartenreich.webp]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen-Anhalt/Dessau~Gartenreich.webp]]] ![[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen-Anhalt/Dessau~Gartenreich.webp]]] 
 Gartenreich Dessau-Wörlitz (2000) 
 
 

@@ -34,8 +34,7 @@ defaultZoom: 10
 maxZoom: 18
 ```
 
-
-![[../../../../../../../../../assets/geo/Europe/Germany/Hildesheim-Dom.webp]]
+![[../../../../../../../../../assets/geo/Europe/Germany/Niedersachsen/Hildesheim-Dom.webp]]]
 Dom und Michaeliskirche in Hildesheim ([[Unesco]] Welterbe seit  1985)
 
 

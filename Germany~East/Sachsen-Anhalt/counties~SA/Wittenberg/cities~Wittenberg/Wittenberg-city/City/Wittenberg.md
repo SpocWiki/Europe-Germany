@@ -31,8 +31,7 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-
-![[../../../../../../../../../../../../../assets/geo/Europe/Germany/Wittenberg-Altstadt.webp]]
+![[../../../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen-Anhalt/Wittenberg-Altstadt.webp]]]
 Neben dem Unesco-Welterbe "Luthergedenkstätten in Wittenberg" hat die Universitätsstadt in Sachsen-Anhalt noch einiges mehr zu bieten: 
 Die malerischen Straßen und Plätze der Altstadt, wie der Schlossplatz, 
 sowie die Cranachhöfe und üppigen Grünanlagen sind ebenfalls sehenswert. 

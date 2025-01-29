@@ -31,9 +31,7 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Wernigerode-Marktplatz.webp]]
-![[../../../../../../../../../../../assets/geo/Europe/Germany/Wernigerode-Marktplatz.webp]]
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Wernigerode-Marktplatz.webp]]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Wernigerode-Marktplatz.webp]]]
 Beim Bummel durch Wernigerode  im Harzgehört das historische Rathaus 
 zu den eindrucksvollen Sehenswürdigkeiten. 
 Ein Spaziergang durch das Heideviertel ist geprägt 

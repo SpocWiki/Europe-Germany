@@ -31,8 +31,7 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-
-![[../../../../../../../../../../../assets/geo/Europe/Germany/Stralsund-Altstadt.webp]]
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Mecklenburg-Vorpommern/Stralsund-Altstadt.webp]]]
 Die Altstadt von Stralsund repräsentiert den Reichtum, 
 den regionalen Einfluss und die Macht der Hanse. 
 Die Bausubstanz umfasst Beispiele der Backsteingotik, so wie hier zu sehen. 
