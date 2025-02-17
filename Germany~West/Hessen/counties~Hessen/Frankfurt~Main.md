@@ -2,22 +2,17 @@
 license: (c)copyrighted
 isDeleted: false
 isReadOnly: false
-
 title: Frankfurt~Main
-
 linkTitle: Frankfurt~Main
-keywords: [Frankfurt~Main]
-
-publishDate:
+keywords:
+  - Frankfurt~Main
+publishDate: 
 expiryDate: 
-
 aliases:
-- Frankfurt~Main
-- Frankfurt am Main 
-- Frankfurt, Main
-
+  - Frankfurt~Main
+  - Frankfurt am Main
+  - Frankfurt, Main
 lang: en
-
 native label: Frankfurt am Main
 official name: Frankfurt am Main
 has_id_wikidata: Q1794
@@ -30,7 +25,8 @@ UN/LOCODE: DEFRA
 German municipality key: "06412000"
 German regional key: "064120000000"
 U.S. National Archives Identifier: "10044637"
-official website: https://frankfurt.de/
+official website:
+  - https://frankfurt.de/
 area: 248.31
 social media followers: 229063
 budget: 4730590000
@@ -38,7 +34,8 @@ population: 773068
 located in the administrative territorial entity: "[[../../../../../../../../WikiData/WD~Darmstadt Government Region]]"
 continent: "[[../../../../../../../../WikiData/WD~Europe]]"
 country: "[[../../../../../../../../WikiData/WD~Germany]]"
-open data portal: "[[../../../../../../../../WikiData/WD~Offene Daten Frankfurt]]"
+open data portal:
+  - "[[../../../../../../../../WikiData/WD~Offene Daten Frankfurt]]"
 economy of topic: "[[../../../../../../../../WikiData/WD~economy of Frankfurt]]"
 coordinates of geographic center: Point(8.6444 50.1173)
 coordinates of northernmost point: Point(8.709277777 50.227138888)
@@ -50,13 +47,17 @@ Dewey Decimal Classification: 2--434164
 postal code:
   - 60308–60599
   - 65929–65936
-HASC: DE.HE.FM
+HASC:
+  - DE.HE.FM
 NUTS code: DE712
-subreddit: frankfurt
-hashtag: Frankfurt_am_Main
+subreddit:
+  - frankfurt
+hashtag:
+  - Frankfurt_am_Main
 "Image Archive, Herder Institute": Q1794
 X username: Stadt_FFM
-Facebook username: StadtFFM
+Facebook username:
+  - StadtFFM
 short name:
   - Frankfurt/Main
   - F
@@ -146,7 +147,8 @@ described by source:
   - "[[../../../../../../../../WikiData/WD~Encyclopædia Britannica Ninth Edition]]"
   - "[[../../../../../../../../WikiData/WD~Frankfurter Personenlexikon]]"
   - "[[../../../../../../../../WikiData/WD~Q107347894]]"
-has list: "[[../../../../../../../../WikiData/WD~list of people from Frankfurt]]"
+has list:
+  - "[[../../../../../../../../WikiData/WD~list of people from Frankfurt]]"
 history of topic: "[[../../../../../../../../WikiData/WD~history of Frankfurt am Main]]"
 member of:
   - "[[../../../../../../../../WikiData/WD~International Association for Sports and Leisure Facilities]]"
@@ -157,7 +159,8 @@ member of:
 topic's main Wikimedia portal: "[[../../../../../../../../WikiData/WD~Portal:Frankfurt]]"
 coat of arms: "[[../../../../../../../../WikiData/WD~coat of arms of Frankfurt]]"
 part of: "[[../../../../../../../../WikiData/WD~Stadtregion Frankfurt]]"
-award received: "[[../../../../../../../../WikiData/WD~European City of the Trees]]"
+award received:
+  - "[[../../../../../../../../WikiData/WD~European City of the Trees]]"
 visitor center: "[[../../../../../../../../WikiData/WD~Tourismus+Congress GmbH Frankfurt am Main]]"
 language used:
   - "[[../../../../../../../../WikiData/WD~Q56219351]]"
@@ -172,9 +175,11 @@ nickname:
 Provenio UUID: 60292b75-0677-4859-8b66-29b5bd1e4f38
 BHCL UUID: 602b716b-7009-4dfc-8b06-601472867466
 pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Frankfurt%20am%20Main2.ogg
-Instagram username: frankfurt.de
+Instagram username:
+  - frankfurt.de
 Threads username: frankfurt.de
-located in or next to body of water: "[[../../../../../../../../WikiData/WD~Main]]"
+located in or next to body of water:
+  - "[[../../../../../../../../WikiData/WD~Main]]"
 shares border with:
   - "[[../../../../../../../../WikiData/WD~Offenbach am Main]]"
   - "[[../../../../../../../../WikiData/WD~Wetteraukreis]]"
