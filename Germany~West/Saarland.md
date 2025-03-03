@@ -24,7 +24,8 @@ native label:
   - Saarland
 official name: Saarland
 population: 986887
-inception: 1947-12-17T00:00:00Z
+inception: 1947-12-17T00:00:00Z 
+has_time_started: 1947-12-17T00:00:00Z 
 coordinate location: Point(6.878377777 49.37715)
 twinned administrative body:
   - "[[_Standards/WikiData/WD~Lviv Oblast]]"

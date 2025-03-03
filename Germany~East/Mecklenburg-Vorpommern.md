@@ -28,7 +28,8 @@ flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Meckl
 motto text: MV tut gut.
 OmegaWiki Defined Meaning: "414538"
 native label: Mecklenburg-Vorpommern
-inception: 1990-10-03T00:00:00Z
+inception: 1990-10-03T00:00:00Z 
+has_time_started: 1990-10-03T00:00:00Z 
 Commons category: Mecklenburg-Vorpommern
 Commons gallery: Mecklenburg-Vorpommern
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Schwerin%20Castle%20Aerial%20View%20Island%20Luftbild%20Schweriner%20Schloss%20Insel%20See.jpg

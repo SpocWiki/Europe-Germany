@@ -113,7 +113,8 @@ legislative body: "[[_Standards/WikiData/WD~Dresden City Council,5123134]]"
 economy of topic: "[[_Standards/WikiData/WD~economy of Dresden,5333666]]"
 open data portal: "[[_Standards/WikiData/WD~Dresden Open Data,97290050]]"
 time of earliest written record: 1206-01-01T00:00:00Z
-inception: 1206-01-01T00:00:00Z
+inception: 1206-01-01T00:00:00Z 
+has_time_started: 1206-01-01T00:00:00Z 
 BHCL UUID:
   - 64a02269-cdc8-4a7f-9b4d-283aaec0d5df
   - 14355fda-a90a-4868-b1a9-2d8b1d5e05fa

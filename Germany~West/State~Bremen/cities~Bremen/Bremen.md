@@ -17,7 +17,8 @@ NUTS code:
   - DE50
 Commons category: Bremen (state)
 coordinate location: Point(8.733333333 53.133333333)
-inception: 1646-01-01T00:00:00Z
+inception: 1646-01-01T00:00:00Z 
+has_time_started: 1646-01-01T00:00:00Z 
 instance of:
   - "[[_Standards/WikiData/WD~city-state]]"
   - "[[_Standards/WikiData/WD~federated state of Germany]]"

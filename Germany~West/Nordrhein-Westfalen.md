@@ -102,7 +102,8 @@ hashtag:
 Facebook username: NRW
 OmegaWiki Defined Meaning: "414383"
 population: 17932651
-inception: 1946-08-23T00:00:00Z
+inception: 1946-08-23T00:00:00Z 
+has_time_started: 1946-08-23T00:00:00Z 
 Commons category: North Rhine-Westphalia
 Basisklassifikation: "15.53"
 aliases:

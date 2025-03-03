@@ -245,7 +245,8 @@ FIPS 10-4 (countries and regions): GM16
 Instagram username: hauptstadtportal
 Facebook username: Hauptstadtportal
 Libris-URI: sq4659db1dbqh2f
-inception: 1244-01-01T00:00:00Z
+inception: 1244-01-01T00:00:00Z 
+has_time_started: 1244-01-01T00:00:00Z 
 time of earliest written record:
   - 1244-01-01T00:00:00Z
   - 1237-01-01T00:00:00Z

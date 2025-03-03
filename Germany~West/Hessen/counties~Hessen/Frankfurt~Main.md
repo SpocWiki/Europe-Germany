@@ -20,7 +20,8 @@ German district key: "06412"
 coordinate location: Point(8.682222222 50.110555555)
 elevation above sea level: 112
 time of earliest written record: 0794-02-26T00:00:00Z
-inception: 0100-01-01T00:00:00Z
+inception: 0100-01-01T00:00:00Z 
+has_time_started: 0100-01-01T00:00:00Z 
 UN/LOCODE: DEFRA
 German municipality key: "06412000"
 German regional key: "064120000000"

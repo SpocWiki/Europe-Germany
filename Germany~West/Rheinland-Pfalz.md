@@ -117,7 +117,8 @@ NUTS code: DEB
 area: 19853.36
 population: 4084844
 OmegaWiki Defined Meaning: "642911"
-inception: 1946-08-30T00:00:00Z
+inception: 1946-08-30T00:00:00Z 
+has_time_started: 1946-08-30T00:00:00Z 
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Rhineland-Palatinate.svg
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rhineland-Palatinate.svg
 Commons category: Rhineland-Palatinate

@@ -124,7 +124,8 @@ area: 47614.07
 population: 8003421
 Commons category: Lower Saxony
 coordinates of easternmost point: Point(11.598166666 53.034555555)
-inception: 1946-11-01T00:00:00Z
+inception: 1946-11-01T00:00:00Z 
+has_time_started: 1946-11-01T00:00:00Z 
 coordinates of westernmost point: Point(6.638638888 53.591944444)
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Lower%20Saxony.svg
 coordinates of northernmost point: Point(8.67875 53.892277777)

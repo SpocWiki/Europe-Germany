@@ -102,7 +102,8 @@ area: 15804.28
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/DEU%20Schleswig-Holstein%20COA.svg
 OmegaWiki Defined Meaning: "642921"
 U.S. National Archives Identifier: "10044808"
-inception: 1946-08-23T00:00:00Z
+inception: 1946-08-23T00:00:00Z 
+has_time_started: 1946-08-23T00:00:00Z 
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Holstentor04.jpg
 NUTS code:
   - DEF

@@ -23,7 +23,8 @@ Commons category: Hesse
 logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Hessische%20Landesregierung.svg
 population: 6265809
 OmegaWiki Defined Meaning: "414556"
-inception: 1945-09-19T00:00:00Z
+inception: 1945-09-19T00:00:00Z 
+has_time_started: 1945-09-19T00:00:00Z 
 subreddit:
   - hessen
 NUTS code: DE7
