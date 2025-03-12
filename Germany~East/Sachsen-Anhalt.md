@@ -34,8 +34,8 @@ population: 2194782
 native label:
   - Sachsen-Anhalt
 budget: 15203903000
-inception: 1990-10-03T00:00:00Z 
-has_time_started: 1990-10-03T00:00:00Z 
+inception: 1990-10-03  
+has_time_started: 1990-10-03  
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Wappen%20Sachsen-Anhalt.svg
 Commons gallery: Sachsen-Anhalt
 Commons category: Saxony-Anhalt

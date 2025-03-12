@@ -67,8 +67,8 @@ area: 29478.63
 Commons gallery: Brandenburg
 Commons category: Brandenburg
 OmegaWiki Defined Meaning: "414546"
-inception: 1990-10-03T00:00:00Z 
-has_time_started: 1990-10-03T00:00:00Z 
+inception: 1990-10-03  
+has_time_started: 1990-10-03  
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/DEU%20Brandenburg%20COA.svg
 budget: 16359191300
 X username: staatskanzleibb

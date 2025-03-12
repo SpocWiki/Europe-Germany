@@ -569,7 +569,7 @@ Provenio UUID: 25109579-f83d-4205-8a35-383a1387c62c
 UMLS CUI: C0017480
 coordinate location: Point(10.0 51.0)
 coordinates of easternmost point: Point(15.04178122 51.27279981)
-time of earliest written record: 0919-01-01T00:00:00Z
+time of earliest written record: 0919-01-01 
 ISNI: "0000000122854945"
 compulsory education (maximum age): http://www.wikidata.org/.well-known/genid/74ea97b1ddfcd696f574cf6ab5e78e91
 coordinates of westernmost point: Point(5.86636662 51.05110016)
@@ -590,8 +590,8 @@ coordinates of northernmost point: Point(8.4193 55.0584)
 nominal GDP:
   - 4259934911822
   - 4072191736090
-inception: 1949-05-23T00:00:00Z 
-has_time_started: 1949-05-23T00:00:00Z 
+inception: 1949-05-23  
+has_time_started: 1949-05-23  
 area: 357587.77
 budget: 476290763000
 compulsory education (minimum age):

@@ -126,7 +126,7 @@ native label: Hannover
 official name: Hannover
 population: 548186
 WOEID: "657169"
-time of earliest written record: 1150-01-01T00:00:00Z
+time of earliest written record: 1150-01-01 
 Commons gallery: Hannover
 Commons category: Hannover
 U.S. National Archives Identifier: "10036554"

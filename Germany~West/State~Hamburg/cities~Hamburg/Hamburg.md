@@ -121,7 +121,7 @@ permanent duplicated item: "[[_Standards/WikiData/WD~Q62476784]]"
 replaces:
   - "[[_Standards/WikiData/WD~Landkreis Hamburg]]"
   - "[[_Standards/WikiData/WD~Q62572079]]"
-time of earliest written record: 0810-01-01T00:00:00Z
+time of earliest written record: 0810-01-01 
 economy of topic: "[[_Standards/WikiData/WD~economy of Hamburg]]"
 BHCL UUID:
   - ff399c52-fc3b-4aed-ad32-effc2a222444

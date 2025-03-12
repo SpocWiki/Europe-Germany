@@ -116,8 +116,8 @@ coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of
 OmegaWiki Defined Meaning: "642943"
 population: 2143145
 Human Development Index: 0.9281216
-inception: 1990-10-03T00:00:00Z 
-has_time_started: 1990-10-03T00:00:00Z 
+inception: 1990-10-03  
+has_time_started: 1990-10-03  
 geoshape: http://commons.wikimedia.org/data/main/Data:Th%C3%BCringen.map
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Erfurt%20cathedral%20and%20severi%20church.jpg
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Thuringia.svg

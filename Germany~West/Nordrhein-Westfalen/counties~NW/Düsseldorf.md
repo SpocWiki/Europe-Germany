@@ -37,7 +37,7 @@ social media followers:
 male population: 299315
 female population: 319979
 population: 631217
-time of earliest written record: 1135-01-01T00:00:00Z
+time of earliest written record: 1135-01-01 
 coordinate location: Point(6.772380555 51.231144444)
 twinned administrative body:
   - "[[_Standards/WikiData/WD~Chongqing,11725]]"

@@ -98,8 +98,8 @@ OmegaWiki Defined Meaning: "387298"
 area: 18415.66
 population: 4086218
 coordinate location: Point(13.358888888 51.026944444)
-inception: 1990-10-03T00:00:00Z 
-has_time_started: 1990-10-03T00:00:00Z 
+inception: 1990-10-03  
+has_time_started: 1990-10-03  
 geoshape: http://commons.wikimedia.org/data/main/Data:Sachsen.map
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dresden-Semperoper.04.JPG
 flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saxony.svg
