@@ -106,15 +106,17 @@ coat of arms: "[[_Standards/WikiData/WD~coat of arms of Dresden,731539]]"
 head of government: "[[_Standards/WikiData/WD~Dirk Hilbert,1227894]]"
 grants: "[[_Standards/WikiData/WD~Dresden resident writer,1258578]]"
 list of monuments: "[[_Standards/WikiData/WD~list of heritage sites in Dresden,1842110]]"
-award received: "[[_Standards/WikiData/WD~Schleudersachse,2239404]]"
-archives at: "[[_Standards/WikiData/WD~Stadtarchiv Dresden,2326541]]"
+award received:
+  - "[[_Standards/WikiData/WD~Schleudersachse,2239404]]"
+archives at:
+  - "[[_Standards/WikiData/WD~Stadtarchiv Dresden,2326541]]"
 highest point: "[[_Standards/WikiData/WD~Triebenberg,2452825]]"
 legislative body: "[[_Standards/WikiData/WD~Dresden City Council,5123134]]"
 economy of topic: "[[_Standards/WikiData/WD~economy of Dresden,5333666]]"
 open data portal: "[[_Standards/WikiData/WD~Dresden Open Data,97290050]]"
-time of earliest written record: 1206-01-01 
-inception: 1206-01-01  
-has_time_started: 1206-01-01  
+time of earliest written record: 1206-01-01
+inception: 1206-01-01
+has_time_started: 1206-01-01
 BHCL UUID:
   - 64a02269-cdc8-4a7f-9b4d-283aaec0d5df
   - 14355fda-a90a-4868-b1a9-2d8b1d5e05fa
@@ -122,12 +124,15 @@ BHCL UUID:
 Instagram username: visit.dresden
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Google%20Timelapse-%20Dresden%2C%20Germany.webm
 coordinate location: Point(13.74 51.05)
-Threads username: landeshauptstadt_dresden
+Threads username:
+  - landeshauptstadt_dresden
 Wolfram Language entity code: Entity["City", {"Dresden", "Saxony", "Germany"}]
-ISNI: "0000000110164613"
+ISNI:
+  - "0000000110164613"
 capital of: "[[_Standards/WikiData/WD~Saxony,1202]]"
 located in the administrative territorial entity: "[[_Standards/WikiData/WD~Saxony,1202]]"
-Dewey Decimal Classification: 2--432142
+Dewey Decimal Classification:
+  - 2--432142
 RIA Novosti reference: "54680658"
 Provenio UUID: 97133263-c670-4c1c-92c1-94990d7cbdc1
 HASC: DE.SN.DE
@@ -145,7 +150,8 @@ demonym:
   - drezdai
   - Dresdener
   - Dresdner
-Mastodon instance URL: https://dresden.network
+Mastodon instance URL:
+  - https://dresden.network
 located in time zone:
   - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
   - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
@@ -172,11 +178,13 @@ local dialing code:
   - "35201"
 area: 328.48
 native label: Dresden
-official name: Dresden
+official name:
+  - Dresden
 licence plate code: DD
 population: 566222
 GitHub topic: dresden
-subreddit: dresden
+subreddit:
+  - dresden
 Commons gallery: Dresden
 Commons category: Dresden
 Stadtwiki Dresden article: Dresden
@@ -195,10 +203,15 @@ locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Saxony%20D
 location map: http://commons.wikimedia.org/wiki/Special:FilePath/Stadtteile%20in%20Dresden.svg
 official website: https://www.dresden.de/
 U.S. National Archives Identifier: "10044802"
+fileClass:
+  - GovernmentOrganization 
+  - City 
 ---
 ﻿
 ﻿#is_a_/Place  
 #is_a_ :: [[Place]] 
+#is_a :: [[City]] 
+#is_a :: [[Government_Organization]] 
 [has_place_longitude::13.73] 
 [has_place_latitude::51.05] 
 [name::Dresden] 

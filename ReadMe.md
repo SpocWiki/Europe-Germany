@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deutschland (Germany)
 type: Country
 location: [50.8699,10.1207] 
@@ -21,17 +21,6 @@ confidential: public
 tags:
 - geo/Country
 aliases:
-- Deutschland
-- DE
-- DEU
-- Germany
-- Alemania
-- Allemagne
-- ألمانيا
-- 德国
-- Германия
-- the Federal Republic of Germany
-- la República Federal de Alemania
 
 Languages:
 - de
