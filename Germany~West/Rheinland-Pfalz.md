@@ -1,133 +1,133 @@
 ﻿---
 has_id_wikidata: Q1200
 location:
-  - 49.914
-  - 7.57652
+- 49.914
+- 7.57652
 type: State
 ISO3166-2: DE-RP
 SpocWebEntityId: 36021
 isDeleted: false
 Confidential: public
 tags:
-  - geo/State
+- geo/State
 icon: Flag_of_Rhineland-Palatinate
-head of government: "[[_Standards/WikiData/WD~Malu Dreyer]]"
-legislative body:
-  - "[[_Standards/WikiData/WD~Landtag of Rhineland-Palatinate]]"
-highest point: "[[_Standards/WikiData/WD~Erbeskopf]]"
-contains the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Rheinhessen-Pfalz]]"
-  - "[[_Standards/WikiData/WD~Trier Government Region]]"
-  - "[[_Standards/WikiData/WD~Koblenz Government Region]]"
-  - "[[_Standards/WikiData/WD~Montabaur Government Region]]"
-  - "[[_Standards/WikiData/WD~Q2137712]]"
-  - "[[_Standards/WikiData/WD~Rheinhessen Government Region]]"
-  - "[[_Standards/WikiData/WD~Mainz]]"
-  - "[[_Standards/WikiData/WD~Ludwigshafen]]"
-  - "[[_Standards/WikiData/WD~Koblenz]]"
-  - "[[_Standards/WikiData/WD~Trier]]"
-  - "[[_Standards/WikiData/WD~Kaiserslautern]]"
-  - "[[_Standards/WikiData/WD~Worms]]"
-  - "[[_Standards/WikiData/WD~Neustadt an der Weinstraße]]"
-  - "[[_Standards/WikiData/WD~Speyer]]"
-  - "[[_Standards/WikiData/WD~Frankenthal]]"
-  - "[[_Standards/WikiData/WD~Landau in der Pfalz]]"
-  - "[[_Standards/WikiData/WD~Germersheim]]"
-  - "[[_Standards/WikiData/WD~Südliche Weinstraße]]"
-  - "[[_Standards/WikiData/WD~Rhein-Pfalz]]"
-  - "[[_Standards/WikiData/WD~Südwestpfalz]]"
-  - "[[_Standards/WikiData/WD~Kaiserslautern]]"
-  - "[[_Standards/WikiData/WD~Bad Dürkheim (district)]]"
-  - "[[_Standards/WikiData/WD~Kusel]]"
-  - "[[_Standards/WikiData/WD~Alzey-Worms]]"
-  - "[[_Standards/WikiData/WD~Donnersbergkreis]]"
-  - "[[_Standards/WikiData/WD~Mainz-Bingen]]"
-  - "[[_Standards/WikiData/WD~Rhein-Hunsrück-Kreis]]"
-  - "[[_Standards/WikiData/WD~Birkenfeld]]"
-  - "[[_Standards/WikiData/WD~Bad Kreuznach]]"
-  - "[[_Standards/WikiData/WD~Trier-Saarburg]]"
-  - "[[_Standards/WikiData/WD~Vulkaneifel]]"
-  - "[[_Standards/WikiData/WD~Eifelkreis Bitburg-Prüm]]"
-  - "[[_Standards/WikiData/WD~Bernkastel-Wittlich]]"
-  - "[[_Standards/WikiData/WD~Cochem-Zell]]"
-  - "[[_Standards/WikiData/WD~Mayen-Koblenz]]"
-  - "[[_Standards/WikiData/WD~Ahrweiler]]"
-  - "[[_Standards/WikiData/WD~Westerwaldkreis]]"
-  - "[[_Standards/WikiData/WD~Rhein-Lahn-Kreis]]"
-  - "[[_Standards/WikiData/WD~Neuwied]]"
-  - "[[_Standards/WikiData/WD~Altenkirchen district]]"
-  - "[[_Standards/WikiData/WD~Pirmasens]]"
-  - "[[_Standards/WikiData/WD~Zweibrücken]]"
-coat of arms: "[[_Standards/WikiData/WD~coat of arms of Rhineland-Palatinate]]"
-lowest point: "[[_Standards/WikiData/WD~Nonnenwerth]]"
+head_of_government: "[[_Standards/WikiData/WD~Malu Dreyer]]"
+legislative_body:
+- "[[_Standards/WikiData/WD~Landtag of Rhineland-Palatinate]]"
+highest_point: '[[_Standards/WikiData/WD~Erbeskopf]]'
+contains_the_administrative_territorial_entity:
+- '[[_Standards/WikiData/WD~Rheinhessen-Pfalz]]'
+- "[[_Standards/WikiData/WD~Trier Government Region]]"
+- "[[_Standards/WikiData/WD~Koblenz Government Region]]"
+- "[[_Standards/WikiData/WD~Montabaur Government Region]]"
+- '[[_Standards/WikiData/WD~Q2137712]]'
+- "[[_Standards/WikiData/WD~Rheinhessen Government Region]]"
+- '[[_Standards/WikiData/WD~Mainz]]'
+- '[[_Standards/WikiData/WD~Ludwigshafen]]'
+- '[[_Standards/WikiData/WD~Koblenz]]'
+- '[[_Standards/WikiData/WD~Trier]]'
+- '[[_Standards/WikiData/WD~Kaiserslautern]]'
+- '[[_Standards/WikiData/WD~Worms]]'
+- "[[_Standards/WikiData/WD~Neustadt an der Weinstraße]]"
+- '[[_Standards/WikiData/WD~Speyer]]'
+- '[[_Standards/WikiData/WD~Frankenthal]]'
+- "[[_Standards/WikiData/WD~Landau in der Pfalz]]"
+- '[[_Standards/WikiData/WD~Germersheim]]'
+- "[[_Standards/WikiData/WD~Südliche Weinstraße]]"
+- '[[_Standards/WikiData/WD~Rhein-Pfalz]]'
+- '[[_Standards/WikiData/WD~Südwestpfalz]]'
+- '[[_Standards/WikiData/WD~Kaiserslautern]]'
+- "[[_Standards/WikiData/WD~Bad Dürkheim (district)]]"
+- '[[_Standards/WikiData/WD~Kusel]]'
+- '[[_Standards/WikiData/WD~Alzey-Worms]]'
+- '[[_Standards/WikiData/WD~Donnersbergkreis]]'
+- '[[_Standards/WikiData/WD~Mainz-Bingen]]'
+- '[[_Standards/WikiData/WD~Rhein-Hunsrück-Kreis]]'
+- '[[_Standards/WikiData/WD~Birkenfeld]]'
+- "[[_Standards/WikiData/WD~Bad Kreuznach]]"
+- '[[_Standards/WikiData/WD~Trier-Saarburg]]'
+- '[[_Standards/WikiData/WD~Vulkaneifel]]'
+- "[[_Standards/WikiData/WD~Eifelkreis Bitburg-Prüm]]"
+- '[[_Standards/WikiData/WD~Bernkastel-Wittlich]]'
+- '[[_Standards/WikiData/WD~Cochem-Zell]]'
+- '[[_Standards/WikiData/WD~Mayen-Koblenz]]'
+- '[[_Standards/WikiData/WD~Ahrweiler]]'
+- '[[_Standards/WikiData/WD~Westerwaldkreis]]'
+- '[[_Standards/WikiData/WD~Rhein-Lahn-Kreis]]'
+- '[[_Standards/WikiData/WD~Neuwied]]'
+- "[[_Standards/WikiData/WD~Altenkirchen district]]"
+- '[[_Standards/WikiData/WD~Pirmasens]]'
+- '[[_Standards/WikiData/WD~Zweibrücken]]'
+coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Rhineland-Palatinate]]"
+lowest_point: '[[_Standards/WikiData/WD~Nonnenwerth]]'
 flag: "[[_Standards/WikiData/WD~flag of Rhineland-Palatinate]]"
-instance of:
-  - "[[_Standards/WikiData/WD~federated state of Germany]]"
-archives at: "[[_Standards/WikiData/WD~Landeshauptarchiv Koblenz]]"
-history of topic: "[[_Standards/WikiData/WD~history of Rhineland-Palatinate]]"
-highest judicial authority: "[[_Standards/WikiData/WD~Constitutional Court of Rhineland-Palatinate]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal:Rhineland-Palatinate]]"
-office held by head of government: "[[_Standards/WikiData/WD~Minister-President of Rhineland-Palatinate]]"
-category for honorary citizens of entity: "[[_Standards/WikiData/WD~Q19473381]]"
-shares border with:
-  - "[[_Standards/WikiData/WD~Lorraine]]"
-  - "[[_Standards/WikiData/WD~Baden-Württemberg]]"
-  - "[[_Standards/WikiData/WD~Province of Liege]]"
-  - "[[_Standards/WikiData/WD~North Rhine-Westphalia]]"
-  - "[[_Standards/WikiData/WD~Hesse]]"
-  - "[[_Standards/WikiData/WD~Saarland]]"
-  - "[[_Standards/WikiData/WD~Moselle]]"
-  - "[[_Standards/WikiData/WD~Bas-Rhin]]"
-  - "[[_Standards/WikiData/WD~Wallonia]]"
-permanent duplicated item:
-  - "[[_Standards/WikiData/WD~Q25930020]]"
-open data portal:
-  - "[[_Standards/WikiData/WD~Open-Government-Data-Portal Rheinland-Pfalz]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of Rhineland-Palatinate]]"
-award received: "[[_Standards/WikiData/WD~BigBrotherAwards]]"
-geoshape: http://commons.wikimedia.org/data/main/Data:Rheinland-Pfalz.map
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Rhineland-Palatinate%20in%20Germany.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Mainz%20Deutschhaus%20BW%202012-08-18%2013-28-02.jpg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Rhine%20valley%20banner.jpg
-official website: https://www.rlp.de/
-ISO 3166-2 code: DE-RP
+instance_of:
+- "[[_Standards/WikiData/WD~federated state of Germany]]"
+archives_at: "[[_Standards/WikiData/WD~Landeshauptarchiv Koblenz]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of Rhineland-Palatinate]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Constitutional Court of Rhineland-Palatinate]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal:Rhineland-Palatinate]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Minister-President of Rhineland-Palatinate]]"
+category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q19473381]]'
+shares_border_with:
+- '[[_Standards/WikiData/WD~Lorraine]]'
+- '[[_Standards/WikiData/WD~Baden-Württemberg]]'
+- "[[_Standards/WikiData/WD~Province of Liege]]"
+- "[[_Standards/WikiData/WD~North Rhine-Westphalia]]"
+- '[[_Standards/WikiData/WD~Hesse]]'
+- '[[_Standards/WikiData/WD~Saarland]]'
+- '[[_Standards/WikiData/WD~Moselle]]'
+- '[[_Standards/WikiData/WD~Bas-Rhin]]'
+- '[[_Standards/WikiData/WD~Wallonia]]'
+permanent_duplicated_item:
+- '[[_Standards/WikiData/WD~Q25930020]]'
+open_data_portal:
+- "[[_Standards/WikiData/WD~Open-Government-Data-Portal Rheinland-Pfalz]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy of Rhineland-Palatinate]]"
+award_received: '[[_Standards/WikiData/WD~BigBrotherAwards]]'
+geoshape: "http://commons.wikimedia.org/data/main/Data:Rheinland-Pfalz.map"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Rhineland-Palatinate%20in%20Germany.svg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mainz%20Deutschhaus%20BW%202012-08-18%2013-28-02.jpg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Rhine%20valley%20banner.jpg"
+official_website: "https://www.rlp.de/"
+ISO_3166-2_code: DE-RP
 HASC:
-  - DE.RP
-FIPS 10-4 (countries and regions): GM08
-Commons gallery: Rheinland-Pfalz
-X username: rlpNews
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Rheinland-Pfalz2.ogg
-Facebook username: landesregierungrheinlandpfalz
-Instagram username: ministerpraesidentin.rlp
-coordinate location: Point(7.449722 49.913056)
-capital: "[[_Standards/WikiData/WD~Mainz]]"
-located in time zone:
-  - "[[_Standards/WikiData/WD~UTC+01:00]]"
-  - "[[_Standards/WikiData/WD~UTC+02:00]]"
-language used:
-  - "[[_Standards/WikiData/WD~Luxembourgish]]"
-  - "[[_Standards/WikiData/WD~Palatinate German]]"
-located in the administrative territorial entity: "[[_Standards/WikiData/WD~Germany]]"
-country: "[[_Standards/WikiData/WD~Germany]]"
-elevation above sea level: 89
-German regional key: "07"
-NUTS code: DEB
+- DE.RP
+FIPS_10-4_countries_and_regions_: GM08
+Commons_gallery: Rheinland-Pfalz
+X_username: rlpNews
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Rheinland-Pfalz2.ogg"
+Facebook_username: landesregierungrheinlandpfalz
+Instagram_username: ministerpraesidentin.rlp
+coordinate_location: "Point(7.449722 49.913056)"
+capital: '[[_Standards/WikiData/WD~Mainz]]'
+located_in_time_zone:
+- "[[_Standards/WikiData/WD~UTC+01:00]]"
+- "[[_Standards/WikiData/WD~UTC+02:00]]"
+language_used:
+- '[[_Standards/WikiData/WD~Luxembourgish]]'
+- "[[_Standards/WikiData/WD~Palatinate German]]"
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Germany]]'
+country: '[[_Standards/WikiData/WD~Germany]]'
+elevation_above_sea_level: 89
+German_regional_key: 07
+NUTS_code: DEB
 area: 19853.36
 population: 4084844
-OmegaWiki Defined Meaning: "642911"
-inception: 1946-08-30  
-has_time_started: 1946-08-30  
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Rhineland-Palatinate.svg
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rhineland-Palatinate.svg
-Commons category: Rhineland-Palatinate
-native label:
-  - Rheinland-Pfalz
-official name: Rheinland-Pfalz
-Dewey Decimal Classification: 2--4343
+OmegaWiki_Defined_Meaning: 642911
+inception: 1946-08-30
+has_time_started: 1946-08-30
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Rhineland-Palatinate.svg"
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rhineland-Palatinate.svg"
+Commons_category: Rhineland-Palatinate
+native_label:
+- Rheinland-Pfalz
+official_name: Rheinland-Pfalz
+Dewey_Decimal_Classification: 2--4343
 cssclasses:
-  - state
+- state
 publish: true
 linkTitle: 
 keywords: 
@@ -135,8 +135,8 @@ layout:
 publishDate: 
 expiryDate: 
 aliases:
-  - Rhineland-Palatinate
-  - Rheinland-Pfalz
+- Rhineland-Palatinate
+- Rheinland-Pfalz
 ---
 
 # Rhineland-Palatinate

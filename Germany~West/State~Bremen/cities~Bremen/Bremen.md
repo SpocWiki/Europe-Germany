@@ -1,89 +1,89 @@
 ﻿---
 has_id_wikidata: Q1209
-location: [53.08,8.81] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+- 53.08
+- 8.81
+mapzoom:
+- 7
+- 12
+mapmarker: city
 type: City
 tags:
 - geo/City
-
-
 SpocWebEntityId: 29332
 isDeleted: false
 confidential: public
-
-NUTS code:
-  - DE5
-  - DE50
-Commons category: Bremen (state)
-coordinate location: Point(8.733333333 53.133333333)
-inception: 1646-01-01  
-has_time_started: 1646-01-01  
-instance of:
-  - "[[_Standards/WikiData/WD~city-state]]"
-  - "[[_Standards/WikiData/WD~federated state of Germany]]"
-located in/on physical feature: "[[_Standards/WikiData/WD~Bremen/Oldenburg Metropolitan Region]]"
-legislative body: "[[_Standards/WikiData/WD~Bürgerschaft of Bremen]]"
-coat of arms: "[[_Standards/WikiData/WD~coat of arms of Bremen]]"
-head of government: "[[_Standards/WikiData/WD~Andreas Bovenschulte]]"
+NUTS_code:
+- DE5
+- DE50
+Commons_category: "Bremen (state)"
+coordinate_location: "Point(8.733333333 53.133333333)"
+inception: 1646-01-01
+has_time_started: 1646-01-01
+instance_of:
+- '[[_Standards/WikiData/WD~city-state]]'
+- "[[_Standards/WikiData/WD~federated state of Germany]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Bremen/Oldenburg Metropolitan Region]]"
+legislative_body: "[[_Standards/WikiData/WD~Bürgerschaft of Bremen]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Bremen]]"
+head_of_government: "[[_Standards/WikiData/WD~Andreas Bovenschulte]]"
 flag: "[[_Standards/WikiData/WD~flag of Bremen]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890)]]"
-different from:
-  - "[[_Standards/WikiData/WD~Brema]]"
-  - "[[_Standards/WikiData/WD~Bremen]]"
-archives at: "[[_Standards/WikiData/WD~State Archives of Bremen]]"
-highest point: "[[_Standards/WikiData/WD~Friedehorst Park]]"
-highest judicial authority: "[[_Standards/WikiData/WD~Constitutional Court of the Free Hanseatic City of Bremen]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal:Bremen]]"
-office held by head of government: "[[_Standards/WikiData/WD~mayor of Bremen]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of the Free Hanseatic City of Bremen]]"
-U.S. National Archives Identifier: "10044975"
-geoshape: http://commons.wikimedia.org/data/main/Data:Bremen.map
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Bremen%20aerial%20view%209.JPG
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Bremen%20greater%20coat%20of%20arms.svg
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Bremen%20in%20Germany.svg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Vegesack%20banner%20Waterfront.jpg
-ISO 3166-2 code: DE-HB
+described_by_source:
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition]]"
+- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890)]]"
+different_from:
+- '[[_Standards/WikiData/WD~Brema]]'
+- '[[_Standards/WikiData/WD~Bremen]]'
+archives_at: "[[_Standards/WikiData/WD~State Archives of Bremen]]"
+highest_point: "[[_Standards/WikiData/WD~Friedehorst Park]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Constitutional Court of the Free Hanseatic City of Bremen]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal:Bremen]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~mayor of Bremen]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy of the Free Hanseatic City of Bremen]]"
+U_S_National_Archives_Identifier: 10044975
+geoshape: "http://commons.wikimedia.org/data/main/Data:Bremen.map"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Bremen%20aerial%20view%209.JPG"
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Bremen%20greater%20coat%20of%20arms.svg"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Bremen%20in%20Germany.svg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Vegesack%20banner%20Waterfront.jpg"
+ISO_3166-2_code: DE-HB
 HASC: DE.HB
-FIPS 10-4 (countries and regions): GM03
-native label: Freie Hansestadt Bremen
-official name: Freie Hansestadt Bremen
-Instagram username: bremermoment
-TikTok username: visitbremen
-Pinterest username: bremen_de
-X username: bremen_de
-impressum URL: https://www.bremen.de/impressum-und-kontakt
+FIPS_10-4_countries_and_regions_: GM03
+native_label: "Freie Hansestadt Bremen"
+official_name: "Freie Hansestadt Bremen"
+Instagram_username: bremermoment
+TikTok_username: visitbremen
+Pinterest_username: bremen_de
+X_username: bremen_de
+impressum_URL: "https://www.bremen.de/impressum-und-kontakt"
 ISNI:
-  - "0000000115440576"
-  - "0000000417994056"
-PM20 geo code: A10(1)
-shares border with: "[[_Standards/WikiData/WD~Lower Saxony]]"
-enclave within: "[[_Standards/WikiData/WD~Lower Saxony]]"
-located in or next to body of water:
-  - "[[_Standards/WikiData/WD~Weser]]"
-  - "[[_Standards/WikiData/WD~North Sea]]"
-contains the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Bremerhaven]]"
-  - "[[_Standards/WikiData/WD~Bremen]]"
-located in time zone:
-  - "[[_Standards/WikiData/WD~UTC+01:00]]"
-  - "[[_Standards/WikiData/WD~UTC+02:00]]"
-capital: "[[_Standards/WikiData/WD~Bremen]]"
-located in the administrative territorial entity: "[[_Standards/WikiData/WD~Germany]]"
-country: "[[_Standards/WikiData/WD~Germany]]"
-unemployment rate: 11.1
+- 0000000115440576
+- 0000000417994056
+PM20_geo_code: A10(1)
+shares_border_with: "[[_Standards/WikiData/WD~Lower Saxony]]"
+enclave_within: "[[_Standards/WikiData/WD~Lower Saxony]]"
+located_in_or_next_to_body_of_water:
+- '[[_Standards/WikiData/WD~Weser]]'
+- "[[_Standards/WikiData/WD~North Sea]]"
+contains_the_administrative_territorial_entity:
+- '[[_Standards/WikiData/WD~Bremerhaven]]'
+- '[[_Standards/WikiData/WD~Bremen]]'
+located_in_time_zone:
+- "[[_Standards/WikiData/WD~UTC+01:00]]"
+- "[[_Standards/WikiData/WD~UTC+02:00]]"
+capital: '[[_Standards/WikiData/WD~Bremen]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Germany]]'
+country: '[[_Standards/WikiData/WD~Germany]]'
+unemployment_rate: 11.1
 population: 661000
 area: 419.38
-German regional key: "04"
-licence plate code: HB
-Dewey Decimal Classification: 2--4352
-Facebook username: Bremen
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/Bremen.ogg
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bremen.svg
-official website: https://www.bremen.de/
-
+German_regional_key: 04
+licence_plate_code: HB
+Dewey_Decimal_Classification: 2--4352
+Facebook_username: Bremen
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Bremen.ogg"
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bremen.svg"
+official_website: "https://www.bremen.de/"
 ---
 
 # [[Bremen]]

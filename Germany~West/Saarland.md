@@ -1,109 +1,110 @@
 ﻿---
 has_id_wikidata: Q1201
 location:
-  - 49.355
-  - 6.935
+- 49.355
+- 6.935
 type: State
 ISO3166-2: DE-SL
 SpocWebEntityId: 36022
 isDeleted: false
 Confidential: public
 tags:
-  - geo/State
+- geo/State
 icon: Flag_of_Saarland
-Commons gallery: Saarland
-Commons category: Saarland
-Instagram username: saarland_de
-X username: saarland_de
-Facebook username: saarland.de
-motto text:
-  - Großes entsteht immer im Kleinen.
-  - Little things make a big difference.
-  - Les petits ruisseaux font les grandes rivières
-native label:
-  - Saarland
-official name: Saarland
+Commons_gallery: Saarland
+Commons_category: Saarland
+Instagram_username: saarland_de
+X_username: saarland_de
+Facebook_username: saarland.de
+motto_text:
+- "Großes entsteht immer im Kleinen."
+- "Little things make a big difference."
+- "Les petits ruisseaux font les grandes rivières"
+native_label:
+- Saarland
+official_name: Saarland
 population: 986887
-inception: 1947-12-17  
-has_time_started: 1947-12-17  
-coordinate location: Point(6.878377777 49.37715)
-twinned administrative body:
-  - "[[_Standards/WikiData/WD~Lviv Oblast]]"
-  - "[[_Standards/WikiData/WD~Subcarpathian Voivodeship]]"
-different from:
-  - "[[_Standards/WikiData/WD~Saare County]]"
-legislative body:
-  - "[[_Standards/WikiData/WD~Landtag of Saarland]]"
+inception: 1947-12-17
+has_time_started: 1947-12-17
+coordinate_location: "Point(6.878377777 49.37715)"
+twinned_administrative_body:
+- "[[_Standards/WikiData/WD~Lviv Oblast]]"
+- "[[_Standards/WikiData/WD~Subcarpathian Voivodeship]]"
+different_from:
+- "[[_Standards/WikiData/WD~Saare County]]"
+legislative_body:
+- "[[_Standards/WikiData/WD~Landtag of Saarland]]"
 replaces:
-  - "[[_Standards/WikiData/WD~Saar Protectorate]]"
-coat of arms: "[[_Standards/WikiData/WD~coat of arms of Saarland]]"
-head of government: "[[_Standards/WikiData/WD~Anke Rehlinger]]"
+- "[[_Standards/WikiData/WD~Saar Protectorate]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Saarland]]"
+head_of_government: "[[_Standards/WikiData/WD~Anke Rehlinger]]"
 flag: "[[_Standards/WikiData/WD~flag of Saarland]]"
-instance of:
-  - "[[_Standards/WikiData/WD~federated state of Germany]]"
-highest point: "[[_Standards/WikiData/WD~Dollberg]]"
-history of topic: "[[_Standards/WikiData/WD~Q1254598]]"
-archives at: "[[_Standards/WikiData/WD~Landesarchiv Saarbrücken]]"
-foundational text: "[[_Standards/WikiData/WD~Constitution of the Saarland]]"
-highest judicial authority: "[[_Standards/WikiData/WD~Constitutional Court of the Saarland]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal:Saarland]]"
-legal form: "[[_Standards/WikiData/WD~Körperschaft des öffentlichen Rechts]]"
-shares border with:
-  - "[[_Standards/WikiData/WD~Lorraine]]"
-  - "[[_Standards/WikiData/WD~Rhineland-Palatinate]]"
-  - "[[_Standards/WikiData/WD~Moselle]]"
-  - "[[_Standards/WikiData/WD~Luxembourg]]"
-permanent duplicated item:
-  - "[[_Standards/WikiData/WD~Q25930037]]"
-  - "[[_Standards/WikiData/WD~Q107350031]]"
-  - "[[_Standards/WikiData/WD~Q107352303]]"
-  - "[[_Standards/WikiData/WD~Q107352301]]"
-office held by head of government: "[[_Standards/WikiData/WD~Minister-President of the Saarland]]"
-category of people buried here: "[[_Standards/WikiData/WD~Q32390303]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of Saarland]]"
-member of:
-  - "[[_Standards/WikiData/WD~Q104787738]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 10]]"
-BHCL UUID:
-  - cf5ff5e2-fd70-4400-bdea-851386b423b0
+instance_of:
+- "[[_Standards/WikiData/WD~federated state of Germany]]"
+highest_point: '[[_Standards/WikiData/WD~Dollberg]]'
+history_of_topic: '[[_Standards/WikiData/WD~Q1254598]]'
+archives_at: "[[_Standards/WikiData/WD~Landesarchiv Saarbrücken]]"
+foundational_text: "[[_Standards/WikiData/WD~Constitution of the Saarland]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Constitutional Court of the Saarland]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal:Saarland]]"
+legal_form: "[[_Standards/WikiData/WD~Körperschaft des öffentlichen Rechts]]"
+shares_border_with:
+- '[[_Standards/WikiData/WD~Lorraine]]'
+- '[[_Standards/WikiData/WD~Rhineland-Palatinate]]'
+- '[[_Standards/WikiData/WD~Moselle]]'
+- '[[_Standards/WikiData/WD~Luxembourg]]'
+permanent_duplicated_item:
+- '[[_Standards/WikiData/WD~Q25930037]]'
+- '[[_Standards/WikiData/WD~Q107350031]]'
+- '[[_Standards/WikiData/WD~Q107352303]]'
+- '[[_Standards/WikiData/WD~Q107352301]]'
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Minister-President of the Saarland]]"
+category_of_people_buried_here: '[[_Standards/WikiData/WD~Q32390303]]'
+economy_of_topic: "[[_Standards/WikiData/WD~economy of Saarland]]"
+member_of:
+- '[[_Standards/WikiData/WD~Q104787738]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 10]]"
+BHCL_UUID:
+- cf5ff5e2-fd70-4400-bdea-851386b423b0
 ISNI: 000000040630614X
-capital: "[[_Standards/WikiData/WD~Saarbrücken]]"
-located in time zone:
-  - "[[_Standards/WikiData/WD~UTC+01:00]]"
-  - "[[_Standards/WikiData/WD~UTC+02:00]]"
-contains the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~St. Wendel]]"
-  - "[[_Standards/WikiData/WD~Saarlouis]]"
-  - "[[_Standards/WikiData/WD~Saarpfalz-Kreis]]"
-  - "[[_Standards/WikiData/WD~Neunkirchen]]"
-  - "[[_Standards/WikiData/WD~Merzig-Wadern]]"
-  - "[[_Standards/WikiData/WD~Regionalverband Saarbrücken]]"
-located in the administrative territorial entity: "[[_Standards/WikiData/WD~Germany]]"
-country: "[[_Standards/WikiData/WD~Germany]]"
+capital: '[[_Standards/WikiData/WD~Saarbrücken]]'
+located_in_time_zone:
+- "[[_Standards/WikiData/WD~UTC+01:00]]"
+- "[[_Standards/WikiData/WD~UTC+02:00]]"
+contains_the_administrative_territorial_entity:
+- "[[_Standards/WikiData/WD~St. Wendel]]"
+- '[[_Standards/WikiData/WD~Saarlouis]]'
+- '[[_Standards/WikiData/WD~Saarpfalz-Kreis]]'
+- '[[_Standards/WikiData/WD~Neunkirchen]]'
+- '[[_Standards/WikiData/WD~Merzig-Wadern]]'
+- "[[_Standards/WikiData/WD~Regionalverband Saarbrücken]]"
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Germany]]'
+country: '[[_Standards/WikiData/WD~Germany]]'
 area: 2570
-German regional key: "10"
-social media followers: 16380
-geoshape: http://commons.wikimedia.org/data/main/Data:Saarland.map
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saarland.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Landtag%20des%20Saarlandes.jpg
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Saarland%20in%20Germany.svg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Saarland%20Banner.jpg
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Wappen%20des%20Saarlands.svg
-official website: https://www.saarland.de/
-U.S. National Archives Identifier: "10044798"
-Dewey Decimal Classification: 2--4342
+German_regional_key: 10
+social_media_followers: 16380
+geoshape: "http://commons.wikimedia.org/data/main/Data:Saarland.map"
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saarland.svg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Landtag%20des%20Saarlandes.jpg"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Saarland%20in%20Germany.svg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Saarland%20Banner.jpg"
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Wappen%20des%20Saarlands.svg"
+official_website: "https://www.saarland.de/"
+U_S_National_Archives_Identifier: 10044798
+Dewey_Decimal_Classification: 2--4342
 Libris-URI: 53hkkrgp10xf8kp
-OmegaWiki Defined Meaning: "642931"
-ISO 3166-2 code: DE-SL
+OmegaWiki_Defined_Meaning: 642931
+ISO_3166-2_code: DE-SL
 HASC:
-  - DE.SL
-NUTS code:
-  - DEC
-  - DEC0
-FIPS 10-4 (countries and regions): GM09
-aliases:
+- DE.SL
+NUTS_code:
+- DEC
+- DEC0
+FIPS_10-4_countries_and_regions_: GM09
+aliases: 
 ---
+
 [name::Saarland] 
 
 [name-abbr::SL] 

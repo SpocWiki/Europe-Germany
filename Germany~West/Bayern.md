@@ -1,215 +1,215 @@
 ﻿---
 has_id_wikidata: Q980
 location:
-  - 48.8642
-  - 11.3382
+- 48.8642
+- 11.3382
 type: State
 ISO3166-2: DE-BY
 SpocWebEntityId: 36016
-license: CC BY-SA 4.0
-source: https://datahub.io/core/country-codes
+license: "CC BY-SA 4.0"
+source: "https://datahub.io/core/country-codes"
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
 tags:
-  - geo/State
+- geo/State
 icon: Flag_of_Bavaria_(lozengy)
-language used:
-  - "[[_Standards/WikiData/WD~East Franconian German]]"
-  - "[[_Standards/WikiData/WD~Swabian]]"
-  - "[[_Standards/WikiData/WD~Main-Franconian]]"
-  - "[[_Standards/WikiData/WD~Bavarian]]"
-  - "[[_Standards/WikiData/WD~German]]"
-twinned administrative body:
-  - "[[_Standards/WikiData/WD~Western Cape]]"
-  - "[[_Standards/WikiData/WD~Gauteng]]"
-  - "[[_Standards/WikiData/WD~Karnataka]]"
-  - "[[_Standards/WikiData/WD~Georgia]]"
-  - "[[_Standards/WikiData/WD~Guangdong]]"
-  - "[[_Standards/WikiData/WD~São Paulo]]"
-  - "[[_Standards/WikiData/WD~Quebec]]"
-  - "[[_Standards/WikiData/WD~Shandong]]"
-public holiday:
-  - "[[_Standards/WikiData/WD~Epiphany]]"
-  - "[[_Standards/WikiData/WD~Feast of Corpus Christi]]"
-  - "[[_Standards/WikiData/WD~Reformation Day]]"
-  - "[[_Standards/WikiData/WD~Assumption of Mary]]"
-  - "[[_Standards/WikiData/WD~Easter Monday]]"
-  - "[[_Standards/WikiData/WD~Whit Monday]]"
-  - "[[_Standards/WikiData/WD~Second Day of Christmas]]"
-  - "[[_Standards/WikiData/WD~All Saints' Day]]"
-  - "[[_Standards/WikiData/WD~Christmas]]"
-  - "[[_Standards/WikiData/WD~New Year]]"
-  - "[[_Standards/WikiData/WD~Good Friday]]"
-  - "[[_Standards/WikiData/WD~International Workers' Day]]"
-  - "[[_Standards/WikiData/WD~Feast of the Ascension]]"
+language_used:
+- "[[_Standards/WikiData/WD~East Franconian German]]"
+- '[[_Standards/WikiData/WD~Swabian]]'
+- '[[_Standards/WikiData/WD~Main-Franconian]]'
+- '[[_Standards/WikiData/WD~Bavarian]]'
+- '[[_Standards/WikiData/WD~German]]'
+twinned_administrative_body:
+- "[[_Standards/WikiData/WD~Western Cape]]"
+- '[[_Standards/WikiData/WD~Gauteng]]'
+- '[[_Standards/WikiData/WD~Karnataka]]'
+- '[[_Standards/WikiData/WD~Georgia]]'
+- '[[_Standards/WikiData/WD~Guangdong]]'
+- "[[_Standards/WikiData/WD~São Paulo]]"
+- '[[_Standards/WikiData/WD~Quebec]]'
+- '[[_Standards/WikiData/WD~Shandong]]'
+public_holiday:
+- '[[_Standards/WikiData/WD~Epiphany]]'
+- "[[_Standards/WikiData/WD~Feast of Corpus Christi]]"
+- "[[_Standards/WikiData/WD~Reformation Day]]"
+- "[[_Standards/WikiData/WD~Assumption of Mary]]"
+- "[[_Standards/WikiData/WD~Easter Monday]]"
+- "[[_Standards/WikiData/WD~Whit Monday]]"
+- "[[_Standards/WikiData/WD~Second Day of Christmas]]"
+- "[[_Standards/WikiData/WD~All Saints' Day]]"
+- '[[_Standards/WikiData/WD~Christmas]]'
+- "[[_Standards/WikiData/WD~New Year]]"
+- "[[_Standards/WikiData/WD~Good Friday]]"
+- "[[_Standards/WikiData/WD~International Workers' Day]]"
+- "[[_Standards/WikiData/WD~Feast of the Ascension]]"
 follows: "[[_Standards/WikiData/WD~Kingdom of Bavaria]]"
-named after: "[[_Standards/WikiData/WD~Bajuwari]]"
-lowest point: "[[_Standards/WikiData/WD~Kahl am Main]]"
-shares border with:
-  - "[[_Standards/WikiData/WD~South Bohemian Region]]"
-  - "[[_Standards/WikiData/WD~Karlovy Vary Region]]"
-  - "[[_Standards/WikiData/WD~Baden-Württemberg]]"
-  - "[[_Standards/WikiData/WD~Hesse]]"
-  - "[[_Standards/WikiData/WD~Saxony]]"
-  - "[[_Standards/WikiData/WD~Thuringia]]"
-  - "[[_Standards/WikiData/WD~canton St. Gallen]]"
-  - "[[_Standards/WikiData/WD~Vorarlberg]]"
-  - "[[_Standards/WikiData/WD~Upper Austria]]"
-  - "[[_Standards/WikiData/WD~Tyrol]]"
-  - "[[_Standards/WikiData/WD~Salzburg]]"
-  - "[[_Standards/WikiData/WD~Plzeň Region]]"
-anthem: "[[_Standards/WikiData/WD~Bayernhymne]]"
-history of topic: "[[_Standards/WikiData/WD~history of Bavaria]]"
-official language:
-  - "[[_Standards/WikiData/WD~Standard High German]]"
-  - "[[_Standards/WikiData/WD~Bavarian]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia]]"
-  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary]]"
-  - "[[_Standards/WikiData/WD~Orthodox Theological Encyclopedia]]"
-  - "[[_Standards/WikiData/WD~Vlastenský slovník historický]]"
-legislative body:
-  - "[[_Standards/WikiData/WD~Landtag of Bavaria]]"
-coat of arms: "[[_Standards/WikiData/WD~coat of arms of Bavaria]]"
+named_after: '[[_Standards/WikiData/WD~Bajuwari]]'
+lowest_point: "[[_Standards/WikiData/WD~Kahl am Main]]"
+shares_border_with:
+- "[[_Standards/WikiData/WD~South Bohemian Region]]"
+- "[[_Standards/WikiData/WD~Karlovy Vary Region]]"
+- '[[_Standards/WikiData/WD~Baden-Württemberg]]'
+- '[[_Standards/WikiData/WD~Hesse]]'
+- '[[_Standards/WikiData/WD~Saxony]]'
+- '[[_Standards/WikiData/WD~Thuringia]]'
+- "[[_Standards/WikiData/WD~canton St. Gallen]]"
+- '[[_Standards/WikiData/WD~Vorarlberg]]'
+- "[[_Standards/WikiData/WD~Upper Austria]]"
+- '[[_Standards/WikiData/WD~Tyrol]]'
+- '[[_Standards/WikiData/WD~Salzburg]]'
+- "[[_Standards/WikiData/WD~Plzeň Region]]"
+anthem: '[[_Standards/WikiData/WD~Bayernhymne]]'
+history_of_topic: "[[_Standards/WikiData/WD~history of Bavaria]]"
+official_language:
+- "[[_Standards/WikiData/WD~Standard High German]]"
+- '[[_Standards/WikiData/WD~Bavarian]]'
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia]]"
+- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron]]"
+- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary]]"
+- "[[_Standards/WikiData/WD~Orthodox Theological Encyclopedia]]"
+- "[[_Standards/WikiData/WD~Vlastenský slovník historický]]"
+legislative_body:
+- "[[_Standards/WikiData/WD~Landtag of Bavaria]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Bavaria]]"
 flag: "[[_Standards/WikiData/WD~flag of Bavaria]]"
-executive body:
-  - "[[_Standards/WikiData/WD~Government of Bavaria]]"
-highest judicial authority: "[[_Standards/WikiData/WD~Bavarian Constitutional Court]]"
-archives at: "[[_Standards/WikiData/WD~Bavarian Hauptstaatsarchiv]]"
-instance of:
-  - "[[_Standards/WikiData/WD~federated state of Germany]]"
-basic form of government:
-  - "[[_Standards/WikiData/WD~parliamentary republic]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal:Bavaria]]"
-office held by head of government: "[[_Standards/WikiData/WD~Minister-President of Bavaria]]"
-coordinates of southernmost point: Point(10.17833 47.2701)
-top-level Internet domain: "[[_Standards/db/.bayern]]"
-"Image Archive, Herder Institute": Q980
-open data portal:
-  - "[[_Standards/WikiData/WD~open bydata]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of Bavaria]]"
-different from:
-  - "[[_Standards/WikiData/WD~Q108285653]]"
-award received: "[[_Standards/WikiData/WD~BigBrotherAwards]]"
-U.S. National Archives Identifier: "10044973"
-geoshape: http://commons.wikimedia.org/data/main/Data:Bayern.map
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Bavaria%20banner%20Neuschwanstein%20Castle.jpg
-location map: http://commons.wikimedia.org/wiki/Special:FilePath/Bavaria%20location%20map.svg
-relief location map: http://commons.wikimedia.org/wiki/Special:FilePath/Bavaria%20relief%20location%20map.jpg
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Bayern.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Rm-sursilv-Baviera.flac
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hu-Bajororsz%C3%A1g.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28BiblioCanet66%29-Bavi%C3%A8re.wav
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Bavaria%20in%20Germany.svg
-detail map:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Topografische%20Karte%20Bayern.tif
-official website: https://www.bayern.de/
-IPA transcription: ˈbaɪ̯ɐn
-Swedish Anbytarforum: "6076.0"
-Provenio UUID: 87968234-ee61-4d94-abe4-9e70ff9da6ae
-BHCL UUID:
-  - b8111df2-3516-4d30-8087-1895837e1b9a
-  - 53e90ed0-ce88-499f-8668-7823f6299b54
-ISO 3166-2 code: DE-BY
+executive_body:
+- "[[_Standards/WikiData/WD~Government of Bavaria]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Bavarian Constitutional Court]]"
+archives_at: "[[_Standards/WikiData/WD~Bavarian Hauptstaatsarchiv]]"
+instance_of:
+- "[[_Standards/WikiData/WD~federated state of Germany]]"
+basic_form_of_government:
+- "[[_Standards/WikiData/WD~parliamentary republic]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal:Bavaria]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Minister-President of Bavaria]]"
+coordinates_of_southernmost_point: "Point(10.17833 47.2701)"
+top-level_Internet_domain: '[[_Standards/db/.bayern]]'
+Image_Archive_Herder_Institute: Q980
+open_data_portal:
+- "[[_Standards/WikiData/WD~open bydata]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy of Bavaria]]"
+different_from:
+- '[[_Standards/WikiData/WD~Q108285653]]'
+award_received: '[[_Standards/WikiData/WD~BigBrotherAwards]]'
+U_S_National_Archives_Identifier: 10044973
+geoshape: "http://commons.wikimedia.org/data/main/Data:Bayern.map"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Bavaria%20banner%20Neuschwanstein%20Castle.jpg"
+location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Bavaria%20location%20map.svg"
+relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Bavaria%20relief%20location%20map.jpg"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/De-Bayern.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Rm-sursilv-Baviera.flac"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Hu-Bajororsz%C3%A1g.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28BiblioCanet66%29-Bavi%C3%A8re.wav"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Bavaria%20in%20Germany.svg"
+detail_map:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Topografische%20Karte%20Bayern.tif"
+official_website: "https://www.bayern.de/"
+IPA_transcription: ˈbaɪ̯ɐn
+Swedish_Anbytarforum: 6076.0
+Provenio_UUID: 87968234-ee61-4d94-abe4-9e70ff9da6ae
+BHCL_UUID:
+- b8111df2-3516-4d30-8087-1895837e1b9a
+- 53e90ed0-ce88-499f-8668-7823f6299b54
+ISO_3166-2_code: DE-BY
 HASC:
-  - DE.BY
-NUTS code: DE2
-FIPS 10-4 (countries and regions): GM02
-short name:
-  - Boarn
-  - Beieren
-  - Beieren
-  - Bayern
-  - Baviera
-  - Bavaria
-  - Bavière
-official name:
-  - Freistoot Boarn
-  - Free State of Bavaria
-  - Stato Libero di Baviera
-  - Freistaat Bayern
-  - État libre de Bavière
+- DE.BY
+NUTS_code: DE2
+FIPS_10-4_countries_and_regions_: GM02
+short_name:
+- Boarn
+- Beieren
+- Beieren
+- Bayern
+- Baviera
+- Bavaria
+- Bavière
+official_name:
+- "Freistoot Boarn"
+- "Free State of Bavaria"
+- "Stato Libero di Baviera"
+- "Freistaat Bayern"
+- "État libre de Bavière"
 demonym:
-  - Bayerin
-  - Bayerinnen
-  - баварец
-  - баварка
-  - bavarese
-  - Bayern
-  - баварцы
-  - Bayer
-  - bajor
-coordinates of easternmost point: Point(13.83741 48.70057)
-Instagram username: bayern.de
-Threads username: bayern.de
-image: http://commons.wikimedia.org/wiki/Special:FilePath/ISS058-E-13128%20-%20View%20of%20Germany.jpg
-ISNI: "0000000123218078"
-privacy policy URL: https://www.bayern.de/datenschutz/
-impressum URL: https://www.bayern.de/impressum/
-terms of service URL: https://www.bayern.de/impressum/
-contact page URL: https://www.bayern.de/buergerservice/kontakt/
-email address: mailto:direkt@bayern.de
-phone number: +49-89-21650
-web feed URL:
-  - https://www.bayern.de/rss/pm.php
-  - https://www.bayern.de/rss/newsletter.php
-  - https://www.bayern.de/rss/pm_alle.php
-coordinates of westernmost point: Point(8.97627 50.05033)
-patron saint: "[[_Standards/WikiData/WD~Virgin Mary]]"
-capital: "[[_Standards/WikiData/WD~Munich]]"
-highest point: "[[_Standards/WikiData/WD~Zugspitze]]"
-contains the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Lower Franconia]]"
-  - "[[_Standards/WikiData/WD~Middle Franconia]]"
-  - "[[_Standards/WikiData/WD~Upper Franconia]]"
-  - "[[_Standards/WikiData/WD~Upper Palatinate]]"
-  - "[[_Standards/WikiData/WD~Lower Bavaria]]"
-  - "[[_Standards/WikiData/WD~Swabia]]"
-  - "[[_Standards/WikiData/WD~Upper Bavaria]]"
-located in time zone:
-  - "[[_Standards/WikiData/WD~Central European Time]]"
-continent: "[[_Standards/WikiData/WD~Europe]]"
-located in the administrative territorial entity: "[[_Standards/WikiData/WD~Germany]]"
-country: "[[_Standards/WikiData/WD~Germany]]"
-water as percent of area: 2
-unemployment rate: 3
-compulsory education (minimum age): 6
-compulsory education (maximum age): 18
-social media followers: 24100
-part of: "[[_Standards/WikiData/WD~Southern Germany]]"
-elevation above sea level: 503
-head of government: "[[_Standards/WikiData/WD~Markus Söder]]"
-German regional key: "09"
-OmegaWiki Defined Meaning: "7138"
+- Bayerin
+- Bayerinnen
+- баварец
+- баварка
+- bavarese
+- Bayern
+- баварцы
+- Bayer
+- bajor
+coordinates_of_easternmost_point: "Point(13.83741 48.70057)"
+Instagram_username: bayern.de
+Threads_username: bayern.de
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/ISS058-E-13128%20-%20View%20of%20Germany.jpg"
+ISNI: 0000000123218078
+privacy_policy_URL: "https://www.bayern.de/datenschutz/"
+impressum_URL: "https://www.bayern.de/impressum/"
+terms_of_service_URL: "https://www.bayern.de/impressum/"
+contact_page_URL: "https://www.bayern.de/buergerservice/kontakt/"
+email_address: "mailto:direkt@bayern.de"
+phone_number: +49-89-21650
+web_feed_URL:
+- "https://www.bayern.de/rss/pm.php"
+- "https://www.bayern.de/rss/newsletter.php"
+- "https://www.bayern.de/rss/pm_alle.php"
+coordinates_of_westernmost_point: "Point(8.97627 50.05033)"
+patron_saint: "[[_Standards/WikiData/WD~Virgin Mary]]"
+capital: '[[_Standards/WikiData/WD~Munich]]'
+highest_point: '[[_Standards/WikiData/WD~Zugspitze]]'
+contains_the_administrative_territorial_entity:
+- "[[_Standards/WikiData/WD~Lower Franconia]]"
+- "[[_Standards/WikiData/WD~Middle Franconia]]"
+- "[[_Standards/WikiData/WD~Upper Franconia]]"
+- "[[_Standards/WikiData/WD~Upper Palatinate]]"
+- "[[_Standards/WikiData/WD~Lower Bavaria]]"
+- '[[_Standards/WikiData/WD~Swabia]]'
+- "[[_Standards/WikiData/WD~Upper Bavaria]]"
+located_in_time_zone:
+- "[[_Standards/WikiData/WD~Central European Time]]"
+continent: '[[_Standards/WikiData/WD~Europe]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Germany]]'
+country: '[[_Standards/WikiData/WD~Germany]]'
+water_as_percent_of_area: 2
+unemployment_rate: 3
+compulsory_education_minimum_age_: 6
+compulsory_education_maximum_age_: 18
+social_media_followers: 24100
+part_of: "[[_Standards/WikiData/WD~Southern Germany]]"
+elevation_above_sea_level: 503
+head_of_government: "[[_Standards/WikiData/WD~Markus Söder]]"
+German_regional_key: 09
+OmegaWiki_Defined_Meaning: 7138
 area: 70551
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Bavaria.svg
-Dewey Decimal Classification: 2--433
-Facebook username: bayern
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Bavaria.svg"
+Dewey_Decimal_Classification: 2--433
+Facebook_username: bayern
 population: 13124737
-small logo or icon: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bavaria%20%28lozengy%29.svg
-flag image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bavaria%20%28lozengy%29.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bavaria%20%28striped%29.svg
+small_logo_or_icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bavaria%20%28lozengy%29.svg"
+flag_image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bavaria%20%28lozengy%29.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bavaria%20%28striped%29.svg"
 budget: 71424666800
-native label:
-  - Freistaat Bayern
-inception: 1919-01-12  
-has_time_started: 1919-01-12  
-coordinate location: Point(11.385555555 49.078611111)
-coordinates of northernmost point: Point(10.19564 50.55515)
-Commons category: Bavaria
-Commons gallery: Bayern
-YouTube handle: Bayern
+native_label:
+- "Freistaat Bayern"
+inception: 1919-01-12
+has_time_started: 1919-01-12
+coordinate_location: "Point(11.385555555 49.078611111)"
+coordinates_of_northernmost_point: "Point(10.19564 50.55515)"
+Commons_category: Bavaria
+Commons_gallery: Bayern
+YouTube_handle: Bayern
 cssclasses:
-  - state
+- state
 publish: true
 linkTitle: 
 keywords: 
@@ -217,7 +217,7 @@ layout:
 publishDate: 
 expiryDate: 
 aliases:
-  - Bavaria
+- Bavaria
 ---
 
 # [[Bayern]] 
