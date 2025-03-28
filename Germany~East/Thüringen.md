@@ -4,7 +4,7 @@ location:
 - 50.8463
 - 11.0683
 type: State
-ISO3166-2: DE-TH
+ISO3166_2: DE-TH
 SpocWebEntityId: 36026
 isDeleted: false
 Confidential: public
@@ -126,13 +126,13 @@ page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Thuringia%20Wik
 official_website: "https://thueringen.de/"
 Dewey_Decimal_Classification: 2--4322
 Provenio_UUID: c5ace3b5-6ab1-4053-affe-c667cc6da64c
-ISO_3166-2_code: DE-TH
+ISO_3166_2_code: DE-TH
 HASC:
 - DE.TH
-FIPS_10-4_countries_and_regions_: GM15
+FIPS_10_4_countries_and_regions_: GM15
 Commons_gallery: Thüringen
 Commons_category: Thuringia
-Libris-URI: xv8b9bcg4kf5v11
+Libris_URI: xv8b9bcg4kf5v11
 native_label:
 - "Freistaat Thüringen"
 motto_text:

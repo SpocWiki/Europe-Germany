@@ -233,7 +233,7 @@ X_username: berlin_de_news
 IPA_transcription:
 - bərˈlɪn
 - bɛʁ.lɛ̃
-ISO_3166-2_code: DE-BE
+ISO_3166_2_code: DE-BE
 HASC:
 - DE.BE
 - DE.BE.BR
@@ -243,10 +243,10 @@ NUTS_code:
 - DE300
 Krugosvet_article: Earth_sciences/geografiya/BERLIN.html
 Wolfram_Language_entity_code: "Entity[\"AdministrativeDivision\", {\"Berlin\", \"Germany\"}]"
-FIPS_10-4_countries_and_regions_: GM16
+FIPS_10_4_countries_and_regions_: GM16
 Instagram_username: hauptstadtportal
 Facebook_username: Hauptstadtportal
-Libris-URI: sq4659db1dbqh2f
+Libris_URI: sq4659db1dbqh2f
 inception: 1244-01-01
 has_time_started: 1244-01-01
 time_of_earliest_written_record:

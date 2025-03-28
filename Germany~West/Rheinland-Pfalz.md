@@ -4,7 +4,7 @@ location:
 - 49.914
 - 7.57652
 type: State
-ISO3166-2: DE-RP
+ISO3166_2: DE-RP
 SpocWebEntityId: 36021
 isDeleted: false
 Confidential: public
@@ -92,10 +92,10 @@ locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Locator%2
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mainz%20Deutschhaus%20BW%202012-08-18%2013-28-02.jpg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Rhine%20valley%20banner.jpg"
 official_website: "https://www.rlp.de/"
-ISO_3166-2_code: DE-RP
+ISO_3166_2_code: DE-RP
 HASC:
 - DE.RP
-FIPS_10-4_countries_and_regions_: GM08
+FIPS_10_4_countries_and_regions_: GM08
 Commons_gallery: Rheinland-Pfalz
 X_username: rlpNews
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Rheinland-Pfalz2.ogg"

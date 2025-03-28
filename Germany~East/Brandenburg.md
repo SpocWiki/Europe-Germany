@@ -5,7 +5,7 @@ location:
 - 52.3844
 - 13.3801
 type: State
-ISO3166-2: DE-BB
+ISO3166_2: DE-BB
 SpocWebEntityId: 29314
 isDeleted: false
 Confidential: public
@@ -98,14 +98,14 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bran
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Brandenburg%20in%20Germany.svg"
 official_website: "https://www.brandenburg.de/"
 Dewey_Decimal_Classification: 2--4315
-ISO_3166-2_code: DE-BB
+ISO_3166_2_code: DE-BB
 HASC:
 - DE.BB
 - DE.BR
 BHCL_UUID:
 - f2c98f62-16bd-4579-8ff6-f46db10e11f9
 - bd155553-29e4-47f1-b80d-39cb6a0913cd
-FIPS_10-4_countries_and_regions_: GM11
+FIPS_10_4_countries_and_regions_: GM11
 Image_Archive_Herder_Institute: Q1208
 Instagram_username: unser.brandenburg
 Facebook_username: UnserBrandenburg

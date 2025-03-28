@@ -4,7 +4,7 @@ location:
 - 53.7906
 - 12.5967
 type: State
-ISO3166-2: DE-MV
+ISO3166_2: DE-MV
 SpocWebEntityId: 36018
 isDeleted: false
 Confidential: public
@@ -57,12 +57,12 @@ location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Mecklenburg-Vo
 relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Mecklenburg-Vorpommern%20relief%20location%20map.jpg"
 official_website: "https://www.mecklenburg-vorpommern.de/"
 Dewey_Decimal_Classification: 2--4317
-ISO_3166-2_code: DE-MV
+ISO_3166_2_code: DE-MV
 HASC: DE.MV
 NUTS_code:
 - DE8
 - DE80
-FIPS_10-4_countries_and_regions_: GM12
+FIPS_10_4_countries_and_regions_: GM12
 subreddit: MeckPomm
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Minister-President of Mecklenburg-Vorpommern]]"
 executive_body: "[[_Standards/WikiData/WD~Government of Mecklenburg-Western Pomerania]]"

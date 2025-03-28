@@ -7,7 +7,7 @@ location:
 - 48.5647
 - 8.97421
 type: State
-ISO3166-2: DE-BW
+ISO3166_2: DE-BW
 SpocWebEntityId: 36015
 license: "CC BY-SA 4.0"
 source: "https://datahub.io/core/country-codes"
@@ -120,11 +120,11 @@ Swedish_Anbytarforum: 6075.0
 Commons_gallery: Baden-Württemberg
 Commons_category: Baden-Württemberg
 hashtag: BadenWuerttemberg
-Libris-URI: c9prq2nw16t9f6x
-ISO_3166-2_code: DE-BW
+Libris_URI: c9prq2nw16t9f6x
+ISO_3166_2_code: DE-BW
 HASC: DE.BW
 NUTS_code: DE1
-FIPS_10-4_countries_and_regions_: GM01
+FIPS_10_4_countries_and_regions_: GM01
 Image_Archive_Herder_Institute: Q985
 Instagram_username: regierung_bw
 X_username: regierungbw

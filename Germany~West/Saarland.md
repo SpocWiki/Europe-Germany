@@ -4,7 +4,7 @@ location:
 - 49.355
 - 6.935
 type: State
-ISO3166-2: DE-SL
+ISO3166_2: DE-SL
 SpocWebEntityId: 36022
 isDeleted: false
 Confidential: public
@@ -93,15 +93,15 @@ coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Wappen%2
 official_website: "https://www.saarland.de/"
 U_S_National_Archives_Identifier: 10044798
 Dewey_Decimal_Classification: 2--4342
-Libris-URI: 53hkkrgp10xf8kp
+Libris_URI: 53hkkrgp10xf8kp
 OmegaWiki_Defined_Meaning: 642931
-ISO_3166-2_code: DE-SL
+ISO_3166_2_code: DE-SL
 HASC:
 - DE.SL
 NUTS_code:
 - DEC
 - DEC0
-FIPS_10-4_countries_and_regions_: GM09
+FIPS_10_4_countries_and_regions_: GM09
 aliases: 
 ---
 

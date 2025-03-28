@@ -1,7 +1,9 @@
 ﻿---
-location: [52.4926,13.3689] 
+location:
+- 52.4926
+- 13.3689
 type: State
-ISO3166-2: DE-BE
+ISO3166_2: DE-BE
 SpocWebEntityId: 29130
 isDeleted: false
 Confidential: public
@@ -9,6 +11,7 @@ tags:
 - geo/State
 icon: Flag_of_Berlin
 ---
+
 [name::State~Berlin] 
 [name-abbr::BL]
 

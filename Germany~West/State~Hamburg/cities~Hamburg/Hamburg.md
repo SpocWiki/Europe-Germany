@@ -221,12 +221,12 @@ official_website: "https://www.hamburg.de/stadt-staat/"
 German_municipality_key: 02000000
 German_regional_key: 020000000000
 EU_Participant_Identification_Code: 998928602
-ISO_3166-2_code: DE-HH
+ISO_3166_2_code: DE-HH
 HASC:
 - DE.HH
 - DE.HH.HM
 EU_VAT_number: DE118509725
-FIPS_10-4_countries_and_regions_: GM04
+FIPS_10_4_countries_and_regions_: GM04
 ---
 
 # [[Hamburg]] 

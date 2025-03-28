@@ -4,7 +4,7 @@ location:
 - 50.4897
 - 8.8478
 type: State
-ISO3166-2: DE-HE
+ISO3166_2: DE-HE
 SpocWebEntityId: 36017
 isDeleted: false
 Confidential: public
@@ -57,10 +57,10 @@ geoshape: "http://commons.wikimedia.org/data/main/Data:Hessen.map"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Hesse%20in%20Germany.svg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Wiesbaden%20Landtag%20Hessen%20im%20Stadtschlo%C3%9F%20Wiesbaden%20am%20Schlo%C3%9Fplatz%20-%20Foto%20Wolfgang%20Pehlemann%20Wiesbaden%20DSCN1417.jpg"
 Dewey_Decimal_Classification: 2--4341
-ISO_3166-2_code: DE-HE
+ISO_3166_2_code: DE-HE
 HASC:
 - DE.HE
-FIPS_10-4_countries_and_regions_: GM05
+FIPS_10_4_countries_and_regions_: GM05
 Commons_gallery: Hessen
 Image_Archive_Herder_Institute: Q1199
 BHCL_UUID:

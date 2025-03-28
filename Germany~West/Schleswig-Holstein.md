@@ -4,7 +4,7 @@ location:
 - 54.1593
 - 9.87324
 type: State
-ISO3166-2: DE-SH
+ISO3166_2: DE-SH
 SpocWebEntityId: 36025
 isDeleted: false
 Confidential: public
@@ -114,11 +114,11 @@ page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Flensburg%20ban
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Schleswig-Holstein%20in%20Germany.svg"
 official_website: "https://www.schleswig-holstein.de/"
 Dewey_Decimal_Classification: 2--43512
-Libris-URI: 75kml77r34w8z3m
-ISO_3166-2_code: DE-SH
+Libris_URI: 75kml77r34w8z3m
+ISO_3166_2_code: DE-SH
 HASC:
 - DE.SH
-FIPS_10-4_countries_and_regions_: GM10
+FIPS_10_4_countries_and_regions_: GM10
 Image_Archive_Herder_Institute: Q1194
 motto_text:
 - "Der echte Norden"

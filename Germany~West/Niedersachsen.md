@@ -7,7 +7,7 @@ type: State
 SpocWebEntityId: 36019
 isDeleted: false
 Confidential: public
-ISO3166-2: DE-NI
+ISO3166_2: DE-NI
 tags:
 - geo/State
 icon: Flag_of_Lower_Saxony
@@ -138,12 +138,12 @@ official_website: "https://www.niedersachsen.de/"
 BHCL_UUID:
 - 11229295-4449-4948-ba31-6a29878bb56e
 Dewey_Decimal_Classification: 2--4359
-Libris-URI: b8nqpl8v3k887x4
-ISO_3166-2_code: DE-NI
+Libris_URI: b8nqpl8v3k887x4
+ISO_3166_2_code: DE-NI
 HASC:
 - DE.NI
 NUTS_code: DE9
-FIPS_10-4_countries_and_regions_: GM06
+FIPS_10_4_countries_and_regions_: GM06
 Facebook_username: Niedersachsen
 Commons_gallery: Niedersachsen
 Image_Archive_Herder_Institute: Q1197

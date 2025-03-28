@@ -46,9 +46,9 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Bremen%20aerial%20vie
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Bremen%20greater%20coat%20of%20arms.svg"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Bremen%20in%20Germany.svg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Vegesack%20banner%20Waterfront.jpg"
-ISO_3166-2_code: DE-HB
+ISO_3166_2_code: DE-HB
 HASC: DE.HB
-FIPS_10-4_countries_and_regions_: GM03
+FIPS_10_4_countries_and_regions_: GM03
 native_label: "Freie Hansestadt Bremen"
 official_name: "Freie Hansestadt Bremen"
 Instagram_username: bremermoment

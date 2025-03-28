@@ -4,7 +4,7 @@ location:
 - 51.4279
 - 7.6153
 type: State
-ISO3166-2: DE-NW
+ISO3166_2: DE-NW
 SpocWebEntityId: 36020
 isDeleted: false
 Confidential: public
@@ -45,11 +45,11 @@ locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Locator%2
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Rapsfeld%20banner.jpg"
 official_website: "https://www.land.nrw/"
 Dewey_Decimal_Classification: 2--4355
-ISO_3166-2_code: DE-NW
+ISO_3166_2_code: DE-NW
 HASC:
 - DE.NW
-FIPS_10-4_countries_and_regions_: GM07
-Libris-URI: jgvxwsm21s1mktd
+FIPS_10_4_countries_and_regions_: GM07
+Libris_URI: jgvxwsm21s1mktd
 Commons_gallery: Nordrhein-Westfalen
 short_name: NRW
 motto_text:

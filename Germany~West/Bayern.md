@@ -4,7 +4,7 @@ location:
 - 48.8642
 - 11.3382
 type: State
-ISO3166-2: DE-BY
+ISO3166_2: DE-BY
 SpocWebEntityId: 36016
 license: "CC BY-SA 4.0"
 source: "https://datahub.io/core/country-codes"
@@ -90,7 +90,7 @@ basic_form_of_government:
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal:Bavaria]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Minister-President of Bavaria]]"
 coordinates_of_southernmost_point: "Point(10.17833 47.2701)"
-top-level_Internet_domain: '[[_Standards/db/.bayern]]'
+top_level_Internet_domain: '[[_Standards/db/.bayern]]'
 Image_Archive_Herder_Institute: Q980
 open_data_portal:
 - "[[_Standards/WikiData/WD~open bydata]]"
@@ -118,11 +118,11 @@ Provenio_UUID: 87968234-ee61-4d94-abe4-9e70ff9da6ae
 BHCL_UUID:
 - b8111df2-3516-4d30-8087-1895837e1b9a
 - 53e90ed0-ce88-499f-8668-7823f6299b54
-ISO_3166-2_code: DE-BY
+ISO_3166_2_code: DE-BY
 HASC:
 - DE.BY
 NUTS_code: DE2
-FIPS_10-4_countries_and_regions_: GM02
+FIPS_10_4_countries_and_regions_: GM02
 short_name:
 - Boarn
 - Beieren

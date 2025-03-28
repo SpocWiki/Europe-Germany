@@ -1,7 +1,9 @@
 ﻿---
-location: [53.54,9.93222] 
+location:
+- 53.54
+- 9.93222
 type: State
-ISO3166-2: DE-HH
+ISO3166_2: DE-HH
 SpocWebEntityId: 30742
 isDeleted: false
 Confidential: public

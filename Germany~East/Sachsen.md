@@ -4,7 +4,7 @@ location:
 - 50.968
 - 13.2481
 type: State
-ISO3166-2: DE-SN
+ISO3166_2: DE-SN
 SpocWebEntityId: 36023
 isDeleted: false
 Confidential: public
@@ -107,11 +107,11 @@ pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Saxony%20in%20Germany.svg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Sachsen%20Wikivoyage%20banner.png"
 official_website: "https://www.sachsen.de/"
-ISO_3166-2_code: DE-SN
+ISO_3166_2_code: DE-SN
 HASC:
 - DE.SN
 Facebook_username: Freistaat.Sachsen
-FIPS_10-4_countries_and_regions_: GM13
+FIPS_10_4_countries_and_regions_: GM13
 Image_Archive_Herder_Institute: Q1202
 Commons_gallery: Sachsen
 X_username: SachsenDe

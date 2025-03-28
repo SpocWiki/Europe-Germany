@@ -4,7 +4,7 @@ location:
 - 51.8905
 - 11.7371
 type: State
-ISO3166-2: DE-ST
+ISO3166_2: DE-ST
 SpocWebEntityId: 36024
 isDeleted: false
 Confidential: public
@@ -66,11 +66,11 @@ locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Locator%2
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Sachsen-Anhalt%20Wikivoyage%20banner.jpg"
 official_website: "https://www.sachsen-anhalt.de/"
 Dewey_Decimal_Classification: 2--4318
-ISO_3166-2_code: DE-ST
+ISO_3166_2_code: DE-ST
 HASC:
 - DE.ST
-Libris-URI: gdsw04x03l38k45
-FIPS_10-4_countries_and_regions_: GM14
+Libris_URI: gdsw04x03l38k45
+FIPS_10_4_countries_and_regions_: GM14
 Image_Archive_Herder_Institute: Q1206
 Instagram_username: sachsenanhalt
 X_username: sachsenanhalt
