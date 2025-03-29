@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Deutschland (Germany)"
 type: Country
 location:
@@ -19,6 +19,9 @@ cssclasses: Country
 publish: true
 draft: false
 confidential: public
+publishDate: 
+expiryDate: 
+icon: flag-de
 tags:
 - geo/Country
 aliases: 
@@ -399,7 +402,7 @@ subreddit:
 NUTS_code: DE
 ISO_3166_1_alpha_2_code: DE
 WIPO_ST_3: DE
-Unicode_character: "\U0001F1E9\U0001F1EA"
+Unicode_character: 🇩🇪 
 ISO_3166_1_alpha_3_code: DEU
 GitHub_topic: deutschland
 Commons_gallery: Deutschland
