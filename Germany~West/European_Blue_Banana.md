@@ -1,3 +1,7 @@
+---
+aliases:
+  - European Blue Banana
+---
 ﻿
 The "European Blue Banana" refers to a highly developed, densely populated, 
 and economically prosperous corridor of cities and regions in Western Europe. 

@@ -1,20 +1,24 @@
-﻿---
-location: [50.38,8.06] 
-mapzoom: [7,12] 
-mapmarker: city 
+---
+location:
+  - 50.38
+  - 8.06
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32017
 isDeleted: false
 confidential: public
-
+aliases:
+  - Limburg an der Lahn
 ---
-#is_a_/Place  
+﻿
+﻿#is_a_/Place  
 #is_a_ :: [[Place]] 
-[has_place_longitude::8.06] 
+[has_place_longitude :: 8.06] 
 [has_place_latitude::50.38] 
 [name::Limburg] 
 has_place_country:: [[Germany]]  

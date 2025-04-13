@@ -37,7 +37,7 @@ maxZoom: 18
 > **Hitzacker** is a town in the Lüchow-Dannenberg district of Lower Saxony, Germany. 
 > It is situated on the river Elbe, approx. 8 km north of Dannenberg, and 45 km east of Lüneburg. 
 > The 2007 population of Hitzacker was 4,982, and its postal code is 29456. The mayor is Holger Mertins. 
-> The town is located on the [[German Timber-Frame Road]] 
+> The town is located on the[[German_Timber-Frame_Road]]] 
 > and is part of the Samtgemeinde ("collective municipality") of Elbtalaue.
 >
 > The famous library now in Wolfenbüttel was founded here by Augustus the Younger, 

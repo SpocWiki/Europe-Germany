@@ -131,7 +131,7 @@ aliases:
 > Dortmund and Essen (about 590,000 inhabitants each) 
 > and other cities predominantly located in the Rhine-Ruhr metropolitan area, 
 > the largest urban area in Germany and the fourth-largest on the European continent. 
-> The location of the Rhine-Ruhr at the heart of the [[European Blue Banana]]  
+> The location of the Rhine-Ruhr at the heart of the[[European_Blue_Banana]]]  
 > makes it well connected to other major European cities 
 > and metropolitan areas like the Randstad, the Flemish Diamond and the Frankfurt Rhine-Main Region.
 >

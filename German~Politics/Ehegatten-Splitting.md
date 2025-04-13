@@ -1,6 +1,6 @@
 
 
-#has_/time_/created :: 1958-06  
+#has_/time_/started :: 1958-06  
 
 only in Germany of all Europe 
 fosters traditional Marriage 
