@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q1199
 location:
 - 50.4897
