@@ -23,11 +23,11 @@ twinned_administrative_body:
 - '[[_Standards/WikiData/WD~Treptow-Köpenick,158089]]'
 - '[[_Standards/WikiData/WD~Jiaozuo,404429]]'
 - '[[_Standards/WikiData/WD~Corinto,1132939]]'
-- "[[_Standards/WikiData/WD~Rio de Janeiro,8678]]"
+- "[[_Standards/WikiData/WD~Rio_de_Janeiro,8678]]"
 - '[[_Standards/WikiData/WD~Esch-sur-Alzette,16010]]'
 - '[[_Standards/WikiData/WD~Thessaloniki,17151]]'
 - '[[_Standards/WikiData/WD~Liverpool,24826]]'
-- "[[_Standards/WikiData/WD~Tel Aviv,33935]]"
+- "[[_Standards/WikiData/WD~Tel_Aviv,33935]]"
 - '[[_Standards/WikiData/WD~Rotterdam,34370]]'
 - '[[_Standards/WikiData/WD~Kyoto,34600]]'
 - '[[_Standards/WikiData/WD~Cork,36647]]'
@@ -44,20 +44,20 @@ twinned_administrative_body:
 - '[[_Standards/WikiData/WD~Bethlehem,5776]]'
 - '[[_Standards/WikiData/WD~Indianapolis,6346]]'
 capital_of:
-- "[[_Standards/WikiData/WD~Landschaftsverband Rheinland,153468]]"
-- "[[_Standards/WikiData/WD~Gallic Empire,273025]]"
-- "[[_Standards/WikiData/WD~Electorate of Cologne,7904317]]"
-- "[[_Standards/WikiData/WD~Cologne Government Region,7927]]"
+- "[[_Standards/WikiData/WD~Landschaftsverband_Rheinland,153468]]"
+- "[[_Standards/WikiData/WD~Gallic_Empire,273025]]"
+- "[[_Standards/WikiData/WD~Electorate_of_Cologne,7904317]]"
+- "[[_Standards/WikiData/WD~Cologne_Government_Region,7927]]"
 member_of:
-- "[[_Standards/WikiData/WD~Landschaftsverband Rheinland,153468]]"
-- "[[_Standards/WikiData/WD~International Association for Sports and Leisure Facilities,475646]]"
-- "[[_Standards/WikiData/WD~association for pedestrian and bicycle-friendly cities, townships and districts in North Rhine Westphalia,627637]]"
-- "[[_Standards/WikiData/WD~Mayors for Peace,747279]]"
-- "[[_Standards/WikiData/WD~Association of German Airports,1433362]]"
-- "[[_Standards/WikiData/WD~Climate Alliance,1768108]]"
-- "[[_Standards/WikiData/WD~League of Historical Cities,9383972]]"
-- "[[_Standards/WikiData/WD~Städtetag Nordrhein-Westfalen,52144567]]"
-- "[[_Standards/WikiData/WD~World Cities Culture Forum,55098964]]"
+- "[[_Standards/WikiData/WD~Landschaftsverband_Rheinland,153468]]"
+- "[[_Standards/WikiData/WD~International_Association_for_Sports_and_Leisure_Facilities,475646]]"
+- "[[_Standards/WikiData/WD~association_for_pedestrian_and_bicycle-friendly_cities,_townships_and_districts_in_North_Rhine_Westphalia,627637]]"
+- "[[_Standards/WikiData/WD~Mayors_for_Peace,747279]]"
+- "[[_Standards/WikiData/WD~Association_of_German_Airports,1433362]]"
+- "[[_Standards/WikiData/WD~Climate_Alliance,1768108]]"
+- "[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972]]"
+- "[[_Standards/WikiData/WD~Städtetag_Nordrhein-Westfalen,52144567]]"
+- "[[_Standards/WikiData/WD~World_Cities_Culture_Forum,55098964]]"
 - '[[_Standards/WikiData/WD~Q131586184,131586184]]'
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Mülheim,153779]]'
@@ -71,32 +71,32 @@ contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Nippes,518604]]'
 instance_of:
 - '[[_Standards/WikiData/WD~metropolis,200250]]'
-- "[[_Standards/WikiData/WD~Hanseatic city,707813]]"
-- "[[_Standards/WikiData/WD~big city,1549591]]"
-- "[[_Standards/WikiData/WD~Roman city,2202509]]"
-- "[[_Standards/WikiData/WD~urban municipality in Germany,42744322]]"
-- "[[_Standards/WikiData/WD~urban district of North Rhine-Westphalia,85635630]]"
+- "[[_Standards/WikiData/WD~Hanseatic_city,707813]]"
+- "[[_Standards/WikiData/WD~big_city,1549591]]"
+- "[[_Standards/WikiData/WD~Roman_city,2202509]]"
+- "[[_Standards/WikiData/WD~urban_municipality_in_Germany,42744322]]"
+- "[[_Standards/WikiData/WD~urban_district_of_North_Rhine-Westphalia,85635630]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Regesta Imperii,316838]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Regesta_Imperii,316838]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - '[[_Standards/WikiData/WD~Q19230673,19230673]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of Cologne,566781]]"
-archives_at: "[[_Standards/WikiData/WD~Historical Archive of the City of Cologne,664138]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Cologne,566781]]"
+archives_at: "[[_Standards/WikiData/WD~Historical_Archive_of_the_City_of_Cologne,664138]]"
 different_from: '[[_Standards/WikiData/WD~Kolonia,1210272]]'
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Cologne,1309813]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Cologne,1309813]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Cologne,11380304]]'
-legislative_body: "[[_Standards/WikiData/WD~city council of Cologne,17484711]]"
-head_of_government: "[[_Standards/WikiData/WD~Henriette Reker,19285371]]"
-visitor_center: "[[_Standards/WikiData/WD~Cologne Tourist Board,27903825]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Lord Mayor of Cologne,52220796]]"
-open_data_portal: "[[_Standards/WikiData/WD~Open Data portal Köln,63428438]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Cologne,100866188]]"
+legislative_body: "[[_Standards/WikiData/WD~city_council_of_Cologne,17484711]]"
+head_of_government: "[[_Standards/WikiData/WD~Henriette_Reker,19285371]]"
+visitor_center: "[[_Standards/WikiData/WD~Cologne_Tourist_Board,27903825]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Lord_Mayor_of_Cologne,52220796]]"
+open_data_portal: "[[_Standards/WikiData/WD~Open_Data_portal_Köln,63428438]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Cologne,100866188]]"
 panoramic_view:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Cologne%20-%20Panoramic%20Image%20of%20the%20old%20town%20at%20dusk.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Koelnpanorama.jpg"
@@ -120,9 +120,9 @@ Provenio_UUID: 60f9c547-e489-4854-a125-b4ad548de2d3
 BHCL_UUID:
 - bbc2d413-3e92-4b80-b353-525706773a65
 - cb255566-65ef-44ed-8fe1-0c1d5e717037
-named_after: "[[_Standards/WikiData/WD~Colonia Claudia Ara Agrippinensium,23048]]"
+named_after: "[[_Standards/WikiData/WD~Colonia_Claudia_Ara_Agrippinensium,23048]]"
 country: '[[_Standards/WikiData/WD~Germany,183]]'
-patron_saint: "[[_Standards/WikiData/WD~Saint Peter,33923]]"
+patron_saint: "[[_Standards/WikiData/WD~Saint_Peter,33923]]"
 elevation_above_sea_level: 59
 licence_plate_code: K
 social_media_followers:
@@ -233,15 +233,15 @@ located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Rhine,584]]'
 shares_border_with:
 - '[[_Standards/WikiData/WD~Leverkusen,2938]]'
 - '[[_Standards/WikiData/WD~Hürth,4060]]'
-- "[[_Standards/WikiData/WD~Rhein-Kreis Neuss,6253]]"
+- "[[_Standards/WikiData/WD~Rhein-Kreis_Neuss,6253]]"
 - '[[_Standards/WikiData/WD~Mettmann,6257]]'
-- "[[_Standards/WikiData/WD~Rhein-Sieg District,6287]]"
-- "[[_Standards/WikiData/WD~Rhein-Berg District,6295]]"
-- "[[_Standards/WikiData/WD~Rhein-Erft District,6292]]"
+- "[[_Standards/WikiData/WD~Rhein-Sieg_District,6287]]"
+- "[[_Standards/WikiData/WD~Rhein-Berg_District,6295]]"
+- "[[_Standards/WikiData/WD~Rhein-Erft_District,6292]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
 - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Cologne Government Region,7927]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Cologne_Government_Region,7927]]"
 ---
 
 ﻿

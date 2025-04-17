@@ -14,44 +14,44 @@ isDeleted: false
 confidential: public
 has_id_wikidata: Q1715
 instance_of:
-- "[[_Standards/WikiData/WD~district capital,134626]]"
-- "[[_Standards/WikiData/WD~big city,1549591]]"
-- "[[_Standards/WikiData/WD~special municipality association of Germany,1780389]]"
-- "[[_Standards/WikiData/WD~state capital in Germany,14784328]]"
-- "[[_Standards/WikiData/WD~urban municipality in Germany,42744322]]"
+- "[[_Standards/WikiData/WD~district_capital,134626]]"
+- "[[_Standards/WikiData/WD~big_city,1549591]]"
+- "[[_Standards/WikiData/WD~special_municipality_association_of_Germany,1780389]]"
+- "[[_Standards/WikiData/WD~state_capital_in_Germany,14784328]]"
+- "[[_Standards/WikiData/WD~urban_municipality_in_Germany,42744322]]"
 located_in_or_next_to_body_of_water:
 - '[[_Standards/WikiData/WD~Leine,161051]]'
 - '[[_Standards/WikiData/WD~Maschsee,315045]]'
 - '[[_Standards/WikiData/WD~Ihme,464568]]'
-- "[[_Standards/WikiData/WD~Mittelland Canal,48480]]"
+- "[[_Standards/WikiData/WD~Mittelland_Canal,48480]]"
 capital_of:
-- "[[_Standards/WikiData/WD~Kingdom of Hanover,164079]]"
-- "[[_Standards/WikiData/WD~Principality of Calenberg,565812]]"
-- "[[_Standards/WikiData/WD~Electorate of Hanover,706018]]"
-- "[[_Standards/WikiData/WD~Province of Hanover,819125]]"
-- "[[_Standards/WikiData/WD~Lower Saxony,1197]]"
-- "[[_Standards/WikiData/WD~Hanover region,5963]]"
-Köppen_climate_classification: "[[_Standards/WikiData/WD~oceanic climate,182090]]"
+- "[[_Standards/WikiData/WD~Kingdom_of_Hanover,164079]]"
+- "[[_Standards/WikiData/WD~Principality_of_Calenberg,565812]]"
+- "[[_Standards/WikiData/WD~Electorate_of_Hanover,706018]]"
+- "[[_Standards/WikiData/WD~Province_of_Hanover,819125]]"
+- "[[_Standards/WikiData/WD~Lower_Saxony,1197]]"
+- "[[_Standards/WikiData/WD~Hanover_region,5963]]"
+Köppen_climate_classification: "[[_Standards/WikiData/WD~oceanic_climate,182090]]"
 twinned_administrative_body:
 - '[[_Standards/WikiData/WD~Blantyre,188693]]'
-- "[[_Standards/WikiData/WD~Newcastle upon Tyne,1425428]]"
+- "[[_Standards/WikiData/WD~Newcastle_upon_Tyne,1425428]]"
 - '[[_Standards/WikiData/WD~Poznań,268]]'
 - '[[_Standards/WikiData/WD~Montreal,340]]'
-- "[[_Standards/WikiData/WD~La Paz,1491]]"
+- "[[_Standards/WikiData/WD~La_Paz,1491]]"
 - '[[_Standards/WikiData/WD~Leipzig,2079]]'
 - '[[_Standards/WikiData/WD~Perpignan,6730]]'
 - '[[_Standards/WikiData/WD~Bristol,23154]]'
 - '[[_Standards/WikiData/WD~Rouen,30974]]'
 - '[[_Standards/WikiData/WD~Hiroshima,34664]]'
-- "[[_Standards/WikiData/WD~Kansas City,41819]]"
+- "[[_Standards/WikiData/WD~Kansas_City,41819]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Regesta Imperii,316838]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Topographia Braunschweig Lüneburg,19230666]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Regesta_Imperii,316838]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Topographia_Braunschweig_Lüneburg,19230666]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Ahlem-Badenstedt-Davenstedt,400430]]'
 - '[[_Standards/WikiData/WD~Herrenhausen-Stöcken,470577]]'
@@ -80,20 +80,20 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Laatzen,14856]]'
 - '[[_Standards/WikiData/WD~Seelze,16052]]'
 member_of:
-- "[[_Standards/WikiData/WD~Mayors for Peace,747279]]"
-- "[[_Standards/WikiData/WD~Creative Cities Network,1139352]]"
-- "[[_Standards/WikiData/WD~Climate Alliance,1768108]]"
-- "[[_Standards/WikiData/WD~Niedersächsischer Städtetag,1988624]]"
-- "[[_Standards/WikiData/WD~International Cities of Refuge Network,15477956]]"
-archives_at: "[[_Standards/WikiData/WD~Municipal Archive Hannover,1310039]]"
+- "[[_Standards/WikiData/WD~Mayors_for_Peace,747279]]"
+- "[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
+- "[[_Standards/WikiData/WD~Climate_Alliance,1768108]]"
+- "[[_Standards/WikiData/WD~Niedersächsischer_Städtetag,1988624]]"
+- "[[_Standards/WikiData/WD~International_Cities_of_Refuge_Network,15477956]]"
+archives_at: "[[_Standards/WikiData/WD~Municipal_Archive_Hannover,1310039]]"
 list_of_monuments:
-- "[[_Standards/WikiData/WD~list of cultural heritage monuments in Hanover,1556926]]"
+- "[[_Standards/WikiData/WD~list_of_cultural_heritage_monuments_in_Hanover,1556926]]"
 - '[[_Standards/WikiData/WD~Q50841704,50841704]]'
-head_of_government: "[[_Standards/WikiData/WD~Belit Onay,15787522]]"
-visitor_center: "[[_Standards/WikiData/WD~Hannover Marketing und Tourismus,27979581]]"
+head_of_government: "[[_Standards/WikiData/WD~Belit_Onay,15787522]]"
+visitor_center: "[[_Standards/WikiData/WD~Hannover_Marketing_und_Tourismus,27979581]]"
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q32052205,32052205]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Hannover,70488594]]'
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Hanover,100868317]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Hanover,100868317]]"
 BHCL_UUID: c9991e7e-b7bf-4e33-af13-c5e87b82a0f8
 tabular_population: "http://commons.wikimedia.org/data/main/Data:Population+of+Hannover,+Germany.tab"
 ISNI: 0000000123315273
@@ -108,8 +108,8 @@ demonym:
 logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hannover%20logo%20%282024%29.svg"
 coordinates_of_easternmost_point: "Point(9.9184 52.4034)"
 coordinates_of_westernmost_point: "Point(9.60445 52.39699)"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Hanover region,5963]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Hanover region,5963]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Hanover_region,5963]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Hanover_region,5963]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
 - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
