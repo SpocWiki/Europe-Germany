@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 51.05
 - 13.73
@@ -48,9 +48,9 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Topographia_Superioris_Saxoniae,19230701]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Vierter_Band,129249812]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Vierter_Band,129249812]]"
 located_in_on_physical_feature:
 - "[[_Standards/WikiData/WD~Dresden_Basin,314741]]"
 - "[[_Standards/WikiData/WD~conurbation_Dresden,805366]]"

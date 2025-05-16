@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 52.37
 - 9.73
@@ -49,9 +49,9 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Topographia_Braunschweig_Lüneburg,19230666]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Ahlem-Badenstedt-Davenstedt,400430]]'
 - '[[_Standards/WikiData/WD~Herrenhausen-Stöcken,470577]]'
