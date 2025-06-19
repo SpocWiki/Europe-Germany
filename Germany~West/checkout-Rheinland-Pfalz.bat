@@ -1,0 +1,1 @@
+git clone "https://github.com/SpocWiki/Germany-Rheinland-Pfalz" Rheinland-Pfalz
