@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.7,10.77] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ratzeburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Ratzeburg.md) 
+### [Ratzeburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgRatzeburg.public.md) 
 
-### [Ratzeburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Ratzeburg.internal.md) 
+### [Ratzeburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgRatzeburg.internal.md) 
 
-### [Ratzeburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Ratzeburg.protect.md) 
+### [Ratzeburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgRatzeburg.protect.md) 
 
-### [Ratzeburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Ratzeburg.private.md) 
+### [Ratzeburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgRatzeburg.private.md) 
 
-### [Ratzeburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Ratzeburg.personal.md) 
+### [Ratzeburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgRatzeburg.personal.md) 
 
-### [Ratzeburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Ratzeburg.secret.md) 
+### [Ratzeburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgRatzeburg.secret.md)
+

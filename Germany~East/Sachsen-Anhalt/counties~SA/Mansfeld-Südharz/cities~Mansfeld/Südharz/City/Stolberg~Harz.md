@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.58,10.95] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stolberg~Harz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Südharz/City/Stolberg~Harz.md) 
+### [Stolberg~Harz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Südharz\CityStolberg~Harz.public.md) 
 
-### [Stolberg~Harz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Südharz/City/Stolberg~Harz.internal.md) 
+### [Stolberg~Harz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Südharz\CityStolberg~Harz.internal.md) 
 
-### [Stolberg~Harz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Südharz/City/Stolberg~Harz.protect.md) 
+### [Stolberg~Harz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Südharz\CityStolberg~Harz.protect.md) 
 
-### [Stolberg~Harz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Südharz/City/Stolberg~Harz.private.md) 
+### [Stolberg~Harz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Südharz\CityStolberg~Harz.private.md) 
 
-### [Stolberg~Harz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Südharz/City/Stolberg~Harz.personal.md) 
+### [Stolberg~Harz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Südharz\CityStolberg~Harz.personal.md) 
 
-### [Stolberg~Harz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Südharz/City/Stolberg~Harz.secret.md) 
+### [Stolberg~Harz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Südharz\CityStolberg~Harz.secret.md)
+

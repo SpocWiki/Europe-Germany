@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.8,12.22] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Glauchau](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Wünschendorf_Elster/City/Glauchau.md) 
+### [Glauchau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Wünschendorf_Elster\CityGlauchau.public.md) 
 
-### [Glauchau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Wünschendorf_Elster/City/Glauchau.internal.md) 
+### [Glauchau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Wünschendorf_Elster\CityGlauchau.internal.md) 
 
-### [Glauchau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Wünschendorf_Elster/City/Glauchau.protect.md) 
+### [Glauchau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Wünschendorf_Elster\CityGlauchau.protect.md) 
 
-### [Glauchau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Wünschendorf_Elster/City/Glauchau.private.md) 
+### [Glauchau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Wünschendorf_Elster\CityGlauchau.private.md) 
 
-### [Glauchau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Wünschendorf_Elster/City/Glauchau.personal.md) 
+### [Glauchau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Wünschendorf_Elster\CityGlauchau.personal.md) 
 
-### [Glauchau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Wünschendorf_Elster/City/Glauchau.secret.md) 
+### [Glauchau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Wünschendorf_Elster\CityGlauchau.secret.md)
+

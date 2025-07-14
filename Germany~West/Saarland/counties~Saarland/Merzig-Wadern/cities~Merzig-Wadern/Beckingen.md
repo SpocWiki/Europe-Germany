@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.4,6.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Beckingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Beckingen.md) 
+### [Beckingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Merzig-Wadern\cities~Merzig-WadernBeckingen.public.md) 
 
-### [Beckingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Beckingen.internal.md) 
+### [Beckingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Merzig-Wadern\cities~Merzig-WadernBeckingen.internal.md) 
 
-### [Beckingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Beckingen.protect.md) 
+### [Beckingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Merzig-Wadern\cities~Merzig-WadernBeckingen.protect.md) 
 
-### [Beckingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Beckingen.private.md) 
+### [Beckingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Merzig-Wadern\cities~Merzig-WadernBeckingen.private.md) 
 
-### [Beckingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Beckingen.personal.md) 
+### [Beckingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Merzig-Wadern\cities~Merzig-WadernBeckingen.personal.md) 
 
-### [Beckingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Beckingen.secret.md) 
+### [Beckingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Merzig-Wadern\cities~Merzig-WadernBeckingen.secret.md)
+

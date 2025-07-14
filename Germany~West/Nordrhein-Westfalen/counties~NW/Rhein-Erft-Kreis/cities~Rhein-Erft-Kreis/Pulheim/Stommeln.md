@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.02,6.77] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stommeln](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Pulheim/Stommeln.md) 
+### [Stommeln.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-Kreis\PulheimStommeln.public.md) 
 
-### [Stommeln.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Pulheim/Stommeln.internal.md) 
+### [Stommeln.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-Kreis\PulheimStommeln.internal.md) 
 
-### [Stommeln.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Pulheim/Stommeln.protect.md) 
+### [Stommeln.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-Kreis\PulheimStommeln.protect.md) 
 
-### [Stommeln.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Pulheim/Stommeln.private.md) 
+### [Stommeln.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-Kreis\PulheimStommeln.private.md) 
 
-### [Stommeln.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Pulheim/Stommeln.personal.md) 
+### [Stommeln.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-Kreis\PulheimStommeln.personal.md) 
 
-### [Stommeln.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Pulheim/Stommeln.secret.md) 
+### [Stommeln.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-Kreis\PulheimStommeln.secret.md)
+

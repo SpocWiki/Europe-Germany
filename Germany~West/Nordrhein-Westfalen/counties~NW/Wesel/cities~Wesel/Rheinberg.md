@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.547, 6.6] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rheinberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wesel/cities~Wesel/Rheinberg.md) 
+### [Rheinberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselRheinberg.public.md) 
 
-### [Rheinberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wesel/cities~Wesel/Rheinberg.internal.md) 
+### [Rheinberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselRheinberg.internal.md) 
 
-### [Rheinberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wesel/cities~Wesel/Rheinberg.protect.md) 
+### [Rheinberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselRheinberg.protect.md) 
 
-### [Rheinberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wesel/cities~Wesel/Rheinberg.private.md) 
+### [Rheinberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselRheinberg.private.md) 
 
-### [Rheinberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wesel/cities~Wesel/Rheinberg.personal.md) 
+### [Rheinberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselRheinberg.personal.md) 
 
-### [Rheinberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wesel/cities~Wesel/Rheinberg.secret.md) 
+### [Rheinberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselRheinberg.secret.md)
+

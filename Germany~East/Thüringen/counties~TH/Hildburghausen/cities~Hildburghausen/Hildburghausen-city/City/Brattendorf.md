@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.42,10.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brattendorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Hildburghausen-city/City/Brattendorf.md) 
+### [Brattendorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~Hildburghausen\Hildburghausen-city\CityBrattendorf.public.md) 
 
-### [Brattendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Hildburghausen-city/City/Brattendorf.internal.md) 
+### [Brattendorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~Hildburghausen\Hildburghausen-city\CityBrattendorf.internal.md) 
 
-### [Brattendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Hildburghausen-city/City/Brattendorf.protect.md) 
+### [Brattendorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~Hildburghausen\Hildburghausen-city\CityBrattendorf.protect.md) 
 
-### [Brattendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Hildburghausen-city/City/Brattendorf.private.md) 
+### [Brattendorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~Hildburghausen\Hildburghausen-city\CityBrattendorf.private.md) 
 
-### [Brattendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Hildburghausen-city/City/Brattendorf.personal.md) 
+### [Brattendorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~Hildburghausen\Hildburghausen-city\CityBrattendorf.personal.md) 
 
-### [Brattendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Hildburghausen-city/City/Brattendorf.secret.md) 
+### [Brattendorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~Hildburghausen\Hildburghausen-city\CityBrattendorf.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.32,6.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saarlouis-city](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Saarlouis-city.md) 
+### [Saarlouis-city.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarlouis\cities~SaarlouisSaarlouis-city.public.md) 
 
-### [Saarlouis-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Saarlouis-city.internal.md) 
+### [Saarlouis-city.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarlouis\cities~SaarlouisSaarlouis-city.internal.md) 
 
-### [Saarlouis-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Saarlouis-city.protect.md) 
+### [Saarlouis-city.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarlouis\cities~SaarlouisSaarlouis-city.protect.md) 
 
-### [Saarlouis-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Saarlouis-city.private.md) 
+### [Saarlouis-city.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarlouis\cities~SaarlouisSaarlouis-city.private.md) 
 
-### [Saarlouis-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Saarlouis-city.personal.md) 
+### [Saarlouis-city.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarlouis\cities~SaarlouisSaarlouis-city.personal.md) 
 
-### [Saarlouis-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Saarlouis-city.secret.md) 
+### [Saarlouis-city.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarlouis\cities~SaarlouisSaarlouis-city.secret.md)
+

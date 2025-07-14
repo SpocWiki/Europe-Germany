@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.32,7.25] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Langerfeld,Wuppertal](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Langerfeld,Wuppertal.md) 
+### [Langerfeld,Wuppertal.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalLangerfeld,Wuppertal.public.md) 
 
-### [Langerfeld,Wuppertal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Langerfeld,Wuppertal.internal.md) 
+### [Langerfeld,Wuppertal.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalLangerfeld,Wuppertal.internal.md) 
 
-### [Langerfeld,Wuppertal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Langerfeld,Wuppertal.protect.md) 
+### [Langerfeld,Wuppertal.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalLangerfeld,Wuppertal.protect.md) 
 
-### [Langerfeld,Wuppertal.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Langerfeld,Wuppertal.private.md) 
+### [Langerfeld,Wuppertal.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalLangerfeld,Wuppertal.private.md) 
 
-### [Langerfeld,Wuppertal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Langerfeld,Wuppertal.personal.md) 
+### [Langerfeld,Wuppertal.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalLangerfeld,Wuppertal.personal.md) 
 
-### [Langerfeld,Wuppertal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Langerfeld,Wuppertal.secret.md) 
+### [Langerfeld,Wuppertal.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalLangerfeld,Wuppertal.secret.md)
+

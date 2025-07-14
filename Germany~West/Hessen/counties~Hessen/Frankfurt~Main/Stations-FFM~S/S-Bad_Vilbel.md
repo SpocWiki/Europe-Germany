@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.1775,8.735278] 
 type: Station 
 mapzoom: [8,18] 
@@ -30,14 +30,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [S-Bad_Vilbel](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Bad_Vilbel.md) 
+### [S-Bad_Vilbel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Bad_Vilbel.public.md) 
 
-### [S-Bad_Vilbel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Bad_Vilbel.internal.md) 
+### [S-Bad_Vilbel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Bad_Vilbel.internal.md) 
 
-### [S-Bad_Vilbel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Bad_Vilbel.protect.md) 
+### [S-Bad_Vilbel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Bad_Vilbel.protect.md) 
 
-### [S-Bad_Vilbel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Bad_Vilbel.private.md) 
+### [S-Bad_Vilbel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Bad_Vilbel.private.md) 
 
-### [S-Bad_Vilbel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Bad_Vilbel.personal.md) 
+### [S-Bad_Vilbel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Bad_Vilbel.personal.md) 
 
-### [S-Bad_Vilbel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Bad_Vilbel.secret.md) 
+### [S-Bad_Vilbel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Bad_Vilbel.secret.md)
+

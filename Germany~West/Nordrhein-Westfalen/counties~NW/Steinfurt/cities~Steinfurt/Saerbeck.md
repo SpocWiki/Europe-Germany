@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.23,7.68] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saerbeck](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Saerbeck.md) 
+### [Saerbeck.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtSaerbeck.public.md) 
 
-### [Saerbeck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Saerbeck.internal.md) 
+### [Saerbeck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtSaerbeck.internal.md) 
 
-### [Saerbeck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Saerbeck.protect.md) 
+### [Saerbeck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtSaerbeck.protect.md) 
 
-### [Saerbeck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Saerbeck.private.md) 
+### [Saerbeck.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtSaerbeck.private.md) 
 
-### [Saerbeck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Saerbeck.personal.md) 
+### [Saerbeck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtSaerbeck.personal.md) 
 
-### [Saerbeck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Saerbeck.secret.md) 
+### [Saerbeck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtSaerbeck.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.37,11.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pritzier](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Hagenow/boroughs~Hagenow/Pritzier.md) 
+### [Pritzier.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Hagenow\boroughs~HagenowPritzier.public.md) 
 
-### [Pritzier.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Hagenow/boroughs~Hagenow/Pritzier.internal.md) 
+### [Pritzier.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Hagenow\boroughs~HagenowPritzier.internal.md) 
 
-### [Pritzier.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Hagenow/boroughs~Hagenow/Pritzier.protect.md) 
+### [Pritzier.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Hagenow\boroughs~HagenowPritzier.protect.md) 
 
-### [Pritzier.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Hagenow/boroughs~Hagenow/Pritzier.private.md) 
+### [Pritzier.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Hagenow\boroughs~HagenowPritzier.private.md) 
 
-### [Pritzier.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Hagenow/boroughs~Hagenow/Pritzier.personal.md) 
+### [Pritzier.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Hagenow\boroughs~HagenowPritzier.personal.md) 
 
-### [Pritzier.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Hagenow/boroughs~Hagenow/Pritzier.secret.md) 
+### [Pritzier.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Hagenow\boroughs~HagenowPritzier.secret.md)
+

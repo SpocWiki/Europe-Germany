@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.13,9.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Behrensen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Coppenbrügge/boroughs~Coppenbrügge/Behrensen.md) 
+### [Behrensen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hameln-Pyrmont\cities~Hameln-Pyrmont\Coppenbrügge\boroughs~CoppenbrüggeBehrensen.public.md) 
 
-### [Behrensen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Coppenbrügge/boroughs~Coppenbrügge/Behrensen.internal.md) 
+### [Behrensen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hameln-Pyrmont\cities~Hameln-Pyrmont\Coppenbrügge\boroughs~CoppenbrüggeBehrensen.internal.md) 
 
-### [Behrensen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Coppenbrügge/boroughs~Coppenbrügge/Behrensen.protect.md) 
+### [Behrensen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hameln-Pyrmont\cities~Hameln-Pyrmont\Coppenbrügge\boroughs~CoppenbrüggeBehrensen.protect.md) 
 
-### [Behrensen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Coppenbrügge/boroughs~Coppenbrügge/Behrensen.private.md) 
+### [Behrensen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hameln-Pyrmont\cities~Hameln-Pyrmont\Coppenbrügge\boroughs~CoppenbrüggeBehrensen.private.md) 
 
-### [Behrensen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Coppenbrügge/boroughs~Coppenbrügge/Behrensen.personal.md) 
+### [Behrensen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hameln-Pyrmont\cities~Hameln-Pyrmont\Coppenbrügge\boroughs~CoppenbrüggeBehrensen.personal.md) 
 
-### [Behrensen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Coppenbrügge/boroughs~Coppenbrügge/Behrensen.secret.md) 
+### [Behrensen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hameln-Pyrmont\cities~Hameln-Pyrmont\Coppenbrügge\boroughs~CoppenbrüggeBehrensen.secret.md)
+

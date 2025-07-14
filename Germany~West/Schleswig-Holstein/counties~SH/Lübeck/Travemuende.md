@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.95,10.88] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Travemuende](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck/Travemuende.md) 
+### [Travemuende.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\LübeckTravemuende.public.md) 
 
-### [Travemuende.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck/Travemuende.internal.md) 
+### [Travemuende.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\LübeckTravemuende.internal.md) 
 
-### [Travemuende.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck/Travemuende.protect.md) 
+### [Travemuende.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\LübeckTravemuende.protect.md) 
 
-### [Travemuende.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck/Travemuende.private.md) 
+### [Travemuende.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\LübeckTravemuende.private.md) 
 
-### [Travemuende.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck/Travemuende.personal.md) 
+### [Travemuende.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\LübeckTravemuende.personal.md) 
 
-### [Travemuende.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck/Travemuende.secret.md) 
+### [Travemuende.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\LübeckTravemuende.secret.md)
+

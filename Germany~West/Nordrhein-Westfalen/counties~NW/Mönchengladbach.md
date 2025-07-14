@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.19,6.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mönchengladbach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Mönchengladbach.md) 
+### [Mönchengladbach.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NWMönchengladbach.public.md) 
 
-### [Mönchengladbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Mönchengladbach.internal.md) 
+### [Mönchengladbach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NWMönchengladbach.internal.md) 
 
-### [Mönchengladbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Mönchengladbach.protect.md) 
+### [Mönchengladbach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NWMönchengladbach.protect.md) 
 
-### [Mönchengladbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Mönchengladbach.private.md) 
+### [Mönchengladbach.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NWMönchengladbach.private.md) 
 
-### [Mönchengladbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Mönchengladbach.personal.md) 
+### [Mönchengladbach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NWMönchengladbach.personal.md) 
 
-### [Mönchengladbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Mönchengladbach.secret.md) 
+### [Mönchengladbach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NWMönchengladbach.secret.md)
+

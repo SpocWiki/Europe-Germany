@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.77,8.98] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schweinsberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Stadtallendorf/boroughs~Stadtallendorf/Schweinsberg.md) 
+### [Schweinsberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-Biedenkopf\Stadtallendorf\boroughs~StadtallendorfSchweinsberg.public.md) 
 
-### [Schweinsberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Stadtallendorf/boroughs~Stadtallendorf/Schweinsberg.internal.md) 
+### [Schweinsberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-Biedenkopf\Stadtallendorf\boroughs~StadtallendorfSchweinsberg.internal.md) 
 
-### [Schweinsberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Stadtallendorf/boroughs~Stadtallendorf/Schweinsberg.protect.md) 
+### [Schweinsberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-Biedenkopf\Stadtallendorf\boroughs~StadtallendorfSchweinsberg.protect.md) 
 
-### [Schweinsberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Stadtallendorf/boroughs~Stadtallendorf/Schweinsberg.private.md) 
+### [Schweinsberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-Biedenkopf\Stadtallendorf\boroughs~StadtallendorfSchweinsberg.private.md) 
 
-### [Schweinsberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Stadtallendorf/boroughs~Stadtallendorf/Schweinsberg.personal.md) 
+### [Schweinsberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-Biedenkopf\Stadtallendorf\boroughs~StadtallendorfSchweinsberg.personal.md) 
 
-### [Schweinsberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Stadtallendorf/boroughs~Stadtallendorf/Schweinsberg.secret.md) 
+### [Schweinsberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-Biedenkopf\Stadtallendorf\boroughs~StadtallendorfSchweinsberg.secret.md)
+

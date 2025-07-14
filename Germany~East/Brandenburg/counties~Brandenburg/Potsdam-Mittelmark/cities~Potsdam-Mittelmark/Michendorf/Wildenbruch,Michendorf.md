@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.03,14.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wildenbruch,Michendorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Michendorf/Wildenbruch,Michendorf.md) 
+### [Wildenbruch,Michendorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-Mittelmark\MichendorfWildenbruch,Michendorf.public.md) 
 
-### [Wildenbruch,Michendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Michendorf/Wildenbruch,Michendorf.internal.md) 
+### [Wildenbruch,Michendorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-Mittelmark\MichendorfWildenbruch,Michendorf.internal.md) 
 
-### [Wildenbruch,Michendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Michendorf/Wildenbruch,Michendorf.protect.md) 
+### [Wildenbruch,Michendorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-Mittelmark\MichendorfWildenbruch,Michendorf.protect.md) 
 
-### [Wildenbruch,Michendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Michendorf/Wildenbruch,Michendorf.private.md) 
+### [Wildenbruch,Michendorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-Mittelmark\MichendorfWildenbruch,Michendorf.private.md) 
 
-### [Wildenbruch,Michendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Michendorf/Wildenbruch,Michendorf.personal.md) 
+### [Wildenbruch,Michendorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-Mittelmark\MichendorfWildenbruch,Michendorf.personal.md) 
 
-### [Wildenbruch,Michendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Michendorf/Wildenbruch,Michendorf.secret.md) 
+### [Wildenbruch,Michendorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-Mittelmark\MichendorfWildenbruch,Michendorf.secret.md)
+

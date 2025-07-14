@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.43,12.72] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Johanngeorgenstadt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Johanngeorgenstadt.md) 
+### [Johanngeorgenstadt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~ErzgebirgskrJohanngeorgenstadt.public.md) 
 
-### [Johanngeorgenstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Johanngeorgenstadt.internal.md) 
+### [Johanngeorgenstadt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~ErzgebirgskrJohanngeorgenstadt.internal.md) 
 
-### [Johanngeorgenstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Johanngeorgenstadt.protect.md) 
+### [Johanngeorgenstadt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~ErzgebirgskrJohanngeorgenstadt.protect.md) 
 
-### [Johanngeorgenstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Johanngeorgenstadt.private.md) 
+### [Johanngeorgenstadt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~ErzgebirgskrJohanngeorgenstadt.private.md) 
 
-### [Johanngeorgenstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Johanngeorgenstadt.personal.md) 
+### [Johanngeorgenstadt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~ErzgebirgskrJohanngeorgenstadt.personal.md) 
 
-### [Johanngeorgenstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Johanngeorgenstadt.secret.md) 
+### [Johanngeorgenstadt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~ErzgebirgskrJohanngeorgenstadt.secret.md)
+

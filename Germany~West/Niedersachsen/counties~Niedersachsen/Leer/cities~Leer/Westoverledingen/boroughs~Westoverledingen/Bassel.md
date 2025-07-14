@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.17,7.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bassel](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Westoverledingen/boroughs~Westoverledingen/Bassel.md) 
+### [Bassel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~Leer\Westoverledingen\boroughs~WestoverledingenBassel.public.md) 
 
-### [Bassel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Westoverledingen/boroughs~Westoverledingen/Bassel.internal.md) 
+### [Bassel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~Leer\Westoverledingen\boroughs~WestoverledingenBassel.internal.md) 
 
-### [Bassel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Westoverledingen/boroughs~Westoverledingen/Bassel.protect.md) 
+### [Bassel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~Leer\Westoverledingen\boroughs~WestoverledingenBassel.protect.md) 
 
-### [Bassel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Westoverledingen/boroughs~Westoverledingen/Bassel.private.md) 
+### [Bassel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~Leer\Westoverledingen\boroughs~WestoverledingenBassel.private.md) 
 
-### [Bassel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Westoverledingen/boroughs~Westoverledingen/Bassel.personal.md) 
+### [Bassel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~Leer\Westoverledingen\boroughs~WestoverledingenBassel.personal.md) 
 
-### [Bassel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Westoverledingen/boroughs~Westoverledingen/Bassel.secret.md) 
+### [Bassel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~Leer\Westoverledingen\boroughs~WestoverledingenBassel.secret.md)
+

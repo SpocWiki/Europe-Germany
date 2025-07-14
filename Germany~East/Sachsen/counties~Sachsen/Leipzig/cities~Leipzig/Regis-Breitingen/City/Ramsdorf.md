@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.08,12.37] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ramsdorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Regis-Breitingen/City/Ramsdorf.md) 
+### [Ramsdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Regis-Breitingen\CityRamsdorf.public.md) 
 
-### [Ramsdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Regis-Breitingen/City/Ramsdorf.internal.md) 
+### [Ramsdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Regis-Breitingen\CityRamsdorf.internal.md) 
 
-### [Ramsdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Regis-Breitingen/City/Ramsdorf.protect.md) 
+### [Ramsdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Regis-Breitingen\CityRamsdorf.protect.md) 
 
-### [Ramsdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Regis-Breitingen/City/Ramsdorf.private.md) 
+### [Ramsdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Regis-Breitingen\CityRamsdorf.private.md) 
 
-### [Ramsdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Regis-Breitingen/City/Ramsdorf.personal.md) 
+### [Ramsdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Regis-Breitingen\CityRamsdorf.personal.md) 
 
-### [Ramsdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Regis-Breitingen/City/Ramsdorf.secret.md) 
+### [Ramsdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Regis-Breitingen\CityRamsdorf.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.55,10.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Frankenheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Hohe_Rhön/City/Frankenheim.md) 
+### [Frankenheim.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Schmalkalden-Meiningen\cities~Schmalkalden\Hohe_Rhön\CityFrankenheim.public.md) 
 
-### [Frankenheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Hohe_Rhön/City/Frankenheim.internal.md) 
+### [Frankenheim.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Schmalkalden-Meiningen\cities~Schmalkalden\Hohe_Rhön\CityFrankenheim.internal.md) 
 
-### [Frankenheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Hohe_Rhön/City/Frankenheim.protect.md) 
+### [Frankenheim.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Schmalkalden-Meiningen\cities~Schmalkalden\Hohe_Rhön\CityFrankenheim.protect.md) 
 
-### [Frankenheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Hohe_Rhön/City/Frankenheim.private.md) 
+### [Frankenheim.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Schmalkalden-Meiningen\cities~Schmalkalden\Hohe_Rhön\CityFrankenheim.private.md) 
 
-### [Frankenheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Hohe_Rhön/City/Frankenheim.personal.md) 
+### [Frankenheim.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Schmalkalden-Meiningen\cities~Schmalkalden\Hohe_Rhön\CityFrankenheim.personal.md) 
 
-### [Frankenheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Hohe_Rhön/City/Frankenheim.secret.md) 
+### [Frankenheim.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Schmalkalden-Meiningen\cities~Schmalkalden\Hohe_Rhön\CityFrankenheim.secret.md)
+

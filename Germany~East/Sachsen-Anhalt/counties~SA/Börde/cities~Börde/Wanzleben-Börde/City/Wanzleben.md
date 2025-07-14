@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.07,11.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wanzleben](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Wanzleben.md) 
+### [Wanzleben.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Wanzleben-Börde\CityWanzleben.public.md) 
 
-### [Wanzleben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Wanzleben.internal.md) 
+### [Wanzleben.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Wanzleben-Börde\CityWanzleben.internal.md) 
 
-### [Wanzleben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Wanzleben.protect.md) 
+### [Wanzleben.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Wanzleben-Börde\CityWanzleben.protect.md) 
 
-### [Wanzleben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Wanzleben.private.md) 
+### [Wanzleben.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Wanzleben-Börde\CityWanzleben.private.md) 
 
-### [Wanzleben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Wanzleben.personal.md) 
+### [Wanzleben.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Wanzleben-Börde\CityWanzleben.personal.md) 
 
-### [Wanzleben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Wanzleben.secret.md) 
+### [Wanzleben.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Wanzleben-Börde\CityWanzleben.secret.md)
+

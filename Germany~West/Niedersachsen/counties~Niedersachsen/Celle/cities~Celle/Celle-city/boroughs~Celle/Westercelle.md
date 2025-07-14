@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.6,10.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Westercelle](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle/cities~Celle/Celle-city/boroughs~Celle/Westercelle.md) 
+### [Westercelle.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Celle\cities~Celle\Celle-city\boroughs~CelleWestercelle.public.md) 
 
-### [Westercelle.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle/cities~Celle/Celle-city/boroughs~Celle/Westercelle.internal.md) 
+### [Westercelle.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Celle\cities~Celle\Celle-city\boroughs~CelleWestercelle.internal.md) 
 
-### [Westercelle.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle/cities~Celle/Celle-city/boroughs~Celle/Westercelle.protect.md) 
+### [Westercelle.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Celle\cities~Celle\Celle-city\boroughs~CelleWestercelle.protect.md) 
 
-### [Westercelle.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle/cities~Celle/Celle-city/boroughs~Celle/Westercelle.private.md) 
+### [Westercelle.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Celle\cities~Celle\Celle-city\boroughs~CelleWestercelle.private.md) 
 
-### [Westercelle.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle/cities~Celle/Celle-city/boroughs~Celle/Westercelle.personal.md) 
+### [Westercelle.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Celle\cities~Celle\Celle-city\boroughs~CelleWestercelle.personal.md) 
 
-### [Westercelle.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle/cities~Celle/Celle-city/boroughs~Celle/Westercelle.secret.md) 
+### [Westercelle.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Celle\cities~Celle\Celle-city\boroughs~CelleWestercelle.secret.md)
+

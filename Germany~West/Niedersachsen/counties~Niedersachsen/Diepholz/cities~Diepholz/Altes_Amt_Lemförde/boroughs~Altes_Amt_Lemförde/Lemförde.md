@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.47,8.4] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lemförde](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Altes_Amt_Lemförde/boroughs~Altes_Amt_Lemförde/Lemförde.md) 
+### [Lemförde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Altes_Amt_Lemförde\boroughs~Altes_Amt_LemfördeLemförde.public.md) 
 
-### [Lemförde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Altes_Amt_Lemförde/boroughs~Altes_Amt_Lemförde/Lemförde.internal.md) 
+### [Lemförde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Altes_Amt_Lemförde\boroughs~Altes_Amt_LemfördeLemförde.internal.md) 
 
-### [Lemförde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Altes_Amt_Lemförde/boroughs~Altes_Amt_Lemförde/Lemförde.protect.md) 
+### [Lemförde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Altes_Amt_Lemförde\boroughs~Altes_Amt_LemfördeLemförde.protect.md) 
 
-### [Lemförde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Altes_Amt_Lemförde/boroughs~Altes_Amt_Lemförde/Lemförde.private.md) 
+### [Lemförde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Altes_Amt_Lemförde\boroughs~Altes_Amt_LemfördeLemförde.private.md) 
 
-### [Lemförde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Altes_Amt_Lemförde/boroughs~Altes_Amt_Lemförde/Lemförde.personal.md) 
+### [Lemförde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Altes_Amt_Lemförde\boroughs~Altes_Amt_LemfördeLemförde.personal.md) 
 
-### [Lemförde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Altes_Amt_Lemförde/boroughs~Altes_Amt_Lemförde/Lemförde.secret.md) 
+### [Lemförde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Altes_Amt_Lemförde\boroughs~Altes_Amt_LemfördeLemförde.secret.md)
+

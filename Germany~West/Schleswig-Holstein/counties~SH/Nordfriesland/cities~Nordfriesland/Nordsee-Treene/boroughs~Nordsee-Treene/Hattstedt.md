@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.52,9.03] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hattstedt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Nordsee-Treene/boroughs~Nordsee-Treene/Hattstedt.md) 
+### [Hattstedt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Nordsee-Treene\boroughs~Nordsee-TreeneHattstedt.public.md) 
 
-### [Hattstedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Nordsee-Treene/boroughs~Nordsee-Treene/Hattstedt.internal.md) 
+### [Hattstedt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Nordsee-Treene\boroughs~Nordsee-TreeneHattstedt.internal.md) 
 
-### [Hattstedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Nordsee-Treene/boroughs~Nordsee-Treene/Hattstedt.protect.md) 
+### [Hattstedt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Nordsee-Treene\boroughs~Nordsee-TreeneHattstedt.protect.md) 
 
-### [Hattstedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Nordsee-Treene/boroughs~Nordsee-Treene/Hattstedt.private.md) 
+### [Hattstedt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Nordsee-Treene\boroughs~Nordsee-TreeneHattstedt.private.md) 
 
-### [Hattstedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Nordsee-Treene/boroughs~Nordsee-Treene/Hattstedt.personal.md) 
+### [Hattstedt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Nordsee-Treene\boroughs~Nordsee-TreeneHattstedt.personal.md) 
 
-### [Hattstedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Nordsee-Treene/boroughs~Nordsee-Treene/Hattstedt.secret.md) 
+### [Hattstedt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Nordsee-Treene\boroughs~Nordsee-TreeneHattstedt.secret.md)
+

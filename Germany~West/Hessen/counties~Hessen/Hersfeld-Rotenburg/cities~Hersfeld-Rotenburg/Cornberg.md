@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.03,9.87] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cornberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Cornberg.md) 
+### [Cornberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hersfeld-Rotenburg\cities~Hersfeld-RotenburgCornberg.public.md) 
 
-### [Cornberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Cornberg.internal.md) 
+### [Cornberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hersfeld-Rotenburg\cities~Hersfeld-RotenburgCornberg.internal.md) 
 
-### [Cornberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Cornberg.protect.md) 
+### [Cornberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hersfeld-Rotenburg\cities~Hersfeld-RotenburgCornberg.protect.md) 
 
-### [Cornberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Cornberg.private.md) 
+### [Cornberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hersfeld-Rotenburg\cities~Hersfeld-RotenburgCornberg.private.md) 
 
-### [Cornberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Cornberg.personal.md) 
+### [Cornberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hersfeld-Rotenburg\cities~Hersfeld-RotenburgCornberg.personal.md) 
 
-### [Cornberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Cornberg.secret.md) 
+### [Cornberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hersfeld-Rotenburg\cities~Hersfeld-RotenburgCornberg.secret.md)
+

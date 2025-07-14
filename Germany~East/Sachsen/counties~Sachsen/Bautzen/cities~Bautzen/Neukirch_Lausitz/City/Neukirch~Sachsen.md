@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.1,14.32] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neukirch~Sachsen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neukirch_Lausitz/City/Neukirch~Sachsen.md) 
+### [Neukirch~Sachsen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Neukirch_Lausitz\CityNeukirch~Sachsen.public.md) 
 
-### [Neukirch~Sachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neukirch_Lausitz/City/Neukirch~Sachsen.internal.md) 
+### [Neukirch~Sachsen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Neukirch_Lausitz\CityNeukirch~Sachsen.internal.md) 
 
-### [Neukirch~Sachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neukirch_Lausitz/City/Neukirch~Sachsen.protect.md) 
+### [Neukirch~Sachsen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Neukirch_Lausitz\CityNeukirch~Sachsen.protect.md) 
 
-### [Neukirch~Sachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neukirch_Lausitz/City/Neukirch~Sachsen.private.md) 
+### [Neukirch~Sachsen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Neukirch_Lausitz\CityNeukirch~Sachsen.private.md) 
 
-### [Neukirch~Sachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neukirch_Lausitz/City/Neukirch~Sachsen.personal.md) 
+### [Neukirch~Sachsen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Neukirch_Lausitz\CityNeukirch~Sachsen.personal.md) 
 
-### [Neukirch~Sachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neukirch_Lausitz/City/Neukirch~Sachsen.secret.md) 
+### [Neukirch~Sachsen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Neukirch_Lausitz\CityNeukirch~Sachsen.secret.md)
+

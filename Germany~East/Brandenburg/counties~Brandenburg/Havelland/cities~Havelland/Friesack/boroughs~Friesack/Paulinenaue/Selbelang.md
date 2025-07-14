@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.65,12.67] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Selbelang](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Paulinenaue/Selbelang.md) 
+### [Selbelang.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~Havelland\Friesack\boroughs~Friesack\PaulinenaueSelbelang.public.md) 
 
-### [Selbelang.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Paulinenaue/Selbelang.internal.md) 
+### [Selbelang.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~Havelland\Friesack\boroughs~Friesack\PaulinenaueSelbelang.internal.md) 
 
-### [Selbelang.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Paulinenaue/Selbelang.protect.md) 
+### [Selbelang.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~Havelland\Friesack\boroughs~Friesack\PaulinenaueSelbelang.protect.md) 
 
-### [Selbelang.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Paulinenaue/Selbelang.private.md) 
+### [Selbelang.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~Havelland\Friesack\boroughs~Friesack\PaulinenaueSelbelang.private.md) 
 
-### [Selbelang.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Paulinenaue/Selbelang.personal.md) 
+### [Selbelang.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~Havelland\Friesack\boroughs~Friesack\PaulinenaueSelbelang.personal.md) 
 
-### [Selbelang.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Paulinenaue/Selbelang.secret.md) 
+### [Selbelang.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~Havelland\Friesack\boroughs~Friesack\PaulinenaueSelbelang.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.81,8.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -37,16 +37,18 @@ mit enger und gedrängter Bebauung mittelalterlicher Gebäude.
 In der Marburger Altstadt findet man mehr als 700 historische Häuser, 
 die zum größten Teil in der Zeit zwischen dem 14.- und 19. Jahrhundert erbaut wurden.
 
+
 ## Confidential Links & Embeds: 
 
-### [Marburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Marburg.md) 
+### [Marburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-BiedenkopfMarburg.public.md) 
 
-### [Marburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Marburg.internal.md) 
+### [Marburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-BiedenkopfMarburg.internal.md) 
 
-### [Marburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Marburg.protect.md) 
+### [Marburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-BiedenkopfMarburg.protect.md) 
 
-### [Marburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Marburg.private.md) 
+### [Marburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-BiedenkopfMarburg.private.md) 
 
-### [Marburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Marburg.personal.md) 
+### [Marburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-BiedenkopfMarburg.personal.md) 
 
-### [Marburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Marburg.secret.md) 
+### [Marburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-BiedenkopfMarburg.secret.md)
+

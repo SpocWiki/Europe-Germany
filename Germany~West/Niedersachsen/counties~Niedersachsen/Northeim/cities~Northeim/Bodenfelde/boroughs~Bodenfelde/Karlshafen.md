@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.63,9.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Karlshafen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bodenfelde/boroughs~Bodenfelde/Karlshafen.md) 
+### [Karlshafen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Bodenfelde\boroughs~BodenfeldeKarlshafen.public.md) 
 
-### [Karlshafen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bodenfelde/boroughs~Bodenfelde/Karlshafen.internal.md) 
+### [Karlshafen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Bodenfelde\boroughs~BodenfeldeKarlshafen.internal.md) 
 
-### [Karlshafen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bodenfelde/boroughs~Bodenfelde/Karlshafen.protect.md) 
+### [Karlshafen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Bodenfelde\boroughs~BodenfeldeKarlshafen.protect.md) 
 
-### [Karlshafen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bodenfelde/boroughs~Bodenfelde/Karlshafen.private.md) 
+### [Karlshafen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Bodenfelde\boroughs~BodenfeldeKarlshafen.private.md) 
 
-### [Karlshafen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bodenfelde/boroughs~Bodenfelde/Karlshafen.personal.md) 
+### [Karlshafen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Bodenfelde\boroughs~BodenfeldeKarlshafen.personal.md) 
 
-### [Karlshafen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bodenfelde/boroughs~Bodenfelde/Karlshafen.secret.md) 
+### [Karlshafen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Bodenfelde\boroughs~BodenfeldeKarlshafen.secret.md)
+

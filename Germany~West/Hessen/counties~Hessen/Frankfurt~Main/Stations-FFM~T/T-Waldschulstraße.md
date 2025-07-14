@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.10028,8.603362] 
 type: Station 
 mapzoom: [8,18] 
@@ -30,14 +30,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [T-Waldschulstraße](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Waldschulstraße.md) 
+### [T-Waldschulstraße.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Waldschulstraße.public.md) 
 
-### [T-Waldschulstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Waldschulstraße.internal.md) 
+### [T-Waldschulstraße.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Waldschulstraße.internal.md) 
 
-### [T-Waldschulstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Waldschulstraße.protect.md) 
+### [T-Waldschulstraße.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Waldschulstraße.protect.md) 
 
-### [T-Waldschulstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Waldschulstraße.private.md) 
+### [T-Waldschulstraße.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Waldschulstraße.private.md) 
 
-### [T-Waldschulstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Waldschulstraße.personal.md) 
+### [T-Waldschulstraße.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Waldschulstraße.personal.md) 
 
-### [T-Waldschulstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Waldschulstraße.secret.md) 
+### [T-Waldschulstraße.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Waldschulstraße.secret.md)
+

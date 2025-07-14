@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.83,6.27] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Emmerich,Rhein](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Emmerich,Rhein.md) 
+### [Emmerich,Rhein.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveEmmerich,Rhein.public.md) 
 
-### [Emmerich,Rhein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Emmerich,Rhein.internal.md) 
+### [Emmerich,Rhein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveEmmerich,Rhein.internal.md) 
 
-### [Emmerich,Rhein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Emmerich,Rhein.protect.md) 
+### [Emmerich,Rhein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveEmmerich,Rhein.protect.md) 
 
-### [Emmerich,Rhein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Emmerich,Rhein.private.md) 
+### [Emmerich,Rhein.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveEmmerich,Rhein.private.md) 
 
-### [Emmerich,Rhein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Emmerich,Rhein.personal.md) 
+### [Emmerich,Rhein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveEmmerich,Rhein.personal.md) 
 
-### [Emmerich,Rhein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Emmerich,Rhein.secret.md) 
+### [Emmerich,Rhein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveEmmerich,Rhein.secret.md)
+

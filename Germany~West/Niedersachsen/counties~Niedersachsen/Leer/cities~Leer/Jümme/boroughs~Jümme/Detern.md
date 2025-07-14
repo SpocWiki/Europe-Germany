@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.2,7.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Detern](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Jümme/boroughs~Jümme/Detern.md) 
+### [Detern.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~Leer\Jümme\boroughs~JümmeDetern.public.md) 
 
-### [Detern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Jümme/boroughs~Jümme/Detern.internal.md) 
+### [Detern.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~Leer\Jümme\boroughs~JümmeDetern.internal.md) 
 
-### [Detern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Jümme/boroughs~Jümme/Detern.protect.md) 
+### [Detern.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~Leer\Jümme\boroughs~JümmeDetern.protect.md) 
 
-### [Detern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Jümme/boroughs~Jümme/Detern.private.md) 
+### [Detern.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~Leer\Jümme\boroughs~JümmeDetern.private.md) 
 
-### [Detern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Jümme/boroughs~Jümme/Detern.personal.md) 
+### [Detern.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~Leer\Jümme\boroughs~JümmeDetern.personal.md) 
 
-### [Detern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Jümme/boroughs~Jümme/Detern.secret.md) 
+### [Detern.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~Leer\Jümme\boroughs~JümmeDetern.secret.md)
+

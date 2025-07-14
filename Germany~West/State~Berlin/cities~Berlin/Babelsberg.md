@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.41,13.11] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Babelsberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Babelsberg.md) 
+### [Babelsberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinBabelsberg.public.md) 
 
-### [Babelsberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Babelsberg.internal.md) 
+### [Babelsberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinBabelsberg.internal.md) 
 
-### [Babelsberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Babelsberg.protect.md) 
+### [Babelsberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinBabelsberg.protect.md) 
 
-### [Babelsberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Babelsberg.private.md) 
+### [Babelsberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinBabelsberg.private.md) 
 
-### [Babelsberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Babelsberg.personal.md) 
+### [Babelsberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinBabelsberg.personal.md) 
 
-### [Babelsberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Babelsberg.secret.md) 
+### [Babelsberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinBabelsberg.secret.md)
+

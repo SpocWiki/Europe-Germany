@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.1,8.47] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kriftel](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Kriftel.md) 
+### [Kriftel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Taunus-Kreis\cities~Main-Taunus\Hofheim~Taunus\boroughs~Hofheim~TsKriftel.public.md) 
 
-### [Kriftel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Kriftel.internal.md) 
+### [Kriftel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Taunus-Kreis\cities~Main-Taunus\Hofheim~Taunus\boroughs~Hofheim~TsKriftel.internal.md) 
 
-### [Kriftel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Kriftel.protect.md) 
+### [Kriftel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Taunus-Kreis\cities~Main-Taunus\Hofheim~Taunus\boroughs~Hofheim~TsKriftel.protect.md) 
 
-### [Kriftel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Kriftel.private.md) 
+### [Kriftel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Taunus-Kreis\cities~Main-Taunus\Hofheim~Taunus\boroughs~Hofheim~TsKriftel.private.md) 
 
-### [Kriftel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Kriftel.personal.md) 
+### [Kriftel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Taunus-Kreis\cities~Main-Taunus\Hofheim~Taunus\boroughs~Hofheim~TsKriftel.personal.md) 
 
-### [Kriftel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Kriftel.secret.md) 
+### [Kriftel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Taunus-Kreis\cities~Main-Taunus\Hofheim~Taunus\boroughs~Hofheim~TsKriftel.secret.md)
+

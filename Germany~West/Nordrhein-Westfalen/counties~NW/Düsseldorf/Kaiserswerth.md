@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.3,6.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kaiserswerth](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düsseldorf/Kaiserswerth.md) 
+### [Kaiserswerth.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DüsseldorfKaiserswerth.public.md) 
 
-### [Kaiserswerth.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düsseldorf/Kaiserswerth.internal.md) 
+### [Kaiserswerth.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DüsseldorfKaiserswerth.internal.md) 
 
-### [Kaiserswerth.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düsseldorf/Kaiserswerth.protect.md) 
+### [Kaiserswerth.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DüsseldorfKaiserswerth.protect.md) 
 
-### [Kaiserswerth.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düsseldorf/Kaiserswerth.private.md) 
+### [Kaiserswerth.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DüsseldorfKaiserswerth.private.md) 
 
-### [Kaiserswerth.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düsseldorf/Kaiserswerth.personal.md) 
+### [Kaiserswerth.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DüsseldorfKaiserswerth.personal.md) 
 
-### [Kaiserswerth.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düsseldorf/Kaiserswerth.secret.md) 
+### [Kaiserswerth.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DüsseldorfKaiserswerth.secret.md)
+

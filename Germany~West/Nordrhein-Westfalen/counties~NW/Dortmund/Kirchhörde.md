@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.45,7.47] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kirchhörde](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Dortmund/Kirchhörde.md) 
+### [Kirchhörde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DortmundKirchhörde.public.md) 
 
-### [Kirchhörde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Dortmund/Kirchhörde.internal.md) 
+### [Kirchhörde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DortmundKirchhörde.internal.md) 
 
-### [Kirchhörde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Dortmund/Kirchhörde.protect.md) 
+### [Kirchhörde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DortmundKirchhörde.protect.md) 
 
-### [Kirchhörde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Dortmund/Kirchhörde.private.md) 
+### [Kirchhörde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DortmundKirchhörde.private.md) 
 
-### [Kirchhörde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Dortmund/Kirchhörde.personal.md) 
+### [Kirchhörde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DortmundKirchhörde.personal.md) 
 
-### [Kirchhörde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Dortmund/Kirchhörde.secret.md) 
+### [Kirchhörde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DortmundKirchhörde.secret.md)
+

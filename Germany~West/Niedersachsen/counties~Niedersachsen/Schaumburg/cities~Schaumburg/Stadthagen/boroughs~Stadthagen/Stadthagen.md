@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.32,9.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stadthagen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen.md) 
+### [Stadthagen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Stadthagen\boroughs~StadthagenStadthagen.public.md) 
 
-### [Stadthagen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen.internal.md) 
+### [Stadthagen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Stadthagen\boroughs~StadthagenStadthagen.internal.md) 
 
-### [Stadthagen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen.protect.md) 
+### [Stadthagen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Stadthagen\boroughs~StadthagenStadthagen.protect.md) 
 
-### [Stadthagen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen.private.md) 
+### [Stadthagen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Stadthagen\boroughs~StadthagenStadthagen.private.md) 
 
-### [Stadthagen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen.personal.md) 
+### [Stadthagen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Stadthagen\boroughs~StadthagenStadthagen.personal.md) 
 
-### [Stadthagen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen.secret.md) 
+### [Stadthagen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Stadthagen\boroughs~StadthagenStadthagen.secret.md)
+

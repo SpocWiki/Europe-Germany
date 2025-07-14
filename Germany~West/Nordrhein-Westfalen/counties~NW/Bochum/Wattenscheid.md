@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.48,7.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wattenscheid](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Bochum/Wattenscheid.md) 
+### [Wattenscheid.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BochumWattenscheid.public.md) 
 
-### [Wattenscheid.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Bochum/Wattenscheid.internal.md) 
+### [Wattenscheid.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BochumWattenscheid.internal.md) 
 
-### [Wattenscheid.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Bochum/Wattenscheid.protect.md) 
+### [Wattenscheid.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BochumWattenscheid.protect.md) 
 
-### [Wattenscheid.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Bochum/Wattenscheid.private.md) 
+### [Wattenscheid.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BochumWattenscheid.private.md) 
 
-### [Wattenscheid.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Bochum/Wattenscheid.personal.md) 
+### [Wattenscheid.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BochumWattenscheid.personal.md) 
 
-### [Wattenscheid.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Bochum/Wattenscheid.secret.md) 
+### [Wattenscheid.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BochumWattenscheid.secret.md)
+

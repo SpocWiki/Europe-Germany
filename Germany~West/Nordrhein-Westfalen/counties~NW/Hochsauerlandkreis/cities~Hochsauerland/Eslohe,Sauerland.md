@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.27,8.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eslohe,Sauerland](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Eslohe,Sauerland.md) 
+### [Eslohe,Sauerland.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandEslohe,Sauerland.public.md) 
 
-### [Eslohe,Sauerland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Eslohe,Sauerland.internal.md) 
+### [Eslohe,Sauerland.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandEslohe,Sauerland.internal.md) 
 
-### [Eslohe,Sauerland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Eslohe,Sauerland.protect.md) 
+### [Eslohe,Sauerland.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandEslohe,Sauerland.protect.md) 
 
-### [Eslohe,Sauerland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Eslohe,Sauerland.private.md) 
+### [Eslohe,Sauerland.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandEslohe,Sauerland.private.md) 
 
-### [Eslohe,Sauerland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Eslohe,Sauerland.personal.md) 
+### [Eslohe,Sauerland.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandEslohe,Sauerland.personal.md) 
 
-### [Eslohe,Sauerland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Eslohe,Sauerland.secret.md) 
+### [Eslohe,Sauerland.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandEslohe,Sauerland.secret.md)
+

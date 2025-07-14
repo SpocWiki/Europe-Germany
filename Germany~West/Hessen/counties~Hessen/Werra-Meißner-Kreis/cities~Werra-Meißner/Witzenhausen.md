@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.35,9.87] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Witzenhausen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen.md) 
+### [Witzenhausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-MeißnerWitzenhausen.public.md) 
 
-### [Witzenhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen.internal.md) 
+### [Witzenhausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-MeißnerWitzenhausen.internal.md) 
 
-### [Witzenhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen.protect.md) 
+### [Witzenhausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-MeißnerWitzenhausen.protect.md) 
 
-### [Witzenhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen.private.md) 
+### [Witzenhausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-MeißnerWitzenhausen.private.md) 
 
-### [Witzenhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen.personal.md) 
+### [Witzenhausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-MeißnerWitzenhausen.personal.md) 
 
-### [Witzenhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen.secret.md) 
+### [Witzenhausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-MeißnerWitzenhausen.secret.md)
+

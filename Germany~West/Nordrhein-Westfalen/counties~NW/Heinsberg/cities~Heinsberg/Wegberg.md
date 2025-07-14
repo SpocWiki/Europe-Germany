@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.15,6.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wegberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Wegberg.md) 
+### [Wegberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~HeinsbergWegberg.public.md) 
 
-### [Wegberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Wegberg.internal.md) 
+### [Wegberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~HeinsbergWegberg.internal.md) 
 
-### [Wegberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Wegberg.protect.md) 
+### [Wegberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~HeinsbergWegberg.protect.md) 
 
-### [Wegberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Wegberg.private.md) 
+### [Wegberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~HeinsbergWegberg.private.md) 
 
-### [Wegberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Wegberg.personal.md) 
+### [Wegberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~HeinsbergWegberg.personal.md) 
 
-### [Wegberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Wegberg.secret.md) 
+### [Wegberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~HeinsbergWegberg.secret.md)
+

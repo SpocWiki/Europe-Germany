@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 54.12 , 10.42 ] 
 type: geo-Region
 title: _Lakes
@@ -41,14 +41,15 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 
-### [_Lakes](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/_Lakes.md) 
+### [_Lakes.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein_Lakes.public.md) 
 
-### [_Lakes.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/_Lakes.internal.md) 
+### [_Lakes.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein_Lakes.internal.md) 
 
-### [_Lakes.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/_Lakes.protect.md) 
+### [_Lakes.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein_Lakes.protect.md) 
 
-### [_Lakes.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/_Lakes.private.md) 
+### [_Lakes.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein_Lakes.private.md) 
 
-### [_Lakes.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/_Lakes.personal.md) 
+### [_Lakes.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein_Lakes.personal.md) 
 
-### [_Lakes.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/_Lakes.secret.md) 
+### [_Lakes.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein_Lakes.secret.md)
+

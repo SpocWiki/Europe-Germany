@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.32,13.87] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Prenzlau](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Prenzlau.md) 
+### [Prenzlau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~UckermarkPrenzlau.public.md) 
 
-### [Prenzlau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Prenzlau.internal.md) 
+### [Prenzlau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~UckermarkPrenzlau.internal.md) 
 
-### [Prenzlau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Prenzlau.protect.md) 
+### [Prenzlau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~UckermarkPrenzlau.protect.md) 
 
-### [Prenzlau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Prenzlau.private.md) 
+### [Prenzlau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~UckermarkPrenzlau.private.md) 
 
-### [Prenzlau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Prenzlau.personal.md) 
+### [Prenzlau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~UckermarkPrenzlau.personal.md) 
 
-### [Prenzlau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Prenzlau.secret.md) 
+### [Prenzlau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~UckermarkPrenzlau.secret.md)
+

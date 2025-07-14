@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.83,10.02] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -36,14 +36,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vacha](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Vacha.md) 
+### [Vacha.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~WartburgkreisVacha.public.md) 
 
-### [Vacha.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Vacha.internal.md) 
+### [Vacha.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~WartburgkreisVacha.internal.md) 
 
-### [Vacha.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Vacha.protect.md) 
+### [Vacha.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~WartburgkreisVacha.protect.md) 
 
-### [Vacha.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Vacha.private.md) 
+### [Vacha.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~WartburgkreisVacha.private.md) 
 
-### [Vacha.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Vacha.personal.md) 
+### [Vacha.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~WartburgkreisVacha.personal.md) 
 
-### [Vacha.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Vacha.secret.md) 
+### [Vacha.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~WartburgkreisVacha.secret.md)
+

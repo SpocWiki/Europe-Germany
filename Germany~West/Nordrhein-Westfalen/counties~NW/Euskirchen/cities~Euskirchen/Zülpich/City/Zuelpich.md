@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.7,6.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zuelpich](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Zülpich/City/Zuelpich.md) 
+### [Zuelpich.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Zülpich\CityZuelpich.public.md) 
 
-### [Zuelpich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Zülpich/City/Zuelpich.internal.md) 
+### [Zuelpich.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Zülpich\CityZuelpich.internal.md) 
 
-### [Zuelpich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Zülpich/City/Zuelpich.protect.md) 
+### [Zuelpich.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Zülpich\CityZuelpich.protect.md) 
 
-### [Zuelpich.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Zülpich/City/Zuelpich.private.md) 
+### [Zuelpich.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Zülpich\CityZuelpich.private.md) 
 
-### [Zuelpich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Zülpich/City/Zuelpich.personal.md) 
+### [Zuelpich.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Zülpich\CityZuelpich.personal.md) 
 
-### [Zuelpich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Zülpich/City/Zuelpich.secret.md) 
+### [Zuelpich.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Zülpich\CityZuelpich.secret.md)
+

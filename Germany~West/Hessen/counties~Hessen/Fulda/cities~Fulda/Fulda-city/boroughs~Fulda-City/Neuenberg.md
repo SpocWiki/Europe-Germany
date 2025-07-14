@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.55,9.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neuenberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Fulda-city/boroughs~Fulda-City/Neuenberg.md) 
+### [Neuenberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~Fulda\Fulda-city\boroughs~Fulda-CityNeuenberg.public.md) 
 
-### [Neuenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Fulda-city/boroughs~Fulda-City/Neuenberg.internal.md) 
+### [Neuenberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~Fulda\Fulda-city\boroughs~Fulda-CityNeuenberg.internal.md) 
 
-### [Neuenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Fulda-city/boroughs~Fulda-City/Neuenberg.protect.md) 
+### [Neuenberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~Fulda\Fulda-city\boroughs~Fulda-CityNeuenberg.protect.md) 
 
-### [Neuenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Fulda-city/boroughs~Fulda-City/Neuenberg.private.md) 
+### [Neuenberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~Fulda\Fulda-city\boroughs~Fulda-CityNeuenberg.private.md) 
 
-### [Neuenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Fulda-city/boroughs~Fulda-City/Neuenberg.personal.md) 
+### [Neuenberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~Fulda\Fulda-city\boroughs~Fulda-CityNeuenberg.personal.md) 
 
-### [Neuenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Fulda-city/boroughs~Fulda-City/Neuenberg.secret.md) 
+### [Neuenberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~Fulda\Fulda-city\boroughs~Fulda-CityNeuenberg.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.78,13.3] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grabowsee,Oranienburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Oranienburg/Grabowsee,Oranienburg.md) 
+### [Grabowsee,Oranienburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\OranienburgGrabowsee,Oranienburg.public.md) 
 
-### [Grabowsee,Oranienburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Oranienburg/Grabowsee,Oranienburg.internal.md) 
+### [Grabowsee,Oranienburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\OranienburgGrabowsee,Oranienburg.internal.md) 
 
-### [Grabowsee,Oranienburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Oranienburg/Grabowsee,Oranienburg.protect.md) 
+### [Grabowsee,Oranienburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\OranienburgGrabowsee,Oranienburg.protect.md) 
 
-### [Grabowsee,Oranienburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Oranienburg/Grabowsee,Oranienburg.private.md) 
+### [Grabowsee,Oranienburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\OranienburgGrabowsee,Oranienburg.private.md) 
 
-### [Grabowsee,Oranienburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Oranienburg/Grabowsee,Oranienburg.personal.md) 
+### [Grabowsee,Oranienburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\OranienburgGrabowsee,Oranienburg.personal.md) 
 
-### [Grabowsee,Oranienburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Oranienburg/Grabowsee,Oranienburg.secret.md) 
+### [Grabowsee,Oranienburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\OranienburgGrabowsee,Oranienburg.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.92,10.87] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wandersleben](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Nesse-Apfelstädt/City/Wandersleben.md) 
+### [Wandersleben.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Nesse-Apfelstädt\CityWandersleben.public.md) 
 
-### [Wandersleben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Nesse-Apfelstädt/City/Wandersleben.internal.md) 
+### [Wandersleben.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Nesse-Apfelstädt\CityWandersleben.internal.md) 
 
-### [Wandersleben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Nesse-Apfelstädt/City/Wandersleben.protect.md) 
+### [Wandersleben.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Nesse-Apfelstädt\CityWandersleben.protect.md) 
 
-### [Wandersleben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Nesse-Apfelstädt/City/Wandersleben.private.md) 
+### [Wandersleben.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Nesse-Apfelstädt\CityWandersleben.private.md) 
 
-### [Wandersleben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Nesse-Apfelstädt/City/Wandersleben.personal.md) 
+### [Wandersleben.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Nesse-Apfelstädt\CityWandersleben.personal.md) 
 
-### [Wandersleben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Nesse-Apfelstädt/City/Wandersleben.secret.md) 
+### [Wandersleben.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Nesse-Apfelstädt\CityWandersleben.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.83,9.38] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nausis](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neukirchen/boroughs~Neukirchen/Nausis.md) 
+### [Nausis.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-Eder\Neukirchen\boroughs~NeukirchenNausis.public.md) 
 
-### [Nausis.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neukirchen/boroughs~Neukirchen/Nausis.internal.md) 
+### [Nausis.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-Eder\Neukirchen\boroughs~NeukirchenNausis.internal.md) 
 
-### [Nausis.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neukirchen/boroughs~Neukirchen/Nausis.protect.md) 
+### [Nausis.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-Eder\Neukirchen\boroughs~NeukirchenNausis.protect.md) 
 
-### [Nausis.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neukirchen/boroughs~Neukirchen/Nausis.private.md) 
+### [Nausis.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-Eder\Neukirchen\boroughs~NeukirchenNausis.private.md) 
 
-### [Nausis.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neukirchen/boroughs~Neukirchen/Nausis.personal.md) 
+### [Nausis.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-Eder\Neukirchen\boroughs~NeukirchenNausis.personal.md) 
 
-### [Nausis.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neukirchen/boroughs~Neukirchen/Nausis.secret.md) 
+### [Nausis.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-Eder\Neukirchen\boroughs~NeukirchenNausis.secret.md)
+

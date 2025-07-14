@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.83,8.32] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wiedenbrück](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Rheda-Wiedenbrück/Wiedenbrück.md) 
+### [Wiedenbrück.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~Gütersloh\Rheda-WiedenbrückWiedenbrück.public.md) 
 
-### [Wiedenbrück.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Rheda-Wiedenbrück/Wiedenbrück.internal.md) 
+### [Wiedenbrück.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~Gütersloh\Rheda-WiedenbrückWiedenbrück.internal.md) 
 
-### [Wiedenbrück.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Rheda-Wiedenbrück/Wiedenbrück.protect.md) 
+### [Wiedenbrück.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~Gütersloh\Rheda-WiedenbrückWiedenbrück.protect.md) 
 
-### [Wiedenbrück.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Rheda-Wiedenbrück/Wiedenbrück.private.md) 
+### [Wiedenbrück.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~Gütersloh\Rheda-WiedenbrückWiedenbrück.private.md) 
 
-### [Wiedenbrück.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Rheda-Wiedenbrück/Wiedenbrück.personal.md) 
+### [Wiedenbrück.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~Gütersloh\Rheda-WiedenbrückWiedenbrück.personal.md) 
 
-### [Wiedenbrück.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Rheda-Wiedenbrück/Wiedenbrück.secret.md) 
+### [Wiedenbrück.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~Gütersloh\Rheda-WiedenbrückWiedenbrück.secret.md)
+

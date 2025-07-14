@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54,10.77] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Timmendorfer_Strand](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Timmendorfer_Strand.md) 
+### [Timmendorfer_Strand.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinTimmendorfer_Strand.public.md) 
 
-### [Timmendorfer_Strand.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Timmendorfer_Strand.internal.md) 
+### [Timmendorfer_Strand.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinTimmendorfer_Strand.internal.md) 
 
-### [Timmendorfer_Strand.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Timmendorfer_Strand.protect.md) 
+### [Timmendorfer_Strand.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinTimmendorfer_Strand.protect.md) 
 
-### [Timmendorfer_Strand.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Timmendorfer_Strand.private.md) 
+### [Timmendorfer_Strand.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinTimmendorfer_Strand.private.md) 
 
-### [Timmendorfer_Strand.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Timmendorfer_Strand.personal.md) 
+### [Timmendorfer_Strand.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinTimmendorfer_Strand.personal.md) 
 
-### [Timmendorfer_Strand.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Timmendorfer_Strand.secret.md) 
+### [Timmendorfer_Strand.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinTimmendorfer_Strand.secret.md)
+

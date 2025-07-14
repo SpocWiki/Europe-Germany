@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.07,7.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gimborn,Marienheide](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Marienheide/Gimborn,Marienheide.md) 
+### [Gimborn,Marienheide.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_Kreis\MarienheideGimborn,Marienheide.public.md) 
 
-### [Gimborn,Marienheide.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Marienheide/Gimborn,Marienheide.internal.md) 
+### [Gimborn,Marienheide.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_Kreis\MarienheideGimborn,Marienheide.internal.md) 
 
-### [Gimborn,Marienheide.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Marienheide/Gimborn,Marienheide.protect.md) 
+### [Gimborn,Marienheide.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_Kreis\MarienheideGimborn,Marienheide.protect.md) 
 
-### [Gimborn,Marienheide.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Marienheide/Gimborn,Marienheide.private.md) 
+### [Gimborn,Marienheide.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_Kreis\MarienheideGimborn,Marienheide.private.md) 
 
-### [Gimborn,Marienheide.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Marienheide/Gimborn,Marienheide.personal.md) 
+### [Gimborn,Marienheide.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_Kreis\MarienheideGimborn,Marienheide.personal.md) 
 
-### [Gimborn,Marienheide.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Marienheide/Gimborn,Marienheide.secret.md) 
+### [Gimborn,Marienheide.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_Kreis\MarienheideGimborn,Marienheide.secret.md)
+

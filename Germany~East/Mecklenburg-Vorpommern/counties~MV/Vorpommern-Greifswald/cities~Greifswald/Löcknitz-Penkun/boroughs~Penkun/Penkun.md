@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.3,14.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Penkun](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Löcknitz-Penkun/boroughs~Penkun/Penkun.md) 
+### [Penkun.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Löcknitz-Penkun\boroughs~PenkunPenkun.public.md) 
 
-### [Penkun.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Löcknitz-Penkun/boroughs~Penkun/Penkun.internal.md) 
+### [Penkun.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Löcknitz-Penkun\boroughs~PenkunPenkun.internal.md) 
 
-### [Penkun.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Löcknitz-Penkun/boroughs~Penkun/Penkun.protect.md) 
+### [Penkun.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Löcknitz-Penkun\boroughs~PenkunPenkun.protect.md) 
 
-### [Penkun.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Löcknitz-Penkun/boroughs~Penkun/Penkun.private.md) 
+### [Penkun.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Löcknitz-Penkun\boroughs~PenkunPenkun.private.md) 
 
-### [Penkun.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Löcknitz-Penkun/boroughs~Penkun/Penkun.personal.md) 
+### [Penkun.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Löcknitz-Penkun\boroughs~PenkunPenkun.personal.md) 
 
-### [Penkun.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Löcknitz-Penkun/boroughs~Penkun/Penkun.secret.md) 
+### [Penkun.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Löcknitz-Penkun\boroughs~PenkunPenkun.secret.md)
+

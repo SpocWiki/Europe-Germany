@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.85,7.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nieder-Zündorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Köln/Nieder-Zündorf.md) 
+### [Nieder-Zündorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnNieder-Zündorf.public.md) 
 
-### [Nieder-Zündorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Köln/Nieder-Zündorf.internal.md) 
+### [Nieder-Zündorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnNieder-Zündorf.internal.md) 
 
-### [Nieder-Zündorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Köln/Nieder-Zündorf.protect.md) 
+### [Nieder-Zündorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnNieder-Zündorf.protect.md) 
 
-### [Nieder-Zündorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Köln/Nieder-Zündorf.private.md) 
+### [Nieder-Zündorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnNieder-Zündorf.private.md) 
 
-### [Nieder-Zündorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Köln/Nieder-Zündorf.personal.md) 
+### [Nieder-Zündorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnNieder-Zündorf.personal.md) 
 
-### [Nieder-Zündorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Köln/Nieder-Zündorf.secret.md) 
+### [Nieder-Zündorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnNieder-Zündorf.secret.md)
+

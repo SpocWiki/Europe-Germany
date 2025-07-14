@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.6,6.65] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mechernich](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Mechernich.md) 
+### [Mechernich.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~EuskirchenMechernich.public.md) 
 
-### [Mechernich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Mechernich.internal.md) 
+### [Mechernich.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~EuskirchenMechernich.internal.md) 
 
-### [Mechernich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Mechernich.protect.md) 
+### [Mechernich.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~EuskirchenMechernich.protect.md) 
 
-### [Mechernich.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Mechernich.private.md) 
+### [Mechernich.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~EuskirchenMechernich.private.md) 
 
-### [Mechernich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Mechernich.personal.md) 
+### [Mechernich.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~EuskirchenMechernich.personal.md) 
 
-### [Mechernich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Mechernich.secret.md) 
+### [Mechernich.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~EuskirchenMechernich.secret.md)
+

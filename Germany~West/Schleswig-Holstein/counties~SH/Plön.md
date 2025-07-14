@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.17,10.42] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -39,14 +39,15 @@ markerFolder: ./Plön//
 
 ## Confidential Links & Embeds: 
 
-### [Plön](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön.md) 
+### [Plön.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SHPlön.public.md) 
 
-### [Plön.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön.internal.md) 
+### [Plön.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SHPlön.internal.md) 
 
-### [Plön.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön.protect.md) 
+### [Plön.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SHPlön.protect.md) 
 
-### [Plön.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön.private.md) 
+### [Plön.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SHPlön.private.md) 
 
-### [Plön.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön.personal.md) 
+### [Plön.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SHPlön.personal.md) 
 
-### [Plön.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön.secret.md) 
+### [Plön.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SHPlön.secret.md)
+

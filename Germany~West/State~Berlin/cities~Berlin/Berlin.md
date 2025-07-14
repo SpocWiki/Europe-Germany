@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 52.5
 - 13.5
@@ -282,16 +282,18 @@ Museumsinsel Berlin ([[Unesco]] Welterbe seit 1999)
 [[../../../../../../../../../assets/geo/Europe/Germany/Berlin/Berlin~Gartenstadt_Falkenberg.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Berlin/Berlin~Gartenstadt_Falkenberg.webp]]] 
 Siedlungen der Berliner Moderne ([[Unesco]] Welterbe seit 2008) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Berlin](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Berlin.md) 
+### [Berlin.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinBerlin.public.md) 
 
-### [Berlin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Berlin.internal.md) 
+### [Berlin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinBerlin.internal.md) 
 
-### [Berlin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Berlin.protect.md) 
+### [Berlin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinBerlin.protect.md) 
 
-### [Berlin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Berlin.private.md) 
+### [Berlin.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinBerlin.private.md) 
 
-### [Berlin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Berlin.personal.md) 
+### [Berlin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinBerlin.personal.md) 
 
-### [Berlin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Berlin.secret.md) 
+### [Berlin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinBerlin.secret.md)
+

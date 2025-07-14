@@ -17,3 +17,19 @@ Anderthalb Kilometer vor der Küste befindet sich in der Ostsee das Forschungszw
 Umgeben wird Nienhagen von den Nachbargemeinden [Elmenhorst/Lichtenhagen](https://de.wikipedia.org/wiki/Elmenhorst/Lichtenhagen "Elmenhorst/Lichtenhagen") im Osten, [Admannshagen-Bargeshagen](https://de.wikipedia.org/wiki/Admannshagen-Bargeshagen "Admannshagen-Bargeshagen") im Süden und [Börgerende-Rethwisch](https://de.wikipedia.org/wiki/B%C3%B6rgerende-Rethwisch "Börgerende-Rethwisch") im Südwesten.
 
 ![[../../../../../../../../../assets/Pictures/Landscape/Gespensterwald-Nienhagen-3-1068x712.jpg]]
+
+
+## Confidential Links & Embeds: 
+
+### [Gespensterwald,Nienhagen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\_SightsGespensterwald,Nienhagen.public.md) 
+
+### [Gespensterwald,Nienhagen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\_SightsGespensterwald,Nienhagen.internal.md) 
+
+### [Gespensterwald,Nienhagen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\_SightsGespensterwald,Nienhagen.protect.md) 
+
+### [Gespensterwald,Nienhagen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\_SightsGespensterwald,Nienhagen.private.md) 
+
+### [Gespensterwald,Nienhagen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\_SightsGespensterwald,Nienhagen.personal.md) 
+
+### [Gespensterwald,Nienhagen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\_SightsGespensterwald,Nienhagen.secret.md)
+

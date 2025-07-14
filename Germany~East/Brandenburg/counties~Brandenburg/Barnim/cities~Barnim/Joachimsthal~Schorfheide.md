@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.97,13.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -37,14 +37,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Joachimsthal~Schorfheide](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide.md) 
+### [Joachimsthal~Schorfheide.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Barnim\cities~BarnimJoachimsthal~Schorfheide.public.md) 
 
-### [Joachimsthal~Schorfheide.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide.internal.md) 
+### [Joachimsthal~Schorfheide.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Barnim\cities~BarnimJoachimsthal~Schorfheide.internal.md) 
 
-### [Joachimsthal~Schorfheide.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide.protect.md) 
+### [Joachimsthal~Schorfheide.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Barnim\cities~BarnimJoachimsthal~Schorfheide.protect.md) 
 
-### [Joachimsthal~Schorfheide.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide.private.md) 
+### [Joachimsthal~Schorfheide.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Barnim\cities~BarnimJoachimsthal~Schorfheide.private.md) 
 
-### [Joachimsthal~Schorfheide.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide.personal.md) 
+### [Joachimsthal~Schorfheide.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Barnim\cities~BarnimJoachimsthal~Schorfheide.personal.md) 
 
-### [Joachimsthal~Schorfheide.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide.secret.md) 
+### [Joachimsthal~Schorfheide.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Barnim\cities~BarnimJoachimsthal~Schorfheide.secret.md)
+

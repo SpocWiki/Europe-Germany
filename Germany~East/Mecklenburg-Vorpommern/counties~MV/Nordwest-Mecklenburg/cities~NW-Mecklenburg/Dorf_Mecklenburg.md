@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.87,11.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dorf_Mecklenburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Dorf_Mecklenburg.md) 
+### [Dorf_Mecklenburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-MecklenburgDorf_Mecklenburg.public.md) 
 
-### [Dorf_Mecklenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Dorf_Mecklenburg.internal.md) 
+### [Dorf_Mecklenburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-MecklenburgDorf_Mecklenburg.internal.md) 
 
-### [Dorf_Mecklenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Dorf_Mecklenburg.protect.md) 
+### [Dorf_Mecklenburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-MecklenburgDorf_Mecklenburg.protect.md) 
 
-### [Dorf_Mecklenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Dorf_Mecklenburg.private.md) 
+### [Dorf_Mecklenburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-MecklenburgDorf_Mecklenburg.private.md) 
 
-### [Dorf_Mecklenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Dorf_Mecklenburg.personal.md) 
+### [Dorf_Mecklenburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-MecklenburgDorf_Mecklenburg.personal.md) 
 
-### [Dorf_Mecklenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Dorf_Mecklenburg.secret.md) 
+### [Dorf_Mecklenburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-MecklenburgDorf_Mecklenburg.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.15,7.33] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Burgsteinfurth-castle](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Burgsteinfurth-castle.md) 
+### [Burgsteinfurth-castle.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~Steinfurt\Steinfurt-cityBurgsteinfurth-castle.public.md) 
 
-### [Burgsteinfurth-castle.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Burgsteinfurth-castle.internal.md) 
+### [Burgsteinfurth-castle.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~Steinfurt\Steinfurt-cityBurgsteinfurth-castle.internal.md) 
 
-### [Burgsteinfurth-castle.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Burgsteinfurth-castle.protect.md) 
+### [Burgsteinfurth-castle.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~Steinfurt\Steinfurt-cityBurgsteinfurth-castle.protect.md) 
 
-### [Burgsteinfurth-castle.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Burgsteinfurth-castle.private.md) 
+### [Burgsteinfurth-castle.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~Steinfurt\Steinfurt-cityBurgsteinfurth-castle.private.md) 
 
-### [Burgsteinfurth-castle.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Burgsteinfurth-castle.personal.md) 
+### [Burgsteinfurth-castle.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~Steinfurt\Steinfurt-cityBurgsteinfurth-castle.personal.md) 
 
-### [Burgsteinfurth-castle.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Burgsteinfurth-castle.secret.md) 
+### [Burgsteinfurth-castle.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~Steinfurt\Steinfurt-cityBurgsteinfurth-castle.secret.md)
+

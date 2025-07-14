@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.83,13.87] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sommerfelde](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Eberswalde/Sommerfelde.md) 
+### [Sommerfelde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Barnim\cities~Barnim\EberswaldeSommerfelde.public.md) 
 
-### [Sommerfelde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Eberswalde/Sommerfelde.internal.md) 
+### [Sommerfelde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Barnim\cities~Barnim\EberswaldeSommerfelde.internal.md) 
 
-### [Sommerfelde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Eberswalde/Sommerfelde.protect.md) 
+### [Sommerfelde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Barnim\cities~Barnim\EberswaldeSommerfelde.protect.md) 
 
-### [Sommerfelde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Eberswalde/Sommerfelde.private.md) 
+### [Sommerfelde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Barnim\cities~Barnim\EberswaldeSommerfelde.private.md) 
 
-### [Sommerfelde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Eberswalde/Sommerfelde.personal.md) 
+### [Sommerfelde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Barnim\cities~Barnim\EberswaldeSommerfelde.personal.md) 
 
-### [Sommerfelde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Eberswalde/Sommerfelde.secret.md) 
+### [Sommerfelde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Barnim\cities~Barnim\EberswaldeSommerfelde.secret.md)
+

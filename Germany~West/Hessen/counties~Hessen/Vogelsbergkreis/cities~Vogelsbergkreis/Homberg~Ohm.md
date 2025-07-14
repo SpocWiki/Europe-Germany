@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.73,9.02] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Homberg~Ohm](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Homberg~Ohm.md) 
+### [Homberg~Ohm.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Vogelsbergkreis\cities~VogelsbergkreisHomberg~Ohm.public.md) 
 
-### [Homberg~Ohm.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Homberg~Ohm.internal.md) 
+### [Homberg~Ohm.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Vogelsbergkreis\cities~VogelsbergkreisHomberg~Ohm.internal.md) 
 
-### [Homberg~Ohm.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Homberg~Ohm.protect.md) 
+### [Homberg~Ohm.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Vogelsbergkreis\cities~VogelsbergkreisHomberg~Ohm.protect.md) 
 
-### [Homberg~Ohm.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Homberg~Ohm.private.md) 
+### [Homberg~Ohm.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Vogelsbergkreis\cities~VogelsbergkreisHomberg~Ohm.private.md) 
 
-### [Homberg~Ohm.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Homberg~Ohm.personal.md) 
+### [Homberg~Ohm.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Vogelsbergkreis\cities~VogelsbergkreisHomberg~Ohm.personal.md) 
 
-### [Homberg~Ohm.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Homberg~Ohm.secret.md) 
+### [Homberg~Ohm.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Vogelsbergkreis\cities~VogelsbergkreisHomberg~Ohm.secret.md)
+

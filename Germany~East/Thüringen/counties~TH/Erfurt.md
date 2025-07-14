@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.97,11.02] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -42,16 +42,18 @@ Hier zu sehen: die berühmte Krämerbrücke.
 [[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Erfurt-alte_Synagoge.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Erfurt-alte_Synagoge.webp]]] 
 Jüdisch-Mittelalterliches Erbe in Erfurt ( [[Unesco]] Welterbe seit 2023) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Erfurt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Erfurt.md) 
+### [Erfurt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~THErfurt.public.md) 
 
-### [Erfurt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Erfurt.internal.md) 
+### [Erfurt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~THErfurt.internal.md) 
 
-### [Erfurt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Erfurt.protect.md) 
+### [Erfurt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~THErfurt.protect.md) 
 
-### [Erfurt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Erfurt.private.md) 
+### [Erfurt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~THErfurt.private.md) 
 
-### [Erfurt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Erfurt.personal.md) 
+### [Erfurt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~THErfurt.personal.md) 
 
-### [Erfurt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Erfurt.secret.md) 
+### [Erfurt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~THErfurt.secret.md)
+

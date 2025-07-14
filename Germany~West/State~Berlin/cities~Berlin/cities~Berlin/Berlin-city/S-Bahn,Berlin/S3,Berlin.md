@@ -54,3 +54,19 @@ S_Warschauer_Straße --> U3_Warschauer_Straße
 class S_Spandau,S_Stresow,S_Pichelsberg,S_Olympiastadion,S_Heerstraße,S_Messe_Süd,S_Westkreuz,S_Charlottenburg,S_Savignyplatz,S_Zoologischer_Garten,S_Tiergarten,S_Bellevue,S_Hauptbahnhof,S_Friedrichstraße,S_Hackescher_Markt,S_Alexanderplatz,S_Jannowitzbrücke,S_Ostbahnhof,S_Warschauer_Straße,S_Ostkreuz,S_Rummelsburg,S_Betriebsbahnhof_Rummelsburg,S_Karlshorst,S_Wuhlheide,S_Köpenick,S_Hirschgarten,S_Friedrichshagen,S_Rahnsdorf,S_Wilhelmshagen,S_Erkner blueText;
 
 ```
+
+
+## Confidential Links & Embeds: 
+
+### [S3,Berlin.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS3,Berlin.public.md) 
+
+### [S3,Berlin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS3,Berlin.internal.md) 
+
+### [S3,Berlin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS3,Berlin.protect.md) 
+
+### [S3,Berlin.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS3,Berlin.private.md) 
+
+### [S3,Berlin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS3,Berlin.personal.md) 
+
+### [S3,Berlin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS3,Berlin.secret.md)
+

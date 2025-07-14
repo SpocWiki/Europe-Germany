@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.05,8.03] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Füchtorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Sassenberg/Füchtorf.md) 
+### [Füchtorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~Warendorf\SassenbergFüchtorf.public.md) 
 
-### [Füchtorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Sassenberg/Füchtorf.internal.md) 
+### [Füchtorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~Warendorf\SassenbergFüchtorf.internal.md) 
 
-### [Füchtorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Sassenberg/Füchtorf.protect.md) 
+### [Füchtorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~Warendorf\SassenbergFüchtorf.protect.md) 
 
-### [Füchtorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Sassenberg/Füchtorf.private.md) 
+### [Füchtorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~Warendorf\SassenbergFüchtorf.private.md) 
 
-### [Füchtorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Sassenberg/Füchtorf.personal.md) 
+### [Füchtorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~Warendorf\SassenbergFüchtorf.personal.md) 
 
-### [Füchtorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Sassenberg/Füchtorf.secret.md) 
+### [Füchtorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~Warendorf\SassenbergFüchtorf.secret.md)
+

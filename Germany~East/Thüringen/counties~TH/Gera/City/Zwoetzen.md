@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.85,12.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zwoetzen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gera/City/Zwoetzen.md) 
+### [Zwoetzen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gera\CityZwoetzen.public.md) 
 
-### [Zwoetzen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gera/City/Zwoetzen.internal.md) 
+### [Zwoetzen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gera\CityZwoetzen.internal.md) 
 
-### [Zwoetzen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gera/City/Zwoetzen.protect.md) 
+### [Zwoetzen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gera\CityZwoetzen.protect.md) 
 
-### [Zwoetzen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gera/City/Zwoetzen.private.md) 
+### [Zwoetzen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gera\CityZwoetzen.private.md) 
 
-### [Zwoetzen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gera/City/Zwoetzen.personal.md) 
+### [Zwoetzen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gera\CityZwoetzen.personal.md) 
 
-### [Zwoetzen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gera/City/Zwoetzen.secret.md) 
+### [Zwoetzen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gera\CityZwoetzen.secret.md)
+

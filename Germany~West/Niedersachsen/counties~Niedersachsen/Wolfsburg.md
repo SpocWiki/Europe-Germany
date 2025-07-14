@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.41,10.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -35,14 +35,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wolfsburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg.md) 
+### [Wolfsburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWolfsburg.public.md) 
 
-### [Wolfsburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg.internal.md) 
+### [Wolfsburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWolfsburg.internal.md) 
 
-### [Wolfsburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg.protect.md) 
+### [Wolfsburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWolfsburg.protect.md) 
 
-### [Wolfsburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg.private.md) 
+### [Wolfsburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWolfsburg.private.md) 
 
-### [Wolfsburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg.personal.md) 
+### [Wolfsburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWolfsburg.personal.md) 
 
-### [Wolfsburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg.secret.md) 
+### [Wolfsburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWolfsburg.secret.md)
+

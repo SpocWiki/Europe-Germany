@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.52,8.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lich](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Lich.md) 
+### [Lich.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Gießen\cities~GießenLich.public.md) 
 
-### [Lich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Lich.internal.md) 
+### [Lich.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Gießen\cities~GießenLich.internal.md) 
 
-### [Lich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Lich.protect.md) 
+### [Lich.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Gießen\cities~GießenLich.protect.md) 
 
-### [Lich.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Lich.private.md) 
+### [Lich.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Gießen\cities~GießenLich.private.md) 
 
-### [Lich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Lich.personal.md) 
+### [Lich.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Gießen\cities~GießenLich.personal.md) 
 
-### [Lich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Lich.secret.md) 
+### [Lich.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Gießen\cities~GießenLich.secret.md)
+

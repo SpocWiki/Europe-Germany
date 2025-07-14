@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.83,9.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Krempe](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Krempermarsch/boroughs~Krempermarsch/Krempe.md) 
+### [Krempe.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~Steinburg\Krempermarsch\boroughs~KrempermarschKrempe.public.md) 
 
-### [Krempe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Krempermarsch/boroughs~Krempermarsch/Krempe.internal.md) 
+### [Krempe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~Steinburg\Krempermarsch\boroughs~KrempermarschKrempe.internal.md) 
 
-### [Krempe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Krempermarsch/boroughs~Krempermarsch/Krempe.protect.md) 
+### [Krempe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~Steinburg\Krempermarsch\boroughs~KrempermarschKrempe.protect.md) 
 
-### [Krempe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Krempermarsch/boroughs~Krempermarsch/Krempe.private.md) 
+### [Krempe.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~Steinburg\Krempermarsch\boroughs~KrempermarschKrempe.private.md) 
 
-### [Krempe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Krempermarsch/boroughs~Krempermarsch/Krempe.personal.md) 
+### [Krempe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~Steinburg\Krempermarsch\boroughs~KrempermarschKrempe.personal.md) 
 
-### [Krempe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Krempermarsch/boroughs~Krempermarsch/Krempe.secret.md) 
+### [Krempe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~Steinburg\Krempermarsch\boroughs~KrempermarschKrempe.secret.md)
+

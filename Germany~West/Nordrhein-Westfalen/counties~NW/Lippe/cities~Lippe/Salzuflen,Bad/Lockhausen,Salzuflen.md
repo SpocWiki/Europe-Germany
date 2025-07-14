@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.07,8.68] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lockhausen,Salzuflen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad/Lockhausen,Salzuflen.md) 
+### [Lockhausen,Salzuflen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~Lippe\Salzuflen,BadLockhausen,Salzuflen.public.md) 
 
-### [Lockhausen,Salzuflen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad/Lockhausen,Salzuflen.internal.md) 
+### [Lockhausen,Salzuflen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~Lippe\Salzuflen,BadLockhausen,Salzuflen.internal.md) 
 
-### [Lockhausen,Salzuflen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad/Lockhausen,Salzuflen.protect.md) 
+### [Lockhausen,Salzuflen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~Lippe\Salzuflen,BadLockhausen,Salzuflen.protect.md) 
 
-### [Lockhausen,Salzuflen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad/Lockhausen,Salzuflen.private.md) 
+### [Lockhausen,Salzuflen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~Lippe\Salzuflen,BadLockhausen,Salzuflen.private.md) 
 
-### [Lockhausen,Salzuflen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad/Lockhausen,Salzuflen.personal.md) 
+### [Lockhausen,Salzuflen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~Lippe\Salzuflen,BadLockhausen,Salzuflen.personal.md) 
 
-### [Lockhausen,Salzuflen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad/Lockhausen,Salzuflen.secret.md) 
+### [Lockhausen,Salzuflen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~Lippe\Salzuflen,BadLockhausen,Salzuflen.secret.md)
+

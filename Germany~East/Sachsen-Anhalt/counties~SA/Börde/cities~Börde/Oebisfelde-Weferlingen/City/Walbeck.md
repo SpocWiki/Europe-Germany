@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.3,11.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Walbeck](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oebisfelde-Weferlingen/City/Walbeck.md) 
+### [Walbeck.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oebisfelde-Weferlingen\CityWalbeck.public.md) 
 
-### [Walbeck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oebisfelde-Weferlingen/City/Walbeck.internal.md) 
+### [Walbeck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oebisfelde-Weferlingen\CityWalbeck.internal.md) 
 
-### [Walbeck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oebisfelde-Weferlingen/City/Walbeck.protect.md) 
+### [Walbeck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oebisfelde-Weferlingen\CityWalbeck.protect.md) 
 
-### [Walbeck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oebisfelde-Weferlingen/City/Walbeck.private.md) 
+### [Walbeck.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oebisfelde-Weferlingen\CityWalbeck.private.md) 
 
-### [Walbeck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oebisfelde-Weferlingen/City/Walbeck.personal.md) 
+### [Walbeck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oebisfelde-Weferlingen\CityWalbeck.personal.md) 
 
-### [Walbeck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oebisfelde-Weferlingen/City/Walbeck.secret.md) 
+### [Walbeck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oebisfelde-Weferlingen\CityWalbeck.secret.md)
+

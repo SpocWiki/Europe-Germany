@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.97,11.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schwanebeck](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Vorharz/City/Schwanebeck.md) 
+### [Schwanebeck.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Vorharz\CitySchwanebeck.public.md) 
 
-### [Schwanebeck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Vorharz/City/Schwanebeck.internal.md) 
+### [Schwanebeck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Vorharz\CitySchwanebeck.internal.md) 
 
-### [Schwanebeck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Vorharz/City/Schwanebeck.protect.md) 
+### [Schwanebeck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Vorharz\CitySchwanebeck.protect.md) 
 
-### [Schwanebeck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Vorharz/City/Schwanebeck.private.md) 
+### [Schwanebeck.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Vorharz\CitySchwanebeck.private.md) 
 
-### [Schwanebeck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Vorharz/City/Schwanebeck.personal.md) 
+### [Schwanebeck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Vorharz\CitySchwanebeck.personal.md) 
 
-### [Schwanebeck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Vorharz/City/Schwanebeck.secret.md) 
+### [Schwanebeck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Vorharz\CitySchwanebeck.secret.md)
+

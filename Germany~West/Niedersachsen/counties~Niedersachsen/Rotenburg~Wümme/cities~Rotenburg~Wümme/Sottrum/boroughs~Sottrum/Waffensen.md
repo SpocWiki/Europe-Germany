@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.13,9.28] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Waffensen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Waffensen.md) 
+### [Waffensen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Sottrum\boroughs~SottrumWaffensen.public.md) 
 
-### [Waffensen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Waffensen.internal.md) 
+### [Waffensen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Sottrum\boroughs~SottrumWaffensen.internal.md) 
 
-### [Waffensen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Waffensen.protect.md) 
+### [Waffensen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Sottrum\boroughs~SottrumWaffensen.protect.md) 
 
-### [Waffensen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Waffensen.private.md) 
+### [Waffensen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Sottrum\boroughs~SottrumWaffensen.private.md) 
 
-### [Waffensen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Waffensen.personal.md) 
+### [Waffensen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Sottrum\boroughs~SottrumWaffensen.personal.md) 
 
-### [Waffensen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Waffensen.secret.md) 
+### [Waffensen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Sottrum\boroughs~SottrumWaffensen.secret.md)
+

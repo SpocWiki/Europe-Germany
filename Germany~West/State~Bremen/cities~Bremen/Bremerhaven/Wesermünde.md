@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.53,8.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -35,14 +35,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wesermünde](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/Wesermünde.md) 
+### [Wesermünde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~Bremen\BremerhavenWesermünde.public.md) 
 
-### [Wesermünde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/Wesermünde.internal.md) 
+### [Wesermünde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~Bremen\BremerhavenWesermünde.internal.md) 
 
-### [Wesermünde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/Wesermünde.protect.md) 
+### [Wesermünde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~Bremen\BremerhavenWesermünde.protect.md) 
 
-### [Wesermünde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/Wesermünde.private.md) 
+### [Wesermünde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~Bremen\BremerhavenWesermünde.private.md) 
 
-### [Wesermünde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/Wesermünde.personal.md) 
+### [Wesermünde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~Bremen\BremerhavenWesermünde.personal.md) 
 
-### [Wesermünde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/Wesermünde.secret.md) 
+### [Wesermünde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~Bremen\BremerhavenWesermünde.secret.md)
+

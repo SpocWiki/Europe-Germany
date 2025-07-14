@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.85,6.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hüthum](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Emmerich,Rhein/Hüthum.md) 
+### [Hüthum.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~Kleve\Emmerich,RheinHüthum.public.md) 
 
-### [Hüthum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Emmerich,Rhein/Hüthum.internal.md) 
+### [Hüthum.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~Kleve\Emmerich,RheinHüthum.internal.md) 
 
-### [Hüthum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Emmerich,Rhein/Hüthum.protect.md) 
+### [Hüthum.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~Kleve\Emmerich,RheinHüthum.protect.md) 
 
-### [Hüthum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Emmerich,Rhein/Hüthum.private.md) 
+### [Hüthum.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~Kleve\Emmerich,RheinHüthum.private.md) 
 
-### [Hüthum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Emmerich,Rhein/Hüthum.personal.md) 
+### [Hüthum.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~Kleve\Emmerich,RheinHüthum.personal.md) 
 
-### [Hüthum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Emmerich,Rhein/Hüthum.secret.md) 
+### [Hüthum.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~Kleve\Emmerich,RheinHüthum.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.17,14.38] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grunow](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Schlaubetal/boroughs~Schlaubetal/Grunow-Dammendorf/Grunow.md) 
+### [Grunow.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\Schlaubetal\boroughs~Schlaubetal\Grunow-DammendorfGrunow.public.md) 
 
-### [Grunow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Schlaubetal/boroughs~Schlaubetal/Grunow-Dammendorf/Grunow.internal.md) 
+### [Grunow.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\Schlaubetal\boroughs~Schlaubetal\Grunow-DammendorfGrunow.internal.md) 
 
-### [Grunow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Schlaubetal/boroughs~Schlaubetal/Grunow-Dammendorf/Grunow.protect.md) 
+### [Grunow.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\Schlaubetal\boroughs~Schlaubetal\Grunow-DammendorfGrunow.protect.md) 
 
-### [Grunow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Schlaubetal/boroughs~Schlaubetal/Grunow-Dammendorf/Grunow.private.md) 
+### [Grunow.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\Schlaubetal\boroughs~Schlaubetal\Grunow-DammendorfGrunow.private.md) 
 
-### [Grunow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Schlaubetal/boroughs~Schlaubetal/Grunow-Dammendorf/Grunow.personal.md) 
+### [Grunow.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\Schlaubetal\boroughs~Schlaubetal\Grunow-DammendorfGrunow.personal.md) 
 
-### [Grunow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Schlaubetal/boroughs~Schlaubetal/Grunow-Dammendorf/Grunow.secret.md) 
+### [Grunow.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\Schlaubetal\boroughs~Schlaubetal\Grunow-DammendorfGrunow.secret.md)
+

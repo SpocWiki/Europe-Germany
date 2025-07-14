@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.55,12.95] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wustermark](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Wustermark.md) 
+### [Wustermark.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~HavellandWustermark.public.md) 
 
-### [Wustermark.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Wustermark.internal.md) 
+### [Wustermark.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~HavellandWustermark.internal.md) 
 
-### [Wustermark.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Wustermark.protect.md) 
+### [Wustermark.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~HavellandWustermark.protect.md) 
 
-### [Wustermark.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Wustermark.private.md) 
+### [Wustermark.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~HavellandWustermark.private.md) 
 
-### [Wustermark.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Wustermark.personal.md) 
+### [Wustermark.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~HavellandWustermark.personal.md) 
 
-### [Wustermark.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Wustermark.secret.md) 
+### [Wustermark.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~HavellandWustermark.secret.md)
+

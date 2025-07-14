@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.83,9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ballie](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie.md) 
+### [Ballie.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Am_Dobrock\boroughs~Am_DobrockBallie.public.md) 
 
-### [Ballie.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie.internal.md) 
+### [Ballie.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Am_Dobrock\boroughs~Am_DobrockBallie.internal.md) 
 
-### [Ballie.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie.protect.md) 
+### [Ballie.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Am_Dobrock\boroughs~Am_DobrockBallie.protect.md) 
 
-### [Ballie.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie.private.md) 
+### [Ballie.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Am_Dobrock\boroughs~Am_DobrockBallie.private.md) 
 
-### [Ballie.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie.personal.md) 
+### [Ballie.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Am_Dobrock\boroughs~Am_DobrockBallie.personal.md) 
 
-### [Ballie.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie.secret.md) 
+### [Ballie.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Am_Dobrock\boroughs~Am_DobrockBallie.secret.md)
+

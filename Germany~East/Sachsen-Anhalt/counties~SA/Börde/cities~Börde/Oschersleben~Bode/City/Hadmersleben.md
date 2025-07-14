@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.02,11.32] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hadmersleben](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Hadmersleben.md) 
+### [Hadmersleben.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oschersleben~Bode\CityHadmersleben.public.md) 
 
-### [Hadmersleben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Hadmersleben.internal.md) 
+### [Hadmersleben.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oschersleben~Bode\CityHadmersleben.internal.md) 
 
-### [Hadmersleben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Hadmersleben.protect.md) 
+### [Hadmersleben.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oschersleben~Bode\CityHadmersleben.protect.md) 
 
-### [Hadmersleben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Hadmersleben.private.md) 
+### [Hadmersleben.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oschersleben~Bode\CityHadmersleben.private.md) 
 
-### [Hadmersleben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Hadmersleben.personal.md) 
+### [Hadmersleben.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oschersleben~Bode\CityHadmersleben.personal.md) 
 
-### [Hadmersleben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Hadmersleben.secret.md) 
+### [Hadmersleben.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oschersleben~Bode\CityHadmersleben.secret.md)
+

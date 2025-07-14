@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.05,13.73] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zschertnitz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Zschertnitz.md) 
+### [Zschertnitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityZschertnitz.public.md) 
 
-### [Zschertnitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Zschertnitz.internal.md) 
+### [Zschertnitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityZschertnitz.internal.md) 
 
-### [Zschertnitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Zschertnitz.protect.md) 
+### [Zschertnitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityZschertnitz.protect.md) 
 
-### [Zschertnitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Zschertnitz.private.md) 
+### [Zschertnitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityZschertnitz.private.md) 
 
-### [Zschertnitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Zschertnitz.personal.md) 
+### [Zschertnitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityZschertnitz.personal.md) 
 
-### [Zschertnitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Zschertnitz.secret.md) 
+### [Zschertnitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityZschertnitz.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.78,6.47] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Haldern](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Rees/Haldern.md) 
+### [Haldern.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~Kleve\ReesHaldern.public.md) 
 
-### [Haldern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Rees/Haldern.internal.md) 
+### [Haldern.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~Kleve\ReesHaldern.internal.md) 
 
-### [Haldern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Rees/Haldern.protect.md) 
+### [Haldern.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~Kleve\ReesHaldern.protect.md) 
 
-### [Haldern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Rees/Haldern.private.md) 
+### [Haldern.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~Kleve\ReesHaldern.private.md) 
 
-### [Haldern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Rees/Haldern.personal.md) 
+### [Haldern.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~Kleve\ReesHaldern.personal.md) 
 
-### [Haldern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Rees/Haldern.secret.md) 
+### [Haldern.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~Kleve\ReesHaldern.secret.md)
+

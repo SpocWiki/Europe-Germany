@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.18,13.18] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kloster_Himmelpfort](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Fürstenberg,Havel/Kloster_Himmelpfort.md) 
+### [Kloster_Himmelpfort.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\Fürstenberg,HavelKloster_Himmelpfort.public.md) 
 
-### [Kloster_Himmelpfort.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Fürstenberg,Havel/Kloster_Himmelpfort.internal.md) 
+### [Kloster_Himmelpfort.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\Fürstenberg,HavelKloster_Himmelpfort.internal.md) 
 
-### [Kloster_Himmelpfort.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Fürstenberg,Havel/Kloster_Himmelpfort.protect.md) 
+### [Kloster_Himmelpfort.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\Fürstenberg,HavelKloster_Himmelpfort.protect.md) 
 
-### [Kloster_Himmelpfort.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Fürstenberg,Havel/Kloster_Himmelpfort.private.md) 
+### [Kloster_Himmelpfort.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\Fürstenberg,HavelKloster_Himmelpfort.private.md) 
 
-### [Kloster_Himmelpfort.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Fürstenberg,Havel/Kloster_Himmelpfort.personal.md) 
+### [Kloster_Himmelpfort.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\Fürstenberg,HavelKloster_Himmelpfort.personal.md) 
 
-### [Kloster_Himmelpfort.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Fürstenberg,Havel/Kloster_Himmelpfort.secret.md) 
+### [Kloster_Himmelpfort.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\Fürstenberg,HavelKloster_Himmelpfort.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.72,12.28] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Raguhn](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Raguhn-Jeßnitz/City/Raguhn.md) 
+### [Raguhn.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Raguhn-Jeßnitz\CityRaguhn.public.md) 
 
-### [Raguhn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Raguhn-Jeßnitz/City/Raguhn.internal.md) 
+### [Raguhn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Raguhn-Jeßnitz\CityRaguhn.internal.md) 
 
-### [Raguhn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Raguhn-Jeßnitz/City/Raguhn.protect.md) 
+### [Raguhn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Raguhn-Jeßnitz\CityRaguhn.protect.md) 
 
-### [Raguhn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Raguhn-Jeßnitz/City/Raguhn.private.md) 
+### [Raguhn.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Raguhn-Jeßnitz\CityRaguhn.private.md) 
 
-### [Raguhn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Raguhn-Jeßnitz/City/Raguhn.personal.md) 
+### [Raguhn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Raguhn-Jeßnitz\CityRaguhn.personal.md) 
 
-### [Raguhn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Raguhn-Jeßnitz/City/Raguhn.secret.md) 
+### [Raguhn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Raguhn-Jeßnitz\CityRaguhn.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.5, 9.198] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Desenberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Höxter/cities~Höxter/Warburg/Desenberg.md) 
+### [Desenberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\WarburgDesenberg.public.md) 
 
-### [Desenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Höxter/cities~Höxter/Warburg/Desenberg.internal.md) 
+### [Desenberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\WarburgDesenberg.internal.md) 
 
-### [Desenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Höxter/cities~Höxter/Warburg/Desenberg.protect.md) 
+### [Desenberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\WarburgDesenberg.protect.md) 
 
-### [Desenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Höxter/cities~Höxter/Warburg/Desenberg.private.md) 
+### [Desenberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\WarburgDesenberg.private.md) 
 
-### [Desenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Höxter/cities~Höxter/Warburg/Desenberg.personal.md) 
+### [Desenberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\WarburgDesenberg.personal.md) 
 
-### [Desenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Höxter/cities~Höxter/Warburg/Desenberg.secret.md) 
+### [Desenberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\WarburgDesenberg.secret.md)
+

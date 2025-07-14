@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.68,10.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gehlberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Oberes_Geratal/boroughs~Oberes_Geratal/Gehlberg.md) 
+### [Gehlberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Oberes_Geratal\boroughs~Oberes_GeratalGehlberg.public.md) 
 
-### [Gehlberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Oberes_Geratal/boroughs~Oberes_Geratal/Gehlberg.internal.md) 
+### [Gehlberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Oberes_Geratal\boroughs~Oberes_GeratalGehlberg.internal.md) 
 
-### [Gehlberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Oberes_Geratal/boroughs~Oberes_Geratal/Gehlberg.protect.md) 
+### [Gehlberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Oberes_Geratal\boroughs~Oberes_GeratalGehlberg.protect.md) 
 
-### [Gehlberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Oberes_Geratal/boroughs~Oberes_Geratal/Gehlberg.private.md) 
+### [Gehlberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Oberes_Geratal\boroughs~Oberes_GeratalGehlberg.private.md) 
 
-### [Gehlberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Oberes_Geratal/boroughs~Oberes_Geratal/Gehlberg.personal.md) 
+### [Gehlberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Oberes_Geratal\boroughs~Oberes_GeratalGehlberg.personal.md) 
 
-### [Gehlberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Oberes_Geratal/boroughs~Oberes_Geratal/Gehlberg.secret.md) 
+### [Gehlberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Oberes_Geratal\boroughs~Oberes_GeratalGehlberg.secret.md)
+

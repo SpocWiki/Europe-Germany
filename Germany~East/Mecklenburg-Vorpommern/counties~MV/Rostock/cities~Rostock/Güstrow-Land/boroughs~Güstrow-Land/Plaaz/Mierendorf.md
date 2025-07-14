@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.82,12.32] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mierendorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Güstrow-Land/boroughs~Güstrow-Land/Plaaz/Mierendorf.md) 
+### [Mierendorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Güstrow-Land\boroughs~Güstrow-Land\PlaazMierendorf.public.md) 
 
-### [Mierendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Güstrow-Land/boroughs~Güstrow-Land/Plaaz/Mierendorf.internal.md) 
+### [Mierendorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Güstrow-Land\boroughs~Güstrow-Land\PlaazMierendorf.internal.md) 
 
-### [Mierendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Güstrow-Land/boroughs~Güstrow-Land/Plaaz/Mierendorf.protect.md) 
+### [Mierendorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Güstrow-Land\boroughs~Güstrow-Land\PlaazMierendorf.protect.md) 
 
-### [Mierendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Güstrow-Land/boroughs~Güstrow-Land/Plaaz/Mierendorf.private.md) 
+### [Mierendorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Güstrow-Land\boroughs~Güstrow-Land\PlaazMierendorf.private.md) 
 
-### [Mierendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Güstrow-Land/boroughs~Güstrow-Land/Plaaz/Mierendorf.personal.md) 
+### [Mierendorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Güstrow-Land\boroughs~Güstrow-Land\PlaazMierendorf.personal.md) 
 
-### [Mierendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Güstrow-Land/boroughs~Güstrow-Land/Plaaz/Mierendorf.secret.md) 
+### [Mierendorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Güstrow-Land\boroughs~Güstrow-Land\PlaazMierendorf.secret.md)
+

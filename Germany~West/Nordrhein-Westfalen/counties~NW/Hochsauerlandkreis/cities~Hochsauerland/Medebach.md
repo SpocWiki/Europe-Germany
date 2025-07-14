@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.2,8.72] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Medebach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Medebach.md) 
+### [Medebach.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandMedebach.public.md) 
 
-### [Medebach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Medebach.internal.md) 
+### [Medebach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandMedebach.internal.md) 
 
-### [Medebach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Medebach.protect.md) 
+### [Medebach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandMedebach.protect.md) 
 
-### [Medebach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Medebach.private.md) 
+### [Medebach.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandMedebach.private.md) 
 
-### [Medebach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Medebach.personal.md) 
+### [Medebach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandMedebach.personal.md) 
 
-### [Medebach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Medebach.secret.md) 
+### [Medebach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandMedebach.secret.md)
+

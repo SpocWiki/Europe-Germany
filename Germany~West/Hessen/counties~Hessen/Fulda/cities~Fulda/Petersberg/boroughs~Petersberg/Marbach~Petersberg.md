@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.62,9.73] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marbach~Petersberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Petersberg/boroughs~Petersberg/Marbach~Petersberg.md) 
+### [Marbach~Petersberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~Fulda\Petersberg\boroughs~PetersbergMarbach~Petersberg.public.md) 
 
-### [Marbach~Petersberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Petersberg/boroughs~Petersberg/Marbach~Petersberg.internal.md) 
+### [Marbach~Petersberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~Fulda\Petersberg\boroughs~PetersbergMarbach~Petersberg.internal.md) 
 
-### [Marbach~Petersberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Petersberg/boroughs~Petersberg/Marbach~Petersberg.protect.md) 
+### [Marbach~Petersberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~Fulda\Petersberg\boroughs~PetersbergMarbach~Petersberg.protect.md) 
 
-### [Marbach~Petersberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Petersberg/boroughs~Petersberg/Marbach~Petersberg.private.md) 
+### [Marbach~Petersberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~Fulda\Petersberg\boroughs~PetersbergMarbach~Petersberg.private.md) 
 
-### [Marbach~Petersberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Petersberg/boroughs~Petersberg/Marbach~Petersberg.personal.md) 
+### [Marbach~Petersberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~Fulda\Petersberg\boroughs~PetersbergMarbach~Petersberg.personal.md) 
 
-### [Marbach~Petersberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Petersberg/boroughs~Petersberg/Marbach~Petersberg.secret.md) 
+### [Marbach~Petersberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~Fulda\Petersberg\boroughs~PetersbergMarbach~Petersberg.secret.md)
+

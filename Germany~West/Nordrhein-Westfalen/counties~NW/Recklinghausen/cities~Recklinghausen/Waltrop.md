@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.63,7.4] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Waltrop](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Waltrop.md) 
+### [Waltrop.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenWaltrop.public.md) 
 
-### [Waltrop.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Waltrop.internal.md) 
+### [Waltrop.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenWaltrop.internal.md) 
 
-### [Waltrop.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Waltrop.protect.md) 
+### [Waltrop.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenWaltrop.protect.md) 
 
-### [Waltrop.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Waltrop.private.md) 
+### [Waltrop.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenWaltrop.private.md) 
 
-### [Waltrop.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Waltrop.personal.md) 
+### [Waltrop.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenWaltrop.personal.md) 
 
-### [Waltrop.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Waltrop.secret.md) 
+### [Waltrop.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenWaltrop.secret.md)
+

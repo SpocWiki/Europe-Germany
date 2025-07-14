@@ -9,3 +9,19 @@
 > [Wikipedia](https://de.wikipedia.org/wiki/Waldspirale)
 
 ![[../../../../../../../../../../assets/Knowledge/Architecture/Darmstadt_Waldspirale_102_0011.jpg]] 
+
+
+## Confidential Links & Embeds: 
+
+### [Waldspirale.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\DarmstadtWaldspirale.public.md) 
+
+### [Waldspirale.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\DarmstadtWaldspirale.internal.md) 
+
+### [Waldspirale.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\DarmstadtWaldspirale.protect.md) 
+
+### [Waldspirale.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\DarmstadtWaldspirale.private.md) 
+
+### [Waldspirale.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\DarmstadtWaldspirale.personal.md) 
+
+### [Waldspirale.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\DarmstadtWaldspirale.secret.md)
+

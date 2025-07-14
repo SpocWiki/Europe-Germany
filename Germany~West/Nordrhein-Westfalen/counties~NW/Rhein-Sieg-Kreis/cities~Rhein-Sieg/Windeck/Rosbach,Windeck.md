@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.8,7.62] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rosbach,Windeck](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Windeck/Rosbach,Windeck.md) 
+### [Rosbach,Windeck.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-Sieg\WindeckRosbach,Windeck.public.md) 
 
-### [Rosbach,Windeck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Windeck/Rosbach,Windeck.internal.md) 
+### [Rosbach,Windeck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-Sieg\WindeckRosbach,Windeck.internal.md) 
 
-### [Rosbach,Windeck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Windeck/Rosbach,Windeck.protect.md) 
+### [Rosbach,Windeck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-Sieg\WindeckRosbach,Windeck.protect.md) 
 
-### [Rosbach,Windeck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Windeck/Rosbach,Windeck.private.md) 
+### [Rosbach,Windeck.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-Sieg\WindeckRosbach,Windeck.private.md) 
 
-### [Rosbach,Windeck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Windeck/Rosbach,Windeck.personal.md) 
+### [Rosbach,Windeck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-Sieg\WindeckRosbach,Windeck.personal.md) 
 
-### [Rosbach,Windeck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Windeck/Rosbach,Windeck.secret.md) 
+### [Rosbach,Windeck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-Sieg\WindeckRosbach,Windeck.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.22,14.4] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gartz~Oder](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Gartz~Oder.md) 
+### [Gartz~Oder.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~UckermarkGartz~Oder.public.md) 
 
-### [Gartz~Oder.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Gartz~Oder.internal.md) 
+### [Gartz~Oder.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~UckermarkGartz~Oder.internal.md) 
 
-### [Gartz~Oder.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Gartz~Oder.protect.md) 
+### [Gartz~Oder.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~UckermarkGartz~Oder.protect.md) 
 
-### [Gartz~Oder.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Gartz~Oder.private.md) 
+### [Gartz~Oder.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~UckermarkGartz~Oder.private.md) 
 
-### [Gartz~Oder.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Gartz~Oder.personal.md) 
+### [Gartz~Oder.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~UckermarkGartz~Oder.personal.md) 
 
-### [Gartz~Oder.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Gartz~Oder.secret.md) 
+### [Gartz~Oder.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~UckermarkGartz~Oder.secret.md)
+

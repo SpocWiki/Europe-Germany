@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.8,7.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sieglar](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Troisdorf/Sieglar.md) 
+### [Sieglar.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-Sieg\TroisdorfSieglar.public.md) 
 
-### [Sieglar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Troisdorf/Sieglar.internal.md) 
+### [Sieglar.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-Sieg\TroisdorfSieglar.internal.md) 
 
-### [Sieglar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Troisdorf/Sieglar.protect.md) 
+### [Sieglar.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-Sieg\TroisdorfSieglar.protect.md) 
 
-### [Sieglar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Troisdorf/Sieglar.private.md) 
+### [Sieglar.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-Sieg\TroisdorfSieglar.private.md) 
 
-### [Sieglar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Troisdorf/Sieglar.personal.md) 
+### [Sieglar.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-Sieg\TroisdorfSieglar.personal.md) 
 
-### [Sieglar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Troisdorf/Sieglar.secret.md) 
+### [Sieglar.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-Sieg\TroisdorfSieglar.secret.md)
+

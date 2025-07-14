@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.57,8.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fedderwarden](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven/boroughs~Wilhelmshaven/Fedderwarden.md) 
+### [Fedderwarden.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wilhelmshaven\boroughs~WilhelmshavenFedderwarden.public.md) 
 
-### [Fedderwarden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven/boroughs~Wilhelmshaven/Fedderwarden.internal.md) 
+### [Fedderwarden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wilhelmshaven\boroughs~WilhelmshavenFedderwarden.internal.md) 
 
-### [Fedderwarden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven/boroughs~Wilhelmshaven/Fedderwarden.protect.md) 
+### [Fedderwarden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wilhelmshaven\boroughs~WilhelmshavenFedderwarden.protect.md) 
 
-### [Fedderwarden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven/boroughs~Wilhelmshaven/Fedderwarden.private.md) 
+### [Fedderwarden.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wilhelmshaven\boroughs~WilhelmshavenFedderwarden.private.md) 
 
-### [Fedderwarden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven/boroughs~Wilhelmshaven/Fedderwarden.personal.md) 
+### [Fedderwarden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wilhelmshaven\boroughs~WilhelmshavenFedderwarden.personal.md) 
 
-### [Fedderwarden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven/boroughs~Wilhelmshaven/Fedderwarden.secret.md) 
+### [Fedderwarden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wilhelmshaven\boroughs~WilhelmshavenFedderwarden.secret.md)
+

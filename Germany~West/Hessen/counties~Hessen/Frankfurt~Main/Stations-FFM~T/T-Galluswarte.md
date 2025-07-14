@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.1031,8.644609] 
 type: Station 
 mapzoom: [8,18] 
@@ -31,14 +31,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [T-Galluswarte](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Galluswarte.md) 
+### [T-Galluswarte.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Galluswarte.public.md) 
 
-### [T-Galluswarte.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Galluswarte.internal.md) 
+### [T-Galluswarte.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Galluswarte.internal.md) 
 
-### [T-Galluswarte.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Galluswarte.protect.md) 
+### [T-Galluswarte.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Galluswarte.protect.md) 
 
-### [T-Galluswarte.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Galluswarte.private.md) 
+### [T-Galluswarte.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Galluswarte.private.md) 
 
-### [T-Galluswarte.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Galluswarte.personal.md) 
+### [T-Galluswarte.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Galluswarte.personal.md) 
 
-### [T-Galluswarte.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Galluswarte.secret.md) 
+### [T-Galluswarte.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Galluswarte.secret.md)
+

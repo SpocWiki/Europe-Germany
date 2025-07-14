@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.68,12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Arneburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Arneburg-Goldbeck/City/Arneburg.md) 
+### [Arneburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Arneburg-Goldbeck\CityArneburg.public.md) 
 
-### [Arneburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Arneburg-Goldbeck/City/Arneburg.internal.md) 
+### [Arneburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Arneburg-Goldbeck\CityArneburg.internal.md) 
 
-### [Arneburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Arneburg-Goldbeck/City/Arneburg.protect.md) 
+### [Arneburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Arneburg-Goldbeck\CityArneburg.protect.md) 
 
-### [Arneburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Arneburg-Goldbeck/City/Arneburg.private.md) 
+### [Arneburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Arneburg-Goldbeck\CityArneburg.private.md) 
 
-### [Arneburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Arneburg-Goldbeck/City/Arneburg.personal.md) 
+### [Arneburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Arneburg-Goldbeck\CityArneburg.personal.md) 
 
-### [Arneburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Arneburg-Goldbeck/City/Arneburg.secret.md) 
+### [Arneburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Arneburg-Goldbeck\CityArneburg.secret.md)
+

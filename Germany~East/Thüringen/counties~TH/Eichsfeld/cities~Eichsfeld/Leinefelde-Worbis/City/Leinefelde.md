@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.38,10.32] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Leinefelde](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Leinefelde-Worbis/City/Leinefelde.md) 
+### [Leinefelde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Leinefelde-Worbis\CityLeinefelde.public.md) 
 
-### [Leinefelde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Leinefelde-Worbis/City/Leinefelde.internal.md) 
+### [Leinefelde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Leinefelde-Worbis\CityLeinefelde.internal.md) 
 
-### [Leinefelde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Leinefelde-Worbis/City/Leinefelde.protect.md) 
+### [Leinefelde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Leinefelde-Worbis\CityLeinefelde.protect.md) 
 
-### [Leinefelde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Leinefelde-Worbis/City/Leinefelde.private.md) 
+### [Leinefelde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Leinefelde-Worbis\CityLeinefelde.private.md) 
 
-### [Leinefelde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Leinefelde-Worbis/City/Leinefelde.personal.md) 
+### [Leinefelde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Leinefelde-Worbis\CityLeinefelde.personal.md) 
 
-### [Leinefelde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Leinefelde-Worbis/City/Leinefelde.secret.md) 
+### [Leinefelde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Leinefelde-Worbis\CityLeinefelde.secret.md)
+

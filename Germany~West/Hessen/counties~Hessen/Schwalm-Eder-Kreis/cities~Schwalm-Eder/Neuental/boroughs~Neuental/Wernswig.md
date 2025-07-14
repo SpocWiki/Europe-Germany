@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51,9.18] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wernswig](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neuental/boroughs~Neuental/Wernswig.md) 
+### [Wernswig.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-Eder\Neuental\boroughs~NeuentalWernswig.public.md) 
 
-### [Wernswig.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neuental/boroughs~Neuental/Wernswig.internal.md) 
+### [Wernswig.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-Eder\Neuental\boroughs~NeuentalWernswig.internal.md) 
 
-### [Wernswig.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neuental/boroughs~Neuental/Wernswig.protect.md) 
+### [Wernswig.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-Eder\Neuental\boroughs~NeuentalWernswig.protect.md) 
 
-### [Wernswig.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neuental/boroughs~Neuental/Wernswig.private.md) 
+### [Wernswig.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-Eder\Neuental\boroughs~NeuentalWernswig.private.md) 
 
-### [Wernswig.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neuental/boroughs~Neuental/Wernswig.personal.md) 
+### [Wernswig.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-Eder\Neuental\boroughs~NeuentalWernswig.personal.md) 
 
-### [Wernswig.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neuental/boroughs~Neuental/Wernswig.secret.md) 
+### [Wernswig.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-Eder\Neuental\boroughs~NeuentalWernswig.secret.md)
+

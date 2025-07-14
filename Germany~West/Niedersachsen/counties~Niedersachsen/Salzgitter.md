@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.04,10.38] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -35,14 +35,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Salzgitter](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter.md) 
+### [Salzgitter.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenSalzgitter.public.md) 
 
-### [Salzgitter.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter.internal.md) 
+### [Salzgitter.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenSalzgitter.internal.md) 
 
-### [Salzgitter.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter.protect.md) 
+### [Salzgitter.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenSalzgitter.protect.md) 
 
-### [Salzgitter.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter.private.md) 
+### [Salzgitter.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenSalzgitter.private.md) 
 
-### [Salzgitter.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter.personal.md) 
+### [Salzgitter.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenSalzgitter.personal.md) 
 
-### [Salzgitter.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter.secret.md) 
+### [Salzgitter.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenSalzgitter.secret.md)
+

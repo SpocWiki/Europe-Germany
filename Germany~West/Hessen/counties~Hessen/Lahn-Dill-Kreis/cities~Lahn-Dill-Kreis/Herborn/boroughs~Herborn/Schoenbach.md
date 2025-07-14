@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.67,8.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schoenbach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Herborn/boroughs~Herborn/Schoenbach.md) 
+### [Schoenbach.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-Kreis\Herborn\boroughs~HerbornSchoenbach.public.md) 
 
-### [Schoenbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Herborn/boroughs~Herborn/Schoenbach.internal.md) 
+### [Schoenbach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-Kreis\Herborn\boroughs~HerbornSchoenbach.internal.md) 
 
-### [Schoenbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Herborn/boroughs~Herborn/Schoenbach.protect.md) 
+### [Schoenbach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-Kreis\Herborn\boroughs~HerbornSchoenbach.protect.md) 
 
-### [Schoenbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Herborn/boroughs~Herborn/Schoenbach.private.md) 
+### [Schoenbach.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-Kreis\Herborn\boroughs~HerbornSchoenbach.private.md) 
 
-### [Schoenbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Herborn/boroughs~Herborn/Schoenbach.personal.md) 
+### [Schoenbach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-Kreis\Herborn\boroughs~HerbornSchoenbach.personal.md) 
 
-### [Schoenbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Herborn/boroughs~Herborn/Schoenbach.secret.md) 
+### [Schoenbach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-Kreis\Herborn\boroughs~HerbornSchoenbach.secret.md)
+

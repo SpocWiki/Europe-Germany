@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.41,12.56] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brandenburg~Havel](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Brandenburg~Havel.md) 
+### [Brandenburg~Havel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~BrandenburgBrandenburg~Havel.public.md) 
 
-### [Brandenburg~Havel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Brandenburg~Havel.internal.md) 
+### [Brandenburg~Havel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~BrandenburgBrandenburg~Havel.internal.md) 
 
-### [Brandenburg~Havel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Brandenburg~Havel.protect.md) 
+### [Brandenburg~Havel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~BrandenburgBrandenburg~Havel.protect.md) 
 
-### [Brandenburg~Havel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Brandenburg~Havel.private.md) 
+### [Brandenburg~Havel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~BrandenburgBrandenburg~Havel.private.md) 
 
-### [Brandenburg~Havel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Brandenburg~Havel.personal.md) 
+### [Brandenburg~Havel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~BrandenburgBrandenburg~Havel.personal.md) 
 
-### [Brandenburg~Havel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Brandenburg~Havel.secret.md) 
+### [Brandenburg~Havel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~BrandenburgBrandenburg~Havel.secret.md)
+

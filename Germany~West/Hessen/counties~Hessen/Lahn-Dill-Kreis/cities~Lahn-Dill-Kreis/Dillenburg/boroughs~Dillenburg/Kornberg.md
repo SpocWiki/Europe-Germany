@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.73,8.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kornberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Dillenburg/boroughs~Dillenburg/Kornberg.md) 
+### [Kornberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-Kreis\Dillenburg\boroughs~DillenburgKornberg.public.md) 
 
-### [Kornberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Dillenburg/boroughs~Dillenburg/Kornberg.internal.md) 
+### [Kornberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-Kreis\Dillenburg\boroughs~DillenburgKornberg.internal.md) 
 
-### [Kornberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Dillenburg/boroughs~Dillenburg/Kornberg.protect.md) 
+### [Kornberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-Kreis\Dillenburg\boroughs~DillenburgKornberg.protect.md) 
 
-### [Kornberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Dillenburg/boroughs~Dillenburg/Kornberg.private.md) 
+### [Kornberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-Kreis\Dillenburg\boroughs~DillenburgKornberg.private.md) 
 
-### [Kornberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Dillenburg/boroughs~Dillenburg/Kornberg.personal.md) 
+### [Kornberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-Kreis\Dillenburg\boroughs~DillenburgKornberg.personal.md) 
 
-### [Kornberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Dillenburg/boroughs~Dillenburg/Kornberg.secret.md) 
+### [Kornberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-Kreis\Dillenburg\boroughs~DillenburgKornberg.secret.md)
+

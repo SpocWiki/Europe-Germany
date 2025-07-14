@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.98,9.97] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Großenaspe](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Bad_Bramstedt-Land/boroughs~Bad_Bramstedt-Land/Großenaspe.md) 
+### [Großenaspe.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Segeberg\cities~Segeberg\Bad_Bramstedt-Land\boroughs~Bad_Bramstedt-LandGroßenaspe.public.md) 
 
-### [Großenaspe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Bad_Bramstedt-Land/boroughs~Bad_Bramstedt-Land/Großenaspe.internal.md) 
+### [Großenaspe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Segeberg\cities~Segeberg\Bad_Bramstedt-Land\boroughs~Bad_Bramstedt-LandGroßenaspe.internal.md) 
 
-### [Großenaspe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Bad_Bramstedt-Land/boroughs~Bad_Bramstedt-Land/Großenaspe.protect.md) 
+### [Großenaspe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Segeberg\cities~Segeberg\Bad_Bramstedt-Land\boroughs~Bad_Bramstedt-LandGroßenaspe.protect.md) 
 
-### [Großenaspe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Bad_Bramstedt-Land/boroughs~Bad_Bramstedt-Land/Großenaspe.private.md) 
+### [Großenaspe.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Segeberg\cities~Segeberg\Bad_Bramstedt-Land\boroughs~Bad_Bramstedt-LandGroßenaspe.private.md) 
 
-### [Großenaspe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Bad_Bramstedt-Land/boroughs~Bad_Bramstedt-Land/Großenaspe.personal.md) 
+### [Großenaspe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Segeberg\cities~Segeberg\Bad_Bramstedt-Land\boroughs~Bad_Bramstedt-LandGroßenaspe.personal.md) 
 
-### [Großenaspe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Bad_Bramstedt-Land/boroughs~Bad_Bramstedt-Land/Großenaspe.secret.md) 
+### [Großenaspe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Segeberg\cities~Segeberg\Bad_Bramstedt-Land\boroughs~Bad_Bramstedt-LandGroßenaspe.secret.md)
+

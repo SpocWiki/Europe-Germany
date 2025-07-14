@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.65,12.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Greiz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Greiz-city/City/Greiz.md) 
+### [Greiz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Greiz-city\CityGreiz.public.md) 
 
-### [Greiz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Greiz-city/City/Greiz.internal.md) 
+### [Greiz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Greiz-city\CityGreiz.internal.md) 
 
-### [Greiz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Greiz-city/City/Greiz.protect.md) 
+### [Greiz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Greiz-city\CityGreiz.protect.md) 
 
-### [Greiz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Greiz-city/City/Greiz.private.md) 
+### [Greiz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Greiz-city\CityGreiz.private.md) 
 
-### [Greiz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Greiz-city/City/Greiz.personal.md) 
+### [Greiz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Greiz-city\CityGreiz.personal.md) 
 
-### [Greiz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Greiz-city/City/Greiz.secret.md) 
+### [Greiz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Greiz-city\CityGreiz.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.1,8.77] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Offenbach~Main](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main.md) 
+### [Offenbach~Main.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~HessenOffenbach~Main.public.md) 
 
-### [Offenbach~Main.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main.internal.md) 
+### [Offenbach~Main.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~HessenOffenbach~Main.internal.md) 
 
-### [Offenbach~Main.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main.protect.md) 
+### [Offenbach~Main.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~HessenOffenbach~Main.protect.md) 
 
-### [Offenbach~Main.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main.private.md) 
+### [Offenbach~Main.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~HessenOffenbach~Main.private.md) 
 
-### [Offenbach~Main.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main.personal.md) 
+### [Offenbach~Main.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~HessenOffenbach~Main.personal.md) 
 
-### [Offenbach~Main.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main.secret.md) 
+### [Offenbach~Main.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~HessenOffenbach~Main.secret.md)
+

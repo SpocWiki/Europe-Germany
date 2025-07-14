@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.72,9.22] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hembsen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Höxter/cities~Höxter/Brakel/Hembsen.md) 
+### [Hembsen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\BrakelHembsen.public.md) 
 
-### [Hembsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Höxter/cities~Höxter/Brakel/Hembsen.internal.md) 
+### [Hembsen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\BrakelHembsen.internal.md) 
 
-### [Hembsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Höxter/cities~Höxter/Brakel/Hembsen.protect.md) 
+### [Hembsen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\BrakelHembsen.protect.md) 
 
-### [Hembsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Höxter/cities~Höxter/Brakel/Hembsen.private.md) 
+### [Hembsen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\BrakelHembsen.private.md) 
 
-### [Hembsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Höxter/cities~Höxter/Brakel/Hembsen.personal.md) 
+### [Hembsen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\BrakelHembsen.personal.md) 
 
-### [Hembsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Höxter/cities~Höxter/Brakel/Hembsen.secret.md) 
+### [Hembsen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\BrakelHembsen.secret.md)
+

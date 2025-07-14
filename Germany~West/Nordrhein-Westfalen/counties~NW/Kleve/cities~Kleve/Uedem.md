@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.67,6.28] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -36,14 +36,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Uedem](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Uedem.md) 
+### [Uedem.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveUedem.public.md) 
 
-### [Uedem.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Uedem.internal.md) 
+### [Uedem.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveUedem.internal.md) 
 
-### [Uedem.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Uedem.protect.md) 
+### [Uedem.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveUedem.protect.md) 
 
-### [Uedem.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Uedem.private.md) 
+### [Uedem.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveUedem.private.md) 
 
-### [Uedem.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Uedem.personal.md) 
+### [Uedem.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveUedem.personal.md) 
 
-### [Uedem.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Uedem.secret.md) 
+### [Uedem.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveUedem.secret.md)
+

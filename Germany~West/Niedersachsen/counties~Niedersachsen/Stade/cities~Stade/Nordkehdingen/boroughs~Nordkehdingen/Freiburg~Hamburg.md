@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.83,9.3] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Freiburg~Hamburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Freiburg~Hamburg.md) 
+### [Freiburg~Hamburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~Stade\Nordkehdingen\boroughs~NordkehdingenFreiburg~Hamburg.public.md) 
 
-### [Freiburg~Hamburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Freiburg~Hamburg.internal.md) 
+### [Freiburg~Hamburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~Stade\Nordkehdingen\boroughs~NordkehdingenFreiburg~Hamburg.internal.md) 
 
-### [Freiburg~Hamburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Freiburg~Hamburg.protect.md) 
+### [Freiburg~Hamburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~Stade\Nordkehdingen\boroughs~NordkehdingenFreiburg~Hamburg.protect.md) 
 
-### [Freiburg~Hamburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Freiburg~Hamburg.private.md) 
+### [Freiburg~Hamburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~Stade\Nordkehdingen\boroughs~NordkehdingenFreiburg~Hamburg.private.md) 
 
-### [Freiburg~Hamburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Freiburg~Hamburg.personal.md) 
+### [Freiburg~Hamburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~Stade\Nordkehdingen\boroughs~NordkehdingenFreiburg~Hamburg.personal.md) 
 
-### [Freiburg~Hamburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Freiburg~Hamburg.secret.md) 
+### [Freiburg~Hamburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~Stade\Nordkehdingen\boroughs~NordkehdingenFreiburg~Hamburg.secret.md)
+

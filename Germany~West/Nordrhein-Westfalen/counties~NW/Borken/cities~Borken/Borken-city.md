@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.85,6.87] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Borken-city](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Borken/cities~Borken/Borken-city.md) 
+### [Borken-city.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~BorkenBorken-city.public.md) 
 
-### [Borken-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Borken/cities~Borken/Borken-city.internal.md) 
+### [Borken-city.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~BorkenBorken-city.internal.md) 
 
-### [Borken-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Borken/cities~Borken/Borken-city.protect.md) 
+### [Borken-city.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~BorkenBorken-city.protect.md) 
 
-### [Borken-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Borken/cities~Borken/Borken-city.private.md) 
+### [Borken-city.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~BorkenBorken-city.private.md) 
 
-### [Borken-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Borken/cities~Borken/Borken-city.personal.md) 
+### [Borken-city.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~BorkenBorken-city.personal.md) 
 
-### [Borken-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Borken/cities~Borken/Borken-city.secret.md) 
+### [Borken-city.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~BorkenBorken-city.secret.md)
+

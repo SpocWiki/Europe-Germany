@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.97702,8.828543] 
 type: Station 
 mapzoom: [8,18] 
@@ -30,14 +30,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [S-Rödermark-Ober_Roden](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rödermark-Ober_Roden.md) 
+### [S-Rödermark-Ober_Roden.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Rödermark-Ober_Roden.public.md) 
 
-### [S-Rödermark-Ober_Roden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rödermark-Ober_Roden.internal.md) 
+### [S-Rödermark-Ober_Roden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Rödermark-Ober_Roden.internal.md) 
 
-### [S-Rödermark-Ober_Roden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rödermark-Ober_Roden.protect.md) 
+### [S-Rödermark-Ober_Roden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Rödermark-Ober_Roden.protect.md) 
 
-### [S-Rödermark-Ober_Roden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rödermark-Ober_Roden.private.md) 
+### [S-Rödermark-Ober_Roden.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Rödermark-Ober_Roden.private.md) 
 
-### [S-Rödermark-Ober_Roden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rödermark-Ober_Roden.personal.md) 
+### [S-Rödermark-Ober_Roden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Rödermark-Ober_Roden.personal.md) 
 
-### [S-Rödermark-Ober_Roden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rödermark-Ober_Roden.secret.md) 
+### [S-Rödermark-Ober_Roden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Rödermark-Ober_Roden.secret.md)
+

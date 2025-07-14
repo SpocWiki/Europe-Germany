@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53,9.82] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Soltau](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Soltau/boroughs~Soltau/Soltau.md) 
+### [Soltau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Soltau\boroughs~SoltauSoltau.public.md) 
 
-### [Soltau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Soltau/boroughs~Soltau/Soltau.internal.md) 
+### [Soltau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Soltau\boroughs~SoltauSoltau.internal.md) 
 
-### [Soltau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Soltau/boroughs~Soltau/Soltau.protect.md) 
+### [Soltau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Soltau\boroughs~SoltauSoltau.protect.md) 
 
-### [Soltau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Soltau/boroughs~Soltau/Soltau.private.md) 
+### [Soltau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Soltau\boroughs~SoltauSoltau.private.md) 
 
-### [Soltau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Soltau/boroughs~Soltau/Soltau.personal.md) 
+### [Soltau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Soltau\boroughs~SoltauSoltau.personal.md) 
 
-### [Soltau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Soltau/boroughs~Soltau/Soltau.secret.md) 
+### [Soltau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Soltau\boroughs~SoltauSoltau.secret.md)
+

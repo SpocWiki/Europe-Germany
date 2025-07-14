@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.1,9.18] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -36,14 +36,15 @@ Groß Sottrum und Klein Sottrum wurden am 1. Januar 1929 zur Gemeinde Sottrum zu
 
 ## Confidential Links & Embeds: 
 
-### [Sottrum](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Sottrum.md) 
+### [Sottrum.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Sottrum\boroughs~SottrumSottrum.public.md) 
 
-### [Sottrum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Sottrum.internal.md) 
+### [Sottrum.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Sottrum\boroughs~SottrumSottrum.internal.md) 
 
-### [Sottrum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Sottrum.protect.md) 
+### [Sottrum.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Sottrum\boroughs~SottrumSottrum.protect.md) 
 
-### [Sottrum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Sottrum.private.md) 
+### [Sottrum.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Sottrum\boroughs~SottrumSottrum.private.md) 
 
-### [Sottrum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Sottrum.personal.md) 
+### [Sottrum.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Sottrum\boroughs~SottrumSottrum.personal.md) 
 
-### [Sottrum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Sottrum.secret.md) 
+### [Sottrum.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Sottrum\boroughs~SottrumSottrum.secret.md)
+

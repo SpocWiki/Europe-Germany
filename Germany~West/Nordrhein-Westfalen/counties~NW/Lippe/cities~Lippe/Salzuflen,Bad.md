@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.12,8.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Salzuflen,Bad](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad.md) 
+### [Salzuflen,Bad.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~LippeSalzuflen,Bad.public.md) 
 
-### [Salzuflen,Bad.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad.internal.md) 
+### [Salzuflen,Bad.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~LippeSalzuflen,Bad.internal.md) 
 
-### [Salzuflen,Bad.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad.protect.md) 
+### [Salzuflen,Bad.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~LippeSalzuflen,Bad.protect.md) 
 
-### [Salzuflen,Bad.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad.private.md) 
+### [Salzuflen,Bad.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~LippeSalzuflen,Bad.private.md) 
 
-### [Salzuflen,Bad.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad.personal.md) 
+### [Salzuflen,Bad.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~LippeSalzuflen,Bad.personal.md) 
 
-### [Salzuflen,Bad.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad.secret.md) 
+### [Salzuflen,Bad.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~LippeSalzuflen,Bad.secret.md)
+

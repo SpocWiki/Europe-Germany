@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.98,7.93] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rüdesheim~Rhein](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Rüdesheim~Rhein.md) 
+### [Rüdesheim~Rhein.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Rheingau-Taunus-Kreis\cities~Rheingau-TaunusRüdesheim~Rhein.public.md) 
 
-### [Rüdesheim~Rhein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Rüdesheim~Rhein.internal.md) 
+### [Rüdesheim~Rhein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Rheingau-Taunus-Kreis\cities~Rheingau-TaunusRüdesheim~Rhein.internal.md) 
 
-### [Rüdesheim~Rhein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Rüdesheim~Rhein.protect.md) 
+### [Rüdesheim~Rhein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Rheingau-Taunus-Kreis\cities~Rheingau-TaunusRüdesheim~Rhein.protect.md) 
 
-### [Rüdesheim~Rhein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Rüdesheim~Rhein.private.md) 
+### [Rüdesheim~Rhein.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Rheingau-Taunus-Kreis\cities~Rheingau-TaunusRüdesheim~Rhein.private.md) 
 
-### [Rüdesheim~Rhein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Rüdesheim~Rhein.personal.md) 
+### [Rüdesheim~Rhein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Rheingau-Taunus-Kreis\cities~Rheingau-TaunusRüdesheim~Rhein.personal.md) 
 
-### [Rüdesheim~Rhein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Rüdesheim~Rhein.secret.md) 
+### [Rüdesheim~Rhein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Rheingau-Taunus-Kreis\cities~Rheingau-TaunusRüdesheim~Rhein.secret.md)
+

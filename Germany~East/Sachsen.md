@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q1202
 location:
 - 50.968
@@ -181,17 +181,17 @@ Capital :: [[Dresden]] ]
 [Population::] 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Sachsen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen.md) 
+### [Sachsen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastSachsen.public.md) 
 
-### [Sachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen.internal.md) 
+### [Sachsen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastSachsen.internal.md) 
 
-### [Sachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen.protect.md) 
+### [Sachsen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastSachsen.protect.md) 
 
-### [Sachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen.private.md) 
+### [Sachsen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastSachsen.private.md) 
 
-### [Sachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen.personal.md) 
+### [Sachsen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastSachsen.personal.md) 
 
-### [Sachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen.secret.md) 
+### [Sachsen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastSachsen.secret.md)
+

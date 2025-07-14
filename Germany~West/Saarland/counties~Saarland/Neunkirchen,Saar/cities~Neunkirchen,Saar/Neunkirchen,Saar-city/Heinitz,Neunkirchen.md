@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.33,7.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Heinitz,Neunkirchen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Neunkirchen,Saar-city/Heinitz,Neunkirchen.md) 
+### [Heinitz,Neunkirchen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,Saar\Neunkirchen,Saar-cityHeinitz,Neunkirchen.public.md) 
 
-### [Heinitz,Neunkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Neunkirchen,Saar-city/Heinitz,Neunkirchen.internal.md) 
+### [Heinitz,Neunkirchen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,Saar\Neunkirchen,Saar-cityHeinitz,Neunkirchen.internal.md) 
 
-### [Heinitz,Neunkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Neunkirchen,Saar-city/Heinitz,Neunkirchen.protect.md) 
+### [Heinitz,Neunkirchen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,Saar\Neunkirchen,Saar-cityHeinitz,Neunkirchen.protect.md) 
 
-### [Heinitz,Neunkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Neunkirchen,Saar-city/Heinitz,Neunkirchen.private.md) 
+### [Heinitz,Neunkirchen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,Saar\Neunkirchen,Saar-cityHeinitz,Neunkirchen.private.md) 
 
-### [Heinitz,Neunkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Neunkirchen,Saar-city/Heinitz,Neunkirchen.personal.md) 
+### [Heinitz,Neunkirchen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,Saar\Neunkirchen,Saar-cityHeinitz,Neunkirchen.personal.md) 
 
-### [Heinitz,Neunkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Neunkirchen,Saar-city/Heinitz,Neunkirchen.secret.md) 
+### [Heinitz,Neunkirchen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,Saar\Neunkirchen,Saar-cityHeinitz,Neunkirchen.secret.md)
+

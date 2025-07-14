@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.03,9.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Thueste](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Salzhemmendorf/boroughs~Salzhemmendorf/Thueste.md) 
+### [Thueste.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hameln-Pyrmont\cities~Hameln-Pyrmont\Salzhemmendorf\boroughs~SalzhemmendorfThueste.public.md) 
 
-### [Thueste.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Salzhemmendorf/boroughs~Salzhemmendorf/Thueste.internal.md) 
+### [Thueste.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hameln-Pyrmont\cities~Hameln-Pyrmont\Salzhemmendorf\boroughs~SalzhemmendorfThueste.internal.md) 
 
-### [Thueste.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Salzhemmendorf/boroughs~Salzhemmendorf/Thueste.protect.md) 
+### [Thueste.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hameln-Pyrmont\cities~Hameln-Pyrmont\Salzhemmendorf\boroughs~SalzhemmendorfThueste.protect.md) 
 
-### [Thueste.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Salzhemmendorf/boroughs~Salzhemmendorf/Thueste.private.md) 
+### [Thueste.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hameln-Pyrmont\cities~Hameln-Pyrmont\Salzhemmendorf\boroughs~SalzhemmendorfThueste.private.md) 
 
-### [Thueste.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Salzhemmendorf/boroughs~Salzhemmendorf/Thueste.personal.md) 
+### [Thueste.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hameln-Pyrmont\cities~Hameln-Pyrmont\Salzhemmendorf\boroughs~SalzhemmendorfThueste.personal.md) 
 
-### [Thueste.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Salzhemmendorf/boroughs~Salzhemmendorf/Thueste.secret.md) 
+### [Thueste.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hameln-Pyrmont\cities~Hameln-Pyrmont\Salzhemmendorf\boroughs~SalzhemmendorfThueste.secret.md)
+

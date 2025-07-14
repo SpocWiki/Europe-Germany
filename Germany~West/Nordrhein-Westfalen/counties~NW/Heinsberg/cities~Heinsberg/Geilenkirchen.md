@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.97,6.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Geilenkirchen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Geilenkirchen.md) 
+### [Geilenkirchen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~HeinsbergGeilenkirchen.public.md) 
 
-### [Geilenkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Geilenkirchen.internal.md) 
+### [Geilenkirchen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~HeinsbergGeilenkirchen.internal.md) 
 
-### [Geilenkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Geilenkirchen.protect.md) 
+### [Geilenkirchen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~HeinsbergGeilenkirchen.protect.md) 
 
-### [Geilenkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Geilenkirchen.private.md) 
+### [Geilenkirchen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~HeinsbergGeilenkirchen.private.md) 
 
-### [Geilenkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Geilenkirchen.personal.md) 
+### [Geilenkirchen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~HeinsbergGeilenkirchen.personal.md) 
 
-### [Geilenkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Geilenkirchen.secret.md) 
+### [Geilenkirchen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~HeinsbergGeilenkirchen.secret.md)
+

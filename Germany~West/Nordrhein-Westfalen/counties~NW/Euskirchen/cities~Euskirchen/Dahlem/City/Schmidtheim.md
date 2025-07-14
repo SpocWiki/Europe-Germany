@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.42,6.55] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schmidtheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Dahlem/City/Schmidtheim.md) 
+### [Schmidtheim.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Dahlem\CitySchmidtheim.public.md) 
 
-### [Schmidtheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Dahlem/City/Schmidtheim.internal.md) 
+### [Schmidtheim.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Dahlem\CitySchmidtheim.internal.md) 
 
-### [Schmidtheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Dahlem/City/Schmidtheim.protect.md) 
+### [Schmidtheim.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Dahlem\CitySchmidtheim.protect.md) 
 
-### [Schmidtheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Dahlem/City/Schmidtheim.private.md) 
+### [Schmidtheim.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Dahlem\CitySchmidtheim.private.md) 
 
-### [Schmidtheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Dahlem/City/Schmidtheim.personal.md) 
+### [Schmidtheim.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Dahlem\CitySchmidtheim.personal.md) 
 
-### [Schmidtheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Dahlem/City/Schmidtheim.secret.md) 
+### [Schmidtheim.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Dahlem\CitySchmidtheim.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 53.54
 - 9.99
@@ -263,14 +263,15 @@ mit ihren detailgetreu nachgebauten Wohnhäusern aus dem 17. Jahrhundert.
 
 ## Confidential Links & Embeds: 
 
-### [Hamburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Hamburg.md) 
+### [Hamburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgHamburg.public.md) 
 
-### [Hamburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Hamburg.internal.md) 
+### [Hamburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgHamburg.internal.md) 
 
-### [Hamburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Hamburg.protect.md) 
+### [Hamburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgHamburg.protect.md) 
 
-### [Hamburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Hamburg.private.md) 
+### [Hamburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgHamburg.private.md) 
 
-### [Hamburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Hamburg.personal.md) 
+### [Hamburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgHamburg.personal.md) 
 
-### [Hamburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Hamburg.secret.md) 
+### [Hamburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgHamburg.secret.md)
+

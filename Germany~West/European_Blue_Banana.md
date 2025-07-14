@@ -51,17 +51,17 @@ to describe this zone of intense economic activity, industrial concentration, an
    airports (e.g., London Heathrow, Frankfurt), and rail hubs, facilitating trade within Europe and globally.
 
 
-
 ## Confidential Links & Embeds: 
 
-### [European Blue Banana](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European Blue Banana.md) 
+### [European_Blue_Banana.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestEuropean_Blue_Banana.public.md) 
 
-### [European Blue Banana.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European Blue Banana.internal.md) 
+### [European_Blue_Banana.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestEuropean_Blue_Banana.internal.md) 
 
-### [European Blue Banana.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European Blue Banana.protect.md) 
+### [European_Blue_Banana.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestEuropean_Blue_Banana.protect.md) 
 
-### [European Blue Banana.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European Blue Banana.private.md) 
+### [European_Blue_Banana.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestEuropean_Blue_Banana.private.md) 
 
-### [European Blue Banana.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European Blue Banana.personal.md) 
+### [European_Blue_Banana.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestEuropean_Blue_Banana.personal.md) 
 
-### [European Blue Banana.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European Blue Banana.secret.md) 
+### [European_Blue_Banana.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestEuropean_Blue_Banana.secret.md)
+

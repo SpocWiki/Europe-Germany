@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.18,14.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -37,16 +37,18 @@ Bautzen (Sachsen):
 Eine Altstadt, die geprägt ist durch Kriege, Stadtbrände, Königsparaden und Strafgerichte. 
 An jeder Ecke findet sich Geschichte umgeben von Häusern aus Gotik, Renaissance oder Barock.
 
+
 ## Confidential Links & Embeds: 
 
-### [Bautzen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Bautzen-city/City/Bautzen.md) 
+### [Bautzen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Bautzen-city\CityBautzen.public.md) 
 
-### [Bautzen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Bautzen-city/City/Bautzen.internal.md) 
+### [Bautzen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Bautzen-city\CityBautzen.internal.md) 
 
-### [Bautzen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Bautzen-city/City/Bautzen.protect.md) 
+### [Bautzen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Bautzen-city\CityBautzen.protect.md) 
 
-### [Bautzen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Bautzen-city/City/Bautzen.private.md) 
+### [Bautzen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Bautzen-city\CityBautzen.private.md) 
 
-### [Bautzen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Bautzen-city/City/Bautzen.personal.md) 
+### [Bautzen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Bautzen-city\CityBautzen.personal.md) 
 
-### [Bautzen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Bautzen-city/City/Bautzen.secret.md) 
+### [Bautzen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Bautzen-city\CityBautzen.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.3,9.67] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rendsburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Rendsburg.md) 
+### [Rendsburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Rendsburg-Eckernförde\cities~RendsburgRendsburg.public.md) 
 
-### [Rendsburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Rendsburg.internal.md) 
+### [Rendsburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Rendsburg-Eckernförde\cities~RendsburgRendsburg.internal.md) 
 
-### [Rendsburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Rendsburg.protect.md) 
+### [Rendsburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Rendsburg-Eckernförde\cities~RendsburgRendsburg.protect.md) 
 
-### [Rendsburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Rendsburg.private.md) 
+### [Rendsburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Rendsburg-Eckernförde\cities~RendsburgRendsburg.private.md) 
 
-### [Rendsburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Rendsburg.personal.md) 
+### [Rendsburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Rendsburg-Eckernförde\cities~RendsburgRendsburg.personal.md) 
 
-### [Rendsburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Rendsburg.secret.md) 
+### [Rendsburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Rendsburg-Eckernförde\cities~RendsburgRendsburg.secret.md)
+

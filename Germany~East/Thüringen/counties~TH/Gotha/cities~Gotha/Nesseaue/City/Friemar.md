@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.98,10.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Friemar](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Nesseaue/City/Friemar.md) 
+### [Friemar.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Nesseaue\CityFriemar.public.md) 
 
-### [Friemar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Nesseaue/City/Friemar.internal.md) 
+### [Friemar.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Nesseaue\CityFriemar.internal.md) 
 
-### [Friemar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Nesseaue/City/Friemar.protect.md) 
+### [Friemar.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Nesseaue\CityFriemar.protect.md) 
 
-### [Friemar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Nesseaue/City/Friemar.private.md) 
+### [Friemar.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Nesseaue\CityFriemar.private.md) 
 
-### [Friemar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Nesseaue/City/Friemar.personal.md) 
+### [Friemar.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Nesseaue\CityFriemar.personal.md) 
 
-### [Friemar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Nesseaue/City/Friemar.secret.md) 
+### [Friemar.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Nesseaue\CityFriemar.secret.md)
+

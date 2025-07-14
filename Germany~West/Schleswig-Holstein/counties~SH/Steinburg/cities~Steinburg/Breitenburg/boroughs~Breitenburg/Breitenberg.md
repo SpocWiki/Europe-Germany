@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.93,9.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Breitenberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Breitenburg/boroughs~Breitenburg/Breitenberg.md) 
+### [Breitenberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~Steinburg\Breitenburg\boroughs~BreitenburgBreitenberg.public.md) 
 
-### [Breitenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Breitenburg/boroughs~Breitenburg/Breitenberg.internal.md) 
+### [Breitenberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~Steinburg\Breitenburg\boroughs~BreitenburgBreitenberg.internal.md) 
 
-### [Breitenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Breitenburg/boroughs~Breitenburg/Breitenberg.protect.md) 
+### [Breitenberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~Steinburg\Breitenburg\boroughs~BreitenburgBreitenberg.protect.md) 
 
-### [Breitenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Breitenburg/boroughs~Breitenburg/Breitenberg.private.md) 
+### [Breitenberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~Steinburg\Breitenburg\boroughs~BreitenburgBreitenberg.private.md) 
 
-### [Breitenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Breitenburg/boroughs~Breitenburg/Breitenberg.personal.md) 
+### [Breitenberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~Steinburg\Breitenburg\boroughs~BreitenburgBreitenberg.personal.md) 
 
-### [Breitenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Breitenburg/boroughs~Breitenburg/Breitenberg.secret.md) 
+### [Breitenberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~Steinburg\Breitenburg\boroughs~BreitenburgBreitenberg.secret.md)
+

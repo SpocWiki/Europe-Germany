@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.17,11.35] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dreileben](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Hohe_Börde/City/Dreileben.md) 
+### [Dreileben.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Hohe_Börde\CityDreileben.public.md) 
 
-### [Dreileben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Hohe_Börde/City/Dreileben.internal.md) 
+### [Dreileben.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Hohe_Börde\CityDreileben.internal.md) 
 
-### [Dreileben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Hohe_Börde/City/Dreileben.protect.md) 
+### [Dreileben.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Hohe_Börde\CityDreileben.protect.md) 
 
-### [Dreileben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Hohe_Börde/City/Dreileben.private.md) 
+### [Dreileben.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Hohe_Börde\CityDreileben.private.md) 
 
-### [Dreileben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Hohe_Börde/City/Dreileben.personal.md) 
+### [Dreileben.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Hohe_Börde\CityDreileben.personal.md) 
 
-### [Dreileben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Hohe_Börde/City/Dreileben.secret.md) 
+### [Dreileben.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Hohe_Börde\CityDreileben.secret.md)
+

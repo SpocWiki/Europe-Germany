@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.78,6.15] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -39,14 +39,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kleve-city](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Kleve-city.md) 
+### [Kleve-city.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveKleve-city.public.md) 
 
-### [Kleve-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Kleve-city.internal.md) 
+### [Kleve-city.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveKleve-city.internal.md) 
 
-### [Kleve-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Kleve-city.protect.md) 
+### [Kleve-city.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveKleve-city.protect.md) 
 
-### [Kleve-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Kleve-city.private.md) 
+### [Kleve-city.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveKleve-city.private.md) 
 
-### [Kleve-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Kleve-city.personal.md) 
+### [Kleve-city.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveKleve-city.personal.md) 
 
-### [Kleve-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Kleve/cities~Kleve/Kleve-city.secret.md) 
+### [Kleve-city.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveKleve-city.secret.md)
+

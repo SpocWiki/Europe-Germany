@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.2,10.27] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kühren](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz-Land/boroughs~Preetz-Land/Kühren.md) 
+### [Kühren.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Preetz-Land\boroughs~Preetz-LandKühren.public.md) 
 
-### [Kühren.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz-Land/boroughs~Preetz-Land/Kühren.internal.md) 
+### [Kühren.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Preetz-Land\boroughs~Preetz-LandKühren.internal.md) 
 
-### [Kühren.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz-Land/boroughs~Preetz-Land/Kühren.protect.md) 
+### [Kühren.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Preetz-Land\boroughs~Preetz-LandKühren.protect.md) 
 
-### [Kühren.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz-Land/boroughs~Preetz-Land/Kühren.private.md) 
+### [Kühren.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Preetz-Land\boroughs~Preetz-LandKühren.private.md) 
 
-### [Kühren.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz-Land/boroughs~Preetz-Land/Kühren.personal.md) 
+### [Kühren.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Preetz-Land\boroughs~Preetz-LandKühren.personal.md) 
 
-### [Kühren.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz-Land/boroughs~Preetz-Land/Kühren.secret.md) 
+### [Kühren.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Preetz-Land\boroughs~Preetz-LandKühren.secret.md)
+

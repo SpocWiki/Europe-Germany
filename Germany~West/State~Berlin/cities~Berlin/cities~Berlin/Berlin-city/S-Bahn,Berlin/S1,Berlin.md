@@ -77,3 +77,20 @@ class S1_Oranienburg,S1_Lehnitz,S1_Borgsdorf,S1_Birkenwerder,S1_Hohen_Neuendorf,
 
 
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### [S1,Berlin.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS1,Berlin.public.md) 
+
+### [S1,Berlin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS1,Berlin.internal.md) 
+
+### [S1,Berlin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS1,Berlin.protect.md) 
+
+### [S1,Berlin.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS1,Berlin.private.md) 
+
+### [S1,Berlin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS1,Berlin.personal.md) 
+
+### [S1,Berlin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS1,Berlin.secret.md)
+

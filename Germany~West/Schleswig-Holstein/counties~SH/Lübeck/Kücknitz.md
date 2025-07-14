@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.92,10.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kücknitz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck/Kücknitz.md) 
+### [Kücknitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\LübeckKücknitz.public.md) 
 
-### [Kücknitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck/Kücknitz.internal.md) 
+### [Kücknitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\LübeckKücknitz.internal.md) 
 
-### [Kücknitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck/Kücknitz.protect.md) 
+### [Kücknitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\LübeckKücknitz.protect.md) 
 
-### [Kücknitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck/Kücknitz.private.md) 
+### [Kücknitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\LübeckKücknitz.private.md) 
 
-### [Kücknitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck/Kücknitz.personal.md) 
+### [Kücknitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\LübeckKücknitz.personal.md) 
 
-### [Kücknitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck/Kücknitz.secret.md) 
+### [Kücknitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\LübeckKücknitz.secret.md)
+

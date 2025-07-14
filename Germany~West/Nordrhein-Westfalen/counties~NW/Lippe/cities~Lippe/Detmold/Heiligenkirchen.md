@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.9,8.88] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Heiligenkirchen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Lippe/cities~Lippe/Detmold/Heiligenkirchen.md) 
+### [Heiligenkirchen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~Lippe\DetmoldHeiligenkirchen.public.md) 
 
-### [Heiligenkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Lippe/cities~Lippe/Detmold/Heiligenkirchen.internal.md) 
+### [Heiligenkirchen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~Lippe\DetmoldHeiligenkirchen.internal.md) 
 
-### [Heiligenkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Lippe/cities~Lippe/Detmold/Heiligenkirchen.protect.md) 
+### [Heiligenkirchen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~Lippe\DetmoldHeiligenkirchen.protect.md) 
 
-### [Heiligenkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Lippe/cities~Lippe/Detmold/Heiligenkirchen.private.md) 
+### [Heiligenkirchen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~Lippe\DetmoldHeiligenkirchen.private.md) 
 
-### [Heiligenkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Lippe/cities~Lippe/Detmold/Heiligenkirchen.personal.md) 
+### [Heiligenkirchen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~Lippe\DetmoldHeiligenkirchen.personal.md) 
 
-### [Heiligenkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Lippe/cities~Lippe/Detmold/Heiligenkirchen.secret.md) 
+### [Heiligenkirchen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~Lippe\DetmoldHeiligenkirchen.secret.md)
+

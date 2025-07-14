@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.13,9.98] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Einfeld](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Neumünster/Einfeld.md) 
+### [Einfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\NeumünsterEinfeld.public.md) 
 
-### [Einfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Neumünster/Einfeld.internal.md) 
+### [Einfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\NeumünsterEinfeld.internal.md) 
 
-### [Einfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Neumünster/Einfeld.protect.md) 
+### [Einfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\NeumünsterEinfeld.protect.md) 
 
-### [Einfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Neumünster/Einfeld.private.md) 
+### [Einfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\NeumünsterEinfeld.private.md) 
 
-### [Einfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Neumünster/Einfeld.personal.md) 
+### [Einfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\NeumünsterEinfeld.personal.md) 
 
-### [Einfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Neumünster/Einfeld.secret.md) 
+### [Einfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\NeumünsterEinfeld.secret.md)
+

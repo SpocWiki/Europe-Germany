@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.25249,8.644776] 
 type: Station 
 mapzoom: [8,18] 
@@ -30,14 +30,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [S-Friedrichsdorf~Taunus](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Friedrichsdorf~Taunus.md) 
+### [S-Friedrichsdorf~Taunus.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Friedrichsdorf~Taunus.public.md) 
 
-### [S-Friedrichsdorf~Taunus.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Friedrichsdorf~Taunus.internal.md) 
+### [S-Friedrichsdorf~Taunus.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Friedrichsdorf~Taunus.internal.md) 
 
-### [S-Friedrichsdorf~Taunus.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Friedrichsdorf~Taunus.protect.md) 
+### [S-Friedrichsdorf~Taunus.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Friedrichsdorf~Taunus.protect.md) 
 
-### [S-Friedrichsdorf~Taunus.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Friedrichsdorf~Taunus.private.md) 
+### [S-Friedrichsdorf~Taunus.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Friedrichsdorf~Taunus.private.md) 
 
-### [S-Friedrichsdorf~Taunus.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Friedrichsdorf~Taunus.personal.md) 
+### [S-Friedrichsdorf~Taunus.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Friedrichsdorf~Taunus.personal.md) 
 
-### [S-Friedrichsdorf~Taunus.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Friedrichsdorf~Taunus.secret.md) 
+### [S-Friedrichsdorf~Taunus.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Friedrichsdorf~Taunus.secret.md)
+

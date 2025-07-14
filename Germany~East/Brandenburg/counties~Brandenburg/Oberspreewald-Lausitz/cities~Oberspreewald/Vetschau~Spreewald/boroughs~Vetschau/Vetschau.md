@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.78,14.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vetschau](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Vetschau.md) 
+### [Vetschau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~Oberspreewald\Vetschau~Spreewald\boroughs~VetschauVetschau.public.md) 
 
-### [Vetschau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Vetschau.internal.md) 
+### [Vetschau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~Oberspreewald\Vetschau~Spreewald\boroughs~VetschauVetschau.internal.md) 
 
-### [Vetschau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Vetschau.protect.md) 
+### [Vetschau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~Oberspreewald\Vetschau~Spreewald\boroughs~VetschauVetschau.protect.md) 
 
-### [Vetschau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Vetschau.private.md) 
+### [Vetschau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~Oberspreewald\Vetschau~Spreewald\boroughs~VetschauVetschau.private.md) 
 
-### [Vetschau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Vetschau.personal.md) 
+### [Vetschau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~Oberspreewald\Vetschau~Spreewald\boroughs~VetschauVetschau.personal.md) 
 
-### [Vetschau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Vetschau.secret.md) 
+### [Vetschau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~Oberspreewald\Vetschau~Spreewald\boroughs~VetschauVetschau.secret.md)
+

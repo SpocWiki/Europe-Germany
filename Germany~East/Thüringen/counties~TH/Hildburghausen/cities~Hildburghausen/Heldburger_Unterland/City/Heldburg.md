@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.28,10.73] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Heldburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Heldburger_Unterland/City/Heldburg.md) 
+### [Heldburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~Hildburghausen\Heldburger_Unterland\CityHeldburg.public.md) 
 
-### [Heldburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Heldburger_Unterland/City/Heldburg.internal.md) 
+### [Heldburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~Hildburghausen\Heldburger_Unterland\CityHeldburg.internal.md) 
 
-### [Heldburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Heldburger_Unterland/City/Heldburg.protect.md) 
+### [Heldburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~Hildburghausen\Heldburger_Unterland\CityHeldburg.protect.md) 
 
-### [Heldburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Heldburger_Unterland/City/Heldburg.private.md) 
+### [Heldburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~Hildburghausen\Heldburger_Unterland\CityHeldburg.private.md) 
 
-### [Heldburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Heldburger_Unterland/City/Heldburg.personal.md) 
+### [Heldburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~Hildburghausen\Heldburger_Unterland\CityHeldburg.personal.md) 
 
-### [Heldburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Heldburger_Unterland/City/Heldburg.secret.md) 
+### [Heldburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~Hildburghausen\Heldburger_Unterland\CityHeldburg.secret.md)
+

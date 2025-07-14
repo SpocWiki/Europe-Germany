@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.55,7.77] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lünern](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Unna/cities~Unna/Unna-city/Lünern.md) 
+### [Lünern.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~Unna\Unna-cityLünern.public.md) 
 
-### [Lünern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Unna/cities~Unna/Unna-city/Lünern.internal.md) 
+### [Lünern.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~Unna\Unna-cityLünern.internal.md) 
 
-### [Lünern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Unna/cities~Unna/Unna-city/Lünern.protect.md) 
+### [Lünern.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~Unna\Unna-cityLünern.protect.md) 
 
-### [Lünern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Unna/cities~Unna/Unna-city/Lünern.private.md) 
+### [Lünern.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~Unna\Unna-cityLünern.private.md) 
 
-### [Lünern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Unna/cities~Unna/Unna-city/Lünern.personal.md) 
+### [Lünern.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~Unna\Unna-cityLünern.personal.md) 
 
-### [Lünern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Unna/cities~Unna/Unna-city/Lünern.secret.md) 
+### [Lünern.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~Unna\Unna-cityLünern.secret.md)
+

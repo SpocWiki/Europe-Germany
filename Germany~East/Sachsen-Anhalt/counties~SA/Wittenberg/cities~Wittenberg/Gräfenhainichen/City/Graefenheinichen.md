@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.75,12.47] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Graefenheinichen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Gräfenhainichen/City/Graefenheinichen.md) 
+### [Graefenheinichen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Gräfenhainichen\CityGraefenheinichen.public.md) 
 
-### [Graefenheinichen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Gräfenhainichen/City/Graefenheinichen.internal.md) 
+### [Graefenheinichen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Gräfenhainichen\CityGraefenheinichen.internal.md) 
 
-### [Graefenheinichen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Gräfenhainichen/City/Graefenheinichen.protect.md) 
+### [Graefenheinichen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Gräfenhainichen\CityGraefenheinichen.protect.md) 
 
-### [Graefenheinichen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Gräfenhainichen/City/Graefenheinichen.private.md) 
+### [Graefenheinichen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Gräfenhainichen\CityGraefenheinichen.private.md) 
 
-### [Graefenheinichen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Gräfenhainichen/City/Graefenheinichen.personal.md) 
+### [Graefenheinichen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Gräfenhainichen\CityGraefenheinichen.personal.md) 
 
-### [Graefenheinichen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Gräfenhainichen/City/Graefenheinichen.secret.md) 
+### [Graefenheinichen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Gräfenhainichen\CityGraefenheinichen.secret.md)
+

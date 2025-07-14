@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.27,10.37] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vechelde](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Peine/cities~Peine/Vechelde/boroughs~Vechelde/Vechelde.md) 
+### [Vechelde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Peine\cities~Peine\Vechelde\boroughs~VecheldeVechelde.public.md) 
 
-### [Vechelde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Peine/cities~Peine/Vechelde/boroughs~Vechelde/Vechelde.internal.md) 
+### [Vechelde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Peine\cities~Peine\Vechelde\boroughs~VecheldeVechelde.internal.md) 
 
-### [Vechelde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Peine/cities~Peine/Vechelde/boroughs~Vechelde/Vechelde.protect.md) 
+### [Vechelde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Peine\cities~Peine\Vechelde\boroughs~VecheldeVechelde.protect.md) 
 
-### [Vechelde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Peine/cities~Peine/Vechelde/boroughs~Vechelde/Vechelde.private.md) 
+### [Vechelde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Peine\cities~Peine\Vechelde\boroughs~VecheldeVechelde.private.md) 
 
-### [Vechelde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Peine/cities~Peine/Vechelde/boroughs~Vechelde/Vechelde.personal.md) 
+### [Vechelde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Peine\cities~Peine\Vechelde\boroughs~VecheldeVechelde.personal.md) 
 
-### [Vechelde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Peine/cities~Peine/Vechelde/boroughs~Vechelde/Vechelde.secret.md) 
+### [Vechelde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Peine\cities~Peine\Vechelde\boroughs~VecheldeVechelde.secret.md)
+

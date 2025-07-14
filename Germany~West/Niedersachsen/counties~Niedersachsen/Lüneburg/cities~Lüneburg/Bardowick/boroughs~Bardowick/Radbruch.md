@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.32,10.28] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Radbruch](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Bardowick/boroughs~Bardowick/Radbruch.md) 
+### [Radbruch.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüneburg\cities~Lüneburg\Bardowick\boroughs~BardowickRadbruch.public.md) 
 
-### [Radbruch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Bardowick/boroughs~Bardowick/Radbruch.internal.md) 
+### [Radbruch.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüneburg\cities~Lüneburg\Bardowick\boroughs~BardowickRadbruch.internal.md) 
 
-### [Radbruch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Bardowick/boroughs~Bardowick/Radbruch.protect.md) 
+### [Radbruch.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüneburg\cities~Lüneburg\Bardowick\boroughs~BardowickRadbruch.protect.md) 
 
-### [Radbruch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Bardowick/boroughs~Bardowick/Radbruch.private.md) 
+### [Radbruch.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüneburg\cities~Lüneburg\Bardowick\boroughs~BardowickRadbruch.private.md) 
 
-### [Radbruch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Bardowick/boroughs~Bardowick/Radbruch.personal.md) 
+### [Radbruch.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüneburg\cities~Lüneburg\Bardowick\boroughs~BardowickRadbruch.personal.md) 
 
-### [Radbruch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Bardowick/boroughs~Bardowick/Radbruch.secret.md) 
+### [Radbruch.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüneburg\cities~Lüneburg\Bardowick\boroughs~BardowickRadbruch.secret.md)
+

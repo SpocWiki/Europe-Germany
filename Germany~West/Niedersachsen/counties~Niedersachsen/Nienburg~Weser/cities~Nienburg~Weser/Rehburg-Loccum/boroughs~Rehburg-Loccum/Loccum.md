@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.45,9.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Loccum](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Rehburg-Loccum/boroughs~Rehburg-Loccum/Loccum.md) 
+### [Loccum.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~Weser\Rehburg-Loccum\boroughs~Rehburg-LoccumLoccum.public.md) 
 
-### [Loccum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Rehburg-Loccum/boroughs~Rehburg-Loccum/Loccum.internal.md) 
+### [Loccum.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~Weser\Rehburg-Loccum\boroughs~Rehburg-LoccumLoccum.internal.md) 
 
-### [Loccum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Rehburg-Loccum/boroughs~Rehburg-Loccum/Loccum.protect.md) 
+### [Loccum.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~Weser\Rehburg-Loccum\boroughs~Rehburg-LoccumLoccum.protect.md) 
 
-### [Loccum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Rehburg-Loccum/boroughs~Rehburg-Loccum/Loccum.private.md) 
+### [Loccum.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~Weser\Rehburg-Loccum\boroughs~Rehburg-LoccumLoccum.private.md) 
 
-### [Loccum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Rehburg-Loccum/boroughs~Rehburg-Loccum/Loccum.personal.md) 
+### [Loccum.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~Weser\Rehburg-Loccum\boroughs~Rehburg-LoccumLoccum.personal.md) 
 
-### [Loccum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Rehburg-Loccum/boroughs~Rehburg-Loccum/Loccum.secret.md) 
+### [Loccum.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~Weser\Rehburg-Loccum\boroughs~Rehburg-LoccumLoccum.secret.md)
+

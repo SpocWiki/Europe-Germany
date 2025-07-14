@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.07,6.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Heinsberg-city](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Heinsberg-city.md) 
+### [Heinsberg-city.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~HeinsbergHeinsberg-city.public.md) 
 
-### [Heinsberg-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Heinsberg-city.internal.md) 
+### [Heinsberg-city.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~HeinsbergHeinsberg-city.internal.md) 
 
-### [Heinsberg-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Heinsberg-city.protect.md) 
+### [Heinsberg-city.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~HeinsbergHeinsberg-city.protect.md) 
 
-### [Heinsberg-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Heinsberg-city.private.md) 
+### [Heinsberg-city.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~HeinsbergHeinsberg-city.private.md) 
 
-### [Heinsberg-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Heinsberg-city.personal.md) 
+### [Heinsberg-city.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~HeinsbergHeinsberg-city.personal.md) 
 
-### [Heinsberg-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Heinsberg-city.secret.md) 
+### [Heinsberg-city.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~HeinsbergHeinsberg-city.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.45,7.97] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Arnsberg/Neheim.md) 
+### [Neheim.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~Hochsauerland\ArnsbergNeheim.public.md) 
 
-### [Neheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Arnsberg/Neheim.internal.md) 
+### [Neheim.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~Hochsauerland\ArnsbergNeheim.internal.md) 
 
-### [Neheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Arnsberg/Neheim.protect.md) 
+### [Neheim.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~Hochsauerland\ArnsbergNeheim.protect.md) 
 
-### [Neheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Arnsberg/Neheim.private.md) 
+### [Neheim.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~Hochsauerland\ArnsbergNeheim.private.md) 
 
-### [Neheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Arnsberg/Neheim.personal.md) 
+### [Neheim.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~Hochsauerland\ArnsbergNeheim.personal.md) 
 
-### [Neheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Arnsberg/Neheim.secret.md) 
+### [Neheim.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~Hochsauerland\ArnsbergNeheim.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.47,7.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Wendel-city](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/St.Wendel-city.md) 
+### [St.Wendel-city.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\St.Wendel\cities~St.WendelSt.Wendel-city.public.md) 
 
-### [St.Wendel-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/St.Wendel-city.internal.md) 
+### [St.Wendel-city.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\St.Wendel\cities~St.WendelSt.Wendel-city.internal.md) 
 
-### [St.Wendel-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/St.Wendel-city.protect.md) 
+### [St.Wendel-city.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\St.Wendel\cities~St.WendelSt.Wendel-city.protect.md) 
 
-### [St.Wendel-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/St.Wendel-city.private.md) 
+### [St.Wendel-city.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\St.Wendel\cities~St.WendelSt.Wendel-city.private.md) 
 
-### [St.Wendel-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/St.Wendel-city.personal.md) 
+### [St.Wendel-city.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\St.Wendel\cities~St.WendelSt.Wendel-city.personal.md) 
 
-### [St.Wendel-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/St.Wendel-city.secret.md) 
+### [St.Wendel-city.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\St.Wendel\cities~St.WendelSt.Wendel-city.secret.md)
+

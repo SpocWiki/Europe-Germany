@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.72,12.03] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Doehlen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Auma-Weidatal/City/Doehlen.md) 
+### [Doehlen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Auma-Weidatal\CityDoehlen.public.md) 
 
-### [Doehlen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Auma-Weidatal/City/Doehlen.internal.md) 
+### [Doehlen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Auma-Weidatal\CityDoehlen.internal.md) 
 
-### [Doehlen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Auma-Weidatal/City/Doehlen.protect.md) 
+### [Doehlen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Auma-Weidatal\CityDoehlen.protect.md) 
 
-### [Doehlen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Auma-Weidatal/City/Doehlen.private.md) 
+### [Doehlen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Auma-Weidatal\CityDoehlen.private.md) 
 
-### [Doehlen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Auma-Weidatal/City/Doehlen.personal.md) 
+### [Doehlen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Auma-Weidatal\CityDoehlen.personal.md) 
 
-### [Doehlen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Auma-Weidatal/City/Doehlen.secret.md) 
+### [Doehlen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Auma-Weidatal\CityDoehlen.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.23,7.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ronsdorf,Wuppertal](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Ronsdorf,Wuppertal.md) 
+### [Ronsdorf,Wuppertal.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalRonsdorf,Wuppertal.public.md) 
 
-### [Ronsdorf,Wuppertal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Ronsdorf,Wuppertal.internal.md) 
+### [Ronsdorf,Wuppertal.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalRonsdorf,Wuppertal.internal.md) 
 
-### [Ronsdorf,Wuppertal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Ronsdorf,Wuppertal.protect.md) 
+### [Ronsdorf,Wuppertal.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalRonsdorf,Wuppertal.protect.md) 
 
-### [Ronsdorf,Wuppertal.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Ronsdorf,Wuppertal.private.md) 
+### [Ronsdorf,Wuppertal.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalRonsdorf,Wuppertal.private.md) 
 
-### [Ronsdorf,Wuppertal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Ronsdorf,Wuppertal.personal.md) 
+### [Ronsdorf,Wuppertal.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalRonsdorf,Wuppertal.personal.md) 
 
-### [Ronsdorf,Wuppertal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Ronsdorf,Wuppertal.secret.md) 
+### [Ronsdorf,Wuppertal.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalRonsdorf,Wuppertal.secret.md)
+

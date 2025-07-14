@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.68,12.28] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jessnitz~Anhalt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Raguhn-Jeßnitz/City/Jessnitz~Anhalt.md) 
+### [Jessnitz~Anhalt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Raguhn-Jeßnitz\CityJessnitz~Anhalt.public.md) 
 
-### [Jessnitz~Anhalt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Raguhn-Jeßnitz/City/Jessnitz~Anhalt.internal.md) 
+### [Jessnitz~Anhalt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Raguhn-Jeßnitz\CityJessnitz~Anhalt.internal.md) 
 
-### [Jessnitz~Anhalt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Raguhn-Jeßnitz/City/Jessnitz~Anhalt.protect.md) 
+### [Jessnitz~Anhalt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Raguhn-Jeßnitz\CityJessnitz~Anhalt.protect.md) 
 
-### [Jessnitz~Anhalt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Raguhn-Jeßnitz/City/Jessnitz~Anhalt.private.md) 
+### [Jessnitz~Anhalt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Raguhn-Jeßnitz\CityJessnitz~Anhalt.private.md) 
 
-### [Jessnitz~Anhalt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Raguhn-Jeßnitz/City/Jessnitz~Anhalt.personal.md) 
+### [Jessnitz~Anhalt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Raguhn-Jeßnitz\CityJessnitz~Anhalt.personal.md) 
 
-### [Jessnitz~Anhalt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Raguhn-Jeßnitz/City/Jessnitz~Anhalt.secret.md) 
+### [Jessnitz~Anhalt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Raguhn-Jeßnitz\CityJessnitz~Anhalt.secret.md)
+

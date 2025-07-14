@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.58,8.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Steinfeld~Oldenburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Steinfeld~Oldenburg.md) 
+### [Steinfeld~Oldenburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~VechtaSteinfeld~Oldenburg.public.md) 
 
-### [Steinfeld~Oldenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Steinfeld~Oldenburg.internal.md) 
+### [Steinfeld~Oldenburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~VechtaSteinfeld~Oldenburg.internal.md) 
 
-### [Steinfeld~Oldenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Steinfeld~Oldenburg.protect.md) 
+### [Steinfeld~Oldenburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~VechtaSteinfeld~Oldenburg.protect.md) 
 
-### [Steinfeld~Oldenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Steinfeld~Oldenburg.private.md) 
+### [Steinfeld~Oldenburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~VechtaSteinfeld~Oldenburg.private.md) 
 
-### [Steinfeld~Oldenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Steinfeld~Oldenburg.personal.md) 
+### [Steinfeld~Oldenburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~VechtaSteinfeld~Oldenburg.personal.md) 
 
-### [Steinfeld~Oldenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Steinfeld~Oldenburg.secret.md) 
+### [Steinfeld~Oldenburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~VechtaSteinfeld~Oldenburg.secret.md)
+

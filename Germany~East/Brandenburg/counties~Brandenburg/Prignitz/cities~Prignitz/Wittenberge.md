@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.02,11.77] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wittenberge](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Wittenberge.md) 
+### [Wittenberge.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~PrignitzWittenberge.public.md) 
 
-### [Wittenberge.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Wittenberge.internal.md) 
+### [Wittenberge.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~PrignitzWittenberge.internal.md) 
 
-### [Wittenberge.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Wittenberge.protect.md) 
+### [Wittenberge.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~PrignitzWittenberge.protect.md) 
 
-### [Wittenberge.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Wittenberge.private.md) 
+### [Wittenberge.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~PrignitzWittenberge.private.md) 
 
-### [Wittenberge.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Wittenberge.personal.md) 
+### [Wittenberge.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~PrignitzWittenberge.personal.md) 
 
-### [Wittenberge.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Wittenberge.secret.md) 
+### [Wittenberge.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~PrignitzWittenberge.secret.md)
+

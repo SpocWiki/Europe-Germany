@@ -43,14 +43,15 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 
-### [_Lakes](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/_Lakes.md) 
+### [_Lakes.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin_Lakes.public.md) 
 
-### [_Lakes.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/_Lakes.internal.md) 
+### [_Lakes.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin_Lakes.internal.md) 
 
-### [_Lakes.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/_Lakes.protect.md) 
+### [_Lakes.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin_Lakes.protect.md) 
 
-### [_Lakes.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/_Lakes.private.md) 
+### [_Lakes.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin_Lakes.private.md) 
 
-### [_Lakes.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/_Lakes.personal.md) 
+### [_Lakes.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin_Lakes.personal.md) 
 
-### [_Lakes.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/_Lakes.secret.md) 
+### [_Lakes.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin_Lakes.secret.md)
+

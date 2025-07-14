@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.53,8.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Geestemünde](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde.md) 
+### [Geestemünde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~Bremen\Bremerhaven\boroughs~BremerhavenGeestemünde.public.md) 
 
-### [Geestemünde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde.internal.md) 
+### [Geestemünde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~Bremen\Bremerhaven\boroughs~BremerhavenGeestemünde.internal.md) 
 
-### [Geestemünde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde.protect.md) 
+### [Geestemünde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~Bremen\Bremerhaven\boroughs~BremerhavenGeestemünde.protect.md) 
 
-### [Geestemünde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde.private.md) 
+### [Geestemünde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~Bremen\Bremerhaven\boroughs~BremerhavenGeestemünde.private.md) 
 
-### [Geestemünde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde.personal.md) 
+### [Geestemünde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~Bremen\Bremerhaven\boroughs~BremerhavenGeestemünde.personal.md) 
 
-### [Geestemünde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde.secret.md) 
+### [Geestemünde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~Bremen\Bremerhaven\boroughs~BremerhavenGeestemünde.secret.md)
+

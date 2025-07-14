@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.67,9.97] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Loitmark](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kappeln,Schleswig/boroughs~Kappeln/Loitmark.md) 
+### [Loitmark.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Schleswig-Flensburg\cities~Schleswig-Flensburg\Kappeln,Schleswig\boroughs~KappelnLoitmark.public.md) 
 
-### [Loitmark.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kappeln,Schleswig/boroughs~Kappeln/Loitmark.internal.md) 
+### [Loitmark.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Schleswig-Flensburg\cities~Schleswig-Flensburg\Kappeln,Schleswig\boroughs~KappelnLoitmark.internal.md) 
 
-### [Loitmark.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kappeln,Schleswig/boroughs~Kappeln/Loitmark.protect.md) 
+### [Loitmark.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Schleswig-Flensburg\cities~Schleswig-Flensburg\Kappeln,Schleswig\boroughs~KappelnLoitmark.protect.md) 
 
-### [Loitmark.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kappeln,Schleswig/boroughs~Kappeln/Loitmark.private.md) 
+### [Loitmark.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Schleswig-Flensburg\cities~Schleswig-Flensburg\Kappeln,Schleswig\boroughs~KappelnLoitmark.private.md) 
 
-### [Loitmark.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kappeln,Schleswig/boroughs~Kappeln/Loitmark.personal.md) 
+### [Loitmark.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Schleswig-Flensburg\cities~Schleswig-Flensburg\Kappeln,Schleswig\boroughs~KappelnLoitmark.personal.md) 
 
-### [Loitmark.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kappeln,Schleswig/boroughs~Kappeln/Loitmark.secret.md) 
+### [Loitmark.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Schleswig-Flensburg\cities~Schleswig-Flensburg\Kappeln,Schleswig\boroughs~KappelnLoitmark.secret.md)
+

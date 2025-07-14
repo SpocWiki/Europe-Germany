@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q1209
 location:
 - 53.08
@@ -116,16 +116,18 @@ liegt das einzigartige und zugleich älteste Quartier der Stadt.
 Im Schnoor-Viertel reihen sich in engen Gassen kleine, bunte Häuser und Geschäfte 
 wie Perlen an einer Schnur auf. 
 
+
 ## Confidential Links & Embeds: 
 
-### [Bremen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremen.md) 
+### [Bremen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~BremenBremen.public.md) 
 
-### [Bremen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremen.internal.md) 
+### [Bremen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~BremenBremen.internal.md) 
 
-### [Bremen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremen.protect.md) 
+### [Bremen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~BremenBremen.protect.md) 
 
-### [Bremen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremen.private.md) 
+### [Bremen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~BremenBremen.private.md) 
 
-### [Bremen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremen.personal.md) 
+### [Bremen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~BremenBremen.personal.md) 
 
-### [Bremen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremen.secret.md) 
+### [Bremen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~BremenBremen.secret.md)
+

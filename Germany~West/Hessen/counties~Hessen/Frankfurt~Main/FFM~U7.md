@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 50.1141 , 8.688 ] 
 type: geo-Region
 title: FFM~U7
@@ -65,17 +65,17 @@ markerFolder: ./Station/
 2[[Stations-FFM~U/U-Enkheim]]]]  
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FFM~U7](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~U7.md) 
+### [FFM~U7.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~U7.public.md) 
 
-### [FFM~U7.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~U7.internal.md) 
+### [FFM~U7.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~U7.internal.md) 
 
-### [FFM~U7.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~U7.protect.md) 
+### [FFM~U7.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~U7.protect.md) 
 
-### [FFM~U7.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~U7.private.md) 
+### [FFM~U7.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~U7.private.md) 
 
-### [FFM~U7.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~U7.personal.md) 
+### [FFM~U7.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~U7.personal.md) 
 
-### [FFM~U7.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~U7.secret.md) 
+### [FFM~U7.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~U7.secret.md)
+

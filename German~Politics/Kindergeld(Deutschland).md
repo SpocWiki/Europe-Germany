@@ -15,3 +15,20 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Kindergeld(Deutschland).public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\German~PoliticsKindergeld(Deutschland).public.md) 
+
+### [Kindergeld(Deutschland).internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\German~PoliticsKindergeld(Deutschland).internal.md) 
+
+### [Kindergeld(Deutschland).protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\German~PoliticsKindergeld(Deutschland).protect.md) 
+
+### [Kindergeld(Deutschland).private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\German~PoliticsKindergeld(Deutschland).private.md) 
+
+### [Kindergeld(Deutschland).personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\German~PoliticsKindergeld(Deutschland).personal.md) 
+
+### [Kindergeld(Deutschland).secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\German~PoliticsKindergeld(Deutschland).secret.md)
+

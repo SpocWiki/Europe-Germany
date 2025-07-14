@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.85,7.82] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sendenhorst](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Sendenhorst.md) 
+### [Sendenhorst.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfSendenhorst.public.md) 
 
-### [Sendenhorst.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Sendenhorst.internal.md) 
+### [Sendenhorst.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfSendenhorst.internal.md) 
 
-### [Sendenhorst.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Sendenhorst.protect.md) 
+### [Sendenhorst.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfSendenhorst.protect.md) 
 
-### [Sendenhorst.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Sendenhorst.private.md) 
+### [Sendenhorst.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfSendenhorst.private.md) 
 
-### [Sendenhorst.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Sendenhorst.personal.md) 
+### [Sendenhorst.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfSendenhorst.personal.md) 
 
-### [Sendenhorst.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Sendenhorst.secret.md) 
+### [Sendenhorst.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfSendenhorst.secret.md)
+

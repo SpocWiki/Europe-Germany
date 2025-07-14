@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.02,11.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schönebeck](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Schönebeck~Elbe/boroughs~Schönebeck~Elbe/Schönebeck.md) 
+### [Schönebeck.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Schönebeck~Elbe\boroughs~Schönebeck~ElbeSchönebeck.public.md) 
 
-### [Schönebeck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Schönebeck~Elbe/boroughs~Schönebeck~Elbe/Schönebeck.internal.md) 
+### [Schönebeck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Schönebeck~Elbe\boroughs~Schönebeck~ElbeSchönebeck.internal.md) 
 
-### [Schönebeck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Schönebeck~Elbe/boroughs~Schönebeck~Elbe/Schönebeck.protect.md) 
+### [Schönebeck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Schönebeck~Elbe\boroughs~Schönebeck~ElbeSchönebeck.protect.md) 
 
-### [Schönebeck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Schönebeck~Elbe/boroughs~Schönebeck~Elbe/Schönebeck.private.md) 
+### [Schönebeck.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Schönebeck~Elbe\boroughs~Schönebeck~ElbeSchönebeck.private.md) 
 
-### [Schönebeck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Schönebeck~Elbe/boroughs~Schönebeck~Elbe/Schönebeck.personal.md) 
+### [Schönebeck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Schönebeck~Elbe\boroughs~Schönebeck~ElbeSchönebeck.personal.md) 
 
-### [Schönebeck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Schönebeck~Elbe/boroughs~Schönebeck~Elbe/Schönebeck.secret.md) 
+### [Schönebeck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Schönebeck~Elbe\boroughs~Schönebeck~ElbeSchönebeck.secret.md)
+

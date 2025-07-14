@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.05,8.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -35,14 +35,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Delmenhorst](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Delmenhorst.md) 
+### [Delmenhorst.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenDelmenhorst.public.md) 
 
-### [Delmenhorst.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Delmenhorst.internal.md) 
+### [Delmenhorst.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenDelmenhorst.internal.md) 
 
-### [Delmenhorst.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Delmenhorst.protect.md) 
+### [Delmenhorst.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenDelmenhorst.protect.md) 
 
-### [Delmenhorst.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Delmenhorst.private.md) 
+### [Delmenhorst.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenDelmenhorst.private.md) 
 
-### [Delmenhorst.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Delmenhorst.personal.md) 
+### [Delmenhorst.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenDelmenhorst.personal.md) 
 
-### [Delmenhorst.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Delmenhorst.secret.md) 
+### [Delmenhorst.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenDelmenhorst.secret.md)
+

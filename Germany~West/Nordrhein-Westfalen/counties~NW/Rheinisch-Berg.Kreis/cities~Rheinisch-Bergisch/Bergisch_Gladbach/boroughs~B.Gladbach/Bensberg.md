@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.97,7.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bensberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Bergisch_Gladbach/boroughs~B.Gladbach/Bensberg.md) 
+### [Bensberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rheinisch-Berg.Kreis\cities~Rheinisch-Bergisch\Bergisch_Gladbach\boroughs~B.GladbachBensberg.public.md) 
 
-### [Bensberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Bergisch_Gladbach/boroughs~B.Gladbach/Bensberg.internal.md) 
+### [Bensberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rheinisch-Berg.Kreis\cities~Rheinisch-Bergisch\Bergisch_Gladbach\boroughs~B.GladbachBensberg.internal.md) 
 
-### [Bensberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Bergisch_Gladbach/boroughs~B.Gladbach/Bensberg.protect.md) 
+### [Bensberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rheinisch-Berg.Kreis\cities~Rheinisch-Bergisch\Bergisch_Gladbach\boroughs~B.GladbachBensberg.protect.md) 
 
-### [Bensberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Bergisch_Gladbach/boroughs~B.Gladbach/Bensberg.private.md) 
+### [Bensberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rheinisch-Berg.Kreis\cities~Rheinisch-Bergisch\Bergisch_Gladbach\boroughs~B.GladbachBensberg.private.md) 
 
-### [Bensberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Bergisch_Gladbach/boroughs~B.Gladbach/Bensberg.personal.md) 
+### [Bensberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rheinisch-Berg.Kreis\cities~Rheinisch-Bergisch\Bergisch_Gladbach\boroughs~B.GladbachBensberg.personal.md) 
 
-### [Bensberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Bergisch_Gladbach/boroughs~B.Gladbach/Bensberg.secret.md) 
+### [Bensberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rheinisch-Berg.Kreis\cities~Rheinisch-Bergisch\Bergisch_Gladbach\boroughs~B.GladbachBensberg.secret.md)
+

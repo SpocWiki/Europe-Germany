@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.28722,8.757222] 
 type: Station 
 mapzoom: [8,18] 
@@ -30,14 +30,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [S-Nieder-Wöllstadt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Nieder-Wöllstadt.md) 
+### [S-Nieder-Wöllstadt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Nieder-Wöllstadt.public.md) 
 
-### [S-Nieder-Wöllstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Nieder-Wöllstadt.internal.md) 
+### [S-Nieder-Wöllstadt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Nieder-Wöllstadt.internal.md) 
 
-### [S-Nieder-Wöllstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Nieder-Wöllstadt.protect.md) 
+### [S-Nieder-Wöllstadt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Nieder-Wöllstadt.protect.md) 
 
-### [S-Nieder-Wöllstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Nieder-Wöllstadt.private.md) 
+### [S-Nieder-Wöllstadt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Nieder-Wöllstadt.private.md) 
 
-### [S-Nieder-Wöllstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Nieder-Wöllstadt.personal.md) 
+### [S-Nieder-Wöllstadt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Nieder-Wöllstadt.personal.md) 
 
-### [S-Nieder-Wöllstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Nieder-Wöllstadt.secret.md) 
+### [S-Nieder-Wöllstadt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Nieder-Wöllstadt.secret.md)
+

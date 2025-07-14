@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.83,10.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Reinfeld,Holstein](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Reinfeld,Holstein.md) 
+### [Reinfeld,Holstein.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Stormarn\cities~StormarnReinfeld,Holstein.public.md) 
 
-### [Reinfeld,Holstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Reinfeld,Holstein.internal.md) 
+### [Reinfeld,Holstein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Stormarn\cities~StormarnReinfeld,Holstein.internal.md) 
 
-### [Reinfeld,Holstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Reinfeld,Holstein.protect.md) 
+### [Reinfeld,Holstein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Stormarn\cities~StormarnReinfeld,Holstein.protect.md) 
 
-### [Reinfeld,Holstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Reinfeld,Holstein.private.md) 
+### [Reinfeld,Holstein.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Stormarn\cities~StormarnReinfeld,Holstein.private.md) 
 
-### [Reinfeld,Holstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Reinfeld,Holstein.personal.md) 
+### [Reinfeld,Holstein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Stormarn\cities~StormarnReinfeld,Holstein.personal.md) 
 
-### [Reinfeld,Holstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Reinfeld,Holstein.secret.md) 
+### [Reinfeld,Holstein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Stormarn\cities~StormarnReinfeld,Holstein.secret.md)
+

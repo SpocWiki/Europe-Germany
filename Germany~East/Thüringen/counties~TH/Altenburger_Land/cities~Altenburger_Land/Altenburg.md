@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.97,12.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Altenburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg.md) 
+### [Altenburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Altenburger_Land\cities~Altenburger_LandAltenburg.public.md) 
 
-### [Altenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg.internal.md) 
+### [Altenburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Altenburger_Land\cities~Altenburger_LandAltenburg.internal.md) 
 
-### [Altenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg.protect.md) 
+### [Altenburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Altenburger_Land\cities~Altenburger_LandAltenburg.protect.md) 
 
-### [Altenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg.private.md) 
+### [Altenburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Altenburger_Land\cities~Altenburger_LandAltenburg.private.md) 
 
-### [Altenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg.personal.md) 
+### [Altenburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Altenburger_Land\cities~Altenburger_LandAltenburg.personal.md) 
 
-### [Altenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg.secret.md) 
+### [Altenburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Altenburger_Land\cities~Altenburger_LandAltenburg.secret.md)
+

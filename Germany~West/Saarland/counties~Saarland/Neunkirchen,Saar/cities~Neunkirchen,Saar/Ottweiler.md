@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.4,7.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ottweiler](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Ottweiler.md) 
+### [Ottweiler.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,SaarOttweiler.public.md) 
 
-### [Ottweiler.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Ottweiler.internal.md) 
+### [Ottweiler.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,SaarOttweiler.internal.md) 
 
-### [Ottweiler.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Ottweiler.protect.md) 
+### [Ottweiler.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,SaarOttweiler.protect.md) 
 
-### [Ottweiler.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Ottweiler.private.md) 
+### [Ottweiler.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,SaarOttweiler.private.md) 
 
-### [Ottweiler.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Ottweiler.personal.md) 
+### [Ottweiler.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,SaarOttweiler.personal.md) 
 
-### [Ottweiler.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Ottweiler.secret.md) 
+### [Ottweiler.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,SaarOttweiler.secret.md)
+

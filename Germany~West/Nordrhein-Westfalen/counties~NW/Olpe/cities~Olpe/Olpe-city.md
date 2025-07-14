@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.03,7.85] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Olpe-city](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Olpe/cities~Olpe/Olpe-city.md) 
+### [Olpe-city.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeOlpe-city.public.md) 
 
-### [Olpe-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Olpe/cities~Olpe/Olpe-city.internal.md) 
+### [Olpe-city.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeOlpe-city.internal.md) 
 
-### [Olpe-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Olpe/cities~Olpe/Olpe-city.protect.md) 
+### [Olpe-city.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeOlpe-city.protect.md) 
 
-### [Olpe-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Olpe/cities~Olpe/Olpe-city.private.md) 
+### [Olpe-city.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeOlpe-city.private.md) 
 
-### [Olpe-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Olpe/cities~Olpe/Olpe-city.personal.md) 
+### [Olpe-city.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeOlpe-city.personal.md) 
 
-### [Olpe-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Olpe/cities~Olpe/Olpe-city.secret.md) 
+### [Olpe-city.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeOlpe-city.secret.md)
+

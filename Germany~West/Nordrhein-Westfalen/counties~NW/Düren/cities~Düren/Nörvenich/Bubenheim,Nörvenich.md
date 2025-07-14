@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.72,6.55] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bubenheim,Nörvenich](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich.md) 
+### [Bubenheim,Nörvenich.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~Düren\NörvenichBubenheim,Nörvenich.public.md) 
 
-### [Bubenheim,Nörvenich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich.internal.md) 
+### [Bubenheim,Nörvenich.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~Düren\NörvenichBubenheim,Nörvenich.internal.md) 
 
-### [Bubenheim,Nörvenich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich.protect.md) 
+### [Bubenheim,Nörvenich.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~Düren\NörvenichBubenheim,Nörvenich.protect.md) 
 
-### [Bubenheim,Nörvenich.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich.private.md) 
+### [Bubenheim,Nörvenich.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~Düren\NörvenichBubenheim,Nörvenich.private.md) 
 
-### [Bubenheim,Nörvenich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich.personal.md) 
+### [Bubenheim,Nörvenich.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~Düren\NörvenichBubenheim,Nörvenich.personal.md) 
 
-### [Bubenheim,Nörvenich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich.secret.md) 
+### [Bubenheim,Nörvenich.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~Düren\NörvenichBubenheim,Nörvenich.secret.md)
+

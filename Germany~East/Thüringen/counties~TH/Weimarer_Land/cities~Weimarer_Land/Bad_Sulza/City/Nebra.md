@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.03,11.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nebra](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Bad_Sulza/City/Nebra.md) 
+### [Nebra.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Weimarer_Land\cities~Weimarer_Land\Bad_Sulza\CityNebra.public.md) 
 
-### [Nebra.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Bad_Sulza/City/Nebra.internal.md) 
+### [Nebra.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Weimarer_Land\cities~Weimarer_Land\Bad_Sulza\CityNebra.internal.md) 
 
-### [Nebra.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Bad_Sulza/City/Nebra.protect.md) 
+### [Nebra.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Weimarer_Land\cities~Weimarer_Land\Bad_Sulza\CityNebra.protect.md) 
 
-### [Nebra.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Bad_Sulza/City/Nebra.private.md) 
+### [Nebra.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Weimarer_Land\cities~Weimarer_Land\Bad_Sulza\CityNebra.private.md) 
 
-### [Nebra.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Bad_Sulza/City/Nebra.personal.md) 
+### [Nebra.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Weimarer_Land\cities~Weimarer_Land\Bad_Sulza\CityNebra.personal.md) 
 
-### [Nebra.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Bad_Sulza/City/Nebra.secret.md) 
+### [Nebra.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Weimarer_Land\cities~Weimarer_Land\Bad_Sulza\CityNebra.secret.md)
+

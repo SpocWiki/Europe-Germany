@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.68,7.15] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Godesberg,Bad](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Bonn/Godesberg,Bad.md) 
+### [Godesberg,Bad.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BonnGodesberg,Bad.public.md) 
 
-### [Godesberg,Bad.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Bonn/Godesberg,Bad.internal.md) 
+### [Godesberg,Bad.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BonnGodesberg,Bad.internal.md) 
 
-### [Godesberg,Bad.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Bonn/Godesberg,Bad.protect.md) 
+### [Godesberg,Bad.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BonnGodesberg,Bad.protect.md) 
 
-### [Godesberg,Bad.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Bonn/Godesberg,Bad.private.md) 
+### [Godesberg,Bad.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BonnGodesberg,Bad.private.md) 
 
-### [Godesberg,Bad.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Bonn/Godesberg,Bad.personal.md) 
+### [Godesberg,Bad.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BonnGodesberg,Bad.personal.md) 
 
-### [Godesberg,Bad.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Bonn/Godesberg,Bad.secret.md) 
+### [Godesberg,Bad.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BonnGodesberg,Bad.secret.md)
+

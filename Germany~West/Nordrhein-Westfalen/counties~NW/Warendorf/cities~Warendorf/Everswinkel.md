@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.95,7.85] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Everswinkel](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Everswinkel.md) 
+### [Everswinkel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfEverswinkel.public.md) 
 
-### [Everswinkel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Everswinkel.internal.md) 
+### [Everswinkel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfEverswinkel.internal.md) 
 
-### [Everswinkel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Everswinkel.protect.md) 
+### [Everswinkel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfEverswinkel.protect.md) 
 
-### [Everswinkel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Everswinkel.private.md) 
+### [Everswinkel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfEverswinkel.private.md) 
 
-### [Everswinkel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Everswinkel.personal.md) 
+### [Everswinkel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfEverswinkel.personal.md) 
 
-### [Everswinkel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Everswinkel.secret.md) 
+### [Everswinkel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfEverswinkel.secret.md)
+

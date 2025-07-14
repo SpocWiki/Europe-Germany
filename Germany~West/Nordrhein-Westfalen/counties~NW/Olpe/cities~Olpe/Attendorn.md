@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.13,7.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Attendorn](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Olpe/cities~Olpe/Attendorn.md) 
+### [Attendorn.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeAttendorn.public.md) 
 
-### [Attendorn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Olpe/cities~Olpe/Attendorn.internal.md) 
+### [Attendorn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeAttendorn.internal.md) 
 
-### [Attendorn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Olpe/cities~Olpe/Attendorn.protect.md) 
+### [Attendorn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeAttendorn.protect.md) 
 
-### [Attendorn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Olpe/cities~Olpe/Attendorn.private.md) 
+### [Attendorn.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeAttendorn.private.md) 
 
-### [Attendorn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Olpe/cities~Olpe/Attendorn.personal.md) 
+### [Attendorn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeAttendorn.personal.md) 
 
-### [Attendorn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Olpe/cities~Olpe/Attendorn.secret.md) 
+### [Attendorn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeAttendorn.secret.md)
+

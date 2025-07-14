@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.43,9.33] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hagenburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Sachsenhagen/boroughs~Sachsenhagen/Hagenburg.md) 
+### [Hagenburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Sachsenhagen\boroughs~SachsenhagenHagenburg.public.md) 
 
-### [Hagenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Sachsenhagen/boroughs~Sachsenhagen/Hagenburg.internal.md) 
+### [Hagenburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Sachsenhagen\boroughs~SachsenhagenHagenburg.internal.md) 
 
-### [Hagenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Sachsenhagen/boroughs~Sachsenhagen/Hagenburg.protect.md) 
+### [Hagenburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Sachsenhagen\boroughs~SachsenhagenHagenburg.protect.md) 
 
-### [Hagenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Sachsenhagen/boroughs~Sachsenhagen/Hagenburg.private.md) 
+### [Hagenburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Sachsenhagen\boroughs~SachsenhagenHagenburg.private.md) 
 
-### [Hagenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Sachsenhagen/boroughs~Sachsenhagen/Hagenburg.personal.md) 
+### [Hagenburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Sachsenhagen\boroughs~SachsenhagenHagenburg.personal.md) 
 
-### [Hagenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Sachsenhagen/boroughs~Sachsenhagen/Hagenburg.secret.md) 
+### [Hagenburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Sachsenhagen\boroughs~SachsenhagenHagenburg.secret.md)
+

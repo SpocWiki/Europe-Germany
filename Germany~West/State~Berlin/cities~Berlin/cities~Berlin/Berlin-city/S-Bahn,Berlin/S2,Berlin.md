@@ -157,3 +157,20 @@ class S2_Waidmannslust,S2_Wittenau,S2_Wilhelmsruh,S2_Schönholz,S2_Wollankstraß
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [S2,Berlin.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS2,Berlin.public.md) 
+
+### [S2,Berlin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS2,Berlin.internal.md) 
+
+### [S2,Berlin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS2,Berlin.protect.md) 
+
+### [S2,Berlin.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS2,Berlin.private.md) 
+
+### [S2,Berlin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS2,Berlin.personal.md) 
+
+### [S2,Berlin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS2,Berlin.secret.md)
+

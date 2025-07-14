@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.35,7.18] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nesserland](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden/Cities~Emden/Nesserland.md) 
+### [Nesserland.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emden\Cities~EmdenNesserland.public.md) 
 
-### [Nesserland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden/Cities~Emden/Nesserland.internal.md) 
+### [Nesserland.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emden\Cities~EmdenNesserland.internal.md) 
 
-### [Nesserland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden/Cities~Emden/Nesserland.protect.md) 
+### [Nesserland.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emden\Cities~EmdenNesserland.protect.md) 
 
-### [Nesserland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden/Cities~Emden/Nesserland.private.md) 
+### [Nesserland.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emden\Cities~EmdenNesserland.private.md) 
 
-### [Nesserland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden/Cities~Emden/Nesserland.personal.md) 
+### [Nesserland.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emden\Cities~EmdenNesserland.personal.md) 
 
-### [Nesserland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden/Cities~Emden/Nesserland.secret.md) 
+### [Nesserland.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emden\Cities~EmdenNesserland.secret.md)
+

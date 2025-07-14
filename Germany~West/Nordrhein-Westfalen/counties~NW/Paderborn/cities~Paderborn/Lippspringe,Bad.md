@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.78,8.81] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lippspringe,Bad](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Lippspringe,Bad.md) 
+### [Lippspringe,Bad.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~PaderbornLippspringe,Bad.public.md) 
 
-### [Lippspringe,Bad.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Lippspringe,Bad.internal.md) 
+### [Lippspringe,Bad.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~PaderbornLippspringe,Bad.internal.md) 
 
-### [Lippspringe,Bad.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Lippspringe,Bad.protect.md) 
+### [Lippspringe,Bad.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~PaderbornLippspringe,Bad.protect.md) 
 
-### [Lippspringe,Bad.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Lippspringe,Bad.private.md) 
+### [Lippspringe,Bad.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~PaderbornLippspringe,Bad.private.md) 
 
-### [Lippspringe,Bad.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Lippspringe,Bad.personal.md) 
+### [Lippspringe,Bad.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~PaderbornLippspringe,Bad.personal.md) 
 
-### [Lippspringe,Bad.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Lippspringe,Bad.secret.md) 
+### [Lippspringe,Bad.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~PaderbornLippspringe,Bad.secret.md)
+

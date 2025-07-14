@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.8,12.37] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oranienbaum](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Oranienbaum-Wörlitz/City/Oranienbaum.md) 
+### [Oranienbaum.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Oranienbaum-Wörlitz\CityOranienbaum.public.md) 
 
-### [Oranienbaum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Oranienbaum-Wörlitz/City/Oranienbaum.internal.md) 
+### [Oranienbaum.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Oranienbaum-Wörlitz\CityOranienbaum.internal.md) 
 
-### [Oranienbaum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Oranienbaum-Wörlitz/City/Oranienbaum.protect.md) 
+### [Oranienbaum.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Oranienbaum-Wörlitz\CityOranienbaum.protect.md) 
 
-### [Oranienbaum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Oranienbaum-Wörlitz/City/Oranienbaum.private.md) 
+### [Oranienbaum.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Oranienbaum-Wörlitz\CityOranienbaum.private.md) 
 
-### [Oranienbaum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Oranienbaum-Wörlitz/City/Oranienbaum.personal.md) 
+### [Oranienbaum.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Oranienbaum-Wörlitz\CityOranienbaum.personal.md) 
 
-### [Oranienbaum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Oranienbaum-Wörlitz/City/Oranienbaum.secret.md) 
+### [Oranienbaum.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Oranienbaum-Wörlitz\CityOranienbaum.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 50.1787 , 8.733477 ] 
 type: geo-Region
 title: FFM~S6
@@ -66,17 +66,17 @@ markerFolder: ./Station/
 2[[Stations-FFM~S/S-Frankfurt~Main~Süd]]]]  
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FFM~S6](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~S6.md) 
+### [FFM~S6.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~S6.public.md) 
 
-### [FFM~S6.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~S6.internal.md) 
+### [FFM~S6.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~S6.internal.md) 
 
-### [FFM~S6.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~S6.protect.md) 
+### [FFM~S6.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~S6.protect.md) 
 
-### [FFM~S6.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~S6.private.md) 
+### [FFM~S6.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~S6.private.md) 
 
-### [FFM~S6.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~S6.personal.md) 
+### [FFM~S6.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~S6.personal.md) 
 
-### [FFM~S6.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~S6.secret.md) 
+### [FFM~S6.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~S6.secret.md)
+

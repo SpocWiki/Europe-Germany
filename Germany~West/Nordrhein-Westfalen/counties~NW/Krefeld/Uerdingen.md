@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.36,6.64] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -36,14 +36,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Uerdingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Krefeld/Uerdingen.md) 
+### [Uerdingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KrefeldUerdingen.public.md) 
 
-### [Uerdingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Krefeld/Uerdingen.internal.md) 
+### [Uerdingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KrefeldUerdingen.internal.md) 
 
-### [Uerdingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Krefeld/Uerdingen.protect.md) 
+### [Uerdingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KrefeldUerdingen.protect.md) 
 
-### [Uerdingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Krefeld/Uerdingen.private.md) 
+### [Uerdingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KrefeldUerdingen.private.md) 
 
-### [Uerdingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Krefeld/Uerdingen.personal.md) 
+### [Uerdingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KrefeldUerdingen.personal.md) 
 
-### [Uerdingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Krefeld/Uerdingen.secret.md) 
+### [Uerdingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KrefeldUerdingen.secret.md)
+

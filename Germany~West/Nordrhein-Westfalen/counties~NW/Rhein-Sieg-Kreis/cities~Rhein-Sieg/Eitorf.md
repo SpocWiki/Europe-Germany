@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.77,7.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eitorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Eitorf.md) 
+### [Eitorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-SiegEitorf.public.md) 
 
-### [Eitorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Eitorf.internal.md) 
+### [Eitorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-SiegEitorf.internal.md) 
 
-### [Eitorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Eitorf.protect.md) 
+### [Eitorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-SiegEitorf.protect.md) 
 
-### [Eitorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Eitorf.private.md) 
+### [Eitorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-SiegEitorf.private.md) 
 
-### [Eitorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Eitorf.personal.md) 
+### [Eitorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-SiegEitorf.personal.md) 
 
-### [Eitorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Eitorf.secret.md) 
+### [Eitorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-SiegEitorf.secret.md)
+

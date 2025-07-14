@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.83,11.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wohlenberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Seehausen~Altmark/City/Wohlenberg.md) 
+### [Wohlenberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Seehausen~Altmark\CityWohlenberg.public.md) 
 
-### [Wohlenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Seehausen~Altmark/City/Wohlenberg.internal.md) 
+### [Wohlenberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Seehausen~Altmark\CityWohlenberg.internal.md) 
 
-### [Wohlenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Seehausen~Altmark/City/Wohlenberg.protect.md) 
+### [Wohlenberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Seehausen~Altmark\CityWohlenberg.protect.md) 
 
-### [Wohlenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Seehausen~Altmark/City/Wohlenberg.private.md) 
+### [Wohlenberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Seehausen~Altmark\CityWohlenberg.private.md) 
 
-### [Wohlenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Seehausen~Altmark/City/Wohlenberg.personal.md) 
+### [Wohlenberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Seehausen~Altmark\CityWohlenberg.personal.md) 
 
-### [Wohlenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Seehausen~Altmark/City/Wohlenberg.secret.md) 
+### [Wohlenberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Seehausen~Altmark\CityWohlenberg.secret.md)
+

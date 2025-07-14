@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.35,12.38] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Leipzig](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig-City/City/Leipzig.md) 
+### [Leipzig.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig-City\CityLeipzig.public.md) 
 
-### [Leipzig.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig-City/City/Leipzig.internal.md) 
+### [Leipzig.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig-City\CityLeipzig.internal.md) 
 
-### [Leipzig.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig-City/City/Leipzig.protect.md) 
+### [Leipzig.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig-City\CityLeipzig.protect.md) 
 
-### [Leipzig.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig-City/City/Leipzig.private.md) 
+### [Leipzig.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig-City\CityLeipzig.private.md) 
 
-### [Leipzig.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig-City/City/Leipzig.personal.md) 
+### [Leipzig.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig-City\CityLeipzig.personal.md) 
 
-### [Leipzig.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig-City/City/Leipzig.secret.md) 
+### [Leipzig.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig-City\CityLeipzig.secret.md)
+

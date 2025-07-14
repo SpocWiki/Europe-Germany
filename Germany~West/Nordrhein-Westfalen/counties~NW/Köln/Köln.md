@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.94
 - 6.96
@@ -267,16 +267,18 @@ maxZoom: 18
 [[../../../../../../../../../../assets/geo/Europe/Germany/Nordrhein-Westfalen/Kölner_Dom.webp]]] ![[../../../../../../../../../../assets/geo/Europe/Germany/Nordrhein-Westfalen/Kölner_Dom.webp]]] 
 Kölner Dom ( [[Unesco]] 1996) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Köln](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Köln/Köln.md) 
+### [Köln.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln.public.md) 
 
-### [Köln.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Köln/Köln.internal.md) 
+### [Köln.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln.internal.md) 
 
-### [Köln.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Köln/Köln.protect.md) 
+### [Köln.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln.protect.md) 
 
-### [Köln.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Köln/Köln.private.md) 
+### [Köln.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln.private.md) 
 
-### [Köln.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Köln/Köln.personal.md) 
+### [Köln.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln.personal.md) 
 
-### [Köln.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Köln/Köln.secret.md) 
+### [Köln.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln.secret.md)
+

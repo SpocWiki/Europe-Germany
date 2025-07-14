@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.5,12.88] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Klockow,Schloen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Waren,Seen/boroughs~Waren,Seen/Schloen-Dratow/Klockow,Schloen.md) 
+### [Klockow,Schloen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Waren,Seen\boroughs~Waren,Seen\Schloen-DratowKlockow,Schloen.public.md) 
 
-### [Klockow,Schloen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Waren,Seen/boroughs~Waren,Seen/Schloen-Dratow/Klockow,Schloen.internal.md) 
+### [Klockow,Schloen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Waren,Seen\boroughs~Waren,Seen\Schloen-DratowKlockow,Schloen.internal.md) 
 
-### [Klockow,Schloen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Waren,Seen/boroughs~Waren,Seen/Schloen-Dratow/Klockow,Schloen.protect.md) 
+### [Klockow,Schloen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Waren,Seen\boroughs~Waren,Seen\Schloen-DratowKlockow,Schloen.protect.md) 
 
-### [Klockow,Schloen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Waren,Seen/boroughs~Waren,Seen/Schloen-Dratow/Klockow,Schloen.private.md) 
+### [Klockow,Schloen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Waren,Seen\boroughs~Waren,Seen\Schloen-DratowKlockow,Schloen.private.md) 
 
-### [Klockow,Schloen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Waren,Seen/boroughs~Waren,Seen/Schloen-Dratow/Klockow,Schloen.personal.md) 
+### [Klockow,Schloen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Waren,Seen\boroughs~Waren,Seen\Schloen-DratowKlockow,Schloen.personal.md) 
 
-### [Klockow,Schloen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Waren,Seen/boroughs~Waren,Seen/Schloen-Dratow/Klockow,Schloen.secret.md) 
+### [Klockow,Schloen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Waren,Seen\boroughs~Waren,Seen\Schloen-DratowKlockow,Schloen.secret.md)
+

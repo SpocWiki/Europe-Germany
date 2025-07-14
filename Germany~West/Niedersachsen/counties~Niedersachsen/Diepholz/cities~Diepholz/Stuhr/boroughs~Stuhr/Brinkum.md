@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.02,8.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brinkum](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Stuhr/boroughs~Stuhr/Brinkum.md) 
+### [Brinkum.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Stuhr\boroughs~StuhrBrinkum.public.md) 
 
-### [Brinkum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Stuhr/boroughs~Stuhr/Brinkum.internal.md) 
+### [Brinkum.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Stuhr\boroughs~StuhrBrinkum.internal.md) 
 
-### [Brinkum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Stuhr/boroughs~Stuhr/Brinkum.protect.md) 
+### [Brinkum.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Stuhr\boroughs~StuhrBrinkum.protect.md) 
 
-### [Brinkum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Stuhr/boroughs~Stuhr/Brinkum.private.md) 
+### [Brinkum.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Stuhr\boroughs~StuhrBrinkum.private.md) 
 
-### [Brinkum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Stuhr/boroughs~Stuhr/Brinkum.personal.md) 
+### [Brinkum.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Stuhr\boroughs~StuhrBrinkum.personal.md) 
 
-### [Brinkum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Stuhr/boroughs~Stuhr/Brinkum.secret.md) 
+### [Brinkum.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Stuhr\boroughs~StuhrBrinkum.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.35,9.25] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Birstein](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Kefenrod/boroughs~Kefenrod/Birstein.md) 
+### [Birstein.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~Wetteraukreis\Kefenrod\boroughs~KefenrodBirstein.public.md) 
 
-### [Birstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Kefenrod/boroughs~Kefenrod/Birstein.internal.md) 
+### [Birstein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~Wetteraukreis\Kefenrod\boroughs~KefenrodBirstein.internal.md) 
 
-### [Birstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Kefenrod/boroughs~Kefenrod/Birstein.protect.md) 
+### [Birstein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~Wetteraukreis\Kefenrod\boroughs~KefenrodBirstein.protect.md) 
 
-### [Birstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Kefenrod/boroughs~Kefenrod/Birstein.private.md) 
+### [Birstein.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~Wetteraukreis\Kefenrod\boroughs~KefenrodBirstein.private.md) 
 
-### [Birstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Kefenrod/boroughs~Kefenrod/Birstein.personal.md) 
+### [Birstein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~Wetteraukreis\Kefenrod\boroughs~KefenrodBirstein.personal.md) 
 
-### [Birstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Kefenrod/boroughs~Kefenrod/Birstein.secret.md) 
+### [Birstein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~Wetteraukreis\Kefenrod\boroughs~KefenrodBirstein.secret.md)
+

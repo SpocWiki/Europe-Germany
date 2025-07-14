@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.03,10.55] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schladen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Schladen-Werla/boroughs~Schladen-Werla/Schladen.md) 
+### [Schladen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Schladen-Werla\boroughs~Schladen-WerlaSchladen.public.md) 
 
-### [Schladen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Schladen-Werla/boroughs~Schladen-Werla/Schladen.internal.md) 
+### [Schladen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Schladen-Werla\boroughs~Schladen-WerlaSchladen.internal.md) 
 
-### [Schladen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Schladen-Werla/boroughs~Schladen-Werla/Schladen.protect.md) 
+### [Schladen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Schladen-Werla\boroughs~Schladen-WerlaSchladen.protect.md) 
 
-### [Schladen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Schladen-Werla/boroughs~Schladen-Werla/Schladen.private.md) 
+### [Schladen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Schladen-Werla\boroughs~Schladen-WerlaSchladen.private.md) 
 
-### [Schladen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Schladen-Werla/boroughs~Schladen-Werla/Schladen.personal.md) 
+### [Schladen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Schladen-Werla\boroughs~Schladen-WerlaSchladen.personal.md) 
 
-### [Schladen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Schladen-Werla/boroughs~Schladen-Werla/Schladen.secret.md) 
+### [Schladen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Schladen-Werla\boroughs~Schladen-WerlaSchladen.secret.md)
+

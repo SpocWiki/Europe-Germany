@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.48,11.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lauscha](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Sonneberg-city/City/Lauscha.md) 
+### [Lauscha.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Sonneberg-city\CityLauscha.public.md) 
 
-### [Lauscha.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Sonneberg-city/City/Lauscha.internal.md) 
+### [Lauscha.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Sonneberg-city\CityLauscha.internal.md) 
 
-### [Lauscha.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Sonneberg-city/City/Lauscha.protect.md) 
+### [Lauscha.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Sonneberg-city\CityLauscha.protect.md) 
 
-### [Lauscha.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Sonneberg-city/City/Lauscha.private.md) 
+### [Lauscha.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Sonneberg-city\CityLauscha.private.md) 
 
-### [Lauscha.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Sonneberg-city/City/Lauscha.personal.md) 
+### [Lauscha.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Sonneberg-city\CityLauscha.personal.md) 
 
-### [Lauscha.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Sonneberg-city/City/Lauscha.secret.md) 
+### [Lauscha.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Sonneberg-city\CityLauscha.secret.md)
+

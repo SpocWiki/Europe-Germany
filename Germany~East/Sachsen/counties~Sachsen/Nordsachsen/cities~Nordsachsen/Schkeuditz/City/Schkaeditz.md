@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.38,12.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schkaeditz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Schkeuditz/City/Schkaeditz.md) 
+### [Schkaeditz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Schkeuditz\CitySchkaeditz.public.md) 
 
-### [Schkaeditz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Schkeuditz/City/Schkaeditz.internal.md) 
+### [Schkaeditz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Schkeuditz\CitySchkaeditz.internal.md) 
 
-### [Schkaeditz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Schkeuditz/City/Schkaeditz.protect.md) 
+### [Schkaeditz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Schkeuditz\CitySchkaeditz.protect.md) 
 
-### [Schkaeditz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Schkeuditz/City/Schkaeditz.private.md) 
+### [Schkaeditz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Schkeuditz\CitySchkaeditz.private.md) 
 
-### [Schkaeditz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Schkeuditz/City/Schkaeditz.personal.md) 
+### [Schkaeditz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Schkeuditz\CitySchkaeditz.personal.md) 
 
-### [Schkaeditz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Schkeuditz/City/Schkaeditz.secret.md) 
+### [Schkaeditz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Schkeuditz\CitySchkaeditz.secret.md)
+

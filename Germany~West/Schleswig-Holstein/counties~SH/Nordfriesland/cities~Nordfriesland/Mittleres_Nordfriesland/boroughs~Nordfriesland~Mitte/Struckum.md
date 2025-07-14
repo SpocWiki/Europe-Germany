@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.58,9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Struckum](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Mittleres_Nordfriesland/boroughs~Nordfriesland~Mitte/Struckum.md) 
+### [Struckum.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Mittleres_Nordfriesland\boroughs~Nordfriesland~MitteStruckum.public.md) 
 
-### [Struckum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Mittleres_Nordfriesland/boroughs~Nordfriesland~Mitte/Struckum.internal.md) 
+### [Struckum.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Mittleres_Nordfriesland\boroughs~Nordfriesland~MitteStruckum.internal.md) 
 
-### [Struckum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Mittleres_Nordfriesland/boroughs~Nordfriesland~Mitte/Struckum.protect.md) 
+### [Struckum.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Mittleres_Nordfriesland\boroughs~Nordfriesland~MitteStruckum.protect.md) 
 
-### [Struckum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Mittleres_Nordfriesland/boroughs~Nordfriesland~Mitte/Struckum.private.md) 
+### [Struckum.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Mittleres_Nordfriesland\boroughs~Nordfriesland~MitteStruckum.private.md) 
 
-### [Struckum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Mittleres_Nordfriesland/boroughs~Nordfriesland~Mitte/Struckum.personal.md) 
+### [Struckum.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Mittleres_Nordfriesland\boroughs~Nordfriesland~MitteStruckum.personal.md) 
 
-### [Struckum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Mittleres_Nordfriesland/boroughs~Nordfriesland~Mitte/Struckum.secret.md) 
+### [Struckum.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Mittleres_Nordfriesland\boroughs~Nordfriesland~MitteStruckum.secret.md)
+

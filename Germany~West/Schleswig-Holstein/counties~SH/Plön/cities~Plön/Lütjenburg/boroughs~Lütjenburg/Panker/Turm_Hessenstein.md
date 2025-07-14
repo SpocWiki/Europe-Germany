@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.33,10.55] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Turm_Hessenstein](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Panker/Turm_Hessenstein.md) 
+### [Turm_Hessenstein.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Lütjenburg\boroughs~Lütjenburg\PankerTurm_Hessenstein.public.md) 
 
-### [Turm_Hessenstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Panker/Turm_Hessenstein.internal.md) 
+### [Turm_Hessenstein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Lütjenburg\boroughs~Lütjenburg\PankerTurm_Hessenstein.internal.md) 
 
-### [Turm_Hessenstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Panker/Turm_Hessenstein.protect.md) 
+### [Turm_Hessenstein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Lütjenburg\boroughs~Lütjenburg\PankerTurm_Hessenstein.protect.md) 
 
-### [Turm_Hessenstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Panker/Turm_Hessenstein.private.md) 
+### [Turm_Hessenstein.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Lütjenburg\boroughs~Lütjenburg\PankerTurm_Hessenstein.private.md) 
 
-### [Turm_Hessenstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Panker/Turm_Hessenstein.personal.md) 
+### [Turm_Hessenstein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Lütjenburg\boroughs~Lütjenburg\PankerTurm_Hessenstein.personal.md) 
 
-### [Turm_Hessenstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Panker/Turm_Hessenstein.secret.md) 
+### [Turm_Hessenstein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Lütjenburg\boroughs~Lütjenburg\PankerTurm_Hessenstein.secret.md)
+

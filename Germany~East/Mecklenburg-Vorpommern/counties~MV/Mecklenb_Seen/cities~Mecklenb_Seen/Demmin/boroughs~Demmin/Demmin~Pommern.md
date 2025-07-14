@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.9,13.03] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Demmin~Pommern](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Demmin/boroughs~Demmin/Demmin~Pommern.md) 
+### [Demmin~Pommern.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Demmin\boroughs~DemminDemmin~Pommern.public.md) 
 
-### [Demmin~Pommern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Demmin/boroughs~Demmin/Demmin~Pommern.internal.md) 
+### [Demmin~Pommern.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Demmin\boroughs~DemminDemmin~Pommern.internal.md) 
 
-### [Demmin~Pommern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Demmin/boroughs~Demmin/Demmin~Pommern.protect.md) 
+### [Demmin~Pommern.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Demmin\boroughs~DemminDemmin~Pommern.protect.md) 
 
-### [Demmin~Pommern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Demmin/boroughs~Demmin/Demmin~Pommern.private.md) 
+### [Demmin~Pommern.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Demmin\boroughs~DemminDemmin~Pommern.private.md) 
 
-### [Demmin~Pommern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Demmin/boroughs~Demmin/Demmin~Pommern.personal.md) 
+### [Demmin~Pommern.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Demmin\boroughs~DemminDemmin~Pommern.personal.md) 
 
-### [Demmin~Pommern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Demmin/boroughs~Demmin/Demmin~Pommern.secret.md) 
+### [Demmin~Pommern.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Demmin\boroughs~DemminDemmin~Pommern.secret.md)
+

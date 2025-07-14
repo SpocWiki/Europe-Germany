@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.52,9.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stolzenau](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Mittelweser/boroughs~Mittelweser/Stolzenau.md) 
+### [Stolzenau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~Weser\Mittelweser\boroughs~MittelweserStolzenau.public.md) 
 
-### [Stolzenau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Mittelweser/boroughs~Mittelweser/Stolzenau.internal.md) 
+### [Stolzenau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~Weser\Mittelweser\boroughs~MittelweserStolzenau.internal.md) 
 
-### [Stolzenau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Mittelweser/boroughs~Mittelweser/Stolzenau.protect.md) 
+### [Stolzenau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~Weser\Mittelweser\boroughs~MittelweserStolzenau.protect.md) 
 
-### [Stolzenau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Mittelweser/boroughs~Mittelweser/Stolzenau.private.md) 
+### [Stolzenau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~Weser\Mittelweser\boroughs~MittelweserStolzenau.private.md) 
 
-### [Stolzenau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Mittelweser/boroughs~Mittelweser/Stolzenau.personal.md) 
+### [Stolzenau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~Weser\Mittelweser\boroughs~MittelweserStolzenau.personal.md) 
 
-### [Stolzenau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Mittelweser/boroughs~Mittelweser/Stolzenau.secret.md) 
+### [Stolzenau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~Weser\Mittelweser\boroughs~MittelweserStolzenau.secret.md)
+

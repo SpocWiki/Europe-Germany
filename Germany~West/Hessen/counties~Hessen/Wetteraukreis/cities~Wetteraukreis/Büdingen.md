@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.3,9.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Büdingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Büdingen.md) 
+### [Büdingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisBüdingen.public.md) 
 
-### [Büdingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Büdingen.internal.md) 
+### [Büdingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisBüdingen.internal.md) 
 
-### [Büdingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Büdingen.protect.md) 
+### [Büdingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisBüdingen.protect.md) 
 
-### [Büdingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Büdingen.private.md) 
+### [Büdingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisBüdingen.private.md) 
 
-### [Büdingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Büdingen.personal.md) 
+### [Büdingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisBüdingen.personal.md) 
 
-### [Büdingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Büdingen.secret.md) 
+### [Büdingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisBüdingen.secret.md)
+

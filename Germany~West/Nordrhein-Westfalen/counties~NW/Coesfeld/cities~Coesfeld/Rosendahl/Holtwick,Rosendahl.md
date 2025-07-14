@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52,7.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Holtwick,Rosendahl](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Rosendahl/Holtwick,Rosendahl.md) 
+### [Holtwick,Rosendahl.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~Coesfeld\RosendahlHoltwick,Rosendahl.public.md) 
 
-### [Holtwick,Rosendahl.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Rosendahl/Holtwick,Rosendahl.internal.md) 
+### [Holtwick,Rosendahl.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~Coesfeld\RosendahlHoltwick,Rosendahl.internal.md) 
 
-### [Holtwick,Rosendahl.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Rosendahl/Holtwick,Rosendahl.protect.md) 
+### [Holtwick,Rosendahl.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~Coesfeld\RosendahlHoltwick,Rosendahl.protect.md) 
 
-### [Holtwick,Rosendahl.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Rosendahl/Holtwick,Rosendahl.private.md) 
+### [Holtwick,Rosendahl.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~Coesfeld\RosendahlHoltwick,Rosendahl.private.md) 
 
-### [Holtwick,Rosendahl.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Rosendahl/Holtwick,Rosendahl.personal.md) 
+### [Holtwick,Rosendahl.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~Coesfeld\RosendahlHoltwick,Rosendahl.personal.md) 
 
-### [Holtwick,Rosendahl.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Rosendahl/Holtwick,Rosendahl.secret.md) 
+### [Holtwick,Rosendahl.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~Coesfeld\RosendahlHoltwick,Rosendahl.secret.md)
+

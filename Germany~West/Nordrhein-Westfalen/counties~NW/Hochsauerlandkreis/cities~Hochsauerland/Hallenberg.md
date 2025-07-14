@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.12,8.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hallenberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Hallenberg.md) 
+### [Hallenberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandHallenberg.public.md) 
 
-### [Hallenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Hallenberg.internal.md) 
+### [Hallenberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandHallenberg.internal.md) 
 
-### [Hallenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Hallenberg.protect.md) 
+### [Hallenberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandHallenberg.protect.md) 
 
-### [Hallenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Hallenberg.private.md) 
+### [Hallenberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandHallenberg.private.md) 
 
-### [Hallenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Hallenberg.personal.md) 
+### [Hallenberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandHallenberg.personal.md) 
 
-### [Hallenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Hallenberg.secret.md) 
+### [Hallenberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandHallenberg.secret.md)
+

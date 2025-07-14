@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.33,8.72] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tating](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Eiderstedt/boroughs~Eiderstedt/Tating.md) 
+### [Tating.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Eiderstedt\boroughs~EiderstedtTating.public.md) 
 
-### [Tating.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Eiderstedt/boroughs~Eiderstedt/Tating.internal.md) 
+### [Tating.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Eiderstedt\boroughs~EiderstedtTating.internal.md) 
 
-### [Tating.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Eiderstedt/boroughs~Eiderstedt/Tating.protect.md) 
+### [Tating.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Eiderstedt\boroughs~EiderstedtTating.protect.md) 
 
-### [Tating.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Eiderstedt/boroughs~Eiderstedt/Tating.private.md) 
+### [Tating.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Eiderstedt\boroughs~EiderstedtTating.private.md) 
 
-### [Tating.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Eiderstedt/boroughs~Eiderstedt/Tating.personal.md) 
+### [Tating.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Eiderstedt\boroughs~EiderstedtTating.personal.md) 
 
-### [Tating.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Eiderstedt/boroughs~Eiderstedt/Tating.secret.md) 
+### [Tating.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Eiderstedt\boroughs~EiderstedtTating.secret.md)
+

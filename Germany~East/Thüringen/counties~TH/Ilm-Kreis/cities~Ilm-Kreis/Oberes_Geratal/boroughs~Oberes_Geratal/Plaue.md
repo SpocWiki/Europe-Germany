@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.76,10.93] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Plaue](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Oberes_Geratal/boroughs~Oberes_Geratal/Plaue.md) 
+### [Plaue.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Oberes_Geratal\boroughs~Oberes_GeratalPlaue.public.md) 
 
-### [Plaue.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Oberes_Geratal/boroughs~Oberes_Geratal/Plaue.internal.md) 
+### [Plaue.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Oberes_Geratal\boroughs~Oberes_GeratalPlaue.internal.md) 
 
-### [Plaue.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Oberes_Geratal/boroughs~Oberes_Geratal/Plaue.protect.md) 
+### [Plaue.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Oberes_Geratal\boroughs~Oberes_GeratalPlaue.protect.md) 
 
-### [Plaue.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Oberes_Geratal/boroughs~Oberes_Geratal/Plaue.private.md) 
+### [Plaue.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Oberes_Geratal\boroughs~Oberes_GeratalPlaue.private.md) 
 
-### [Plaue.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Oberes_Geratal/boroughs~Oberes_Geratal/Plaue.personal.md) 
+### [Plaue.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Oberes_Geratal\boroughs~Oberes_GeratalPlaue.personal.md) 
 
-### [Plaue.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Oberes_Geratal/boroughs~Oberes_Geratal/Plaue.secret.md) 
+### [Plaue.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Oberes_Geratal\boroughs~Oberes_GeratalPlaue.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.3,8.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lübbecke](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Lübbecke.md) 
+### [Lübbecke.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-LübbeckeLübbecke.public.md) 
 
-### [Lübbecke.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Lübbecke.internal.md) 
+### [Lübbecke.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-LübbeckeLübbecke.internal.md) 
 
-### [Lübbecke.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Lübbecke.protect.md) 
+### [Lübbecke.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-LübbeckeLübbecke.protect.md) 
 
-### [Lübbecke.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Lübbecke.private.md) 
+### [Lübbecke.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-LübbeckeLübbecke.private.md) 
 
-### [Lübbecke.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Lübbecke.personal.md) 
+### [Lübbecke.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-LübbeckeLübbecke.personal.md) 
 
-### [Lübbecke.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Lübbecke.secret.md) 
+### [Lübbecke.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-LübbeckeLübbecke.secret.md)
+

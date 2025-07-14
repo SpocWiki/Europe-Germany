@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.05,8.25] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Biebrich](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Biebrich.md) 
+### [Biebrich.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenBiebrich.public.md) 
 
-### [Biebrich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Biebrich.internal.md) 
+### [Biebrich.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenBiebrich.internal.md) 
 
-### [Biebrich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Biebrich.protect.md) 
+### [Biebrich.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenBiebrich.protect.md) 
 
-### [Biebrich.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Biebrich.private.md) 
+### [Biebrich.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenBiebrich.private.md) 
 
-### [Biebrich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Biebrich.personal.md) 
+### [Biebrich.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenBiebrich.personal.md) 
 
-### [Biebrich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Biebrich.secret.md) 
+### [Biebrich.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenBiebrich.secret.md)
+

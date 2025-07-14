@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.28,10.73] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bleckede](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Bleckede.md) 
+### [Bleckede.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüneburg\cities~LüneburgBleckede.public.md) 
 
-### [Bleckede.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Bleckede.internal.md) 
+### [Bleckede.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüneburg\cities~LüneburgBleckede.internal.md) 
 
-### [Bleckede.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Bleckede.protect.md) 
+### [Bleckede.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüneburg\cities~LüneburgBleckede.protect.md) 
 
-### [Bleckede.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Bleckede.private.md) 
+### [Bleckede.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüneburg\cities~LüneburgBleckede.private.md) 
 
-### [Bleckede.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Bleckede.personal.md) 
+### [Bleckede.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüneburg\cities~LüneburgBleckede.personal.md) 
 
-### [Bleckede.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Bleckede.secret.md) 
+### [Bleckede.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüneburg\cities~LüneburgBleckede.secret.md)
+

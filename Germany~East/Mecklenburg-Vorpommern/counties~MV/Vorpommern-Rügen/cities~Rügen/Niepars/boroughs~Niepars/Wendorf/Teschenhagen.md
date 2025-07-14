@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.4,13.37] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Teschenhagen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Niepars/boroughs~Niepars/Wendorf/Teschenhagen.md) 
+### [Teschenhagen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Niepars\boroughs~Niepars\WendorfTeschenhagen.public.md) 
 
-### [Teschenhagen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Niepars/boroughs~Niepars/Wendorf/Teschenhagen.internal.md) 
+### [Teschenhagen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Niepars\boroughs~Niepars\WendorfTeschenhagen.internal.md) 
 
-### [Teschenhagen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Niepars/boroughs~Niepars/Wendorf/Teschenhagen.protect.md) 
+### [Teschenhagen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Niepars\boroughs~Niepars\WendorfTeschenhagen.protect.md) 
 
-### [Teschenhagen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Niepars/boroughs~Niepars/Wendorf/Teschenhagen.private.md) 
+### [Teschenhagen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Niepars\boroughs~Niepars\WendorfTeschenhagen.private.md) 
 
-### [Teschenhagen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Niepars/boroughs~Niepars/Wendorf/Teschenhagen.personal.md) 
+### [Teschenhagen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Niepars\boroughs~Niepars\WendorfTeschenhagen.personal.md) 
 
-### [Teschenhagen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Niepars/boroughs~Niepars/Wendorf/Teschenhagen.secret.md) 
+### [Teschenhagen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Niepars\boroughs~Niepars\WendorfTeschenhagen.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.18,6.73] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grimlinghausen,Neuss](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Neuss/Grimlinghausen,Neuss.md) 
+### [Grimlinghausen,Neuss.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Kreis_Neuss\cities~Rhein-Kreis_Neuss\NeussGrimlinghausen,Neuss.public.md) 
 
-### [Grimlinghausen,Neuss.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Neuss/Grimlinghausen,Neuss.internal.md) 
+### [Grimlinghausen,Neuss.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Kreis_Neuss\cities~Rhein-Kreis_Neuss\NeussGrimlinghausen,Neuss.internal.md) 
 
-### [Grimlinghausen,Neuss.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Neuss/Grimlinghausen,Neuss.protect.md) 
+### [Grimlinghausen,Neuss.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Kreis_Neuss\cities~Rhein-Kreis_Neuss\NeussGrimlinghausen,Neuss.protect.md) 
 
-### [Grimlinghausen,Neuss.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Neuss/Grimlinghausen,Neuss.private.md) 
+### [Grimlinghausen,Neuss.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Kreis_Neuss\cities~Rhein-Kreis_Neuss\NeussGrimlinghausen,Neuss.private.md) 
 
-### [Grimlinghausen,Neuss.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Neuss/Grimlinghausen,Neuss.personal.md) 
+### [Grimlinghausen,Neuss.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Kreis_Neuss\cities~Rhein-Kreis_Neuss\NeussGrimlinghausen,Neuss.personal.md) 
 
-### [Grimlinghausen,Neuss.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Neuss/Grimlinghausen,Neuss.secret.md) 
+### [Grimlinghausen,Neuss.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Kreis_Neuss\cities~Rhein-Kreis_Neuss\NeussGrimlinghausen,Neuss.secret.md)
+

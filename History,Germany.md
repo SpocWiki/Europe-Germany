@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q122131
 has_part_s_:
 - "[[_Standards/WikiData/WD~history_of_East_Germany,706790]]"
@@ -17,3 +17,20 @@ facet_of: '[[_Standards/WikiData/WD~Germany,183]]'
 Dewey_Decimal_Classification: 943
 Commons_category: "History of Germany"
 ---
+
+
+
+## Confidential Links & Embeds: 
+
+### [History,Germany.public](/_public/\Earth\Continent\Europe\Europe~Central\GermanyHistory,Germany.public.md) 
+
+### [History,Germany.internal](/_internal/\Earth\Continent\Europe\Europe~Central\GermanyHistory,Germany.internal.md) 
+
+### [History,Germany.protect](/_protect/\Earth\Continent\Europe\Europe~Central\GermanyHistory,Germany.protect.md) 
+
+### [History,Germany.private](/_private/\Earth\Continent\Europe\Europe~Central\GermanyHistory,Germany.private.md) 
+
+### [History,Germany.personal](/_personal/\Earth\Continent\Europe\Europe~Central\GermanyHistory,Germany.personal.md) 
+
+### [History,Germany.secret](/_secret/\Earth\Continent\Europe\Europe~Central\GermanyHistory,Germany.secret.md)
+

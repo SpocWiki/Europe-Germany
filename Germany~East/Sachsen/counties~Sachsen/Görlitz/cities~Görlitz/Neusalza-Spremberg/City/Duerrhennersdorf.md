@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.05,14.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Duerrhennersdorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Neusalza-Spremberg/City/Duerrhennersdorf.md) 
+### [Duerrhennersdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Neusalza-Spremberg\CityDuerrhennersdorf.public.md) 
 
-### [Duerrhennersdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Neusalza-Spremberg/City/Duerrhennersdorf.internal.md) 
+### [Duerrhennersdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Neusalza-Spremberg\CityDuerrhennersdorf.internal.md) 
 
-### [Duerrhennersdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Neusalza-Spremberg/City/Duerrhennersdorf.protect.md) 
+### [Duerrhennersdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Neusalza-Spremberg\CityDuerrhennersdorf.protect.md) 
 
-### [Duerrhennersdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Neusalza-Spremberg/City/Duerrhennersdorf.private.md) 
+### [Duerrhennersdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Neusalza-Spremberg\CityDuerrhennersdorf.private.md) 
 
-### [Duerrhennersdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Neusalza-Spremberg/City/Duerrhennersdorf.personal.md) 
+### [Duerrhennersdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Neusalza-Spremberg\CityDuerrhennersdorf.personal.md) 
 
-### [Duerrhennersdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Neusalza-Spremberg/City/Duerrhennersdorf.secret.md) 
+### [Duerrhennersdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Neusalza-Spremberg\CityDuerrhennersdorf.secret.md)
+

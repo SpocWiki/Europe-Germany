@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.82,6.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marbeck](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Borken/cities~Borken/Borken-city/Marbeck.md) 
+### [Marbeck.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\Borken-cityMarbeck.public.md) 
 
-### [Marbeck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Borken/cities~Borken/Borken-city/Marbeck.internal.md) 
+### [Marbeck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\Borken-cityMarbeck.internal.md) 
 
-### [Marbeck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Borken/cities~Borken/Borken-city/Marbeck.protect.md) 
+### [Marbeck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\Borken-cityMarbeck.protect.md) 
 
-### [Marbeck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Borken/cities~Borken/Borken-city/Marbeck.private.md) 
+### [Marbeck.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\Borken-cityMarbeck.private.md) 
 
-### [Marbeck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Borken/cities~Borken/Borken-city/Marbeck.personal.md) 
+### [Marbeck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\Borken-cityMarbeck.personal.md) 
 
-### [Marbeck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Borken/cities~Borken/Borken-city/Marbeck.secret.md) 
+### [Marbeck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\Borken-cityMarbeck.secret.md)
+

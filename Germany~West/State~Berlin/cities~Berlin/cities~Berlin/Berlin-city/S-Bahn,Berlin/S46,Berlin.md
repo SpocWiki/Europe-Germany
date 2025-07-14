@@ -43,3 +43,19 @@ S_Neukölln --> U7_Neukölln
 class S_Westend,S_Messe_Nord,S_Westkreuz,S_Halensee,S_Hohenzollerndamm,S_Heidelberger_Platz,S_Bundesplatz,S_Innsbrucker_Platz,S_Schöneberg,S_Südkreuz,S_Tempelhof,S_Hermannstraße,S_Neukölln,S_Köllnische_Heide,S_Baumschulenweg,S_Schöneweide,S_Johannisthal,S_Adlershof,S_Grünau,S_Eichwalde,S_Zeuthen,S_Wildau,S_Königs_Wusterhausen blueText;
 
 ```
+
+
+## Confidential Links & Embeds: 
+
+### [S46,Berlin.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS46,Berlin.public.md) 
+
+### [S46,Berlin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS46,Berlin.internal.md) 
+
+### [S46,Berlin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS46,Berlin.protect.md) 
+
+### [S46,Berlin.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS46,Berlin.private.md) 
+
+### [S46,Berlin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS46,Berlin.personal.md) 
+
+### [S46,Berlin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS46,Berlin.secret.md)
+

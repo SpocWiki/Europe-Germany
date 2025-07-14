@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.28,9.68] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tostedt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Tostedt.md) 
+### [Tostedt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~HarburgTostedt.public.md) 
 
-### [Tostedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Tostedt.internal.md) 
+### [Tostedt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~HarburgTostedt.internal.md) 
 
-### [Tostedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Tostedt.protect.md) 
+### [Tostedt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~HarburgTostedt.protect.md) 
 
-### [Tostedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Tostedt.private.md) 
+### [Tostedt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~HarburgTostedt.private.md) 
 
-### [Tostedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Tostedt.personal.md) 
+### [Tostedt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~HarburgTostedt.personal.md) 
 
-### [Tostedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Tostedt.secret.md) 
+### [Tostedt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~HarburgTostedt.secret.md)
+

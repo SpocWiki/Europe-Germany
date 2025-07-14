@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.12,13.77] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Klotzsche](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Klotzsche.md) 
+### [Klotzsche.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityKlotzsche.public.md) 
 
-### [Klotzsche.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Klotzsche.internal.md) 
+### [Klotzsche.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityKlotzsche.internal.md) 
 
-### [Klotzsche.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Klotzsche.protect.md) 
+### [Klotzsche.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityKlotzsche.protect.md) 
 
-### [Klotzsche.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Klotzsche.private.md) 
+### [Klotzsche.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityKlotzsche.private.md) 
 
-### [Klotzsche.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Klotzsche.personal.md) 
+### [Klotzsche.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityKlotzsche.personal.md) 
 
-### [Klotzsche.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Klotzsche.secret.md) 
+### [Klotzsche.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityKlotzsche.secret.md)
+

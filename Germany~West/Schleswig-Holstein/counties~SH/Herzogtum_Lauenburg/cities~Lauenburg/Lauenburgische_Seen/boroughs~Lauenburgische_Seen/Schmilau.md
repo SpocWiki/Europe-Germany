@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.65,10.77] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schmilau](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Schmilau.md) 
+### [Schmilau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~Lauenburg\Lauenburgische_Seen\boroughs~Lauenburgische_SeenSchmilau.public.md) 
 
-### [Schmilau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Schmilau.internal.md) 
+### [Schmilau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~Lauenburg\Lauenburgische_Seen\boroughs~Lauenburgische_SeenSchmilau.internal.md) 
 
-### [Schmilau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Schmilau.protect.md) 
+### [Schmilau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~Lauenburg\Lauenburgische_Seen\boroughs~Lauenburgische_SeenSchmilau.protect.md) 
 
-### [Schmilau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Schmilau.private.md) 
+### [Schmilau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~Lauenburg\Lauenburgische_Seen\boroughs~Lauenburgische_SeenSchmilau.private.md) 
 
-### [Schmilau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Schmilau.personal.md) 
+### [Schmilau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~Lauenburg\Lauenburgische_Seen\boroughs~Lauenburgische_SeenSchmilau.personal.md) 
 
-### [Schmilau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Schmilau.secret.md) 
+### [Schmilau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~Lauenburg\Lauenburgische_Seen\boroughs~Lauenburgische_SeenSchmilau.secret.md)
+

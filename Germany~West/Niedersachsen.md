@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q1197
 location:
 - 52.7796
@@ -229,17 +229,17 @@ Capital ::  [[Niedersachsen/counties~Niedersachsen/RegionHannover/cities~RegionH
 ![[Flag_of_Lower_Saxony.svg|350]] 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Niedersachsen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.md) 
+### [Niedersachsen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestNiedersachsen.public.md) 
 
-### [Niedersachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.internal.md) 
+### [Niedersachsen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestNiedersachsen.internal.md) 
 
-### [Niedersachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.protect.md) 
+### [Niedersachsen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestNiedersachsen.protect.md) 
 
-### [Niedersachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.private.md) 
+### [Niedersachsen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestNiedersachsen.private.md) 
 
-### [Niedersachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.personal.md) 
+### [Niedersachsen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestNiedersachsen.personal.md) 
 
-### [Niedersachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.secret.md) 
+### [Niedersachsen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestNiedersachsen.secret.md)
+

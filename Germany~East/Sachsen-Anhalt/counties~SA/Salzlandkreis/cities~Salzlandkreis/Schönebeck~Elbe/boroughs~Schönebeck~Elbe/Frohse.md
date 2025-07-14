@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.03,11.67] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Frohse](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Schönebeck~Elbe/boroughs~Schönebeck~Elbe/Frohse.md) 
+### [Frohse.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Schönebeck~Elbe\boroughs~Schönebeck~ElbeFrohse.public.md) 
 
-### [Frohse.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Schönebeck~Elbe/boroughs~Schönebeck~Elbe/Frohse.internal.md) 
+### [Frohse.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Schönebeck~Elbe\boroughs~Schönebeck~ElbeFrohse.internal.md) 
 
-### [Frohse.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Schönebeck~Elbe/boroughs~Schönebeck~Elbe/Frohse.protect.md) 
+### [Frohse.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Schönebeck~Elbe\boroughs~Schönebeck~ElbeFrohse.protect.md) 
 
-### [Frohse.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Schönebeck~Elbe/boroughs~Schönebeck~Elbe/Frohse.private.md) 
+### [Frohse.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Schönebeck~Elbe\boroughs~Schönebeck~ElbeFrohse.private.md) 
 
-### [Frohse.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Schönebeck~Elbe/boroughs~Schönebeck~Elbe/Frohse.personal.md) 
+### [Frohse.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Schönebeck~Elbe\boroughs~Schönebeck~ElbeFrohse.personal.md) 
 
-### [Frohse.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Schönebeck~Elbe/boroughs~Schönebeck~Elbe/Frohse.secret.md) 
+### [Frohse.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Schönebeck~Elbe\boroughs~Schönebeck~ElbeFrohse.secret.md)
+

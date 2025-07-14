@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.43,11] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oeebisfelde](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oebisfelde-Weferlingen/City/Oeebisfelde.md) 
+### [Oeebisfelde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oebisfelde-Weferlingen\CityOeebisfelde.public.md) 
 
-### [Oeebisfelde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oebisfelde-Weferlingen/City/Oeebisfelde.internal.md) 
+### [Oeebisfelde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oebisfelde-Weferlingen\CityOeebisfelde.internal.md) 
 
-### [Oeebisfelde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oebisfelde-Weferlingen/City/Oeebisfelde.protect.md) 
+### [Oeebisfelde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oebisfelde-Weferlingen\CityOeebisfelde.protect.md) 
 
-### [Oeebisfelde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oebisfelde-Weferlingen/City/Oeebisfelde.private.md) 
+### [Oeebisfelde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oebisfelde-Weferlingen\CityOeebisfelde.private.md) 
 
-### [Oeebisfelde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oebisfelde-Weferlingen/City/Oeebisfelde.personal.md) 
+### [Oeebisfelde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oebisfelde-Weferlingen\CityOeebisfelde.personal.md) 
 
-### [Oeebisfelde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oebisfelde-Weferlingen/City/Oeebisfelde.secret.md) 
+### [Oeebisfelde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oebisfelde-Weferlingen\CityOeebisfelde.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.75,6.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kreuzau](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düren/cities~Düren/Kreuzau.md) 
+### [Kreuzau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~DürenKreuzau.public.md) 
 
-### [Kreuzau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düren/cities~Düren/Kreuzau.internal.md) 
+### [Kreuzau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~DürenKreuzau.internal.md) 
 
-### [Kreuzau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düren/cities~Düren/Kreuzau.protect.md) 
+### [Kreuzau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~DürenKreuzau.protect.md) 
 
-### [Kreuzau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düren/cities~Düren/Kreuzau.private.md) 
+### [Kreuzau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~DürenKreuzau.private.md) 
 
-### [Kreuzau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düren/cities~Düren/Kreuzau.personal.md) 
+### [Kreuzau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~DürenKreuzau.personal.md) 
 
-### [Kreuzau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düren/cities~Düren/Kreuzau.secret.md) 
+### [Kreuzau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~DürenKreuzau.secret.md)
+

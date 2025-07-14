@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.05,10.32] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tensfeld](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Bornhöved/boroughs~Bornhöved/Tensfeld.md) 
+### [Tensfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Segeberg\cities~Segeberg\Bornhöved\boroughs~BornhövedTensfeld.public.md) 
 
-### [Tensfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Bornhöved/boroughs~Bornhöved/Tensfeld.internal.md) 
+### [Tensfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Segeberg\cities~Segeberg\Bornhöved\boroughs~BornhövedTensfeld.internal.md) 
 
-### [Tensfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Bornhöved/boroughs~Bornhöved/Tensfeld.protect.md) 
+### [Tensfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Segeberg\cities~Segeberg\Bornhöved\boroughs~BornhövedTensfeld.protect.md) 
 
-### [Tensfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Bornhöved/boroughs~Bornhöved/Tensfeld.private.md) 
+### [Tensfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Segeberg\cities~Segeberg\Bornhöved\boroughs~BornhövedTensfeld.private.md) 
 
-### [Tensfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Bornhöved/boroughs~Bornhöved/Tensfeld.personal.md) 
+### [Tensfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Segeberg\cities~Segeberg\Bornhöved\boroughs~BornhövedTensfeld.personal.md) 
 
-### [Tensfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Bornhöved/boroughs~Bornhöved/Tensfeld.secret.md) 
+### [Tensfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Segeberg\cities~Segeberg\Bornhöved\boroughs~BornhövedTensfeld.secret.md)
+

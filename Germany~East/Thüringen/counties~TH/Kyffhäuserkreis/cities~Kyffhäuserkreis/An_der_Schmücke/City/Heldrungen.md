@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.3,11.22] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Heldrungen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/An_der_Schmücke/City/Heldrungen.md) 
+### [Heldrungen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\An_der_Schmücke\CityHeldrungen.public.md) 
 
-### [Heldrungen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/An_der_Schmücke/City/Heldrungen.internal.md) 
+### [Heldrungen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\An_der_Schmücke\CityHeldrungen.internal.md) 
 
-### [Heldrungen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/An_der_Schmücke/City/Heldrungen.protect.md) 
+### [Heldrungen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\An_der_Schmücke\CityHeldrungen.protect.md) 
 
-### [Heldrungen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/An_der_Schmücke/City/Heldrungen.private.md) 
+### [Heldrungen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\An_der_Schmücke\CityHeldrungen.private.md) 
 
-### [Heldrungen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/An_der_Schmücke/City/Heldrungen.personal.md) 
+### [Heldrungen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\An_der_Schmücke\CityHeldrungen.personal.md) 
 
-### [Heldrungen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/An_der_Schmücke/City/Heldrungen.secret.md) 
+### [Heldrungen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\An_der_Schmücke\CityHeldrungen.secret.md)
+

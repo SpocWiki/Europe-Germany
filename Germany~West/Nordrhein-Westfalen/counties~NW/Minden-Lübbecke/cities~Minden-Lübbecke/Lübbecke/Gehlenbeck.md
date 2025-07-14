@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.3,8.65] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gehlenbeck](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Lübbecke/Gehlenbeck.md) 
+### [Gehlenbeck.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-Lübbecke\LübbeckeGehlenbeck.public.md) 
 
-### [Gehlenbeck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Lübbecke/Gehlenbeck.internal.md) 
+### [Gehlenbeck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-Lübbecke\LübbeckeGehlenbeck.internal.md) 
 
-### [Gehlenbeck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Lübbecke/Gehlenbeck.protect.md) 
+### [Gehlenbeck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-Lübbecke\LübbeckeGehlenbeck.protect.md) 
 
-### [Gehlenbeck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Lübbecke/Gehlenbeck.private.md) 
+### [Gehlenbeck.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-Lübbecke\LübbeckeGehlenbeck.private.md) 
 
-### [Gehlenbeck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Lübbecke/Gehlenbeck.personal.md) 
+### [Gehlenbeck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-Lübbecke\LübbeckeGehlenbeck.personal.md) 
 
-### [Gehlenbeck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Lübbecke/Gehlenbeck.secret.md) 
+### [Gehlenbeck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-Lübbecke\LübbeckeGehlenbeck.secret.md)
+

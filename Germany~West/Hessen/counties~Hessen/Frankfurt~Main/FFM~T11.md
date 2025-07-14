@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 50.10773 , 8.664614 ] 
 type: geo-Region
 title: FFM~T11
@@ -42,17 +42,17 @@ markerFolder: ./Station/
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FFM~T11](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~T11.md) 
+### [FFM~T11.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~T11.public.md) 
 
-### [FFM~T11.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~T11.internal.md) 
+### [FFM~T11.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~T11.internal.md) 
 
-### [FFM~T11.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~T11.protect.md) 
+### [FFM~T11.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~T11.protect.md) 
 
-### [FFM~T11.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~T11.private.md) 
+### [FFM~T11.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~T11.private.md) 
 
-### [FFM~T11.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~T11.personal.md) 
+### [FFM~T11.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~T11.personal.md) 
 
-### [FFM~T11.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~T11.secret.md) 
+### [FFM~T11.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~T11.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.53,8.27] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eckwarden](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Eckwarden.md) 
+### [Eckwarden.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Butjadingen\boroughs~ButjadingenEckwarden.public.md) 
 
-### [Eckwarden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Eckwarden.internal.md) 
+### [Eckwarden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Butjadingen\boroughs~ButjadingenEckwarden.internal.md) 
 
-### [Eckwarden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Eckwarden.protect.md) 
+### [Eckwarden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Butjadingen\boroughs~ButjadingenEckwarden.protect.md) 
 
-### [Eckwarden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Eckwarden.private.md) 
+### [Eckwarden.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Butjadingen\boroughs~ButjadingenEckwarden.private.md) 
 
-### [Eckwarden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Eckwarden.personal.md) 
+### [Eckwarden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Butjadingen\boroughs~ButjadingenEckwarden.personal.md) 
 
-### [Eckwarden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Eckwarden.secret.md) 
+### [Eckwarden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Butjadingen\boroughs~ButjadingenEckwarden.secret.md)
+

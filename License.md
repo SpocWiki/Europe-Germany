@@ -1,4 +1,4 @@
-﻿# Creative Commons Legal Code
+# Creative Commons Legal Code
 
 [![License: CC BY-SA 3.0](https://img.shields.io/badge/License-CC%20BY--SA%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/3.0/)
 
@@ -113,14 +113,15 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License](/_public/Earth/Continent/Europe/Europe~Central/Germany/License.md) 
+### [License.public](/_public/\Earth\Continent\Europe\Europe~Central\GermanyLicense.public.md) 
 
-### [License.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/License.internal.md) 
+### [License.internal](/_internal/\Earth\Continent\Europe\Europe~Central\GermanyLicense.internal.md) 
 
-### [License.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/License.protect.md) 
+### [License.protect](/_protect/\Earth\Continent\Europe\Europe~Central\GermanyLicense.protect.md) 
 
-### [License.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/License.private.md) 
+### [License.private](/_private/\Earth\Continent\Europe\Europe~Central\GermanyLicense.private.md) 
 
-### [License.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/License.personal.md) 
+### [License.personal](/_personal/\Earth\Continent\Europe\Europe~Central\GermanyLicense.personal.md) 
 
-### [License.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/License.secret.md) 
+### [License.secret](/_secret/\Earth\Continent\Europe\Europe~Central\GermanyLicense.secret.md)
+

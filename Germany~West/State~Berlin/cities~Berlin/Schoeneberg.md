@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.48,13.35] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schoeneberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Schoeneberg.md) 
+### [Schoeneberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinSchoeneberg.public.md) 
 
-### [Schoeneberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Schoeneberg.internal.md) 
+### [Schoeneberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinSchoeneberg.internal.md) 
 
-### [Schoeneberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Schoeneberg.protect.md) 
+### [Schoeneberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinSchoeneberg.protect.md) 
 
-### [Schoeneberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Schoeneberg.private.md) 
+### [Schoeneberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinSchoeneberg.private.md) 
 
-### [Schoeneberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Schoeneberg.personal.md) 
+### [Schoeneberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinSchoeneberg.personal.md) 
 
-### [Schoeneberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Schoeneberg.secret.md) 
+### [Schoeneberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinSchoeneberg.secret.md)
+

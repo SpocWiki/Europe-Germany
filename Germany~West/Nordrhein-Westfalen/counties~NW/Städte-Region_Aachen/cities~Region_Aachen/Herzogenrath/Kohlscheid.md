@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.83,6.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kohlscheid](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Herzogenrath/Kohlscheid.md) 
+### [Kohlscheid.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_Aachen\HerzogenrathKohlscheid.public.md) 
 
-### [Kohlscheid.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Herzogenrath/Kohlscheid.internal.md) 
+### [Kohlscheid.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_Aachen\HerzogenrathKohlscheid.internal.md) 
 
-### [Kohlscheid.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Herzogenrath/Kohlscheid.protect.md) 
+### [Kohlscheid.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_Aachen\HerzogenrathKohlscheid.protect.md) 
 
-### [Kohlscheid.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Herzogenrath/Kohlscheid.private.md) 
+### [Kohlscheid.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_Aachen\HerzogenrathKohlscheid.private.md) 
 
-### [Kohlscheid.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Herzogenrath/Kohlscheid.personal.md) 
+### [Kohlscheid.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_Aachen\HerzogenrathKohlscheid.personal.md) 
 
-### [Kohlscheid.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Herzogenrath/Kohlscheid.secret.md) 
+### [Kohlscheid.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_Aachen\HerzogenrathKohlscheid.secret.md)
+

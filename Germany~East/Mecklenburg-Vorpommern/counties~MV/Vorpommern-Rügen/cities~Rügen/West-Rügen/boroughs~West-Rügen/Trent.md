@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.52,13.27] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Trent](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/West-Rügen/boroughs~West-Rügen/Trent.md) 
+### [Trent.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\West-Rügen\boroughs~West-RügenTrent.public.md) 
 
-### [Trent.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/West-Rügen/boroughs~West-Rügen/Trent.internal.md) 
+### [Trent.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\West-Rügen\boroughs~West-RügenTrent.internal.md) 
 
-### [Trent.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/West-Rügen/boroughs~West-Rügen/Trent.protect.md) 
+### [Trent.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\West-Rügen\boroughs~West-RügenTrent.protect.md) 
 
-### [Trent.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/West-Rügen/boroughs~West-Rügen/Trent.private.md) 
+### [Trent.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\West-Rügen\boroughs~West-RügenTrent.private.md) 
 
-### [Trent.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/West-Rügen/boroughs~West-Rügen/Trent.personal.md) 
+### [Trent.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\West-Rügen\boroughs~West-RügenTrent.personal.md) 
 
-### [Trent.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/West-Rügen/boroughs~West-Rügen/Trent.secret.md) 
+### [Trent.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\West-Rügen\boroughs~West-RügenTrent.secret.md)
+

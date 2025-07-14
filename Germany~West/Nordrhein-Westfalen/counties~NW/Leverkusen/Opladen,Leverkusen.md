@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.07,7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Opladen,Leverkusen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Leverkusen/Opladen,Leverkusen.md) 
+### [Opladen,Leverkusen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\LeverkusenOpladen,Leverkusen.public.md) 
 
-### [Opladen,Leverkusen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Leverkusen/Opladen,Leverkusen.internal.md) 
+### [Opladen,Leverkusen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\LeverkusenOpladen,Leverkusen.internal.md) 
 
-### [Opladen,Leverkusen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Leverkusen/Opladen,Leverkusen.protect.md) 
+### [Opladen,Leverkusen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\LeverkusenOpladen,Leverkusen.protect.md) 
 
-### [Opladen,Leverkusen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Leverkusen/Opladen,Leverkusen.private.md) 
+### [Opladen,Leverkusen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\LeverkusenOpladen,Leverkusen.private.md) 
 
-### [Opladen,Leverkusen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Leverkusen/Opladen,Leverkusen.personal.md) 
+### [Opladen,Leverkusen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\LeverkusenOpladen,Leverkusen.personal.md) 
 
-### [Opladen,Leverkusen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Leverkusen/Opladen,Leverkusen.secret.md) 
+### [Opladen,Leverkusen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\LeverkusenOpladen,Leverkusen.secret.md)
+

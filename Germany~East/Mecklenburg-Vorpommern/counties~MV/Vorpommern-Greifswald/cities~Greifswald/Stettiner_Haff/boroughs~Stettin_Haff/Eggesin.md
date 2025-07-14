@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.68,14.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eggesin](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Stettiner_Haff/boroughs~Stettin_Haff/Eggesin.md) 
+### [Eggesin.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Stettiner_Haff\boroughs~Stettin_HaffEggesin.public.md) 
 
-### [Eggesin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Stettiner_Haff/boroughs~Stettin_Haff/Eggesin.internal.md) 
+### [Eggesin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Stettiner_Haff\boroughs~Stettin_HaffEggesin.internal.md) 
 
-### [Eggesin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Stettiner_Haff/boroughs~Stettin_Haff/Eggesin.protect.md) 
+### [Eggesin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Stettiner_Haff\boroughs~Stettin_HaffEggesin.protect.md) 
 
-### [Eggesin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Stettiner_Haff/boroughs~Stettin_Haff/Eggesin.private.md) 
+### [Eggesin.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Stettiner_Haff\boroughs~Stettin_HaffEggesin.private.md) 
 
-### [Eggesin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Stettiner_Haff/boroughs~Stettin_Haff/Eggesin.personal.md) 
+### [Eggesin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Stettiner_Haff\boroughs~Stettin_HaffEggesin.personal.md) 
 
-### [Eggesin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Stettiner_Haff/boroughs~Stettin_Haff/Eggesin.secret.md) 
+### [Eggesin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Stettiner_Haff\boroughs~Stettin_HaffEggesin.secret.md)
+

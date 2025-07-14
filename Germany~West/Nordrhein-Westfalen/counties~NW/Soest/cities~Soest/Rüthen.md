@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.5,8.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rüthen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Soest/cities~Soest/Rüthen.md) 
+### [Rüthen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~SoestRüthen.public.md) 
 
-### [Rüthen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Soest/cities~Soest/Rüthen.internal.md) 
+### [Rüthen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~SoestRüthen.internal.md) 
 
-### [Rüthen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Soest/cities~Soest/Rüthen.protect.md) 
+### [Rüthen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~SoestRüthen.protect.md) 
 
-### [Rüthen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Soest/cities~Soest/Rüthen.private.md) 
+### [Rüthen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~SoestRüthen.private.md) 
 
-### [Rüthen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Soest/cities~Soest/Rüthen.personal.md) 
+### [Rüthen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~SoestRüthen.personal.md) 
 
-### [Rüthen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Soest/cities~Soest/Rüthen.secret.md) 
+### [Rüthen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~SoestRüthen.secret.md)
+

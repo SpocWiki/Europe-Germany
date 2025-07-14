@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.85305,8.500556] 
 type: Station 
 mapzoom: [8,18] 
@@ -30,14 +30,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [S-Riedstadt-Wolfskehlen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Riedstadt-Wolfskehlen.md) 
+### [S-Riedstadt-Wolfskehlen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Riedstadt-Wolfskehlen.public.md) 
 
-### [S-Riedstadt-Wolfskehlen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Riedstadt-Wolfskehlen.internal.md) 
+### [S-Riedstadt-Wolfskehlen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Riedstadt-Wolfskehlen.internal.md) 
 
-### [S-Riedstadt-Wolfskehlen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Riedstadt-Wolfskehlen.protect.md) 
+### [S-Riedstadt-Wolfskehlen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Riedstadt-Wolfskehlen.protect.md) 
 
-### [S-Riedstadt-Wolfskehlen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Riedstadt-Wolfskehlen.private.md) 
+### [S-Riedstadt-Wolfskehlen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Riedstadt-Wolfskehlen.private.md) 
 
-### [S-Riedstadt-Wolfskehlen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Riedstadt-Wolfskehlen.personal.md) 
+### [S-Riedstadt-Wolfskehlen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Riedstadt-Wolfskehlen.personal.md) 
 
-### [S-Riedstadt-Wolfskehlen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Riedstadt-Wolfskehlen.secret.md) 
+### [S-Riedstadt-Wolfskehlen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Riedstadt-Wolfskehlen.secret.md)
+

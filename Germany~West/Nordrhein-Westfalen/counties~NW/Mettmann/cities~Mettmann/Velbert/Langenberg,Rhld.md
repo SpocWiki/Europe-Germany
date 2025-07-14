@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.35,7.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Langenberg,Rhld](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Velbert/Langenberg,Rhld.md) 
+### [Langenberg,Rhld.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~Mettmann\VelbertLangenberg,Rhld.public.md) 
 
-### [Langenberg,Rhld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Velbert/Langenberg,Rhld.internal.md) 
+### [Langenberg,Rhld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~Mettmann\VelbertLangenberg,Rhld.internal.md) 
 
-### [Langenberg,Rhld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Velbert/Langenberg,Rhld.protect.md) 
+### [Langenberg,Rhld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~Mettmann\VelbertLangenberg,Rhld.protect.md) 
 
-### [Langenberg,Rhld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Velbert/Langenberg,Rhld.private.md) 
+### [Langenberg,Rhld.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~Mettmann\VelbertLangenberg,Rhld.private.md) 
 
-### [Langenberg,Rhld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Velbert/Langenberg,Rhld.personal.md) 
+### [Langenberg,Rhld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~Mettmann\VelbertLangenberg,Rhld.personal.md) 
 
-### [Langenberg,Rhld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Velbert/Langenberg,Rhld.secret.md) 
+### [Langenberg,Rhld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~Mettmann\VelbertLangenberg,Rhld.secret.md)
+

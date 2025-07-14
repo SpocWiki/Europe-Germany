@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.32,8.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hartum](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Hille/Hartum.md) 
+### [Hartum.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-Lübbecke\HilleHartum.public.md) 
 
-### [Hartum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Hille/Hartum.internal.md) 
+### [Hartum.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-Lübbecke\HilleHartum.internal.md) 
 
-### [Hartum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Hille/Hartum.protect.md) 
+### [Hartum.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-Lübbecke\HilleHartum.protect.md) 
 
-### [Hartum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Hille/Hartum.private.md) 
+### [Hartum.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-Lübbecke\HilleHartum.private.md) 
 
-### [Hartum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Hille/Hartum.personal.md) 
+### [Hartum.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-Lübbecke\HilleHartum.personal.md) 
 
-### [Hartum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Hille/Hartum.secret.md) 
+### [Hartum.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-Lübbecke\HilleHartum.secret.md)
+

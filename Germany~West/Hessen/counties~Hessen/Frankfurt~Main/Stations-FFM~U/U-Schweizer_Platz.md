@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.1025,8.67972] 
 type: Station 
 mapzoom: [8,18] 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [U-Schweizer_Platz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Schweizer_Platz.md) 
+### [U-Schweizer_Platz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Schweizer_Platz.public.md) 
 
-### [U-Schweizer_Platz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Schweizer_Platz.internal.md) 
+### [U-Schweizer_Platz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Schweizer_Platz.internal.md) 
 
-### [U-Schweizer_Platz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Schweizer_Platz.protect.md) 
+### [U-Schweizer_Platz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Schweizer_Platz.protect.md) 
 
-### [U-Schweizer_Platz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Schweizer_Platz.private.md) 
+### [U-Schweizer_Platz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Schweizer_Platz.private.md) 
 
-### [U-Schweizer_Platz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Schweizer_Platz.personal.md) 
+### [U-Schweizer_Platz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Schweizer_Platz.personal.md) 
 
-### [U-Schweizer_Platz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Schweizer_Platz.secret.md) 
+### [U-Schweizer_Platz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Schweizer_Platz.secret.md)
+

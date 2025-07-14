@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q980
 location:
 - 48.8642
@@ -302,17 +302,17 @@ Capital ::  [[München]]
 [Population::] 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Bayern](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.md) 
+### [Bayern.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestBayern.public.md) 
 
-### [Bayern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.internal.md) 
+### [Bayern.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestBayern.internal.md) 
 
-### [Bayern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.protect.md) 
+### [Bayern.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestBayern.protect.md) 
 
-### [Bayern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.private.md) 
+### [Bayern.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestBayern.private.md) 
 
-### [Bayern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.personal.md) 
+### [Bayern.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestBayern.personal.md) 
 
-### [Bayern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.secret.md) 
+### [Bayern.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestBayern.secret.md)
+

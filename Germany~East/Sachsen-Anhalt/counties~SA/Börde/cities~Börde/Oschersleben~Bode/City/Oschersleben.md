@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.03,11.25] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oschersleben](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Oschersleben.md) 
+### [Oschersleben.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oschersleben~Bode\CityOschersleben.public.md) 
 
-### [Oschersleben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Oschersleben.internal.md) 
+### [Oschersleben.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oschersleben~Bode\CityOschersleben.internal.md) 
 
-### [Oschersleben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Oschersleben.protect.md) 
+### [Oschersleben.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oschersleben~Bode\CityOschersleben.protect.md) 
 
-### [Oschersleben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Oschersleben.private.md) 
+### [Oschersleben.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oschersleben~Bode\CityOschersleben.private.md) 
 
-### [Oschersleben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Oschersleben.personal.md) 
+### [Oschersleben.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oschersleben~Bode\CityOschersleben.personal.md) 
 
-### [Oschersleben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Oschersleben.secret.md) 
+### [Oschersleben.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oschersleben~Bode\CityOschersleben.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.87,13.52] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kemlitz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Dahme~Mark/boroughs~Dahme~Mark/Kemlitz.md) 
+### [Kemlitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\Dahme~Mark\boroughs~Dahme~MarkKemlitz.public.md) 
 
-### [Kemlitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Dahme~Mark/boroughs~Dahme~Mark/Kemlitz.internal.md) 
+### [Kemlitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\Dahme~Mark\boroughs~Dahme~MarkKemlitz.internal.md) 
 
-### [Kemlitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Dahme~Mark/boroughs~Dahme~Mark/Kemlitz.protect.md) 
+### [Kemlitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\Dahme~Mark\boroughs~Dahme~MarkKemlitz.protect.md) 
 
-### [Kemlitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Dahme~Mark/boroughs~Dahme~Mark/Kemlitz.private.md) 
+### [Kemlitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\Dahme~Mark\boroughs~Dahme~MarkKemlitz.private.md) 
 
-### [Kemlitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Dahme~Mark/boroughs~Dahme~Mark/Kemlitz.personal.md) 
+### [Kemlitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\Dahme~Mark\boroughs~Dahme~MarkKemlitz.personal.md) 
 
-### [Kemlitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Dahme~Mark/boroughs~Dahme~Mark/Kemlitz.secret.md) 
+### [Kemlitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\Dahme~Mark\boroughs~Dahme~MarkKemlitz.secret.md)
+

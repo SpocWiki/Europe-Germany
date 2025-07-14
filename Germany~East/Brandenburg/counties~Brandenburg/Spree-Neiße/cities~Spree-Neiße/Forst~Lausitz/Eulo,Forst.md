@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.75,14.62] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eulo,Forst](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Forst~Lausitz/Eulo,Forst.md) 
+### [Eulo,Forst.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Spree-Neiße\cities~Spree-Neiße\Forst~LausitzEulo,Forst.public.md) 
 
-### [Eulo,Forst.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Forst~Lausitz/Eulo,Forst.internal.md) 
+### [Eulo,Forst.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Spree-Neiße\cities~Spree-Neiße\Forst~LausitzEulo,Forst.internal.md) 
 
-### [Eulo,Forst.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Forst~Lausitz/Eulo,Forst.protect.md) 
+### [Eulo,Forst.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Spree-Neiße\cities~Spree-Neiße\Forst~LausitzEulo,Forst.protect.md) 
 
-### [Eulo,Forst.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Forst~Lausitz/Eulo,Forst.private.md) 
+### [Eulo,Forst.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Spree-Neiße\cities~Spree-Neiße\Forst~LausitzEulo,Forst.private.md) 
 
-### [Eulo,Forst.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Forst~Lausitz/Eulo,Forst.personal.md) 
+### [Eulo,Forst.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Spree-Neiße\cities~Spree-Neiße\Forst~LausitzEulo,Forst.personal.md) 
 
-### [Eulo,Forst.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Forst~Lausitz/Eulo,Forst.secret.md) 
+### [Eulo,Forst.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Spree-Neiße\cities~Spree-Neiße\Forst~LausitzEulo,Forst.secret.md)
+

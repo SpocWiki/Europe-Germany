@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.39,13.06] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -35,16 +35,18 @@ maxZoom: 18
 ![[../../../../../../../../../assets/geo/Europe/Germany/Brandenburg/Potsdam~Sanssouci.webp]]] 
 Schlösser und Parks von Potsdam und Berlin (1990)
 
+
 ## Confidential Links & Embeds: 
 
-### [Potsdam](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam.md) 
+### [Potsdam.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~BrandenburgPotsdam.public.md) 
 
-### [Potsdam.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam.internal.md) 
+### [Potsdam.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~BrandenburgPotsdam.internal.md) 
 
-### [Potsdam.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam.protect.md) 
+### [Potsdam.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~BrandenburgPotsdam.protect.md) 
 
-### [Potsdam.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam.private.md) 
+### [Potsdam.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~BrandenburgPotsdam.private.md) 
 
-### [Potsdam.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam.personal.md) 
+### [Potsdam.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~BrandenburgPotsdam.personal.md) 
 
-### [Potsdam.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam.secret.md) 
+### [Potsdam.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~BrandenburgPotsdam.secret.md)
+

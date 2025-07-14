@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.57,7.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -36,14 +36,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wittmund](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund.md) 
+### [Wittmund.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWittmund.public.md) 
 
-### [Wittmund.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund.internal.md) 
+### [Wittmund.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWittmund.internal.md) 
 
-### [Wittmund.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund.protect.md) 
+### [Wittmund.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWittmund.protect.md) 
 
-### [Wittmund.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund.private.md) 
+### [Wittmund.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWittmund.private.md) 
 
-### [Wittmund.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund.personal.md) 
+### [Wittmund.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWittmund.personal.md) 
 
-### [Wittmund.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund.secret.md) 
+### [Wittmund.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWittmund.secret.md)
+

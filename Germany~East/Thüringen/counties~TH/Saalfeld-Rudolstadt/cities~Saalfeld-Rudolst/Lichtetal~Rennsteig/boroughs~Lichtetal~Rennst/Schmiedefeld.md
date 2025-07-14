@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.62,10.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schmiedefeld](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Lichtetal~Rennsteig/boroughs~Lichtetal~Rennst/Schmiedefeld.md) 
+### [Schmiedefeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Lichtetal~Rennsteig\boroughs~Lichtetal~RennstSchmiedefeld.public.md) 
 
-### [Schmiedefeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Lichtetal~Rennsteig/boroughs~Lichtetal~Rennst/Schmiedefeld.internal.md) 
+### [Schmiedefeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Lichtetal~Rennsteig\boroughs~Lichtetal~RennstSchmiedefeld.internal.md) 
 
-### [Schmiedefeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Lichtetal~Rennsteig/boroughs~Lichtetal~Rennst/Schmiedefeld.protect.md) 
+### [Schmiedefeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Lichtetal~Rennsteig\boroughs~Lichtetal~RennstSchmiedefeld.protect.md) 
 
-### [Schmiedefeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Lichtetal~Rennsteig/boroughs~Lichtetal~Rennst/Schmiedefeld.private.md) 
+### [Schmiedefeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Lichtetal~Rennsteig\boroughs~Lichtetal~RennstSchmiedefeld.private.md) 
 
-### [Schmiedefeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Lichtetal~Rennsteig/boroughs~Lichtetal~Rennst/Schmiedefeld.personal.md) 
+### [Schmiedefeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Lichtetal~Rennsteig\boroughs~Lichtetal~RennstSchmiedefeld.personal.md) 
 
-### [Schmiedefeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Lichtetal~Rennsteig/boroughs~Lichtetal~Rennst/Schmiedefeld.secret.md) 
+### [Schmiedefeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Lichtetal~Rennsteig\boroughs~Lichtetal~RennstSchmiedefeld.secret.md)
+

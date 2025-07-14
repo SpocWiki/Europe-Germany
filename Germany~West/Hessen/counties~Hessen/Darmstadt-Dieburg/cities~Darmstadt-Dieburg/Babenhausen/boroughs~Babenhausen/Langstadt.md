@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.93,8.97] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Langstadt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Babenhausen/boroughs~Babenhausen/Langstadt.md) 
+### [Langstadt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Darmstadt-Dieburg\cities~Darmstadt-Dieburg\Babenhausen\boroughs~BabenhausenLangstadt.public.md) 
 
-### [Langstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Babenhausen/boroughs~Babenhausen/Langstadt.internal.md) 
+### [Langstadt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Darmstadt-Dieburg\cities~Darmstadt-Dieburg\Babenhausen\boroughs~BabenhausenLangstadt.internal.md) 
 
-### [Langstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Babenhausen/boroughs~Babenhausen/Langstadt.protect.md) 
+### [Langstadt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Darmstadt-Dieburg\cities~Darmstadt-Dieburg\Babenhausen\boroughs~BabenhausenLangstadt.protect.md) 
 
-### [Langstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Babenhausen/boroughs~Babenhausen/Langstadt.private.md) 
+### [Langstadt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Darmstadt-Dieburg\cities~Darmstadt-Dieburg\Babenhausen\boroughs~BabenhausenLangstadt.private.md) 
 
-### [Langstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Babenhausen/boroughs~Babenhausen/Langstadt.personal.md) 
+### [Langstadt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Darmstadt-Dieburg\cities~Darmstadt-Dieburg\Babenhausen\boroughs~BabenhausenLangstadt.personal.md) 
 
-### [Langstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Babenhausen/boroughs~Babenhausen/Langstadt.secret.md) 
+### [Langstadt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Darmstadt-Dieburg\cities~Darmstadt-Dieburg\Babenhausen\boroughs~BabenhausenLangstadt.secret.md)
+

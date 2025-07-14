@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.35,6.73] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dillingen~Saar](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Dillingen~Saar.md) 
+### [Dillingen~Saar.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarlouis\cities~SaarlouisDillingen~Saar.public.md) 
 
-### [Dillingen~Saar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Dillingen~Saar.internal.md) 
+### [Dillingen~Saar.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarlouis\cities~SaarlouisDillingen~Saar.internal.md) 
 
-### [Dillingen~Saar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Dillingen~Saar.protect.md) 
+### [Dillingen~Saar.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarlouis\cities~SaarlouisDillingen~Saar.protect.md) 
 
-### [Dillingen~Saar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Dillingen~Saar.private.md) 
+### [Dillingen~Saar.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarlouis\cities~SaarlouisDillingen~Saar.private.md) 
 
-### [Dillingen~Saar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Dillingen~Saar.personal.md) 
+### [Dillingen~Saar.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarlouis\cities~SaarlouisDillingen~Saar.personal.md) 
 
-### [Dillingen~Saar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Dillingen~Saar.secret.md) 
+### [Dillingen~Saar.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarlouis\cities~SaarlouisDillingen~Saar.secret.md)
+

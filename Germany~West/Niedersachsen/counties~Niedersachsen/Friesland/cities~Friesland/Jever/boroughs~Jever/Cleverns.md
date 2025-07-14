@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.55,7.8667] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cleverns](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Jever/boroughs~Jever/Cleverns.md) 
+### [Cleverns.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~Friesland\Jever\boroughs~JeverCleverns.public.md) 
 
-### [Cleverns.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Jever/boroughs~Jever/Cleverns.internal.md) 
+### [Cleverns.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~Friesland\Jever\boroughs~JeverCleverns.internal.md) 
 
-### [Cleverns.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Jever/boroughs~Jever/Cleverns.protect.md) 
+### [Cleverns.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~Friesland\Jever\boroughs~JeverCleverns.protect.md) 
 
-### [Cleverns.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Jever/boroughs~Jever/Cleverns.private.md) 
+### [Cleverns.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~Friesland\Jever\boroughs~JeverCleverns.private.md) 
 
-### [Cleverns.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Jever/boroughs~Jever/Cleverns.personal.md) 
+### [Cleverns.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~Friesland\Jever\boroughs~JeverCleverns.personal.md) 
 
-### [Cleverns.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Jever/boroughs~Jever/Cleverns.secret.md) 
+### [Cleverns.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~Friesland\Jever\boroughs~JeverCleverns.secret.md)
+

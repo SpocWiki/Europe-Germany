@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.4,8.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brilon](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Brilon.md) 
+### [Brilon.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandBrilon.public.md) 
 
-### [Brilon.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Brilon.internal.md) 
+### [Brilon.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandBrilon.internal.md) 
 
-### [Brilon.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Brilon.protect.md) 
+### [Brilon.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandBrilon.protect.md) 
 
-### [Brilon.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Brilon.private.md) 
+### [Brilon.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandBrilon.private.md) 
 
-### [Brilon.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Brilon.personal.md) 
+### [Brilon.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandBrilon.personal.md) 
 
-### [Brilon.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Brilon.secret.md) 
+### [Brilon.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandBrilon.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.02,14.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stuerza](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Dürrröhrsdorf-Dittersbach/City/Stuerza.md) 
+### [Stuerza.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Dürrröhrsdorf-Dittersbach\CityStuerza.public.md) 
 
-### [Stuerza.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Dürrröhrsdorf-Dittersbach/City/Stuerza.internal.md) 
+### [Stuerza.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Dürrröhrsdorf-Dittersbach\CityStuerza.internal.md) 
 
-### [Stuerza.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Dürrröhrsdorf-Dittersbach/City/Stuerza.protect.md) 
+### [Stuerza.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Dürrröhrsdorf-Dittersbach\CityStuerza.protect.md) 
 
-### [Stuerza.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Dürrröhrsdorf-Dittersbach/City/Stuerza.private.md) 
+### [Stuerza.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Dürrröhrsdorf-Dittersbach\CityStuerza.private.md) 
 
-### [Stuerza.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Dürrröhrsdorf-Dittersbach/City/Stuerza.personal.md) 
+### [Stuerza.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Dürrröhrsdorf-Dittersbach\CityStuerza.personal.md) 
 
-### [Stuerza.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Dürrröhrsdorf-Dittersbach/City/Stuerza.secret.md) 
+### [Stuerza.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Dürrröhrsdorf-Dittersbach\CityStuerza.secret.md)
+

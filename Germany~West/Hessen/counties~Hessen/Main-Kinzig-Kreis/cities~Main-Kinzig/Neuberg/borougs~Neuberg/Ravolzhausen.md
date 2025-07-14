@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.2,8.98] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ravolzhausen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Neuberg/borougs~Neuberg/Ravolzhausen.md) 
+### [Ravolzhausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Neuberg\borougs~NeubergRavolzhausen.public.md) 
 
-### [Ravolzhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Neuberg/borougs~Neuberg/Ravolzhausen.internal.md) 
+### [Ravolzhausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Neuberg\borougs~NeubergRavolzhausen.internal.md) 
 
-### [Ravolzhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Neuberg/borougs~Neuberg/Ravolzhausen.protect.md) 
+### [Ravolzhausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Neuberg\borougs~NeubergRavolzhausen.protect.md) 
 
-### [Ravolzhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Neuberg/borougs~Neuberg/Ravolzhausen.private.md) 
+### [Ravolzhausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Neuberg\borougs~NeubergRavolzhausen.private.md) 
 
-### [Ravolzhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Neuberg/borougs~Neuberg/Ravolzhausen.personal.md) 
+### [Ravolzhausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Neuberg\borougs~NeubergRavolzhausen.personal.md) 
 
-### [Ravolzhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Neuberg/borougs~Neuberg/Ravolzhausen.secret.md) 
+### [Ravolzhausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Neuberg\borougs~NeubergRavolzhausen.secret.md)
+

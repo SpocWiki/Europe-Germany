@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.63,7.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Berdum](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Wittmund-city/boroughs~Wittmund/Berdum.md) 
+### [Berdum.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wittmund\cities~Wittmund\Wittmund-city\boroughs~WittmundBerdum.public.md) 
 
-### [Berdum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Wittmund-city/boroughs~Wittmund/Berdum.internal.md) 
+### [Berdum.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wittmund\cities~Wittmund\Wittmund-city\boroughs~WittmundBerdum.internal.md) 
 
-### [Berdum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Wittmund-city/boroughs~Wittmund/Berdum.protect.md) 
+### [Berdum.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wittmund\cities~Wittmund\Wittmund-city\boroughs~WittmundBerdum.protect.md) 
 
-### [Berdum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Wittmund-city/boroughs~Wittmund/Berdum.private.md) 
+### [Berdum.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wittmund\cities~Wittmund\Wittmund-city\boroughs~WittmundBerdum.private.md) 
 
-### [Berdum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Wittmund-city/boroughs~Wittmund/Berdum.personal.md) 
+### [Berdum.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wittmund\cities~Wittmund\Wittmund-city\boroughs~WittmundBerdum.personal.md) 
 
-### [Berdum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Wittmund-city/boroughs~Wittmund/Berdum.secret.md) 
+### [Berdum.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wittmund\cities~Wittmund\Wittmund-city\boroughs~WittmundBerdum.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.83,10.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dorndorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Krayenberggemeinde/City/Dorndorf.md) 
+### [Dorndorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Krayenberggemeinde\CityDorndorf.public.md) 
 
-### [Dorndorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Krayenberggemeinde/City/Dorndorf.internal.md) 
+### [Dorndorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Krayenberggemeinde\CityDorndorf.internal.md) 
 
-### [Dorndorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Krayenberggemeinde/City/Dorndorf.protect.md) 
+### [Dorndorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Krayenberggemeinde\CityDorndorf.protect.md) 
 
-### [Dorndorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Krayenberggemeinde/City/Dorndorf.private.md) 
+### [Dorndorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Krayenberggemeinde\CityDorndorf.private.md) 
 
-### [Dorndorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Krayenberggemeinde/City/Dorndorf.personal.md) 
+### [Dorndorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Krayenberggemeinde\CityDorndorf.personal.md) 
 
-### [Dorndorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Krayenberggemeinde/City/Dorndorf.secret.md) 
+### [Dorndorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Krayenberggemeinde\CityDorndorf.secret.md)
+

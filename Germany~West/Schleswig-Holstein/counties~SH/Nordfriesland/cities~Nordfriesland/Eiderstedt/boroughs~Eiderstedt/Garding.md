@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.33,8.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Garding](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Eiderstedt/boroughs~Eiderstedt/Garding.md) 
+### [Garding.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Eiderstedt\boroughs~EiderstedtGarding.public.md) 
 
-### [Garding.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Eiderstedt/boroughs~Eiderstedt/Garding.internal.md) 
+### [Garding.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Eiderstedt\boroughs~EiderstedtGarding.internal.md) 
 
-### [Garding.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Eiderstedt/boroughs~Eiderstedt/Garding.protect.md) 
+### [Garding.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Eiderstedt\boroughs~EiderstedtGarding.protect.md) 
 
-### [Garding.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Eiderstedt/boroughs~Eiderstedt/Garding.private.md) 
+### [Garding.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Eiderstedt\boroughs~EiderstedtGarding.private.md) 
 
-### [Garding.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Eiderstedt/boroughs~Eiderstedt/Garding.personal.md) 
+### [Garding.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Eiderstedt\boroughs~EiderstedtGarding.personal.md) 
 
-### [Garding.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Eiderstedt/boroughs~Eiderstedt/Garding.secret.md) 
+### [Garding.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Eiderstedt\boroughs~EiderstedtGarding.secret.md)
+

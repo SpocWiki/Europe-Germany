@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.08,8.65] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oldenburg~Nieders](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders.md) 
+### [Oldenburg~Nieders.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenOldenburg~Nieders.public.md) 
 
-### [Oldenburg~Nieders.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders.internal.md) 
+### [Oldenburg~Nieders.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenOldenburg~Nieders.internal.md) 
 
-### [Oldenburg~Nieders.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders.protect.md) 
+### [Oldenburg~Nieders.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenOldenburg~Nieders.protect.md) 
 
-### [Oldenburg~Nieders.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders.private.md) 
+### [Oldenburg~Nieders.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenOldenburg~Nieders.private.md) 
 
-### [Oldenburg~Nieders.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders.personal.md) 
+### [Oldenburg~Nieders.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenOldenburg~Nieders.personal.md) 
 
-### [Oldenburg~Nieders.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders.secret.md) 
+### [Oldenburg~Nieders.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenOldenburg~Nieders.secret.md)
+

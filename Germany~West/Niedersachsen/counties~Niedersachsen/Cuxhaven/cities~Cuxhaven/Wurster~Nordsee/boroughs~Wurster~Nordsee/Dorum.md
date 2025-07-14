@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.68,8.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dorum](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Wurster~Nordsee/boroughs~Wurster~Nordsee/Dorum.md) 
+### [Dorum.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Wurster~Nordsee\boroughs~Wurster~NordseeDorum.public.md) 
 
-### [Dorum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Wurster~Nordsee/boroughs~Wurster~Nordsee/Dorum.internal.md) 
+### [Dorum.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Wurster~Nordsee\boroughs~Wurster~NordseeDorum.internal.md) 
 
-### [Dorum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Wurster~Nordsee/boroughs~Wurster~Nordsee/Dorum.protect.md) 
+### [Dorum.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Wurster~Nordsee\boroughs~Wurster~NordseeDorum.protect.md) 
 
-### [Dorum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Wurster~Nordsee/boroughs~Wurster~Nordsee/Dorum.private.md) 
+### [Dorum.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Wurster~Nordsee\boroughs~Wurster~NordseeDorum.private.md) 
 
-### [Dorum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Wurster~Nordsee/boroughs~Wurster~Nordsee/Dorum.personal.md) 
+### [Dorum.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Wurster~Nordsee\boroughs~Wurster~NordseeDorum.personal.md) 
 
-### [Dorum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Wurster~Nordsee/boroughs~Wurster~Nordsee/Dorum.secret.md) 
+### [Dorum.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Wurster~Nordsee\boroughs~Wurster~NordseeDorum.secret.md)
+

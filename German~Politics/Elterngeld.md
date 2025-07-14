@@ -18,3 +18,20 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Elterngeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\German~PoliticsElterngeld.public.md) 
+
+### [Elterngeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\German~PoliticsElterngeld.internal.md) 
+
+### [Elterngeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\German~PoliticsElterngeld.protect.md) 
+
+### [Elterngeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\German~PoliticsElterngeld.private.md) 
+
+### [Elterngeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\German~PoliticsElterngeld.personal.md) 
+
+### [Elterngeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\German~PoliticsElterngeld.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 52.48 , 9.33 ] 
 type: geo-Region
 title: Lakes
@@ -41,14 +41,15 @@ markerFolder: ./Lakes/
 
 ## Confidential Links & Embeds: 
 
-### [Lakes](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Lakes.md) 
+### [Lakes.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\NiedersachsenLakes.public.md) 
 
-### [Lakes.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Lakes.internal.md) 
+### [Lakes.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\NiedersachsenLakes.internal.md) 
 
-### [Lakes.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Lakes.protect.md) 
+### [Lakes.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\NiedersachsenLakes.protect.md) 
 
-### [Lakes.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Lakes.private.md) 
+### [Lakes.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\NiedersachsenLakes.private.md) 
 
-### [Lakes.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Lakes.personal.md) 
+### [Lakes.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\NiedersachsenLakes.personal.md) 
 
-### [Lakes.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Lakes.secret.md) 
+### [Lakes.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\NiedersachsenLakes.secret.md)
+

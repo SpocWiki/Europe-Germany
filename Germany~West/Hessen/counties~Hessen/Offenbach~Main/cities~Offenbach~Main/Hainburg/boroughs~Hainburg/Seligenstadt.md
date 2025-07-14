@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.07,8.98] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Seligenstadt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Hainburg/boroughs~Hainburg/Seligenstadt.md) 
+### [Seligenstadt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Offenbach~Main\cities~Offenbach~Main\Hainburg\boroughs~HainburgSeligenstadt.public.md) 
 
-### [Seligenstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Hainburg/boroughs~Hainburg/Seligenstadt.internal.md) 
+### [Seligenstadt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Offenbach~Main\cities~Offenbach~Main\Hainburg\boroughs~HainburgSeligenstadt.internal.md) 
 
-### [Seligenstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Hainburg/boroughs~Hainburg/Seligenstadt.protect.md) 
+### [Seligenstadt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Offenbach~Main\cities~Offenbach~Main\Hainburg\boroughs~HainburgSeligenstadt.protect.md) 
 
-### [Seligenstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Hainburg/boroughs~Hainburg/Seligenstadt.private.md) 
+### [Seligenstadt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Offenbach~Main\cities~Offenbach~Main\Hainburg\boroughs~HainburgSeligenstadt.private.md) 
 
-### [Seligenstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Hainburg/boroughs~Hainburg/Seligenstadt.personal.md) 
+### [Seligenstadt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Offenbach~Main\cities~Offenbach~Main\Hainburg\boroughs~HainburgSeligenstadt.personal.md) 
 
-### [Seligenstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Hainburg/boroughs~Hainburg/Seligenstadt.secret.md) 
+### [Seligenstadt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Offenbach~Main\cities~Offenbach~Main\Hainburg\boroughs~HainburgSeligenstadt.secret.md)
+

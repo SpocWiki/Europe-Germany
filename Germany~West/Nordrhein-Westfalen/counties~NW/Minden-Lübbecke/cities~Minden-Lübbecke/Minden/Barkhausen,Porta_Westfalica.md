@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.27,8.92] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Barkhausen,Porta_Westfalica](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Minden/Barkhausen,Porta_Westfalica.md) 
+### [Barkhausen,Porta_Westfalica.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-Lübbecke\MindenBarkhausen,Porta_Westfalica.public.md) 
 
-### [Barkhausen,Porta_Westfalica.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Minden/Barkhausen,Porta_Westfalica.internal.md) 
+### [Barkhausen,Porta_Westfalica.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-Lübbecke\MindenBarkhausen,Porta_Westfalica.internal.md) 
 
-### [Barkhausen,Porta_Westfalica.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Minden/Barkhausen,Porta_Westfalica.protect.md) 
+### [Barkhausen,Porta_Westfalica.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-Lübbecke\MindenBarkhausen,Porta_Westfalica.protect.md) 
 
-### [Barkhausen,Porta_Westfalica.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Minden/Barkhausen,Porta_Westfalica.private.md) 
+### [Barkhausen,Porta_Westfalica.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-Lübbecke\MindenBarkhausen,Porta_Westfalica.private.md) 
 
-### [Barkhausen,Porta_Westfalica.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Minden/Barkhausen,Porta_Westfalica.personal.md) 
+### [Barkhausen,Porta_Westfalica.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-Lübbecke\MindenBarkhausen,Porta_Westfalica.personal.md) 
 
-### [Barkhausen,Porta_Westfalica.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Minden/Barkhausen,Porta_Westfalica.secret.md) 
+### [Barkhausen,Porta_Westfalica.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-Lübbecke\MindenBarkhausen,Porta_Westfalica.secret.md)
+

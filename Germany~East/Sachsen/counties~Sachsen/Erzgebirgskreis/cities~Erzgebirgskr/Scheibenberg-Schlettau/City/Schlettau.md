@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.57,12.95] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schlettau](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Scheibenberg-Schlettau/City/Schlettau.md) 
+### [Schlettau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Scheibenberg-Schlettau\CitySchlettau.public.md) 
 
-### [Schlettau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Scheibenberg-Schlettau/City/Schlettau.internal.md) 
+### [Schlettau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Scheibenberg-Schlettau\CitySchlettau.internal.md) 
 
-### [Schlettau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Scheibenberg-Schlettau/City/Schlettau.protect.md) 
+### [Schlettau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Scheibenberg-Schlettau\CitySchlettau.protect.md) 
 
-### [Schlettau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Scheibenberg-Schlettau/City/Schlettau.private.md) 
+### [Schlettau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Scheibenberg-Schlettau\CitySchlettau.private.md) 
 
-### [Schlettau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Scheibenberg-Schlettau/City/Schlettau.personal.md) 
+### [Schlettau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Scheibenberg-Schlettau\CitySchlettau.personal.md) 
 
-### [Schlettau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Scheibenberg-Schlettau/City/Schlettau.secret.md) 
+### [Schlettau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Scheibenberg-Schlettau\CitySchlettau.secret.md)
+

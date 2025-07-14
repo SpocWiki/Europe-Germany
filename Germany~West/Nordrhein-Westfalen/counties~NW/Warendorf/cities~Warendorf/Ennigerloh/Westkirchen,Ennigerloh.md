@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.9,8.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Westkirchen,Ennigerloh](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Ennigerloh/Westkirchen,Ennigerloh.md) 
+### [Westkirchen,Ennigerloh.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~Warendorf\EnnigerlohWestkirchen,Ennigerloh.public.md) 
 
-### [Westkirchen,Ennigerloh.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Ennigerloh/Westkirchen,Ennigerloh.internal.md) 
+### [Westkirchen,Ennigerloh.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~Warendorf\EnnigerlohWestkirchen,Ennigerloh.internal.md) 
 
-### [Westkirchen,Ennigerloh.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Ennigerloh/Westkirchen,Ennigerloh.protect.md) 
+### [Westkirchen,Ennigerloh.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~Warendorf\EnnigerlohWestkirchen,Ennigerloh.protect.md) 
 
-### [Westkirchen,Ennigerloh.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Ennigerloh/Westkirchen,Ennigerloh.private.md) 
+### [Westkirchen,Ennigerloh.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~Warendorf\EnnigerlohWestkirchen,Ennigerloh.private.md) 
 
-### [Westkirchen,Ennigerloh.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Ennigerloh/Westkirchen,Ennigerloh.personal.md) 
+### [Westkirchen,Ennigerloh.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~Warendorf\EnnigerlohWestkirchen,Ennigerloh.personal.md) 
 
-### [Westkirchen,Ennigerloh.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Ennigerloh/Westkirchen,Ennigerloh.secret.md) 
+### [Westkirchen,Ennigerloh.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~Warendorf\EnnigerlohWestkirchen,Ennigerloh.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.47,8.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Muenzenberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Muenzenberg.md) 
+### [Muenzenberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisMuenzenberg.public.md) 
 
-### [Muenzenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Muenzenberg.internal.md) 
+### [Muenzenberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisMuenzenberg.internal.md) 
 
-### [Muenzenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Muenzenberg.protect.md) 
+### [Muenzenberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisMuenzenberg.protect.md) 
 
-### [Muenzenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Muenzenberg.private.md) 
+### [Muenzenberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisMuenzenberg.private.md) 
 
-### [Muenzenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Muenzenberg.personal.md) 
+### [Muenzenberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisMuenzenberg.personal.md) 
 
-### [Muenzenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Muenzenberg.secret.md) 
+### [Muenzenberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisMuenzenberg.secret.md)
+

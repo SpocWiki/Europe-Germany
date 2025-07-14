@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.32,10.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schwicheldt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Sehnde/boroughs~Sehnde/Schwicheldt.md) 
+### [Schwicheldt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Sehnde\boroughs~SehndeSchwicheldt.public.md) 
 
-### [Schwicheldt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Sehnde/boroughs~Sehnde/Schwicheldt.internal.md) 
+### [Schwicheldt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Sehnde\boroughs~SehndeSchwicheldt.internal.md) 
 
-### [Schwicheldt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Sehnde/boroughs~Sehnde/Schwicheldt.protect.md) 
+### [Schwicheldt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Sehnde\boroughs~SehndeSchwicheldt.protect.md) 
 
-### [Schwicheldt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Sehnde/boroughs~Sehnde/Schwicheldt.private.md) 
+### [Schwicheldt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Sehnde\boroughs~SehndeSchwicheldt.private.md) 
 
-### [Schwicheldt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Sehnde/boroughs~Sehnde/Schwicheldt.personal.md) 
+### [Schwicheldt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Sehnde\boroughs~SehndeSchwicheldt.personal.md) 
 
-### [Schwicheldt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Sehnde/boroughs~Sehnde/Schwicheldt.secret.md) 
+### [Schwicheldt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Sehnde\boroughs~SehndeSchwicheldt.secret.md)
+

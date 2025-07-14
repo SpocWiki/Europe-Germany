@@ -1,4 +1,4 @@
-﻿---
+---
 license: (c)copyrighted
 isDeleted: false
 isReadOnly: false
@@ -228,16 +228,18 @@ geojsonFolder: ./Frankfurt~Main///
 markerFolder: ./Frankfurt~Main/City
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [Frankfurt~Main](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main.md) 
+### [Frankfurt~Main.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~HessenFrankfurt~Main.public.md) 
 
-### [Frankfurt~Main.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main.internal.md) 
+### [Frankfurt~Main.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~HessenFrankfurt~Main.internal.md) 
 
-### [Frankfurt~Main.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main.protect.md) 
+### [Frankfurt~Main.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~HessenFrankfurt~Main.protect.md) 
 
-### [Frankfurt~Main.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main.private.md) 
+### [Frankfurt~Main.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~HessenFrankfurt~Main.private.md) 
 
-### [Frankfurt~Main.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main.personal.md) 
+### [Frankfurt~Main.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~HessenFrankfurt~Main.personal.md) 
 
-### [Frankfurt~Main.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main.secret.md) 
+### [Frankfurt~Main.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~HessenFrankfurt~Main.secret.md)
+

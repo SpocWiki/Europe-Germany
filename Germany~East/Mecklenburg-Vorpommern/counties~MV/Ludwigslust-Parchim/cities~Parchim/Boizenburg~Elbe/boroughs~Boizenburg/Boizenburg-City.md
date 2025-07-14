@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.37,10.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Boizenburg-City](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Boizenburg~Elbe/boroughs~Boizenburg/Boizenburg-City.md) 
+### [Boizenburg-City.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Boizenburg~Elbe\boroughs~BoizenburgBoizenburg-City.public.md) 
 
-### [Boizenburg-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Boizenburg~Elbe/boroughs~Boizenburg/Boizenburg-City.internal.md) 
+### [Boizenburg-City.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Boizenburg~Elbe\boroughs~BoizenburgBoizenburg-City.internal.md) 
 
-### [Boizenburg-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Boizenburg~Elbe/boroughs~Boizenburg/Boizenburg-City.protect.md) 
+### [Boizenburg-City.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Boizenburg~Elbe\boroughs~BoizenburgBoizenburg-City.protect.md) 
 
-### [Boizenburg-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Boizenburg~Elbe/boroughs~Boizenburg/Boizenburg-City.private.md) 
+### [Boizenburg-City.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Boizenburg~Elbe\boroughs~BoizenburgBoizenburg-City.private.md) 
 
-### [Boizenburg-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Boizenburg~Elbe/boroughs~Boizenburg/Boizenburg-City.personal.md) 
+### [Boizenburg-City.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Boizenburg~Elbe\boroughs~BoizenburgBoizenburg-City.personal.md) 
 
-### [Boizenburg-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Boizenburg~Elbe/boroughs~Boizenburg/Boizenburg-City.secret.md) 
+### [Boizenburg-City.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Boizenburg~Elbe\boroughs~BoizenburgBoizenburg-City.secret.md)
+

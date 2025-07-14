@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.47,12.03] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lübz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Eldenburg-Lübz/boroughs~Lübz/Lübz.md) 
+### [Lübz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Eldenburg-Lübz\boroughs~LübzLübz.public.md) 
 
-### [Lübz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Eldenburg-Lübz/boroughs~Lübz/Lübz.internal.md) 
+### [Lübz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Eldenburg-Lübz\boroughs~LübzLübz.internal.md) 
 
-### [Lübz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Eldenburg-Lübz/boroughs~Lübz/Lübz.protect.md) 
+### [Lübz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Eldenburg-Lübz\boroughs~LübzLübz.protect.md) 
 
-### [Lübz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Eldenburg-Lübz/boroughs~Lübz/Lübz.private.md) 
+### [Lübz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Eldenburg-Lübz\boroughs~LübzLübz.private.md) 
 
-### [Lübz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Eldenburg-Lübz/boroughs~Lübz/Lübz.personal.md) 
+### [Lübz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Eldenburg-Lübz\boroughs~LübzLübz.personal.md) 
 
-### [Lübz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Eldenburg-Lübz/boroughs~Lübz/Lübz.secret.md) 
+### [Lübz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Eldenburg-Lübz\boroughs~LübzLübz.secret.md)
+

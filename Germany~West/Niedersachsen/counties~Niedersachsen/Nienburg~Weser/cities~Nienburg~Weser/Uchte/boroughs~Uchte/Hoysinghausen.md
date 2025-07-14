@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.53,8.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hoysinghausen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Uchte/boroughs~Uchte/Hoysinghausen.md) 
+### [Hoysinghausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~Weser\Uchte\boroughs~UchteHoysinghausen.public.md) 
 
-### [Hoysinghausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Uchte/boroughs~Uchte/Hoysinghausen.internal.md) 
+### [Hoysinghausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~Weser\Uchte\boroughs~UchteHoysinghausen.internal.md) 
 
-### [Hoysinghausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Uchte/boroughs~Uchte/Hoysinghausen.protect.md) 
+### [Hoysinghausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~Weser\Uchte\boroughs~UchteHoysinghausen.protect.md) 
 
-### [Hoysinghausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Uchte/boroughs~Uchte/Hoysinghausen.private.md) 
+### [Hoysinghausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~Weser\Uchte\boroughs~UchteHoysinghausen.private.md) 
 
-### [Hoysinghausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Uchte/boroughs~Uchte/Hoysinghausen.personal.md) 
+### [Hoysinghausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~Weser\Uchte\boroughs~UchteHoysinghausen.personal.md) 
 
-### [Hoysinghausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Uchte/boroughs~Uchte/Hoysinghausen.secret.md) 
+### [Hoysinghausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~Weser\Uchte\boroughs~UchteHoysinghausen.secret.md)
+

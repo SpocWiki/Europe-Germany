@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.55,8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Accum](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Schortens/boroughs~Jever/Accum.md) 
+### [Accum.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~Friesland\Schortens\boroughs~JeverAccum.public.md) 
 
-### [Accum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Schortens/boroughs~Jever/Accum.internal.md) 
+### [Accum.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~Friesland\Schortens\boroughs~JeverAccum.internal.md) 
 
-### [Accum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Schortens/boroughs~Jever/Accum.protect.md) 
+### [Accum.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~Friesland\Schortens\boroughs~JeverAccum.protect.md) 
 
-### [Accum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Schortens/boroughs~Jever/Accum.private.md) 
+### [Accum.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~Friesland\Schortens\boroughs~JeverAccum.private.md) 
 
-### [Accum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Schortens/boroughs~Jever/Accum.personal.md) 
+### [Accum.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~Friesland\Schortens\boroughs~JeverAccum.personal.md) 
 
-### [Accum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Schortens/boroughs~Jever/Accum.secret.md) 
+### [Accum.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~Friesland\Schortens\boroughs~JeverAccum.secret.md)
+

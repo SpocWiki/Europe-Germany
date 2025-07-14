@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.78,11.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wolfersdorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Hügelland~Täler/City/Wolfersdorf.md) 
+### [Wolfersdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-Holzland\Hügelland~Täler\CityWolfersdorf.public.md) 
 
-### [Wolfersdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Hügelland~Täler/City/Wolfersdorf.internal.md) 
+### [Wolfersdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-Holzland\Hügelland~Täler\CityWolfersdorf.internal.md) 
 
-### [Wolfersdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Hügelland~Täler/City/Wolfersdorf.protect.md) 
+### [Wolfersdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-Holzland\Hügelland~Täler\CityWolfersdorf.protect.md) 
 
-### [Wolfersdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Hügelland~Täler/City/Wolfersdorf.private.md) 
+### [Wolfersdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-Holzland\Hügelland~Täler\CityWolfersdorf.private.md) 
 
-### [Wolfersdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Hügelland~Täler/City/Wolfersdorf.personal.md) 
+### [Wolfersdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-Holzland\Hügelland~Täler\CityWolfersdorf.personal.md) 
 
-### [Wolfersdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Hügelland~Täler/City/Wolfersdorf.secret.md) 
+### [Wolfersdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-Holzland\Hügelland~Täler\CityWolfersdorf.secret.md)
+

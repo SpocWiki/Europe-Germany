@@ -37,16 +37,18 @@ maxZoom: 18
 ![[../../../../../../../../../assets/geo/Europe/Germany/Hessen/Darmstadt~Mathildenhoehe.webp]] 
 Mathildenhöhe Darmstadt (2021) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Darmstadt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.md) 
+### [Darmstadt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~HessenDarmstadt.public.md) 
 
-### [Darmstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.internal.md) 
+### [Darmstadt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~HessenDarmstadt.internal.md) 
 
-### [Darmstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.protect.md) 
+### [Darmstadt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~HessenDarmstadt.protect.md) 
 
-### [Darmstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.private.md) 
+### [Darmstadt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~HessenDarmstadt.private.md) 
 
-### [Darmstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.personal.md) 
+### [Darmstadt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~HessenDarmstadt.personal.md) 
 
-### [Darmstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.secret.md) 
+### [Darmstadt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~HessenDarmstadt.secret.md)
+

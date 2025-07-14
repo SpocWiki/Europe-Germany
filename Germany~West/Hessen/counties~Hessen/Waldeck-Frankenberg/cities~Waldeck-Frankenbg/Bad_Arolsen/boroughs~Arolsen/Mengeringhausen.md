@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.37,8.98] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mengeringhausen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Bad_Arolsen/boroughs~Arolsen/Mengeringhausen.md) 
+### [Mengeringhausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-Frankenbg\Bad_Arolsen\boroughs~ArolsenMengeringhausen.public.md) 
 
-### [Mengeringhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Bad_Arolsen/boroughs~Arolsen/Mengeringhausen.internal.md) 
+### [Mengeringhausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-Frankenbg\Bad_Arolsen\boroughs~ArolsenMengeringhausen.internal.md) 
 
-### [Mengeringhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Bad_Arolsen/boroughs~Arolsen/Mengeringhausen.protect.md) 
+### [Mengeringhausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-Frankenbg\Bad_Arolsen\boroughs~ArolsenMengeringhausen.protect.md) 
 
-### [Mengeringhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Bad_Arolsen/boroughs~Arolsen/Mengeringhausen.private.md) 
+### [Mengeringhausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-Frankenbg\Bad_Arolsen\boroughs~ArolsenMengeringhausen.private.md) 
 
-### [Mengeringhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Bad_Arolsen/boroughs~Arolsen/Mengeringhausen.personal.md) 
+### [Mengeringhausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-Frankenbg\Bad_Arolsen\boroughs~ArolsenMengeringhausen.personal.md) 
 
-### [Mengeringhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Bad_Arolsen/boroughs~Arolsen/Mengeringhausen.secret.md) 
+### [Mengeringhausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-Frankenbg\Bad_Arolsen\boroughs~ArolsenMengeringhausen.secret.md)
+

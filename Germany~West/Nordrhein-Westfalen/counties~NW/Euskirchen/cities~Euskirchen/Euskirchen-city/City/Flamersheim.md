@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.57,6.85] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Flamersheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Euskirchen-city/City/Flamersheim.md) 
+### [Flamersheim.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Euskirchen-city\CityFlamersheim.public.md) 
 
-### [Flamersheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Euskirchen-city/City/Flamersheim.internal.md) 
+### [Flamersheim.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Euskirchen-city\CityFlamersheim.internal.md) 
 
-### [Flamersheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Euskirchen-city/City/Flamersheim.protect.md) 
+### [Flamersheim.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Euskirchen-city\CityFlamersheim.protect.md) 
 
-### [Flamersheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Euskirchen-city/City/Flamersheim.private.md) 
+### [Flamersheim.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Euskirchen-city\CityFlamersheim.private.md) 
 
-### [Flamersheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Euskirchen-city/City/Flamersheim.personal.md) 
+### [Flamersheim.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Euskirchen-city\CityFlamersheim.personal.md) 
 
-### [Flamersheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Euskirchen-city/City/Flamersheim.secret.md) 
+### [Flamersheim.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Euskirchen-city\CityFlamersheim.secret.md)
+

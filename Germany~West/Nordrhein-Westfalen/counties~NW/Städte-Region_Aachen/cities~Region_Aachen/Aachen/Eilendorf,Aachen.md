@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.78,6.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eilendorf,Aachen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Aachen/Eilendorf,Aachen.md) 
+### [Eilendorf,Aachen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_Aachen\AachenEilendorf,Aachen.public.md) 
 
-### [Eilendorf,Aachen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Aachen/Eilendorf,Aachen.internal.md) 
+### [Eilendorf,Aachen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_Aachen\AachenEilendorf,Aachen.internal.md) 
 
-### [Eilendorf,Aachen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Aachen/Eilendorf,Aachen.protect.md) 
+### [Eilendorf,Aachen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_Aachen\AachenEilendorf,Aachen.protect.md) 
 
-### [Eilendorf,Aachen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Aachen/Eilendorf,Aachen.private.md) 
+### [Eilendorf,Aachen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_Aachen\AachenEilendorf,Aachen.private.md) 
 
-### [Eilendorf,Aachen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Aachen/Eilendorf,Aachen.personal.md) 
+### [Eilendorf,Aachen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_Aachen\AachenEilendorf,Aachen.personal.md) 
 
-### [Eilendorf,Aachen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Aachen/Eilendorf,Aachen.secret.md) 
+### [Eilendorf,Aachen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_Aachen\AachenEilendorf,Aachen.secret.md)
+

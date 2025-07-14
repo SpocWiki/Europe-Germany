@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.52,10.6] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Triangel](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Sassenburg/boroughs~Sassenburg/Triangel.md) 
+### [Triangel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Sassenburg\boroughs~SassenburgTriangel.public.md) 
 
-### [Triangel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Sassenburg/boroughs~Sassenburg/Triangel.internal.md) 
+### [Triangel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Sassenburg\boroughs~SassenburgTriangel.internal.md) 
 
-### [Triangel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Sassenburg/boroughs~Sassenburg/Triangel.protect.md) 
+### [Triangel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Sassenburg\boroughs~SassenburgTriangel.protect.md) 
 
-### [Triangel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Sassenburg/boroughs~Sassenburg/Triangel.private.md) 
+### [Triangel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Sassenburg\boroughs~SassenburgTriangel.private.md) 
 
-### [Triangel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Sassenburg/boroughs~Sassenburg/Triangel.personal.md) 
+### [Triangel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Sassenburg\boroughs~SassenburgTriangel.personal.md) 
 
-### [Triangel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Sassenburg/boroughs~Sassenburg/Triangel.secret.md) 
+### [Triangel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Sassenburg\boroughs~SassenburgTriangel.secret.md)
+

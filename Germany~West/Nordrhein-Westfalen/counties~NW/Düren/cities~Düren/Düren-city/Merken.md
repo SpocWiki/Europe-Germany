@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.85,6.42] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Merken](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city/Merken.md) 
+### [Merken.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~Düren\Düren-cityMerken.public.md) 
 
-### [Merken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city/Merken.internal.md) 
+### [Merken.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~Düren\Düren-cityMerken.internal.md) 
 
-### [Merken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city/Merken.protect.md) 
+### [Merken.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~Düren\Düren-cityMerken.protect.md) 
 
-### [Merken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city/Merken.private.md) 
+### [Merken.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~Düren\Düren-cityMerken.private.md) 
 
-### [Merken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city/Merken.personal.md) 
+### [Merken.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~Düren\Düren-cityMerken.personal.md) 
 
-### [Merken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city/Merken.secret.md) 
+### [Merken.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~Düren\Düren-cityMerken.secret.md)
+

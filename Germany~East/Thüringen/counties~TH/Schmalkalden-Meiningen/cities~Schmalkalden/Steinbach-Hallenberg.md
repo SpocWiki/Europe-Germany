@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.7,10.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Steinbach-Hallenberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Steinbach-Hallenberg.md) 
+### [Steinbach-Hallenberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Schmalkalden-Meiningen\cities~SchmalkaldenSteinbach-Hallenberg.public.md) 
 
-### [Steinbach-Hallenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Steinbach-Hallenberg.internal.md) 
+### [Steinbach-Hallenberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Schmalkalden-Meiningen\cities~SchmalkaldenSteinbach-Hallenberg.internal.md) 
 
-### [Steinbach-Hallenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Steinbach-Hallenberg.protect.md) 
+### [Steinbach-Hallenberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Schmalkalden-Meiningen\cities~SchmalkaldenSteinbach-Hallenberg.protect.md) 
 
-### [Steinbach-Hallenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Steinbach-Hallenberg.private.md) 
+### [Steinbach-Hallenberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Schmalkalden-Meiningen\cities~SchmalkaldenSteinbach-Hallenberg.private.md) 
 
-### [Steinbach-Hallenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Steinbach-Hallenberg.personal.md) 
+### [Steinbach-Hallenberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Schmalkalden-Meiningen\cities~SchmalkaldenSteinbach-Hallenberg.personal.md) 
 
-### [Steinbach-Hallenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Steinbach-Hallenberg.secret.md) 
+### [Steinbach-Hallenberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Schmalkalden-Meiningen\cities~SchmalkaldenSteinbach-Hallenberg.secret.md)
+

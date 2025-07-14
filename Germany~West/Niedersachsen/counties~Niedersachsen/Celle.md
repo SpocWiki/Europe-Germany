@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.62,10.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -41,14 +41,15 @@ Das Schloss ist die Wiege der englischen Krone.
 
 ## Confidential Links & Embeds: 
 
-### [Celle](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle.md) 
+### [Celle.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenCelle.public.md) 
 
-### [Celle.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle.internal.md) 
+### [Celle.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenCelle.internal.md) 
 
-### [Celle.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle.protect.md) 
+### [Celle.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenCelle.protect.md) 
 
-### [Celle.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle.private.md) 
+### [Celle.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenCelle.private.md) 
 
-### [Celle.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle.personal.md) 
+### [Celle.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenCelle.personal.md) 
 
-### [Celle.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle.secret.md) 
+### [Celle.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenCelle.secret.md)
+

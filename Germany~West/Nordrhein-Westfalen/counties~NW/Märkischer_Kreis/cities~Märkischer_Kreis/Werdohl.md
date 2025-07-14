@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.27,7.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Werdohl](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Werdohl.md) 
+### [Werdohl.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisWerdohl.public.md) 
 
-### [Werdohl.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Werdohl.internal.md) 
+### [Werdohl.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisWerdohl.internal.md) 
 
-### [Werdohl.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Werdohl.protect.md) 
+### [Werdohl.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisWerdohl.protect.md) 
 
-### [Werdohl.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Werdohl.private.md) 
+### [Werdohl.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisWerdohl.private.md) 
 
-### [Werdohl.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Werdohl.personal.md) 
+### [Werdohl.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisWerdohl.personal.md) 
 
-### [Werdohl.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Werdohl.secret.md) 
+### [Werdohl.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisWerdohl.secret.md)
+

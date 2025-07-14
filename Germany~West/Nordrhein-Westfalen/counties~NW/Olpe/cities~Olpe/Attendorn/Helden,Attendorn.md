@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.12,7.93] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Helden,Attendorn](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Olpe/cities~Olpe/Attendorn/Helden,Attendorn.md) 
+### [Helden,Attendorn.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~Olpe\AttendornHelden,Attendorn.public.md) 
 
-### [Helden,Attendorn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Olpe/cities~Olpe/Attendorn/Helden,Attendorn.internal.md) 
+### [Helden,Attendorn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~Olpe\AttendornHelden,Attendorn.internal.md) 
 
-### [Helden,Attendorn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Olpe/cities~Olpe/Attendorn/Helden,Attendorn.protect.md) 
+### [Helden,Attendorn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~Olpe\AttendornHelden,Attendorn.protect.md) 
 
-### [Helden,Attendorn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Olpe/cities~Olpe/Attendorn/Helden,Attendorn.private.md) 
+### [Helden,Attendorn.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~Olpe\AttendornHelden,Attendorn.private.md) 
 
-### [Helden,Attendorn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Olpe/cities~Olpe/Attendorn/Helden,Attendorn.personal.md) 
+### [Helden,Attendorn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~Olpe\AttendornHelden,Attendorn.personal.md) 
 
-### [Helden,Attendorn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Olpe/cities~Olpe/Attendorn/Helden,Attendorn.secret.md) 
+### [Helden,Attendorn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~Olpe\AttendornHelden,Attendorn.secret.md)
+

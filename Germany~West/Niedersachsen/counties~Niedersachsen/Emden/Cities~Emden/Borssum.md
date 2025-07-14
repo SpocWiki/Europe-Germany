@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.37,7.25] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Borssum](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden/Cities~Emden/Borssum.md) 
+### [Borssum.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emden\Cities~EmdenBorssum.public.md) 
 
-### [Borssum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden/Cities~Emden/Borssum.internal.md) 
+### [Borssum.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emden\Cities~EmdenBorssum.internal.md) 
 
-### [Borssum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden/Cities~Emden/Borssum.protect.md) 
+### [Borssum.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emden\Cities~EmdenBorssum.protect.md) 
 
-### [Borssum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden/Cities~Emden/Borssum.private.md) 
+### [Borssum.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emden\Cities~EmdenBorssum.private.md) 
 
-### [Borssum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden/Cities~Emden/Borssum.personal.md) 
+### [Borssum.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emden\Cities~EmdenBorssum.personal.md) 
 
-### [Borssum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden/Cities~Emden/Borssum.secret.md) 
+### [Borssum.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emden\Cities~EmdenBorssum.secret.md)
+

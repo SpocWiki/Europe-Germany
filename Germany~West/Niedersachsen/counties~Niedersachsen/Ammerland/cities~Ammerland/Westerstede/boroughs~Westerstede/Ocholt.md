@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.22,7.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ocholt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Westerstede/boroughs~Westerstede/Ocholt.md) 
+### [Ocholt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~Ammerland\Westerstede\boroughs~WesterstedeOcholt.public.md) 
 
-### [Ocholt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Westerstede/boroughs~Westerstede/Ocholt.internal.md) 
+### [Ocholt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~Ammerland\Westerstede\boroughs~WesterstedeOcholt.internal.md) 
 
-### [Ocholt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Westerstede/boroughs~Westerstede/Ocholt.protect.md) 
+### [Ocholt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~Ammerland\Westerstede\boroughs~WesterstedeOcholt.protect.md) 
 
-### [Ocholt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Westerstede/boroughs~Westerstede/Ocholt.private.md) 
+### [Ocholt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~Ammerland\Westerstede\boroughs~WesterstedeOcholt.private.md) 
 
-### [Ocholt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Westerstede/boroughs~Westerstede/Ocholt.personal.md) 
+### [Ocholt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~Ammerland\Westerstede\boroughs~WesterstedeOcholt.personal.md) 
 
-### [Ocholt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Westerstede/boroughs~Westerstede/Ocholt.secret.md) 
+### [Ocholt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~Ammerland\Westerstede\boroughs~WesterstedeOcholt.secret.md)
+

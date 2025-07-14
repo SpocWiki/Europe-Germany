@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.85,12.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schwetzin](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Mecklenb.Schweiz/boroughs~Mecklenb.Schweiz/Schwetzin.md) 
+### [Schwetzin.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Mecklenb.Schweiz\boroughs~Mecklenb.SchweizSchwetzin.public.md) 
 
-### [Schwetzin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Mecklenb.Schweiz/boroughs~Mecklenb.Schweiz/Schwetzin.internal.md) 
+### [Schwetzin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Mecklenb.Schweiz\boroughs~Mecklenb.SchweizSchwetzin.internal.md) 
 
-### [Schwetzin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Mecklenb.Schweiz/boroughs~Mecklenb.Schweiz/Schwetzin.protect.md) 
+### [Schwetzin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Mecklenb.Schweiz\boroughs~Mecklenb.SchweizSchwetzin.protect.md) 
 
-### [Schwetzin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Mecklenb.Schweiz/boroughs~Mecklenb.Schweiz/Schwetzin.private.md) 
+### [Schwetzin.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Mecklenb.Schweiz\boroughs~Mecklenb.SchweizSchwetzin.private.md) 
 
-### [Schwetzin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Mecklenb.Schweiz/boroughs~Mecklenb.Schweiz/Schwetzin.personal.md) 
+### [Schwetzin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Mecklenb.Schweiz\boroughs~Mecklenb.SchweizSchwetzin.personal.md) 
 
-### [Schwetzin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Mecklenb.Schweiz/boroughs~Mecklenb.Schweiz/Schwetzin.secret.md) 
+### [Schwetzin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Mecklenb.Schweiz\boroughs~Mecklenb.SchweizSchwetzin.secret.md)
+

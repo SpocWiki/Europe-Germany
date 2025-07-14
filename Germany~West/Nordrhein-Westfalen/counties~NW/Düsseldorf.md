@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 51.23
 - 6.78
@@ -221,14 +221,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Düsseldorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düsseldorf.md) 
+### [Düsseldorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NWDüsseldorf.public.md) 
 
-### [Düsseldorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düsseldorf.internal.md) 
+### [Düsseldorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NWDüsseldorf.internal.md) 
 
-### [Düsseldorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düsseldorf.protect.md) 
+### [Düsseldorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NWDüsseldorf.protect.md) 
 
-### [Düsseldorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düsseldorf.private.md) 
+### [Düsseldorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NWDüsseldorf.private.md) 
 
-### [Düsseldorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düsseldorf.personal.md) 
+### [Düsseldorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NWDüsseldorf.personal.md) 
 
-### [Düsseldorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Düsseldorf.secret.md) 
+### [Düsseldorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NWDüsseldorf.secret.md)
+

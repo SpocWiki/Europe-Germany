@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.03,13.3] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Siebenlehn](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Großschirma/City/Siebenlehn.md) 
+### [Siebenlehn.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Großschirma\CitySiebenlehn.public.md) 
 
-### [Siebenlehn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Großschirma/City/Siebenlehn.internal.md) 
+### [Siebenlehn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Großschirma\CitySiebenlehn.internal.md) 
 
-### [Siebenlehn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Großschirma/City/Siebenlehn.protect.md) 
+### [Siebenlehn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Großschirma\CitySiebenlehn.protect.md) 
 
-### [Siebenlehn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Großschirma/City/Siebenlehn.private.md) 
+### [Siebenlehn.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Großschirma\CitySiebenlehn.private.md) 
 
-### [Siebenlehn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Großschirma/City/Siebenlehn.personal.md) 
+### [Siebenlehn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Großschirma\CitySiebenlehn.personal.md) 
 
-### [Siebenlehn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Großschirma/City/Siebenlehn.secret.md) 
+### [Siebenlehn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Großschirma\CitySiebenlehn.secret.md)
+

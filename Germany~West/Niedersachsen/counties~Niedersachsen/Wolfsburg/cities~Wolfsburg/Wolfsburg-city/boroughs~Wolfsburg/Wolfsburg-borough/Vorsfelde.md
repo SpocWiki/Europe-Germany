@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.43,10.85] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vorsfelde](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Vorsfelde.md) 
+### [Vorsfelde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfsburg\cities~Wolfsburg\Wolfsburg-city\boroughs~Wolfsburg\Wolfsburg-boroughVorsfelde.public.md) 
 
-### [Vorsfelde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Vorsfelde.internal.md) 
+### [Vorsfelde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfsburg\cities~Wolfsburg\Wolfsburg-city\boroughs~Wolfsburg\Wolfsburg-boroughVorsfelde.internal.md) 
 
-### [Vorsfelde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Vorsfelde.protect.md) 
+### [Vorsfelde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfsburg\cities~Wolfsburg\Wolfsburg-city\boroughs~Wolfsburg\Wolfsburg-boroughVorsfelde.protect.md) 
 
-### [Vorsfelde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Vorsfelde.private.md) 
+### [Vorsfelde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfsburg\cities~Wolfsburg\Wolfsburg-city\boroughs~Wolfsburg\Wolfsburg-boroughVorsfelde.private.md) 
 
-### [Vorsfelde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Vorsfelde.personal.md) 
+### [Vorsfelde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfsburg\cities~Wolfsburg\Wolfsburg-city\boroughs~Wolfsburg\Wolfsburg-boroughVorsfelde.personal.md) 
 
-### [Vorsfelde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Vorsfelde.secret.md) 
+### [Vorsfelde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfsburg\cities~Wolfsburg\Wolfsburg-city\boroughs~Wolfsburg\Wolfsburg-boroughVorsfelde.secret.md)
+

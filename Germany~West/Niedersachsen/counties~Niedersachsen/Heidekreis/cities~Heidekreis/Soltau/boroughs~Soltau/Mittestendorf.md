@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.95,9.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -38,14 +38,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mittestendorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Soltau/boroughs~Soltau/Mittestendorf.md) 
+### [Mittestendorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Soltau\boroughs~SoltauMittestendorf.public.md) 
 
-### [Mittestendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Soltau/boroughs~Soltau/Mittestendorf.internal.md) 
+### [Mittestendorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Soltau\boroughs~SoltauMittestendorf.internal.md) 
 
-### [Mittestendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Soltau/boroughs~Soltau/Mittestendorf.protect.md) 
+### [Mittestendorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Soltau\boroughs~SoltauMittestendorf.protect.md) 
 
-### [Mittestendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Soltau/boroughs~Soltau/Mittestendorf.private.md) 
+### [Mittestendorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Soltau\boroughs~SoltauMittestendorf.private.md) 
 
-### [Mittestendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Soltau/boroughs~Soltau/Mittestendorf.personal.md) 
+### [Mittestendorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Soltau\boroughs~SoltauMittestendorf.personal.md) 
 
-### [Mittestendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Soltau/boroughs~Soltau/Mittestendorf.secret.md) 
+### [Mittestendorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Soltau\boroughs~SoltauMittestendorf.secret.md)
+

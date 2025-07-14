@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.57,13.95] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jatznick](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick.md) 
+### [Jatznick.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Uecker-Randow-Tal\boroughs~Randow-TalJatznick.public.md) 
 
-### [Jatznick.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick.internal.md) 
+### [Jatznick.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Uecker-Randow-Tal\boroughs~Randow-TalJatznick.internal.md) 
 
-### [Jatznick.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick.protect.md) 
+### [Jatznick.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Uecker-Randow-Tal\boroughs~Randow-TalJatznick.protect.md) 
 
-### [Jatznick.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick.private.md) 
+### [Jatznick.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Uecker-Randow-Tal\boroughs~Randow-TalJatznick.private.md) 
 
-### [Jatznick.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick.personal.md) 
+### [Jatznick.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Uecker-Randow-Tal\boroughs~Randow-TalJatznick.personal.md) 
 
-### [Jatznick.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick.secret.md) 
+### [Jatznick.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Uecker-Randow-Tal\boroughs~Randow-TalJatznick.secret.md)
+

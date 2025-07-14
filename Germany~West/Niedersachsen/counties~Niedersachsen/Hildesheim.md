@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.15,9.94] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -40,14 +40,15 @@ Dom und Michaeliskirche in Hildesheim ([[Unesco]] Welterbe seit  1985)
 
 ## Confidential Links & Embeds: 
 
-### [Hildesheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim.md) 
+### [Hildesheim.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenHildesheim.public.md) 
 
-### [Hildesheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim.internal.md) 
+### [Hildesheim.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenHildesheim.internal.md) 
 
-### [Hildesheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim.protect.md) 
+### [Hildesheim.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenHildesheim.protect.md) 
 
-### [Hildesheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim.private.md) 
+### [Hildesheim.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenHildesheim.private.md) 
 
-### [Hildesheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim.personal.md) 
+### [Hildesheim.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenHildesheim.personal.md) 
 
-### [Hildesheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim.secret.md) 
+### [Hildesheim.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenHildesheim.secret.md)
+

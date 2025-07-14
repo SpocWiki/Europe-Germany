@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.85,10.47] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Inselberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Tabarz_Thür.Wald/City/Inselberg.md) 
+### [Inselberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Tabarz_Thür.Wald\CityInselberg.public.md) 
 
-### [Inselberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Tabarz_Thür.Wald/City/Inselberg.internal.md) 
+### [Inselberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Tabarz_Thür.Wald\CityInselberg.internal.md) 
 
-### [Inselberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Tabarz_Thür.Wald/City/Inselberg.protect.md) 
+### [Inselberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Tabarz_Thür.Wald\CityInselberg.protect.md) 
 
-### [Inselberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Tabarz_Thür.Wald/City/Inselberg.private.md) 
+### [Inselberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Tabarz_Thür.Wald\CityInselberg.private.md) 
 
-### [Inselberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Tabarz_Thür.Wald/City/Inselberg.personal.md) 
+### [Inselberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Tabarz_Thür.Wald\CityInselberg.personal.md) 
 
-### [Inselberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Tabarz_Thür.Wald/City/Inselberg.secret.md) 
+### [Inselberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Tabarz_Thür.Wald\CityInselberg.secret.md)
+

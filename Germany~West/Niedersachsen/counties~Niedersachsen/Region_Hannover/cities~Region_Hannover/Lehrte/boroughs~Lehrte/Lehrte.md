@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.37,10] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lehrte](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Lehrte/boroughs~Lehrte/Lehrte.md) 
+### [Lehrte.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Lehrte\boroughs~LehrteLehrte.public.md) 
 
-### [Lehrte.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Lehrte/boroughs~Lehrte/Lehrte.internal.md) 
+### [Lehrte.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Lehrte\boroughs~LehrteLehrte.internal.md) 
 
-### [Lehrte.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Lehrte/boroughs~Lehrte/Lehrte.protect.md) 
+### [Lehrte.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Lehrte\boroughs~LehrteLehrte.protect.md) 
 
-### [Lehrte.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Lehrte/boroughs~Lehrte/Lehrte.private.md) 
+### [Lehrte.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Lehrte\boroughs~LehrteLehrte.private.md) 
 
-### [Lehrte.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Lehrte/boroughs~Lehrte/Lehrte.personal.md) 
+### [Lehrte.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Lehrte\boroughs~LehrteLehrte.personal.md) 
 
-### [Lehrte.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Lehrte/boroughs~Lehrte/Lehrte.secret.md) 
+### [Lehrte.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Lehrte\boroughs~LehrteLehrte.secret.md)
+

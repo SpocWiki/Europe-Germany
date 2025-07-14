@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.95,13.85] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lassan](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Am_Peenestrom/boroughs~Peenestrom/Lassan.md) 
+### [Lassan.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Am_Peenestrom\boroughs~PeenestromLassan.public.md) 
 
-### [Lassan.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Am_Peenestrom/boroughs~Peenestrom/Lassan.internal.md) 
+### [Lassan.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Am_Peenestrom\boroughs~PeenestromLassan.internal.md) 
 
-### [Lassan.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Am_Peenestrom/boroughs~Peenestrom/Lassan.protect.md) 
+### [Lassan.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Am_Peenestrom\boroughs~PeenestromLassan.protect.md) 
 
-### [Lassan.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Am_Peenestrom/boroughs~Peenestrom/Lassan.private.md) 
+### [Lassan.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Am_Peenestrom\boroughs~PeenestromLassan.private.md) 
 
-### [Lassan.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Am_Peenestrom/boroughs~Peenestrom/Lassan.personal.md) 
+### [Lassan.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Am_Peenestrom\boroughs~PeenestromLassan.personal.md) 
 
-### [Lassan.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Am_Peenestrom/boroughs~Peenestrom/Lassan.secret.md) 
+### [Lassan.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Am_Peenestrom\boroughs~PeenestromLassan.secret.md)
+

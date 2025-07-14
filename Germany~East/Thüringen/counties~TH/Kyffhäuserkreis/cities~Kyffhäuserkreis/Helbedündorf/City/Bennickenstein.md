@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.32,10.67] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bennickenstein](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Helbedündorf/City/Bennickenstein.md) 
+### [Bennickenstein.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\Helbedündorf\CityBennickenstein.public.md) 
 
-### [Bennickenstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Helbedündorf/City/Bennickenstein.internal.md) 
+### [Bennickenstein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\Helbedündorf\CityBennickenstein.internal.md) 
 
-### [Bennickenstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Helbedündorf/City/Bennickenstein.protect.md) 
+### [Bennickenstein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\Helbedündorf\CityBennickenstein.protect.md) 
 
-### [Bennickenstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Helbedündorf/City/Bennickenstein.private.md) 
+### [Bennickenstein.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\Helbedündorf\CityBennickenstein.private.md) 
 
-### [Bennickenstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Helbedündorf/City/Bennickenstein.personal.md) 
+### [Bennickenstein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\Helbedündorf\CityBennickenstein.personal.md) 
 
-### [Bennickenstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Helbedündorf/City/Bennickenstein.secret.md) 
+### [Bennickenstein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\Helbedündorf\CityBennickenstein.secret.md)
+

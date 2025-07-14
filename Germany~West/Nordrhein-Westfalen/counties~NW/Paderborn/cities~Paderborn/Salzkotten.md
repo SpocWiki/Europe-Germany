@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.67,8.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Salzkotten](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Salzkotten.md) 
+### [Salzkotten.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~PaderbornSalzkotten.public.md) 
 
-### [Salzkotten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Salzkotten.internal.md) 
+### [Salzkotten.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~PaderbornSalzkotten.internal.md) 
 
-### [Salzkotten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Salzkotten.protect.md) 
+### [Salzkotten.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~PaderbornSalzkotten.protect.md) 
 
-### [Salzkotten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Salzkotten.private.md) 
+### [Salzkotten.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~PaderbornSalzkotten.private.md) 
 
-### [Salzkotten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Salzkotten.personal.md) 
+### [Salzkotten.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~PaderbornSalzkotten.personal.md) 
 
-### [Salzkotten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Salzkotten.secret.md) 
+### [Salzkotten.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~PaderbornSalzkotten.secret.md)
+

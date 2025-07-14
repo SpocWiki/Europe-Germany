@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.48,11.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Scheibe](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Neuhaus~Rennweg/City/Scheibe.md) 
+### [Scheibe.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Neuhaus~Rennweg\CityScheibe.public.md) 
 
-### [Scheibe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Neuhaus~Rennweg/City/Scheibe.internal.md) 
+### [Scheibe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Neuhaus~Rennweg\CityScheibe.internal.md) 
 
-### [Scheibe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Neuhaus~Rennweg/City/Scheibe.protect.md) 
+### [Scheibe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Neuhaus~Rennweg\CityScheibe.protect.md) 
 
-### [Scheibe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Neuhaus~Rennweg/City/Scheibe.private.md) 
+### [Scheibe.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Neuhaus~Rennweg\CityScheibe.private.md) 
 
-### [Scheibe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Neuhaus~Rennweg/City/Scheibe.personal.md) 
+### [Scheibe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Neuhaus~Rennweg\CityScheibe.personal.md) 
 
-### [Scheibe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Neuhaus~Rennweg/City/Scheibe.secret.md) 
+### [Scheibe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Neuhaus~Rennweg\CityScheibe.secret.md)
+

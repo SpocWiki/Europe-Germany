@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.18,9.18] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hailer](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Hailer.md) 
+### [Hailer.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Gelnhausen\boroughs~GelnhausenHailer.public.md) 
 
-### [Hailer.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Hailer.internal.md) 
+### [Hailer.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Gelnhausen\boroughs~GelnhausenHailer.internal.md) 
 
-### [Hailer.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Hailer.protect.md) 
+### [Hailer.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Gelnhausen\boroughs~GelnhausenHailer.protect.md) 
 
-### [Hailer.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Hailer.private.md) 
+### [Hailer.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Gelnhausen\boroughs~GelnhausenHailer.private.md) 
 
-### [Hailer.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Hailer.personal.md) 
+### [Hailer.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Gelnhausen\boroughs~GelnhausenHailer.personal.md) 
 
-### [Hailer.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Hailer.secret.md) 
+### [Hailer.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Gelnhausen\boroughs~GelnhausenHailer.secret.md)
+

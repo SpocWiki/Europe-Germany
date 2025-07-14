@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.4,12.68] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Falkenhain](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Bennewitz/City/Falkenhain.md) 
+### [Falkenhain.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Bennewitz\CityFalkenhain.public.md) 
 
-### [Falkenhain.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Bennewitz/City/Falkenhain.internal.md) 
+### [Falkenhain.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Bennewitz\CityFalkenhain.internal.md) 
 
-### [Falkenhain.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Bennewitz/City/Falkenhain.protect.md) 
+### [Falkenhain.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Bennewitz\CityFalkenhain.protect.md) 
 
-### [Falkenhain.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Bennewitz/City/Falkenhain.private.md) 
+### [Falkenhain.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Bennewitz\CityFalkenhain.private.md) 
 
-### [Falkenhain.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Bennewitz/City/Falkenhain.personal.md) 
+### [Falkenhain.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Bennewitz\CityFalkenhain.personal.md) 
 
-### [Falkenhain.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Bennewitz/City/Falkenhain.secret.md) 
+### [Falkenhain.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Bennewitz\CityFalkenhain.secret.md)
+

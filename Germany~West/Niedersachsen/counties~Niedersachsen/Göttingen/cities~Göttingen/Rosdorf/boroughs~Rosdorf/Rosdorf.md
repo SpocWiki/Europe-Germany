@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.5,9.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rosdorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf.md) 
+### [Rosdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Göttingen\cities~Göttingen\Rosdorf\boroughs~RosdorfRosdorf.public.md) 
 
-### [Rosdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf.internal.md) 
+### [Rosdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Göttingen\cities~Göttingen\Rosdorf\boroughs~RosdorfRosdorf.internal.md) 
 
-### [Rosdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf.protect.md) 
+### [Rosdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Göttingen\cities~Göttingen\Rosdorf\boroughs~RosdorfRosdorf.protect.md) 
 
-### [Rosdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf.private.md) 
+### [Rosdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Göttingen\cities~Göttingen\Rosdorf\boroughs~RosdorfRosdorf.private.md) 
 
-### [Rosdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf.personal.md) 
+### [Rosdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Göttingen\cities~Göttingen\Rosdorf\boroughs~RosdorfRosdorf.personal.md) 
 
-### [Rosdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf.secret.md) 
+### [Rosdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Göttingen\cities~Göttingen\Rosdorf\boroughs~RosdorfRosdorf.secret.md)
+

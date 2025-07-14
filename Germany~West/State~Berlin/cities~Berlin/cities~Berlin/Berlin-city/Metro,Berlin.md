@@ -358,3 +358,20 @@ class U9_Osloer_Straße,U9_Leopoldplatz,U9_Amrumer_Straße,U9_Westhafen,U9_Birke
 
 ```
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Metro,Berlin.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-cityMetro,Berlin.public.md) 
+
+### [Metro,Berlin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-cityMetro,Berlin.internal.md) 
+
+### [Metro,Berlin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-cityMetro,Berlin.protect.md) 
+
+### [Metro,Berlin.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-cityMetro,Berlin.private.md) 
+
+### [Metro,Berlin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-cityMetro,Berlin.personal.md) 
+
+### [Metro,Berlin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-cityMetro,Berlin.secret.md)
+

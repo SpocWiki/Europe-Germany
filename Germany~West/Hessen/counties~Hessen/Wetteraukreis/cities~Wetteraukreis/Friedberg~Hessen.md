@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.33,8.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Friedberg~Hessen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Friedberg~Hessen.md) 
+### [Friedberg~Hessen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisFriedberg~Hessen.public.md) 
 
-### [Friedberg~Hessen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Friedberg~Hessen.internal.md) 
+### [Friedberg~Hessen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisFriedberg~Hessen.internal.md) 
 
-### [Friedberg~Hessen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Friedberg~Hessen.protect.md) 
+### [Friedberg~Hessen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisFriedberg~Hessen.protect.md) 
 
-### [Friedberg~Hessen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Friedberg~Hessen.private.md) 
+### [Friedberg~Hessen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisFriedberg~Hessen.private.md) 
 
-### [Friedberg~Hessen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Friedberg~Hessen.personal.md) 
+### [Friedberg~Hessen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisFriedberg~Hessen.personal.md) 
 
-### [Friedberg~Hessen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Friedberg~Hessen.secret.md) 
+### [Friedberg~Hessen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisFriedberg~Hessen.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.9,10.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Seesen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Seesen/boroughs~Seesen/Seesen.md) 
+### [Seesen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Goslar\cities~Goslar\Seesen\boroughs~SeesenSeesen.public.md) 
 
-### [Seesen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Seesen/boroughs~Seesen/Seesen.internal.md) 
+### [Seesen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Goslar\cities~Goslar\Seesen\boroughs~SeesenSeesen.internal.md) 
 
-### [Seesen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Seesen/boroughs~Seesen/Seesen.protect.md) 
+### [Seesen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Goslar\cities~Goslar\Seesen\boroughs~SeesenSeesen.protect.md) 
 
-### [Seesen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Seesen/boroughs~Seesen/Seesen.private.md) 
+### [Seesen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Goslar\cities~Goslar\Seesen\boroughs~SeesenSeesen.private.md) 
 
-### [Seesen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Seesen/boroughs~Seesen/Seesen.personal.md) 
+### [Seesen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Goslar\cities~Goslar\Seesen\boroughs~SeesenSeesen.personal.md) 
 
-### [Seesen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Seesen/boroughs~Seesen/Seesen.secret.md) 
+### [Seesen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Goslar\cities~Goslar\Seesen\boroughs~SeesenSeesen.secret.md)
+

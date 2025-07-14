@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.12,7.02] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Leichlingen,Rhld](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Leichlingen,Rhld.md) 
+### [Leichlingen,Rhld.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rheinisch-Berg.Kreis\cities~Rheinisch-BergischLeichlingen,Rhld.public.md) 
 
-### [Leichlingen,Rhld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Leichlingen,Rhld.internal.md) 
+### [Leichlingen,Rhld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rheinisch-Berg.Kreis\cities~Rheinisch-BergischLeichlingen,Rhld.internal.md) 
 
-### [Leichlingen,Rhld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Leichlingen,Rhld.protect.md) 
+### [Leichlingen,Rhld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rheinisch-Berg.Kreis\cities~Rheinisch-BergischLeichlingen,Rhld.protect.md) 
 
-### [Leichlingen,Rhld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Leichlingen,Rhld.private.md) 
+### [Leichlingen,Rhld.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rheinisch-Berg.Kreis\cities~Rheinisch-BergischLeichlingen,Rhld.private.md) 
 
-### [Leichlingen,Rhld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Leichlingen,Rhld.personal.md) 
+### [Leichlingen,Rhld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rheinisch-Berg.Kreis\cities~Rheinisch-BergischLeichlingen,Rhld.personal.md) 
 
-### [Leichlingen,Rhld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Leichlingen,Rhld.secret.md) 
+### [Leichlingen,Rhld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rheinisch-Berg.Kreis\cities~Rheinisch-BergischLeichlingen,Rhld.secret.md)
+

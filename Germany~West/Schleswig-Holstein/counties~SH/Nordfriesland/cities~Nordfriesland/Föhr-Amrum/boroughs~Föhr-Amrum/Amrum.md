@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.65,8.38] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Amrum](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Föhr-Amrum/boroughs~Föhr-Amrum/Amrum.md) 
+### [Amrum.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Föhr-Amrum\boroughs~Föhr-AmrumAmrum.public.md) 
 
-### [Amrum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Föhr-Amrum/boroughs~Föhr-Amrum/Amrum.internal.md) 
+### [Amrum.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Föhr-Amrum\boroughs~Föhr-AmrumAmrum.internal.md) 
 
-### [Amrum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Föhr-Amrum/boroughs~Föhr-Amrum/Amrum.protect.md) 
+### [Amrum.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Föhr-Amrum\boroughs~Föhr-AmrumAmrum.protect.md) 
 
-### [Amrum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Föhr-Amrum/boroughs~Föhr-Amrum/Amrum.private.md) 
+### [Amrum.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Föhr-Amrum\boroughs~Föhr-AmrumAmrum.private.md) 
 
-### [Amrum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Föhr-Amrum/boroughs~Föhr-Amrum/Amrum.personal.md) 
+### [Amrum.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Föhr-Amrum\boroughs~Föhr-AmrumAmrum.personal.md) 
 
-### [Amrum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Föhr-Amrum/boroughs~Föhr-Amrum/Amrum.secret.md) 
+### [Amrum.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Föhr-Amrum\boroughs~Föhr-AmrumAmrum.secret.md)
+

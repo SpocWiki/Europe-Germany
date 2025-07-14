@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.55,7.02] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Horst,Gelsenkirchen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gelsenkirchen/Horst,Gelsenkirchen.md) 
+### [Horst,Gelsenkirchen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\GelsenkirchenHorst,Gelsenkirchen.public.md) 
 
-### [Horst,Gelsenkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gelsenkirchen/Horst,Gelsenkirchen.internal.md) 
+### [Horst,Gelsenkirchen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\GelsenkirchenHorst,Gelsenkirchen.internal.md) 
 
-### [Horst,Gelsenkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gelsenkirchen/Horst,Gelsenkirchen.protect.md) 
+### [Horst,Gelsenkirchen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\GelsenkirchenHorst,Gelsenkirchen.protect.md) 
 
-### [Horst,Gelsenkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gelsenkirchen/Horst,Gelsenkirchen.private.md) 
+### [Horst,Gelsenkirchen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\GelsenkirchenHorst,Gelsenkirchen.private.md) 
 
-### [Horst,Gelsenkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gelsenkirchen/Horst,Gelsenkirchen.personal.md) 
+### [Horst,Gelsenkirchen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\GelsenkirchenHorst,Gelsenkirchen.personal.md) 
 
-### [Horst,Gelsenkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gelsenkirchen/Horst,Gelsenkirchen.secret.md) 
+### [Horst,Gelsenkirchen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\GelsenkirchenHorst,Gelsenkirchen.secret.md)
+

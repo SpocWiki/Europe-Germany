@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.8,11.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Osterburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Osterburg~Altmark/City/Osterburg.md) 
+### [Osterburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Osterburg~Altmark\CityOsterburg.public.md) 
 
-### [Osterburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Osterburg~Altmark/City/Osterburg.internal.md) 
+### [Osterburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Osterburg~Altmark\CityOsterburg.internal.md) 
 
-### [Osterburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Osterburg~Altmark/City/Osterburg.protect.md) 
+### [Osterburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Osterburg~Altmark\CityOsterburg.protect.md) 
 
-### [Osterburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Osterburg~Altmark/City/Osterburg.private.md) 
+### [Osterburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Osterburg~Altmark\CityOsterburg.private.md) 
 
-### [Osterburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Osterburg~Altmark/City/Osterburg.personal.md) 
+### [Osterburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Osterburg~Altmark\CityOsterburg.personal.md) 
 
-### [Osterburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Osterburg~Altmark/City/Osterburg.secret.md) 
+### [Osterburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Osterburg~Altmark\CityOsterburg.secret.md)
+

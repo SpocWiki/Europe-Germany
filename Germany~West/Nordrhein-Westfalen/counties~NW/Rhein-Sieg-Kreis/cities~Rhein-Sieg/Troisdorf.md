@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.83,7.15] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Troisdorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Troisdorf.md) 
+### [Troisdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-SiegTroisdorf.public.md) 
 
-### [Troisdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Troisdorf.internal.md) 
+### [Troisdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-SiegTroisdorf.internal.md) 
 
-### [Troisdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Troisdorf.protect.md) 
+### [Troisdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-SiegTroisdorf.protect.md) 
 
-### [Troisdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Troisdorf.private.md) 
+### [Troisdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-SiegTroisdorf.private.md) 
 
-### [Troisdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Troisdorf.personal.md) 
+### [Troisdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-SiegTroisdorf.personal.md) 
 
-### [Troisdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Troisdorf.secret.md) 
+### [Troisdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-SiegTroisdorf.secret.md)
+

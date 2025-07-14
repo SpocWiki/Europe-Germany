@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.85,13.72] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Luckau](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Luckau.md) 
+### [Luckau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Dahme-Spreewald\cities~Dahme-SpreewaldLuckau.public.md) 
 
-### [Luckau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Luckau.internal.md) 
+### [Luckau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Dahme-Spreewald\cities~Dahme-SpreewaldLuckau.internal.md) 
 
-### [Luckau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Luckau.protect.md) 
+### [Luckau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Dahme-Spreewald\cities~Dahme-SpreewaldLuckau.protect.md) 
 
-### [Luckau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Luckau.private.md) 
+### [Luckau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Dahme-Spreewald\cities~Dahme-SpreewaldLuckau.private.md) 
 
-### [Luckau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Luckau.personal.md) 
+### [Luckau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Dahme-Spreewald\cities~Dahme-SpreewaldLuckau.personal.md) 
 
-### [Luckau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Luckau.secret.md) 
+### [Luckau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Dahme-Spreewald\cities~Dahme-SpreewaldLuckau.secret.md)
+

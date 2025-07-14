@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.5,13.33] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Charlottenburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Charlottenburg.md) 
+### [Charlottenburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinCharlottenburg.public.md) 
 
-### [Charlottenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Charlottenburg.internal.md) 
+### [Charlottenburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinCharlottenburg.internal.md) 
 
-### [Charlottenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Charlottenburg.protect.md) 
+### [Charlottenburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinCharlottenburg.protect.md) 
 
-### [Charlottenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Charlottenburg.private.md) 
+### [Charlottenburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinCharlottenburg.private.md) 
 
-### [Charlottenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Charlottenburg.personal.md) 
+### [Charlottenburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinCharlottenburg.personal.md) 
 
-### [Charlottenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Charlottenburg.secret.md) 
+### [Charlottenburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinCharlottenburg.secret.md)
+

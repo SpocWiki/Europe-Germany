@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.6,6.92] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kirchhellen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Bottrop/Kirchhellen.md) 
+### [Kirchhellen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BottropKirchhellen.public.md) 
 
-### [Kirchhellen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Bottrop/Kirchhellen.internal.md) 
+### [Kirchhellen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BottropKirchhellen.internal.md) 
 
-### [Kirchhellen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Bottrop/Kirchhellen.protect.md) 
+### [Kirchhellen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BottropKirchhellen.protect.md) 
 
-### [Kirchhellen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Bottrop/Kirchhellen.private.md) 
+### [Kirchhellen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BottropKirchhellen.private.md) 
 
-### [Kirchhellen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Bottrop/Kirchhellen.personal.md) 
+### [Kirchhellen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BottropKirchhellen.personal.md) 
 
-### [Kirchhellen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Bottrop/Kirchhellen.secret.md) 
+### [Kirchhellen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BottropKirchhellen.secret.md)
+

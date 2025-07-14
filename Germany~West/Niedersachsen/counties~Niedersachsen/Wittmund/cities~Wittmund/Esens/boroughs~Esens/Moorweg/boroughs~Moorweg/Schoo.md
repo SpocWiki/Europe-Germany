@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.6,7.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schoo](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Esens/boroughs~Esens/Moorweg/boroughs~Moorweg/Schoo.md) 
+### [Schoo.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wittmund\cities~Wittmund\Esens\boroughs~Esens\Moorweg\boroughs~MoorwegSchoo.public.md) 
 
-### [Schoo.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Esens/boroughs~Esens/Moorweg/boroughs~Moorweg/Schoo.internal.md) 
+### [Schoo.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wittmund\cities~Wittmund\Esens\boroughs~Esens\Moorweg\boroughs~MoorwegSchoo.internal.md) 
 
-### [Schoo.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Esens/boroughs~Esens/Moorweg/boroughs~Moorweg/Schoo.protect.md) 
+### [Schoo.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wittmund\cities~Wittmund\Esens\boroughs~Esens\Moorweg\boroughs~MoorwegSchoo.protect.md) 
 
-### [Schoo.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Esens/boroughs~Esens/Moorweg/boroughs~Moorweg/Schoo.private.md) 
+### [Schoo.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wittmund\cities~Wittmund\Esens\boroughs~Esens\Moorweg\boroughs~MoorwegSchoo.private.md) 
 
-### [Schoo.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Esens/boroughs~Esens/Moorweg/boroughs~Moorweg/Schoo.personal.md) 
+### [Schoo.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wittmund\cities~Wittmund\Esens\boroughs~Esens\Moorweg\boroughs~MoorwegSchoo.personal.md) 
 
-### [Schoo.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Esens/boroughs~Esens/Moorweg/boroughs~Moorweg/Schoo.secret.md) 
+### [Schoo.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wittmund\cities~Wittmund\Esens\boroughs~Esens\Moorweg\boroughs~MoorwegSchoo.secret.md)
+

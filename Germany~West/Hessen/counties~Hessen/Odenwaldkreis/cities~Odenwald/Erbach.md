@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.65,9.02] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Erbach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Erbach.md) 
+### [Erbach.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Odenwaldkreis\cities~OdenwaldErbach.public.md) 
 
-### [Erbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Erbach.internal.md) 
+### [Erbach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Odenwaldkreis\cities~OdenwaldErbach.internal.md) 
 
-### [Erbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Erbach.protect.md) 
+### [Erbach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Odenwaldkreis\cities~OdenwaldErbach.protect.md) 
 
-### [Erbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Erbach.private.md) 
+### [Erbach.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Odenwaldkreis\cities~OdenwaldErbach.private.md) 
 
-### [Erbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Erbach.personal.md) 
+### [Erbach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Odenwaldkreis\cities~OdenwaldErbach.personal.md) 
 
-### [Erbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Erbach.secret.md) 
+### [Erbach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Odenwaldkreis\cities~OdenwaldErbach.secret.md)
+

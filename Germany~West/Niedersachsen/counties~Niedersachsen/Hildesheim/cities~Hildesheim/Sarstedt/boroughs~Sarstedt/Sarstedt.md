@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.23,9.88] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sarstedt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Sarstedt/boroughs~Sarstedt/Sarstedt.md) 
+### [Sarstedt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~Hildesheim\Sarstedt\boroughs~SarstedtSarstedt.public.md) 
 
-### [Sarstedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Sarstedt/boroughs~Sarstedt/Sarstedt.internal.md) 
+### [Sarstedt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~Hildesheim\Sarstedt\boroughs~SarstedtSarstedt.internal.md) 
 
-### [Sarstedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Sarstedt/boroughs~Sarstedt/Sarstedt.protect.md) 
+### [Sarstedt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~Hildesheim\Sarstedt\boroughs~SarstedtSarstedt.protect.md) 
 
-### [Sarstedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Sarstedt/boroughs~Sarstedt/Sarstedt.private.md) 
+### [Sarstedt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~Hildesheim\Sarstedt\boroughs~SarstedtSarstedt.private.md) 
 
-### [Sarstedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Sarstedt/boroughs~Sarstedt/Sarstedt.personal.md) 
+### [Sarstedt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~Hildesheim\Sarstedt\boroughs~SarstedtSarstedt.personal.md) 
 
-### [Sarstedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Sarstedt/boroughs~Sarstedt/Sarstedt.secret.md) 
+### [Sarstedt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~Hildesheim\Sarstedt\boroughs~SarstedtSarstedt.secret.md)
+

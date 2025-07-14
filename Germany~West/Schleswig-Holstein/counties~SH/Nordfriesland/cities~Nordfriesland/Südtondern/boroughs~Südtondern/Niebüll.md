@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.8,8.82] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Niebüll](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Südtondern/boroughs~Südtondern/Niebüll.md) 
+### [Niebüll.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Südtondern\boroughs~SüdtondernNiebüll.public.md) 
 
-### [Niebüll.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Südtondern/boroughs~Südtondern/Niebüll.internal.md) 
+### [Niebüll.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Südtondern\boroughs~SüdtondernNiebüll.internal.md) 
 
-### [Niebüll.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Südtondern/boroughs~Südtondern/Niebüll.protect.md) 
+### [Niebüll.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Südtondern\boroughs~SüdtondernNiebüll.protect.md) 
 
-### [Niebüll.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Südtondern/boroughs~Südtondern/Niebüll.private.md) 
+### [Niebüll.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Südtondern\boroughs~SüdtondernNiebüll.private.md) 
 
-### [Niebüll.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Südtondern/boroughs~Südtondern/Niebüll.personal.md) 
+### [Niebüll.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Südtondern\boroughs~SüdtondernNiebüll.personal.md) 
 
-### [Niebüll.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Südtondern/boroughs~Südtondern/Niebüll.secret.md) 
+### [Niebüll.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Südtondern\boroughs~SüdtondernNiebüll.secret.md)
+

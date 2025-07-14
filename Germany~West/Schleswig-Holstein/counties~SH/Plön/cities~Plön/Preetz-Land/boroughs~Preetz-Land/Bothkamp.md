@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.2,10.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bothkamp](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz-Land/boroughs~Preetz-Land/Bothkamp.md) 
+### [Bothkamp.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Preetz-Land\boroughs~Preetz-LandBothkamp.public.md) 
 
-### [Bothkamp.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz-Land/boroughs~Preetz-Land/Bothkamp.internal.md) 
+### [Bothkamp.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Preetz-Land\boroughs~Preetz-LandBothkamp.internal.md) 
 
-### [Bothkamp.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz-Land/boroughs~Preetz-Land/Bothkamp.protect.md) 
+### [Bothkamp.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Preetz-Land\boroughs~Preetz-LandBothkamp.protect.md) 
 
-### [Bothkamp.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz-Land/boroughs~Preetz-Land/Bothkamp.private.md) 
+### [Bothkamp.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Preetz-Land\boroughs~Preetz-LandBothkamp.private.md) 
 
-### [Bothkamp.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz-Land/boroughs~Preetz-Land/Bothkamp.personal.md) 
+### [Bothkamp.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Preetz-Land\boroughs~Preetz-LandBothkamp.personal.md) 
 
-### [Bothkamp.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz-Land/boroughs~Preetz-Land/Bothkamp.secret.md) 
+### [Bothkamp.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Preetz-Land\boroughs~Preetz-LandBothkamp.secret.md)
+

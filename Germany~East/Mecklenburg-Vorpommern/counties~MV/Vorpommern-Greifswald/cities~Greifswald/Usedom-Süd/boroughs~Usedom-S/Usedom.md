@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.88,13.92] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Usedom](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Süd/boroughs~Usedom-S/Usedom.md) 
+### [Usedom.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Usedom-Süd\boroughs~Usedom-SUsedom.public.md) 
 
-### [Usedom.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Süd/boroughs~Usedom-S/Usedom.internal.md) 
+### [Usedom.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Usedom-Süd\boroughs~Usedom-SUsedom.internal.md) 
 
-### [Usedom.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Süd/boroughs~Usedom-S/Usedom.protect.md) 
+### [Usedom.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Usedom-Süd\boroughs~Usedom-SUsedom.protect.md) 
 
-### [Usedom.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Süd/boroughs~Usedom-S/Usedom.private.md) 
+### [Usedom.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Usedom-Süd\boroughs~Usedom-SUsedom.private.md) 
 
-### [Usedom.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Süd/boroughs~Usedom-S/Usedom.personal.md) 
+### [Usedom.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Usedom-Süd\boroughs~Usedom-SUsedom.personal.md) 
 
-### [Usedom.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Süd/boroughs~Usedom-S/Usedom.secret.md) 
+### [Usedom.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Usedom-Süd\boroughs~Usedom-SUsedom.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.17,10] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Reichensachsen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Eschwege/boroughs~Eschwege/Reichensachsen.md) 
+### [Reichensachsen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-Meißner\Eschwege\boroughs~EschwegeReichensachsen.public.md) 
 
-### [Reichensachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Eschwege/boroughs~Eschwege/Reichensachsen.internal.md) 
+### [Reichensachsen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-Meißner\Eschwege\boroughs~EschwegeReichensachsen.internal.md) 
 
-### [Reichensachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Eschwege/boroughs~Eschwege/Reichensachsen.protect.md) 
+### [Reichensachsen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-Meißner\Eschwege\boroughs~EschwegeReichensachsen.protect.md) 
 
-### [Reichensachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Eschwege/boroughs~Eschwege/Reichensachsen.private.md) 
+### [Reichensachsen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-Meißner\Eschwege\boroughs~EschwegeReichensachsen.private.md) 
 
-### [Reichensachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Eschwege/boroughs~Eschwege/Reichensachsen.personal.md) 
+### [Reichensachsen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-Meißner\Eschwege\boroughs~EschwegeReichensachsen.personal.md) 
 
-### [Reichensachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Eschwege/boroughs~Eschwege/Reichensachsen.secret.md) 
+### [Reichensachsen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-Meißner\Eschwege\boroughs~EschwegeReichensachsen.secret.md)
+

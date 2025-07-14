@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.72,8.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Paderborn-city](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city.md) 
+### [Paderborn-city.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~PaderbornPaderborn-city.public.md) 
 
-### [Paderborn-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city.internal.md) 
+### [Paderborn-city.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~PaderbornPaderborn-city.internal.md) 
 
-### [Paderborn-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city.protect.md) 
+### [Paderborn-city.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~PaderbornPaderborn-city.protect.md) 
 
-### [Paderborn-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city.private.md) 
+### [Paderborn-city.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~PaderbornPaderborn-city.private.md) 
 
-### [Paderborn-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city.personal.md) 
+### [Paderborn-city.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~PaderbornPaderborn-city.personal.md) 
 
-### [Paderborn-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city.secret.md) 
+### [Paderborn-city.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~PaderbornPaderborn-city.secret.md)
+

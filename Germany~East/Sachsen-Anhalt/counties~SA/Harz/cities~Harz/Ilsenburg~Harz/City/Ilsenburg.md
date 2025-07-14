@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.85,10.67] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ilsenburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Ilsenburg~Harz/City/Ilsenburg.md) 
+### [Ilsenburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Ilsenburg~Harz\CityIlsenburg.public.md) 
 
-### [Ilsenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Ilsenburg~Harz/City/Ilsenburg.internal.md) 
+### [Ilsenburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Ilsenburg~Harz\CityIlsenburg.internal.md) 
 
-### [Ilsenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Ilsenburg~Harz/City/Ilsenburg.protect.md) 
+### [Ilsenburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Ilsenburg~Harz\CityIlsenburg.protect.md) 
 
-### [Ilsenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Ilsenburg~Harz/City/Ilsenburg.private.md) 
+### [Ilsenburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Ilsenburg~Harz\CityIlsenburg.private.md) 
 
-### [Ilsenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Ilsenburg~Harz/City/Ilsenburg.personal.md) 
+### [Ilsenburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Ilsenburg~Harz\CityIlsenburg.personal.md) 
 
-### [Ilsenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Ilsenburg~Harz/City/Ilsenburg.secret.md) 
+### [Ilsenburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Ilsenburg~Harz\CityIlsenburg.secret.md)
+

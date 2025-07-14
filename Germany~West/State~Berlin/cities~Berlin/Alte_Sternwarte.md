@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.52,13.38] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alte_Sternwarte](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Alte_Sternwarte.md) 
+### [Alte_Sternwarte.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinAlte_Sternwarte.public.md) 
 
-### [Alte_Sternwarte.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Alte_Sternwarte.internal.md) 
+### [Alte_Sternwarte.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinAlte_Sternwarte.internal.md) 
 
-### [Alte_Sternwarte.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Alte_Sternwarte.protect.md) 
+### [Alte_Sternwarte.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinAlte_Sternwarte.protect.md) 
 
-### [Alte_Sternwarte.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Alte_Sternwarte.private.md) 
+### [Alte_Sternwarte.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinAlte_Sternwarte.private.md) 
 
-### [Alte_Sternwarte.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Alte_Sternwarte.personal.md) 
+### [Alte_Sternwarte.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinAlte_Sternwarte.personal.md) 
 
-### [Alte_Sternwarte.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Alte_Sternwarte.secret.md) 
+### [Alte_Sternwarte.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinAlte_Sternwarte.secret.md)
+

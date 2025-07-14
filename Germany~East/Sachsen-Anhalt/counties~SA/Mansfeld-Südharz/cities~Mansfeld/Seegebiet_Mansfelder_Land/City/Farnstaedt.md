@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.45,11.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Farnstaedt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Seegebiet_Mansfelder_Land/City/Farnstaedt.md) 
+### [Farnstaedt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Seegebiet_Mansfelder_Land\CityFarnstaedt.public.md) 
 
-### [Farnstaedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Seegebiet_Mansfelder_Land/City/Farnstaedt.internal.md) 
+### [Farnstaedt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Seegebiet_Mansfelder_Land\CityFarnstaedt.internal.md) 
 
-### [Farnstaedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Seegebiet_Mansfelder_Land/City/Farnstaedt.protect.md) 
+### [Farnstaedt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Seegebiet_Mansfelder_Land\CityFarnstaedt.protect.md) 
 
-### [Farnstaedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Seegebiet_Mansfelder_Land/City/Farnstaedt.private.md) 
+### [Farnstaedt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Seegebiet_Mansfelder_Land\CityFarnstaedt.private.md) 
 
-### [Farnstaedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Seegebiet_Mansfelder_Land/City/Farnstaedt.personal.md) 
+### [Farnstaedt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Seegebiet_Mansfelder_Land\CityFarnstaedt.personal.md) 
 
-### [Farnstaedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Seegebiet_Mansfelder_Land/City/Farnstaedt.secret.md) 
+### [Farnstaedt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Seegebiet_Mansfelder_Land\CityFarnstaedt.secret.md)
+

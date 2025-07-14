@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.75,8.93] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stedesand](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Südtondern/boroughs~Südtondern/Stedesand.md) 
+### [Stedesand.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Südtondern\boroughs~SüdtondernStedesand.public.md) 
 
-### [Stedesand.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Südtondern/boroughs~Südtondern/Stedesand.internal.md) 
+### [Stedesand.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Südtondern\boroughs~SüdtondernStedesand.internal.md) 
 
-### [Stedesand.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Südtondern/boroughs~Südtondern/Stedesand.protect.md) 
+### [Stedesand.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Südtondern\boroughs~SüdtondernStedesand.protect.md) 
 
-### [Stedesand.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Südtondern/boroughs~Südtondern/Stedesand.private.md) 
+### [Stedesand.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Südtondern\boroughs~SüdtondernStedesand.private.md) 
 
-### [Stedesand.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Südtondern/boroughs~Südtondern/Stedesand.personal.md) 
+### [Stedesand.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Südtondern\boroughs~SüdtondernStedesand.personal.md) 
 
-### [Stedesand.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Südtondern/boroughs~Südtondern/Stedesand.secret.md) 
+### [Stedesand.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Südtondern\boroughs~SüdtondernStedesand.secret.md)
+

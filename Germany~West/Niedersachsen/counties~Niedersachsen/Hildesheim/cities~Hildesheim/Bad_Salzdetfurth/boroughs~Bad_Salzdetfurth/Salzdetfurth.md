@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.07,10] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Salzdetfurth](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Bad_Salzdetfurth/boroughs~Bad_Salzdetfurth/Salzdetfurth.md) 
+### [Salzdetfurth.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~Hildesheim\Bad_Salzdetfurth\boroughs~Bad_SalzdetfurthSalzdetfurth.public.md) 
 
-### [Salzdetfurth.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Bad_Salzdetfurth/boroughs~Bad_Salzdetfurth/Salzdetfurth.internal.md) 
+### [Salzdetfurth.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~Hildesheim\Bad_Salzdetfurth\boroughs~Bad_SalzdetfurthSalzdetfurth.internal.md) 
 
-### [Salzdetfurth.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Bad_Salzdetfurth/boroughs~Bad_Salzdetfurth/Salzdetfurth.protect.md) 
+### [Salzdetfurth.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~Hildesheim\Bad_Salzdetfurth\boroughs~Bad_SalzdetfurthSalzdetfurth.protect.md) 
 
-### [Salzdetfurth.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Bad_Salzdetfurth/boroughs~Bad_Salzdetfurth/Salzdetfurth.private.md) 
+### [Salzdetfurth.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~Hildesheim\Bad_Salzdetfurth\boroughs~Bad_SalzdetfurthSalzdetfurth.private.md) 
 
-### [Salzdetfurth.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Bad_Salzdetfurth/boroughs~Bad_Salzdetfurth/Salzdetfurth.personal.md) 
+### [Salzdetfurth.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~Hildesheim\Bad_Salzdetfurth\boroughs~Bad_SalzdetfurthSalzdetfurth.personal.md) 
 
-### [Salzdetfurth.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Bad_Salzdetfurth/boroughs~Bad_Salzdetfurth/Salzdetfurth.secret.md) 
+### [Salzdetfurth.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~Hildesheim\Bad_Salzdetfurth\boroughs~Bad_SalzdetfurthSalzdetfurth.secret.md)
+

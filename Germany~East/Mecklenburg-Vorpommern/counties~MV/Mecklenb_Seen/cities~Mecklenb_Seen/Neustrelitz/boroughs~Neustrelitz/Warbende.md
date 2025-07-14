@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.43,13.37] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Warbende](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neustrelitz/boroughs~Neustrelitz/Warbende.md) 
+### [Warbende.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Neustrelitz\boroughs~NeustrelitzWarbende.public.md) 
 
-### [Warbende.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neustrelitz/boroughs~Neustrelitz/Warbende.internal.md) 
+### [Warbende.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Neustrelitz\boroughs~NeustrelitzWarbende.internal.md) 
 
-### [Warbende.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neustrelitz/boroughs~Neustrelitz/Warbende.protect.md) 
+### [Warbende.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Neustrelitz\boroughs~NeustrelitzWarbende.protect.md) 
 
-### [Warbende.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neustrelitz/boroughs~Neustrelitz/Warbende.private.md) 
+### [Warbende.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Neustrelitz\boroughs~NeustrelitzWarbende.private.md) 
 
-### [Warbende.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neustrelitz/boroughs~Neustrelitz/Warbende.personal.md) 
+### [Warbende.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Neustrelitz\boroughs~NeustrelitzWarbende.personal.md) 
 
-### [Warbende.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neustrelitz/boroughs~Neustrelitz/Warbende.secret.md) 
+### [Warbende.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Neustrelitz\boroughs~NeustrelitzWarbende.secret.md)
+

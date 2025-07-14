@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.77,13.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ducherow](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Anklam-Land/boroughs~Anklam-Land/Ducherow.md) 
+### [Ducherow.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Anklam-Land\boroughs~Anklam-LandDucherow.public.md) 
 
-### [Ducherow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Anklam-Land/boroughs~Anklam-Land/Ducherow.internal.md) 
+### [Ducherow.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Anklam-Land\boroughs~Anklam-LandDucherow.internal.md) 
 
-### [Ducherow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Anklam-Land/boroughs~Anklam-Land/Ducherow.protect.md) 
+### [Ducherow.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Anklam-Land\boroughs~Anklam-LandDucherow.protect.md) 
 
-### [Ducherow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Anklam-Land/boroughs~Anklam-Land/Ducherow.private.md) 
+### [Ducherow.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Anklam-Land\boroughs~Anklam-LandDucherow.private.md) 
 
-### [Ducherow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Anklam-Land/boroughs~Anklam-Land/Ducherow.personal.md) 
+### [Ducherow.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Anklam-Land\boroughs~Anklam-LandDucherow.personal.md) 
 
-### [Ducherow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Anklam-Land/boroughs~Anklam-Land/Ducherow.secret.md) 
+### [Ducherow.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Anklam-Land\boroughs~Anklam-LandDucherow.secret.md)
+

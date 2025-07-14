@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.9,8.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wildeshausen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Wildeshausen/boroughs~Wildeshausen/Wildeshausen.md) 
+### [Wildeshausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~Oldenburg\Wildeshausen\boroughs~WildeshausenWildeshausen.public.md) 
 
-### [Wildeshausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Wildeshausen/boroughs~Wildeshausen/Wildeshausen.internal.md) 
+### [Wildeshausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~Oldenburg\Wildeshausen\boroughs~WildeshausenWildeshausen.internal.md) 
 
-### [Wildeshausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Wildeshausen/boroughs~Wildeshausen/Wildeshausen.protect.md) 
+### [Wildeshausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~Oldenburg\Wildeshausen\boroughs~WildeshausenWildeshausen.protect.md) 
 
-### [Wildeshausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Wildeshausen/boroughs~Wildeshausen/Wildeshausen.private.md) 
+### [Wildeshausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~Oldenburg\Wildeshausen\boroughs~WildeshausenWildeshausen.private.md) 
 
-### [Wildeshausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Wildeshausen/boroughs~Wildeshausen/Wildeshausen.personal.md) 
+### [Wildeshausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~Oldenburg\Wildeshausen\boroughs~WildeshausenWildeshausen.personal.md) 
 
-### [Wildeshausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Wildeshausen/boroughs~Wildeshausen/Wildeshausen.secret.md) 
+### [Wildeshausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~Oldenburg\Wildeshausen\boroughs~WildeshausenWildeshausen.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.45,9.93] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gersfeld~Rhön](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Gersfeld~Rhön.md) 
+### [Gersfeld~Rhön.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~FuldaGersfeld~Rhön.public.md) 
 
-### [Gersfeld~Rhön.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Gersfeld~Rhön.internal.md) 
+### [Gersfeld~Rhön.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~FuldaGersfeld~Rhön.internal.md) 
 
-### [Gersfeld~Rhön.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Gersfeld~Rhön.protect.md) 
+### [Gersfeld~Rhön.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~FuldaGersfeld~Rhön.protect.md) 
 
-### [Gersfeld~Rhön.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Gersfeld~Rhön.private.md) 
+### [Gersfeld~Rhön.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~FuldaGersfeld~Rhön.private.md) 
 
-### [Gersfeld~Rhön.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Gersfeld~Rhön.personal.md) 
+### [Gersfeld~Rhön.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~FuldaGersfeld~Rhön.personal.md) 
 
-### [Gersfeld~Rhön.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Gersfeld~Rhön.secret.md) 
+### [Gersfeld~Rhön.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~FuldaGersfeld~Rhön.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.65,8.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,16 +32,18 @@ maxZoom: 18
 ```[[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Kloster_Lorsch.webp]]]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Kloster_Lorsch.webp]]]]] 
 Kloster Lorsch und Altenmünster ( [[Unesco]] Welterbe seit 1991)
 
+
 ## Confidential Links & Embeds: 
 
-### [Lorsch](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.md) 
+### [Lorsch.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Bergstraße\cities~BergstraßeLorsch.public.md) 
 
-### [Lorsch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.internal.md) 
+### [Lorsch.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Bergstraße\cities~BergstraßeLorsch.internal.md) 
 
-### [Lorsch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.protect.md) 
+### [Lorsch.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Bergstraße\cities~BergstraßeLorsch.protect.md) 
 
-### [Lorsch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.private.md) 
+### [Lorsch.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Bergstraße\cities~BergstraßeLorsch.private.md) 
 
-### [Lorsch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.personal.md) 
+### [Lorsch.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Bergstraße\cities~BergstraßeLorsch.personal.md) 
 
-### [Lorsch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.secret.md) 
+### [Lorsch.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Bergstraße\cities~BergstraßeLorsch.secret.md)
+

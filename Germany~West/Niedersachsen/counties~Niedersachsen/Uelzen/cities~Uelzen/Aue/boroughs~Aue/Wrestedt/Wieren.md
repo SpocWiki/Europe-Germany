@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.88,10.65] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wieren](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Aue/boroughs~Aue/Wrestedt/Wieren.md) 
+### [Wieren.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Aue\boroughs~Aue\WrestedtWieren.public.md) 
 
-### [Wieren.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Aue/boroughs~Aue/Wrestedt/Wieren.internal.md) 
+### [Wieren.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Aue\boroughs~Aue\WrestedtWieren.internal.md) 
 
-### [Wieren.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Aue/boroughs~Aue/Wrestedt/Wieren.protect.md) 
+### [Wieren.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Aue\boroughs~Aue\WrestedtWieren.protect.md) 
 
-### [Wieren.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Aue/boroughs~Aue/Wrestedt/Wieren.private.md) 
+### [Wieren.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Aue\boroughs~Aue\WrestedtWieren.private.md) 
 
-### [Wieren.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Aue/boroughs~Aue/Wrestedt/Wieren.personal.md) 
+### [Wieren.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Aue\boroughs~Aue\WrestedtWieren.personal.md) 
 
-### [Wieren.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Aue/boroughs~Aue/Wrestedt/Wieren.secret.md) 
+### [Wieren.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Aue\boroughs~Aue\WrestedtWieren.secret.md)
+

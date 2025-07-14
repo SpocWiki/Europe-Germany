@@ -1,4 +1,4 @@
-﻿---
+---
 location:
   - 52.28
   - 9.95
@@ -37,14 +37,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lühnde](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde.md) 
+### [Lühnde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~Hildesheim\Algermissen\boroughs~AlgermissenLühnde.public.md) 
 
-### [Lühnde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde.internal.md) 
+### [Lühnde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~Hildesheim\Algermissen\boroughs~AlgermissenLühnde.internal.md) 
 
-### [Lühnde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde.protect.md) 
+### [Lühnde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~Hildesheim\Algermissen\boroughs~AlgermissenLühnde.protect.md) 
 
-### [Lühnde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde.private.md) 
+### [Lühnde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~Hildesheim\Algermissen\boroughs~AlgermissenLühnde.private.md) 
 
-### [Lühnde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde.personal.md) 
+### [Lühnde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~Hildesheim\Algermissen\boroughs~AlgermissenLühnde.personal.md) 
 
-### [Lühnde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde.secret.md) 
+### [Lühnde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~Hildesheim\Algermissen\boroughs~AlgermissenLühnde.secret.md)
+

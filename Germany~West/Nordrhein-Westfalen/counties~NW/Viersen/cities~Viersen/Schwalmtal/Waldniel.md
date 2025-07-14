@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.22,6.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Waldniel](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Viersen/cities~Viersen/Schwalmtal/Waldniel.md) 
+### [Waldniel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\SchwalmtalWaldniel.public.md) 
 
-### [Waldniel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Viersen/cities~Viersen/Schwalmtal/Waldniel.internal.md) 
+### [Waldniel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\SchwalmtalWaldniel.internal.md) 
 
-### [Waldniel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Viersen/cities~Viersen/Schwalmtal/Waldniel.protect.md) 
+### [Waldniel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\SchwalmtalWaldniel.protect.md) 
 
-### [Waldniel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Viersen/cities~Viersen/Schwalmtal/Waldniel.private.md) 
+### [Waldniel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\SchwalmtalWaldniel.private.md) 
 
-### [Waldniel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Viersen/cities~Viersen/Schwalmtal/Waldniel.personal.md) 
+### [Waldniel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\SchwalmtalWaldniel.personal.md) 
 
-### [Waldniel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Viersen/cities~Viersen/Schwalmtal/Waldniel.secret.md) 
+### [Waldniel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\SchwalmtalWaldniel.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.52,11.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neuhaus](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Neuhaus~Rennweg/City/Neuhaus.md) 
+### [Neuhaus.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Neuhaus~Rennweg\CityNeuhaus.public.md) 
 
-### [Neuhaus.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Neuhaus~Rennweg/City/Neuhaus.internal.md) 
+### [Neuhaus.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Neuhaus~Rennweg\CityNeuhaus.internal.md) 
 
-### [Neuhaus.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Neuhaus~Rennweg/City/Neuhaus.protect.md) 
+### [Neuhaus.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Neuhaus~Rennweg\CityNeuhaus.protect.md) 
 
-### [Neuhaus.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Neuhaus~Rennweg/City/Neuhaus.private.md) 
+### [Neuhaus.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Neuhaus~Rennweg\CityNeuhaus.private.md) 
 
-### [Neuhaus.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Neuhaus~Rennweg/City/Neuhaus.personal.md) 
+### [Neuhaus.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Neuhaus~Rennweg\CityNeuhaus.personal.md) 
 
-### [Neuhaus.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Neuhaus~Rennweg/City/Neuhaus.secret.md) 
+### [Neuhaus.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Neuhaus~Rennweg\CityNeuhaus.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.97,8.68] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Egelsbach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Egelsbach.md) 
+### [Egelsbach.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Offenbach~Main\cities~Offenbach~MainEgelsbach.public.md) 
 
-### [Egelsbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Egelsbach.internal.md) 
+### [Egelsbach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Offenbach~Main\cities~Offenbach~MainEgelsbach.internal.md) 
 
-### [Egelsbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Egelsbach.protect.md) 
+### [Egelsbach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Offenbach~Main\cities~Offenbach~MainEgelsbach.protect.md) 
 
-### [Egelsbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Egelsbach.private.md) 
+### [Egelsbach.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Offenbach~Main\cities~Offenbach~MainEgelsbach.private.md) 
 
-### [Egelsbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Egelsbach.personal.md) 
+### [Egelsbach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Offenbach~Main\cities~Offenbach~MainEgelsbach.personal.md) 
 
-### [Egelsbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Egelsbach.secret.md) 
+### [Egelsbach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Offenbach~Main\cities~Offenbach~MainEgelsbach.secret.md)
+

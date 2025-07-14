@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.68,11.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Harzgerode](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg/City/Harzgerode.md) 
+### [Harzgerode.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Quedlinburg\CityHarzgerode.public.md) 
 
-### [Harzgerode.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg/City/Harzgerode.internal.md) 
+### [Harzgerode.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Quedlinburg\CityHarzgerode.internal.md) 
 
-### [Harzgerode.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg/City/Harzgerode.protect.md) 
+### [Harzgerode.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Quedlinburg\CityHarzgerode.protect.md) 
 
-### [Harzgerode.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg/City/Harzgerode.private.md) 
+### [Harzgerode.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Quedlinburg\CityHarzgerode.private.md) 
 
-### [Harzgerode.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg/City/Harzgerode.personal.md) 
+### [Harzgerode.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Quedlinburg\CityHarzgerode.personal.md) 
 
-### [Harzgerode.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg/City/Harzgerode.secret.md) 
+### [Harzgerode.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Quedlinburg\CityHarzgerode.secret.md)
+

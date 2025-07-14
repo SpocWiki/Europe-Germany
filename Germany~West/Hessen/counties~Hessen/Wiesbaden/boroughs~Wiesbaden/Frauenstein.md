@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.07,8.15] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Frauenstein](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Frauenstein.md) 
+### [Frauenstein.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenFrauenstein.public.md) 
 
-### [Frauenstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Frauenstein.internal.md) 
+### [Frauenstein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenFrauenstein.internal.md) 
 
-### [Frauenstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Frauenstein.protect.md) 
+### [Frauenstein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenFrauenstein.protect.md) 
 
-### [Frauenstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Frauenstein.private.md) 
+### [Frauenstein.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenFrauenstein.private.md) 
 
-### [Frauenstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Frauenstein.personal.md) 
+### [Frauenstein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenFrauenstein.personal.md) 
 
-### [Frauenstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Frauenstein.secret.md) 
+### [Frauenstein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenFrauenstein.secret.md)
+

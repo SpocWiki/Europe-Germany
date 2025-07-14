@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.08,8.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Werther~Westf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Werther~Westf/Werther~Westf.md) 
+### [Werther~Westf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~Gütersloh\Werther~WestfWerther~Westf.public.md) 
 
-### [Werther~Westf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Werther~Westf/Werther~Westf.internal.md) 
+### [Werther~Westf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~Gütersloh\Werther~WestfWerther~Westf.internal.md) 
 
-### [Werther~Westf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Werther~Westf/Werther~Westf.protect.md) 
+### [Werther~Westf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~Gütersloh\Werther~WestfWerther~Westf.protect.md) 
 
-### [Werther~Westf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Werther~Westf/Werther~Westf.private.md) 
+### [Werther~Westf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~Gütersloh\Werther~WestfWerther~Westf.private.md) 
 
-### [Werther~Westf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Werther~Westf/Werther~Westf.personal.md) 
+### [Werther~Westf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~Gütersloh\Werther~WestfWerther~Westf.personal.md) 
 
-### [Werther~Westf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Werther~Westf/Werther~Westf.secret.md) 
+### [Werther~Westf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~Gütersloh\Werther~WestfWerther~Westf.secret.md)
+

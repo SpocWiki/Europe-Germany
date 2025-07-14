@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.4,8.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Strubben](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Beverstedt/boroughs~Beverstedt/Strubben.md) 
+### [Strubben.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Beverstedt\boroughs~BeverstedtStrubben.public.md) 
 
-### [Strubben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Beverstedt/boroughs~Beverstedt/Strubben.internal.md) 
+### [Strubben.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Beverstedt\boroughs~BeverstedtStrubben.internal.md) 
 
-### [Strubben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Beverstedt/boroughs~Beverstedt/Strubben.protect.md) 
+### [Strubben.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Beverstedt\boroughs~BeverstedtStrubben.protect.md) 
 
-### [Strubben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Beverstedt/boroughs~Beverstedt/Strubben.private.md) 
+### [Strubben.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Beverstedt\boroughs~BeverstedtStrubben.private.md) 
 
-### [Strubben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Beverstedt/boroughs~Beverstedt/Strubben.personal.md) 
+### [Strubben.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Beverstedt\boroughs~BeverstedtStrubben.personal.md) 
 
-### [Strubben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Beverstedt/boroughs~Beverstedt/Strubben.secret.md) 
+### [Strubben.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Beverstedt\boroughs~BeverstedtStrubben.secret.md)
+

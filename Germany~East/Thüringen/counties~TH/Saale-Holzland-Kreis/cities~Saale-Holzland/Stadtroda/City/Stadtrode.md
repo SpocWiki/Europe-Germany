@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.85,11.72] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stadtrode](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Stadtroda/City/Stadtrode.md) 
+### [Stadtrode.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-Holzland\Stadtroda\CityStadtrode.public.md) 
 
-### [Stadtrode.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Stadtroda/City/Stadtrode.internal.md) 
+### [Stadtrode.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-Holzland\Stadtroda\CityStadtrode.internal.md) 
 
-### [Stadtrode.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Stadtroda/City/Stadtrode.protect.md) 
+### [Stadtrode.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-Holzland\Stadtroda\CityStadtrode.protect.md) 
 
-### [Stadtrode.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Stadtroda/City/Stadtrode.private.md) 
+### [Stadtrode.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-Holzland\Stadtroda\CityStadtrode.private.md) 
 
-### [Stadtrode.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Stadtroda/City/Stadtrode.personal.md) 
+### [Stadtrode.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-Holzland\Stadtroda\CityStadtrode.personal.md) 
 
-### [Stadtrode.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Stadtroda/City/Stadtrode.secret.md) 
+### [Stadtrode.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-Holzland\Stadtroda\CityStadtrode.secret.md)
+

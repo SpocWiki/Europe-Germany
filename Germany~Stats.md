@@ -1,4 +1,4 @@
-﻿---
+---
 
 FoodWasteArray:
 - [Source, Tons]
@@ -24,14 +24,15 @@ dv.table(pages[0],pages.slice(1));
 
 ## Confidential Links & Embeds: 
 
-### [Germany~Stats](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~Stats.md) 
+### [Germany~Stats.public](/_public/\Earth\Continent\Europe\Europe~Central\GermanyGermany~Stats.public.md) 
 
-### [Germany~Stats.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~Stats.internal.md) 
+### [Germany~Stats.internal](/_internal/\Earth\Continent\Europe\Europe~Central\GermanyGermany~Stats.internal.md) 
 
-### [Germany~Stats.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~Stats.protect.md) 
+### [Germany~Stats.protect](/_protect/\Earth\Continent\Europe\Europe~Central\GermanyGermany~Stats.protect.md) 
 
-### [Germany~Stats.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~Stats.private.md) 
+### [Germany~Stats.private](/_private/\Earth\Continent\Europe\Europe~Central\GermanyGermany~Stats.private.md) 
 
-### [Germany~Stats.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~Stats.personal.md) 
+### [Germany~Stats.personal](/_personal/\Earth\Continent\Europe\Europe~Central\GermanyGermany~Stats.personal.md) 
 
-### [Germany~Stats.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~Stats.secret.md) 
+### [Germany~Stats.secret](/_secret/\Earth\Continent\Europe\Europe~Central\GermanyGermany~Stats.secret.md)
+

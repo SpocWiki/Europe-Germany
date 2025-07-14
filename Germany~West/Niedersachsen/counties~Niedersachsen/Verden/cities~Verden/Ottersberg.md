@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.12,9.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ottersberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Ottersberg.md) 
+### [Ottersberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Verden\cities~VerdenOttersberg.public.md) 
 
-### [Ottersberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Ottersberg.internal.md) 
+### [Ottersberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Verden\cities~VerdenOttersberg.internal.md) 
 
-### [Ottersberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Ottersberg.protect.md) 
+### [Ottersberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Verden\cities~VerdenOttersberg.protect.md) 
 
-### [Ottersberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Ottersberg.private.md) 
+### [Ottersberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Verden\cities~VerdenOttersberg.private.md) 
 
-### [Ottersberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Ottersberg.personal.md) 
+### [Ottersberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Verden\cities~VerdenOttersberg.personal.md) 
 
-### [Ottersberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Ottersberg.secret.md) 
+### [Ottersberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Verden\cities~VerdenOttersberg.secret.md)
+

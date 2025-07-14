@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.43,10.03] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Burgdorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Burgdorf/boroughs~Burgdorf/Burgdorf.md) 
+### [Burgdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Burgdorf\boroughs~BurgdorfBurgdorf.public.md) 
 
-### [Burgdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Burgdorf/boroughs~Burgdorf/Burgdorf.internal.md) 
+### [Burgdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Burgdorf\boroughs~BurgdorfBurgdorf.internal.md) 
 
-### [Burgdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Burgdorf/boroughs~Burgdorf/Burgdorf.protect.md) 
+### [Burgdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Burgdorf\boroughs~BurgdorfBurgdorf.protect.md) 
 
-### [Burgdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Burgdorf/boroughs~Burgdorf/Burgdorf.private.md) 
+### [Burgdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Burgdorf\boroughs~BurgdorfBurgdorf.private.md) 
 
-### [Burgdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Burgdorf/boroughs~Burgdorf/Burgdorf.personal.md) 
+### [Burgdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Burgdorf\boroughs~BurgdorfBurgdorf.personal.md) 
 
-### [Burgdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Burgdorf/boroughs~Burgdorf/Burgdorf.secret.md) 
+### [Burgdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Burgdorf\boroughs~BurgdorfBurgdorf.secret.md)
+

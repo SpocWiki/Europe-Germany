@@ -327,3 +327,20 @@ class S_Spandau,S_Stresow,S_Pichelsberg,S_Olympiastadion,S_Heerstraße,S_Messe_S
 ```
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [S-Bahn,Berlin.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-cityS-Bahn,Berlin.public.md) 
+
+### [S-Bahn,Berlin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-cityS-Bahn,Berlin.internal.md) 
+
+### [S-Bahn,Berlin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-cityS-Bahn,Berlin.protect.md) 
+
+### [S-Bahn,Berlin.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-cityS-Bahn,Berlin.private.md) 
+
+### [S-Bahn,Berlin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-cityS-Bahn,Berlin.personal.md) 
+
+### [S-Bahn,Berlin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-cityS-Bahn,Berlin.secret.md)
+

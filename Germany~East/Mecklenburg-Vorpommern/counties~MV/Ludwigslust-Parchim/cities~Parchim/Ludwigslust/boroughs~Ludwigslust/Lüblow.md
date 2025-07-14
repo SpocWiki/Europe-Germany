@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.42,11.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lüblow](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Ludwigslust/boroughs~Ludwigslust/Lüblow.md) 
+### [Lüblow.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Ludwigslust\boroughs~LudwigslustLüblow.public.md) 
 
-### [Lüblow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Ludwigslust/boroughs~Ludwigslust/Lüblow.internal.md) 
+### [Lüblow.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Ludwigslust\boroughs~LudwigslustLüblow.internal.md) 
 
-### [Lüblow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Ludwigslust/boroughs~Ludwigslust/Lüblow.protect.md) 
+### [Lüblow.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Ludwigslust\boroughs~LudwigslustLüblow.protect.md) 
 
-### [Lüblow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Ludwigslust/boroughs~Ludwigslust/Lüblow.private.md) 
+### [Lüblow.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Ludwigslust\boroughs~LudwigslustLüblow.private.md) 
 
-### [Lüblow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Ludwigslust/boroughs~Ludwigslust/Lüblow.personal.md) 
+### [Lüblow.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Ludwigslust\boroughs~LudwigslustLüblow.personal.md) 
 
-### [Lüblow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Ludwigslust/boroughs~Ludwigslust/Lüblow.secret.md) 
+### [Lüblow.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Ludwigslust\boroughs~LudwigslustLüblow.secret.md)
+

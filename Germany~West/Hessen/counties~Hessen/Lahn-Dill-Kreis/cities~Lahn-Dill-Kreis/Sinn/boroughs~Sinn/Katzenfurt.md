@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.63,8.32] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Katzenfurt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Sinn/boroughs~Sinn/Katzenfurt.md) 
+### [Katzenfurt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-Kreis\Sinn\boroughs~SinnKatzenfurt.public.md) 
 
-### [Katzenfurt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Sinn/boroughs~Sinn/Katzenfurt.internal.md) 
+### [Katzenfurt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-Kreis\Sinn\boroughs~SinnKatzenfurt.internal.md) 
 
-### [Katzenfurt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Sinn/boroughs~Sinn/Katzenfurt.protect.md) 
+### [Katzenfurt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-Kreis\Sinn\boroughs~SinnKatzenfurt.protect.md) 
 
-### [Katzenfurt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Sinn/boroughs~Sinn/Katzenfurt.private.md) 
+### [Katzenfurt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-Kreis\Sinn\boroughs~SinnKatzenfurt.private.md) 
 
-### [Katzenfurt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Sinn/boroughs~Sinn/Katzenfurt.personal.md) 
+### [Katzenfurt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-Kreis\Sinn\boroughs~SinnKatzenfurt.personal.md) 
 
-### [Katzenfurt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Sinn/boroughs~Sinn/Katzenfurt.secret.md) 
+### [Katzenfurt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-Kreis\Sinn\boroughs~SinnKatzenfurt.secret.md)
+

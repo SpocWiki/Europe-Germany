@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.57,13.27] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neubrandenburg-City](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neubrandenburg/boroughs~Neubrandnbg/Neubrandenburg-City.md) 
+### [Neubrandenburg-City.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Neubrandenburg\boroughs~NeubrandnbgNeubrandenburg-City.public.md) 
 
-### [Neubrandenburg-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neubrandenburg/boroughs~Neubrandnbg/Neubrandenburg-City.internal.md) 
+### [Neubrandenburg-City.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Neubrandenburg\boroughs~NeubrandnbgNeubrandenburg-City.internal.md) 
 
-### [Neubrandenburg-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neubrandenburg/boroughs~Neubrandnbg/Neubrandenburg-City.protect.md) 
+### [Neubrandenburg-City.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Neubrandenburg\boroughs~NeubrandnbgNeubrandenburg-City.protect.md) 
 
-### [Neubrandenburg-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neubrandenburg/boroughs~Neubrandnbg/Neubrandenburg-City.private.md) 
+### [Neubrandenburg-City.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Neubrandenburg\boroughs~NeubrandnbgNeubrandenburg-City.private.md) 
 
-### [Neubrandenburg-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neubrandenburg/boroughs~Neubrandnbg/Neubrandenburg-City.personal.md) 
+### [Neubrandenburg-City.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Neubrandenburg\boroughs~NeubrandnbgNeubrandenburg-City.personal.md) 
 
-### [Neubrandenburg-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neubrandenburg/boroughs~Neubrandnbg/Neubrandenburg-City.secret.md) 
+### [Neubrandenburg-City.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Neubrandenburg\boroughs~NeubrandnbgNeubrandenburg-City.secret.md)
+

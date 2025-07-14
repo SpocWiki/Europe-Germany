@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.72,10.53] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oderberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Braunlage/boroughs~Braunlage/Oderberg.md) 
+### [Oderberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Goslar\cities~Goslar\Braunlage\boroughs~BraunlageOderberg.public.md) 
 
-### [Oderberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Braunlage/boroughs~Braunlage/Oderberg.internal.md) 
+### [Oderberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Goslar\cities~Goslar\Braunlage\boroughs~BraunlageOderberg.internal.md) 
 
-### [Oderberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Braunlage/boroughs~Braunlage/Oderberg.protect.md) 
+### [Oderberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Goslar\cities~Goslar\Braunlage\boroughs~BraunlageOderberg.protect.md) 
 
-### [Oderberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Braunlage/boroughs~Braunlage/Oderberg.private.md) 
+### [Oderberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Goslar\cities~Goslar\Braunlage\boroughs~BraunlageOderberg.private.md) 
 
-### [Oderberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Braunlage/boroughs~Braunlage/Oderberg.personal.md) 
+### [Oderberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Goslar\cities~Goslar\Braunlage\boroughs~BraunlageOderberg.personal.md) 
 
-### [Oderberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Braunlage/boroughs~Braunlage/Oderberg.secret.md) 
+### [Oderberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Goslar\cities~Goslar\Braunlage\boroughs~BraunlageOderberg.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.62,9.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Drelsdorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Mittleres_Nordfriesland/boroughs~Nordfriesland~Mitte/Drelsdorf.md) 
+### [Drelsdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Mittleres_Nordfriesland\boroughs~Nordfriesland~MitteDrelsdorf.public.md) 
 
-### [Drelsdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Mittleres_Nordfriesland/boroughs~Nordfriesland~Mitte/Drelsdorf.internal.md) 
+### [Drelsdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Mittleres_Nordfriesland\boroughs~Nordfriesland~MitteDrelsdorf.internal.md) 
 
-### [Drelsdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Mittleres_Nordfriesland/boroughs~Nordfriesland~Mitte/Drelsdorf.protect.md) 
+### [Drelsdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Mittleres_Nordfriesland\boroughs~Nordfriesland~MitteDrelsdorf.protect.md) 
 
-### [Drelsdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Mittleres_Nordfriesland/boroughs~Nordfriesland~Mitte/Drelsdorf.private.md) 
+### [Drelsdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Mittleres_Nordfriesland\boroughs~Nordfriesland~MitteDrelsdorf.private.md) 
 
-### [Drelsdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Mittleres_Nordfriesland/boroughs~Nordfriesland~Mitte/Drelsdorf.personal.md) 
+### [Drelsdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Mittleres_Nordfriesland\boroughs~Nordfriesland~MitteDrelsdorf.personal.md) 
 
-### [Drelsdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Mittleres_Nordfriesland/boroughs~Nordfriesland~Mitte/Drelsdorf.secret.md) 
+### [Drelsdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Mittleres_Nordfriesland\boroughs~Nordfriesland~MitteDrelsdorf.secret.md)
+

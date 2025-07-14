@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.63,10.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Heidersbach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Suhl/City/Heidersbach.md) 
+### [Heidersbach.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Suhl\CityHeidersbach.public.md) 
 
-### [Heidersbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Suhl/City/Heidersbach.internal.md) 
+### [Heidersbach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Suhl\CityHeidersbach.internal.md) 
 
-### [Heidersbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Suhl/City/Heidersbach.protect.md) 
+### [Heidersbach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Suhl\CityHeidersbach.protect.md) 
 
-### [Heidersbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Suhl/City/Heidersbach.private.md) 
+### [Heidersbach.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Suhl\CityHeidersbach.private.md) 
 
-### [Heidersbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Suhl/City/Heidersbach.personal.md) 
+### [Heidersbach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Suhl\CityHeidersbach.personal.md) 
 
-### [Heidersbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Suhl/City/Heidersbach.secret.md) 
+### [Heidersbach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Suhl\CityHeidersbach.secret.md)
+

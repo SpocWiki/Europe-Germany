@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.62,8.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mühlen~Oldenburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Steinfeld~Oldenburg/boroughs~Steinfeld/Mühlen~Oldenburg.md) 
+### [Mühlen~Oldenburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~Vechta\Steinfeld~Oldenburg\boroughs~SteinfeldMühlen~Oldenburg.public.md) 
 
-### [Mühlen~Oldenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Steinfeld~Oldenburg/boroughs~Steinfeld/Mühlen~Oldenburg.internal.md) 
+### [Mühlen~Oldenburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~Vechta\Steinfeld~Oldenburg\boroughs~SteinfeldMühlen~Oldenburg.internal.md) 
 
-### [Mühlen~Oldenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Steinfeld~Oldenburg/boroughs~Steinfeld/Mühlen~Oldenburg.protect.md) 
+### [Mühlen~Oldenburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~Vechta\Steinfeld~Oldenburg\boroughs~SteinfeldMühlen~Oldenburg.protect.md) 
 
-### [Mühlen~Oldenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Steinfeld~Oldenburg/boroughs~Steinfeld/Mühlen~Oldenburg.private.md) 
+### [Mühlen~Oldenburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~Vechta\Steinfeld~Oldenburg\boroughs~SteinfeldMühlen~Oldenburg.private.md) 
 
-### [Mühlen~Oldenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Steinfeld~Oldenburg/boroughs~Steinfeld/Mühlen~Oldenburg.personal.md) 
+### [Mühlen~Oldenburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~Vechta\Steinfeld~Oldenburg\boroughs~SteinfeldMühlen~Oldenburg.personal.md) 
 
-### [Mühlen~Oldenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Steinfeld~Oldenburg/boroughs~Steinfeld/Mühlen~Oldenburg.secret.md) 
+### [Mühlen~Oldenburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~Vechta\Steinfeld~Oldenburg\boroughs~SteinfeldMühlen~Oldenburg.secret.md)
+

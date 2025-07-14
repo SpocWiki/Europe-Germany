@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.32,13.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -38,16 +38,18 @@ Die Bausubstanz umfasst Beispiele der Backsteingotik, so wie hier zu sehen.
 Am Alten Markt stehen das Rathaus der Stadt und die Nikolaikirche. 
 Stralsunds Altstadt wurde 2002 in die Welterbeliste der Unesco aufgenommen.
 
+
 ## Confidential Links & Embeds: 
 
-### [Stralsund](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Stralsund.md) 
+### [Stralsund.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~RügenStralsund.public.md) 
 
-### [Stralsund.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Stralsund.internal.md) 
+### [Stralsund.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~RügenStralsund.internal.md) 
 
-### [Stralsund.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Stralsund.protect.md) 
+### [Stralsund.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~RügenStralsund.protect.md) 
 
-### [Stralsund.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Stralsund.private.md) 
+### [Stralsund.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~RügenStralsund.private.md) 
 
-### [Stralsund.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Stralsund.personal.md) 
+### [Stralsund.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~RügenStralsund.personal.md) 
 
-### [Stralsund.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Stralsund.secret.md) 
+### [Stralsund.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~RügenStralsund.secret.md)
+

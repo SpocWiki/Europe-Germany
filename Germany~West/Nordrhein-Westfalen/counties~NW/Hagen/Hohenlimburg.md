@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.35,7.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hohenlimburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hagen/Hohenlimburg.md) 
+### [Hohenlimburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\HagenHohenlimburg.public.md) 
 
-### [Hohenlimburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hagen/Hohenlimburg.internal.md) 
+### [Hohenlimburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\HagenHohenlimburg.internal.md) 
 
-### [Hohenlimburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hagen/Hohenlimburg.protect.md) 
+### [Hohenlimburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\HagenHohenlimburg.protect.md) 
 
-### [Hohenlimburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hagen/Hohenlimburg.private.md) 
+### [Hohenlimburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\HagenHohenlimburg.private.md) 
 
-### [Hohenlimburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hagen/Hohenlimburg.personal.md) 
+### [Hohenlimburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\HagenHohenlimburg.personal.md) 
 
-### [Hohenlimburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Hagen/Hohenlimburg.secret.md) 
+### [Hohenlimburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\HagenHohenlimburg.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.5,8.03] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Frickhofen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Dornburg/boroughs~Dornburg/Frickhofen.md) 
+### [Frickhofen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-Weilburg\Dornburg\boroughs~DornburgFrickhofen.public.md) 
 
-### [Frickhofen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Dornburg/boroughs~Dornburg/Frickhofen.internal.md) 
+### [Frickhofen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-Weilburg\Dornburg\boroughs~DornburgFrickhofen.internal.md) 
 
-### [Frickhofen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Dornburg/boroughs~Dornburg/Frickhofen.protect.md) 
+### [Frickhofen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-Weilburg\Dornburg\boroughs~DornburgFrickhofen.protect.md) 
 
-### [Frickhofen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Dornburg/boroughs~Dornburg/Frickhofen.private.md) 
+### [Frickhofen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-Weilburg\Dornburg\boroughs~DornburgFrickhofen.private.md) 
 
-### [Frickhofen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Dornburg/boroughs~Dornburg/Frickhofen.personal.md) 
+### [Frickhofen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-Weilburg\Dornburg\boroughs~DornburgFrickhofen.personal.md) 
 
-### [Frickhofen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Dornburg/boroughs~Dornburg/Frickhofen.secret.md) 
+### [Frickhofen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-Weilburg\Dornburg\boroughs~DornburgFrickhofen.secret.md)
+

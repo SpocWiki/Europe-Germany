@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.48,8.88] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Heldenbergen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Hungen/boroughs~Hungen/Heldenbergen.md) 
+### [Heldenbergen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Gießen\cities~Gießen\Hungen\boroughs~HungenHeldenbergen.public.md) 
 
-### [Heldenbergen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Hungen/boroughs~Hungen/Heldenbergen.internal.md) 
+### [Heldenbergen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Gießen\cities~Gießen\Hungen\boroughs~HungenHeldenbergen.internal.md) 
 
-### [Heldenbergen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Hungen/boroughs~Hungen/Heldenbergen.protect.md) 
+### [Heldenbergen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Gießen\cities~Gießen\Hungen\boroughs~HungenHeldenbergen.protect.md) 
 
-### [Heldenbergen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Hungen/boroughs~Hungen/Heldenbergen.private.md) 
+### [Heldenbergen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Gießen\cities~Gießen\Hungen\boroughs~HungenHeldenbergen.private.md) 
 
-### [Heldenbergen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Hungen/boroughs~Hungen/Heldenbergen.personal.md) 
+### [Heldenbergen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Gießen\cities~Gießen\Hungen\boroughs~HungenHeldenbergen.personal.md) 
 
-### [Heldenbergen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Hungen/boroughs~Hungen/Heldenbergen.secret.md) 
+### [Heldenbergen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Gießen\cities~Gießen\Hungen\boroughs~HungenHeldenbergen.secret.md)
+

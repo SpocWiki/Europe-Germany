@@ -49,18 +49,17 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Sanssouci)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Sans_Soucis](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Sans_Soucis.md) 
+### [Sanssouci.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinSanssouci.public.md) 
 
-### [Sans_Soucis.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Sans_Soucis.internal.md) 
+### [Sanssouci.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinSanssouci.internal.md) 
 
-### [Sans_Soucis.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Sans_Soucis.protect.md) 
+### [Sanssouci.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinSanssouci.protect.md) 
 
-### [Sans_Soucis.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Sans_Soucis.private.md) 
+### [Sanssouci.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinSanssouci.private.md) 
 
-### [Sans_Soucis.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Sans_Soucis.personal.md) 
+### [Sanssouci.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinSanssouci.personal.md) 
 
-### [Sans_Soucis.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Sans_Soucis.secret.md) 
+### [Sanssouci.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinSanssouci.secret.md)
+

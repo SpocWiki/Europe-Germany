@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.58,12.03] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schoenhausen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Elbe-Havel-Land/City/Schoenhausen.md) 
+### [Schoenhausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Elbe-Havel-Land\CitySchoenhausen.public.md) 
 
-### [Schoenhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Elbe-Havel-Land/City/Schoenhausen.internal.md) 
+### [Schoenhausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Elbe-Havel-Land\CitySchoenhausen.internal.md) 
 
-### [Schoenhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Elbe-Havel-Land/City/Schoenhausen.protect.md) 
+### [Schoenhausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Elbe-Havel-Land\CitySchoenhausen.protect.md) 
 
-### [Schoenhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Elbe-Havel-Land/City/Schoenhausen.private.md) 
+### [Schoenhausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Elbe-Havel-Land\CitySchoenhausen.private.md) 
 
-### [Schoenhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Elbe-Havel-Land/City/Schoenhausen.personal.md) 
+### [Schoenhausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Elbe-Havel-Land\CitySchoenhausen.personal.md) 
 
-### [Schoenhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Elbe-Havel-Land/City/Schoenhausen.secret.md) 
+### [Schoenhausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Elbe-Havel-Land\CitySchoenhausen.secret.md)
+

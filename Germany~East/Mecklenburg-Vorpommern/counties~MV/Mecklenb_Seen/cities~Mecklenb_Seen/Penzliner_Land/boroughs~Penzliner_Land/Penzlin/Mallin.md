@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.53,13.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mallin](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Penzliner_Land/boroughs~Penzliner_Land/Penzlin/Mallin.md) 
+### [Mallin.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Penzliner_Land\boroughs~Penzliner_Land\PenzlinMallin.public.md) 
 
-### [Mallin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Penzliner_Land/boroughs~Penzliner_Land/Penzlin/Mallin.internal.md) 
+### [Mallin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Penzliner_Land\boroughs~Penzliner_Land\PenzlinMallin.internal.md) 
 
-### [Mallin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Penzliner_Land/boroughs~Penzliner_Land/Penzlin/Mallin.protect.md) 
+### [Mallin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Penzliner_Land\boroughs~Penzliner_Land\PenzlinMallin.protect.md) 
 
-### [Mallin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Penzliner_Land/boroughs~Penzliner_Land/Penzlin/Mallin.private.md) 
+### [Mallin.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Penzliner_Land\boroughs~Penzliner_Land\PenzlinMallin.private.md) 
 
-### [Mallin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Penzliner_Land/boroughs~Penzliner_Land/Penzlin/Mallin.personal.md) 
+### [Mallin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Penzliner_Land\boroughs~Penzliner_Land\PenzlinMallin.personal.md) 
 
-### [Mallin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Penzliner_Land/boroughs~Penzliner_Land/Penzlin/Mallin.secret.md) 
+### [Mallin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Penzliner_Land\boroughs~Penzliner_Land\PenzlinMallin.secret.md)
+

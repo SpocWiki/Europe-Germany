@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.33,10.98] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grasleben-borough](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Grasleben/boroughs~Grasleben/Grasleben-borough.md) 
+### [Grasleben-borough.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Helmstedt\cities~Helmstedt\Grasleben\boroughs~GraslebenGrasleben-borough.public.md) 
 
-### [Grasleben-borough.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Grasleben/boroughs~Grasleben/Grasleben-borough.internal.md) 
+### [Grasleben-borough.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Helmstedt\cities~Helmstedt\Grasleben\boroughs~GraslebenGrasleben-borough.internal.md) 
 
-### [Grasleben-borough.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Grasleben/boroughs~Grasleben/Grasleben-borough.protect.md) 
+### [Grasleben-borough.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Helmstedt\cities~Helmstedt\Grasleben\boroughs~GraslebenGrasleben-borough.protect.md) 
 
-### [Grasleben-borough.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Grasleben/boroughs~Grasleben/Grasleben-borough.private.md) 
+### [Grasleben-borough.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Helmstedt\cities~Helmstedt\Grasleben\boroughs~GraslebenGrasleben-borough.private.md) 
 
-### [Grasleben-borough.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Grasleben/boroughs~Grasleben/Grasleben-borough.personal.md) 
+### [Grasleben-borough.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Helmstedt\cities~Helmstedt\Grasleben\boroughs~GraslebenGrasleben-borough.personal.md) 
 
-### [Grasleben-borough.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Grasleben/boroughs~Grasleben/Grasleben-borough.secret.md) 
+### [Grasleben-borough.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Helmstedt\cities~Helmstedt\Grasleben\boroughs~GraslebenGrasleben-borough.secret.md)
+

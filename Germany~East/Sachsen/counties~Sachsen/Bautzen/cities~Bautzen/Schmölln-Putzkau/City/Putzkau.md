@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.1,14.25] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Putzkau](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Schmölln-Putzkau/City/Putzkau.md) 
+### [Putzkau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Schmölln-Putzkau\CityPutzkau.public.md) 
 
-### [Putzkau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Schmölln-Putzkau/City/Putzkau.internal.md) 
+### [Putzkau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Schmölln-Putzkau\CityPutzkau.internal.md) 
 
-### [Putzkau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Schmölln-Putzkau/City/Putzkau.protect.md) 
+### [Putzkau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Schmölln-Putzkau\CityPutzkau.protect.md) 
 
-### [Putzkau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Schmölln-Putzkau/City/Putzkau.private.md) 
+### [Putzkau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Schmölln-Putzkau\CityPutzkau.private.md) 
 
-### [Putzkau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Schmölln-Putzkau/City/Putzkau.personal.md) 
+### [Putzkau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Schmölln-Putzkau\CityPutzkau.personal.md) 
 
-### [Putzkau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Schmölln-Putzkau/City/Putzkau.secret.md) 
+### [Putzkau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Schmölln-Putzkau\CityPutzkau.secret.md)
+

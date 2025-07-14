@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.65,12.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schwinkendorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Waren,Seen/boroughs~Waren,Seen/Moltzow/Schwinkendorf.md) 
+### [Schwinkendorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Waren,Seen\boroughs~Waren,Seen\MoltzowSchwinkendorf.public.md) 
 
-### [Schwinkendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Waren,Seen/boroughs~Waren,Seen/Moltzow/Schwinkendorf.internal.md) 
+### [Schwinkendorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Waren,Seen\boroughs~Waren,Seen\MoltzowSchwinkendorf.internal.md) 
 
-### [Schwinkendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Waren,Seen/boroughs~Waren,Seen/Moltzow/Schwinkendorf.protect.md) 
+### [Schwinkendorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Waren,Seen\boroughs~Waren,Seen\MoltzowSchwinkendorf.protect.md) 
 
-### [Schwinkendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Waren,Seen/boroughs~Waren,Seen/Moltzow/Schwinkendorf.private.md) 
+### [Schwinkendorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Waren,Seen\boroughs~Waren,Seen\MoltzowSchwinkendorf.private.md) 
 
-### [Schwinkendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Waren,Seen/boroughs~Waren,Seen/Moltzow/Schwinkendorf.personal.md) 
+### [Schwinkendorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Waren,Seen\boroughs~Waren,Seen\MoltzowSchwinkendorf.personal.md) 
 
-### [Schwinkendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Waren,Seen/boroughs~Waren,Seen/Moltzow/Schwinkendorf.secret.md) 
+### [Schwinkendorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Waren,Seen\boroughs~Waren,Seen\MoltzowSchwinkendorf.secret.md)
+

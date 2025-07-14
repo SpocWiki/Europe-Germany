@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.08,8.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dotzheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Dotzheim.md) 
+### [Dotzheim.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenDotzheim.public.md) 
 
-### [Dotzheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Dotzheim.internal.md) 
+### [Dotzheim.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenDotzheim.internal.md) 
 
-### [Dotzheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Dotzheim.protect.md) 
+### [Dotzheim.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenDotzheim.protect.md) 
 
-### [Dotzheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Dotzheim.private.md) 
+### [Dotzheim.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenDotzheim.private.md) 
 
-### [Dotzheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Dotzheim.personal.md) 
+### [Dotzheim.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenDotzheim.personal.md) 
 
-### [Dotzheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Dotzheim.secret.md) 
+### [Dotzheim.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenDotzheim.secret.md)
+

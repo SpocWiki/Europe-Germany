@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.5,6.97] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neuenhaus](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Neuenhaus.md) 
+### [Neuenhaus.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Grafschaft_Bentheim\cities~BentheimNeuenhaus.public.md) 
 
-### [Neuenhaus.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Neuenhaus.internal.md) 
+### [Neuenhaus.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Grafschaft_Bentheim\cities~BentheimNeuenhaus.internal.md) 
 
-### [Neuenhaus.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Neuenhaus.protect.md) 
+### [Neuenhaus.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Grafschaft_Bentheim\cities~BentheimNeuenhaus.protect.md) 
 
-### [Neuenhaus.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Neuenhaus.private.md) 
+### [Neuenhaus.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Grafschaft_Bentheim\cities~BentheimNeuenhaus.private.md) 
 
-### [Neuenhaus.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Neuenhaus.personal.md) 
+### [Neuenhaus.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Grafschaft_Bentheim\cities~BentheimNeuenhaus.personal.md) 
 
-### [Neuenhaus.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Neuenhaus.secret.md) 
+### [Neuenhaus.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Grafschaft_Bentheim\cities~BentheimNeuenhaus.secret.md)
+

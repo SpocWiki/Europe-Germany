@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.32,6.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fraulautern](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Schwalbach/Fraulautern.md) 
+### [Fraulautern.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarlouis\cities~Saarlouis\SchwalbachFraulautern.public.md) 
 
-### [Fraulautern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Schwalbach/Fraulautern.internal.md) 
+### [Fraulautern.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarlouis\cities~Saarlouis\SchwalbachFraulautern.internal.md) 
 
-### [Fraulautern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Schwalbach/Fraulautern.protect.md) 
+### [Fraulautern.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarlouis\cities~Saarlouis\SchwalbachFraulautern.protect.md) 
 
-### [Fraulautern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Schwalbach/Fraulautern.private.md) 
+### [Fraulautern.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarlouis\cities~Saarlouis\SchwalbachFraulautern.private.md) 
 
-### [Fraulautern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Schwalbach/Fraulautern.personal.md) 
+### [Fraulautern.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarlouis\cities~Saarlouis\SchwalbachFraulautern.personal.md) 
 
-### [Fraulautern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Schwalbach/Fraulautern.secret.md) 
+### [Fraulautern.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarlouis\cities~Saarlouis\SchwalbachFraulautern.secret.md)
+

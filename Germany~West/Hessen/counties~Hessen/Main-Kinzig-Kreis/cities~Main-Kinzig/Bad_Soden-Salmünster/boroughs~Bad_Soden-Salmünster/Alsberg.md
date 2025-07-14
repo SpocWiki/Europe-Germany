@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.27,9.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alsberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Bad_Soden-Salmünster/boroughs~Bad_Soden-Salmünster/Alsberg.md) 
+### [Alsberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Bad_Soden-Salmünster\boroughs~Bad_Soden-SalmünsterAlsberg.public.md) 
 
-### [Alsberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Bad_Soden-Salmünster/boroughs~Bad_Soden-Salmünster/Alsberg.internal.md) 
+### [Alsberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Bad_Soden-Salmünster\boroughs~Bad_Soden-SalmünsterAlsberg.internal.md) 
 
-### [Alsberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Bad_Soden-Salmünster/boroughs~Bad_Soden-Salmünster/Alsberg.protect.md) 
+### [Alsberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Bad_Soden-Salmünster\boroughs~Bad_Soden-SalmünsterAlsberg.protect.md) 
 
-### [Alsberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Bad_Soden-Salmünster/boroughs~Bad_Soden-Salmünster/Alsberg.private.md) 
+### [Alsberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Bad_Soden-Salmünster\boroughs~Bad_Soden-SalmünsterAlsberg.private.md) 
 
-### [Alsberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Bad_Soden-Salmünster/boroughs~Bad_Soden-Salmünster/Alsberg.personal.md) 
+### [Alsberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Bad_Soden-Salmünster\boroughs~Bad_Soden-SalmünsterAlsberg.personal.md) 
 
-### [Alsberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Bad_Soden-Salmünster/boroughs~Bad_Soden-Salmünster/Alsberg.secret.md) 
+### [Alsberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Bad_Soden-Salmünster\boroughs~Bad_Soden-SalmünsterAlsberg.secret.md)
+

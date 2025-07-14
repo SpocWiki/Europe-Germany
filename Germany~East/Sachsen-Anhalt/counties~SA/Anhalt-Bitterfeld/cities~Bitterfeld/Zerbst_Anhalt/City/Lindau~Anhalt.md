@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.03,12.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lindau~Anhalt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Lindau~Anhalt.md) 
+### [Lindau~Anhalt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Zerbst_Anhalt\CityLindau~Anhalt.public.md) 
 
-### [Lindau~Anhalt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Lindau~Anhalt.internal.md) 
+### [Lindau~Anhalt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Zerbst_Anhalt\CityLindau~Anhalt.internal.md) 
 
-### [Lindau~Anhalt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Lindau~Anhalt.protect.md) 
+### [Lindau~Anhalt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Zerbst_Anhalt\CityLindau~Anhalt.protect.md) 
 
-### [Lindau~Anhalt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Lindau~Anhalt.private.md) 
+### [Lindau~Anhalt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Zerbst_Anhalt\CityLindau~Anhalt.private.md) 
 
-### [Lindau~Anhalt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Lindau~Anhalt.personal.md) 
+### [Lindau~Anhalt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Zerbst_Anhalt\CityLindau~Anhalt.personal.md) 
 
-### [Lindau~Anhalt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Lindau~Anhalt.secret.md) 
+### [Lindau~Anhalt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Zerbst_Anhalt\CityLindau~Anhalt.secret.md)
+

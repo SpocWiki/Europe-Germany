@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.07,11.92] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hohenfelde](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Doberan,Land/boroughs~Doberan,Land/Hohenfelde.md) 
+### [Hohenfelde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Doberan,Land\boroughs~Doberan,LandHohenfelde.public.md) 
 
-### [Hohenfelde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Doberan,Land/boroughs~Doberan,Land/Hohenfelde.internal.md) 
+### [Hohenfelde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Doberan,Land\boroughs~Doberan,LandHohenfelde.internal.md) 
 
-### [Hohenfelde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Doberan,Land/boroughs~Doberan,Land/Hohenfelde.protect.md) 
+### [Hohenfelde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Doberan,Land\boroughs~Doberan,LandHohenfelde.protect.md) 
 
-### [Hohenfelde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Doberan,Land/boroughs~Doberan,Land/Hohenfelde.private.md) 
+### [Hohenfelde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Doberan,Land\boroughs~Doberan,LandHohenfelde.private.md) 
 
-### [Hohenfelde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Doberan,Land/boroughs~Doberan,Land/Hohenfelde.personal.md) 
+### [Hohenfelde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Doberan,Land\boroughs~Doberan,LandHohenfelde.personal.md) 
 
-### [Hohenfelde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Doberan,Land/boroughs~Doberan,Land/Hohenfelde.secret.md) 
+### [Hohenfelde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Doberan,Land\boroughs~Doberan,LandHohenfelde.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.23,8.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bardenfleth](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Schwanewede/boroughs~Schwanewede/Bardenfleth.md) 
+### [Bardenfleth.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterholz\cities~Osterholz\Schwanewede\boroughs~SchwanewedeBardenfleth.public.md) 
 
-### [Bardenfleth.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Schwanewede/boroughs~Schwanewede/Bardenfleth.internal.md) 
+### [Bardenfleth.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterholz\cities~Osterholz\Schwanewede\boroughs~SchwanewedeBardenfleth.internal.md) 
 
-### [Bardenfleth.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Schwanewede/boroughs~Schwanewede/Bardenfleth.protect.md) 
+### [Bardenfleth.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterholz\cities~Osterholz\Schwanewede\boroughs~SchwanewedeBardenfleth.protect.md) 
 
-### [Bardenfleth.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Schwanewede/boroughs~Schwanewede/Bardenfleth.private.md) 
+### [Bardenfleth.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterholz\cities~Osterholz\Schwanewede\boroughs~SchwanewedeBardenfleth.private.md) 
 
-### [Bardenfleth.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Schwanewede/boroughs~Schwanewede/Bardenfleth.personal.md) 
+### [Bardenfleth.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterholz\cities~Osterholz\Schwanewede\boroughs~SchwanewedeBardenfleth.personal.md) 
 
-### [Bardenfleth.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Schwanewede/boroughs~Schwanewede/Bardenfleth.secret.md) 
+### [Bardenfleth.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterholz\cities~Osterholz\Schwanewede\boroughs~SchwanewedeBardenfleth.secret.md)
+

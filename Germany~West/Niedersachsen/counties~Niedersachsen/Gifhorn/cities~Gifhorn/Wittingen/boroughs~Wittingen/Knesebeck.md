@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.68,10.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Knesebeck](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/boroughs~Wittingen/Knesebeck.md) 
+### [Knesebeck.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Wittingen\boroughs~WittingenKnesebeck.public.md) 
 
-### [Knesebeck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/boroughs~Wittingen/Knesebeck.internal.md) 
+### [Knesebeck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Wittingen\boroughs~WittingenKnesebeck.internal.md) 
 
-### [Knesebeck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/boroughs~Wittingen/Knesebeck.protect.md) 
+### [Knesebeck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Wittingen\boroughs~WittingenKnesebeck.protect.md) 
 
-### [Knesebeck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/boroughs~Wittingen/Knesebeck.private.md) 
+### [Knesebeck.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Wittingen\boroughs~WittingenKnesebeck.private.md) 
 
-### [Knesebeck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/boroughs~Wittingen/Knesebeck.personal.md) 
+### [Knesebeck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Wittingen\boroughs~WittingenKnesebeck.personal.md) 
 
-### [Knesebeck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/boroughs~Wittingen/Knesebeck.secret.md) 
+### [Knesebeck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Wittingen\boroughs~WittingenKnesebeck.secret.md)
+

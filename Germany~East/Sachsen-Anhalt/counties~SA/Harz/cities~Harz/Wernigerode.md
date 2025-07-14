@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.83,10.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -37,16 +37,18 @@ zu den eindrucksvollen Sehenswürdigkeiten.
 Ein Spaziergang durch das Heideviertel ist geprägt 
 von den alten Fachwerkfassaden und den kopfsteingepflasterten Straßen.
 
+
 ## Confidential Links & Embeds: 
 
-### [Wernigerode](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Wernigerode.md) 
+### [Wernigerode.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~HarzWernigerode.public.md) 
 
-### [Wernigerode.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Wernigerode.internal.md) 
+### [Wernigerode.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~HarzWernigerode.internal.md) 
 
-### [Wernigerode.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Wernigerode.protect.md) 
+### [Wernigerode.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~HarzWernigerode.protect.md) 
 
-### [Wernigerode.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Wernigerode.private.md) 
+### [Wernigerode.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~HarzWernigerode.private.md) 
 
-### [Wernigerode.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Wernigerode.personal.md) 
+### [Wernigerode.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~HarzWernigerode.personal.md) 
 
-### [Wernigerode.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Wernigerode.secret.md) 
+### [Wernigerode.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~HarzWernigerode.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.32,6.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kaldenkirchen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Kaldenkirchen.md) 
+### [Kaldenkirchen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\NettetalKaldenkirchen.public.md) 
 
-### [Kaldenkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Kaldenkirchen.internal.md) 
+### [Kaldenkirchen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\NettetalKaldenkirchen.internal.md) 
 
-### [Kaldenkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Kaldenkirchen.protect.md) 
+### [Kaldenkirchen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\NettetalKaldenkirchen.protect.md) 
 
-### [Kaldenkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Kaldenkirchen.private.md) 
+### [Kaldenkirchen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\NettetalKaldenkirchen.private.md) 
 
-### [Kaldenkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Kaldenkirchen.personal.md) 
+### [Kaldenkirchen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\NettetalKaldenkirchen.personal.md) 
 
-### [Kaldenkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Kaldenkirchen.secret.md) 
+### [Kaldenkirchen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\NettetalKaldenkirchen.secret.md)
+

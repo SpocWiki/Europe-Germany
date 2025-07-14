@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.93,8.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Laasphe,Bad](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Laasphe,Bad.md) 
+### [Laasphe,Bad.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-WittgensteinLaasphe,Bad.public.md) 
 
-### [Laasphe,Bad.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Laasphe,Bad.internal.md) 
+### [Laasphe,Bad.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-WittgensteinLaasphe,Bad.internal.md) 
 
-### [Laasphe,Bad.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Laasphe,Bad.protect.md) 
+### [Laasphe,Bad.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-WittgensteinLaasphe,Bad.protect.md) 
 
-### [Laasphe,Bad.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Laasphe,Bad.private.md) 
+### [Laasphe,Bad.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-WittgensteinLaasphe,Bad.private.md) 
 
-### [Laasphe,Bad.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Laasphe,Bad.personal.md) 
+### [Laasphe,Bad.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-WittgensteinLaasphe,Bad.personal.md) 
 
-### [Laasphe,Bad.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Laasphe,Bad.secret.md) 
+### [Laasphe,Bad.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-WittgensteinLaasphe,Bad.secret.md)
+

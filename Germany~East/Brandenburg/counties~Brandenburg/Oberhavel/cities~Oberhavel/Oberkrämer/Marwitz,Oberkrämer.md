@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.67,13.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marwitz,Oberkrämer](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Oberkrämer/Marwitz,Oberkrämer.md) 
+### [Marwitz,Oberkrämer.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\OberkrämerMarwitz,Oberkrämer.public.md) 
 
-### [Marwitz,Oberkrämer.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Oberkrämer/Marwitz,Oberkrämer.internal.md) 
+### [Marwitz,Oberkrämer.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\OberkrämerMarwitz,Oberkrämer.internal.md) 
 
-### [Marwitz,Oberkrämer.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Oberkrämer/Marwitz,Oberkrämer.protect.md) 
+### [Marwitz,Oberkrämer.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\OberkrämerMarwitz,Oberkrämer.protect.md) 
 
-### [Marwitz,Oberkrämer.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Oberkrämer/Marwitz,Oberkrämer.private.md) 
+### [Marwitz,Oberkrämer.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\OberkrämerMarwitz,Oberkrämer.private.md) 
 
-### [Marwitz,Oberkrämer.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Oberkrämer/Marwitz,Oberkrämer.personal.md) 
+### [Marwitz,Oberkrämer.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\OberkrämerMarwitz,Oberkrämer.personal.md) 
 
-### [Marwitz,Oberkrämer.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Oberkrämer/Marwitz,Oberkrämer.secret.md) 
+### [Marwitz,Oberkrämer.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\OberkrämerMarwitz,Oberkrämer.secret.md)
+

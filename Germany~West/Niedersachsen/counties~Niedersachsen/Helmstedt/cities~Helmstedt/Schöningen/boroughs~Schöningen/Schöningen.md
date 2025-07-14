@@ -1,4 +1,4 @@
-﻿---
+---
 location:
   - 52.15
   - 10.97
@@ -37,14 +37,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schöningen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Schöningen/boroughs~Schöningen/Schöningen.md) 
+### [Schöningen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Helmstedt\cities~Helmstedt\Schöningen\boroughs~SchöningenSchöningen.public.md) 
 
-### [Schöningen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Schöningen/boroughs~Schöningen/Schöningen.internal.md) 
+### [Schöningen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Helmstedt\cities~Helmstedt\Schöningen\boroughs~SchöningenSchöningen.internal.md) 
 
-### [Schöningen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Schöningen/boroughs~Schöningen/Schöningen.protect.md) 
+### [Schöningen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Helmstedt\cities~Helmstedt\Schöningen\boroughs~SchöningenSchöningen.protect.md) 
 
-### [Schöningen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Schöningen/boroughs~Schöningen/Schöningen.private.md) 
+### [Schöningen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Helmstedt\cities~Helmstedt\Schöningen\boroughs~SchöningenSchöningen.private.md) 
 
-### [Schöningen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Schöningen/boroughs~Schöningen/Schöningen.personal.md) 
+### [Schöningen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Helmstedt\cities~Helmstedt\Schöningen\boroughs~SchöningenSchöningen.personal.md) 
 
-### [Schöningen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Schöningen/boroughs~Schöningen/Schöningen.secret.md) 
+### [Schöningen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Helmstedt\cities~Helmstedt\Schöningen\boroughs~SchöningenSchöningen.secret.md)
+

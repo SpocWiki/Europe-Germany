@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.119,8.689571] 
 type: Station 
 mapzoom: [8,18] 
@@ -33,14 +33,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [T-Hessendenkmal](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Hessendenkmal.md) 
+### [T-Hessendenkmal.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Hessendenkmal.public.md) 
 
-### [T-Hessendenkmal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Hessendenkmal.internal.md) 
+### [T-Hessendenkmal.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Hessendenkmal.internal.md) 
 
-### [T-Hessendenkmal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Hessendenkmal.protect.md) 
+### [T-Hessendenkmal.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Hessendenkmal.protect.md) 
 
-### [T-Hessendenkmal.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Hessendenkmal.private.md) 
+### [T-Hessendenkmal.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Hessendenkmal.private.md) 
 
-### [T-Hessendenkmal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Hessendenkmal.personal.md) 
+### [T-Hessendenkmal.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Hessendenkmal.personal.md) 
 
-### [T-Hessendenkmal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Hessendenkmal.secret.md) 
+### [T-Hessendenkmal.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Hessendenkmal.secret.md)
+

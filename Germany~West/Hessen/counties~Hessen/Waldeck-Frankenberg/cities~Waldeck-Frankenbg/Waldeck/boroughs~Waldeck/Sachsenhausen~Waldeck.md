@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.25,9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sachsenhausen~Waldeck](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Waldeck/boroughs~Waldeck/Sachsenhausen~Waldeck.md) 
+### [Sachsenhausen~Waldeck.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-Frankenbg\Waldeck\boroughs~WaldeckSachsenhausen~Waldeck.public.md) 
 
-### [Sachsenhausen~Waldeck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Waldeck/boroughs~Waldeck/Sachsenhausen~Waldeck.internal.md) 
+### [Sachsenhausen~Waldeck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-Frankenbg\Waldeck\boroughs~WaldeckSachsenhausen~Waldeck.internal.md) 
 
-### [Sachsenhausen~Waldeck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Waldeck/boroughs~Waldeck/Sachsenhausen~Waldeck.protect.md) 
+### [Sachsenhausen~Waldeck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-Frankenbg\Waldeck\boroughs~WaldeckSachsenhausen~Waldeck.protect.md) 
 
-### [Sachsenhausen~Waldeck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Waldeck/boroughs~Waldeck/Sachsenhausen~Waldeck.private.md) 
+### [Sachsenhausen~Waldeck.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-Frankenbg\Waldeck\boroughs~WaldeckSachsenhausen~Waldeck.private.md) 
 
-### [Sachsenhausen~Waldeck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Waldeck/boroughs~Waldeck/Sachsenhausen~Waldeck.personal.md) 
+### [Sachsenhausen~Waldeck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-Frankenbg\Waldeck\boroughs~WaldeckSachsenhausen~Waldeck.personal.md) 
 
-### [Sachsenhausen~Waldeck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Waldeck/boroughs~Waldeck/Sachsenhausen~Waldeck.secret.md) 
+### [Sachsenhausen~Waldeck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-Frankenbg\Waldeck\boroughs~WaldeckSachsenhausen~Waldeck.secret.md)
+

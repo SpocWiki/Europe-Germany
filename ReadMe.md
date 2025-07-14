@@ -845,18 +845,17 @@ Capital :: [[Berlin]]
 [has_place_latitude::50.8699] 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [ReadMe](/_public/Earth/Continent/Europe/Europe~Central/Germany/ReadMe.md) 
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~Central\GermanyReadMe.public.md) 
 
-### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/ReadMe.internal.md) 
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\GermanyReadMe.internal.md) 
 
-### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/ReadMe.protect.md) 
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\GermanyReadMe.protect.md) 
 
-### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/ReadMe.private.md) 
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~Central\GermanyReadMe.private.md) 
 
-### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/ReadMe.personal.md) 
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\GermanyReadMe.personal.md) 
 
-### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/ReadMe.secret.md) 
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\GermanyReadMe.secret.md)
+

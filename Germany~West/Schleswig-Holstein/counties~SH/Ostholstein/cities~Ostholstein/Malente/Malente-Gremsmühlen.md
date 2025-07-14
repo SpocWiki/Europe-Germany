@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.18,10.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Malente-Gremsmühlen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Malente/Malente-Gremsmühlen.md) 
+### [Malente-Gremsmühlen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~Ostholstein\MalenteMalente-Gremsmühlen.public.md) 
 
-### [Malente-Gremsmühlen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Malente/Malente-Gremsmühlen.internal.md) 
+### [Malente-Gremsmühlen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~Ostholstein\MalenteMalente-Gremsmühlen.internal.md) 
 
-### [Malente-Gremsmühlen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Malente/Malente-Gremsmühlen.protect.md) 
+### [Malente-Gremsmühlen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~Ostholstein\MalenteMalente-Gremsmühlen.protect.md) 
 
-### [Malente-Gremsmühlen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Malente/Malente-Gremsmühlen.private.md) 
+### [Malente-Gremsmühlen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~Ostholstein\MalenteMalente-Gremsmühlen.private.md) 
 
-### [Malente-Gremsmühlen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Malente/Malente-Gremsmühlen.personal.md) 
+### [Malente-Gremsmühlen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~Ostholstein\MalenteMalente-Gremsmühlen.personal.md) 
 
-### [Malente-Gremsmühlen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Malente/Malente-Gremsmühlen.secret.md) 
+### [Malente-Gremsmühlen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~Ostholstein\MalenteMalente-Gremsmühlen.secret.md)
+

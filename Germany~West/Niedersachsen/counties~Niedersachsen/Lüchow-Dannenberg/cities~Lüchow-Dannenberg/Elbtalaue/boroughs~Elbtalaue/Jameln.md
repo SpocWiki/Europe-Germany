@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.05,11.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jameln](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Jameln.md) 
+### [Jameln.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüchow-Dannenberg\cities~Lüchow-Dannenberg\Elbtalaue\boroughs~ElbtalaueJameln.public.md) 
 
-### [Jameln.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Jameln.internal.md) 
+### [Jameln.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüchow-Dannenberg\cities~Lüchow-Dannenberg\Elbtalaue\boroughs~ElbtalaueJameln.internal.md) 
 
-### [Jameln.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Jameln.protect.md) 
+### [Jameln.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüchow-Dannenberg\cities~Lüchow-Dannenberg\Elbtalaue\boroughs~ElbtalaueJameln.protect.md) 
 
-### [Jameln.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Jameln.private.md) 
+### [Jameln.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüchow-Dannenberg\cities~Lüchow-Dannenberg\Elbtalaue\boroughs~ElbtalaueJameln.private.md) 
 
-### [Jameln.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Jameln.personal.md) 
+### [Jameln.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüchow-Dannenberg\cities~Lüchow-Dannenberg\Elbtalaue\boroughs~ElbtalaueJameln.personal.md) 
 
-### [Jameln.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Jameln.secret.md) 
+### [Jameln.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüchow-Dannenberg\cities~Lüchow-Dannenberg\Elbtalaue\boroughs~ElbtalaueJameln.secret.md)
+

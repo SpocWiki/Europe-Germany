@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.276, 10.65] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Blekendorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf.md) 
+### [Blekendorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Lütjenburg\boroughs~LütjenburgBlekendorf.public.md) 
 
-### [Blekendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf.internal.md) 
+### [Blekendorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Lütjenburg\boroughs~LütjenburgBlekendorf.internal.md) 
 
-### [Blekendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf.protect.md) 
+### [Blekendorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Lütjenburg\boroughs~LütjenburgBlekendorf.protect.md) 
 
-### [Blekendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf.private.md) 
+### [Blekendorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Lütjenburg\boroughs~LütjenburgBlekendorf.private.md) 
 
-### [Blekendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf.personal.md) 
+### [Blekendorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Lütjenburg\boroughs~LütjenburgBlekendorf.personal.md) 
 
-### [Blekendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf.secret.md) 
+### [Blekendorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Lütjenburg\boroughs~LütjenburgBlekendorf.secret.md)
+

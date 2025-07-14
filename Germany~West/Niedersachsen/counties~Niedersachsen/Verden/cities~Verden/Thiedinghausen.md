@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.97,9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Thiedinghausen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Thiedinghausen.md) 
+### [Thiedinghausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Verden\cities~VerdenThiedinghausen.public.md) 
 
-### [Thiedinghausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Thiedinghausen.internal.md) 
+### [Thiedinghausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Verden\cities~VerdenThiedinghausen.internal.md) 
 
-### [Thiedinghausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Thiedinghausen.protect.md) 
+### [Thiedinghausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Verden\cities~VerdenThiedinghausen.protect.md) 
 
-### [Thiedinghausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Thiedinghausen.private.md) 
+### [Thiedinghausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Verden\cities~VerdenThiedinghausen.private.md) 
 
-### [Thiedinghausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Thiedinghausen.personal.md) 
+### [Thiedinghausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Verden\cities~VerdenThiedinghausen.personal.md) 
 
-### [Thiedinghausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Thiedinghausen.secret.md) 
+### [Thiedinghausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Verden\cities~VerdenThiedinghausen.secret.md)
+

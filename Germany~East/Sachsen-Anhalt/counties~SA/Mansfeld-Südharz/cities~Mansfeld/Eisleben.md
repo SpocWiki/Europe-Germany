@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.53,11.53] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -35,16 +35,19 @@ maxZoom: 18
 
 [[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen-Anhalt/Eisleben~Luther-Denkmal.webp]]] ![[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen-Anhalt/Eisleben~Luther-Denkmal.webp]]] 
 Luthergedenkstätten in Eisleben und Wittenberg ( [[Unesco]] Welterbe seit 1996) 
+
+
 ## Confidential Links & Embeds: 
 
-### [Eisleben](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Eisleben.md) 
+### [Eisleben.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~MansfeldEisleben.public.md) 
 
-### [Eisleben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Eisleben.internal.md) 
+### [Eisleben.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~MansfeldEisleben.internal.md) 
 
-### [Eisleben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Eisleben.protect.md) 
+### [Eisleben.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~MansfeldEisleben.protect.md) 
 
-### [Eisleben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Eisleben.private.md) 
+### [Eisleben.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~MansfeldEisleben.private.md) 
 
-### [Eisleben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Eisleben.personal.md) 
+### [Eisleben.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~MansfeldEisleben.personal.md) 
 
-### [Eisleben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Eisleben.secret.md) 
+### [Eisleben.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~MansfeldEisleben.secret.md)
+

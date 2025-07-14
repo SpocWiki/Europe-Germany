@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.97,7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Köln-Muelheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Köln/Köln-Muelheim.md) 
+### [Köln-Muelheim.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln-Muelheim.public.md) 
 
-### [Köln-Muelheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Köln/Köln-Muelheim.internal.md) 
+### [Köln-Muelheim.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln-Muelheim.internal.md) 
 
-### [Köln-Muelheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Köln/Köln-Muelheim.protect.md) 
+### [Köln-Muelheim.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln-Muelheim.protect.md) 
 
-### [Köln-Muelheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Köln/Köln-Muelheim.private.md) 
+### [Köln-Muelheim.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln-Muelheim.private.md) 
 
-### [Köln-Muelheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Köln/Köln-Muelheim.personal.md) 
+### [Köln-Muelheim.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln-Muelheim.personal.md) 
 
-### [Köln-Muelheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Köln/Köln-Muelheim.secret.md) 
+### [Köln-Muelheim.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln-Muelheim.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.42,9.97] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gettorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Dänischer_Wohld/boroughs~Dänischer_Wohld/Gettorf.md) 
+### [Gettorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Rendsburg-Eckernförde\cities~Rendsburg\Dänischer_Wohld\boroughs~Dänischer_WohldGettorf.public.md) 
 
-### [Gettorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Dänischer_Wohld/boroughs~Dänischer_Wohld/Gettorf.internal.md) 
+### [Gettorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Rendsburg-Eckernförde\cities~Rendsburg\Dänischer_Wohld\boroughs~Dänischer_WohldGettorf.internal.md) 
 
-### [Gettorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Dänischer_Wohld/boroughs~Dänischer_Wohld/Gettorf.protect.md) 
+### [Gettorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Rendsburg-Eckernförde\cities~Rendsburg\Dänischer_Wohld\boroughs~Dänischer_WohldGettorf.protect.md) 
 
-### [Gettorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Dänischer_Wohld/boroughs~Dänischer_Wohld/Gettorf.private.md) 
+### [Gettorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Rendsburg-Eckernförde\cities~Rendsburg\Dänischer_Wohld\boroughs~Dänischer_WohldGettorf.private.md) 
 
-### [Gettorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Dänischer_Wohld/boroughs~Dänischer_Wohld/Gettorf.personal.md) 
+### [Gettorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Rendsburg-Eckernförde\cities~Rendsburg\Dänischer_Wohld\boroughs~Dänischer_WohldGettorf.personal.md) 
 
-### [Gettorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Dänischer_Wohld/boroughs~Dänischer_Wohld/Gettorf.secret.md) 
+### [Gettorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Rendsburg-Eckernförde\cities~Rendsburg\Dänischer_Wohld\boroughs~Dänischer_WohldGettorf.secret.md)
+

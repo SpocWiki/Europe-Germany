@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.33,8.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ostercappeln](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Belm/boroughs~Belm/Ostercappeln.md) 
+### [Ostercappeln.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Belm\boroughs~BelmOstercappeln.public.md) 
 
-### [Ostercappeln.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Belm/boroughs~Belm/Ostercappeln.internal.md) 
+### [Ostercappeln.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Belm\boroughs~BelmOstercappeln.internal.md) 
 
-### [Ostercappeln.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Belm/boroughs~Belm/Ostercappeln.protect.md) 
+### [Ostercappeln.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Belm\boroughs~BelmOstercappeln.protect.md) 
 
-### [Ostercappeln.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Belm/boroughs~Belm/Ostercappeln.private.md) 
+### [Ostercappeln.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Belm\boroughs~BelmOstercappeln.private.md) 
 
-### [Ostercappeln.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Belm/boroughs~Belm/Ostercappeln.personal.md) 
+### [Ostercappeln.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Belm\boroughs~BelmOstercappeln.personal.md) 
 
-### [Ostercappeln.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Belm/boroughs~Belm/Ostercappeln.secret.md) 
+### [Ostercappeln.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Belm\boroughs~BelmOstercappeln.secret.md)
+

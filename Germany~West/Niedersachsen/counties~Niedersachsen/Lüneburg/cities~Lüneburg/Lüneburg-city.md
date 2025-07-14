@@ -1,4 +1,4 @@
-﻿---
+---
 location:
   - 53.24
   - 10.41
@@ -39,14 +39,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lüneburg-city](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Lüneburg-city.md) 
+### [Lüneburg-city.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüneburg\cities~LüneburgLüneburg-city.public.md) 
 
-### [Lüneburg-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Lüneburg-city.internal.md) 
+### [Lüneburg-city.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüneburg\cities~LüneburgLüneburg-city.internal.md) 
 
-### [Lüneburg-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Lüneburg-city.protect.md) 
+### [Lüneburg-city.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüneburg\cities~LüneburgLüneburg-city.protect.md) 
 
-### [Lüneburg-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Lüneburg-city.private.md) 
+### [Lüneburg-city.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüneburg\cities~LüneburgLüneburg-city.private.md) 
 
-### [Lüneburg-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Lüneburg-city.personal.md) 
+### [Lüneburg-city.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüneburg\cities~LüneburgLüneburg-city.personal.md) 
 
-### [Lüneburg-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Lüneburg-city.secret.md) 
+### [Lüneburg-city.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüneburg\cities~LüneburgLüneburg-city.secret.md)
+

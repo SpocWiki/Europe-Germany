@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.0942,8.6715] 
 type: Station 
 mapzoom: [8,18] 
@@ -33,14 +33,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [S-Frankfurt~Main_Stresemannallee](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Stresemannallee.md) 
+### [S-Frankfurt~Main_Stresemannallee.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main_Stresemannallee.public.md) 
 
-### [S-Frankfurt~Main_Stresemannallee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Stresemannallee.internal.md) 
+### [S-Frankfurt~Main_Stresemannallee.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main_Stresemannallee.internal.md) 
 
-### [S-Frankfurt~Main_Stresemannallee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Stresemannallee.protect.md) 
+### [S-Frankfurt~Main_Stresemannallee.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main_Stresemannallee.protect.md) 
 
-### [S-Frankfurt~Main_Stresemannallee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Stresemannallee.private.md) 
+### [S-Frankfurt~Main_Stresemannallee.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main_Stresemannallee.private.md) 
 
-### [S-Frankfurt~Main_Stresemannallee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Stresemannallee.personal.md) 
+### [S-Frankfurt~Main_Stresemannallee.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main_Stresemannallee.personal.md) 
 
-### [S-Frankfurt~Main_Stresemannallee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Stresemannallee.secret.md) 
+### [S-Frankfurt~Main_Stresemannallee.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main_Stresemannallee.secret.md)
+

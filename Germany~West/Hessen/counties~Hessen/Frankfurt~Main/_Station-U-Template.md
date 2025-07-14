@@ -1,4 +1,4 @@
-﻿---
+---
 type: Station
 license: CC BY-SA 4.0
 publish: true
@@ -30,14 +30,15 @@ City :: [[../Frankfurt~Main]]
 
 ## Confidential Links & Embeds: 
 
-### [_Station-U-Template](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/_Station-U-Template.md) 
+### [_Station-U-Template.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main_Station-U-Template.public.md) 
 
-### [_Station-U-Template.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/_Station-U-Template.internal.md) 
+### [_Station-U-Template.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main_Station-U-Template.internal.md) 
 
-### [_Station-U-Template.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/_Station-U-Template.protect.md) 
+### [_Station-U-Template.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main_Station-U-Template.protect.md) 
 
-### [_Station-U-Template.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/_Station-U-Template.private.md) 
+### [_Station-U-Template.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main_Station-U-Template.private.md) 
 
-### [_Station-U-Template.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/_Station-U-Template.personal.md) 
+### [_Station-U-Template.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main_Station-U-Template.personal.md) 
 
-### [_Station-U-Template.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/_Station-U-Template.secret.md) 
+### [_Station-U-Template.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main_Station-U-Template.secret.md)
+

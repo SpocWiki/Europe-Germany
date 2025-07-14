@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.35,8.47] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Golzwarden](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Brake~Unterweser/boroughs~Brake/Golzwarden.md) 
+### [Golzwarden.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Brake~Unterweser\boroughs~BrakeGolzwarden.public.md) 
 
-### [Golzwarden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Brake~Unterweser/boroughs~Brake/Golzwarden.internal.md) 
+### [Golzwarden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Brake~Unterweser\boroughs~BrakeGolzwarden.internal.md) 
 
-### [Golzwarden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Brake~Unterweser/boroughs~Brake/Golzwarden.protect.md) 
+### [Golzwarden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Brake~Unterweser\boroughs~BrakeGolzwarden.protect.md) 
 
-### [Golzwarden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Brake~Unterweser/boroughs~Brake/Golzwarden.private.md) 
+### [Golzwarden.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Brake~Unterweser\boroughs~BrakeGolzwarden.private.md) 
 
-### [Golzwarden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Brake~Unterweser/boroughs~Brake/Golzwarden.personal.md) 
+### [Golzwarden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Brake~Unterweser\boroughs~BrakeGolzwarden.personal.md) 
 
-### [Golzwarden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Brake~Unterweser/boroughs~Brake/Golzwarden.secret.md) 
+### [Golzwarden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Brake~Unterweser\boroughs~BrakeGolzwarden.secret.md)
+

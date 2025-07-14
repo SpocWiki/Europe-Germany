@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.1,9.06] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Meldorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf.md) 
+### [Meldorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Dithmarschen\cities~Dithmarschen\Mitteldithmarschen\boroughs~MitteldithmarschenMeldorf.public.md) 
 
-### [Meldorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf.internal.md) 
+### [Meldorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Dithmarschen\cities~Dithmarschen\Mitteldithmarschen\boroughs~MitteldithmarschenMeldorf.internal.md) 
 
-### [Meldorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf.protect.md) 
+### [Meldorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Dithmarschen\cities~Dithmarschen\Mitteldithmarschen\boroughs~MitteldithmarschenMeldorf.protect.md) 
 
-### [Meldorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf.private.md) 
+### [Meldorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Dithmarschen\cities~Dithmarschen\Mitteldithmarschen\boroughs~MitteldithmarschenMeldorf.private.md) 
 
-### [Meldorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf.personal.md) 
+### [Meldorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Dithmarschen\cities~Dithmarschen\Mitteldithmarschen\boroughs~MitteldithmarschenMeldorf.personal.md) 
 
-### [Meldorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf.secret.md) 
+### [Meldorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Dithmarschen\cities~Dithmarschen\Mitteldithmarschen\boroughs~MitteldithmarschenMeldorf.secret.md)
+

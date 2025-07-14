@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q1198
 location:
 - 51.4279
@@ -170,17 +170,17 @@ Capital :: [[Duesseldorf]]
 [Population::] 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Nord_Rhein-Westfalen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen.md) 
+### [Nordrhein-Westfalen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestNordrhein-Westfalen.public.md) 
 
-### [Nord_Rhein-Westfalen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen.internal.md) 
+### [Nordrhein-Westfalen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestNordrhein-Westfalen.internal.md) 
 
-### [Nord_Rhein-Westfalen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen.protect.md) 
+### [Nordrhein-Westfalen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestNordrhein-Westfalen.protect.md) 
 
-### [Nord_Rhein-Westfalen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen.private.md) 
+### [Nordrhein-Westfalen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestNordrhein-Westfalen.private.md) 
 
-### [Nord_Rhein-Westfalen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen.personal.md) 
+### [Nordrhein-Westfalen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestNordrhein-Westfalen.personal.md) 
 
-### [Nord_Rhein-Westfalen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen.secret.md) 
+### [Nordrhein-Westfalen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestNordrhein-Westfalen.secret.md)
+

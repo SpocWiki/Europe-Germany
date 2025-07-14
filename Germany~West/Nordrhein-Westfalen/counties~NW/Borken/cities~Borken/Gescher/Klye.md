@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.93,7.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Klye](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Borken/cities~Borken/Gescher/Klye.md) 
+### [Klye.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\GescherKlye.public.md) 
 
-### [Klye.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Borken/cities~Borken/Gescher/Klye.internal.md) 
+### [Klye.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\GescherKlye.internal.md) 
 
-### [Klye.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Borken/cities~Borken/Gescher/Klye.protect.md) 
+### [Klye.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\GescherKlye.protect.md) 
 
-### [Klye.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Borken/cities~Borken/Gescher/Klye.private.md) 
+### [Klye.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\GescherKlye.private.md) 
 
-### [Klye.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Borken/cities~Borken/Gescher/Klye.personal.md) 
+### [Klye.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\GescherKlye.personal.md) 
 
-### [Klye.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Borken/cities~Borken/Gescher/Klye.secret.md) 
+### [Klye.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\GescherKlye.secret.md)
+

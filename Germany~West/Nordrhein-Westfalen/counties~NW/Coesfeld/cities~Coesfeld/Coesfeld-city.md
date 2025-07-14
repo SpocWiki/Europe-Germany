@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.95,7.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -36,14 +36,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Coesfeld-city](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Coesfeld-city.md) 
+### [Coesfeld-city.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~CoesfeldCoesfeld-city.public.md) 
 
-### [Coesfeld-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Coesfeld-city.internal.md) 
+### [Coesfeld-city.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~CoesfeldCoesfeld-city.internal.md) 
 
-### [Coesfeld-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Coesfeld-city.protect.md) 
+### [Coesfeld-city.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~CoesfeldCoesfeld-city.protect.md) 
 
-### [Coesfeld-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Coesfeld-city.private.md) 
+### [Coesfeld-city.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~CoesfeldCoesfeld-city.private.md) 
 
-### [Coesfeld-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Coesfeld-city.personal.md) 
+### [Coesfeld-city.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~CoesfeldCoesfeld-city.personal.md) 
 
-### [Coesfeld-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Coesfeld-city.secret.md) 
+### [Coesfeld-city.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~CoesfeldCoesfeld-city.secret.md)
+

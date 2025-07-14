@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 49.979 , 8.565384 ] 
 type: geo-Region
 title: FFM~S7
@@ -54,17 +54,17 @@ markerFolder: ./Station/
 1[[Stations-FFM~S/S-Riedstadt-Goddelau]]]]  
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FFM~S7](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~S7.md) 
+### [FFM~S7.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~S7.public.md) 
 
-### [FFM~S7.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~S7.internal.md) 
+### [FFM~S7.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~S7.internal.md) 
 
-### [FFM~S7.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~S7.protect.md) 
+### [FFM~S7.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~S7.protect.md) 
 
-### [FFM~S7.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~S7.private.md) 
+### [FFM~S7.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~S7.private.md) 
 
-### [FFM~S7.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~S7.personal.md) 
+### [FFM~S7.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~S7.personal.md) 
 
-### [FFM~S7.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~S7.secret.md) 
+### [FFM~S7.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~S7.secret.md)
+

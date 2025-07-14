@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.5,11.97] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Querfurt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale/City/Querfurt.md) 
+### [Querfurt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Halle~Saale\CityQuerfurt.public.md) 
 
-### [Querfurt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale/City/Querfurt.internal.md) 
+### [Querfurt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Halle~Saale\CityQuerfurt.internal.md) 
 
-### [Querfurt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale/City/Querfurt.protect.md) 
+### [Querfurt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Halle~Saale\CityQuerfurt.protect.md) 
 
-### [Querfurt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale/City/Querfurt.private.md) 
+### [Querfurt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Halle~Saale\CityQuerfurt.private.md) 
 
-### [Querfurt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale/City/Querfurt.personal.md) 
+### [Querfurt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Halle~Saale\CityQuerfurt.personal.md) 
 
-### [Querfurt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale/City/Querfurt.secret.md) 
+### [Querfurt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Halle~Saale\CityQuerfurt.secret.md)
+

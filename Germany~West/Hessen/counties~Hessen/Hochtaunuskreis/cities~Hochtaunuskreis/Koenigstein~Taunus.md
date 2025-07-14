@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.2,8.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Koenigstein~Taunus](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Koenigstein~Taunus.md) 
+### [Koenigstein~Taunus.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hochtaunuskreis\cities~HochtaunuskreisKoenigstein~Taunus.public.md) 
 
-### [Koenigstein~Taunus.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Koenigstein~Taunus.internal.md) 
+### [Koenigstein~Taunus.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hochtaunuskreis\cities~HochtaunuskreisKoenigstein~Taunus.internal.md) 
 
-### [Koenigstein~Taunus.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Koenigstein~Taunus.protect.md) 
+### [Koenigstein~Taunus.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hochtaunuskreis\cities~HochtaunuskreisKoenigstein~Taunus.protect.md) 
 
-### [Koenigstein~Taunus.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Koenigstein~Taunus.private.md) 
+### [Koenigstein~Taunus.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hochtaunuskreis\cities~HochtaunuskreisKoenigstein~Taunus.private.md) 
 
-### [Koenigstein~Taunus.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Koenigstein~Taunus.personal.md) 
+### [Koenigstein~Taunus.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hochtaunuskreis\cities~HochtaunuskreisKoenigstein~Taunus.personal.md) 
 
-### [Koenigstein~Taunus.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Koenigstein~Taunus.secret.md) 
+### [Koenigstein~Taunus.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hochtaunuskreis\cities~HochtaunuskreisKoenigstein~Taunus.secret.md)
+

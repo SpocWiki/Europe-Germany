@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.78,11.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -39,16 +39,18 @@ Der Dichter Friedrich Gottlieb Klopstock ist einer der berühmtesten Söhne Qued
 ![[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen-Anhalt/Quedlinburg.webp]]]
 Stiftskirche, Schloss und Altstadt von Quedlinburg ( [[Unesco]] Welterbe seit 1994) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Quedlinburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.md) 
+### [Quedlinburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~HarzQuedlinburg.public.md) 
 
-### [Quedlinburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.internal.md) 
+### [Quedlinburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~HarzQuedlinburg.internal.md) 
 
-### [Quedlinburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.protect.md) 
+### [Quedlinburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~HarzQuedlinburg.protect.md) 
 
-### [Quedlinburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.private.md) 
+### [Quedlinburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~HarzQuedlinburg.private.md) 
 
-### [Quedlinburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.personal.md) 
+### [Quedlinburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~HarzQuedlinburg.personal.md) 
 
-### [Quedlinburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.secret.md) 
+### [Quedlinburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~HarzQuedlinburg.secret.md)
+

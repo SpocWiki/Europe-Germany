@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.83,7.28] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dülmen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Dülmen.md) 
+### [Dülmen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~CoesfeldDülmen.public.md) 
 
-### [Dülmen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Dülmen.internal.md) 
+### [Dülmen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~CoesfeldDülmen.internal.md) 
 
-### [Dülmen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Dülmen.protect.md) 
+### [Dülmen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~CoesfeldDülmen.protect.md) 
 
-### [Dülmen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Dülmen.private.md) 
+### [Dülmen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~CoesfeldDülmen.private.md) 
 
-### [Dülmen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Dülmen.personal.md) 
+### [Dülmen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~CoesfeldDülmen.personal.md) 
 
-### [Dülmen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Dülmen.secret.md) 
+### [Dülmen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~CoesfeldDülmen.secret.md)
+

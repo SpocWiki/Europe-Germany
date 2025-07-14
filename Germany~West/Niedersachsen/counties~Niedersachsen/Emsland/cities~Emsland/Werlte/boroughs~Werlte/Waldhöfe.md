@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.82,7.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Waldhöfe](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Werlte/boroughs~Werlte/Waldhöfe.md) 
+### [Waldhöfe.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Werlte\boroughs~WerlteWaldhöfe.public.md) 
 
-### [Waldhöfe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Werlte/boroughs~Werlte/Waldhöfe.internal.md) 
+### [Waldhöfe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Werlte\boroughs~WerlteWaldhöfe.internal.md) 
 
-### [Waldhöfe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Werlte/boroughs~Werlte/Waldhöfe.protect.md) 
+### [Waldhöfe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Werlte\boroughs~WerlteWaldhöfe.protect.md) 
 
-### [Waldhöfe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Werlte/boroughs~Werlte/Waldhöfe.private.md) 
+### [Waldhöfe.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Werlte\boroughs~WerlteWaldhöfe.private.md) 
 
-### [Waldhöfe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Werlte/boroughs~Werlte/Waldhöfe.personal.md) 
+### [Waldhöfe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Werlte\boroughs~WerlteWaldhöfe.personal.md) 
 
-### [Waldhöfe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Werlte/boroughs~Werlte/Waldhöfe.secret.md) 
+### [Waldhöfe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Werlte\boroughs~WerlteWaldhöfe.secret.md)
+

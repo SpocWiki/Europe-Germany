@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.4,13.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nowawes](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam/Babelsberg/Nowawes.md) 
+### [Nowawes.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam\BabelsbergNowawes.public.md) 
 
-### [Nowawes.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam/Babelsberg/Nowawes.internal.md) 
+### [Nowawes.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam\BabelsbergNowawes.internal.md) 
 
-### [Nowawes.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam/Babelsberg/Nowawes.protect.md) 
+### [Nowawes.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam\BabelsbergNowawes.protect.md) 
 
-### [Nowawes.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam/Babelsberg/Nowawes.private.md) 
+### [Nowawes.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam\BabelsbergNowawes.private.md) 
 
-### [Nowawes.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam/Babelsberg/Nowawes.personal.md) 
+### [Nowawes.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam\BabelsbergNowawes.personal.md) 
 
-### [Nowawes.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam/Babelsberg/Nowawes.secret.md) 
+### [Nowawes.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam\BabelsbergNowawes.secret.md)
+

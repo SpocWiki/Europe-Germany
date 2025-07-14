@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.23,7.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vohwinkel,Wuppertal](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Vohwinkel,Wuppertal.md) 
+### [Vohwinkel,Wuppertal.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalVohwinkel,Wuppertal.public.md) 
 
-### [Vohwinkel,Wuppertal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Vohwinkel,Wuppertal.internal.md) 
+### [Vohwinkel,Wuppertal.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalVohwinkel,Wuppertal.internal.md) 
 
-### [Vohwinkel,Wuppertal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Vohwinkel,Wuppertal.protect.md) 
+### [Vohwinkel,Wuppertal.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalVohwinkel,Wuppertal.protect.md) 
 
-### [Vohwinkel,Wuppertal.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Vohwinkel,Wuppertal.private.md) 
+### [Vohwinkel,Wuppertal.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalVohwinkel,Wuppertal.private.md) 
 
-### [Vohwinkel,Wuppertal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Vohwinkel,Wuppertal.personal.md) 
+### [Vohwinkel,Wuppertal.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalVohwinkel,Wuppertal.personal.md) 
 
-### [Vohwinkel,Wuppertal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Wuppertal/Vohwinkel,Wuppertal.secret.md) 
+### [Vohwinkel,Wuppertal.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalVohwinkel,Wuppertal.secret.md)
+

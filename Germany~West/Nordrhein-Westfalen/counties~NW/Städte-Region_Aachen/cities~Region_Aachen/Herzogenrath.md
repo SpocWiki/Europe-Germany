@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.88,6.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Herzogenrath](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Herzogenrath.md) 
+### [Herzogenrath.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_AachenHerzogenrath.public.md) 
 
-### [Herzogenrath.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Herzogenrath.internal.md) 
+### [Herzogenrath.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_AachenHerzogenrath.internal.md) 
 
-### [Herzogenrath.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Herzogenrath.protect.md) 
+### [Herzogenrath.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_AachenHerzogenrath.protect.md) 
 
-### [Herzogenrath.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Herzogenrath.private.md) 
+### [Herzogenrath.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_AachenHerzogenrath.private.md) 
 
-### [Herzogenrath.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Herzogenrath.personal.md) 
+### [Herzogenrath.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_AachenHerzogenrath.personal.md) 
 
-### [Herzogenrath.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Herzogenrath.secret.md) 
+### [Herzogenrath.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_AachenHerzogenrath.secret.md)
+

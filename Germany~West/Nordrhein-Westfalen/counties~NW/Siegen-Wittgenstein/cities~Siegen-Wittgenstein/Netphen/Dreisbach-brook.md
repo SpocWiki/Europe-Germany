@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.92,8.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dreisbach-brook](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Netphen/Dreisbach-brook.md) 
+### [Dreisbach-brook.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-Wittgenstein\NetphenDreisbach-brook.public.md) 
 
-### [Dreisbach-brook.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Netphen/Dreisbach-brook.internal.md) 
+### [Dreisbach-brook.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-Wittgenstein\NetphenDreisbach-brook.internal.md) 
 
-### [Dreisbach-brook.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Netphen/Dreisbach-brook.protect.md) 
+### [Dreisbach-brook.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-Wittgenstein\NetphenDreisbach-brook.protect.md) 
 
-### [Dreisbach-brook.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Netphen/Dreisbach-brook.private.md) 
+### [Dreisbach-brook.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-Wittgenstein\NetphenDreisbach-brook.private.md) 
 
-### [Dreisbach-brook.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Netphen/Dreisbach-brook.personal.md) 
+### [Dreisbach-brook.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-Wittgenstein\NetphenDreisbach-brook.personal.md) 
 
-### [Dreisbach-brook.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Netphen/Dreisbach-brook.secret.md) 
+### [Dreisbach-brook.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-Wittgenstein\NetphenDreisbach-brook.secret.md)
+

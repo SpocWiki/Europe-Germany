@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.33,6.28] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hinsbeck,Nettetal](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal.md) 
+### [Hinsbeck,Nettetal.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\NettetalHinsbeck,Nettetal.public.md) 
 
-### [Hinsbeck,Nettetal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal.internal.md) 
+### [Hinsbeck,Nettetal.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\NettetalHinsbeck,Nettetal.internal.md) 
 
-### [Hinsbeck,Nettetal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal.protect.md) 
+### [Hinsbeck,Nettetal.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\NettetalHinsbeck,Nettetal.protect.md) 
 
-### [Hinsbeck,Nettetal.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal.private.md) 
+### [Hinsbeck,Nettetal.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\NettetalHinsbeck,Nettetal.private.md) 
 
-### [Hinsbeck,Nettetal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal.personal.md) 
+### [Hinsbeck,Nettetal.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\NettetalHinsbeck,Nettetal.personal.md) 
 
-### [Hinsbeck,Nettetal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal.secret.md) 
+### [Hinsbeck,Nettetal.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\NettetalHinsbeck,Nettetal.secret.md)
+

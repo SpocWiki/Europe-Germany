@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.37,8.28] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Idstein](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Selters~Taunus/boroughs~Selters~Taunus/Idstein.md) 
+### [Idstein.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-Weilburg\Selters~Taunus\boroughs~Selters~TaunusIdstein.public.md) 
 
-### [Idstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Selters~Taunus/boroughs~Selters~Taunus/Idstein.internal.md) 
+### [Idstein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-Weilburg\Selters~Taunus\boroughs~Selters~TaunusIdstein.internal.md) 
 
-### [Idstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Selters~Taunus/boroughs~Selters~Taunus/Idstein.protect.md) 
+### [Idstein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-Weilburg\Selters~Taunus\boroughs~Selters~TaunusIdstein.protect.md) 
 
-### [Idstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Selters~Taunus/boroughs~Selters~Taunus/Idstein.private.md) 
+### [Idstein.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-Weilburg\Selters~Taunus\boroughs~Selters~TaunusIdstein.private.md) 
 
-### [Idstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Selters~Taunus/boroughs~Selters~Taunus/Idstein.personal.md) 
+### [Idstein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-Weilburg\Selters~Taunus\boroughs~Selters~TaunusIdstein.personal.md) 
 
-### [Idstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Selters~Taunus/boroughs~Selters~Taunus/Idstein.secret.md) 
+### [Idstein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-Weilburg\Selters~Taunus\boroughs~Selters~TaunusIdstein.secret.md)
+

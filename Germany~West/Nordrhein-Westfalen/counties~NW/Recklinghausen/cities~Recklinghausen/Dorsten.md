@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.67,6.97] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dorsten](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Dorsten.md) 
+### [Dorsten.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenDorsten.public.md) 
 
-### [Dorsten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Dorsten.internal.md) 
+### [Dorsten.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenDorsten.internal.md) 
 
-### [Dorsten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Dorsten.protect.md) 
+### [Dorsten.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenDorsten.protect.md) 
 
-### [Dorsten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Dorsten.private.md) 
+### [Dorsten.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenDorsten.private.md) 
 
-### [Dorsten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Dorsten.personal.md) 
+### [Dorsten.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenDorsten.personal.md) 
 
-### [Dorsten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Dorsten.secret.md) 
+### [Dorsten.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenDorsten.secret.md)
+

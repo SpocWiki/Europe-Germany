@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.07,10.88] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jerxheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Heeseberg/boroughs~Heeseberg/Jerxheim.md) 
+### [Jerxheim.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Helmstedt\cities~Helmstedt\Heeseberg\boroughs~HeesebergJerxheim.public.md) 
 
-### [Jerxheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Heeseberg/boroughs~Heeseberg/Jerxheim.internal.md) 
+### [Jerxheim.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Helmstedt\cities~Helmstedt\Heeseberg\boroughs~HeesebergJerxheim.internal.md) 
 
-### [Jerxheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Heeseberg/boroughs~Heeseberg/Jerxheim.protect.md) 
+### [Jerxheim.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Helmstedt\cities~Helmstedt\Heeseberg\boroughs~HeesebergJerxheim.protect.md) 
 
-### [Jerxheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Heeseberg/boroughs~Heeseberg/Jerxheim.private.md) 
+### [Jerxheim.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Helmstedt\cities~Helmstedt\Heeseberg\boroughs~HeesebergJerxheim.private.md) 
 
-### [Jerxheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Heeseberg/boroughs~Heeseberg/Jerxheim.personal.md) 
+### [Jerxheim.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Helmstedt\cities~Helmstedt\Heeseberg\boroughs~HeesebergJerxheim.personal.md) 
 
-### [Jerxheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Heeseberg/boroughs~Heeseberg/Jerxheim.secret.md) 
+### [Jerxheim.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Helmstedt\cities~Helmstedt\Heeseberg\boroughs~HeesebergJerxheim.secret.md)
+

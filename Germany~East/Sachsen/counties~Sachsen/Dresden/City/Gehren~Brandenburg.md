@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.07,13.67] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gehren~Brandenburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Gehren~Brandenburg.md) 
+### [Gehren~Brandenburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityGehren~Brandenburg.public.md) 
 
-### [Gehren~Brandenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Gehren~Brandenburg.internal.md) 
+### [Gehren~Brandenburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityGehren~Brandenburg.internal.md) 
 
-### [Gehren~Brandenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Gehren~Brandenburg.protect.md) 
+### [Gehren~Brandenburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityGehren~Brandenburg.protect.md) 
 
-### [Gehren~Brandenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Gehren~Brandenburg.private.md) 
+### [Gehren~Brandenburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityGehren~Brandenburg.private.md) 
 
-### [Gehren~Brandenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Gehren~Brandenburg.personal.md) 
+### [Gehren~Brandenburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityGehren~Brandenburg.personal.md) 
 
-### [Gehren~Brandenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Gehren~Brandenburg.secret.md) 
+### [Gehren~Brandenburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityGehren~Brandenburg.secret.md)
+

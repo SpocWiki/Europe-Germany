@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.7,12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Auma](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Zeulenroda-Triebes/City/Auma.md) 
+### [Auma.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Zeulenroda-Triebes\CityAuma.public.md) 
 
-### [Auma.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Zeulenroda-Triebes/City/Auma.internal.md) 
+### [Auma.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Zeulenroda-Triebes\CityAuma.internal.md) 
 
-### [Auma.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Zeulenroda-Triebes/City/Auma.protect.md) 
+### [Auma.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Zeulenroda-Triebes\CityAuma.protect.md) 
 
-### [Auma.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Zeulenroda-Triebes/City/Auma.private.md) 
+### [Auma.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Zeulenroda-Triebes\CityAuma.private.md) 
 
-### [Auma.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Zeulenroda-Triebes/City/Auma.personal.md) 
+### [Auma.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Zeulenroda-Triebes\CityAuma.personal.md) 
 
-### [Auma.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Zeulenroda-Triebes/City/Auma.secret.md) 
+### [Auma.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Zeulenroda-Triebes\CityAuma.secret.md)
+

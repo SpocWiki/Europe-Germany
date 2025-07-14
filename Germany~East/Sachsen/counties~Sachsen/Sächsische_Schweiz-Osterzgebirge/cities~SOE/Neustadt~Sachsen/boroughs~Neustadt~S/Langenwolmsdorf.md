@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.05,14.25] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Langenwolmsdorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Neustadt~Sachsen/boroughs~Neustadt~S/Langenwolmsdorf.md) 
+### [Langenwolmsdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Neustadt~Sachsen\boroughs~Neustadt~SLangenwolmsdorf.public.md) 
 
-### [Langenwolmsdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Neustadt~Sachsen/boroughs~Neustadt~S/Langenwolmsdorf.internal.md) 
+### [Langenwolmsdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Neustadt~Sachsen\boroughs~Neustadt~SLangenwolmsdorf.internal.md) 
 
-### [Langenwolmsdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Neustadt~Sachsen/boroughs~Neustadt~S/Langenwolmsdorf.protect.md) 
+### [Langenwolmsdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Neustadt~Sachsen\boroughs~Neustadt~SLangenwolmsdorf.protect.md) 
 
-### [Langenwolmsdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Neustadt~Sachsen/boroughs~Neustadt~S/Langenwolmsdorf.private.md) 
+### [Langenwolmsdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Neustadt~Sachsen\boroughs~Neustadt~SLangenwolmsdorf.private.md) 
 
-### [Langenwolmsdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Neustadt~Sachsen/boroughs~Neustadt~S/Langenwolmsdorf.personal.md) 
+### [Langenwolmsdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Neustadt~Sachsen\boroughs~Neustadt~SLangenwolmsdorf.personal.md) 
 
-### [Langenwolmsdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Neustadt~Sachsen/boroughs~Neustadt~S/Langenwolmsdorf.secret.md) 
+### [Langenwolmsdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Neustadt~Sachsen\boroughs~Neustadt~SLangenwolmsdorf.secret.md)
+

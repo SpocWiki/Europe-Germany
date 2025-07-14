@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.47,9.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mildstedt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Nordsee-Treene/boroughs~Nordsee-Treene/Mildstedt.md) 
+### [Mildstedt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Nordsee-Treene\boroughs~Nordsee-TreeneMildstedt.public.md) 
 
-### [Mildstedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Nordsee-Treene/boroughs~Nordsee-Treene/Mildstedt.internal.md) 
+### [Mildstedt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Nordsee-Treene\boroughs~Nordsee-TreeneMildstedt.internal.md) 
 
-### [Mildstedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Nordsee-Treene/boroughs~Nordsee-Treene/Mildstedt.protect.md) 
+### [Mildstedt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Nordsee-Treene\boroughs~Nordsee-TreeneMildstedt.protect.md) 
 
-### [Mildstedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Nordsee-Treene/boroughs~Nordsee-Treene/Mildstedt.private.md) 
+### [Mildstedt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Nordsee-Treene\boroughs~Nordsee-TreeneMildstedt.private.md) 
 
-### [Mildstedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Nordsee-Treene/boroughs~Nordsee-Treene/Mildstedt.personal.md) 
+### [Mildstedt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Nordsee-Treene\boroughs~Nordsee-TreeneMildstedt.personal.md) 
 
-### [Mildstedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Nordsee-Treene/boroughs~Nordsee-Treene/Mildstedt.secret.md) 
+### [Mildstedt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Nordsee-Treene\boroughs~Nordsee-TreeneMildstedt.secret.md)
+

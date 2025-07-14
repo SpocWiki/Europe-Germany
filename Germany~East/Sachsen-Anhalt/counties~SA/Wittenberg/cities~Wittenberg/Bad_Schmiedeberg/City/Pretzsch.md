@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.72,12.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pretzsch](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Bad_Schmiedeberg/City/Pretzsch.md) 
+### [Pretzsch.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Bad_Schmiedeberg\CityPretzsch.public.md) 
 
-### [Pretzsch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Bad_Schmiedeberg/City/Pretzsch.internal.md) 
+### [Pretzsch.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Bad_Schmiedeberg\CityPretzsch.internal.md) 
 
-### [Pretzsch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Bad_Schmiedeberg/City/Pretzsch.protect.md) 
+### [Pretzsch.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Bad_Schmiedeberg\CityPretzsch.protect.md) 
 
-### [Pretzsch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Bad_Schmiedeberg/City/Pretzsch.private.md) 
+### [Pretzsch.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Bad_Schmiedeberg\CityPretzsch.private.md) 
 
-### [Pretzsch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Bad_Schmiedeberg/City/Pretzsch.personal.md) 
+### [Pretzsch.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Bad_Schmiedeberg\CityPretzsch.personal.md) 
 
-### [Pretzsch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Bad_Schmiedeberg/City/Pretzsch.secret.md) 
+### [Pretzsch.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Bad_Schmiedeberg\CityPretzsch.secret.md)
+

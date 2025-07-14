@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q985
 inception: 1952-04-25
 has_time_started: 1952-04-25
@@ -181,14 +181,15 @@ Capital :: [[Baden-Wuerttemberg/Stuttgart]]
 
 ## Confidential Links & Embeds: 
 
-### [Baden-Wuerttemberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.md) 
+### [Baden-Wuerttemberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestBaden-Wuerttemberg.public.md) 
 
-### [Baden-Wuerttemberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.internal.md) 
+### [Baden-Wuerttemberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestBaden-Wuerttemberg.internal.md) 
 
-### [Baden-Wuerttemberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.protect.md) 
+### [Baden-Wuerttemberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestBaden-Wuerttemberg.protect.md) 
 
-### [Baden-Wuerttemberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.private.md) 
+### [Baden-Wuerttemberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestBaden-Wuerttemberg.private.md) 
 
-### [Baden-Wuerttemberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.personal.md) 
+### [Baden-Wuerttemberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestBaden-Wuerttemberg.personal.md) 
 
-### [Baden-Wuerttemberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.secret.md) 
+### [Baden-Wuerttemberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestBaden-Wuerttemberg.secret.md)
+

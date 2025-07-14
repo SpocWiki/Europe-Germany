@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.52,8.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -35,14 +35,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wilhelmshaven](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven.md) 
+### [Wilhelmshaven.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWilhelmshaven.public.md) 
 
-### [Wilhelmshaven.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven.internal.md) 
+### [Wilhelmshaven.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWilhelmshaven.internal.md) 
 
-### [Wilhelmshaven.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven.protect.md) 
+### [Wilhelmshaven.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWilhelmshaven.protect.md) 
 
-### [Wilhelmshaven.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven.private.md) 
+### [Wilhelmshaven.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWilhelmshaven.private.md) 
 
-### [Wilhelmshaven.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven.personal.md) 
+### [Wilhelmshaven.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWilhelmshaven.personal.md) 
 
-### [Wilhelmshaven.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven.secret.md) 
+### [Wilhelmshaven.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWilhelmshaven.secret.md)
+

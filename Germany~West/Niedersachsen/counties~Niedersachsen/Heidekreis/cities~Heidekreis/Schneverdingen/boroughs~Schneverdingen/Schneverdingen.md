@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.12,9.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schneverdingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schneverdingen/boroughs~Schneverdingen/Schneverdingen.md) 
+### [Schneverdingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Schneverdingen\boroughs~SchneverdingenSchneverdingen.public.md) 
 
-### [Schneverdingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schneverdingen/boroughs~Schneverdingen/Schneverdingen.internal.md) 
+### [Schneverdingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Schneverdingen\boroughs~SchneverdingenSchneverdingen.internal.md) 
 
-### [Schneverdingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schneverdingen/boroughs~Schneverdingen/Schneverdingen.protect.md) 
+### [Schneverdingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Schneverdingen\boroughs~SchneverdingenSchneverdingen.protect.md) 
 
-### [Schneverdingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schneverdingen/boroughs~Schneverdingen/Schneverdingen.private.md) 
+### [Schneverdingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Schneverdingen\boroughs~SchneverdingenSchneverdingen.private.md) 
 
-### [Schneverdingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schneverdingen/boroughs~Schneverdingen/Schneverdingen.personal.md) 
+### [Schneverdingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Schneverdingen\boroughs~SchneverdingenSchneverdingen.personal.md) 
 
-### [Schneverdingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schneverdingen/boroughs~Schneverdingen/Schneverdingen.secret.md) 
+### [Schneverdingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Schneverdingen\boroughs~SchneverdingenSchneverdingen.secret.md)
+

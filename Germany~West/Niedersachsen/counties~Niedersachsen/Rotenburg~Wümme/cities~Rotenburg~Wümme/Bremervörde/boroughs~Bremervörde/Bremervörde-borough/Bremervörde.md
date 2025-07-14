@@ -1,4 +1,4 @@
-﻿---
+---
 location:
   - 53.48
   - 9.13
@@ -37,14 +37,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bremervörde](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Bremervörde/boroughs~Bremervörde/Bremervörde-borough/Bremervörde.md) 
+### [Bremervörde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Bremervörde\boroughs~Bremervörde\Bremervörde-boroughBremervörde.public.md) 
 
-### [Bremervörde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Bremervörde/boroughs~Bremervörde/Bremervörde-borough/Bremervörde.internal.md) 
+### [Bremervörde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Bremervörde\boroughs~Bremervörde\Bremervörde-boroughBremervörde.internal.md) 
 
-### [Bremervörde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Bremervörde/boroughs~Bremervörde/Bremervörde-borough/Bremervörde.protect.md) 
+### [Bremervörde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Bremervörde\boroughs~Bremervörde\Bremervörde-boroughBremervörde.protect.md) 
 
-### [Bremervörde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Bremervörde/boroughs~Bremervörde/Bremervörde-borough/Bremervörde.private.md) 
+### [Bremervörde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Bremervörde\boroughs~Bremervörde\Bremervörde-boroughBremervörde.private.md) 
 
-### [Bremervörde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Bremervörde/boroughs~Bremervörde/Bremervörde-borough/Bremervörde.personal.md) 
+### [Bremervörde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Bremervörde\boroughs~Bremervörde\Bremervörde-boroughBremervörde.personal.md) 
 
-### [Bremervörde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Bremervörde/boroughs~Bremervörde/Bremervörde-borough/Bremervörde.secret.md) 
+### [Bremervörde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Bremervörde\boroughs~Bremervörde\Bremervörde-boroughBremervörde.secret.md)
+

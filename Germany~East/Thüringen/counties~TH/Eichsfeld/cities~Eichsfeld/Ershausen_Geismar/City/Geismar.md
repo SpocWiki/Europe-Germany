@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.22,10.18] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Geismar](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Ershausen_Geismar/City/Geismar.md) 
+### [Geismar.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Ershausen_Geismar\CityGeismar.public.md) 
 
-### [Geismar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Ershausen_Geismar/City/Geismar.internal.md) 
+### [Geismar.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Ershausen_Geismar\CityGeismar.internal.md) 
 
-### [Geismar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Ershausen_Geismar/City/Geismar.protect.md) 
+### [Geismar.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Ershausen_Geismar\CityGeismar.protect.md) 
 
-### [Geismar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Ershausen_Geismar/City/Geismar.private.md) 
+### [Geismar.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Ershausen_Geismar\CityGeismar.private.md) 
 
-### [Geismar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Ershausen_Geismar/City/Geismar.personal.md) 
+### [Geismar.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Ershausen_Geismar\CityGeismar.personal.md) 
 
-### [Geismar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Ershausen_Geismar/City/Geismar.secret.md) 
+### [Geismar.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Ershausen_Geismar\CityGeismar.secret.md)
+

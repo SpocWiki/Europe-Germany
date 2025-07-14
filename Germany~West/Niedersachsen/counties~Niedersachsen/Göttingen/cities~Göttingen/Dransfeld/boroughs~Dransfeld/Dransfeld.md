@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.5,9.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dransfeld](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Dransfeld/boroughs~Dransfeld/Dransfeld.md) 
+### [Dransfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Göttingen\cities~Göttingen\Dransfeld\boroughs~DransfeldDransfeld.public.md) 
 
-### [Dransfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Dransfeld/boroughs~Dransfeld/Dransfeld.internal.md) 
+### [Dransfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Göttingen\cities~Göttingen\Dransfeld\boroughs~DransfeldDransfeld.internal.md) 
 
-### [Dransfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Dransfeld/boroughs~Dransfeld/Dransfeld.protect.md) 
+### [Dransfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Göttingen\cities~Göttingen\Dransfeld\boroughs~DransfeldDransfeld.protect.md) 
 
-### [Dransfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Dransfeld/boroughs~Dransfeld/Dransfeld.private.md) 
+### [Dransfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Göttingen\cities~Göttingen\Dransfeld\boroughs~DransfeldDransfeld.private.md) 
 
-### [Dransfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Dransfeld/boroughs~Dransfeld/Dransfeld.personal.md) 
+### [Dransfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Göttingen\cities~Göttingen\Dransfeld\boroughs~DransfeldDransfeld.personal.md) 
 
-### [Dransfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Dransfeld/boroughs~Dransfeld/Dransfeld.secret.md) 
+### [Dransfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Göttingen\cities~Göttingen\Dransfeld\boroughs~DransfeldDransfeld.secret.md)
+

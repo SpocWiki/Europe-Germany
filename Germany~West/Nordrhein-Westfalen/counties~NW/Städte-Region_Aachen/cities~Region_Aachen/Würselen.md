@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.83,6.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Würselen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Würselen.md) 
+### [Würselen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_AachenWürselen.public.md) 
 
-### [Würselen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Würselen.internal.md) 
+### [Würselen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_AachenWürselen.internal.md) 
 
-### [Würselen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Würselen.protect.md) 
+### [Würselen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_AachenWürselen.protect.md) 
 
-### [Würselen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Würselen.private.md) 
+### [Würselen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_AachenWürselen.private.md) 
 
-### [Würselen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Würselen.personal.md) 
+### [Würselen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_AachenWürselen.personal.md) 
 
-### [Würselen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Würselen.secret.md) 
+### [Würselen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_AachenWürselen.secret.md)
+

@@ -20,3 +20,20 @@ geo:52.458611,13.580833
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Köpenick_Station,Berlin.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\Stations,BerlinKöpenick_Station,Berlin.public.md) 
+
+### [Köpenick_Station,Berlin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\Stations,BerlinKöpenick_Station,Berlin.internal.md) 
+
+### [Köpenick_Station,Berlin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\Stations,BerlinKöpenick_Station,Berlin.protect.md) 
+
+### [Köpenick_Station,Berlin.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\Stations,BerlinKöpenick_Station,Berlin.private.md) 
+
+### [Köpenick_Station,Berlin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\Stations,BerlinKöpenick_Station,Berlin.personal.md) 
+
+### [Köpenick_Station,Berlin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\Stations,BerlinKöpenick_Station,Berlin.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
   - 51.78
   - 9.38
@@ -38,16 +38,18 @@ maxZoom: 18
 [[../../../../../../../../../../../assets/geo/Europe/Germany/Nordrhein-Westfalen/Höxter~Karolingisches-Westwerk.webp]]]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Nordrhein-Westfalen/Höxter~Karolingisches-Westwerk.webp]]]] 
 Karolingisches Westwerk und Civitas Corvey (2014) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Höxter-city](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Höxter/cities~Höxter/Höxter-city.md) 
+### [Höxter-city.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~HöxterHöxter-city.public.md) 
 
-### [Höxter-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Höxter/cities~Höxter/Höxter-city.internal.md) 
+### [Höxter-city.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~HöxterHöxter-city.internal.md) 
 
-### [Höxter-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Höxter/cities~Höxter/Höxter-city.protect.md) 
+### [Höxter-city.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~HöxterHöxter-city.protect.md) 
 
-### [Höxter-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Höxter/cities~Höxter/Höxter-city.private.md) 
+### [Höxter-city.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~HöxterHöxter-city.private.md) 
 
-### [Höxter-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Höxter/cities~Höxter/Höxter-city.personal.md) 
+### [Höxter-city.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~HöxterHöxter-city.personal.md) 
 
-### [Höxter-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Höxter/cities~Höxter/Höxter-city.secret.md) 
+### [Höxter-city.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~HöxterHöxter-city.secret.md)
+

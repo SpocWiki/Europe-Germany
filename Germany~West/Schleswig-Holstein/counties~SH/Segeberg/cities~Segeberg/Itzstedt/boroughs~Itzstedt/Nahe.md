@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.79,10.14] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nahe](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Itzstedt/boroughs~Itzstedt/Nahe.md) 
+### [Nahe.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Segeberg\cities~Segeberg\Itzstedt\boroughs~ItzstedtNahe.public.md) 
 
-### [Nahe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Itzstedt/boroughs~Itzstedt/Nahe.internal.md) 
+### [Nahe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Segeberg\cities~Segeberg\Itzstedt\boroughs~ItzstedtNahe.internal.md) 
 
-### [Nahe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Itzstedt/boroughs~Itzstedt/Nahe.protect.md) 
+### [Nahe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Segeberg\cities~Segeberg\Itzstedt\boroughs~ItzstedtNahe.protect.md) 
 
-### [Nahe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Itzstedt/boroughs~Itzstedt/Nahe.private.md) 
+### [Nahe.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Segeberg\cities~Segeberg\Itzstedt\boroughs~ItzstedtNahe.private.md) 
 
-### [Nahe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Itzstedt/boroughs~Itzstedt/Nahe.personal.md) 
+### [Nahe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Segeberg\cities~Segeberg\Itzstedt\boroughs~ItzstedtNahe.personal.md) 
 
-### [Nahe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Itzstedt/boroughs~Itzstedt/Nahe.secret.md) 
+### [Nahe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Segeberg\cities~Segeberg\Itzstedt\boroughs~ItzstedtNahe.secret.md)
+

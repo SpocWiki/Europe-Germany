@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.03,7.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schlebusch,Leverkusen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Leverkusen/Schlebusch,Leverkusen.md) 
+### [Schlebusch,Leverkusen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\LeverkusenSchlebusch,Leverkusen.public.md) 
 
-### [Schlebusch,Leverkusen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Leverkusen/Schlebusch,Leverkusen.internal.md) 
+### [Schlebusch,Leverkusen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\LeverkusenSchlebusch,Leverkusen.internal.md) 
 
-### [Schlebusch,Leverkusen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Leverkusen/Schlebusch,Leverkusen.protect.md) 
+### [Schlebusch,Leverkusen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\LeverkusenSchlebusch,Leverkusen.protect.md) 
 
-### [Schlebusch,Leverkusen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Leverkusen/Schlebusch,Leverkusen.private.md) 
+### [Schlebusch,Leverkusen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\LeverkusenSchlebusch,Leverkusen.private.md) 
 
-### [Schlebusch,Leverkusen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Leverkusen/Schlebusch,Leverkusen.personal.md) 
+### [Schlebusch,Leverkusen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\LeverkusenSchlebusch,Leverkusen.personal.md) 
 
-### [Schlebusch,Leverkusen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Leverkusen/Schlebusch,Leverkusen.secret.md) 
+### [Schlebusch,Leverkusen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\LeverkusenSchlebusch,Leverkusen.secret.md)
+

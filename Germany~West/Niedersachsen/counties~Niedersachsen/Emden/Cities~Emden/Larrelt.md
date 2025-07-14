@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.37,7.15] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Larrelt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden/Cities~Emden/Larrelt.md) 
+### [Larrelt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emden\Cities~EmdenLarrelt.public.md) 
 
-### [Larrelt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden/Cities~Emden/Larrelt.internal.md) 
+### [Larrelt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emden\Cities~EmdenLarrelt.internal.md) 
 
-### [Larrelt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden/Cities~Emden/Larrelt.protect.md) 
+### [Larrelt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emden\Cities~EmdenLarrelt.protect.md) 
 
-### [Larrelt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden/Cities~Emden/Larrelt.private.md) 
+### [Larrelt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emden\Cities~EmdenLarrelt.private.md) 
 
-### [Larrelt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden/Cities~Emden/Larrelt.personal.md) 
+### [Larrelt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emden\Cities~EmdenLarrelt.personal.md) 
 
-### [Larrelt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden/Cities~Emden/Larrelt.secret.md) 
+### [Larrelt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emden\Cities~EmdenLarrelt.secret.md)
+

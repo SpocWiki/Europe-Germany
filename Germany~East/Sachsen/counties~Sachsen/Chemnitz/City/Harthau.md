@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.78,12.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Harthau](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz/City/Harthau.md) 
+### [Harthau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Chemnitz\CityHarthau.public.md) 
 
-### [Harthau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz/City/Harthau.internal.md) 
+### [Harthau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Chemnitz\CityHarthau.internal.md) 
 
-### [Harthau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz/City/Harthau.protect.md) 
+### [Harthau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Chemnitz\CityHarthau.protect.md) 
 
-### [Harthau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz/City/Harthau.private.md) 
+### [Harthau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Chemnitz\CityHarthau.private.md) 
 
-### [Harthau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz/City/Harthau.personal.md) 
+### [Harthau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Chemnitz\CityHarthau.personal.md) 
 
-### [Harthau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz/City/Harthau.secret.md) 
+### [Harthau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Chemnitz\CityHarthau.secret.md)
+

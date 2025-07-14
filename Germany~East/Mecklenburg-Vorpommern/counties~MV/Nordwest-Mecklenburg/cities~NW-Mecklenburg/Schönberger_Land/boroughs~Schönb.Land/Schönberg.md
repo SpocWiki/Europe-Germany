@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.85,10.93] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schönberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Schönberger_Land/boroughs~Schönb.Land/Schönberg.md) 
+### [Schönberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\Schönberger_Land\boroughs~Schönb.LandSchönberg.public.md) 
 
-### [Schönberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Schönberger_Land/boroughs~Schönb.Land/Schönberg.internal.md) 
+### [Schönberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\Schönberger_Land\boroughs~Schönb.LandSchönberg.internal.md) 
 
-### [Schönberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Schönberger_Land/boroughs~Schönb.Land/Schönberg.protect.md) 
+### [Schönberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\Schönberger_Land\boroughs~Schönb.LandSchönberg.protect.md) 
 
-### [Schönberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Schönberger_Land/boroughs~Schönb.Land/Schönberg.private.md) 
+### [Schönberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\Schönberger_Land\boroughs~Schönb.LandSchönberg.private.md) 
 
-### [Schönberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Schönberger_Land/boroughs~Schönb.Land/Schönberg.personal.md) 
+### [Schönberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\Schönberger_Land\boroughs~Schönb.LandSchönberg.personal.md) 
 
-### [Schönberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Schönberger_Land/boroughs~Schönb.Land/Schönberg.secret.md) 
+### [Schönberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\Schönberger_Land\boroughs~Schönb.LandSchönberg.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.78,7.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lavesum](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Haltern,See/Lavesum.md) 
+### [Lavesum.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~Recklinghausen\Haltern,SeeLavesum.public.md) 
 
-### [Lavesum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Haltern,See/Lavesum.internal.md) 
+### [Lavesum.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~Recklinghausen\Haltern,SeeLavesum.internal.md) 
 
-### [Lavesum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Haltern,See/Lavesum.protect.md) 
+### [Lavesum.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~Recklinghausen\Haltern,SeeLavesum.protect.md) 
 
-### [Lavesum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Haltern,See/Lavesum.private.md) 
+### [Lavesum.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~Recklinghausen\Haltern,SeeLavesum.private.md) 
 
-### [Lavesum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Haltern,See/Lavesum.personal.md) 
+### [Lavesum.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~Recklinghausen\Haltern,SeeLavesum.personal.md) 
 
-### [Lavesum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Haltern,See/Lavesum.secret.md) 
+### [Lavesum.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~Recklinghausen\Haltern,SeeLavesum.secret.md)
+

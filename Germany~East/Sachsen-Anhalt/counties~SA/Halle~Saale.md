@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.48,11.97] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Halle~Saale](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale.md) 
+### [Halle~Saale.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SAHalle~Saale.public.md) 
 
-### [Halle~Saale.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale.internal.md) 
+### [Halle~Saale.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SAHalle~Saale.internal.md) 
 
-### [Halle~Saale.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale.protect.md) 
+### [Halle~Saale.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SAHalle~Saale.protect.md) 
 
-### [Halle~Saale.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale.private.md) 
+### [Halle~Saale.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SAHalle~Saale.private.md) 
 
-### [Halle~Saale.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale.personal.md) 
+### [Halle~Saale.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SAHalle~Saale.personal.md) 
 
-### [Halle~Saale.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale.secret.md) 
+### [Halle~Saale.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SAHalle~Saale.secret.md)
+

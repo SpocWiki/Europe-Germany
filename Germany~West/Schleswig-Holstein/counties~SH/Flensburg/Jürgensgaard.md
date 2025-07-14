@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.8,9.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jürgensgaard](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Flensburg/Jürgensgaard.md) 
+### [Jürgensgaard.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\FlensburgJürgensgaard.public.md) 
 
-### [Jürgensgaard.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Flensburg/Jürgensgaard.internal.md) 
+### [Jürgensgaard.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\FlensburgJürgensgaard.internal.md) 
 
-### [Jürgensgaard.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Flensburg/Jürgensgaard.protect.md) 
+### [Jürgensgaard.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\FlensburgJürgensgaard.protect.md) 
 
-### [Jürgensgaard.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Flensburg/Jürgensgaard.private.md) 
+### [Jürgensgaard.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\FlensburgJürgensgaard.private.md) 
 
-### [Jürgensgaard.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Flensburg/Jürgensgaard.personal.md) 
+### [Jürgensgaard.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\FlensburgJürgensgaard.personal.md) 
 
-### [Jürgensgaard.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Flensburg/Jürgensgaard.secret.md) 
+### [Jürgensgaard.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\FlensburgJürgensgaard.secret.md)
+

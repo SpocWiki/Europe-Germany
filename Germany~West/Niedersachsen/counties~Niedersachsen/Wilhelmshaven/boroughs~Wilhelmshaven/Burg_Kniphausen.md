@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.55,8.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Burg_Kniphausen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven/boroughs~Wilhelmshaven/Burg_Kniphausen.md) 
+### [Burg_Kniphausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wilhelmshaven\boroughs~WilhelmshavenBurg_Kniphausen.public.md) 
 
-### [Burg_Kniphausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven/boroughs~Wilhelmshaven/Burg_Kniphausen.internal.md) 
+### [Burg_Kniphausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wilhelmshaven\boroughs~WilhelmshavenBurg_Kniphausen.internal.md) 
 
-### [Burg_Kniphausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven/boroughs~Wilhelmshaven/Burg_Kniphausen.protect.md) 
+### [Burg_Kniphausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wilhelmshaven\boroughs~WilhelmshavenBurg_Kniphausen.protect.md) 
 
-### [Burg_Kniphausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven/boroughs~Wilhelmshaven/Burg_Kniphausen.private.md) 
+### [Burg_Kniphausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wilhelmshaven\boroughs~WilhelmshavenBurg_Kniphausen.private.md) 
 
-### [Burg_Kniphausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven/boroughs~Wilhelmshaven/Burg_Kniphausen.personal.md) 
+### [Burg_Kniphausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wilhelmshaven\boroughs~WilhelmshavenBurg_Kniphausen.personal.md) 
 
-### [Burg_Kniphausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven/boroughs~Wilhelmshaven/Burg_Kniphausen.secret.md) 
+### [Burg_Kniphausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wilhelmshaven\boroughs~WilhelmshavenBurg_Kniphausen.secret.md)
+

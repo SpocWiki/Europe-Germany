@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.88,14.18] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Garz,Usedom](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Süd/boroughs~Usedom-S/Garz,Usedom.md) 
+### [Garz,Usedom.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Usedom-Süd\boroughs~Usedom-SGarz,Usedom.public.md) 
 
-### [Garz,Usedom.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Süd/boroughs~Usedom-S/Garz,Usedom.internal.md) 
+### [Garz,Usedom.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Usedom-Süd\boroughs~Usedom-SGarz,Usedom.internal.md) 
 
-### [Garz,Usedom.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Süd/boroughs~Usedom-S/Garz,Usedom.protect.md) 
+### [Garz,Usedom.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Usedom-Süd\boroughs~Usedom-SGarz,Usedom.protect.md) 
 
-### [Garz,Usedom.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Süd/boroughs~Usedom-S/Garz,Usedom.private.md) 
+### [Garz,Usedom.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Usedom-Süd\boroughs~Usedom-SGarz,Usedom.private.md) 
 
-### [Garz,Usedom.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Süd/boroughs~Usedom-S/Garz,Usedom.personal.md) 
+### [Garz,Usedom.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Usedom-Süd\boroughs~Usedom-SGarz,Usedom.personal.md) 
 
-### [Garz,Usedom.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Süd/boroughs~Usedom-S/Garz,Usedom.secret.md) 
+### [Garz,Usedom.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Usedom-Süd\boroughs~Usedom-SGarz,Usedom.secret.md)
+

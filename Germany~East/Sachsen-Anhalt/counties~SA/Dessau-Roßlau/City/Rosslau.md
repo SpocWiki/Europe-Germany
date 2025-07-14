@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.88,12.25] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rosslau](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Rosslau.md) 
+### [Rosslau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Dessau-Roßlau\CityRosslau.public.md) 
 
-### [Rosslau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Rosslau.internal.md) 
+### [Rosslau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Dessau-Roßlau\CityRosslau.internal.md) 
 
-### [Rosslau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Rosslau.protect.md) 
+### [Rosslau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Dessau-Roßlau\CityRosslau.protect.md) 
 
-### [Rosslau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Rosslau.private.md) 
+### [Rosslau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Dessau-Roßlau\CityRosslau.private.md) 
 
-### [Rosslau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Rosslau.personal.md) 
+### [Rosslau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Dessau-Roßlau\CityRosslau.personal.md) 
 
-### [Rosslau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Rosslau.secret.md) 
+### [Rosslau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Dessau-Roßlau\CityRosslau.secret.md)
+

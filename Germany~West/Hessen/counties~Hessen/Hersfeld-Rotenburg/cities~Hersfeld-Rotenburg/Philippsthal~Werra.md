@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.85,10] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Philippsthal~Werra](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Philippsthal~Werra.md) 
+### [Philippsthal~Werra.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hersfeld-Rotenburg\cities~Hersfeld-RotenburgPhilippsthal~Werra.public.md) 
 
-### [Philippsthal~Werra.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Philippsthal~Werra.internal.md) 
+### [Philippsthal~Werra.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hersfeld-Rotenburg\cities~Hersfeld-RotenburgPhilippsthal~Werra.internal.md) 
 
-### [Philippsthal~Werra.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Philippsthal~Werra.protect.md) 
+### [Philippsthal~Werra.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hersfeld-Rotenburg\cities~Hersfeld-RotenburgPhilippsthal~Werra.protect.md) 
 
-### [Philippsthal~Werra.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Philippsthal~Werra.private.md) 
+### [Philippsthal~Werra.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hersfeld-Rotenburg\cities~Hersfeld-RotenburgPhilippsthal~Werra.private.md) 
 
-### [Philippsthal~Werra.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Philippsthal~Werra.personal.md) 
+### [Philippsthal~Werra.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hersfeld-Rotenburg\cities~Hersfeld-RotenburgPhilippsthal~Werra.personal.md) 
 
-### [Philippsthal~Werra.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Philippsthal~Werra.secret.md) 
+### [Philippsthal~Werra.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hersfeld-Rotenburg\cities~Hersfeld-RotenburgPhilippsthal~Werra.secret.md)
+

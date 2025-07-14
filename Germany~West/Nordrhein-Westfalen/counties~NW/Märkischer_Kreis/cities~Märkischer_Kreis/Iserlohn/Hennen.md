@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.38,7.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hennen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Iserlohn/Hennen.md) 
+### [Hennen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_Kreis\IserlohnHennen.public.md) 
 
-### [Hennen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Iserlohn/Hennen.internal.md) 
+### [Hennen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_Kreis\IserlohnHennen.internal.md) 
 
-### [Hennen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Iserlohn/Hennen.protect.md) 
+### [Hennen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_Kreis\IserlohnHennen.protect.md) 
 
-### [Hennen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Iserlohn/Hennen.private.md) 
+### [Hennen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_Kreis\IserlohnHennen.private.md) 
 
-### [Hennen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Iserlohn/Hennen.personal.md) 
+### [Hennen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_Kreis\IserlohnHennen.personal.md) 
 
-### [Hennen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Iserlohn/Hennen.secret.md) 
+### [Hennen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_Kreis\IserlohnHennen.secret.md)
+

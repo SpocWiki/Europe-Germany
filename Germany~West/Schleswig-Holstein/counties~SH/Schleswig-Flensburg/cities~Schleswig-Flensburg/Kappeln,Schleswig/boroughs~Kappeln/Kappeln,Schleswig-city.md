@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.67,9.93] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kappeln,Schleswig-city](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kappeln,Schleswig/boroughs~Kappeln/Kappeln,Schleswig-city.md) 
+### [Kappeln,Schleswig-city.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Schleswig-Flensburg\cities~Schleswig-Flensburg\Kappeln,Schleswig\boroughs~KappelnKappeln,Schleswig-city.public.md) 
 
-### [Kappeln,Schleswig-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kappeln,Schleswig/boroughs~Kappeln/Kappeln,Schleswig-city.internal.md) 
+### [Kappeln,Schleswig-city.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Schleswig-Flensburg\cities~Schleswig-Flensburg\Kappeln,Schleswig\boroughs~KappelnKappeln,Schleswig-city.internal.md) 
 
-### [Kappeln,Schleswig-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kappeln,Schleswig/boroughs~Kappeln/Kappeln,Schleswig-city.protect.md) 
+### [Kappeln,Schleswig-city.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Schleswig-Flensburg\cities~Schleswig-Flensburg\Kappeln,Schleswig\boroughs~KappelnKappeln,Schleswig-city.protect.md) 
 
-### [Kappeln,Schleswig-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kappeln,Schleswig/boroughs~Kappeln/Kappeln,Schleswig-city.private.md) 
+### [Kappeln,Schleswig-city.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Schleswig-Flensburg\cities~Schleswig-Flensburg\Kappeln,Schleswig\boroughs~KappelnKappeln,Schleswig-city.private.md) 
 
-### [Kappeln,Schleswig-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kappeln,Schleswig/boroughs~Kappeln/Kappeln,Schleswig-city.personal.md) 
+### [Kappeln,Schleswig-city.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Schleswig-Flensburg\cities~Schleswig-Flensburg\Kappeln,Schleswig\boroughs~KappelnKappeln,Schleswig-city.personal.md) 
 
-### [Kappeln,Schleswig-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kappeln,Schleswig/boroughs~Kappeln/Kappeln,Schleswig-city.secret.md) 
+### [Kappeln,Schleswig-city.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Schleswig-Flensburg\cities~Schleswig-Flensburg\Kappeln,Schleswig\boroughs~KappelnKappeln,Schleswig-city.secret.md)
+

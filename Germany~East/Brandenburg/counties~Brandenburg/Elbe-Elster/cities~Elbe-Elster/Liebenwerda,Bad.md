@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.52,13.4] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Liebenwerda,Bad](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Liebenwerda,Bad.md) 
+### [Liebenwerda,Bad.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Elbe-Elster\cities~Elbe-ElsterLiebenwerda,Bad.public.md) 
 
-### [Liebenwerda,Bad.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Liebenwerda,Bad.internal.md) 
+### [Liebenwerda,Bad.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Elbe-Elster\cities~Elbe-ElsterLiebenwerda,Bad.internal.md) 
 
-### [Liebenwerda,Bad.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Liebenwerda,Bad.protect.md) 
+### [Liebenwerda,Bad.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Elbe-Elster\cities~Elbe-ElsterLiebenwerda,Bad.protect.md) 
 
-### [Liebenwerda,Bad.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Liebenwerda,Bad.private.md) 
+### [Liebenwerda,Bad.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Elbe-Elster\cities~Elbe-ElsterLiebenwerda,Bad.private.md) 
 
-### [Liebenwerda,Bad.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Liebenwerda,Bad.personal.md) 
+### [Liebenwerda,Bad.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Elbe-Elster\cities~Elbe-ElsterLiebenwerda,Bad.personal.md) 
 
-### [Liebenwerda,Bad.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Liebenwerda,Bad.secret.md) 
+### [Liebenwerda,Bad.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Elbe-Elster\cities~Elbe-ElsterLiebenwerda,Bad.secret.md)
+

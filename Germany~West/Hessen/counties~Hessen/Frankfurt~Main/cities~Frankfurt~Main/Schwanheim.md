@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.1,8.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schwanheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Schwanheim.md) 
+### [Schwanheim.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\cities~Frankfurt~MainSchwanheim.public.md) 
 
-### [Schwanheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Schwanheim.internal.md) 
+### [Schwanheim.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\cities~Frankfurt~MainSchwanheim.internal.md) 
 
-### [Schwanheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Schwanheim.protect.md) 
+### [Schwanheim.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\cities~Frankfurt~MainSchwanheim.protect.md) 
 
-### [Schwanheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Schwanheim.private.md) 
+### [Schwanheim.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\cities~Frankfurt~MainSchwanheim.private.md) 
 
-### [Schwanheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Schwanheim.personal.md) 
+### [Schwanheim.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\cities~Frankfurt~MainSchwanheim.personal.md) 
 
-### [Schwanheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Schwanheim.secret.md) 
+### [Schwanheim.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\cities~Frankfurt~MainSchwanheim.secret.md)
+

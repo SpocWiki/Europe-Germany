@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.73,7.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Poppelsdorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Bonn/Poppelsdorf.md) 
+### [Poppelsdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BonnPoppelsdorf.public.md) 
 
-### [Poppelsdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Bonn/Poppelsdorf.internal.md) 
+### [Poppelsdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BonnPoppelsdorf.internal.md) 
 
-### [Poppelsdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Bonn/Poppelsdorf.protect.md) 
+### [Poppelsdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BonnPoppelsdorf.protect.md) 
 
-### [Poppelsdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Bonn/Poppelsdorf.private.md) 
+### [Poppelsdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BonnPoppelsdorf.private.md) 
 
-### [Poppelsdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Bonn/Poppelsdorf.personal.md) 
+### [Poppelsdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BonnPoppelsdorf.personal.md) 
 
-### [Poppelsdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Bonn/Poppelsdorf.secret.md) 
+### [Poppelsdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BonnPoppelsdorf.secret.md)
+

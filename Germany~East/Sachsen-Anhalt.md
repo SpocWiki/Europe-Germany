@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q1206
 location:
 - 51.8905
@@ -157,17 +157,17 @@ Capital :: [[Magdeburg]] ]]
 [Population::] 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Sachsen-Anhalt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.md) 
+### [Sachsen-Anhalt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastSachsen-Anhalt.public.md) 
 
-### [Sachsen-Anhalt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.internal.md) 
+### [Sachsen-Anhalt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastSachsen-Anhalt.internal.md) 
 
-### [Sachsen-Anhalt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.protect.md) 
+### [Sachsen-Anhalt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastSachsen-Anhalt.protect.md) 
 
-### [Sachsen-Anhalt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.private.md) 
+### [Sachsen-Anhalt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastSachsen-Anhalt.private.md) 
 
-### [Sachsen-Anhalt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.personal.md) 
+### [Sachsen-Anhalt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastSachsen-Anhalt.personal.md) 
 
-### [Sachsen-Anhalt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.secret.md) 
+### [Sachsen-Anhalt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastSachsen-Anhalt.secret.md)
+

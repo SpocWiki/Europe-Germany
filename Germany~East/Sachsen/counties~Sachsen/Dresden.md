@@ -233,14 +233,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dresden](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden.md) 
+### [Dresden.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~SachsenDresden.public.md) 
 
-### [Dresden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden.internal.md) 
+### [Dresden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~SachsenDresden.internal.md) 
 
-### [Dresden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden.protect.md) 
+### [Dresden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~SachsenDresden.protect.md) 
 
-### [Dresden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden.private.md) 
+### [Dresden.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~SachsenDresden.private.md) 
 
-### [Dresden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden.personal.md) 
+### [Dresden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~SachsenDresden.personal.md) 
 
-### [Dresden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden.secret.md) 
+### [Dresden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~SachsenDresden.secret.md)
+

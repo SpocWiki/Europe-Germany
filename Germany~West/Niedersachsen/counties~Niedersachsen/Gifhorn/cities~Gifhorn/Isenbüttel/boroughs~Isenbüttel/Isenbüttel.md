@@ -1,4 +1,4 @@
-﻿---
+---
 location:
   - 52.43
   - 10.55
@@ -37,14 +37,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Isenbüttel](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel.md) 
+### [Isenbüttel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Isenbüttel\boroughs~IsenbüttelIsenbüttel.public.md) 
 
-### [Isenbüttel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel.internal.md) 
+### [Isenbüttel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Isenbüttel\boroughs~IsenbüttelIsenbüttel.internal.md) 
 
-### [Isenbüttel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel.protect.md) 
+### [Isenbüttel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Isenbüttel\boroughs~IsenbüttelIsenbüttel.protect.md) 
 
-### [Isenbüttel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel.private.md) 
+### [Isenbüttel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Isenbüttel\boroughs~IsenbüttelIsenbüttel.private.md) 
 
-### [Isenbüttel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel.personal.md) 
+### [Isenbüttel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Isenbüttel\boroughs~IsenbüttelIsenbüttel.personal.md) 
 
-### [Isenbüttel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel.secret.md) 
+### [Isenbüttel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Isenbüttel\boroughs~IsenbüttelIsenbüttel.secret.md)
+

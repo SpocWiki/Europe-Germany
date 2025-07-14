@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.95,11.95] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wilsnack,Bad](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Bad_Wilsnack~Weisen/boroughs~Wilsnack/Wilsnack,Bad.md) 
+### [Wilsnack,Bad.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~Prignitz\Bad_Wilsnack~Weisen\boroughs~WilsnackWilsnack,Bad.public.md) 
 
-### [Wilsnack,Bad.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Bad_Wilsnack~Weisen/boroughs~Wilsnack/Wilsnack,Bad.internal.md) 
+### [Wilsnack,Bad.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~Prignitz\Bad_Wilsnack~Weisen\boroughs~WilsnackWilsnack,Bad.internal.md) 
 
-### [Wilsnack,Bad.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Bad_Wilsnack~Weisen/boroughs~Wilsnack/Wilsnack,Bad.protect.md) 
+### [Wilsnack,Bad.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~Prignitz\Bad_Wilsnack~Weisen\boroughs~WilsnackWilsnack,Bad.protect.md) 
 
-### [Wilsnack,Bad.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Bad_Wilsnack~Weisen/boroughs~Wilsnack/Wilsnack,Bad.private.md) 
+### [Wilsnack,Bad.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~Prignitz\Bad_Wilsnack~Weisen\boroughs~WilsnackWilsnack,Bad.private.md) 
 
-### [Wilsnack,Bad.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Bad_Wilsnack~Weisen/boroughs~Wilsnack/Wilsnack,Bad.personal.md) 
+### [Wilsnack,Bad.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~Prignitz\Bad_Wilsnack~Weisen\boroughs~WilsnackWilsnack,Bad.personal.md) 
 
-### [Wilsnack,Bad.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Bad_Wilsnack~Weisen/boroughs~Wilsnack/Wilsnack,Bad.secret.md) 
+### [Wilsnack,Bad.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~Prignitz\Bad_Wilsnack~Weisen\boroughs~WilsnackWilsnack,Bad.secret.md)
+

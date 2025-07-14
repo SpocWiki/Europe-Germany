@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.67,7.95] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Quakenbrück](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Artland/boroughs~Artland/Quakenbrück.md) 
+### [Quakenbrück.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Artland\boroughs~ArtlandQuakenbrück.public.md) 
 
-### [Quakenbrück.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Artland/boroughs~Artland/Quakenbrück.internal.md) 
+### [Quakenbrück.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Artland\boroughs~ArtlandQuakenbrück.internal.md) 
 
-### [Quakenbrück.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Artland/boroughs~Artland/Quakenbrück.protect.md) 
+### [Quakenbrück.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Artland\boroughs~ArtlandQuakenbrück.protect.md) 
 
-### [Quakenbrück.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Artland/boroughs~Artland/Quakenbrück.private.md) 
+### [Quakenbrück.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Artland\boroughs~ArtlandQuakenbrück.private.md) 
 
-### [Quakenbrück.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Artland/boroughs~Artland/Quakenbrück.personal.md) 
+### [Quakenbrück.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Artland\boroughs~ArtlandQuakenbrück.personal.md) 
 
-### [Quakenbrück.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Artland/boroughs~Artland/Quakenbrück.secret.md) 
+### [Quakenbrück.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Artland\boroughs~ArtlandQuakenbrück.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.2,14.4] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mixdorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Schlaubetal/boroughs~Schlaubetal/Mixdorf.md) 
+### [Mixdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\Schlaubetal\boroughs~SchlaubetalMixdorf.public.md) 
 
-### [Mixdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Schlaubetal/boroughs~Schlaubetal/Mixdorf.internal.md) 
+### [Mixdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\Schlaubetal\boroughs~SchlaubetalMixdorf.internal.md) 
 
-### [Mixdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Schlaubetal/boroughs~Schlaubetal/Mixdorf.protect.md) 
+### [Mixdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\Schlaubetal\boroughs~SchlaubetalMixdorf.protect.md) 
 
-### [Mixdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Schlaubetal/boroughs~Schlaubetal/Mixdorf.private.md) 
+### [Mixdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\Schlaubetal\boroughs~SchlaubetalMixdorf.private.md) 
 
-### [Mixdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Schlaubetal/boroughs~Schlaubetal/Mixdorf.personal.md) 
+### [Mixdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\Schlaubetal\boroughs~SchlaubetalMixdorf.personal.md) 
 
-### [Mixdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Schlaubetal/boroughs~Schlaubetal/Mixdorf.secret.md) 
+### [Mixdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\Schlaubetal\boroughs~SchlaubetalMixdorf.secret.md)
+

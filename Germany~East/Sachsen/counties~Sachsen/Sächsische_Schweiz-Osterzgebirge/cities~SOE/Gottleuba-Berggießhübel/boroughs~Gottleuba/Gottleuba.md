@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.85,13.93] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gottleuba](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Gottleuba-Berggießhübel/boroughs~Gottleuba/Gottleuba.md) 
+### [Gottleuba.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Gottleuba-Berggießhübel\boroughs~GottleubaGottleuba.public.md) 
 
-### [Gottleuba.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Gottleuba-Berggießhübel/boroughs~Gottleuba/Gottleuba.internal.md) 
+### [Gottleuba.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Gottleuba-Berggießhübel\boroughs~GottleubaGottleuba.internal.md) 
 
-### [Gottleuba.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Gottleuba-Berggießhübel/boroughs~Gottleuba/Gottleuba.protect.md) 
+### [Gottleuba.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Gottleuba-Berggießhübel\boroughs~GottleubaGottleuba.protect.md) 
 
-### [Gottleuba.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Gottleuba-Berggießhübel/boroughs~Gottleuba/Gottleuba.private.md) 
+### [Gottleuba.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Gottleuba-Berggießhübel\boroughs~GottleubaGottleuba.private.md) 
 
-### [Gottleuba.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Gottleuba-Berggießhübel/boroughs~Gottleuba/Gottleuba.personal.md) 
+### [Gottleuba.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Gottleuba-Berggießhübel\boroughs~GottleubaGottleuba.personal.md) 
 
-### [Gottleuba.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Gottleuba-Berggießhübel/boroughs~Gottleuba/Gottleuba.secret.md) 
+### [Gottleuba.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Gottleuba-Berggießhübel\boroughs~GottleubaGottleuba.secret.md)
+

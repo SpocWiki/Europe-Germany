@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.43,9.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Heiligenstedten](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Harsefeld/Heiligenstedten.md) 
+### [Heiligenstedten.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~Stade\HarsefeldHeiligenstedten.public.md) 
 
-### [Heiligenstedten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Harsefeld/Heiligenstedten.internal.md) 
+### [Heiligenstedten.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~Stade\HarsefeldHeiligenstedten.internal.md) 
 
-### [Heiligenstedten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Harsefeld/Heiligenstedten.protect.md) 
+### [Heiligenstedten.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~Stade\HarsefeldHeiligenstedten.protect.md) 
 
-### [Heiligenstedten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Harsefeld/Heiligenstedten.private.md) 
+### [Heiligenstedten.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~Stade\HarsefeldHeiligenstedten.private.md) 
 
-### [Heiligenstedten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Harsefeld/Heiligenstedten.personal.md) 
+### [Heiligenstedten.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~Stade\HarsefeldHeiligenstedten.personal.md) 
 
-### [Heiligenstedten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Harsefeld/Heiligenstedten.secret.md) 
+### [Heiligenstedten.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~Stade\HarsefeldHeiligenstedten.secret.md)
+

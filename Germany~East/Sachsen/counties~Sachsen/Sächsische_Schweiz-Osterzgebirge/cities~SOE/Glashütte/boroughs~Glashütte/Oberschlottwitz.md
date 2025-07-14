@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.87,13.82] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oberschlottwitz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Glashütte/boroughs~Glashütte/Oberschlottwitz.md) 
+### [Oberschlottwitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Glashütte\boroughs~GlashütteOberschlottwitz.public.md) 
 
-### [Oberschlottwitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Glashütte/boroughs~Glashütte/Oberschlottwitz.internal.md) 
+### [Oberschlottwitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Glashütte\boroughs~GlashütteOberschlottwitz.internal.md) 
 
-### [Oberschlottwitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Glashütte/boroughs~Glashütte/Oberschlottwitz.protect.md) 
+### [Oberschlottwitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Glashütte\boroughs~GlashütteOberschlottwitz.protect.md) 
 
-### [Oberschlottwitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Glashütte/boroughs~Glashütte/Oberschlottwitz.private.md) 
+### [Oberschlottwitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Glashütte\boroughs~GlashütteOberschlottwitz.private.md) 
 
-### [Oberschlottwitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Glashütte/boroughs~Glashütte/Oberschlottwitz.personal.md) 
+### [Oberschlottwitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Glashütte\boroughs~GlashütteOberschlottwitz.personal.md) 
 
-### [Oberschlottwitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Glashütte/boroughs~Glashütte/Oberschlottwitz.secret.md) 
+### [Oberschlottwitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Glashütte\boroughs~GlashütteOberschlottwitz.secret.md)
+

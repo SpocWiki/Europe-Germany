@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.4,11.82] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hirschberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/City/Hirschberg.md) 
+### [Hirschberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\CityHirschberg.public.md) 
 
-### [Hirschberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/City/Hirschberg.internal.md) 
+### [Hirschberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\CityHirschberg.internal.md) 
 
-### [Hirschberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/City/Hirschberg.protect.md) 
+### [Hirschberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\CityHirschberg.protect.md) 
 
-### [Hirschberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/City/Hirschberg.private.md) 
+### [Hirschberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\CityHirschberg.private.md) 
 
-### [Hirschberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/City/Hirschberg.personal.md) 
+### [Hirschberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\CityHirschberg.personal.md) 
 
-### [Hirschberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/City/Hirschberg.secret.md) 
+### [Hirschberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\CityHirschberg.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.78,11.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kuhfelde](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Beetzendorf-Diesdorf/boroughs~Beetzendorf/Kuhfelde.md) 
+### [Kuhfelde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Beetzendorf-Diesdorf\boroughs~BeetzendorfKuhfelde.public.md) 
 
-### [Kuhfelde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Beetzendorf-Diesdorf/boroughs~Beetzendorf/Kuhfelde.internal.md) 
+### [Kuhfelde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Beetzendorf-Diesdorf\boroughs~BeetzendorfKuhfelde.internal.md) 
 
-### [Kuhfelde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Beetzendorf-Diesdorf/boroughs~Beetzendorf/Kuhfelde.protect.md) 
+### [Kuhfelde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Beetzendorf-Diesdorf\boroughs~BeetzendorfKuhfelde.protect.md) 
 
-### [Kuhfelde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Beetzendorf-Diesdorf/boroughs~Beetzendorf/Kuhfelde.private.md) 
+### [Kuhfelde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Beetzendorf-Diesdorf\boroughs~BeetzendorfKuhfelde.private.md) 
 
-### [Kuhfelde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Beetzendorf-Diesdorf/boroughs~Beetzendorf/Kuhfelde.personal.md) 
+### [Kuhfelde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Beetzendorf-Diesdorf\boroughs~BeetzendorfKuhfelde.personal.md) 
 
-### [Kuhfelde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Beetzendorf-Diesdorf/boroughs~Beetzendorf/Kuhfelde.secret.md) 
+### [Kuhfelde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Beetzendorf-Diesdorf\boroughs~BeetzendorfKuhfelde.secret.md)
+

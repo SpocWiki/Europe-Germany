@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.68,9.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Winsen~Aller](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle/cities~Celle/Winsen~Aller.md) 
+### [Winsen~Aller.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Celle\cities~CelleWinsen~Aller.public.md) 
 
-### [Winsen~Aller.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle/cities~Celle/Winsen~Aller.internal.md) 
+### [Winsen~Aller.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Celle\cities~CelleWinsen~Aller.internal.md) 
 
-### [Winsen~Aller.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle/cities~Celle/Winsen~Aller.protect.md) 
+### [Winsen~Aller.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Celle\cities~CelleWinsen~Aller.protect.md) 
 
-### [Winsen~Aller.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle/cities~Celle/Winsen~Aller.private.md) 
+### [Winsen~Aller.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Celle\cities~CelleWinsen~Aller.private.md) 
 
-### [Winsen~Aller.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle/cities~Celle/Winsen~Aller.personal.md) 
+### [Winsen~Aller.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Celle\cities~CelleWinsen~Aller.personal.md) 
 
-### [Winsen~Aller.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle/cities~Celle/Winsen~Aller.secret.md) 
+### [Winsen~Aller.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Celle\cities~CelleWinsen~Aller.secret.md)
+

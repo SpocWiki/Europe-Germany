@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.58,13.62] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rattey](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Woldegk/boroughs~Woldegk/Schönbeck/Rattey.md) 
+### [Rattey.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Woldegk\boroughs~Woldegk\SchönbeckRattey.public.md) 
 
-### [Rattey.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Woldegk/boroughs~Woldegk/Schönbeck/Rattey.internal.md) 
+### [Rattey.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Woldegk\boroughs~Woldegk\SchönbeckRattey.internal.md) 
 
-### [Rattey.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Woldegk/boroughs~Woldegk/Schönbeck/Rattey.protect.md) 
+### [Rattey.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Woldegk\boroughs~Woldegk\SchönbeckRattey.protect.md) 
 
-### [Rattey.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Woldegk/boroughs~Woldegk/Schönbeck/Rattey.private.md) 
+### [Rattey.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Woldegk\boroughs~Woldegk\SchönbeckRattey.private.md) 
 
-### [Rattey.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Woldegk/boroughs~Woldegk/Schönbeck/Rattey.personal.md) 
+### [Rattey.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Woldegk\boroughs~Woldegk\SchönbeckRattey.personal.md) 
 
-### [Rattey.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Woldegk/boroughs~Woldegk/Schönbeck/Rattey.secret.md) 
+### [Rattey.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Woldegk\boroughs~Woldegk\SchönbeckRattey.secret.md)
+

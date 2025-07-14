@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.03,10.6] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,15 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hornburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Schladen-Werla/boroughs~Schladen-Werla/Hornburg.md) 
+### [Hornburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Schladen-Werla\boroughs~Schladen-WerlaHornburg.public.md) 
 
-### [Hornburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Schladen-Werla/boroughs~Schladen-Werla/Hornburg.internal.md) 
+### [Hornburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Schladen-Werla\boroughs~Schladen-WerlaHornburg.internal.md) 
 
-### [Hornburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Schladen-Werla/boroughs~Schladen-Werla/Hornburg.protect.md) 
+### [Hornburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Schladen-Werla\boroughs~Schladen-WerlaHornburg.protect.md) 
 
-### [Hornburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Schladen-Werla/boroughs~Schladen-Werla/Hornburg.private.md) 
+### [Hornburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Schladen-Werla\boroughs~Schladen-WerlaHornburg.private.md) 
 
-### [Hornburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Schladen-Werla/boroughs~Schladen-Werla/Hornburg.personal.md) 
+### [Hornburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Schladen-Werla\boroughs~Schladen-WerlaHornburg.personal.md) 
 
-### [Hornburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Schladen-Werla/boroughs~Schladen-Werla/Hornburg.secret.md) 
+### [Hornburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Schladen-Werla\boroughs~Schladen-WerlaHornburg.secret.md)
+
