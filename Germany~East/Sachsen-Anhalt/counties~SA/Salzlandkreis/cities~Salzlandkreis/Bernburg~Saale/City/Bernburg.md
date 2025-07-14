@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bernburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Bernburg~Saale\CityBernburg.public.md) 
+### [Bernburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Bernburg~Saale/City/Bernburg.md) 
 
-### [Bernburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Bernburg~Saale\CityBernburg.internal.md) 
+### [Bernburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Bernburg~Saale/City/Bernburg.public.md) 
 
-### [Bernburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Bernburg~Saale\CityBernburg.protect.md) 
+### [Bernburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Bernburg~Saale/City/Bernburg.internal.md) 
 
-### [Bernburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Bernburg~Saale\CityBernburg.private.md) 
+### [Bernburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Bernburg~Saale/City/Bernburg.protect.md) 
 
-### [Bernburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Bernburg~Saale\CityBernburg.personal.md) 
+### [Bernburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Bernburg~Saale/City/Bernburg.private.md) 
 
-### [Bernburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Bernburg~Saale\CityBernburg.secret.md)
+### [Bernburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Bernburg~Saale/City/Bernburg.personal.md) 
+
+### [Bernburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Bernburg~Saale/City/Bernburg.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gerstungen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~WartburgkreisGerstungen.public.md) 
+### [Gerstungen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Gerstungen.md) 
 
-### [Gerstungen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~WartburgkreisGerstungen.internal.md) 
+### [Gerstungen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Gerstungen.public.md) 
 
-### [Gerstungen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~WartburgkreisGerstungen.protect.md) 
+### [Gerstungen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Gerstungen.internal.md) 
 
-### [Gerstungen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~WartburgkreisGerstungen.private.md) 
+### [Gerstungen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Gerstungen.protect.md) 
 
-### [Gerstungen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~WartburgkreisGerstungen.personal.md) 
+### [Gerstungen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Gerstungen.private.md) 
 
-### [Gerstungen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~WartburgkreisGerstungen.secret.md)
+### [Gerstungen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Gerstungen.personal.md) 
+
+### [Gerstungen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Gerstungen.secret.md)
 

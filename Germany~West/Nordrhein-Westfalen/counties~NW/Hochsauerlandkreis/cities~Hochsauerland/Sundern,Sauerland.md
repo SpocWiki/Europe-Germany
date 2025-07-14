@@ -16,15 +16,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Sundern,Sauerland.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandSundern,Sauerland.public.md) 
+### [Sundern,Sauerland](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Sundern,Sauerland.md) 
 
-### [Sundern,Sauerland.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandSundern,Sauerland.internal.md) 
+### [Sundern,Sauerland.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Sundern,Sauerland.public.md) 
 
-### [Sundern,Sauerland.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandSundern,Sauerland.protect.md) 
+### [Sundern,Sauerland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Sundern,Sauerland.internal.md) 
 
-### [Sundern,Sauerland.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandSundern,Sauerland.private.md) 
+### [Sundern,Sauerland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Sundern,Sauerland.protect.md) 
 
-### [Sundern,Sauerland.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandSundern,Sauerland.personal.md) 
+### [Sundern,Sauerland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Sundern,Sauerland.private.md) 
 
-### [Sundern,Sauerland.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandSundern,Sauerland.secret.md)
+### [Sundern,Sauerland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Sundern,Sauerland.personal.md) 
+
+### [Sundern,Sauerland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Sundern,Sauerland.secret.md)
 

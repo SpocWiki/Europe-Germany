@@ -30,15 +30,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [S-Obertshausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Obertshausen.public.md) 
+### [S-Obertshausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Obertshausen.md) 
 
-### [S-Obertshausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Obertshausen.internal.md) 
+### [S-Obertshausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Obertshausen.public.md) 
 
-### [S-Obertshausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Obertshausen.protect.md) 
+### [S-Obertshausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Obertshausen.internal.md) 
 
-### [S-Obertshausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Obertshausen.private.md) 
+### [S-Obertshausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Obertshausen.protect.md) 
 
-### [S-Obertshausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Obertshausen.personal.md) 
+### [S-Obertshausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Obertshausen.private.md) 
 
-### [S-Obertshausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Obertshausen.secret.md)
+### [S-Obertshausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Obertshausen.personal.md) 
+
+### [S-Obertshausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Obertshausen.secret.md)
 

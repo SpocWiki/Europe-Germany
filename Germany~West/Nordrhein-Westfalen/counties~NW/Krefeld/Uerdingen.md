@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Uerdingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KrefeldUerdingen.public.md) 
+### [Uerdingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Krefeld/Uerdingen.md) 
 
-### [Uerdingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KrefeldUerdingen.internal.md) 
+### [Uerdingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Krefeld/Uerdingen.public.md) 
 
-### [Uerdingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KrefeldUerdingen.protect.md) 
+### [Uerdingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Krefeld/Uerdingen.internal.md) 
 
-### [Uerdingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KrefeldUerdingen.private.md) 
+### [Uerdingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Krefeld/Uerdingen.protect.md) 
 
-### [Uerdingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KrefeldUerdingen.personal.md) 
+### [Uerdingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Krefeld/Uerdingen.private.md) 
 
-### [Uerdingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KrefeldUerdingen.secret.md)
+### [Uerdingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Krefeld/Uerdingen.personal.md) 
+
+### [Uerdingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Krefeld/Uerdingen.secret.md)
 

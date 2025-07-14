@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rixdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinRixdorf.public.md) 
+### [Rixdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Rixdorf.md) 
 
-### [Rixdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinRixdorf.internal.md) 
+### [Rixdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Rixdorf.public.md) 
 
-### [Rixdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinRixdorf.protect.md) 
+### [Rixdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Rixdorf.internal.md) 
 
-### [Rixdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinRixdorf.private.md) 
+### [Rixdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Rixdorf.protect.md) 
 
-### [Rixdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinRixdorf.personal.md) 
+### [Rixdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Rixdorf.private.md) 
 
-### [Rixdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinRixdorf.secret.md)
+### [Rixdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Rixdorf.personal.md) 
+
+### [Rixdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Rixdorf.secret.md)
 

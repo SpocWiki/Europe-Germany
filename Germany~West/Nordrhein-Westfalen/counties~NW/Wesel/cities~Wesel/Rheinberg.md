@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rheinberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselRheinberg.public.md) 
+### [Rheinberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Rheinberg.md) 
 
-### [Rheinberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselRheinberg.internal.md) 
+### [Rheinberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Rheinberg.public.md) 
 
-### [Rheinberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselRheinberg.protect.md) 
+### [Rheinberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Rheinberg.internal.md) 
 
-### [Rheinberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselRheinberg.private.md) 
+### [Rheinberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Rheinberg.protect.md) 
 
-### [Rheinberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselRheinberg.personal.md) 
+### [Rheinberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Rheinberg.private.md) 
 
-### [Rheinberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselRheinberg.secret.md)
+### [Rheinberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Rheinberg.personal.md) 
+
+### [Rheinberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Rheinberg.secret.md)
 

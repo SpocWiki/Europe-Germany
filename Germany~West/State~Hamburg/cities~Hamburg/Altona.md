@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Altona.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgAltona.public.md) 
+### [Altona](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Altona.md) 
 
-### [Altona.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgAltona.internal.md) 
+### [Altona.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Altona.public.md) 
 
-### [Altona.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgAltona.protect.md) 
+### [Altona.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Altona.internal.md) 
 
-### [Altona.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgAltona.private.md) 
+### [Altona.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Altona.protect.md) 
 
-### [Altona.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgAltona.personal.md) 
+### [Altona.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Altona.private.md) 
 
-### [Altona.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgAltona.secret.md)
+### [Altona.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Altona.personal.md) 
+
+### [Altona.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Altona.secret.md)
 

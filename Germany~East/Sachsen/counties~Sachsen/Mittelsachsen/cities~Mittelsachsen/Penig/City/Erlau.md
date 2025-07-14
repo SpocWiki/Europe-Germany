@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Erlau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Penig\CityErlau.public.md) 
+### [Erlau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Penig/City/Erlau.md) 
 
-### [Erlau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Penig\CityErlau.internal.md) 
+### [Erlau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Penig/City/Erlau.public.md) 
 
-### [Erlau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Penig\CityErlau.protect.md) 
+### [Erlau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Penig/City/Erlau.internal.md) 
 
-### [Erlau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Penig\CityErlau.private.md) 
+### [Erlau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Penig/City/Erlau.protect.md) 
 
-### [Erlau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Penig\CityErlau.personal.md) 
+### [Erlau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Penig/City/Erlau.private.md) 
 
-### [Erlau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Penig\CityErlau.secret.md)
+### [Erlau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Penig/City/Erlau.personal.md) 
+
+### [Erlau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Penig/City/Erlau.secret.md)
 

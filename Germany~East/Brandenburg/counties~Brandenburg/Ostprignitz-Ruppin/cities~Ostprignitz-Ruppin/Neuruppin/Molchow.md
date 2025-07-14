@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Molchow.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\NeuruppinMolchow.public.md) 
+### [Molchow](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neuruppin/Molchow.md) 
 
-### [Molchow.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\NeuruppinMolchow.internal.md) 
+### [Molchow.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neuruppin/Molchow.public.md) 
 
-### [Molchow.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\NeuruppinMolchow.protect.md) 
+### [Molchow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neuruppin/Molchow.internal.md) 
 
-### [Molchow.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\NeuruppinMolchow.private.md) 
+### [Molchow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neuruppin/Molchow.protect.md) 
 
-### [Molchow.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\NeuruppinMolchow.personal.md) 
+### [Molchow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neuruppin/Molchow.private.md) 
 
-### [Molchow.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\NeuruppinMolchow.secret.md)
+### [Molchow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neuruppin/Molchow.personal.md) 
+
+### [Molchow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neuruppin/Molchow.secret.md)
 

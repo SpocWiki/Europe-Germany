@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wesel-city.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselWesel-city.public.md) 
+### [Wesel-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Wesel-city.md) 
 
-### [Wesel-city.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselWesel-city.internal.md) 
+### [Wesel-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Wesel-city.public.md) 
 
-### [Wesel-city.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselWesel-city.protect.md) 
+### [Wesel-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Wesel-city.internal.md) 
 
-### [Wesel-city.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselWesel-city.private.md) 
+### [Wesel-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Wesel-city.protect.md) 
 
-### [Wesel-city.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselWesel-city.personal.md) 
+### [Wesel-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Wesel-city.private.md) 
 
-### [Wesel-city.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselWesel-city.secret.md)
+### [Wesel-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Wesel-city.personal.md) 
+
+### [Wesel-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Wesel-city.secret.md)
 

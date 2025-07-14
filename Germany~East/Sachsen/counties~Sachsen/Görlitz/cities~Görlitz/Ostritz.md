@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ostritz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~GörlitzOstritz.public.md) 
+### [Ostritz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Ostritz.md) 
 
-### [Ostritz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~GörlitzOstritz.internal.md) 
+### [Ostritz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Ostritz.public.md) 
 
-### [Ostritz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~GörlitzOstritz.protect.md) 
+### [Ostritz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Ostritz.internal.md) 
 
-### [Ostritz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~GörlitzOstritz.private.md) 
+### [Ostritz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Ostritz.protect.md) 
 
-### [Ostritz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~GörlitzOstritz.personal.md) 
+### [Ostritz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Ostritz.private.md) 
 
-### [Ostritz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~GörlitzOstritz.secret.md)
+### [Ostritz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Ostritz.personal.md) 
+
+### [Ostritz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Ostritz.secret.md)
 

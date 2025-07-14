@@ -60,15 +60,17 @@ class S_Spandau,S_Stresow,S_Pichelsberg,S_Olympiastadion,S_Heerstraße,S_Messe_S
 
 ## Confidential Links & Embeds: 
 
-### [S9,Berlin.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS9,Berlin.public.md) 
+### [S9,Berlin](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/S-Bahn,Berlin/S9,Berlin.md) 
 
-### [S9,Berlin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS9,Berlin.internal.md) 
+### [S9,Berlin.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/S-Bahn,Berlin/S9,Berlin.public.md) 
 
-### [S9,Berlin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS9,Berlin.protect.md) 
+### [S9,Berlin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/S-Bahn,Berlin/S9,Berlin.internal.md) 
 
-### [S9,Berlin.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS9,Berlin.private.md) 
+### [S9,Berlin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/S-Bahn,Berlin/S9,Berlin.protect.md) 
 
-### [S9,Berlin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS9,Berlin.personal.md) 
+### [S9,Berlin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/S-Bahn,Berlin/S9,Berlin.private.md) 
 
-### [S9,Berlin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\S-Bahn,BerlinS9,Berlin.secret.md)
+### [S9,Berlin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/S-Bahn,Berlin/S9,Berlin.personal.md) 
+
+### [S9,Berlin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/S-Bahn,Berlin/S9,Berlin.secret.md)
 

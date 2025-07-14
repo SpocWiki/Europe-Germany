@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vargatz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Züssow\boroughs~Züssow\BandelinVargatz.public.md) 
+### [Vargatz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Züssow/boroughs~Züssow/Bandelin/Vargatz.md) 
 
-### [Vargatz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Züssow\boroughs~Züssow\BandelinVargatz.internal.md) 
+### [Vargatz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Züssow/boroughs~Züssow/Bandelin/Vargatz.public.md) 
 
-### [Vargatz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Züssow\boroughs~Züssow\BandelinVargatz.protect.md) 
+### [Vargatz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Züssow/boroughs~Züssow/Bandelin/Vargatz.internal.md) 
 
-### [Vargatz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Züssow\boroughs~Züssow\BandelinVargatz.private.md) 
+### [Vargatz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Züssow/boroughs~Züssow/Bandelin/Vargatz.protect.md) 
 
-### [Vargatz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Züssow\boroughs~Züssow\BandelinVargatz.personal.md) 
+### [Vargatz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Züssow/boroughs~Züssow/Bandelin/Vargatz.private.md) 
 
-### [Vargatz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Züssow\boroughs~Züssow\BandelinVargatz.secret.md)
+### [Vargatz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Züssow/boroughs~Züssow/Bandelin/Vargatz.personal.md) 
+
+### [Vargatz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Züssow/boroughs~Züssow/Bandelin/Vargatz.secret.md)
 

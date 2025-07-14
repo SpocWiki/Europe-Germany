@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gransee.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\Gransee-Gemeinden\boroughs~GranseeGransee.public.md) 
+### [Gransee](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Gransee-Gemeinden/boroughs~Gransee/Gransee.md) 
 
-### [Gransee.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\Gransee-Gemeinden\boroughs~GranseeGransee.internal.md) 
+### [Gransee.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Gransee-Gemeinden/boroughs~Gransee/Gransee.public.md) 
 
-### [Gransee.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\Gransee-Gemeinden\boroughs~GranseeGransee.protect.md) 
+### [Gransee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Gransee-Gemeinden/boroughs~Gransee/Gransee.internal.md) 
 
-### [Gransee.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\Gransee-Gemeinden\boroughs~GranseeGransee.private.md) 
+### [Gransee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Gransee-Gemeinden/boroughs~Gransee/Gransee.protect.md) 
 
-### [Gransee.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\Gransee-Gemeinden\boroughs~GranseeGransee.personal.md) 
+### [Gransee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Gransee-Gemeinden/boroughs~Gransee/Gransee.private.md) 
 
-### [Gransee.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\Gransee-Gemeinden\boroughs~GranseeGransee.secret.md)
+### [Gransee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Gransee-Gemeinden/boroughs~Gransee/Gransee.personal.md) 
+
+### [Gransee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Gransee-Gemeinden/boroughs~Gransee/Gransee.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Münchhausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-BiedenkopfMünchhausen.public.md) 
+### [Münchhausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Münchhausen.md) 
 
-### [Münchhausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-BiedenkopfMünchhausen.internal.md) 
+### [Münchhausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Münchhausen.public.md) 
 
-### [Münchhausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-BiedenkopfMünchhausen.protect.md) 
+### [Münchhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Münchhausen.internal.md) 
 
-### [Münchhausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-BiedenkopfMünchhausen.private.md) 
+### [Münchhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Münchhausen.protect.md) 
 
-### [Münchhausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-BiedenkopfMünchhausen.personal.md) 
+### [Münchhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Münchhausen.private.md) 
 
-### [Münchhausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-BiedenkopfMünchhausen.secret.md)
+### [Münchhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Münchhausen.personal.md) 
+
+### [Münchhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Münchhausen.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sommerland.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~Steinburg\Horst-Herzhorn\boroughs~Horst-HerzhornSommerland.public.md) 
+### [Sommerland](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Horst-Herzhorn/boroughs~Horst-Herzhorn/Sommerland.md) 
 
-### [Sommerland.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~Steinburg\Horst-Herzhorn\boroughs~Horst-HerzhornSommerland.internal.md) 
+### [Sommerland.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Horst-Herzhorn/boroughs~Horst-Herzhorn/Sommerland.public.md) 
 
-### [Sommerland.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~Steinburg\Horst-Herzhorn\boroughs~Horst-HerzhornSommerland.protect.md) 
+### [Sommerland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Horst-Herzhorn/boroughs~Horst-Herzhorn/Sommerland.internal.md) 
 
-### [Sommerland.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~Steinburg\Horst-Herzhorn\boroughs~Horst-HerzhornSommerland.private.md) 
+### [Sommerland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Horst-Herzhorn/boroughs~Horst-Herzhorn/Sommerland.protect.md) 
 
-### [Sommerland.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~Steinburg\Horst-Herzhorn\boroughs~Horst-HerzhornSommerland.personal.md) 
+### [Sommerland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Horst-Herzhorn/boroughs~Horst-Herzhorn/Sommerland.private.md) 
 
-### [Sommerland.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~Steinburg\Horst-Herzhorn\boroughs~Horst-HerzhornSommerland.secret.md)
+### [Sommerland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Horst-Herzhorn/boroughs~Horst-Herzhorn/Sommerland.personal.md) 
+
+### [Sommerland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Horst-Herzhorn/boroughs~Horst-Herzhorn/Sommerland.secret.md)
 

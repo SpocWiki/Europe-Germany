@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Homberg,Duisburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DuisburgHomberg,Duisburg.public.md) 
+### [Homberg,Duisburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Duisburg/Homberg,Duisburg.md) 
 
-### [Homberg,Duisburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DuisburgHomberg,Duisburg.internal.md) 
+### [Homberg,Duisburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Duisburg/Homberg,Duisburg.public.md) 
 
-### [Homberg,Duisburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DuisburgHomberg,Duisburg.protect.md) 
+### [Homberg,Duisburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Duisburg/Homberg,Duisburg.internal.md) 
 
-### [Homberg,Duisburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DuisburgHomberg,Duisburg.private.md) 
+### [Homberg,Duisburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Duisburg/Homberg,Duisburg.protect.md) 
 
-### [Homberg,Duisburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DuisburgHomberg,Duisburg.personal.md) 
+### [Homberg,Duisburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Duisburg/Homberg,Duisburg.private.md) 
 
-### [Homberg,Duisburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DuisburgHomberg,Duisburg.secret.md)
+### [Homberg,Duisburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Duisburg/Homberg,Duisburg.personal.md) 
+
+### [Homberg,Duisburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Duisburg/Homberg,Duisburg.secret.md)
 

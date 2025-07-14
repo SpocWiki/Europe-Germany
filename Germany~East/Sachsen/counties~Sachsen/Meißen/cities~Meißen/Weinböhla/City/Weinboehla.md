@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Weinboehla.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Weinböhla\CityWeinboehla.public.md) 
+### [Weinboehla](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Weinböhla/City/Weinboehla.md) 
 
-### [Weinboehla.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Weinböhla\CityWeinboehla.internal.md) 
+### [Weinboehla.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Weinböhla/City/Weinboehla.public.md) 
 
-### [Weinboehla.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Weinböhla\CityWeinboehla.protect.md) 
+### [Weinboehla.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Weinböhla/City/Weinboehla.internal.md) 
 
-### [Weinboehla.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Weinböhla\CityWeinboehla.private.md) 
+### [Weinboehla.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Weinböhla/City/Weinboehla.protect.md) 
 
-### [Weinboehla.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Weinböhla\CityWeinboehla.personal.md) 
+### [Weinboehla.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Weinböhla/City/Weinboehla.private.md) 
 
-### [Weinboehla.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Weinböhla\CityWeinboehla.secret.md)
+### [Weinboehla.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Weinböhla/City/Weinboehla.personal.md) 
+
+### [Weinboehla.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Weinböhla/City/Weinboehla.secret.md)
 

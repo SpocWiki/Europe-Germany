@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Feudingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-Wittgenstein\Laasphe,BadFeudingen.public.md) 
+### [Feudingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Laasphe,Bad/Feudingen.md) 
 
-### [Feudingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-Wittgenstein\Laasphe,BadFeudingen.internal.md) 
+### [Feudingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Laasphe,Bad/Feudingen.public.md) 
 
-### [Feudingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-Wittgenstein\Laasphe,BadFeudingen.protect.md) 
+### [Feudingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Laasphe,Bad/Feudingen.internal.md) 
 
-### [Feudingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-Wittgenstein\Laasphe,BadFeudingen.private.md) 
+### [Feudingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Laasphe,Bad/Feudingen.protect.md) 
 
-### [Feudingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-Wittgenstein\Laasphe,BadFeudingen.personal.md) 
+### [Feudingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Laasphe,Bad/Feudingen.private.md) 
 
-### [Feudingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-Wittgenstein\Laasphe,BadFeudingen.secret.md)
+### [Feudingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Laasphe,Bad/Feudingen.personal.md) 
+
+### [Feudingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Laasphe,Bad/Feudingen.secret.md)
 

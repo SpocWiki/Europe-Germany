@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schleiz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-OrlaSchleiz.public.md) 
+### [Schleiz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Schleiz.md) 
 
-### [Schleiz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-OrlaSchleiz.internal.md) 
+### [Schleiz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Schleiz.public.md) 
 
-### [Schleiz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-OrlaSchleiz.protect.md) 
+### [Schleiz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Schleiz.internal.md) 
 
-### [Schleiz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-OrlaSchleiz.private.md) 
+### [Schleiz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Schleiz.protect.md) 
 
-### [Schleiz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-OrlaSchleiz.personal.md) 
+### [Schleiz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Schleiz.private.md) 
 
-### [Schleiz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-OrlaSchleiz.secret.md)
+### [Schleiz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Schleiz.personal.md) 
+
+### [Schleiz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Schleiz.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Etzdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-Holzland\Heideland-Elstertal-Schkölen\boroughs~SchkölenEtzdorf.public.md) 
+### [Etzdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Heideland-Elstertal-Schkölen/boroughs~Schkölen/Etzdorf.md) 
 
-### [Etzdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-Holzland\Heideland-Elstertal-Schkölen\boroughs~SchkölenEtzdorf.internal.md) 
+### [Etzdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Heideland-Elstertal-Schkölen/boroughs~Schkölen/Etzdorf.public.md) 
 
-### [Etzdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-Holzland\Heideland-Elstertal-Schkölen\boroughs~SchkölenEtzdorf.protect.md) 
+### [Etzdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Heideland-Elstertal-Schkölen/boroughs~Schkölen/Etzdorf.internal.md) 
 
-### [Etzdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-Holzland\Heideland-Elstertal-Schkölen\boroughs~SchkölenEtzdorf.private.md) 
+### [Etzdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Heideland-Elstertal-Schkölen/boroughs~Schkölen/Etzdorf.protect.md) 
 
-### [Etzdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-Holzland\Heideland-Elstertal-Schkölen\boroughs~SchkölenEtzdorf.personal.md) 
+### [Etzdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Heideland-Elstertal-Schkölen/boroughs~Schkölen/Etzdorf.private.md) 
 
-### [Etzdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-Holzland\Heideland-Elstertal-Schkölen\boroughs~SchkölenEtzdorf.secret.md)
+### [Etzdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Heideland-Elstertal-Schkölen/boroughs~Schkölen/Etzdorf.personal.md) 
+
+### [Etzdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Heideland-Elstertal-Schkölen/boroughs~Schkölen/Etzdorf.secret.md)
 

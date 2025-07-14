@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Greven.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtGreven.public.md) 
+### [Greven](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Greven.md) 
 
-### [Greven.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtGreven.internal.md) 
+### [Greven.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Greven.public.md) 
 
-### [Greven.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtGreven.protect.md) 
+### [Greven.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Greven.internal.md) 
 
-### [Greven.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtGreven.private.md) 
+### [Greven.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Greven.protect.md) 
 
-### [Greven.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtGreven.personal.md) 
+### [Greven.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Greven.private.md) 
 
-### [Greven.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtGreven.secret.md)
+### [Greven.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Greven.personal.md) 
+
+### [Greven.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Greven.secret.md)
 

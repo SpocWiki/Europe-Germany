@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [U-Alte_Oper.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Alte_Oper.public.md) 
+### [U-Alte_Oper](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Alte_Oper.md) 
 
-### [U-Alte_Oper.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Alte_Oper.internal.md) 
+### [U-Alte_Oper.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Alte_Oper.public.md) 
 
-### [U-Alte_Oper.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Alte_Oper.protect.md) 
+### [U-Alte_Oper.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Alte_Oper.internal.md) 
 
-### [U-Alte_Oper.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Alte_Oper.private.md) 
+### [U-Alte_Oper.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Alte_Oper.protect.md) 
 
-### [U-Alte_Oper.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Alte_Oper.personal.md) 
+### [U-Alte_Oper.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Alte_Oper.private.md) 
 
-### [U-Alte_Oper.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Alte_Oper.secret.md)
+### [U-Alte_Oper.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Alte_Oper.personal.md) 
+
+### [U-Alte_Oper.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Alte_Oper.secret.md)
 

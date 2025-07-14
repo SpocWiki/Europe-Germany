@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zerbst.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Zerbst_Anhalt\CityZerbst.public.md) 
+### [Zerbst](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Zerbst.md) 
 
-### [Zerbst.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Zerbst_Anhalt\CityZerbst.internal.md) 
+### [Zerbst.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Zerbst.public.md) 
 
-### [Zerbst.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Zerbst_Anhalt\CityZerbst.protect.md) 
+### [Zerbst.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Zerbst.internal.md) 
 
-### [Zerbst.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Zerbst_Anhalt\CityZerbst.private.md) 
+### [Zerbst.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Zerbst.protect.md) 
 
-### [Zerbst.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Zerbst_Anhalt\CityZerbst.personal.md) 
+### [Zerbst.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Zerbst.private.md) 
 
-### [Zerbst.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Zerbst_Anhalt\CityZerbst.secret.md)
+### [Zerbst.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Zerbst.personal.md) 
+
+### [Zerbst.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Zerbst.secret.md)
 

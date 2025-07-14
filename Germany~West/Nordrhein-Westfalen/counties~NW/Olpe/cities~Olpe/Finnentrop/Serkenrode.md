@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Serkenrode.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~Olpe\FinnentropSerkenrode.public.md) 
+### [Serkenrode](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Finnentrop/Serkenrode.md) 
 
-### [Serkenrode.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~Olpe\FinnentropSerkenrode.internal.md) 
+### [Serkenrode.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Finnentrop/Serkenrode.public.md) 
 
-### [Serkenrode.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~Olpe\FinnentropSerkenrode.protect.md) 
+### [Serkenrode.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Finnentrop/Serkenrode.internal.md) 
 
-### [Serkenrode.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~Olpe\FinnentropSerkenrode.private.md) 
+### [Serkenrode.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Finnentrop/Serkenrode.protect.md) 
 
-### [Serkenrode.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~Olpe\FinnentropSerkenrode.personal.md) 
+### [Serkenrode.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Finnentrop/Serkenrode.private.md) 
 
-### [Serkenrode.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~Olpe\FinnentropSerkenrode.secret.md)
+### [Serkenrode.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Finnentrop/Serkenrode.personal.md) 
+
+### [Serkenrode.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Finnentrop/Serkenrode.secret.md)
 

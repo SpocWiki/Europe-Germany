@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Salzgitter.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenSalzgitter.public.md) 
+### [Salzgitter](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter.md) 
 
-### [Salzgitter.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenSalzgitter.internal.md) 
+### [Salzgitter.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter.public.md) 
 
-### [Salzgitter.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenSalzgitter.protect.md) 
+### [Salzgitter.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter.internal.md) 
 
-### [Salzgitter.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenSalzgitter.private.md) 
+### [Salzgitter.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter.protect.md) 
 
-### [Salzgitter.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenSalzgitter.personal.md) 
+### [Salzgitter.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter.private.md) 
 
-### [Salzgitter.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenSalzgitter.secret.md)
+### [Salzgitter.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter.personal.md) 
+
+### [Salzgitter.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter.secret.md)
 

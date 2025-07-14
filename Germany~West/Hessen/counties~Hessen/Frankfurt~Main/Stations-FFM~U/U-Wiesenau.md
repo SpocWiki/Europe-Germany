@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [U-Wiesenau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Wiesenau.public.md) 
+### [U-Wiesenau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Wiesenau.md) 
 
-### [U-Wiesenau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Wiesenau.internal.md) 
+### [U-Wiesenau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Wiesenau.public.md) 
 
-### [U-Wiesenau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Wiesenau.protect.md) 
+### [U-Wiesenau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Wiesenau.internal.md) 
 
-### [U-Wiesenau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Wiesenau.private.md) 
+### [U-Wiesenau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Wiesenau.protect.md) 
 
-### [U-Wiesenau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Wiesenau.personal.md) 
+### [U-Wiesenau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Wiesenau.private.md) 
 
-### [U-Wiesenau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Wiesenau.secret.md)
+### [U-Wiesenau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Wiesenau.personal.md) 
+
+### [U-Wiesenau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Wiesenau.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [U-Hohemark.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Hohemark.public.md) 
+### [U-Hohemark](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Hohemark.md) 
 
-### [U-Hohemark.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Hohemark.internal.md) 
+### [U-Hohemark.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Hohemark.public.md) 
 
-### [U-Hohemark.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Hohemark.protect.md) 
+### [U-Hohemark.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Hohemark.internal.md) 
 
-### [U-Hohemark.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Hohemark.private.md) 
+### [U-Hohemark.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Hohemark.protect.md) 
 
-### [U-Hohemark.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Hohemark.personal.md) 
+### [U-Hohemark.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Hohemark.private.md) 
 
-### [U-Hohemark.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Hohemark.secret.md)
+### [U-Hohemark.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Hohemark.personal.md) 
+
+### [U-Hohemark.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Hohemark.secret.md)
 

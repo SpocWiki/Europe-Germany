@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lietzensee.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinLietzensee.public.md) 
+### [Lietzensee](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Lietzensee.md) 
 
-### [Lietzensee.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinLietzensee.internal.md) 
+### [Lietzensee.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Lietzensee.public.md) 
 
-### [Lietzensee.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinLietzensee.protect.md) 
+### [Lietzensee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Lietzensee.internal.md) 
 
-### [Lietzensee.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinLietzensee.private.md) 
+### [Lietzensee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Lietzensee.protect.md) 
 
-### [Lietzensee.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinLietzensee.personal.md) 
+### [Lietzensee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Lietzensee.private.md) 
 
-### [Lietzensee.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinLietzensee.secret.md)
+### [Lietzensee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Lietzensee.personal.md) 
+
+### [Lietzensee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Lietzensee.secret.md)
 

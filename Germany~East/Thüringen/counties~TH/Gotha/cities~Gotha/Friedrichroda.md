@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Friedrichroda.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~GothaFriedrichroda.public.md) 
+### [Friedrichroda](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Friedrichroda.md) 
 
-### [Friedrichroda.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~GothaFriedrichroda.internal.md) 
+### [Friedrichroda.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Friedrichroda.public.md) 
 
-### [Friedrichroda.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~GothaFriedrichroda.protect.md) 
+### [Friedrichroda.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Friedrichroda.internal.md) 
 
-### [Friedrichroda.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~GothaFriedrichroda.private.md) 
+### [Friedrichroda.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Friedrichroda.protect.md) 
 
-### [Friedrichroda.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~GothaFriedrichroda.personal.md) 
+### [Friedrichroda.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Friedrichroda.private.md) 
 
-### [Friedrichroda.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~GothaFriedrichroda.secret.md)
+### [Friedrichroda.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Friedrichroda.personal.md) 
+
+### [Friedrichroda.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Friedrichroda.secret.md)
 

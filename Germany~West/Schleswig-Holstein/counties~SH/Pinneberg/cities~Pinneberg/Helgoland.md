@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Helgoland.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Pinneberg\cities~PinnebergHelgoland.public.md) 
+### [Helgoland](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Helgoland.md) 
 
-### [Helgoland.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Pinneberg\cities~PinnebergHelgoland.internal.md) 
+### [Helgoland.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Helgoland.public.md) 
 
-### [Helgoland.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Pinneberg\cities~PinnebergHelgoland.protect.md) 
+### [Helgoland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Helgoland.internal.md) 
 
-### [Helgoland.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Pinneberg\cities~PinnebergHelgoland.private.md) 
+### [Helgoland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Helgoland.protect.md) 
 
-### [Helgoland.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Pinneberg\cities~PinnebergHelgoland.personal.md) 
+### [Helgoland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Helgoland.private.md) 
 
-### [Helgoland.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Pinneberg\cities~PinnebergHelgoland.secret.md)
+### [Helgoland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Helgoland.personal.md) 
+
+### [Helgoland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Helgoland.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Falkenstein.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~VogtlandkreisFalkenstein.public.md) 
+### [Falkenstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Falkenstein.md) 
 
-### [Falkenstein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~VogtlandkreisFalkenstein.internal.md) 
+### [Falkenstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Falkenstein.public.md) 
 
-### [Falkenstein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~VogtlandkreisFalkenstein.protect.md) 
+### [Falkenstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Falkenstein.internal.md) 
 
-### [Falkenstein.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~VogtlandkreisFalkenstein.private.md) 
+### [Falkenstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Falkenstein.protect.md) 
 
-### [Falkenstein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~VogtlandkreisFalkenstein.personal.md) 
+### [Falkenstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Falkenstein.private.md) 
 
-### [Falkenstein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~VogtlandkreisFalkenstein.secret.md)
+### [Falkenstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Falkenstein.personal.md) 
+
+### [Falkenstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Falkenstein.secret.md)
 

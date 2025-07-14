@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nahe.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Segeberg\cities~Segeberg\Itzstedt\boroughs~ItzstedtNahe.public.md) 
+### [Nahe](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Itzstedt/boroughs~Itzstedt/Nahe.md) 
 
-### [Nahe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Segeberg\cities~Segeberg\Itzstedt\boroughs~ItzstedtNahe.internal.md) 
+### [Nahe.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Itzstedt/boroughs~Itzstedt/Nahe.public.md) 
 
-### [Nahe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Segeberg\cities~Segeberg\Itzstedt\boroughs~ItzstedtNahe.protect.md) 
+### [Nahe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Itzstedt/boroughs~Itzstedt/Nahe.internal.md) 
 
-### [Nahe.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Segeberg\cities~Segeberg\Itzstedt\boroughs~ItzstedtNahe.private.md) 
+### [Nahe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Itzstedt/boroughs~Itzstedt/Nahe.protect.md) 
 
-### [Nahe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Segeberg\cities~Segeberg\Itzstedt\boroughs~ItzstedtNahe.personal.md) 
+### [Nahe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Itzstedt/boroughs~Itzstedt/Nahe.private.md) 
 
-### [Nahe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Segeberg\cities~Segeberg\Itzstedt\boroughs~ItzstedtNahe.secret.md)
+### [Nahe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Itzstedt/boroughs~Itzstedt/Nahe.personal.md) 
+
+### [Nahe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Segeberg/cities~Segeberg/Itzstedt/boroughs~Itzstedt/Nahe.secret.md)
 

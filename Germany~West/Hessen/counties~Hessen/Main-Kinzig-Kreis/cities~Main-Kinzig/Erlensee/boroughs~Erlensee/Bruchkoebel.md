@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bruchkoebel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Erlensee\boroughs~ErlenseeBruchkoebel.public.md) 
+### [Bruchkoebel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Erlensee/boroughs~Erlensee/Bruchkoebel.md) 
 
-### [Bruchkoebel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Erlensee\boroughs~ErlenseeBruchkoebel.internal.md) 
+### [Bruchkoebel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Erlensee/boroughs~Erlensee/Bruchkoebel.public.md) 
 
-### [Bruchkoebel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Erlensee\boroughs~ErlenseeBruchkoebel.protect.md) 
+### [Bruchkoebel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Erlensee/boroughs~Erlensee/Bruchkoebel.internal.md) 
 
-### [Bruchkoebel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Erlensee\boroughs~ErlenseeBruchkoebel.private.md) 
+### [Bruchkoebel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Erlensee/boroughs~Erlensee/Bruchkoebel.protect.md) 
 
-### [Bruchkoebel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Erlensee\boroughs~ErlenseeBruchkoebel.personal.md) 
+### [Bruchkoebel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Erlensee/boroughs~Erlensee/Bruchkoebel.private.md) 
 
-### [Bruchkoebel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Erlensee\boroughs~ErlenseeBruchkoebel.secret.md)
+### [Bruchkoebel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Erlensee/boroughs~Erlensee/Bruchkoebel.personal.md) 
+
+### [Bruchkoebel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Erlensee/boroughs~Erlensee/Bruchkoebel.secret.md)
 

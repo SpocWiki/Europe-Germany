@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Goch.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveGoch.public.md) 
+### [Goch](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Goch.md) 
 
-### [Goch.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveGoch.internal.md) 
+### [Goch.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Goch.public.md) 
 
-### [Goch.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveGoch.protect.md) 
+### [Goch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Goch.internal.md) 
 
-### [Goch.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveGoch.private.md) 
+### [Goch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Goch.protect.md) 
 
-### [Goch.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveGoch.personal.md) 
+### [Goch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Goch.private.md) 
 
-### [Goch.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveGoch.secret.md)
+### [Goch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Goch.personal.md) 
+
+### [Goch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Goch.secret.md)
 

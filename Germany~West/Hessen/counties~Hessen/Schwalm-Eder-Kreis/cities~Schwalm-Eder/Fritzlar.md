@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fritzlar.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-EderFritzlar.public.md) 
+### [Fritzlar](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Fritzlar.md) 
 
-### [Fritzlar.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-EderFritzlar.internal.md) 
+### [Fritzlar.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Fritzlar.public.md) 
 
-### [Fritzlar.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-EderFritzlar.protect.md) 
+### [Fritzlar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Fritzlar.internal.md) 
 
-### [Fritzlar.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-EderFritzlar.private.md) 
+### [Fritzlar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Fritzlar.protect.md) 
 
-### [Fritzlar.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-EderFritzlar.personal.md) 
+### [Fritzlar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Fritzlar.private.md) 
 
-### [Fritzlar.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-EderFritzlar.secret.md)
+### [Fritzlar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Fritzlar.personal.md) 
+
+### [Fritzlar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Fritzlar.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wallau~Lahn.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-Biedenkopf\Biedenkopf\boroughs~BiedenkopfWallau~Lahn.public.md) 
+### [Wallau~Lahn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Biedenkopf/boroughs~Biedenkopf/Wallau~Lahn.md) 
 
-### [Wallau~Lahn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-Biedenkopf\Biedenkopf\boroughs~BiedenkopfWallau~Lahn.internal.md) 
+### [Wallau~Lahn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Biedenkopf/boroughs~Biedenkopf/Wallau~Lahn.public.md) 
 
-### [Wallau~Lahn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-Biedenkopf\Biedenkopf\boroughs~BiedenkopfWallau~Lahn.protect.md) 
+### [Wallau~Lahn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Biedenkopf/boroughs~Biedenkopf/Wallau~Lahn.internal.md) 
 
-### [Wallau~Lahn.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-Biedenkopf\Biedenkopf\boroughs~BiedenkopfWallau~Lahn.private.md) 
+### [Wallau~Lahn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Biedenkopf/boroughs~Biedenkopf/Wallau~Lahn.protect.md) 
 
-### [Wallau~Lahn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-Biedenkopf\Biedenkopf\boroughs~BiedenkopfWallau~Lahn.personal.md) 
+### [Wallau~Lahn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Biedenkopf/boroughs~Biedenkopf/Wallau~Lahn.private.md) 
 
-### [Wallau~Lahn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-Biedenkopf\Biedenkopf\boroughs~BiedenkopfWallau~Lahn.secret.md)
+### [Wallau~Lahn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Biedenkopf/boroughs~Biedenkopf/Wallau~Lahn.personal.md) 
+
+### [Wallau~Lahn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Biedenkopf/boroughs~Biedenkopf/Wallau~Lahn.secret.md)
 

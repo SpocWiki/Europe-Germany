@@ -32,19 +32,19 @@ graph TD
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [T60,Berlin.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\Tram,BerlinT60,Berlin.public.md) 
+### [T60,Berlin](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/Tram,Berlin/T60,Berlin.md) 
 
-### [T60,Berlin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\Tram,BerlinT60,Berlin.internal.md) 
+### [T60,Berlin.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/Tram,Berlin/T60,Berlin.public.md) 
 
-### [T60,Berlin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\Tram,BerlinT60,Berlin.protect.md) 
+### [T60,Berlin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/Tram,Berlin/T60,Berlin.internal.md) 
 
-### [T60,Berlin.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\Tram,BerlinT60,Berlin.private.md) 
+### [T60,Berlin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/Tram,Berlin/T60,Berlin.protect.md) 
 
-### [T60,Berlin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\Tram,BerlinT60,Berlin.personal.md) 
+### [T60,Berlin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/Tram,Berlin/T60,Berlin.private.md) 
 
-### [T60,Berlin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~Berlin\cities~Berlin\Berlin-city\Tram,BerlinT60,Berlin.secret.md)
+### [T60,Berlin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/Tram,Berlin/T60,Berlin.personal.md) 
+
+### [T60,Berlin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/Tram,Berlin/T60,Berlin.secret.md)
 

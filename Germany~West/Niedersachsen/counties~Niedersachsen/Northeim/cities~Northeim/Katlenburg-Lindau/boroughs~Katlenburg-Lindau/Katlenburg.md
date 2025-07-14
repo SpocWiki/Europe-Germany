@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Katlenburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Katlenburg-Lindau\boroughs~Katlenburg-LindauKatlenburg.public.md) 
+### [Katlenburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Katlenburg-Lindau/boroughs~Katlenburg-Lindau/Katlenburg.md) 
 
-### [Katlenburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Katlenburg-Lindau\boroughs~Katlenburg-LindauKatlenburg.internal.md) 
+### [Katlenburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Katlenburg-Lindau/boroughs~Katlenburg-Lindau/Katlenburg.public.md) 
 
-### [Katlenburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Katlenburg-Lindau\boroughs~Katlenburg-LindauKatlenburg.protect.md) 
+### [Katlenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Katlenburg-Lindau/boroughs~Katlenburg-Lindau/Katlenburg.internal.md) 
 
-### [Katlenburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Katlenburg-Lindau\boroughs~Katlenburg-LindauKatlenburg.private.md) 
+### [Katlenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Katlenburg-Lindau/boroughs~Katlenburg-Lindau/Katlenburg.protect.md) 
 
-### [Katlenburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Katlenburg-Lindau\boroughs~Katlenburg-LindauKatlenburg.personal.md) 
+### [Katlenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Katlenburg-Lindau/boroughs~Katlenburg-Lindau/Katlenburg.private.md) 
 
-### [Katlenburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Katlenburg-Lindau\boroughs~Katlenburg-LindauKatlenburg.secret.md)
+### [Katlenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Katlenburg-Lindau/boroughs~Katlenburg-Lindau/Katlenburg.personal.md) 
+
+### [Katlenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Katlenburg-Lindau/boroughs~Katlenburg-Lindau/Katlenburg.secret.md)
 

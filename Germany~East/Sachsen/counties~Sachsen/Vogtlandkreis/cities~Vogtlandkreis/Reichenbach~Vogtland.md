@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Reichenbach~Vogtland.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~VogtlandkreisReichenbach~Vogtland.public.md) 
+### [Reichenbach~Vogtland](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Reichenbach~Vogtland.md) 
 
-### [Reichenbach~Vogtland.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~VogtlandkreisReichenbach~Vogtland.internal.md) 
+### [Reichenbach~Vogtland.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Reichenbach~Vogtland.public.md) 
 
-### [Reichenbach~Vogtland.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~VogtlandkreisReichenbach~Vogtland.protect.md) 
+### [Reichenbach~Vogtland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Reichenbach~Vogtland.internal.md) 
 
-### [Reichenbach~Vogtland.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~VogtlandkreisReichenbach~Vogtland.private.md) 
+### [Reichenbach~Vogtland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Reichenbach~Vogtland.protect.md) 
 
-### [Reichenbach~Vogtland.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~VogtlandkreisReichenbach~Vogtland.personal.md) 
+### [Reichenbach~Vogtland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Reichenbach~Vogtland.private.md) 
 
-### [Reichenbach~Vogtland.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~VogtlandkreisReichenbach~Vogtland.secret.md)
+### [Reichenbach~Vogtland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Reichenbach~Vogtland.personal.md) 
+
+### [Reichenbach~Vogtland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Reichenbach~Vogtland.secret.md)
 

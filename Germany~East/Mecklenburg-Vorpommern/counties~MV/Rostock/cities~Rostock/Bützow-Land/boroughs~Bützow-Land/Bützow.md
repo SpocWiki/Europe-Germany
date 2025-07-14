@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bützow.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Bützow-Land\boroughs~Bützow-LandBützow.public.md) 
+### [Bützow](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Bützow-Land/boroughs~Bützow-Land/Bützow.md) 
 
-### [Bützow.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Bützow-Land\boroughs~Bützow-LandBützow.internal.md) 
+### [Bützow.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Bützow-Land/boroughs~Bützow-Land/Bützow.public.md) 
 
-### [Bützow.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Bützow-Land\boroughs~Bützow-LandBützow.protect.md) 
+### [Bützow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Bützow-Land/boroughs~Bützow-Land/Bützow.internal.md) 
 
-### [Bützow.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Bützow-Land\boroughs~Bützow-LandBützow.private.md) 
+### [Bützow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Bützow-Land/boroughs~Bützow-Land/Bützow.protect.md) 
 
-### [Bützow.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Bützow-Land\boroughs~Bützow-LandBützow.personal.md) 
+### [Bützow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Bützow-Land/boroughs~Bützow-Land/Bützow.private.md) 
 
-### [Bützow.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Bützow-Land\boroughs~Bützow-LandBützow.secret.md)
+### [Bützow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Bützow-Land/boroughs~Bützow-Land/Bützow.personal.md) 
+
+### [Bützow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Bützow-Land/boroughs~Bützow-Land/Bützow.secret.md)
 

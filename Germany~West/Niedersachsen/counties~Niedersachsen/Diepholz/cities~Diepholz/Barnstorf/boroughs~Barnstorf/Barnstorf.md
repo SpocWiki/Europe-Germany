@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Barnstorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Barnstorf\boroughs~BarnstorfBarnstorf.public.md) 
+### [Barnstorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.md) 
 
-### [Barnstorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Barnstorf\boroughs~BarnstorfBarnstorf.internal.md) 
+### [Barnstorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.public.md) 
 
-### [Barnstorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Barnstorf\boroughs~BarnstorfBarnstorf.protect.md) 
+### [Barnstorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.internal.md) 
 
-### [Barnstorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Barnstorf\boroughs~BarnstorfBarnstorf.private.md) 
+### [Barnstorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.protect.md) 
 
-### [Barnstorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Barnstorf\boroughs~BarnstorfBarnstorf.personal.md) 
+### [Barnstorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.private.md) 
 
-### [Barnstorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Barnstorf\boroughs~BarnstorfBarnstorf.secret.md)
+### [Barnstorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.personal.md) 
+
+### [Barnstorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Muehltroff.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Pausa-Mühltroff\CityMuehltroff.public.md) 
+### [Muehltroff](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Pausa-Mühltroff/City/Muehltroff.md) 
 
-### [Muehltroff.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Pausa-Mühltroff\CityMuehltroff.internal.md) 
+### [Muehltroff.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Pausa-Mühltroff/City/Muehltroff.public.md) 
 
-### [Muehltroff.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Pausa-Mühltroff\CityMuehltroff.protect.md) 
+### [Muehltroff.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Pausa-Mühltroff/City/Muehltroff.internal.md) 
 
-### [Muehltroff.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Pausa-Mühltroff\CityMuehltroff.private.md) 
+### [Muehltroff.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Pausa-Mühltroff/City/Muehltroff.protect.md) 
 
-### [Muehltroff.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Pausa-Mühltroff\CityMuehltroff.personal.md) 
+### [Muehltroff.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Pausa-Mühltroff/City/Muehltroff.private.md) 
 
-### [Muehltroff.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Pausa-Mühltroff\CityMuehltroff.secret.md)
+### [Muehltroff.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Pausa-Mühltroff/City/Muehltroff.personal.md) 
+
+### [Muehltroff.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Pausa-Mühltroff/City/Muehltroff.secret.md)
 

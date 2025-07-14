@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gütersloh-city.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~GüterslohGütersloh-city.public.md) 
+### [Gütersloh-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Gütersloh-city.md) 
 
-### [Gütersloh-city.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~GüterslohGütersloh-city.internal.md) 
+### [Gütersloh-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Gütersloh-city.public.md) 
 
-### [Gütersloh-city.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~GüterslohGütersloh-city.protect.md) 
+### [Gütersloh-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Gütersloh-city.internal.md) 
 
-### [Gütersloh-city.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~GüterslohGütersloh-city.private.md) 
+### [Gütersloh-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Gütersloh-city.protect.md) 
 
-### [Gütersloh-city.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~GüterslohGütersloh-city.personal.md) 
+### [Gütersloh-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Gütersloh-city.private.md) 
 
-### [Gütersloh-city.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~GüterslohGütersloh-city.secret.md)
+### [Gütersloh-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Gütersloh-city.personal.md) 
+
+### [Gütersloh-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Gütersloh-city.secret.md)
 

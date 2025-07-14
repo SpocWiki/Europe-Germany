@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Krakow,See.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~RostockKrakow,See.public.md) 
+### [Krakow,See](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Krakow,See.md) 
 
-### [Krakow,See.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~RostockKrakow,See.internal.md) 
+### [Krakow,See.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Krakow,See.public.md) 
 
-### [Krakow,See.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~RostockKrakow,See.protect.md) 
+### [Krakow,See.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Krakow,See.internal.md) 
 
-### [Krakow,See.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~RostockKrakow,See.private.md) 
+### [Krakow,See.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Krakow,See.protect.md) 
 
-### [Krakow,See.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~RostockKrakow,See.personal.md) 
+### [Krakow,See.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Krakow,See.private.md) 
 
-### [Krakow,See.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~RostockKrakow,See.secret.md)
+### [Krakow,See.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Krakow,See.personal.md) 
+
+### [Krakow,See.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Krakow,See.secret.md)
 

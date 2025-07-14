@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ueckermünde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~GreifswaldUeckermünde.public.md) 
+### [Ueckermünde](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Ueckermünde.md) 
 
-### [Ueckermünde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~GreifswaldUeckermünde.internal.md) 
+### [Ueckermünde.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Ueckermünde.public.md) 
 
-### [Ueckermünde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~GreifswaldUeckermünde.protect.md) 
+### [Ueckermünde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Ueckermünde.internal.md) 
 
-### [Ueckermünde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~GreifswaldUeckermünde.private.md) 
+### [Ueckermünde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Ueckermünde.protect.md) 
 
-### [Ueckermünde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~GreifswaldUeckermünde.personal.md) 
+### [Ueckermünde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Ueckermünde.private.md) 
 
-### [Ueckermünde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~GreifswaldUeckermünde.secret.md)
+### [Ueckermünde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Ueckermünde.personal.md) 
+
+### [Ueckermünde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Ueckermünde.secret.md)
 

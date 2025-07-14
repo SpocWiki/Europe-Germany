@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lemgo.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~LippeLemgo.public.md) 
+### [Lemgo](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Lemgo.md) 
 
-### [Lemgo.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~LippeLemgo.internal.md) 
+### [Lemgo.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Lemgo.public.md) 
 
-### [Lemgo.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~LippeLemgo.protect.md) 
+### [Lemgo.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Lemgo.internal.md) 
 
-### [Lemgo.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~LippeLemgo.private.md) 
+### [Lemgo.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Lemgo.protect.md) 
 
-### [Lemgo.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~LippeLemgo.personal.md) 
+### [Lemgo.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Lemgo.private.md) 
 
-### [Lemgo.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~LippeLemgo.secret.md)
+### [Lemgo.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Lemgo.personal.md) 
+
+### [Lemgo.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Lemgo.secret.md)
 

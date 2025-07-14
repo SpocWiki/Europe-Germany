@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [U-Waldlust.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Waldlust.public.md) 
+### [U-Waldlust](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Waldlust.md) 
 
-### [U-Waldlust.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Waldlust.internal.md) 
+### [U-Waldlust.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Waldlust.public.md) 
 
-### [U-Waldlust.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Waldlust.protect.md) 
+### [U-Waldlust.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Waldlust.internal.md) 
 
-### [U-Waldlust.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Waldlust.private.md) 
+### [U-Waldlust.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Waldlust.protect.md) 
 
-### [U-Waldlust.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Waldlust.personal.md) 
+### [U-Waldlust.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Waldlust.private.md) 
 
-### [U-Waldlust.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Waldlust.secret.md)
+### [U-Waldlust.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Waldlust.personal.md) 
+
+### [U-Waldlust.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Waldlust.secret.md)
 

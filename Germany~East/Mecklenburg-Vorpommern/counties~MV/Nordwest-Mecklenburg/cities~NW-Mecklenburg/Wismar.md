@@ -41,15 +41,17 @@ Auch hier sind Beispiele für die Backsteingotik zu finden.
 
 ## Confidential Links & Embeds: 
 
-### [Wismar.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-MecklenburgWismar.public.md) 
+### [Wismar](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Wismar.md) 
 
-### [Wismar.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-MecklenburgWismar.internal.md) 
+### [Wismar.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Wismar.public.md) 
 
-### [Wismar.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-MecklenburgWismar.protect.md) 
+### [Wismar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Wismar.internal.md) 
 
-### [Wismar.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-MecklenburgWismar.private.md) 
+### [Wismar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Wismar.protect.md) 
 
-### [Wismar.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-MecklenburgWismar.personal.md) 
+### [Wismar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Wismar.private.md) 
 
-### [Wismar.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-MecklenburgWismar.secret.md)
+### [Wismar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Wismar.personal.md) 
+
+### [Wismar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Wismar.secret.md)
 

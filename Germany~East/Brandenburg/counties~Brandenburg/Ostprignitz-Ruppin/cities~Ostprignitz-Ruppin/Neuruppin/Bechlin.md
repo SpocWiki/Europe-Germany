@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bechlin.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\NeuruppinBechlin.public.md) 
+### [Bechlin](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neuruppin/Bechlin.md) 
 
-### [Bechlin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\NeuruppinBechlin.internal.md) 
+### [Bechlin.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neuruppin/Bechlin.public.md) 
 
-### [Bechlin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\NeuruppinBechlin.protect.md) 
+### [Bechlin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neuruppin/Bechlin.internal.md) 
 
-### [Bechlin.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\NeuruppinBechlin.private.md) 
+### [Bechlin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neuruppin/Bechlin.protect.md) 
 
-### [Bechlin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\NeuruppinBechlin.personal.md) 
+### [Bechlin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neuruppin/Bechlin.private.md) 
 
-### [Bechlin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\NeuruppinBechlin.secret.md)
+### [Bechlin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neuruppin/Bechlin.personal.md) 
+
+### [Bechlin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neuruppin/Bechlin.secret.md)
 

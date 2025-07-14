@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sande.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~FrieslandSande.public.md) 
+### [Sande](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Sande.md) 
 
-### [Sande.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~FrieslandSande.internal.md) 
+### [Sande.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Sande.public.md) 
 
-### [Sande.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~FrieslandSande.protect.md) 
+### [Sande.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Sande.internal.md) 
 
-### [Sande.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~FrieslandSande.private.md) 
+### [Sande.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Sande.protect.md) 
 
-### [Sande.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~FrieslandSande.personal.md) 
+### [Sande.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Sande.private.md) 
 
-### [Sande.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~FrieslandSande.secret.md)
+### [Sande.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Sande.personal.md) 
+
+### [Sande.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Sande.secret.md)
 

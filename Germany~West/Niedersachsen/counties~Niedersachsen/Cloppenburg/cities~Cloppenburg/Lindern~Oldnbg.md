@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lindern~Oldnbg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cloppenburg\cities~CloppenburgLindern~Oldnbg.public.md) 
+### [Lindern~Oldnbg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Lindern~Oldnbg.md) 
 
-### [Lindern~Oldnbg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cloppenburg\cities~CloppenburgLindern~Oldnbg.internal.md) 
+### [Lindern~Oldnbg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Lindern~Oldnbg.public.md) 
 
-### [Lindern~Oldnbg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cloppenburg\cities~CloppenburgLindern~Oldnbg.protect.md) 
+### [Lindern~Oldnbg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Lindern~Oldnbg.internal.md) 
 
-### [Lindern~Oldnbg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cloppenburg\cities~CloppenburgLindern~Oldnbg.private.md) 
+### [Lindern~Oldnbg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Lindern~Oldnbg.protect.md) 
 
-### [Lindern~Oldnbg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cloppenburg\cities~CloppenburgLindern~Oldnbg.personal.md) 
+### [Lindern~Oldnbg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Lindern~Oldnbg.private.md) 
 
-### [Lindern~Oldnbg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cloppenburg\cities~CloppenburgLindern~Oldnbg.secret.md)
+### [Lindern~Oldnbg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Lindern~Oldnbg.personal.md) 
+
+### [Lindern~Oldnbg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Lindern~Oldnbg.secret.md)
 

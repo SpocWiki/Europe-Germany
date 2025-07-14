@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kloeden.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Bad_Schmiedeberg\CityKloeden.public.md) 
+### [Kloeden](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Bad_Schmiedeberg/City/Kloeden.md) 
 
-### [Kloeden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Bad_Schmiedeberg\CityKloeden.internal.md) 
+### [Kloeden.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Bad_Schmiedeberg/City/Kloeden.public.md) 
 
-### [Kloeden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Bad_Schmiedeberg\CityKloeden.protect.md) 
+### [Kloeden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Bad_Schmiedeberg/City/Kloeden.internal.md) 
 
-### [Kloeden.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Bad_Schmiedeberg\CityKloeden.private.md) 
+### [Kloeden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Bad_Schmiedeberg/City/Kloeden.protect.md) 
 
-### [Kloeden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Bad_Schmiedeberg\CityKloeden.personal.md) 
+### [Kloeden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Bad_Schmiedeberg/City/Kloeden.private.md) 
 
-### [Kloeden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Bad_Schmiedeberg\CityKloeden.secret.md)
+### [Kloeden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Bad_Schmiedeberg/City/Kloeden.personal.md) 
+
+### [Kloeden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Bad_Schmiedeberg/City/Kloeden.secret.md)
 

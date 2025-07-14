@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sprockhövel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-RuhrSprockhövel.public.md) 
+### [Sprockhövel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Sprockhövel.md) 
 
-### [Sprockhövel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-RuhrSprockhövel.internal.md) 
+### [Sprockhövel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Sprockhövel.public.md) 
 
-### [Sprockhövel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-RuhrSprockhövel.protect.md) 
+### [Sprockhövel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Sprockhövel.internal.md) 
 
-### [Sprockhövel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-RuhrSprockhövel.private.md) 
+### [Sprockhövel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Sprockhövel.protect.md) 
 
-### [Sprockhövel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-RuhrSprockhövel.personal.md) 
+### [Sprockhövel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Sprockhövel.private.md) 
 
-### [Sprockhövel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-RuhrSprockhövel.secret.md)
+### [Sprockhövel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Sprockhövel.personal.md) 
+
+### [Sprockhövel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Sprockhövel.secret.md)
 

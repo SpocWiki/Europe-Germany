@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bad_Arolsen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-FrankenbgBad_Arolsen.public.md) 
+### [Bad_Arolsen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Bad_Arolsen.md) 
 
-### [Bad_Arolsen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-FrankenbgBad_Arolsen.internal.md) 
+### [Bad_Arolsen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Bad_Arolsen.public.md) 
 
-### [Bad_Arolsen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-FrankenbgBad_Arolsen.protect.md) 
+### [Bad_Arolsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Bad_Arolsen.internal.md) 
 
-### [Bad_Arolsen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-FrankenbgBad_Arolsen.private.md) 
+### [Bad_Arolsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Bad_Arolsen.protect.md) 
 
-### [Bad_Arolsen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-FrankenbgBad_Arolsen.personal.md) 
+### [Bad_Arolsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Bad_Arolsen.private.md) 
 
-### [Bad_Arolsen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-FrankenbgBad_Arolsen.secret.md)
+### [Bad_Arolsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Bad_Arolsen.personal.md) 
+
+### [Bad_Arolsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Bad_Arolsen.secret.md)
 

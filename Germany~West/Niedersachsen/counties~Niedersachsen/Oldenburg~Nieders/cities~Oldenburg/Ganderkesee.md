@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ganderkesee.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~OldenburgGanderkesee.public.md) 
+### [Ganderkesee](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Ganderkesee.md) 
 
-### [Ganderkesee.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~OldenburgGanderkesee.internal.md) 
+### [Ganderkesee.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Ganderkesee.public.md) 
 
-### [Ganderkesee.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~OldenburgGanderkesee.protect.md) 
+### [Ganderkesee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Ganderkesee.internal.md) 
 
-### [Ganderkesee.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~OldenburgGanderkesee.private.md) 
+### [Ganderkesee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Ganderkesee.protect.md) 
 
-### [Ganderkesee.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~OldenburgGanderkesee.personal.md) 
+### [Ganderkesee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Ganderkesee.private.md) 
 
-### [Ganderkesee.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~OldenburgGanderkesee.secret.md)
+### [Ganderkesee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Ganderkesee.personal.md) 
+
+### [Ganderkesee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Ganderkesee.secret.md)
 

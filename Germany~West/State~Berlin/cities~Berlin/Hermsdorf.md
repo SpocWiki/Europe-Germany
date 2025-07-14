@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hermsdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinHermsdorf.public.md) 
+### [Hermsdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Hermsdorf.md) 
 
-### [Hermsdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinHermsdorf.internal.md) 
+### [Hermsdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Hermsdorf.public.md) 
 
-### [Hermsdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinHermsdorf.protect.md) 
+### [Hermsdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Hermsdorf.internal.md) 
 
-### [Hermsdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinHermsdorf.private.md) 
+### [Hermsdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Hermsdorf.protect.md) 
 
-### [Hermsdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinHermsdorf.personal.md) 
+### [Hermsdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Hermsdorf.private.md) 
 
-### [Hermsdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinHermsdorf.secret.md)
+### [Hermsdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Hermsdorf.personal.md) 
+
+### [Hermsdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Hermsdorf.secret.md)
 

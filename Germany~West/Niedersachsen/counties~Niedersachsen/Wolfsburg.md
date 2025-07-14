@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wolfsburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWolfsburg.public.md) 
+### [Wolfsburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg.md) 
 
-### [Wolfsburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWolfsburg.internal.md) 
+### [Wolfsburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg.public.md) 
 
-### [Wolfsburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWolfsburg.protect.md) 
+### [Wolfsburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg.internal.md) 
 
-### [Wolfsburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWolfsburg.private.md) 
+### [Wolfsburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg.protect.md) 
 
-### [Wolfsburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWolfsburg.personal.md) 
+### [Wolfsburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg.private.md) 
 
-### [Wolfsburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWolfsburg.secret.md)
+### [Wolfsburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg.personal.md) 
+
+### [Wolfsburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg.secret.md)
 

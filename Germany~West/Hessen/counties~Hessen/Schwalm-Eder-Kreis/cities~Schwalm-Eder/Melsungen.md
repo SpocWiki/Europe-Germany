@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Melsungen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-EderMelsungen.public.md) 
+### [Melsungen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Melsungen.md) 
 
-### [Melsungen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-EderMelsungen.internal.md) 
+### [Melsungen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Melsungen.public.md) 
 
-### [Melsungen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-EderMelsungen.protect.md) 
+### [Melsungen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Melsungen.internal.md) 
 
-### [Melsungen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-EderMelsungen.private.md) 
+### [Melsungen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Melsungen.protect.md) 
 
-### [Melsungen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-EderMelsungen.personal.md) 
+### [Melsungen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Melsungen.private.md) 
 
-### [Melsungen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-EderMelsungen.secret.md)
+### [Melsungen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Melsungen.personal.md) 
+
+### [Melsungen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Melsungen.secret.md)
 

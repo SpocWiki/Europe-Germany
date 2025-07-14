@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Freiberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~MittelsachsenFreiberg.public.md) 
+### [Freiberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Freiberg.md) 
 
-### [Freiberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~MittelsachsenFreiberg.internal.md) 
+### [Freiberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Freiberg.public.md) 
 
-### [Freiberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~MittelsachsenFreiberg.protect.md) 
+### [Freiberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Freiberg.internal.md) 
 
-### [Freiberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~MittelsachsenFreiberg.private.md) 
+### [Freiberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Freiberg.protect.md) 
 
-### [Freiberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~MittelsachsenFreiberg.personal.md) 
+### [Freiberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Freiberg.private.md) 
 
-### [Freiberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~MittelsachsenFreiberg.secret.md)
+### [Freiberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Freiberg.personal.md) 
+
+### [Freiberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Freiberg.secret.md)
 

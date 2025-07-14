@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Altenesch.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Lemwerder\boroughs~LemwerderAltenesch.public.md) 
+### [Altenesch](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Lemwerder/boroughs~Lemwerder/Altenesch.md) 
 
-### [Altenesch.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Lemwerder\boroughs~LemwerderAltenesch.internal.md) 
+### [Altenesch.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Lemwerder/boroughs~Lemwerder/Altenesch.public.md) 
 
-### [Altenesch.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Lemwerder\boroughs~LemwerderAltenesch.protect.md) 
+### [Altenesch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Lemwerder/boroughs~Lemwerder/Altenesch.internal.md) 
 
-### [Altenesch.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Lemwerder\boroughs~LemwerderAltenesch.private.md) 
+### [Altenesch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Lemwerder/boroughs~Lemwerder/Altenesch.protect.md) 
 
-### [Altenesch.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Lemwerder\boroughs~LemwerderAltenesch.personal.md) 
+### [Altenesch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Lemwerder/boroughs~Lemwerder/Altenesch.private.md) 
 
-### [Altenesch.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Lemwerder\boroughs~LemwerderAltenesch.secret.md)
+### [Altenesch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Lemwerder/boroughs~Lemwerder/Altenesch.personal.md) 
+
+### [Altenesch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Lemwerder/boroughs~Lemwerder/Altenesch.secret.md)
 

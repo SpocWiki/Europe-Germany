@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gymnich.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-Kreis\ErftstadtGymnich.public.md) 
+### [Gymnich](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Erftstadt/Gymnich.md) 
 
-### [Gymnich.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-Kreis\ErftstadtGymnich.internal.md) 
+### [Gymnich.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Erftstadt/Gymnich.public.md) 
 
-### [Gymnich.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-Kreis\ErftstadtGymnich.protect.md) 
+### [Gymnich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Erftstadt/Gymnich.internal.md) 
 
-### [Gymnich.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-Kreis\ErftstadtGymnich.private.md) 
+### [Gymnich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Erftstadt/Gymnich.protect.md) 
 
-### [Gymnich.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-Kreis\ErftstadtGymnich.personal.md) 
+### [Gymnich.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Erftstadt/Gymnich.private.md) 
 
-### [Gymnich.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-Kreis\ErftstadtGymnich.secret.md)
+### [Gymnich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Erftstadt/Gymnich.personal.md) 
+
+### [Gymnich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Erftstadt/Gymnich.secret.md)
 

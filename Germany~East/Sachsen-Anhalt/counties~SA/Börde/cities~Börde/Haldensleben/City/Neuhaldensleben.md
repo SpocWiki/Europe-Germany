@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neuhaldensleben.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Haldensleben\CityNeuhaldensleben.public.md) 
+### [Neuhaldensleben](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Haldensleben/City/Neuhaldensleben.md) 
 
-### [Neuhaldensleben.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Haldensleben\CityNeuhaldensleben.internal.md) 
+### [Neuhaldensleben.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Haldensleben/City/Neuhaldensleben.public.md) 
 
-### [Neuhaldensleben.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Haldensleben\CityNeuhaldensleben.protect.md) 
+### [Neuhaldensleben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Haldensleben/City/Neuhaldensleben.internal.md) 
 
-### [Neuhaldensleben.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Haldensleben\CityNeuhaldensleben.private.md) 
+### [Neuhaldensleben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Haldensleben/City/Neuhaldensleben.protect.md) 
 
-### [Neuhaldensleben.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Haldensleben\CityNeuhaldensleben.personal.md) 
+### [Neuhaldensleben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Haldensleben/City/Neuhaldensleben.private.md) 
 
-### [Neuhaldensleben.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Haldensleben\CityNeuhaldensleben.secret.md)
+### [Neuhaldensleben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Haldensleben/City/Neuhaldensleben.personal.md) 
+
+### [Neuhaldensleben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Haldensleben/City/Neuhaldensleben.secret.md)
 

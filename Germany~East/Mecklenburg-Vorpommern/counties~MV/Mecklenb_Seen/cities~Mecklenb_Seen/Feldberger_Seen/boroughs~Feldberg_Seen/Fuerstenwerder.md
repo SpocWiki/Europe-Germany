@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fuerstenwerder.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Feldberger_Seen\boroughs~Feldberg_SeenFuerstenwerder.public.md) 
+### [Fuerstenwerder](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Feldberger_Seen/boroughs~Feldberg_Seen/Fuerstenwerder.md) 
 
-### [Fuerstenwerder.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Feldberger_Seen\boroughs~Feldberg_SeenFuerstenwerder.internal.md) 
+### [Fuerstenwerder.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Feldberger_Seen/boroughs~Feldberg_Seen/Fuerstenwerder.public.md) 
 
-### [Fuerstenwerder.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Feldberger_Seen\boroughs~Feldberg_SeenFuerstenwerder.protect.md) 
+### [Fuerstenwerder.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Feldberger_Seen/boroughs~Feldberg_Seen/Fuerstenwerder.internal.md) 
 
-### [Fuerstenwerder.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Feldberger_Seen\boroughs~Feldberg_SeenFuerstenwerder.private.md) 
+### [Fuerstenwerder.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Feldberger_Seen/boroughs~Feldberg_Seen/Fuerstenwerder.protect.md) 
 
-### [Fuerstenwerder.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Feldberger_Seen\boroughs~Feldberg_SeenFuerstenwerder.personal.md) 
+### [Fuerstenwerder.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Feldberger_Seen/boroughs~Feldberg_Seen/Fuerstenwerder.private.md) 
 
-### [Fuerstenwerder.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Feldberger_Seen\boroughs~Feldberg_SeenFuerstenwerder.secret.md)
+### [Fuerstenwerder.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Feldberger_Seen/boroughs~Feldberg_Seen/Fuerstenwerder.personal.md) 
+
+### [Fuerstenwerder.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Feldberger_Seen/boroughs~Feldberg_Seen/Fuerstenwerder.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rheine.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtRheine.public.md) 
+### [Rheine](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Rheine.md) 
 
-### [Rheine.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtRheine.internal.md) 
+### [Rheine.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Rheine.public.md) 
 
-### [Rheine.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtRheine.protect.md) 
+### [Rheine.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Rheine.internal.md) 
 
-### [Rheine.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtRheine.private.md) 
+### [Rheine.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Rheine.protect.md) 
 
-### [Rheine.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtRheine.personal.md) 
+### [Rheine.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Rheine.private.md) 
 
-### [Rheine.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtRheine.secret.md)
+### [Rheine.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Rheine.personal.md) 
+
+### [Rheine.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Rheine.secret.md)
 

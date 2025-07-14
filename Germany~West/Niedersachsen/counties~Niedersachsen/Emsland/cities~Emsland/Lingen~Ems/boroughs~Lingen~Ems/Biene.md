@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Biene.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Lingen~Ems\boroughs~Lingen~EmsBiene.public.md) 
+### [Biene](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Lingen~Ems/boroughs~Lingen~Ems/Biene.md) 
 
-### [Biene.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Lingen~Ems\boroughs~Lingen~EmsBiene.internal.md) 
+### [Biene.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Lingen~Ems/boroughs~Lingen~Ems/Biene.public.md) 
 
-### [Biene.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Lingen~Ems\boroughs~Lingen~EmsBiene.protect.md) 
+### [Biene.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Lingen~Ems/boroughs~Lingen~Ems/Biene.internal.md) 
 
-### [Biene.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Lingen~Ems\boroughs~Lingen~EmsBiene.private.md) 
+### [Biene.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Lingen~Ems/boroughs~Lingen~Ems/Biene.protect.md) 
 
-### [Biene.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Lingen~Ems\boroughs~Lingen~EmsBiene.personal.md) 
+### [Biene.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Lingen~Ems/boroughs~Lingen~Ems/Biene.private.md) 
 
-### [Biene.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Lingen~Ems\boroughs~Lingen~EmsBiene.secret.md)
+### [Biene.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Lingen~Ems/boroughs~Lingen~Ems/Biene.personal.md) 
+
+### [Biene.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Lingen~Ems/boroughs~Lingen~Ems/Biene.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Holtorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~WeserHoltorf.public.md) 
+### [Holtorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Holtorf.md) 
 
-### [Holtorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~WeserHoltorf.internal.md) 
+### [Holtorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Holtorf.public.md) 
 
-### [Holtorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~WeserHoltorf.protect.md) 
+### [Holtorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Holtorf.internal.md) 
 
-### [Holtorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~WeserHoltorf.private.md) 
+### [Holtorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Holtorf.protect.md) 
 
-### [Holtorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~WeserHoltorf.personal.md) 
+### [Holtorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Holtorf.private.md) 
 
-### [Holtorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~WeserHoltorf.secret.md)
+### [Holtorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Holtorf.personal.md) 
+
+### [Holtorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Holtorf.secret.md)
 

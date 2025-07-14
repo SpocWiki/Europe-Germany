@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pulsnitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~BautzenPulsnitz.public.md) 
+### [Pulsnitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Pulsnitz.md) 
 
-### [Pulsnitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~BautzenPulsnitz.internal.md) 
+### [Pulsnitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Pulsnitz.public.md) 
 
-### [Pulsnitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~BautzenPulsnitz.protect.md) 
+### [Pulsnitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Pulsnitz.internal.md) 
 
-### [Pulsnitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~BautzenPulsnitz.private.md) 
+### [Pulsnitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Pulsnitz.protect.md) 
 
-### [Pulsnitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~BautzenPulsnitz.personal.md) 
+### [Pulsnitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Pulsnitz.private.md) 
 
-### [Pulsnitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~BautzenPulsnitz.secret.md)
+### [Pulsnitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Pulsnitz.personal.md) 
+
+### [Pulsnitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Pulsnitz.secret.md)
 

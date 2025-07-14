@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Loburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_Land\Möckern\CityLoburg.public.md) 
+### [Loburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Möckern/City/Loburg.md) 
 
-### [Loburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_Land\Möckern\CityLoburg.internal.md) 
+### [Loburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Möckern/City/Loburg.public.md) 
 
-### [Loburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_Land\Möckern\CityLoburg.protect.md) 
+### [Loburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Möckern/City/Loburg.internal.md) 
 
-### [Loburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_Land\Möckern\CityLoburg.private.md) 
+### [Loburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Möckern/City/Loburg.protect.md) 
 
-### [Loburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_Land\Möckern\CityLoburg.personal.md) 
+### [Loburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Möckern/City/Loburg.private.md) 
 
-### [Loburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_Land\Möckern\CityLoburg.secret.md)
+### [Loburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Möckern/City/Loburg.personal.md) 
+
+### [Loburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Möckern/City/Loburg.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wadersloh.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfWadersloh.public.md) 
+### [Wadersloh](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Wadersloh.md) 
 
-### [Wadersloh.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfWadersloh.internal.md) 
+### [Wadersloh.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Wadersloh.public.md) 
 
-### [Wadersloh.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfWadersloh.protect.md) 
+### [Wadersloh.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Wadersloh.internal.md) 
 
-### [Wadersloh.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfWadersloh.private.md) 
+### [Wadersloh.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Wadersloh.protect.md) 
 
-### [Wadersloh.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfWadersloh.personal.md) 
+### [Wadersloh.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Wadersloh.private.md) 
 
-### [Wadersloh.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfWadersloh.secret.md)
+### [Wadersloh.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Wadersloh.personal.md) 
+
+### [Wadersloh.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Wadersloh.secret.md)
 

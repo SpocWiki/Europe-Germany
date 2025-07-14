@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wiepke.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Gardelegen\CityWiepke.public.md) 
+### [Wiepke](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Gardelegen/City/Wiepke.md) 
 
-### [Wiepke.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Gardelegen\CityWiepke.internal.md) 
+### [Wiepke.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Gardelegen/City/Wiepke.public.md) 
 
-### [Wiepke.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Gardelegen\CityWiepke.protect.md) 
+### [Wiepke.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Gardelegen/City/Wiepke.internal.md) 
 
-### [Wiepke.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Gardelegen\CityWiepke.private.md) 
+### [Wiepke.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Gardelegen/City/Wiepke.protect.md) 
 
-### [Wiepke.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Gardelegen\CityWiepke.personal.md) 
+### [Wiepke.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Gardelegen/City/Wiepke.private.md) 
 
-### [Wiepke.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Gardelegen\CityWiepke.secret.md)
+### [Wiepke.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Gardelegen/City/Wiepke.personal.md) 
+
+### [Wiepke.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Gardelegen/City/Wiepke.secret.md)
 

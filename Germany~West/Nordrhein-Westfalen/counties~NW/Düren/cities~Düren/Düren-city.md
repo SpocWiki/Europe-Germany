@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Düren-city.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~DürenDüren-city.public.md) 
+### [Düren-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city.md) 
 
-### [Düren-city.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~DürenDüren-city.internal.md) 
+### [Düren-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city.public.md) 
 
-### [Düren-city.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~DürenDüren-city.protect.md) 
+### [Düren-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city.internal.md) 
 
-### [Düren-city.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~DürenDüren-city.private.md) 
+### [Düren-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city.protect.md) 
 
-### [Düren-city.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~DürenDüren-city.personal.md) 
+### [Düren-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city.private.md) 
 
-### [Düren-city.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~DürenDüren-city.secret.md)
+### [Düren-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city.personal.md) 
+
+### [Düren-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city.secret.md)
 

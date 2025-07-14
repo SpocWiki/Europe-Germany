@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gürzenich,Düren.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~Düren\Düren-cityGürzenich,Düren.public.md) 
+### [Gürzenich,Düren](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city/Gürzenich,Düren.md) 
 
-### [Gürzenich,Düren.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~Düren\Düren-cityGürzenich,Düren.internal.md) 
+### [Gürzenich,Düren.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city/Gürzenich,Düren.public.md) 
 
-### [Gürzenich,Düren.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~Düren\Düren-cityGürzenich,Düren.protect.md) 
+### [Gürzenich,Düren.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city/Gürzenich,Düren.internal.md) 
 
-### [Gürzenich,Düren.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~Düren\Düren-cityGürzenich,Düren.private.md) 
+### [Gürzenich,Düren.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city/Gürzenich,Düren.protect.md) 
 
-### [Gürzenich,Düren.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~Düren\Düren-cityGürzenich,Düren.personal.md) 
+### [Gürzenich,Düren.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city/Gürzenich,Düren.private.md) 
 
-### [Gürzenich,Düren.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~Düren\Düren-cityGürzenich,Düren.secret.md)
+### [Gürzenich,Düren.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city/Gürzenich,Düren.personal.md) 
+
+### [Gürzenich,Düren.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city/Gürzenich,Düren.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Koenigshain.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Reichenbach_O.L\CityKoenigshain.public.md) 
+### [Koenigshain](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Reichenbach_O.L/City/Koenigshain.md) 
 
-### [Koenigshain.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Reichenbach_O.L\CityKoenigshain.internal.md) 
+### [Koenigshain.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Reichenbach_O.L/City/Koenigshain.public.md) 
 
-### [Koenigshain.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Reichenbach_O.L\CityKoenigshain.protect.md) 
+### [Koenigshain.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Reichenbach_O.L/City/Koenigshain.internal.md) 
 
-### [Koenigshain.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Reichenbach_O.L\CityKoenigshain.private.md) 
+### [Koenigshain.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Reichenbach_O.L/City/Koenigshain.protect.md) 
 
-### [Koenigshain.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Reichenbach_O.L\CityKoenigshain.personal.md) 
+### [Koenigshain.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Reichenbach_O.L/City/Koenigshain.private.md) 
 
-### [Koenigshain.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Reichenbach_O.L\CityKoenigshain.secret.md)
+### [Koenigshain.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Reichenbach_O.L/City/Koenigshain.personal.md) 
+
+### [Koenigshain.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Reichenbach_O.L/City/Koenigshain.secret.md)
 

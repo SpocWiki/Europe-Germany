@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nordholz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Wurster~Nordsee\boroughs~Wurster~NordseeNordholz.public.md) 
+### [Nordholz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Wurster~Nordsee/boroughs~Wurster~Nordsee/Nordholz.md) 
 
-### [Nordholz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Wurster~Nordsee\boroughs~Wurster~NordseeNordholz.internal.md) 
+### [Nordholz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Wurster~Nordsee/boroughs~Wurster~Nordsee/Nordholz.public.md) 
 
-### [Nordholz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Wurster~Nordsee\boroughs~Wurster~NordseeNordholz.protect.md) 
+### [Nordholz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Wurster~Nordsee/boroughs~Wurster~Nordsee/Nordholz.internal.md) 
 
-### [Nordholz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Wurster~Nordsee\boroughs~Wurster~NordseeNordholz.private.md) 
+### [Nordholz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Wurster~Nordsee/boroughs~Wurster~Nordsee/Nordholz.protect.md) 
 
-### [Nordholz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Wurster~Nordsee\boroughs~Wurster~NordseeNordholz.personal.md) 
+### [Nordholz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Wurster~Nordsee/boroughs~Wurster~Nordsee/Nordholz.private.md) 
 
-### [Nordholz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Wurster~Nordsee\boroughs~Wurster~NordseeNordholz.secret.md)
+### [Nordholz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Wurster~Nordsee/boroughs~Wurster~Nordsee/Nordholz.personal.md) 
+
+### [Nordholz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Wurster~Nordsee/boroughs~Wurster~Nordsee/Nordholz.secret.md)
 

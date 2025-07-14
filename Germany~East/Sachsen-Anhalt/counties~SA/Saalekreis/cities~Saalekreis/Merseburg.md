@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Merseburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~SaalekreisMerseburg.public.md) 
+### [Merseburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Merseburg.md) 
 
-### [Merseburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~SaalekreisMerseburg.internal.md) 
+### [Merseburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Merseburg.public.md) 
 
-### [Merseburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~SaalekreisMerseburg.protect.md) 
+### [Merseburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Merseburg.internal.md) 
 
-### [Merseburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~SaalekreisMerseburg.private.md) 
+### [Merseburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Merseburg.protect.md) 
 
-### [Merseburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~SaalekreisMerseburg.personal.md) 
+### [Merseburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Merseburg.private.md) 
 
-### [Merseburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~SaalekreisMerseburg.secret.md)
+### [Merseburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Merseburg.personal.md) 
+
+### [Merseburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Merseburg.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wermelskirchen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rheinisch-Berg.Kreis\cities~Rheinisch-BergischWermelskirchen.public.md) 
+### [Wermelskirchen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Wermelskirchen.md) 
 
-### [Wermelskirchen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rheinisch-Berg.Kreis\cities~Rheinisch-BergischWermelskirchen.internal.md) 
+### [Wermelskirchen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Wermelskirchen.public.md) 
 
-### [Wermelskirchen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rheinisch-Berg.Kreis\cities~Rheinisch-BergischWermelskirchen.protect.md) 
+### [Wermelskirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Wermelskirchen.internal.md) 
 
-### [Wermelskirchen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rheinisch-Berg.Kreis\cities~Rheinisch-BergischWermelskirchen.private.md) 
+### [Wermelskirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Wermelskirchen.protect.md) 
 
-### [Wermelskirchen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rheinisch-Berg.Kreis\cities~Rheinisch-BergischWermelskirchen.personal.md) 
+### [Wermelskirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Wermelskirchen.private.md) 
 
-### [Wermelskirchen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rheinisch-Berg.Kreis\cities~Rheinisch-BergischWermelskirchen.secret.md)
+### [Wermelskirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Wermelskirchen.personal.md) 
+
+### [Wermelskirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Wermelskirchen.secret.md)
 

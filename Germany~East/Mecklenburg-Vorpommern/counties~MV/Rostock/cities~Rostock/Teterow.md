@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Teterow.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~RostockTeterow.public.md) 
+### [Teterow](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Teterow.md) 
 
-### [Teterow.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~RostockTeterow.internal.md) 
+### [Teterow.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Teterow.public.md) 
 
-### [Teterow.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~RostockTeterow.protect.md) 
+### [Teterow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Teterow.internal.md) 
 
-### [Teterow.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~RostockTeterow.private.md) 
+### [Teterow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Teterow.protect.md) 
 
-### [Teterow.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~RostockTeterow.personal.md) 
+### [Teterow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Teterow.private.md) 
 
-### [Teterow.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~RostockTeterow.secret.md)
+### [Teterow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Teterow.personal.md) 
+
+### [Teterow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Teterow.secret.md)
 

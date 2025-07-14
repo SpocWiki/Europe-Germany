@@ -30,15 +30,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [T-Textorstraße.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Textorstraße.public.md) 
+### [T-Textorstraße](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Textorstraße.md) 
 
-### [T-Textorstraße.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Textorstraße.internal.md) 
+### [T-Textorstraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Textorstraße.public.md) 
 
-### [T-Textorstraße.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Textorstraße.protect.md) 
+### [T-Textorstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Textorstraße.internal.md) 
 
-### [T-Textorstraße.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Textorstraße.private.md) 
+### [T-Textorstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Textorstraße.protect.md) 
 
-### [T-Textorstraße.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Textorstraße.personal.md) 
+### [T-Textorstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Textorstraße.private.md) 
 
-### [T-Textorstraße.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Textorstraße.secret.md)
+### [T-Textorstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Textorstraße.personal.md) 
+
+### [T-Textorstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Textorstraße.secret.md)
 

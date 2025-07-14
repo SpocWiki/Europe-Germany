@@ -30,15 +30,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [T-Zuckschwerdtstraße.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Zuckschwerdtstraße.public.md) 
+### [T-Zuckschwerdtstraße](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Zuckschwerdtstraße.md) 
 
-### [T-Zuckschwerdtstraße.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Zuckschwerdtstraße.internal.md) 
+### [T-Zuckschwerdtstraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Zuckschwerdtstraße.public.md) 
 
-### [T-Zuckschwerdtstraße.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Zuckschwerdtstraße.protect.md) 
+### [T-Zuckschwerdtstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Zuckschwerdtstraße.internal.md) 
 
-### [T-Zuckschwerdtstraße.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Zuckschwerdtstraße.private.md) 
+### [T-Zuckschwerdtstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Zuckschwerdtstraße.protect.md) 
 
-### [T-Zuckschwerdtstraße.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Zuckschwerdtstraße.personal.md) 
+### [T-Zuckschwerdtstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Zuckschwerdtstraße.private.md) 
 
-### [T-Zuckschwerdtstraße.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Zuckschwerdtstraße.secret.md)
+### [T-Zuckschwerdtstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Zuckschwerdtstraße.personal.md) 
+
+### [T-Zuckschwerdtstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Zuckschwerdtstraße.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Heiligenhaus.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannHeiligenhaus.public.md) 
+### [Heiligenhaus](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Heiligenhaus.md) 
 
-### [Heiligenhaus.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannHeiligenhaus.internal.md) 
+### [Heiligenhaus.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Heiligenhaus.public.md) 
 
-### [Heiligenhaus.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannHeiligenhaus.protect.md) 
+### [Heiligenhaus.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Heiligenhaus.internal.md) 
 
-### [Heiligenhaus.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannHeiligenhaus.private.md) 
+### [Heiligenhaus.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Heiligenhaus.protect.md) 
 
-### [Heiligenhaus.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannHeiligenhaus.personal.md) 
+### [Heiligenhaus.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Heiligenhaus.private.md) 
 
-### [Heiligenhaus.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannHeiligenhaus.secret.md)
+### [Heiligenhaus.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Heiligenhaus.personal.md) 
+
+### [Heiligenhaus.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Heiligenhaus.secret.md)
 

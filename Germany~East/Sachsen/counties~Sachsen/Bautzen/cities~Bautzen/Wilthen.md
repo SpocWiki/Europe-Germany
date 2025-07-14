@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wilthen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~BautzenWilthen.public.md) 
+### [Wilthen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Wilthen.md) 
 
-### [Wilthen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~BautzenWilthen.internal.md) 
+### [Wilthen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Wilthen.public.md) 
 
-### [Wilthen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~BautzenWilthen.protect.md) 
+### [Wilthen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Wilthen.internal.md) 
 
-### [Wilthen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~BautzenWilthen.private.md) 
+### [Wilthen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Wilthen.protect.md) 
 
-### [Wilthen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~BautzenWilthen.personal.md) 
+### [Wilthen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Wilthen.private.md) 
 
-### [Wilthen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~BautzenWilthen.secret.md)
+### [Wilthen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Wilthen.personal.md) 
+
+### [Wilthen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Wilthen.secret.md)
 

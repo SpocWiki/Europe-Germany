@@ -29,15 +29,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [Emden.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenEmden.public.md) 
+### [Emden](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden.md) 
 
-### [Emden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenEmden.internal.md) 
+### [Emden.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden.public.md) 
 
-### [Emden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenEmden.protect.md) 
+### [Emden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden.internal.md) 
 
-### [Emden.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenEmden.private.md) 
+### [Emden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden.protect.md) 
 
-### [Emden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenEmden.personal.md) 
+### [Emden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden.private.md) 
 
-### [Emden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenEmden.secret.md)
+### [Emden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden.personal.md) 
+
+### [Emden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emden.secret.md)
 

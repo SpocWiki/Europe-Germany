@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zoerbig.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Zörbig\CityZoerbig.public.md) 
+### [Zoerbig](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zörbig/City/Zoerbig.md) 
 
-### [Zoerbig.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Zörbig\CityZoerbig.internal.md) 
+### [Zoerbig.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zörbig/City/Zoerbig.public.md) 
 
-### [Zoerbig.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Zörbig\CityZoerbig.protect.md) 
+### [Zoerbig.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zörbig/City/Zoerbig.internal.md) 
 
-### [Zoerbig.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Zörbig\CityZoerbig.private.md) 
+### [Zoerbig.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zörbig/City/Zoerbig.protect.md) 
 
-### [Zoerbig.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Zörbig\CityZoerbig.personal.md) 
+### [Zoerbig.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zörbig/City/Zoerbig.private.md) 
 
-### [Zoerbig.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Zörbig\CityZoerbig.secret.md)
+### [Zoerbig.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zörbig/City/Zoerbig.personal.md) 
+
+### [Zoerbig.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zörbig/City/Zoerbig.secret.md)
 

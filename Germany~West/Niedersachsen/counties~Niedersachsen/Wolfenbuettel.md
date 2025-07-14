@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wolfenbuettel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWolfenbuettel.public.md) 
+### [Wolfenbuettel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel.md) 
 
-### [Wolfenbuettel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWolfenbuettel.internal.md) 
+### [Wolfenbuettel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel.public.md) 
 
-### [Wolfenbuettel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWolfenbuettel.protect.md) 
+### [Wolfenbuettel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel.internal.md) 
 
-### [Wolfenbuettel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWolfenbuettel.private.md) 
+### [Wolfenbuettel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel.protect.md) 
 
-### [Wolfenbuettel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWolfenbuettel.personal.md) 
+### [Wolfenbuettel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel.private.md) 
 
-### [Wolfenbuettel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWolfenbuettel.secret.md)
+### [Wolfenbuettel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel.personal.md) 
+
+### [Wolfenbuettel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel.secret.md)
 

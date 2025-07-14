@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Borna.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~LeipzigBorna.public.md) 
+### [Borna](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Borna.md) 
 
-### [Borna.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~LeipzigBorna.internal.md) 
+### [Borna.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Borna.public.md) 
 
-### [Borna.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~LeipzigBorna.protect.md) 
+### [Borna.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Borna.internal.md) 
 
-### [Borna.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~LeipzigBorna.private.md) 
+### [Borna.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Borna.protect.md) 
 
-### [Borna.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~LeipzigBorna.personal.md) 
+### [Borna.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Borna.private.md) 
 
-### [Borna.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~LeipzigBorna.secret.md)
+### [Borna.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Borna.personal.md) 
+
+### [Borna.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Borna.secret.md)
 

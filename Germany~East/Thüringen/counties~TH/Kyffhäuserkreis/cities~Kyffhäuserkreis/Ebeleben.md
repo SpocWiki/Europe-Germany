@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ebeleben.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~KyffhäuserkreisEbeleben.public.md) 
+### [Ebeleben](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Ebeleben.md) 
 
-### [Ebeleben.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~KyffhäuserkreisEbeleben.internal.md) 
+### [Ebeleben.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Ebeleben.public.md) 
 
-### [Ebeleben.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~KyffhäuserkreisEbeleben.protect.md) 
+### [Ebeleben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Ebeleben.internal.md) 
 
-### [Ebeleben.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~KyffhäuserkreisEbeleben.private.md) 
+### [Ebeleben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Ebeleben.protect.md) 
 
-### [Ebeleben.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~KyffhäuserkreisEbeleben.personal.md) 
+### [Ebeleben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Ebeleben.private.md) 
 
-### [Ebeleben.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~KyffhäuserkreisEbeleben.secret.md)
+### [Ebeleben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Ebeleben.personal.md) 
+
+### [Ebeleben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Ebeleben.secret.md)
 

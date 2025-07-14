@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lengerich.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtLengerich.public.md) 
+### [Lengerich](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Lengerich.md) 
 
-### [Lengerich.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtLengerich.internal.md) 
+### [Lengerich.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Lengerich.public.md) 
 
-### [Lengerich.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtLengerich.protect.md) 
+### [Lengerich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Lengerich.internal.md) 
 
-### [Lengerich.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtLengerich.private.md) 
+### [Lengerich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Lengerich.protect.md) 
 
-### [Lengerich.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtLengerich.personal.md) 
+### [Lengerich.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Lengerich.private.md) 
 
-### [Lengerich.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtLengerich.secret.md)
+### [Lengerich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Lengerich.personal.md) 
+
+### [Lengerich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Lengerich.secret.md)
 

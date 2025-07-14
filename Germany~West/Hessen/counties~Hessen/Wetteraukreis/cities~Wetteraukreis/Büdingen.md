@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Büdingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisBüdingen.public.md) 
+### [Büdingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Büdingen.md) 
 
-### [Büdingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisBüdingen.internal.md) 
+### [Büdingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Büdingen.public.md) 
 
-### [Büdingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisBüdingen.protect.md) 
+### [Büdingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Büdingen.internal.md) 
 
-### [Büdingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisBüdingen.private.md) 
+### [Büdingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Büdingen.protect.md) 
 
-### [Büdingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisBüdingen.personal.md) 
+### [Büdingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Büdingen.private.md) 
 
-### [Büdingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisBüdingen.secret.md)
+### [Büdingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Büdingen.personal.md) 
+
+### [Büdingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Büdingen.secret.md)
 

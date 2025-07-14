@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mohsdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Königshain-Wiederau\CityMohsdorf.public.md) 
+### [Mohsdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Königshain-Wiederau/City/Mohsdorf.md) 
 
-### [Mohsdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Königshain-Wiederau\CityMohsdorf.internal.md) 
+### [Mohsdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Königshain-Wiederau/City/Mohsdorf.public.md) 
 
-### [Mohsdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Königshain-Wiederau\CityMohsdorf.protect.md) 
+### [Mohsdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Königshain-Wiederau/City/Mohsdorf.internal.md) 
 
-### [Mohsdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Königshain-Wiederau\CityMohsdorf.private.md) 
+### [Mohsdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Königshain-Wiederau/City/Mohsdorf.protect.md) 
 
-### [Mohsdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Königshain-Wiederau\CityMohsdorf.personal.md) 
+### [Mohsdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Königshain-Wiederau/City/Mohsdorf.private.md) 
 
-### [Mohsdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Königshain-Wiederau\CityMohsdorf.secret.md)
+### [Mohsdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Königshain-Wiederau/City/Mohsdorf.personal.md) 
+
+### [Mohsdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Königshain-Wiederau/City/Mohsdorf.secret.md)
 

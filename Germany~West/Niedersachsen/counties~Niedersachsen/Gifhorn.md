@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gifhorn.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenGifhorn.public.md) 
+### [Gifhorn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn.md) 
 
-### [Gifhorn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenGifhorn.internal.md) 
+### [Gifhorn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn.public.md) 
 
-### [Gifhorn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenGifhorn.protect.md) 
+### [Gifhorn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn.internal.md) 
 
-### [Gifhorn.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenGifhorn.private.md) 
+### [Gifhorn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn.protect.md) 
 
-### [Gifhorn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenGifhorn.personal.md) 
+### [Gifhorn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn.private.md) 
 
-### [Gifhorn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenGifhorn.secret.md)
+### [Gifhorn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn.personal.md) 
+
+### [Gifhorn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn.secret.md)
 

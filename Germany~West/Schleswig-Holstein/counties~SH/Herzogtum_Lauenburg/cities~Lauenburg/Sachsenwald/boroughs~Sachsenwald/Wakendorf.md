@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wakendorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~Lauenburg\Sachsenwald\boroughs~SachsenwaldWakendorf.public.md) 
+### [Wakendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Sachsenwald/boroughs~Sachsenwald/Wakendorf.md) 
 
-### [Wakendorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~Lauenburg\Sachsenwald\boroughs~SachsenwaldWakendorf.internal.md) 
+### [Wakendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Sachsenwald/boroughs~Sachsenwald/Wakendorf.public.md) 
 
-### [Wakendorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~Lauenburg\Sachsenwald\boroughs~SachsenwaldWakendorf.protect.md) 
+### [Wakendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Sachsenwald/boroughs~Sachsenwald/Wakendorf.internal.md) 
 
-### [Wakendorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~Lauenburg\Sachsenwald\boroughs~SachsenwaldWakendorf.private.md) 
+### [Wakendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Sachsenwald/boroughs~Sachsenwald/Wakendorf.protect.md) 
 
-### [Wakendorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~Lauenburg\Sachsenwald\boroughs~SachsenwaldWakendorf.personal.md) 
+### [Wakendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Sachsenwald/boroughs~Sachsenwald/Wakendorf.private.md) 
 
-### [Wakendorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~Lauenburg\Sachsenwald\boroughs~SachsenwaldWakendorf.secret.md)
+### [Wakendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Sachsenwald/boroughs~Sachsenwald/Wakendorf.personal.md) 
+
+### [Wakendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Sachsenwald/boroughs~Sachsenwald/Wakendorf.secret.md)
 

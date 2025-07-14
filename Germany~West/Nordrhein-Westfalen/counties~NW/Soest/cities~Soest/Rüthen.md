@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rüthen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~SoestRüthen.public.md) 
+### [Rüthen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Rüthen.md) 
 
-### [Rüthen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~SoestRüthen.internal.md) 
+### [Rüthen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Rüthen.public.md) 
 
-### [Rüthen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~SoestRüthen.protect.md) 
+### [Rüthen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Rüthen.internal.md) 
 
-### [Rüthen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~SoestRüthen.private.md) 
+### [Rüthen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Rüthen.protect.md) 
 
-### [Rüthen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~SoestRüthen.personal.md) 
+### [Rüthen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Rüthen.private.md) 
 
-### [Rüthen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~SoestRüthen.secret.md)
+### [Rüthen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Rüthen.personal.md) 
+
+### [Rüthen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Rüthen.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bleddin.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Dommitzsch\CityBleddin.public.md) 
+### [Bleddin](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Dommitzsch/City/Bleddin.md) 
 
-### [Bleddin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Dommitzsch\CityBleddin.internal.md) 
+### [Bleddin.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Dommitzsch/City/Bleddin.public.md) 
 
-### [Bleddin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Dommitzsch\CityBleddin.protect.md) 
+### [Bleddin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Dommitzsch/City/Bleddin.internal.md) 
 
-### [Bleddin.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Dommitzsch\CityBleddin.private.md) 
+### [Bleddin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Dommitzsch/City/Bleddin.protect.md) 
 
-### [Bleddin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Dommitzsch\CityBleddin.personal.md) 
+### [Bleddin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Dommitzsch/City/Bleddin.private.md) 
 
-### [Bleddin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Dommitzsch\CityBleddin.secret.md)
+### [Bleddin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Dommitzsch/City/Bleddin.personal.md) 
+
+### [Bleddin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Dommitzsch/City/Bleddin.secret.md)
 

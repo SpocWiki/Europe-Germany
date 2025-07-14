@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Milseburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~Fulda\Hofbieber\boroughs~Rosbach~HöheMilseburg.public.md) 
+### [Milseburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Hofbieber/boroughs~Rosbach~Höhe/Milseburg.md) 
 
-### [Milseburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~Fulda\Hofbieber\boroughs~Rosbach~HöheMilseburg.internal.md) 
+### [Milseburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Hofbieber/boroughs~Rosbach~Höhe/Milseburg.public.md) 
 
-### [Milseburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~Fulda\Hofbieber\boroughs~Rosbach~HöheMilseburg.protect.md) 
+### [Milseburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Hofbieber/boroughs~Rosbach~Höhe/Milseburg.internal.md) 
 
-### [Milseburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~Fulda\Hofbieber\boroughs~Rosbach~HöheMilseburg.private.md) 
+### [Milseburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Hofbieber/boroughs~Rosbach~Höhe/Milseburg.protect.md) 
 
-### [Milseburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~Fulda\Hofbieber\boroughs~Rosbach~HöheMilseburg.personal.md) 
+### [Milseburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Hofbieber/boroughs~Rosbach~Höhe/Milseburg.private.md) 
 
-### [Milseburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~Fulda\Hofbieber\boroughs~Rosbach~HöheMilseburg.secret.md)
+### [Milseburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Hofbieber/boroughs~Rosbach~Höhe/Milseburg.personal.md) 
+
+### [Milseburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Hofbieber/boroughs~Rosbach~Höhe/Milseburg.secret.md)
 

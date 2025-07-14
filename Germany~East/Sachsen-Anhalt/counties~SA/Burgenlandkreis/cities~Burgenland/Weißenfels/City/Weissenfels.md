@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Weissenfels.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Burgenlandkreis\cities~Burgenland\Weißenfels\CityWeissenfels.public.md) 
+### [Weissenfels](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Weißenfels/City/Weissenfels.md) 
 
-### [Weissenfels.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Burgenlandkreis\cities~Burgenland\Weißenfels\CityWeissenfels.internal.md) 
+### [Weissenfels.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Weißenfels/City/Weissenfels.public.md) 
 
-### [Weissenfels.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Burgenlandkreis\cities~Burgenland\Weißenfels\CityWeissenfels.protect.md) 
+### [Weissenfels.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Weißenfels/City/Weissenfels.internal.md) 
 
-### [Weissenfels.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Burgenlandkreis\cities~Burgenland\Weißenfels\CityWeissenfels.private.md) 
+### [Weissenfels.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Weißenfels/City/Weissenfels.protect.md) 
 
-### [Weissenfels.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Burgenlandkreis\cities~Burgenland\Weißenfels\CityWeissenfels.personal.md) 
+### [Weissenfels.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Weißenfels/City/Weissenfels.private.md) 
 
-### [Weissenfels.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Burgenlandkreis\cities~Burgenland\Weißenfels\CityWeissenfels.secret.md)
+### [Weissenfels.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Weißenfels/City/Weissenfels.personal.md) 
+
+### [Weissenfels.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Weißenfels/City/Weissenfels.secret.md)
 

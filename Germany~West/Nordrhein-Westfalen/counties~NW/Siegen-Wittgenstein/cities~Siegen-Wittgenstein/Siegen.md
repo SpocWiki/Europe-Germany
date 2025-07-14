@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Siegen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-WittgensteinSiegen.public.md) 
+### [Siegen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Siegen.md) 
 
-### [Siegen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-WittgensteinSiegen.internal.md) 
+### [Siegen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Siegen.public.md) 
 
-### [Siegen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-WittgensteinSiegen.protect.md) 
+### [Siegen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Siegen.internal.md) 
 
-### [Siegen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-WittgensteinSiegen.private.md) 
+### [Siegen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Siegen.protect.md) 
 
-### [Siegen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-WittgensteinSiegen.personal.md) 
+### [Siegen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Siegen.private.md) 
 
-### [Siegen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-WittgensteinSiegen.secret.md)
+### [Siegen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Siegen.personal.md) 
+
+### [Siegen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Siegen.secret.md)
 

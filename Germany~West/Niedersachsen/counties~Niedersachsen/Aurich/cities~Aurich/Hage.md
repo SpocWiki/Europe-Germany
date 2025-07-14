@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hage.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~AurichHage.public.md) 
+### [Hage](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Hage.md) 
 
-### [Hage.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~AurichHage.internal.md) 
+### [Hage.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Hage.public.md) 
 
-### [Hage.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~AurichHage.protect.md) 
+### [Hage.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Hage.internal.md) 
 
-### [Hage.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~AurichHage.private.md) 
+### [Hage.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Hage.protect.md) 
 
-### [Hage.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~AurichHage.personal.md) 
+### [Hage.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Hage.private.md) 
 
-### [Hage.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~AurichHage.secret.md)
+### [Hage.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Hage.personal.md) 
+
+### [Hage.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Hage.secret.md)
 

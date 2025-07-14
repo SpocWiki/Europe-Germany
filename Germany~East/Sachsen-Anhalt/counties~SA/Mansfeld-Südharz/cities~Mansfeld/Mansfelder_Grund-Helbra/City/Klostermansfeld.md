@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Klostermansfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Mansfelder_Grund-Helbra\CityKlostermansfeld.public.md) 
+### [Klostermansfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Mansfelder_Grund-Helbra/City/Klostermansfeld.md) 
 
-### [Klostermansfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Mansfelder_Grund-Helbra\CityKlostermansfeld.internal.md) 
+### [Klostermansfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Mansfelder_Grund-Helbra/City/Klostermansfeld.public.md) 
 
-### [Klostermansfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Mansfelder_Grund-Helbra\CityKlostermansfeld.protect.md) 
+### [Klostermansfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Mansfelder_Grund-Helbra/City/Klostermansfeld.internal.md) 
 
-### [Klostermansfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Mansfelder_Grund-Helbra\CityKlostermansfeld.private.md) 
+### [Klostermansfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Mansfelder_Grund-Helbra/City/Klostermansfeld.protect.md) 
 
-### [Klostermansfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Mansfelder_Grund-Helbra\CityKlostermansfeld.personal.md) 
+### [Klostermansfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Mansfelder_Grund-Helbra/City/Klostermansfeld.private.md) 
 
-### [Klostermansfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Mansfelder_Grund-Helbra\CityKlostermansfeld.secret.md)
+### [Klostermansfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Mansfelder_Grund-Helbra/City/Klostermansfeld.personal.md) 
+
+### [Klostermansfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Mansfelder_Grund-Helbra/City/Klostermansfeld.secret.md)
 

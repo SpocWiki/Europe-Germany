@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hainichen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~MittelsachsenHainichen.public.md) 
+### [Hainichen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Hainichen.md) 
 
-### [Hainichen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~MittelsachsenHainichen.internal.md) 
+### [Hainichen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Hainichen.public.md) 
 
-### [Hainichen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~MittelsachsenHainichen.protect.md) 
+### [Hainichen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Hainichen.internal.md) 
 
-### [Hainichen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~MittelsachsenHainichen.private.md) 
+### [Hainichen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Hainichen.protect.md) 
 
-### [Hainichen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~MittelsachsenHainichen.personal.md) 
+### [Hainichen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Hainichen.private.md) 
 
-### [Hainichen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~MittelsachsenHainichen.secret.md)
+### [Hainichen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Hainichen.personal.md) 
+
+### [Hainichen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Hainichen.secret.md)
 

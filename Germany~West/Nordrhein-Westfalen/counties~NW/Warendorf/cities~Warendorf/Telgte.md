@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Telgte.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfTelgte.public.md) 
+### [Telgte](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Telgte.md) 
 
-### [Telgte.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfTelgte.internal.md) 
+### [Telgte.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Telgte.public.md) 
 
-### [Telgte.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfTelgte.protect.md) 
+### [Telgte.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Telgte.internal.md) 
 
-### [Telgte.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfTelgte.private.md) 
+### [Telgte.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Telgte.protect.md) 
 
-### [Telgte.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfTelgte.personal.md) 
+### [Telgte.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Telgte.private.md) 
 
-### [Telgte.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfTelgte.secret.md)
+### [Telgte.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Telgte.personal.md) 
+
+### [Telgte.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Telgte.secret.md)
 

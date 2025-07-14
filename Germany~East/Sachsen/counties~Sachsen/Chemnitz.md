@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chemnitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~SachsenChemnitz.public.md) 
+### [Chemnitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz.md) 
 
-### [Chemnitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~SachsenChemnitz.internal.md) 
+### [Chemnitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz.public.md) 
 
-### [Chemnitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~SachsenChemnitz.protect.md) 
+### [Chemnitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz.internal.md) 
 
-### [Chemnitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~SachsenChemnitz.private.md) 
+### [Chemnitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz.protect.md) 
 
-### [Chemnitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~SachsenChemnitz.personal.md) 
+### [Chemnitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz.private.md) 
 
-### [Chemnitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~SachsenChemnitz.secret.md)
+### [Chemnitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz.personal.md) 
+
+### [Chemnitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz.secret.md)
 

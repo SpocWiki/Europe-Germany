@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oederan.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~MittelsachsenOederan.public.md) 
+### [Oederan](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Oederan.md) 
 
-### [Oederan.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~MittelsachsenOederan.internal.md) 
+### [Oederan.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Oederan.public.md) 
 
-### [Oederan.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~MittelsachsenOederan.protect.md) 
+### [Oederan.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Oederan.internal.md) 
 
-### [Oederan.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~MittelsachsenOederan.private.md) 
+### [Oederan.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Oederan.protect.md) 
 
-### [Oederan.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~MittelsachsenOederan.personal.md) 
+### [Oederan.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Oederan.private.md) 
 
-### [Oederan.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~MittelsachsenOederan.secret.md)
+### [Oederan.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Oederan.personal.md) 
+
+### [Oederan.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Oederan.secret.md)
 

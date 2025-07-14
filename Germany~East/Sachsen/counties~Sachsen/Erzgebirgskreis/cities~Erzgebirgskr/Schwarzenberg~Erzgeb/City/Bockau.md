@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bockau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Schwarzenberg~Erzgeb\CityBockau.public.md) 
+### [Bockau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Schwarzenberg~Erzgeb/City/Bockau.md) 
 
-### [Bockau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Schwarzenberg~Erzgeb\CityBockau.internal.md) 
+### [Bockau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Schwarzenberg~Erzgeb/City/Bockau.public.md) 
 
-### [Bockau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Schwarzenberg~Erzgeb\CityBockau.protect.md) 
+### [Bockau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Schwarzenberg~Erzgeb/City/Bockau.internal.md) 
 
-### [Bockau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Schwarzenberg~Erzgeb\CityBockau.private.md) 
+### [Bockau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Schwarzenberg~Erzgeb/City/Bockau.protect.md) 
 
-### [Bockau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Schwarzenberg~Erzgeb\CityBockau.personal.md) 
+### [Bockau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Schwarzenberg~Erzgeb/City/Bockau.private.md) 
 
-### [Bockau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Schwarzenberg~Erzgeb\CityBockau.secret.md)
+### [Bockau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Schwarzenberg~Erzgeb/City/Bockau.personal.md) 
+
+### [Bockau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Schwarzenberg~Erzgeb/City/Bockau.secret.md)
 

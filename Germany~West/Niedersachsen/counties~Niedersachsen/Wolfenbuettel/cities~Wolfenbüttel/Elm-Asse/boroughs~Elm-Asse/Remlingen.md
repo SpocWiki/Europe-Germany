@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Remlingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Elm-Asse\boroughs~Elm-AsseRemlingen.public.md) 
+### [Remlingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Elm-Asse/boroughs~Elm-Asse/Remlingen.md) 
 
-### [Remlingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Elm-Asse\boroughs~Elm-AsseRemlingen.internal.md) 
+### [Remlingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Elm-Asse/boroughs~Elm-Asse/Remlingen.public.md) 
 
-### [Remlingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Elm-Asse\boroughs~Elm-AsseRemlingen.protect.md) 
+### [Remlingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Elm-Asse/boroughs~Elm-Asse/Remlingen.internal.md) 
 
-### [Remlingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Elm-Asse\boroughs~Elm-AsseRemlingen.private.md) 
+### [Remlingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Elm-Asse/boroughs~Elm-Asse/Remlingen.protect.md) 
 
-### [Remlingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Elm-Asse\boroughs~Elm-AsseRemlingen.personal.md) 
+### [Remlingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Elm-Asse/boroughs~Elm-Asse/Remlingen.private.md) 
 
-### [Remlingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Elm-Asse\boroughs~Elm-AsseRemlingen.secret.md)
+### [Remlingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Elm-Asse/boroughs~Elm-Asse/Remlingen.personal.md) 
+
+### [Remlingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Elm-Asse/boroughs~Elm-Asse/Remlingen.secret.md)
 

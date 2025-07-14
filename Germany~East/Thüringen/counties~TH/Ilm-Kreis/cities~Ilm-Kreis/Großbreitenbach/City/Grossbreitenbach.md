@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grossbreitenbach.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Großbreitenbach\CityGrossbreitenbach.public.md) 
+### [Grossbreitenbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Großbreitenbach/City/Grossbreitenbach.md) 
 
-### [Grossbreitenbach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Großbreitenbach\CityGrossbreitenbach.internal.md) 
+### [Grossbreitenbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Großbreitenbach/City/Grossbreitenbach.public.md) 
 
-### [Grossbreitenbach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Großbreitenbach\CityGrossbreitenbach.protect.md) 
+### [Grossbreitenbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Großbreitenbach/City/Grossbreitenbach.internal.md) 
 
-### [Grossbreitenbach.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Großbreitenbach\CityGrossbreitenbach.private.md) 
+### [Grossbreitenbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Großbreitenbach/City/Grossbreitenbach.protect.md) 
 
-### [Grossbreitenbach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Großbreitenbach\CityGrossbreitenbach.personal.md) 
+### [Grossbreitenbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Großbreitenbach/City/Grossbreitenbach.private.md) 
 
-### [Grossbreitenbach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Großbreitenbach\CityGrossbreitenbach.secret.md)
+### [Grossbreitenbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Großbreitenbach/City/Grossbreitenbach.personal.md) 
+
+### [Grossbreitenbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Großbreitenbach/City/Grossbreitenbach.secret.md)
 

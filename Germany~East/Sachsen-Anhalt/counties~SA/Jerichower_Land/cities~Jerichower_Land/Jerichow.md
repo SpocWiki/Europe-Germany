@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jerichow.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_LandJerichow.public.md) 
+### [Jerichow](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Jerichow.md) 
 
-### [Jerichow.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_LandJerichow.internal.md) 
+### [Jerichow.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Jerichow.public.md) 
 
-### [Jerichow.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_LandJerichow.protect.md) 
+### [Jerichow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Jerichow.internal.md) 
 
-### [Jerichow.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_LandJerichow.private.md) 
+### [Jerichow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Jerichow.protect.md) 
 
-### [Jerichow.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_LandJerichow.personal.md) 
+### [Jerichow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Jerichow.private.md) 
 
-### [Jerichow.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_LandJerichow.secret.md)
+### [Jerichow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Jerichow.personal.md) 
+
+### [Jerichow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Jerichow.secret.md)
 

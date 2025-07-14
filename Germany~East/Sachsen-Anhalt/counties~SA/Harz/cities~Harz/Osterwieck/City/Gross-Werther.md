@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gross-Werther.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Osterwieck\CityGross-Werther.public.md) 
+### [Gross-Werther](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Osterwieck/City/Gross-Werther.md) 
 
-### [Gross-Werther.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Osterwieck\CityGross-Werther.internal.md) 
+### [Gross-Werther.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Osterwieck/City/Gross-Werther.public.md) 
 
-### [Gross-Werther.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Osterwieck\CityGross-Werther.protect.md) 
+### [Gross-Werther.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Osterwieck/City/Gross-Werther.internal.md) 
 
-### [Gross-Werther.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Osterwieck\CityGross-Werther.private.md) 
+### [Gross-Werther.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Osterwieck/City/Gross-Werther.protect.md) 
 
-### [Gross-Werther.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Osterwieck\CityGross-Werther.personal.md) 
+### [Gross-Werther.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Osterwieck/City/Gross-Werther.private.md) 
 
-### [Gross-Werther.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Osterwieck\CityGross-Werther.secret.md)
+### [Gross-Werther.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Osterwieck/City/Gross-Werther.personal.md) 
+
+### [Gross-Werther.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Osterwieck/City/Gross-Werther.secret.md)
 

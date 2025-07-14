@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Probstzella.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Schiefergebirge\CityProbstzella.public.md) 
+### [Probstzella](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schiefergebirge/City/Probstzella.md) 
 
-### [Probstzella.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Schiefergebirge\CityProbstzella.internal.md) 
+### [Probstzella.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schiefergebirge/City/Probstzella.public.md) 
 
-### [Probstzella.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Schiefergebirge\CityProbstzella.protect.md) 
+### [Probstzella.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schiefergebirge/City/Probstzella.internal.md) 
 
-### [Probstzella.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Schiefergebirge\CityProbstzella.private.md) 
+### [Probstzella.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schiefergebirge/City/Probstzella.protect.md) 
 
-### [Probstzella.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Schiefergebirge\CityProbstzella.personal.md) 
+### [Probstzella.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schiefergebirge/City/Probstzella.private.md) 
 
-### [Probstzella.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Schiefergebirge\CityProbstzella.secret.md)
+### [Probstzella.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schiefergebirge/City/Probstzella.personal.md) 
+
+### [Probstzella.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schiefergebirge/City/Probstzella.secret.md)
 

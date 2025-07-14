@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Trendelburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Kassel-Kreis\cities~KasselTrendelburg.public.md) 
+### [Trendelburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Trendelburg.md) 
 
-### [Trendelburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Kassel-Kreis\cities~KasselTrendelburg.internal.md) 
+### [Trendelburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Trendelburg.public.md) 
 
-### [Trendelburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Kassel-Kreis\cities~KasselTrendelburg.protect.md) 
+### [Trendelburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Trendelburg.internal.md) 
 
-### [Trendelburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Kassel-Kreis\cities~KasselTrendelburg.private.md) 
+### [Trendelburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Trendelburg.protect.md) 
 
-### [Trendelburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Kassel-Kreis\cities~KasselTrendelburg.personal.md) 
+### [Trendelburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Trendelburg.private.md) 
 
-### [Trendelburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Kassel-Kreis\cities~KasselTrendelburg.secret.md)
+### [Trendelburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Trendelburg.personal.md) 
+
+### [Trendelburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Trendelburg.secret.md)
 

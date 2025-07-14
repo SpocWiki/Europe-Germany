@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oberschoeneweide.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinOberschoeneweide.public.md) 
+### [Oberschoeneweide](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Oberschoeneweide.md) 
 
-### [Oberschoeneweide.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinOberschoeneweide.internal.md) 
+### [Oberschoeneweide.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Oberschoeneweide.public.md) 
 
-### [Oberschoeneweide.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinOberschoeneweide.protect.md) 
+### [Oberschoeneweide.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Oberschoeneweide.internal.md) 
 
-### [Oberschoeneweide.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinOberschoeneweide.private.md) 
+### [Oberschoeneweide.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Oberschoeneweide.protect.md) 
 
-### [Oberschoeneweide.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinOberschoeneweide.personal.md) 
+### [Oberschoeneweide.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Oberschoeneweide.private.md) 
 
-### [Oberschoeneweide.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinOberschoeneweide.secret.md)
+### [Oberschoeneweide.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Oberschoeneweide.personal.md) 
+
+### [Oberschoeneweide.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Oberschoeneweide.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oerei.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Geestequelle\boroughs~GeestequelleOerei.public.md) 
+### [Oerei](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Geestequelle/boroughs~Geestequelle/Oerei.md) 
 
-### [Oerei.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Geestequelle\boroughs~GeestequelleOerei.internal.md) 
+### [Oerei.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Geestequelle/boroughs~Geestequelle/Oerei.public.md) 
 
-### [Oerei.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Geestequelle\boroughs~GeestequelleOerei.protect.md) 
+### [Oerei.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Geestequelle/boroughs~Geestequelle/Oerei.internal.md) 
 
-### [Oerei.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Geestequelle\boroughs~GeestequelleOerei.private.md) 
+### [Oerei.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Geestequelle/boroughs~Geestequelle/Oerei.protect.md) 
 
-### [Oerei.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Geestequelle\boroughs~GeestequelleOerei.personal.md) 
+### [Oerei.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Geestequelle/boroughs~Geestequelle/Oerei.private.md) 
 
-### [Oerei.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Geestequelle\boroughs~GeestequelleOerei.secret.md)
+### [Oerei.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Geestequelle/boroughs~Geestequelle/Oerei.personal.md) 
+
+### [Oerei.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Geestequelle/boroughs~Geestequelle/Oerei.secret.md)
 

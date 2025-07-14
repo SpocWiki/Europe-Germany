@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Poppelsdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BonnPoppelsdorf.public.md) 
+### [Poppelsdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bonn/Poppelsdorf.md) 
 
-### [Poppelsdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BonnPoppelsdorf.internal.md) 
+### [Poppelsdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bonn/Poppelsdorf.public.md) 
 
-### [Poppelsdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BonnPoppelsdorf.protect.md) 
+### [Poppelsdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bonn/Poppelsdorf.internal.md) 
 
-### [Poppelsdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BonnPoppelsdorf.private.md) 
+### [Poppelsdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bonn/Poppelsdorf.protect.md) 
 
-### [Poppelsdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BonnPoppelsdorf.personal.md) 
+### [Poppelsdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bonn/Poppelsdorf.private.md) 
 
-### [Poppelsdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BonnPoppelsdorf.secret.md)
+### [Poppelsdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bonn/Poppelsdorf.personal.md) 
+
+### [Poppelsdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bonn/Poppelsdorf.secret.md)
 

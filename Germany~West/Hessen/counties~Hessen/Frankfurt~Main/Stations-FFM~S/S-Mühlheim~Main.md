@@ -30,15 +30,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [S-Mühlheim~Main.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Mühlheim~Main.public.md) 
+### [S-Mühlheim~Main](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mühlheim~Main.md) 
 
-### [S-Mühlheim~Main.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Mühlheim~Main.internal.md) 
+### [S-Mühlheim~Main.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mühlheim~Main.public.md) 
 
-### [S-Mühlheim~Main.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Mühlheim~Main.protect.md) 
+### [S-Mühlheim~Main.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mühlheim~Main.internal.md) 
 
-### [S-Mühlheim~Main.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Mühlheim~Main.private.md) 
+### [S-Mühlheim~Main.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mühlheim~Main.protect.md) 
 
-### [S-Mühlheim~Main.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Mühlheim~Main.personal.md) 
+### [S-Mühlheim~Main.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mühlheim~Main.private.md) 
 
-### [S-Mühlheim~Main.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Mühlheim~Main.secret.md)
+### [S-Mühlheim~Main.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mühlheim~Main.personal.md) 
+
+### [S-Mühlheim~Main.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mühlheim~Main.secret.md)
 

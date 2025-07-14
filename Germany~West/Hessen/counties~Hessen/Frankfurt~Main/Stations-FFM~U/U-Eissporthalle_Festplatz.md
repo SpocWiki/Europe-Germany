@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [U-Eissporthalle_Festplatz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Eissporthalle_Festplatz.public.md) 
+### [U-Eissporthalle_Festplatz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Eissporthalle_Festplatz.md) 
 
-### [U-Eissporthalle_Festplatz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Eissporthalle_Festplatz.internal.md) 
+### [U-Eissporthalle_Festplatz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Eissporthalle_Festplatz.public.md) 
 
-### [U-Eissporthalle_Festplatz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Eissporthalle_Festplatz.protect.md) 
+### [U-Eissporthalle_Festplatz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Eissporthalle_Festplatz.internal.md) 
 
-### [U-Eissporthalle_Festplatz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Eissporthalle_Festplatz.private.md) 
+### [U-Eissporthalle_Festplatz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Eissporthalle_Festplatz.protect.md) 
 
-### [U-Eissporthalle_Festplatz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Eissporthalle_Festplatz.personal.md) 
+### [U-Eissporthalle_Festplatz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Eissporthalle_Festplatz.private.md) 
 
-### [U-Eissporthalle_Festplatz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~UU-Eissporthalle_Festplatz.secret.md)
+### [U-Eissporthalle_Festplatz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Eissporthalle_Festplatz.personal.md) 
+
+### [U-Eissporthalle_Festplatz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Eissporthalle_Festplatz.secret.md)
 

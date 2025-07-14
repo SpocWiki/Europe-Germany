@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wetter,Ruhr.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-RuhrWetter,Ruhr.public.md) 
+### [Wetter,Ruhr](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Wetter,Ruhr.md) 
 
-### [Wetter,Ruhr.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-RuhrWetter,Ruhr.internal.md) 
+### [Wetter,Ruhr.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Wetter,Ruhr.public.md) 
 
-### [Wetter,Ruhr.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-RuhrWetter,Ruhr.protect.md) 
+### [Wetter,Ruhr.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Wetter,Ruhr.internal.md) 
 
-### [Wetter,Ruhr.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-RuhrWetter,Ruhr.private.md) 
+### [Wetter,Ruhr.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Wetter,Ruhr.protect.md) 
 
-### [Wetter,Ruhr.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-RuhrWetter,Ruhr.personal.md) 
+### [Wetter,Ruhr.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Wetter,Ruhr.private.md) 
 
-### [Wetter,Ruhr.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-RuhrWetter,Ruhr.secret.md)
+### [Wetter,Ruhr.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Wetter,Ruhr.personal.md) 
+
+### [Wetter,Ruhr.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Wetter,Ruhr.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dabrun.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Kemberg\CityDabrun.public.md) 
+### [Dabrun](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Kemberg/City/Dabrun.md) 
 
-### [Dabrun.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Kemberg\CityDabrun.internal.md) 
+### [Dabrun.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Kemberg/City/Dabrun.public.md) 
 
-### [Dabrun.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Kemberg\CityDabrun.protect.md) 
+### [Dabrun.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Kemberg/City/Dabrun.internal.md) 
 
-### [Dabrun.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Kemberg\CityDabrun.private.md) 
+### [Dabrun.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Kemberg/City/Dabrun.protect.md) 
 
-### [Dabrun.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Kemberg\CityDabrun.personal.md) 
+### [Dabrun.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Kemberg/City/Dabrun.private.md) 
 
-### [Dabrun.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Kemberg\CityDabrun.secret.md)
+### [Dabrun.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Kemberg/City/Dabrun.personal.md) 
+
+### [Dabrun.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Kemberg/City/Dabrun.secret.md)
 

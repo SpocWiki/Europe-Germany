@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Arnstadt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-KreisArnstadt.public.md) 
+### [Arnstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Arnstadt.md) 
 
-### [Arnstadt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-KreisArnstadt.internal.md) 
+### [Arnstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Arnstadt.public.md) 
 
-### [Arnstadt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-KreisArnstadt.protect.md) 
+### [Arnstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Arnstadt.internal.md) 
 
-### [Arnstadt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-KreisArnstadt.private.md) 
+### [Arnstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Arnstadt.protect.md) 
 
-### [Arnstadt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-KreisArnstadt.personal.md) 
+### [Arnstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Arnstadt.private.md) 
 
-### [Arnstadt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-KreisArnstadt.secret.md)
+### [Arnstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Arnstadt.personal.md) 
+
+### [Arnstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Arnstadt.secret.md)
 

@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pfungstadt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Darmstadt-Dieburg\cities~Darmstadt-DieburgPfungstadt.public.md) 
+### [Pfungstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Pfungstadt.md) 
 
-### [Pfungstadt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Darmstadt-Dieburg\cities~Darmstadt-DieburgPfungstadt.internal.md) 
+### [Pfungstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Pfungstadt.public.md) 
 
-### [Pfungstadt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Darmstadt-Dieburg\cities~Darmstadt-DieburgPfungstadt.protect.md) 
+### [Pfungstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Pfungstadt.internal.md) 
 
-### [Pfungstadt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Darmstadt-Dieburg\cities~Darmstadt-DieburgPfungstadt.private.md) 
+### [Pfungstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Pfungstadt.protect.md) 
 
-### [Pfungstadt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Darmstadt-Dieburg\cities~Darmstadt-DieburgPfungstadt.personal.md) 
+### [Pfungstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Pfungstadt.private.md) 
 
-### [Pfungstadt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Darmstadt-Dieburg\cities~Darmstadt-DieburgPfungstadt.secret.md)
+### [Pfungstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Pfungstadt.personal.md) 
+
+### [Pfungstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Pfungstadt.secret.md)
 

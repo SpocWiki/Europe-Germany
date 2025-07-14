@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kyritz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-RuppinKyritz.public.md) 
+### [Kyritz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Kyritz.md) 
 
-### [Kyritz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-RuppinKyritz.internal.md) 
+### [Kyritz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Kyritz.public.md) 
 
-### [Kyritz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-RuppinKyritz.protect.md) 
+### [Kyritz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Kyritz.internal.md) 
 
-### [Kyritz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-RuppinKyritz.private.md) 
+### [Kyritz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Kyritz.protect.md) 
 
-### [Kyritz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-RuppinKyritz.personal.md) 
+### [Kyritz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Kyritz.private.md) 
 
-### [Kyritz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-RuppinKyritz.secret.md)
+### [Kyritz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Kyritz.personal.md) 
+
+### [Kyritz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Kyritz.secret.md)
 

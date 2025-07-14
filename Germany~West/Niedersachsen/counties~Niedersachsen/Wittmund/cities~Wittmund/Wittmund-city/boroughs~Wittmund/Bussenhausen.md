@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bussenhausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wittmund\cities~Wittmund\Wittmund-city\boroughs~WittmundBussenhausen.public.md) 
+### [Bussenhausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Wittmund-city/boroughs~Wittmund/Bussenhausen.md) 
 
-### [Bussenhausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wittmund\cities~Wittmund\Wittmund-city\boroughs~WittmundBussenhausen.internal.md) 
+### [Bussenhausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Wittmund-city/boroughs~Wittmund/Bussenhausen.public.md) 
 
-### [Bussenhausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wittmund\cities~Wittmund\Wittmund-city\boroughs~WittmundBussenhausen.protect.md) 
+### [Bussenhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Wittmund-city/boroughs~Wittmund/Bussenhausen.internal.md) 
 
-### [Bussenhausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wittmund\cities~Wittmund\Wittmund-city\boroughs~WittmundBussenhausen.private.md) 
+### [Bussenhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Wittmund-city/boroughs~Wittmund/Bussenhausen.protect.md) 
 
-### [Bussenhausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wittmund\cities~Wittmund\Wittmund-city\boroughs~WittmundBussenhausen.personal.md) 
+### [Bussenhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Wittmund-city/boroughs~Wittmund/Bussenhausen.private.md) 
 
-### [Bussenhausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wittmund\cities~Wittmund\Wittmund-city\boroughs~WittmundBussenhausen.secret.md)
+### [Bussenhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Wittmund-city/boroughs~Wittmund/Bussenhausen.personal.md) 
+
+### [Bussenhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Wittmund-city/boroughs~Wittmund/Bussenhausen.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Freiensteinau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Vogelsbergkreis\cities~VogelsbergkreisFreiensteinau.public.md) 
+### [Freiensteinau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Freiensteinau.md) 
 
-### [Freiensteinau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Vogelsbergkreis\cities~VogelsbergkreisFreiensteinau.internal.md) 
+### [Freiensteinau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Freiensteinau.public.md) 
 
-### [Freiensteinau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Vogelsbergkreis\cities~VogelsbergkreisFreiensteinau.protect.md) 
+### [Freiensteinau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Freiensteinau.internal.md) 
 
-### [Freiensteinau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Vogelsbergkreis\cities~VogelsbergkreisFreiensteinau.private.md) 
+### [Freiensteinau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Freiensteinau.protect.md) 
 
-### [Freiensteinau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Vogelsbergkreis\cities~VogelsbergkreisFreiensteinau.personal.md) 
+### [Freiensteinau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Freiensteinau.private.md) 
 
-### [Freiensteinau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Vogelsbergkreis\cities~VogelsbergkreisFreiensteinau.secret.md)
+### [Freiensteinau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Freiensteinau.personal.md) 
+
+### [Freiensteinau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Freiensteinau.secret.md)
 

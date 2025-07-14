@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hude.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~OldenburgHude.public.md) 
+### [Hude](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hude.md) 
 
-### [Hude.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~OldenburgHude.internal.md) 
+### [Hude.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hude.public.md) 
 
-### [Hude.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~OldenburgHude.protect.md) 
+### [Hude.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hude.internal.md) 
 
-### [Hude.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~OldenburgHude.private.md) 
+### [Hude.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hude.protect.md) 
 
-### [Hude.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~OldenburgHude.personal.md) 
+### [Hude.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hude.private.md) 
 
-### [Hude.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~OldenburgHude.secret.md)
+### [Hude.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hude.personal.md) 
+
+### [Hude.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hude.secret.md)
 

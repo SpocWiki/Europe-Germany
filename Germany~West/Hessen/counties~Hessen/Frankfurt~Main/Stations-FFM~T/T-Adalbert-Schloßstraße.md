@@ -30,15 +30,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [T-Adalbert-Schloßstraße.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Adalbert-Schloßstraße.public.md) 
+### [T-Adalbert-Schloßstraße](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Adalbert-Schloßstraße.md) 
 
-### [T-Adalbert-Schloßstraße.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Adalbert-Schloßstraße.internal.md) 
+### [T-Adalbert-Schloßstraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Adalbert-Schloßstraße.public.md) 
 
-### [T-Adalbert-Schloßstraße.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Adalbert-Schloßstraße.protect.md) 
+### [T-Adalbert-Schloßstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Adalbert-Schloßstraße.internal.md) 
 
-### [T-Adalbert-Schloßstraße.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Adalbert-Schloßstraße.private.md) 
+### [T-Adalbert-Schloßstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Adalbert-Schloßstraße.protect.md) 
 
-### [T-Adalbert-Schloßstraße.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Adalbert-Schloßstraße.personal.md) 
+### [T-Adalbert-Schloßstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Adalbert-Schloßstraße.private.md) 
 
-### [T-Adalbert-Schloßstraße.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Adalbert-Schloßstraße.secret.md)
+### [T-Adalbert-Schloßstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Adalbert-Schloßstraße.personal.md) 
+
+### [T-Adalbert-Schloßstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Adalbert-Schloßstraße.secret.md)
 

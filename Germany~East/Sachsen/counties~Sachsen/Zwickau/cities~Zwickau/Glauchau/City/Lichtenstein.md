@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lichtenstein.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Glauchau\CityLichtenstein.public.md) 
+### [Lichtenstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Glauchau/City/Lichtenstein.md) 
 
-### [Lichtenstein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Glauchau\CityLichtenstein.internal.md) 
+### [Lichtenstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Glauchau/City/Lichtenstein.public.md) 
 
-### [Lichtenstein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Glauchau\CityLichtenstein.protect.md) 
+### [Lichtenstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Glauchau/City/Lichtenstein.internal.md) 
 
-### [Lichtenstein.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Glauchau\CityLichtenstein.private.md) 
+### [Lichtenstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Glauchau/City/Lichtenstein.protect.md) 
 
-### [Lichtenstein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Glauchau\CityLichtenstein.personal.md) 
+### [Lichtenstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Glauchau/City/Lichtenstein.private.md) 
 
-### [Lichtenstein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Glauchau\CityLichtenstein.secret.md)
+### [Lichtenstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Glauchau/City/Lichtenstein.personal.md) 
+
+### [Lichtenstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Glauchau/City/Lichtenstein.secret.md)
 

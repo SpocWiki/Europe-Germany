@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tetten.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~Friesland\Wangerland\boroughs~WangerlandTetten.public.md) 
+### [Tetten](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Wangerland/boroughs~Wangerland/Tetten.md) 
 
-### [Tetten.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~Friesland\Wangerland\boroughs~WangerlandTetten.internal.md) 
+### [Tetten.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Wangerland/boroughs~Wangerland/Tetten.public.md) 
 
-### [Tetten.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~Friesland\Wangerland\boroughs~WangerlandTetten.protect.md) 
+### [Tetten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Wangerland/boroughs~Wangerland/Tetten.internal.md) 
 
-### [Tetten.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~Friesland\Wangerland\boroughs~WangerlandTetten.private.md) 
+### [Tetten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Wangerland/boroughs~Wangerland/Tetten.protect.md) 
 
-### [Tetten.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~Friesland\Wangerland\boroughs~WangerlandTetten.personal.md) 
+### [Tetten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Wangerland/boroughs~Wangerland/Tetten.private.md) 
 
-### [Tetten.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~Friesland\Wangerland\boroughs~WangerlandTetten.secret.md)
+### [Tetten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Wangerland/boroughs~Wangerland/Tetten.personal.md) 
+
+### [Tetten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Wangerland/boroughs~Wangerland/Tetten.secret.md)
 

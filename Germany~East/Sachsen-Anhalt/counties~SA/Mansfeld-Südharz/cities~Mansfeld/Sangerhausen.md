@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sangerhausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~MansfeldSangerhausen.public.md) 
+### [Sangerhausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Sangerhausen.md) 
 
-### [Sangerhausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~MansfeldSangerhausen.internal.md) 
+### [Sangerhausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Sangerhausen.public.md) 
 
-### [Sangerhausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~MansfeldSangerhausen.protect.md) 
+### [Sangerhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Sangerhausen.internal.md) 
 
-### [Sangerhausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~MansfeldSangerhausen.private.md) 
+### [Sangerhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Sangerhausen.protect.md) 
 
-### [Sangerhausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~MansfeldSangerhausen.personal.md) 
+### [Sangerhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Sangerhausen.private.md) 
 
-### [Sangerhausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~MansfeldSangerhausen.secret.md)
+### [Sangerhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Sangerhausen.personal.md) 
+
+### [Sangerhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Sangerhausen.secret.md)
 

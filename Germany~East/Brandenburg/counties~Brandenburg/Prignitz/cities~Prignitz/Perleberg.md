@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Perleberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~PrignitzPerleberg.public.md) 
+### [Perleberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Perleberg.md) 
 
-### [Perleberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~PrignitzPerleberg.internal.md) 
+### [Perleberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Perleberg.public.md) 
 
-### [Perleberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~PrignitzPerleberg.protect.md) 
+### [Perleberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Perleberg.internal.md) 
 
-### [Perleberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~PrignitzPerleberg.private.md) 
+### [Perleberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Perleberg.protect.md) 
 
-### [Perleberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~PrignitzPerleberg.personal.md) 
+### [Perleberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Perleberg.private.md) 
 
-### [Perleberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~PrignitzPerleberg.secret.md)
+### [Perleberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Perleberg.personal.md) 
+
+### [Perleberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Perleberg.secret.md)
 

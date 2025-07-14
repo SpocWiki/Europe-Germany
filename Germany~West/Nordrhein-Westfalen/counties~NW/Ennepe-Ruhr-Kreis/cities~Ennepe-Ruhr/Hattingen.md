@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hattingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-RuhrHattingen.public.md) 
+### [Hattingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Hattingen.md) 
 
-### [Hattingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-RuhrHattingen.internal.md) 
+### [Hattingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Hattingen.public.md) 
 
-### [Hattingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-RuhrHattingen.protect.md) 
+### [Hattingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Hattingen.internal.md) 
 
-### [Hattingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-RuhrHattingen.private.md) 
+### [Hattingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Hattingen.protect.md) 
 
-### [Hattingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-RuhrHattingen.personal.md) 
+### [Hattingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Hattingen.private.md) 
 
-### [Hattingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-RuhrHattingen.secret.md)
+### [Hattingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Hattingen.personal.md) 
+
+### [Hattingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Hattingen.secret.md)
 

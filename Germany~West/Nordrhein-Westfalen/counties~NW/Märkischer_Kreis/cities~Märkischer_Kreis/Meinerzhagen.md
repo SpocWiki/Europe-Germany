@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Meinerzhagen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisMeinerzhagen.public.md) 
+### [Meinerzhagen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Meinerzhagen.md) 
 
-### [Meinerzhagen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisMeinerzhagen.internal.md) 
+### [Meinerzhagen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Meinerzhagen.public.md) 
 
-### [Meinerzhagen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisMeinerzhagen.protect.md) 
+### [Meinerzhagen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Meinerzhagen.internal.md) 
 
-### [Meinerzhagen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisMeinerzhagen.private.md) 
+### [Meinerzhagen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Meinerzhagen.protect.md) 
 
-### [Meinerzhagen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisMeinerzhagen.personal.md) 
+### [Meinerzhagen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Meinerzhagen.private.md) 
 
-### [Meinerzhagen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisMeinerzhagen.secret.md)
+### [Meinerzhagen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Meinerzhagen.personal.md) 
+
+### [Meinerzhagen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Meinerzhagen.secret.md)
 

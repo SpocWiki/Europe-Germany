@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Langwarden.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Butjadingen\boroughs~ButjadingenLangwarden.public.md) 
+### [Langwarden](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Langwarden.md) 
 
-### [Langwarden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Butjadingen\boroughs~ButjadingenLangwarden.internal.md) 
+### [Langwarden.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Langwarden.public.md) 
 
-### [Langwarden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Butjadingen\boroughs~ButjadingenLangwarden.protect.md) 
+### [Langwarden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Langwarden.internal.md) 
 
-### [Langwarden.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Butjadingen\boroughs~ButjadingenLangwarden.private.md) 
+### [Langwarden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Langwarden.protect.md) 
 
-### [Langwarden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Butjadingen\boroughs~ButjadingenLangwarden.personal.md) 
+### [Langwarden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Langwarden.private.md) 
 
-### [Langwarden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Butjadingen\boroughs~ButjadingenLangwarden.secret.md)
+### [Langwarden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Langwarden.personal.md) 
+
+### [Langwarden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Langwarden.secret.md)
 

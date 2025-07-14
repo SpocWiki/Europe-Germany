@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Groitzsch.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Pegau\CityGroitzsch.public.md) 
+### [Groitzsch](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Pegau/City/Groitzsch.md) 
 
-### [Groitzsch.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Pegau\CityGroitzsch.internal.md) 
+### [Groitzsch.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Pegau/City/Groitzsch.public.md) 
 
-### [Groitzsch.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Pegau\CityGroitzsch.protect.md) 
+### [Groitzsch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Pegau/City/Groitzsch.internal.md) 
 
-### [Groitzsch.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Pegau\CityGroitzsch.private.md) 
+### [Groitzsch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Pegau/City/Groitzsch.protect.md) 
 
-### [Groitzsch.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Pegau\CityGroitzsch.personal.md) 
+### [Groitzsch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Pegau/City/Groitzsch.private.md) 
 
-### [Groitzsch.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Pegau\CityGroitzsch.secret.md)
+### [Groitzsch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Pegau/City/Groitzsch.personal.md) 
+
+### [Groitzsch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Pegau/City/Groitzsch.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Norden.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~AurichNorden.public.md) 
+### [Norden](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norden.md) 
 
-### [Norden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~AurichNorden.internal.md) 
+### [Norden.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norden.public.md) 
 
-### [Norden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~AurichNorden.protect.md) 
+### [Norden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norden.internal.md) 
 
-### [Norden.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~AurichNorden.private.md) 
+### [Norden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norden.protect.md) 
 
-### [Norden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~AurichNorden.personal.md) 
+### [Norden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norden.private.md) 
 
-### [Norden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~AurichNorden.secret.md)
+### [Norden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norden.personal.md) 
+
+### [Norden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norden.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hullersen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Einbeck\boroughs~EinbeckHullersen.public.md) 
+### [Hullersen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck/boroughs~Einbeck/Hullersen.md) 
 
-### [Hullersen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Einbeck\boroughs~EinbeckHullersen.internal.md) 
+### [Hullersen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck/boroughs~Einbeck/Hullersen.public.md) 
 
-### [Hullersen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Einbeck\boroughs~EinbeckHullersen.protect.md) 
+### [Hullersen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck/boroughs~Einbeck/Hullersen.internal.md) 
 
-### [Hullersen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Einbeck\boroughs~EinbeckHullersen.private.md) 
+### [Hullersen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck/boroughs~Einbeck/Hullersen.protect.md) 
 
-### [Hullersen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Einbeck\boroughs~EinbeckHullersen.personal.md) 
+### [Hullersen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck/boroughs~Einbeck/Hullersen.private.md) 
 
-### [Hullersen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Einbeck\boroughs~EinbeckHullersen.secret.md)
+### [Hullersen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck/boroughs~Einbeck/Hullersen.personal.md) 
+
+### [Hullersen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck/boroughs~Einbeck/Hullersen.secret.md)
 

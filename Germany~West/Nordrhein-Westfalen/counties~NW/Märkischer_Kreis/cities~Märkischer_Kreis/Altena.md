@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Altena.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisAltena.public.md) 
+### [Altena](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Altena.md) 
 
-### [Altena.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisAltena.internal.md) 
+### [Altena.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Altena.public.md) 
 
-### [Altena.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisAltena.protect.md) 
+### [Altena.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Altena.internal.md) 
 
-### [Altena.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisAltena.private.md) 
+### [Altena.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Altena.protect.md) 
 
-### [Altena.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisAltena.personal.md) 
+### [Altena.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Altena.private.md) 
 
-### [Altena.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisAltena.secret.md)
+### [Altena.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Altena.personal.md) 
+
+### [Altena.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Altena.secret.md)
 

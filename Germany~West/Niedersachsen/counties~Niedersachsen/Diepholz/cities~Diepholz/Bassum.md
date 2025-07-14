@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bassum.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~DiepholzBassum.public.md) 
+### [Bassum](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Bassum.md) 
 
-### [Bassum.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~DiepholzBassum.internal.md) 
+### [Bassum.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Bassum.public.md) 
 
-### [Bassum.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~DiepholzBassum.protect.md) 
+### [Bassum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Bassum.internal.md) 
 
-### [Bassum.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~DiepholzBassum.private.md) 
+### [Bassum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Bassum.protect.md) 
 
-### [Bassum.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~DiepholzBassum.personal.md) 
+### [Bassum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Bassum.private.md) 
 
-### [Bassum.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~DiepholzBassum.secret.md)
+### [Bassum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Bassum.personal.md) 
+
+### [Bassum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Bassum.secret.md)
 

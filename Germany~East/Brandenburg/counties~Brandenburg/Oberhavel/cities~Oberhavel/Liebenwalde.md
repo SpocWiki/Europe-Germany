@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Liebenwalde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~OberhavelLiebenwalde.public.md) 
+### [Liebenwalde](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Liebenwalde.md) 
 
-### [Liebenwalde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~OberhavelLiebenwalde.internal.md) 
+### [Liebenwalde.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Liebenwalde.public.md) 
 
-### [Liebenwalde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~OberhavelLiebenwalde.protect.md) 
+### [Liebenwalde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Liebenwalde.internal.md) 
 
-### [Liebenwalde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~OberhavelLiebenwalde.private.md) 
+### [Liebenwalde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Liebenwalde.protect.md) 
 
-### [Liebenwalde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~OberhavelLiebenwalde.personal.md) 
+### [Liebenwalde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Liebenwalde.private.md) 
 
-### [Liebenwalde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~OberhavelLiebenwalde.secret.md)
+### [Liebenwalde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Liebenwalde.personal.md) 
+
+### [Liebenwalde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Liebenwalde.secret.md)
 

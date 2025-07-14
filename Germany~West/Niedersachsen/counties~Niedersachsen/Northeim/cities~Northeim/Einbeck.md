@@ -14,15 +14,17 @@ Eine der längsten zusammenhängenden Fachwerkzeilen mit architektonischen Merkm
 
 ## Confidential Links & Embeds: 
 
-### [Einbeck.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~NortheimEinbeck.public.md) 
+### [Einbeck](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck.md) 
 
-### [Einbeck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~NortheimEinbeck.internal.md) 
+### [Einbeck.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck.public.md) 
 
-### [Einbeck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~NortheimEinbeck.protect.md) 
+### [Einbeck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck.internal.md) 
 
-### [Einbeck.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~NortheimEinbeck.private.md) 
+### [Einbeck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck.protect.md) 
 
-### [Einbeck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~NortheimEinbeck.personal.md) 
+### [Einbeck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck.private.md) 
 
-### [Einbeck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~NortheimEinbeck.secret.md)
+### [Einbeck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck.personal.md) 
+
+### [Einbeck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck.secret.md)
 

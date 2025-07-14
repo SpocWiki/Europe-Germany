@@ -3,15 +3,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Soltendieck.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Aue\boroughs~AueSoltendieck.public.md) 
+### [Soltendieck](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Aue/boroughs~Aue/Soltendieck.md) 
 
-### [Soltendieck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Aue\boroughs~AueSoltendieck.internal.md) 
+### [Soltendieck.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Aue/boroughs~Aue/Soltendieck.public.md) 
 
-### [Soltendieck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Aue\boroughs~AueSoltendieck.protect.md) 
+### [Soltendieck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Aue/boroughs~Aue/Soltendieck.internal.md) 
 
-### [Soltendieck.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Aue\boroughs~AueSoltendieck.private.md) 
+### [Soltendieck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Aue/boroughs~Aue/Soltendieck.protect.md) 
 
-### [Soltendieck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Aue\boroughs~AueSoltendieck.personal.md) 
+### [Soltendieck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Aue/boroughs~Aue/Soltendieck.private.md) 
 
-### [Soltendieck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Aue\boroughs~AueSoltendieck.secret.md)
+### [Soltendieck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Aue/boroughs~Aue/Soltendieck.personal.md) 
+
+### [Soltendieck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Aue/boroughs~Aue/Soltendieck.secret.md)
 

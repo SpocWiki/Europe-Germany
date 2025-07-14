@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Süchteln.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\Viersen-citySüchteln.public.md) 
+### [Süchteln](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Viersen-city/Süchteln.md) 
 
-### [Süchteln.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\Viersen-citySüchteln.internal.md) 
+### [Süchteln.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Viersen-city/Süchteln.public.md) 
 
-### [Süchteln.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\Viersen-citySüchteln.protect.md) 
+### [Süchteln.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Viersen-city/Süchteln.internal.md) 
 
-### [Süchteln.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\Viersen-citySüchteln.private.md) 
+### [Süchteln.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Viersen-city/Süchteln.protect.md) 
 
-### [Süchteln.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\Viersen-citySüchteln.personal.md) 
+### [Süchteln.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Viersen-city/Süchteln.private.md) 
 
-### [Süchteln.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\Viersen-citySüchteln.secret.md)
+### [Süchteln.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Viersen-city/Süchteln.personal.md) 
+
+### [Süchteln.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Viersen-city/Süchteln.secret.md)
 

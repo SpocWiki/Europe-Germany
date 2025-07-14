@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Iserlohn.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisIserlohn.public.md) 
+### [Iserlohn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Iserlohn.md) 
 
-### [Iserlohn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisIserlohn.internal.md) 
+### [Iserlohn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Iserlohn.public.md) 
 
-### [Iserlohn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisIserlohn.protect.md) 
+### [Iserlohn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Iserlohn.internal.md) 
 
-### [Iserlohn.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisIserlohn.private.md) 
+### [Iserlohn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Iserlohn.protect.md) 
 
-### [Iserlohn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisIserlohn.personal.md) 
+### [Iserlohn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Iserlohn.private.md) 
 
-### [Iserlohn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisIserlohn.secret.md)
+### [Iserlohn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Iserlohn.personal.md) 
+
+### [Iserlohn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Iserlohn.secret.md)
 

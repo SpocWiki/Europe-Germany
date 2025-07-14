@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sondershausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~KyffhäuserkreisSondershausen.public.md) 
+### [Sondershausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Sondershausen.md) 
 
-### [Sondershausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~KyffhäuserkreisSondershausen.internal.md) 
+### [Sondershausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Sondershausen.public.md) 
 
-### [Sondershausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~KyffhäuserkreisSondershausen.protect.md) 
+### [Sondershausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Sondershausen.internal.md) 
 
-### [Sondershausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~KyffhäuserkreisSondershausen.private.md) 
+### [Sondershausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Sondershausen.protect.md) 
 
-### [Sondershausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~KyffhäuserkreisSondershausen.personal.md) 
+### [Sondershausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Sondershausen.private.md) 
 
-### [Sondershausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~KyffhäuserkreisSondershausen.secret.md)
+### [Sondershausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Sondershausen.personal.md) 
+
+### [Sondershausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Sondershausen.secret.md)
 

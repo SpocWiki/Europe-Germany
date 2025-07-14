@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Metzdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Leubsdorf\CityMetzdorf.public.md) 
+### [Metzdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Leubsdorf/City/Metzdorf.md) 
 
-### [Metzdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Leubsdorf\CityMetzdorf.internal.md) 
+### [Metzdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Leubsdorf/City/Metzdorf.public.md) 
 
-### [Metzdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Leubsdorf\CityMetzdorf.protect.md) 
+### [Metzdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Leubsdorf/City/Metzdorf.internal.md) 
 
-### [Metzdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Leubsdorf\CityMetzdorf.private.md) 
+### [Metzdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Leubsdorf/City/Metzdorf.protect.md) 
 
-### [Metzdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Leubsdorf\CityMetzdorf.personal.md) 
+### [Metzdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Leubsdorf/City/Metzdorf.private.md) 
 
-### [Metzdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Leubsdorf\CityMetzdorf.secret.md)
+### [Metzdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Leubsdorf/City/Metzdorf.personal.md) 
+
+### [Metzdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Leubsdorf/City/Metzdorf.secret.md)
 

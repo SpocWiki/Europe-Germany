@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marwedel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüchow-Dannenberg\cities~Lüchow-Dannenberg\Elbtalaue\boroughs~ElbtalaueMarwedel.public.md) 
+### [Marwedel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Marwedel.md) 
 
-### [Marwedel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüchow-Dannenberg\cities~Lüchow-Dannenberg\Elbtalaue\boroughs~ElbtalaueMarwedel.internal.md) 
+### [Marwedel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Marwedel.public.md) 
 
-### [Marwedel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüchow-Dannenberg\cities~Lüchow-Dannenberg\Elbtalaue\boroughs~ElbtalaueMarwedel.protect.md) 
+### [Marwedel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Marwedel.internal.md) 
 
-### [Marwedel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüchow-Dannenberg\cities~Lüchow-Dannenberg\Elbtalaue\boroughs~ElbtalaueMarwedel.private.md) 
+### [Marwedel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Marwedel.protect.md) 
 
-### [Marwedel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüchow-Dannenberg\cities~Lüchow-Dannenberg\Elbtalaue\boroughs~ElbtalaueMarwedel.personal.md) 
+### [Marwedel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Marwedel.private.md) 
 
-### [Marwedel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüchow-Dannenberg\cities~Lüchow-Dannenberg\Elbtalaue\boroughs~ElbtalaueMarwedel.secret.md)
+### [Marwedel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Marwedel.personal.md) 
+
+### [Marwedel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Marwedel.secret.md)
 

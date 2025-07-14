@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ronneburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~GreizRonneburg.public.md) 
+### [Ronneburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Ronneburg.md) 
 
-### [Ronneburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~GreizRonneburg.internal.md) 
+### [Ronneburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Ronneburg.public.md) 
 
-### [Ronneburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~GreizRonneburg.protect.md) 
+### [Ronneburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Ronneburg.internal.md) 
 
-### [Ronneburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~GreizRonneburg.private.md) 
+### [Ronneburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Ronneburg.protect.md) 
 
-### [Ronneburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~GreizRonneburg.personal.md) 
+### [Ronneburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Ronneburg.private.md) 
 
-### [Ronneburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~GreizRonneburg.secret.md)
+### [Ronneburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Ronneburg.personal.md) 
+
+### [Ronneburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Ronneburg.secret.md)
 

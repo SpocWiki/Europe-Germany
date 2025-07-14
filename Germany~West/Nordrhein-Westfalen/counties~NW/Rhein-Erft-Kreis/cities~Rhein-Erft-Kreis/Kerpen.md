@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kerpen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-KreisKerpen.public.md) 
+### [Kerpen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Kerpen.md) 
 
-### [Kerpen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-KreisKerpen.internal.md) 
+### [Kerpen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Kerpen.public.md) 
 
-### [Kerpen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-KreisKerpen.protect.md) 
+### [Kerpen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Kerpen.internal.md) 
 
-### [Kerpen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-KreisKerpen.private.md) 
+### [Kerpen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Kerpen.protect.md) 
 
-### [Kerpen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-KreisKerpen.personal.md) 
+### [Kerpen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Kerpen.private.md) 
 
-### [Kerpen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-KreisKerpen.secret.md)
+### [Kerpen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Kerpen.personal.md) 
+
+### [Kerpen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Kerpen.secret.md)
 

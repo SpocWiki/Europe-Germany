@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Meerane.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~ZwickauMeerane.public.md) 
+### [Meerane](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Meerane.md) 
 
-### [Meerane.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~ZwickauMeerane.internal.md) 
+### [Meerane.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Meerane.public.md) 
 
-### [Meerane.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~ZwickauMeerane.protect.md) 
+### [Meerane.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Meerane.internal.md) 
 
-### [Meerane.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~ZwickauMeerane.private.md) 
+### [Meerane.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Meerane.protect.md) 
 
-### [Meerane.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~ZwickauMeerane.personal.md) 
+### [Meerane.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Meerane.private.md) 
 
-### [Meerane.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~ZwickauMeerane.secret.md)
+### [Meerane.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Meerane.personal.md) 
+
+### [Meerane.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Meerane.secret.md)
 

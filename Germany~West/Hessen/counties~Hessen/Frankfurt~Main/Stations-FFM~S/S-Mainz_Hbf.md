@@ -30,15 +30,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [S-Mainz_Hbf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Mainz_Hbf.public.md) 
+### [S-Mainz_Hbf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mainz_Hbf.md) 
 
-### [S-Mainz_Hbf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Mainz_Hbf.internal.md) 
+### [S-Mainz_Hbf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mainz_Hbf.public.md) 
 
-### [S-Mainz_Hbf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Mainz_Hbf.protect.md) 
+### [S-Mainz_Hbf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mainz_Hbf.internal.md) 
 
-### [S-Mainz_Hbf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Mainz_Hbf.private.md) 
+### [S-Mainz_Hbf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mainz_Hbf.protect.md) 
 
-### [S-Mainz_Hbf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Mainz_Hbf.personal.md) 
+### [S-Mainz_Hbf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mainz_Hbf.private.md) 
 
-### [S-Mainz_Hbf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Mainz_Hbf.secret.md)
+### [S-Mainz_Hbf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mainz_Hbf.personal.md) 
+
+### [S-Mainz_Hbf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mainz_Hbf.secret.md)
 

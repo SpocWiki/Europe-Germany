@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sagard.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Nord-Rügen\boroughs~Nord-RügenSagard.public.md) 
+### [Sagard](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Sagard.md) 
 
-### [Sagard.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Nord-Rügen\boroughs~Nord-RügenSagard.internal.md) 
+### [Sagard.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Sagard.public.md) 
 
-### [Sagard.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Nord-Rügen\boroughs~Nord-RügenSagard.protect.md) 
+### [Sagard.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Sagard.internal.md) 
 
-### [Sagard.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Nord-Rügen\boroughs~Nord-RügenSagard.private.md) 
+### [Sagard.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Sagard.protect.md) 
 
-### [Sagard.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Nord-Rügen\boroughs~Nord-RügenSagard.personal.md) 
+### [Sagard.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Sagard.private.md) 
 
-### [Sagard.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Nord-Rügen\boroughs~Nord-RügenSagard.secret.md)
+### [Sagard.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Sagard.personal.md) 
+
+### [Sagard.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Sagard.secret.md)
 

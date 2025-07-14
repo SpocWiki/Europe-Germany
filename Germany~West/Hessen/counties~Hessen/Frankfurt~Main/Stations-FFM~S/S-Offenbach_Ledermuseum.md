@@ -30,15 +30,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [S-Offenbach_Ledermuseum.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Offenbach_Ledermuseum.public.md) 
+### [S-Offenbach_Ledermuseum](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Offenbach_Ledermuseum.md) 
 
-### [S-Offenbach_Ledermuseum.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Offenbach_Ledermuseum.internal.md) 
+### [S-Offenbach_Ledermuseum.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Offenbach_Ledermuseum.public.md) 
 
-### [S-Offenbach_Ledermuseum.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Offenbach_Ledermuseum.protect.md) 
+### [S-Offenbach_Ledermuseum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Offenbach_Ledermuseum.internal.md) 
 
-### [S-Offenbach_Ledermuseum.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Offenbach_Ledermuseum.private.md) 
+### [S-Offenbach_Ledermuseum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Offenbach_Ledermuseum.protect.md) 
 
-### [S-Offenbach_Ledermuseum.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Offenbach_Ledermuseum.personal.md) 
+### [S-Offenbach_Ledermuseum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Offenbach_Ledermuseum.private.md) 
 
-### [S-Offenbach_Ledermuseum.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Offenbach_Ledermuseum.secret.md)
+### [S-Offenbach_Ledermuseum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Offenbach_Ledermuseum.personal.md) 
+
+### [S-Offenbach_Ledermuseum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Offenbach_Ledermuseum.secret.md)
 

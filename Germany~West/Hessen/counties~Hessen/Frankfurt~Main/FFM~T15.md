@@ -44,15 +44,17 @@ markerFolder: ./Station/
 
 ## Confidential Links & Embeds: 
 
-### [FFM~T15.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~T15.public.md) 
+### [FFM~T15](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~T15.md) 
 
-### [FFM~T15.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~T15.internal.md) 
+### [FFM~T15.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~T15.public.md) 
 
-### [FFM~T15.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~T15.protect.md) 
+### [FFM~T15.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~T15.internal.md) 
 
-### [FFM~T15.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~T15.private.md) 
+### [FFM~T15.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~T15.protect.md) 
 
-### [FFM~T15.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~T15.personal.md) 
+### [FFM~T15.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~T15.private.md) 
 
-### [FFM~T15.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~T15.secret.md)
+### [FFM~T15.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~T15.personal.md) 
+
+### [FFM~T15.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~T15.secret.md)
 

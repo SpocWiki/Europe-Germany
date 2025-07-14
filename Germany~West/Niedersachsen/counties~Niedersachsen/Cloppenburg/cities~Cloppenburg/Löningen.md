@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Löningen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cloppenburg\cities~CloppenburgLöningen.public.md) 
+### [Löningen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Löningen.md) 
 
-### [Löningen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cloppenburg\cities~CloppenburgLöningen.internal.md) 
+### [Löningen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Löningen.public.md) 
 
-### [Löningen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cloppenburg\cities~CloppenburgLöningen.protect.md) 
+### [Löningen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Löningen.internal.md) 
 
-### [Löningen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cloppenburg\cities~CloppenburgLöningen.private.md) 
+### [Löningen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Löningen.protect.md) 
 
-### [Löningen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cloppenburg\cities~CloppenburgLöningen.personal.md) 
+### [Löningen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Löningen.private.md) 
 
-### [Löningen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cloppenburg\cities~CloppenburgLöningen.secret.md)
+### [Löningen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Löningen.personal.md) 
+
+### [Löningen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Löningen.secret.md)
 

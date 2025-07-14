@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Teichwolframsdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Mohlsdorf-Teichwolframsdorf\CityTeichwolframsdorf.public.md) 
+### [Teichwolframsdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Mohlsdorf-Teichwolframsdorf/City/Teichwolframsdorf.md) 
 
-### [Teichwolframsdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Mohlsdorf-Teichwolframsdorf\CityTeichwolframsdorf.internal.md) 
+### [Teichwolframsdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Mohlsdorf-Teichwolframsdorf/City/Teichwolframsdorf.public.md) 
 
-### [Teichwolframsdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Mohlsdorf-Teichwolframsdorf\CityTeichwolframsdorf.protect.md) 
+### [Teichwolframsdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Mohlsdorf-Teichwolframsdorf/City/Teichwolframsdorf.internal.md) 
 
-### [Teichwolframsdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Mohlsdorf-Teichwolframsdorf\CityTeichwolframsdorf.private.md) 
+### [Teichwolframsdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Mohlsdorf-Teichwolframsdorf/City/Teichwolframsdorf.protect.md) 
 
-### [Teichwolframsdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Mohlsdorf-Teichwolframsdorf\CityTeichwolframsdorf.personal.md) 
+### [Teichwolframsdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Mohlsdorf-Teichwolframsdorf/City/Teichwolframsdorf.private.md) 
 
-### [Teichwolframsdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Mohlsdorf-Teichwolframsdorf\CityTeichwolframsdorf.secret.md)
+### [Teichwolframsdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Mohlsdorf-Teichwolframsdorf/City/Teichwolframsdorf.personal.md) 
+
+### [Teichwolframsdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Mohlsdorf-Teichwolframsdorf/City/Teichwolframsdorf.secret.md)
 

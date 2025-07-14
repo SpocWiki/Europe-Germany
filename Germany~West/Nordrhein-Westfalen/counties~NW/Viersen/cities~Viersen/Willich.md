@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Willich.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~ViersenWillich.public.md) 
+### [Willich](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Willich.md) 
 
-### [Willich.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~ViersenWillich.internal.md) 
+### [Willich.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Willich.public.md) 
 
-### [Willich.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~ViersenWillich.protect.md) 
+### [Willich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Willich.internal.md) 
 
-### [Willich.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~ViersenWillich.private.md) 
+### [Willich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Willich.protect.md) 
 
-### [Willich.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~ViersenWillich.personal.md) 
+### [Willich.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Willich.private.md) 
 
-### [Willich.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~ViersenWillich.secret.md)
+### [Willich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Willich.personal.md) 
+
+### [Willich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Willich.secret.md)
 

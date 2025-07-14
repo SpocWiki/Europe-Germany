@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Geniel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~Kleve\GeldernGeniel.public.md) 
+### [Geniel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Geldern/Geniel.md) 
 
-### [Geniel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~Kleve\GeldernGeniel.internal.md) 
+### [Geniel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Geldern/Geniel.public.md) 
 
-### [Geniel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~Kleve\GeldernGeniel.protect.md) 
+### [Geniel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Geldern/Geniel.internal.md) 
 
-### [Geniel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~Kleve\GeldernGeniel.private.md) 
+### [Geniel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Geldern/Geniel.protect.md) 
 
-### [Geniel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~Kleve\GeldernGeniel.personal.md) 
+### [Geniel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Geldern/Geniel.private.md) 
 
-### [Geniel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~Kleve\GeldernGeniel.secret.md)
+### [Geniel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Geldern/Geniel.personal.md) 
+
+### [Geniel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Geldern/Geniel.secret.md)
 

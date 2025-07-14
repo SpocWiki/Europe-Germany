@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fallersleben.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfsburg\cities~Wolfsburg\Wolfsburg-city\boroughs~Wolfsburg\Wolfsburg-boroughFallersleben.public.md) 
+### [Fallersleben](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.md) 
 
-### [Fallersleben.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfsburg\cities~Wolfsburg\Wolfsburg-city\boroughs~Wolfsburg\Wolfsburg-boroughFallersleben.internal.md) 
+### [Fallersleben.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.public.md) 
 
-### [Fallersleben.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfsburg\cities~Wolfsburg\Wolfsburg-city\boroughs~Wolfsburg\Wolfsburg-boroughFallersleben.protect.md) 
+### [Fallersleben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.internal.md) 
 
-### [Fallersleben.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfsburg\cities~Wolfsburg\Wolfsburg-city\boroughs~Wolfsburg\Wolfsburg-boroughFallersleben.private.md) 
+### [Fallersleben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.protect.md) 
 
-### [Fallersleben.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfsburg\cities~Wolfsburg\Wolfsburg-city\boroughs~Wolfsburg\Wolfsburg-boroughFallersleben.personal.md) 
+### [Fallersleben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.private.md) 
 
-### [Fallersleben.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfsburg\cities~Wolfsburg\Wolfsburg-city\boroughs~Wolfsburg\Wolfsburg-boroughFallersleben.secret.md)
+### [Fallersleben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.personal.md) 
+
+### [Fallersleben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.secret.md)
 

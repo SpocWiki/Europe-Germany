@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Herford-city.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~HerfordHerford-city.public.md) 
+### [Herford-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Herford-city.md) 
 
-### [Herford-city.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~HerfordHerford-city.internal.md) 
+### [Herford-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Herford-city.public.md) 
 
-### [Herford-city.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~HerfordHerford-city.protect.md) 
+### [Herford-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Herford-city.internal.md) 
 
-### [Herford-city.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~HerfordHerford-city.private.md) 
+### [Herford-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Herford-city.protect.md) 
 
-### [Herford-city.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~HerfordHerford-city.personal.md) 
+### [Herford-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Herford-city.private.md) 
 
-### [Herford-city.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~HerfordHerford-city.secret.md)
+### [Herford-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Herford-city.personal.md) 
+
+### [Herford-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Herford-city.secret.md)
 

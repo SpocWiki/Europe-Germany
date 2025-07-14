@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Carpin.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Neustrelitz\boroughs~NeustrelitzCarpin.public.md) 
+### [Carpin](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neustrelitz/boroughs~Neustrelitz/Carpin.md) 
 
-### [Carpin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Neustrelitz\boroughs~NeustrelitzCarpin.internal.md) 
+### [Carpin.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neustrelitz/boroughs~Neustrelitz/Carpin.public.md) 
 
-### [Carpin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Neustrelitz\boroughs~NeustrelitzCarpin.protect.md) 
+### [Carpin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neustrelitz/boroughs~Neustrelitz/Carpin.internal.md) 
 
-### [Carpin.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Neustrelitz\boroughs~NeustrelitzCarpin.private.md) 
+### [Carpin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neustrelitz/boroughs~Neustrelitz/Carpin.protect.md) 
 
-### [Carpin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Neustrelitz\boroughs~NeustrelitzCarpin.personal.md) 
+### [Carpin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neustrelitz/boroughs~Neustrelitz/Carpin.private.md) 
 
-### [Carpin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Neustrelitz\boroughs~NeustrelitzCarpin.secret.md)
+### [Carpin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neustrelitz/boroughs~Neustrelitz/Carpin.personal.md) 
+
+### [Carpin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neustrelitz/boroughs~Neustrelitz/Carpin.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wasserleben.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Nordharz\CityWasserleben.public.md) 
+### [Wasserleben](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Nordharz/City/Wasserleben.md) 
 
-### [Wasserleben.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Nordharz\CityWasserleben.internal.md) 
+### [Wasserleben.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Nordharz/City/Wasserleben.public.md) 
 
-### [Wasserleben.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Nordharz\CityWasserleben.protect.md) 
+### [Wasserleben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Nordharz/City/Wasserleben.internal.md) 
 
-### [Wasserleben.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Nordharz\CityWasserleben.private.md) 
+### [Wasserleben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Nordharz/City/Wasserleben.protect.md) 
 
-### [Wasserleben.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Nordharz\CityWasserleben.personal.md) 
+### [Wasserleben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Nordharz/City/Wasserleben.private.md) 
 
-### [Wasserleben.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Nordharz\CityWasserleben.secret.md)
+### [Wasserleben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Nordharz/City/Wasserleben.personal.md) 
+
+### [Wasserleben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Nordharz/City/Wasserleben.secret.md)
 

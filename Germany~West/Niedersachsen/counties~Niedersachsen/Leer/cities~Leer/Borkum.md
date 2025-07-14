@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Borkum.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~LeerBorkum.public.md) 
+### [Borkum](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Borkum.md) 
 
-### [Borkum.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~LeerBorkum.internal.md) 
+### [Borkum.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Borkum.public.md) 
 
-### [Borkum.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~LeerBorkum.protect.md) 
+### [Borkum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Borkum.internal.md) 
 
-### [Borkum.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~LeerBorkum.private.md) 
+### [Borkum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Borkum.protect.md) 
 
-### [Borkum.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~LeerBorkum.personal.md) 
+### [Borkum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Borkum.private.md) 
 
-### [Borkum.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~LeerBorkum.secret.md)
+### [Borkum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Borkum.personal.md) 
+
+### [Borkum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Borkum.secret.md)
 

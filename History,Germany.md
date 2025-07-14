@@ -19,18 +19,19 @@ Commons_category: "History of Germany"
 ---
 
 
-
 ## Confidential Links & Embeds: 
 
-### [History,Germany.public](/_public/\Earth\Continent\Europe\Europe~Central\GermanyHistory,Germany.public.md) 
+### [History,Germany](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History,Germany.md) 
 
-### [History,Germany.internal](/_internal/\Earth\Continent\Europe\Europe~Central\GermanyHistory,Germany.internal.md) 
+### [History,Germany.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/History,Germany.public.md) 
 
-### [History,Germany.protect](/_protect/\Earth\Continent\Europe\Europe~Central\GermanyHistory,Germany.protect.md) 
+### [History,Germany.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/History,Germany.internal.md) 
 
-### [History,Germany.private](/_private/\Earth\Continent\Europe\Europe~Central\GermanyHistory,Germany.private.md) 
+### [History,Germany.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/History,Germany.protect.md) 
 
-### [History,Germany.personal](/_personal/\Earth\Continent\Europe\Europe~Central\GermanyHistory,Germany.personal.md) 
+### [History,Germany.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/History,Germany.private.md) 
 
-### [History,Germany.secret](/_secret/\Earth\Continent\Europe\Europe~Central\GermanyHistory,Germany.secret.md)
+### [History,Germany.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/History,Germany.personal.md) 
+
+### [History,Germany.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/History,Germany.secret.md)
 

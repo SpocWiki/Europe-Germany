@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Norderney.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~AurichNorderney.public.md) 
+### [Norderney](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norderney.md) 
 
-### [Norderney.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~AurichNorderney.internal.md) 
+### [Norderney.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norderney.public.md) 
 
-### [Norderney.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~AurichNorderney.protect.md) 
+### [Norderney.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norderney.internal.md) 
 
-### [Norderney.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~AurichNorderney.private.md) 
+### [Norderney.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norderney.protect.md) 
 
-### [Norderney.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~AurichNorderney.personal.md) 
+### [Norderney.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norderney.private.md) 
 
-### [Norderney.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~AurichNorderney.secret.md)
+### [Norderney.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norderney.personal.md) 
+
+### [Norderney.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norderney.secret.md)
 

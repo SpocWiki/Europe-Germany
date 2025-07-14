@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Slamen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Spree-Neiße\cities~Spree-Neiße\SprembergSlamen.public.md) 
+### [Slamen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Spremberg/Slamen.md) 
 
-### [Slamen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Spree-Neiße\cities~Spree-Neiße\SprembergSlamen.internal.md) 
+### [Slamen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Spremberg/Slamen.public.md) 
 
-### [Slamen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Spree-Neiße\cities~Spree-Neiße\SprembergSlamen.protect.md) 
+### [Slamen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Spremberg/Slamen.internal.md) 
 
-### [Slamen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Spree-Neiße\cities~Spree-Neiße\SprembergSlamen.private.md) 
+### [Slamen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Spremberg/Slamen.protect.md) 
 
-### [Slamen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Spree-Neiße\cities~Spree-Neiße\SprembergSlamen.personal.md) 
+### [Slamen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Spremberg/Slamen.private.md) 
 
-### [Slamen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Spree-Neiße\cities~Spree-Neiße\SprembergSlamen.secret.md)
+### [Slamen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Spremberg/Slamen.personal.md) 
+
+### [Slamen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Spremberg/Slamen.secret.md)
 

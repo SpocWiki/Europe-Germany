@@ -39,15 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Uelzen-city.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~UelzenUelzen-city.public.md) 
+### [Uelzen-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Uelzen-city.md) 
 
-### [Uelzen-city.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~UelzenUelzen-city.internal.md) 
+### [Uelzen-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Uelzen-city.public.md) 
 
-### [Uelzen-city.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~UelzenUelzen-city.protect.md) 
+### [Uelzen-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Uelzen-city.internal.md) 
 
-### [Uelzen-city.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~UelzenUelzen-city.private.md) 
+### [Uelzen-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Uelzen-city.protect.md) 
 
-### [Uelzen-city.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~UelzenUelzen-city.personal.md) 
+### [Uelzen-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Uelzen-city.private.md) 
 
-### [Uelzen-city.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~UelzenUelzen-city.secret.md)
+### [Uelzen-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Uelzen-city.personal.md) 
+
+### [Uelzen-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Uelzen-city.secret.md)
 

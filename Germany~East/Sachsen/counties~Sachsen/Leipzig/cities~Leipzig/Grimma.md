@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grimma.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~LeipzigGrimma.public.md) 
+### [Grimma](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Grimma.md) 
 
-### [Grimma.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~LeipzigGrimma.internal.md) 
+### [Grimma.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Grimma.public.md) 
 
-### [Grimma.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~LeipzigGrimma.protect.md) 
+### [Grimma.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Grimma.internal.md) 
 
-### [Grimma.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~LeipzigGrimma.private.md) 
+### [Grimma.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Grimma.protect.md) 
 
-### [Grimma.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~LeipzigGrimma.personal.md) 
+### [Grimma.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Grimma.private.md) 
 
-### [Grimma.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~LeipzigGrimma.secret.md)
+### [Grimma.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Grimma.personal.md) 
+
+### [Grimma.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Grimma.secret.md)
 

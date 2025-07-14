@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marsberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandMarsberg.public.md) 
+### [Marsberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Marsberg.md) 
 
-### [Marsberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandMarsberg.internal.md) 
+### [Marsberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Marsberg.public.md) 
 
-### [Marsberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandMarsberg.protect.md) 
+### [Marsberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Marsberg.internal.md) 
 
-### [Marsberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandMarsberg.private.md) 
+### [Marsberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Marsberg.protect.md) 
 
-### [Marsberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandMarsberg.personal.md) 
+### [Marsberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Marsberg.private.md) 
 
-### [Marsberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~HochsauerlandMarsberg.secret.md)
+### [Marsberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Marsberg.personal.md) 
+
+### [Marsberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Marsberg.secret.md)
 

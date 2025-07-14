@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Plaaz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Güstrow-Land\boroughs~Güstrow-LandPlaaz.public.md) 
+### [Plaaz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Güstrow-Land/boroughs~Güstrow-Land/Plaaz.md) 
 
-### [Plaaz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Güstrow-Land\boroughs~Güstrow-LandPlaaz.internal.md) 
+### [Plaaz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Güstrow-Land/boroughs~Güstrow-Land/Plaaz.public.md) 
 
-### [Plaaz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Güstrow-Land\boroughs~Güstrow-LandPlaaz.protect.md) 
+### [Plaaz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Güstrow-Land/boroughs~Güstrow-Land/Plaaz.internal.md) 
 
-### [Plaaz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Güstrow-Land\boroughs~Güstrow-LandPlaaz.private.md) 
+### [Plaaz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Güstrow-Land/boroughs~Güstrow-Land/Plaaz.protect.md) 
 
-### [Plaaz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Güstrow-Land\boroughs~Güstrow-LandPlaaz.personal.md) 
+### [Plaaz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Güstrow-Land/boroughs~Güstrow-Land/Plaaz.private.md) 
 
-### [Plaaz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Güstrow-Land\boroughs~Güstrow-LandPlaaz.secret.md)
+### [Plaaz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Güstrow-Land/boroughs~Güstrow-Land/Plaaz.personal.md) 
+
+### [Plaaz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Güstrow-Land/boroughs~Güstrow-Land/Plaaz.secret.md)
 

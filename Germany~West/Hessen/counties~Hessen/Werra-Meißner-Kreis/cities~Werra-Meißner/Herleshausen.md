@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Herleshausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-MeißnerHerleshausen.public.md) 
+### [Herleshausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Herleshausen.md) 
 
-### [Herleshausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-MeißnerHerleshausen.internal.md) 
+### [Herleshausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Herleshausen.public.md) 
 
-### [Herleshausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-MeißnerHerleshausen.protect.md) 
+### [Herleshausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Herleshausen.internal.md) 
 
-### [Herleshausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-MeißnerHerleshausen.private.md) 
+### [Herleshausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Herleshausen.protect.md) 
 
-### [Herleshausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-MeißnerHerleshausen.personal.md) 
+### [Herleshausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Herleshausen.private.md) 
 
-### [Herleshausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-MeißnerHerleshausen.secret.md)
+### [Herleshausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Herleshausen.personal.md) 
+
+### [Herleshausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Herleshausen.secret.md)
 

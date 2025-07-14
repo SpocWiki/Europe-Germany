@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Frielendorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-EderFrielendorf.public.md) 
+### [Frielendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Frielendorf.md) 
 
-### [Frielendorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-EderFrielendorf.internal.md) 
+### [Frielendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Frielendorf.public.md) 
 
-### [Frielendorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-EderFrielendorf.protect.md) 
+### [Frielendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Frielendorf.internal.md) 
 
-### [Frielendorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-EderFrielendorf.private.md) 
+### [Frielendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Frielendorf.protect.md) 
 
-### [Frielendorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-EderFrielendorf.personal.md) 
+### [Frielendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Frielendorf.private.md) 
 
-### [Frielendorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-EderFrielendorf.secret.md)
+### [Frielendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Frielendorf.personal.md) 
+
+### [Frielendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Frielendorf.secret.md)
 

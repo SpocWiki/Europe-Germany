@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Klye.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\GescherKlye.public.md) 
+### [Klye](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Gescher/Klye.md) 
 
-### [Klye.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\GescherKlye.internal.md) 
+### [Klye.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Gescher/Klye.public.md) 
 
-### [Klye.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\GescherKlye.protect.md) 
+### [Klye.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Gescher/Klye.internal.md) 
 
-### [Klye.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\GescherKlye.private.md) 
+### [Klye.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Gescher/Klye.protect.md) 
 
-### [Klye.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\GescherKlye.personal.md) 
+### [Klye.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Gescher/Klye.private.md) 
 
-### [Klye.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\GescherKlye.secret.md)
+### [Klye.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Gescher/Klye.personal.md) 
+
+### [Klye.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Gescher/Klye.secret.md)
 

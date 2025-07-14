@@ -47,15 +47,17 @@ und seit 1987 Teil des Unesco-Welterbes der Menschheit ist.
 
 ## Confidential Links & Embeds: 
 
-### [Lübeck.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SHLübeck.public.md) 
+### [Lübeck](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck.md) 
 
-### [Lübeck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SHLübeck.internal.md) 
+### [Lübeck.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck.public.md) 
 
-### [Lübeck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SHLübeck.protect.md) 
+### [Lübeck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck.internal.md) 
 
-### [Lübeck.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SHLübeck.private.md) 
+### [Lübeck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck.protect.md) 
 
-### [Lübeck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SHLübeck.personal.md) 
+### [Lübeck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck.private.md) 
 
-### [Lübeck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SHLübeck.secret.md)
+### [Lübeck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck.personal.md) 
+
+### [Lübeck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oberhausen,Westfahlen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NWOberhausen,Westfahlen.public.md) 
+### [Oberhausen,Westfahlen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen.md) 
 
-### [Oberhausen,Westfahlen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NWOberhausen,Westfahlen.internal.md) 
+### [Oberhausen,Westfahlen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen.public.md) 
 
-### [Oberhausen,Westfahlen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NWOberhausen,Westfahlen.protect.md) 
+### [Oberhausen,Westfahlen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen.internal.md) 
 
-### [Oberhausen,Westfahlen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NWOberhausen,Westfahlen.private.md) 
+### [Oberhausen,Westfahlen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen.protect.md) 
 
-### [Oberhausen,Westfahlen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NWOberhausen,Westfahlen.personal.md) 
+### [Oberhausen,Westfahlen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen.private.md) 
 
-### [Oberhausen,Westfahlen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NWOberhausen,Westfahlen.secret.md)
+### [Oberhausen,Westfahlen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen.personal.md) 
+
+### [Oberhausen,Westfahlen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen.secret.md)
 

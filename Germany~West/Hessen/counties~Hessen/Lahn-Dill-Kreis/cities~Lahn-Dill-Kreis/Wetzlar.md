@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wetzlar.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-KreisWetzlar.public.md) 
+### [Wetzlar](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Wetzlar.md) 
 
-### [Wetzlar.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-KreisWetzlar.internal.md) 
+### [Wetzlar.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Wetzlar.public.md) 
 
-### [Wetzlar.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-KreisWetzlar.protect.md) 
+### [Wetzlar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Wetzlar.internal.md) 
 
-### [Wetzlar.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-KreisWetzlar.private.md) 
+### [Wetzlar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Wetzlar.protect.md) 
 
-### [Wetzlar.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-KreisWetzlar.personal.md) 
+### [Wetzlar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Wetzlar.private.md) 
 
-### [Wetzlar.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-KreisWetzlar.secret.md)
+### [Wetzlar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Wetzlar.personal.md) 
+
+### [Wetzlar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Wetzlar.secret.md)
 

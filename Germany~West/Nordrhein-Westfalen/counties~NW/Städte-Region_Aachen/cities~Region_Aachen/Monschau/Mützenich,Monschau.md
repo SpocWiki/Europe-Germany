@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mützenich,Monschau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_Aachen\MonschauMützenich,Monschau.public.md) 
+### [Mützenich,Monschau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Monschau/Mützenich,Monschau.md) 
 
-### [Mützenich,Monschau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_Aachen\MonschauMützenich,Monschau.internal.md) 
+### [Mützenich,Monschau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Monschau/Mützenich,Monschau.public.md) 
 
-### [Mützenich,Monschau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_Aachen\MonschauMützenich,Monschau.protect.md) 
+### [Mützenich,Monschau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Monschau/Mützenich,Monschau.internal.md) 
 
-### [Mützenich,Monschau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_Aachen\MonschauMützenich,Monschau.private.md) 
+### [Mützenich,Monschau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Monschau/Mützenich,Monschau.protect.md) 
 
-### [Mützenich,Monschau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_Aachen\MonschauMützenich,Monschau.personal.md) 
+### [Mützenich,Monschau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Monschau/Mützenich,Monschau.private.md) 
 
-### [Mützenich,Monschau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_Aachen\MonschauMützenich,Monschau.secret.md)
+### [Mützenich,Monschau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Monschau/Mützenich,Monschau.personal.md) 
+
+### [Mützenich,Monschau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Monschau/Mützenich,Monschau.secret.md)
 

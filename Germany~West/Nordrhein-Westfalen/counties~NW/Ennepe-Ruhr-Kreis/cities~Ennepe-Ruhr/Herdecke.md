@@ -16,15 +16,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Herdecke.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-RuhrHerdecke.public.md) 
+### [Herdecke](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Herdecke.md) 
 
-### [Herdecke.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-RuhrHerdecke.internal.md) 
+### [Herdecke.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Herdecke.public.md) 
 
-### [Herdecke.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-RuhrHerdecke.protect.md) 
+### [Herdecke.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Herdecke.internal.md) 
 
-### [Herdecke.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-RuhrHerdecke.private.md) 
+### [Herdecke.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Herdecke.protect.md) 
 
-### [Herdecke.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-RuhrHerdecke.personal.md) 
+### [Herdecke.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Herdecke.private.md) 
 
-### [Herdecke.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-RuhrHerdecke.secret.md)
+### [Herdecke.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Herdecke.personal.md) 
+
+### [Herdecke.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Herdecke.secret.md)
 

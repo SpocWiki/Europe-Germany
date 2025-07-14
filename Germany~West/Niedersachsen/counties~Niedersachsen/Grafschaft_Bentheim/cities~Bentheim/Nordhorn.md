@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nordhorn.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Grafschaft_Bentheim\cities~BentheimNordhorn.public.md) 
+### [Nordhorn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Nordhorn.md) 
 
-### [Nordhorn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Grafschaft_Bentheim\cities~BentheimNordhorn.internal.md) 
+### [Nordhorn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Nordhorn.public.md) 
 
-### [Nordhorn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Grafschaft_Bentheim\cities~BentheimNordhorn.protect.md) 
+### [Nordhorn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Nordhorn.internal.md) 
 
-### [Nordhorn.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Grafschaft_Bentheim\cities~BentheimNordhorn.private.md) 
+### [Nordhorn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Nordhorn.protect.md) 
 
-### [Nordhorn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Grafschaft_Bentheim\cities~BentheimNordhorn.personal.md) 
+### [Nordhorn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Nordhorn.private.md) 
 
-### [Nordhorn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Grafschaft_Bentheim\cities~BentheimNordhorn.secret.md)
+### [Nordhorn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Nordhorn.personal.md) 
+
+### [Nordhorn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Nordhorn.secret.md)
 

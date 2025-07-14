@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Badbergen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Artland\boroughs~ArtlandBadbergen.public.md) 
+### [Badbergen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Artland/boroughs~Artland/Badbergen.md) 
 
-### [Badbergen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Artland\boroughs~ArtlandBadbergen.internal.md) 
+### [Badbergen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Artland/boroughs~Artland/Badbergen.public.md) 
 
-### [Badbergen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Artland\boroughs~ArtlandBadbergen.protect.md) 
+### [Badbergen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Artland/boroughs~Artland/Badbergen.internal.md) 
 
-### [Badbergen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Artland\boroughs~ArtlandBadbergen.private.md) 
+### [Badbergen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Artland/boroughs~Artland/Badbergen.protect.md) 
 
-### [Badbergen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Artland\boroughs~ArtlandBadbergen.personal.md) 
+### [Badbergen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Artland/boroughs~Artland/Badbergen.private.md) 
 
-### [Badbergen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Artland\boroughs~ArtlandBadbergen.secret.md)
+### [Badbergen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Artland/boroughs~Artland/Badbergen.personal.md) 
+
+### [Badbergen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Artland/boroughs~Artland/Badbergen.secret.md)
 

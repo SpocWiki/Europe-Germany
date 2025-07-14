@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marbeck.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\Borken-cityMarbeck.public.md) 
+### [Marbeck](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Borken-city/Marbeck.md) 
 
-### [Marbeck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\Borken-cityMarbeck.internal.md) 
+### [Marbeck.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Borken-city/Marbeck.public.md) 
 
-### [Marbeck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\Borken-cityMarbeck.protect.md) 
+### [Marbeck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Borken-city/Marbeck.internal.md) 
 
-### [Marbeck.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\Borken-cityMarbeck.private.md) 
+### [Marbeck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Borken-city/Marbeck.protect.md) 
 
-### [Marbeck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\Borken-cityMarbeck.personal.md) 
+### [Marbeck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Borken-city/Marbeck.private.md) 
 
-### [Marbeck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\Borken-cityMarbeck.secret.md)
+### [Marbeck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Borken-city/Marbeck.personal.md) 
+
+### [Marbeck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Borken-city/Marbeck.secret.md)
 

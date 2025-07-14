@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Langebrueck.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityLangebrueck.public.md) 
+### [Langebrueck](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Langebrueck.md) 
 
-### [Langebrueck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityLangebrueck.internal.md) 
+### [Langebrueck.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Langebrueck.public.md) 
 
-### [Langebrueck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityLangebrueck.protect.md) 
+### [Langebrueck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Langebrueck.internal.md) 
 
-### [Langebrueck.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityLangebrueck.private.md) 
+### [Langebrueck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Langebrueck.protect.md) 
 
-### [Langebrueck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityLangebrueck.personal.md) 
+### [Langebrueck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Langebrueck.private.md) 
 
-### [Langebrueck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityLangebrueck.secret.md)
+### [Langebrueck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Langebrueck.personal.md) 
+
+### [Langebrueck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Langebrueck.secret.md)
 

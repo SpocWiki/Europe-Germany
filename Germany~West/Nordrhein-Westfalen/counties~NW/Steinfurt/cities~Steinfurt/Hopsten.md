@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hopsten.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtHopsten.public.md) 
+### [Hopsten](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Hopsten.md) 
 
-### [Hopsten.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtHopsten.internal.md) 
+### [Hopsten.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Hopsten.public.md) 
 
-### [Hopsten.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtHopsten.protect.md) 
+### [Hopsten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Hopsten.internal.md) 
 
-### [Hopsten.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtHopsten.private.md) 
+### [Hopsten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Hopsten.protect.md) 
 
-### [Hopsten.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtHopsten.personal.md) 
+### [Hopsten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Hopsten.private.md) 
 
-### [Hopsten.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~SteinfurtHopsten.secret.md)
+### [Hopsten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Hopsten.personal.md) 
+
+### [Hopsten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Hopsten.secret.md)
 

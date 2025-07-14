@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bergheim,Erft.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-KreisBergheim,Erft.public.md) 
+### [Bergheim,Erft](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Bergheim,Erft.md) 
 
-### [Bergheim,Erft.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-KreisBergheim,Erft.internal.md) 
+### [Bergheim,Erft.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Bergheim,Erft.public.md) 
 
-### [Bergheim,Erft.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-KreisBergheim,Erft.protect.md) 
+### [Bergheim,Erft.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Bergheim,Erft.internal.md) 
 
-### [Bergheim,Erft.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-KreisBergheim,Erft.private.md) 
+### [Bergheim,Erft.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Bergheim,Erft.protect.md) 
 
-### [Bergheim,Erft.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-KreisBergheim,Erft.personal.md) 
+### [Bergheim,Erft.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Bergheim,Erft.private.md) 
 
-### [Bergheim,Erft.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-KreisBergheim,Erft.secret.md)
+### [Bergheim,Erft.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Bergheim,Erft.personal.md) 
+
+### [Bergheim,Erft.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Bergheim,Erft.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grevesmühlen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-MecklenburgGrevesmühlen.public.md) 
+### [Grevesmühlen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Grevesmühlen.md) 
 
-### [Grevesmühlen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-MecklenburgGrevesmühlen.internal.md) 
+### [Grevesmühlen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Grevesmühlen.public.md) 
 
-### [Grevesmühlen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-MecklenburgGrevesmühlen.protect.md) 
+### [Grevesmühlen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Grevesmühlen.internal.md) 
 
-### [Grevesmühlen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-MecklenburgGrevesmühlen.private.md) 
+### [Grevesmühlen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Grevesmühlen.protect.md) 
 
-### [Grevesmühlen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-MecklenburgGrevesmühlen.personal.md) 
+### [Grevesmühlen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Grevesmühlen.private.md) 
 
-### [Grevesmühlen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-MecklenburgGrevesmühlen.secret.md)
+### [Grevesmühlen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Grevesmühlen.personal.md) 
+
+### [Grevesmühlen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Grevesmühlen.secret.md)
 

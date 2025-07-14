@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Augustusburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Chemnitz\CityAugustusburg.public.md) 
+### [Augustusburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz/City/Augustusburg.md) 
 
-### [Augustusburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Chemnitz\CityAugustusburg.internal.md) 
+### [Augustusburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz/City/Augustusburg.public.md) 
 
-### [Augustusburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Chemnitz\CityAugustusburg.protect.md) 
+### [Augustusburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz/City/Augustusburg.internal.md) 
 
-### [Augustusburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Chemnitz\CityAugustusburg.private.md) 
+### [Augustusburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz/City/Augustusburg.protect.md) 
 
-### [Augustusburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Chemnitz\CityAugustusburg.personal.md) 
+### [Augustusburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz/City/Augustusburg.private.md) 
 
-### [Augustusburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Chemnitz\CityAugustusburg.secret.md)
+### [Augustusburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz/City/Augustusburg.personal.md) 
+
+### [Augustusburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz/City/Augustusburg.secret.md)
 

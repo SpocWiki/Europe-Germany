@@ -37,15 +37,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bückeburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Bückeburg\boroughs~BückeburgBückeburg.public.md) 
+### [Bückeburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Bückeburg/boroughs~Bückeburg/Bückeburg.md) 
 
-### [Bückeburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Bückeburg\boroughs~BückeburgBückeburg.internal.md) 
+### [Bückeburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Bückeburg/boroughs~Bückeburg/Bückeburg.public.md) 
 
-### [Bückeburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Bückeburg\boroughs~BückeburgBückeburg.protect.md) 
+### [Bückeburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Bückeburg/boroughs~Bückeburg/Bückeburg.internal.md) 
 
-### [Bückeburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Bückeburg\boroughs~BückeburgBückeburg.private.md) 
+### [Bückeburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Bückeburg/boroughs~Bückeburg/Bückeburg.protect.md) 
 
-### [Bückeburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Bückeburg\boroughs~BückeburgBückeburg.personal.md) 
+### [Bückeburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Bückeburg/boroughs~Bückeburg/Bückeburg.private.md) 
 
-### [Bückeburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Bückeburg\boroughs~BückeburgBückeburg.secret.md)
+### [Bückeburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Bückeburg/boroughs~Bückeburg/Bückeburg.personal.md) 
+
+### [Bückeburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Bückeburg/boroughs~Bückeburg/Bückeburg.secret.md)
 

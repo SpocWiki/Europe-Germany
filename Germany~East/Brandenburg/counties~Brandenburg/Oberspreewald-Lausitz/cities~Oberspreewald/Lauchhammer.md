@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lauchhammer.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~OberspreewaldLauchhammer.public.md) 
+### [Lauchhammer](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Lauchhammer.md) 
 
-### [Lauchhammer.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~OberspreewaldLauchhammer.internal.md) 
+### [Lauchhammer.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Lauchhammer.public.md) 
 
-### [Lauchhammer.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~OberspreewaldLauchhammer.protect.md) 
+### [Lauchhammer.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Lauchhammer.internal.md) 
 
-### [Lauchhammer.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~OberspreewaldLauchhammer.private.md) 
+### [Lauchhammer.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Lauchhammer.protect.md) 
 
-### [Lauchhammer.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~OberspreewaldLauchhammer.personal.md) 
+### [Lauchhammer.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Lauchhammer.private.md) 
 
-### [Lauchhammer.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~OberspreewaldLauchhammer.secret.md)
+### [Lauchhammer.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Lauchhammer.personal.md) 
+
+### [Lauchhammer.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Lauchhammer.secret.md)
 

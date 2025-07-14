@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ruhrort.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DuisburgRuhrort.public.md) 
+### [Ruhrort](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Duisburg/Ruhrort.md) 
 
-### [Ruhrort.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DuisburgRuhrort.internal.md) 
+### [Ruhrort.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Duisburg/Ruhrort.public.md) 
 
-### [Ruhrort.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DuisburgRuhrort.protect.md) 
+### [Ruhrort.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Duisburg/Ruhrort.internal.md) 
 
-### [Ruhrort.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DuisburgRuhrort.private.md) 
+### [Ruhrort.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Duisburg/Ruhrort.protect.md) 
 
-### [Ruhrort.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DuisburgRuhrort.personal.md) 
+### [Ruhrort.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Duisburg/Ruhrort.private.md) 
 
-### [Ruhrort.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DuisburgRuhrort.secret.md)
+### [Ruhrort.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Duisburg/Ruhrort.personal.md) 
+
+### [Ruhrort.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Duisburg/Ruhrort.secret.md)
 

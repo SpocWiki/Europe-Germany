@@ -30,15 +30,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [T-Bürostadt_Niederrad.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Bürostadt_Niederrad.public.md) 
+### [T-Bürostadt_Niederrad](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bürostadt_Niederrad.md) 
 
-### [T-Bürostadt_Niederrad.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Bürostadt_Niederrad.internal.md) 
+### [T-Bürostadt_Niederrad.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bürostadt_Niederrad.public.md) 
 
-### [T-Bürostadt_Niederrad.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Bürostadt_Niederrad.protect.md) 
+### [T-Bürostadt_Niederrad.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bürostadt_Niederrad.internal.md) 
 
-### [T-Bürostadt_Niederrad.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Bürostadt_Niederrad.private.md) 
+### [T-Bürostadt_Niederrad.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bürostadt_Niederrad.protect.md) 
 
-### [T-Bürostadt_Niederrad.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Bürostadt_Niederrad.personal.md) 
+### [T-Bürostadt_Niederrad.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bürostadt_Niederrad.private.md) 
 
-### [T-Bürostadt_Niederrad.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Bürostadt_Niederrad.secret.md)
+### [T-Bürostadt_Niederrad.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bürostadt_Niederrad.personal.md) 
+
+### [T-Bürostadt_Niederrad.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bürostadt_Niederrad.secret.md)
 

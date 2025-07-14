@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dautzschen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Beilrode\CityDautzschen.public.md) 
+### [Dautzschen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Beilrode/City/Dautzschen.md) 
 
-### [Dautzschen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Beilrode\CityDautzschen.internal.md) 
+### [Dautzschen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Beilrode/City/Dautzschen.public.md) 
 
-### [Dautzschen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Beilrode\CityDautzschen.protect.md) 
+### [Dautzschen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Beilrode/City/Dautzschen.internal.md) 
 
-### [Dautzschen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Beilrode\CityDautzschen.private.md) 
+### [Dautzschen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Beilrode/City/Dautzschen.protect.md) 
 
-### [Dautzschen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Beilrode\CityDautzschen.personal.md) 
+### [Dautzschen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Beilrode/City/Dautzschen.private.md) 
 
-### [Dautzschen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Beilrode\CityDautzschen.secret.md)
+### [Dautzschen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Beilrode/City/Dautzschen.personal.md) 
+
+### [Dautzschen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Beilrode/City/Dautzschen.secret.md)
 

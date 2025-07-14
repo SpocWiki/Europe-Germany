@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ifta.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Treffurt\CityIfta.public.md) 
+### [Ifta](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Treffurt/City/Ifta.md) 
 
-### [Ifta.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Treffurt\CityIfta.internal.md) 
+### [Ifta.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Treffurt/City/Ifta.public.md) 
 
-### [Ifta.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Treffurt\CityIfta.protect.md) 
+### [Ifta.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Treffurt/City/Ifta.internal.md) 
 
-### [Ifta.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Treffurt\CityIfta.private.md) 
+### [Ifta.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Treffurt/City/Ifta.protect.md) 
 
-### [Ifta.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Treffurt\CityIfta.personal.md) 
+### [Ifta.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Treffurt/City/Ifta.private.md) 
 
-### [Ifta.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Treffurt\CityIfta.secret.md)
+### [Ifta.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Treffurt/City/Ifta.personal.md) 
+
+### [Ifta.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Treffurt/City/Ifta.secret.md)
 

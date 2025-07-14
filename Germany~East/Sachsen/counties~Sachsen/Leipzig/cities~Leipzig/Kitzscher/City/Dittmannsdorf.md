@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dittmannsdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Kitzscher\CityDittmannsdorf.public.md) 
+### [Dittmannsdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Kitzscher/City/Dittmannsdorf.md) 
 
-### [Dittmannsdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Kitzscher\CityDittmannsdorf.internal.md) 
+### [Dittmannsdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Kitzscher/City/Dittmannsdorf.public.md) 
 
-### [Dittmannsdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Kitzscher\CityDittmannsdorf.protect.md) 
+### [Dittmannsdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Kitzscher/City/Dittmannsdorf.internal.md) 
 
-### [Dittmannsdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Kitzscher\CityDittmannsdorf.private.md) 
+### [Dittmannsdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Kitzscher/City/Dittmannsdorf.protect.md) 
 
-### [Dittmannsdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Kitzscher\CityDittmannsdorf.personal.md) 
+### [Dittmannsdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Kitzscher/City/Dittmannsdorf.private.md) 
 
-### [Dittmannsdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Kitzscher\CityDittmannsdorf.secret.md)
+### [Dittmannsdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Kitzscher/City/Dittmannsdorf.personal.md) 
+
+### [Dittmannsdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Kitzscher/City/Dittmannsdorf.secret.md)
 

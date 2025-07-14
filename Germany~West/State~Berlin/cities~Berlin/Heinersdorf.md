@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Heinersdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinHeinersdorf.public.md) 
+### [Heinersdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Heinersdorf.md) 
 
-### [Heinersdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinHeinersdorf.internal.md) 
+### [Heinersdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Heinersdorf.public.md) 
 
-### [Heinersdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinHeinersdorf.protect.md) 
+### [Heinersdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Heinersdorf.internal.md) 
 
-### [Heinersdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinHeinersdorf.private.md) 
+### [Heinersdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Heinersdorf.protect.md) 
 
-### [Heinersdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinHeinersdorf.personal.md) 
+### [Heinersdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Heinersdorf.private.md) 
 
-### [Heinersdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinHeinersdorf.secret.md)
+### [Heinersdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Heinersdorf.personal.md) 
+
+### [Heinersdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Heinersdorf.secret.md)
 

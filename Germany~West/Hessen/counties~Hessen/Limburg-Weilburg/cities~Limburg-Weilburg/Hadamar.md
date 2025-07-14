@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hadamar.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-WeilburgHadamar.public.md) 
+### [Hadamar](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Hadamar.md) 
 
-### [Hadamar.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-WeilburgHadamar.internal.md) 
+### [Hadamar.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Hadamar.public.md) 
 
-### [Hadamar.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-WeilburgHadamar.protect.md) 
+### [Hadamar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Hadamar.internal.md) 
 
-### [Hadamar.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-WeilburgHadamar.private.md) 
+### [Hadamar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Hadamar.protect.md) 
 
-### [Hadamar.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-WeilburgHadamar.personal.md) 
+### [Hadamar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Hadamar.private.md) 
 
-### [Hadamar.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-WeilburgHadamar.secret.md)
+### [Hadamar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Hadamar.personal.md) 
+
+### [Hadamar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Hadamar.secret.md)
 

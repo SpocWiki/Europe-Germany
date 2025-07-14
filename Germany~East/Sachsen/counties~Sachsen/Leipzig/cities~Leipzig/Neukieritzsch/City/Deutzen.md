@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Deutzen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Neukieritzsch\CityDeutzen.public.md) 
+### [Deutzen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Neukieritzsch/City/Deutzen.md) 
 
-### [Deutzen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Neukieritzsch\CityDeutzen.internal.md) 
+### [Deutzen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Neukieritzsch/City/Deutzen.public.md) 
 
-### [Deutzen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Neukieritzsch\CityDeutzen.protect.md) 
+### [Deutzen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Neukieritzsch/City/Deutzen.internal.md) 
 
-### [Deutzen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Neukieritzsch\CityDeutzen.private.md) 
+### [Deutzen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Neukieritzsch/City/Deutzen.protect.md) 
 
-### [Deutzen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Neukieritzsch\CityDeutzen.personal.md) 
+### [Deutzen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Neukieritzsch/City/Deutzen.private.md) 
 
-### [Deutzen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Neukieritzsch\CityDeutzen.secret.md)
+### [Deutzen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Neukieritzsch/City/Deutzen.personal.md) 
+
+### [Deutzen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Neukieritzsch/City/Deutzen.secret.md)
 

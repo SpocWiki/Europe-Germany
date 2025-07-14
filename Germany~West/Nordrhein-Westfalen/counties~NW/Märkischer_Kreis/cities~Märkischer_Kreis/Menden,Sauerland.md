@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Menden,Sauerland.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisMenden,Sauerland.public.md) 
+### [Menden,Sauerland](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Menden,Sauerland.md) 
 
-### [Menden,Sauerland.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisMenden,Sauerland.internal.md) 
+### [Menden,Sauerland.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Menden,Sauerland.public.md) 
 
-### [Menden,Sauerland.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisMenden,Sauerland.protect.md) 
+### [Menden,Sauerland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Menden,Sauerland.internal.md) 
 
-### [Menden,Sauerland.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisMenden,Sauerland.private.md) 
+### [Menden,Sauerland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Menden,Sauerland.protect.md) 
 
-### [Menden,Sauerland.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisMenden,Sauerland.personal.md) 
+### [Menden,Sauerland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Menden,Sauerland.private.md) 
 
-### [Menden,Sauerland.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisMenden,Sauerland.secret.md)
+### [Menden,Sauerland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Menden,Sauerland.personal.md) 
+
+### [Menden,Sauerland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Menden,Sauerland.secret.md)
 

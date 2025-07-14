@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grüna,Jüterbog.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\JüterbogGrüna,Jüterbog.public.md) 
+### [Grüna,Jüterbog](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Jüterbog/Grüna,Jüterbog.md) 
 
-### [Grüna,Jüterbog.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\JüterbogGrüna,Jüterbog.internal.md) 
+### [Grüna,Jüterbog.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Jüterbog/Grüna,Jüterbog.public.md) 
 
-### [Grüna,Jüterbog.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\JüterbogGrüna,Jüterbog.protect.md) 
+### [Grüna,Jüterbog.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Jüterbog/Grüna,Jüterbog.internal.md) 
 
-### [Grüna,Jüterbog.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\JüterbogGrüna,Jüterbog.private.md) 
+### [Grüna,Jüterbog.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Jüterbog/Grüna,Jüterbog.protect.md) 
 
-### [Grüna,Jüterbog.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\JüterbogGrüna,Jüterbog.personal.md) 
+### [Grüna,Jüterbog.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Jüterbog/Grüna,Jüterbog.private.md) 
 
-### [Grüna,Jüterbog.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\JüterbogGrüna,Jüterbog.secret.md)
+### [Grüna,Jüterbog.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Jüterbog/Grüna,Jüterbog.personal.md) 
+
+### [Grüna,Jüterbog.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Jüterbog/Grüna,Jüterbog.secret.md)
 

@@ -30,15 +30,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [T-Eissporthalle_Festplatz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Eissporthalle_Festplatz.public.md) 
+### [T-Eissporthalle_Festplatz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Eissporthalle_Festplatz.md) 
 
-### [T-Eissporthalle_Festplatz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Eissporthalle_Festplatz.internal.md) 
+### [T-Eissporthalle_Festplatz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Eissporthalle_Festplatz.public.md) 
 
-### [T-Eissporthalle_Festplatz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Eissporthalle_Festplatz.protect.md) 
+### [T-Eissporthalle_Festplatz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Eissporthalle_Festplatz.internal.md) 
 
-### [T-Eissporthalle_Festplatz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Eissporthalle_Festplatz.private.md) 
+### [T-Eissporthalle_Festplatz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Eissporthalle_Festplatz.protect.md) 
 
-### [T-Eissporthalle_Festplatz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Eissporthalle_Festplatz.personal.md) 
+### [T-Eissporthalle_Festplatz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Eissporthalle_Festplatz.private.md) 
 
-### [T-Eissporthalle_Festplatz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Eissporthalle_Festplatz.secret.md)
+### [T-Eissporthalle_Festplatz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Eissporthalle_Festplatz.personal.md) 
+
+### [T-Eissporthalle_Festplatz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Eissporthalle_Festplatz.secret.md)
 

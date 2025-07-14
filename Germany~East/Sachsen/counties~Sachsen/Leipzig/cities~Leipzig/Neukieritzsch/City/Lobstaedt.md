@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lobstaedt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Neukieritzsch\CityLobstaedt.public.md) 
+### [Lobstaedt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Neukieritzsch/City/Lobstaedt.md) 
 
-### [Lobstaedt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Neukieritzsch\CityLobstaedt.internal.md) 
+### [Lobstaedt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Neukieritzsch/City/Lobstaedt.public.md) 
 
-### [Lobstaedt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Neukieritzsch\CityLobstaedt.protect.md) 
+### [Lobstaedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Neukieritzsch/City/Lobstaedt.internal.md) 
 
-### [Lobstaedt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Neukieritzsch\CityLobstaedt.private.md) 
+### [Lobstaedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Neukieritzsch/City/Lobstaedt.protect.md) 
 
-### [Lobstaedt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Neukieritzsch\CityLobstaedt.personal.md) 
+### [Lobstaedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Neukieritzsch/City/Lobstaedt.private.md) 
 
-### [Lobstaedt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Neukieritzsch\CityLobstaedt.secret.md)
+### [Lobstaedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Neukieritzsch/City/Lobstaedt.personal.md) 
+
+### [Lobstaedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Neukieritzsch/City/Lobstaedt.secret.md)
 

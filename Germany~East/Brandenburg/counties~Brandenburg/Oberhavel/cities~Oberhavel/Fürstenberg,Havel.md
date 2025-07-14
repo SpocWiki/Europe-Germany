@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fürstenberg,Havel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~OberhavelFürstenberg,Havel.public.md) 
+### [Fürstenberg,Havel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Fürstenberg,Havel.md) 
 
-### [Fürstenberg,Havel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~OberhavelFürstenberg,Havel.internal.md) 
+### [Fürstenberg,Havel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Fürstenberg,Havel.public.md) 
 
-### [Fürstenberg,Havel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~OberhavelFürstenberg,Havel.protect.md) 
+### [Fürstenberg,Havel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Fürstenberg,Havel.internal.md) 
 
-### [Fürstenberg,Havel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~OberhavelFürstenberg,Havel.private.md) 
+### [Fürstenberg,Havel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Fürstenberg,Havel.protect.md) 
 
-### [Fürstenberg,Havel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~OberhavelFürstenberg,Havel.personal.md) 
+### [Fürstenberg,Havel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Fürstenberg,Havel.private.md) 
 
-### [Fürstenberg,Havel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~OberhavelFürstenberg,Havel.secret.md)
+### [Fürstenberg,Havel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Fürstenberg,Havel.personal.md) 
+
+### [Fürstenberg,Havel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Fürstenberg,Havel.secret.md)
 

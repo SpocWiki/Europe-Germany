@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kronenburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Dahlem\CityKronenburg.public.md) 
+### [Kronenburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Dahlem/City/Kronenburg.md) 
 
-### [Kronenburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Dahlem\CityKronenburg.internal.md) 
+### [Kronenburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Dahlem/City/Kronenburg.public.md) 
 
-### [Kronenburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Dahlem\CityKronenburg.protect.md) 
+### [Kronenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Dahlem/City/Kronenburg.internal.md) 
 
-### [Kronenburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Dahlem\CityKronenburg.private.md) 
+### [Kronenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Dahlem/City/Kronenburg.protect.md) 
 
-### [Kronenburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Dahlem\CityKronenburg.personal.md) 
+### [Kronenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Dahlem/City/Kronenburg.private.md) 
 
-### [Kronenburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Dahlem\CityKronenburg.secret.md)
+### [Kronenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Dahlem/City/Kronenburg.personal.md) 
+
+### [Kronenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Dahlem/City/Kronenburg.secret.md)
 

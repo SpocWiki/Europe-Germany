@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Planitz~Zwickau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Zwickau-city\CityPlanitz~Zwickau.public.md) 
+### [Planitz~Zwickau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Zwickau-city/City/Planitz~Zwickau.md) 
 
-### [Planitz~Zwickau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Zwickau-city\CityPlanitz~Zwickau.internal.md) 
+### [Planitz~Zwickau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Zwickau-city/City/Planitz~Zwickau.public.md) 
 
-### [Planitz~Zwickau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Zwickau-city\CityPlanitz~Zwickau.protect.md) 
+### [Planitz~Zwickau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Zwickau-city/City/Planitz~Zwickau.internal.md) 
 
-### [Planitz~Zwickau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Zwickau-city\CityPlanitz~Zwickau.private.md) 
+### [Planitz~Zwickau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Zwickau-city/City/Planitz~Zwickau.protect.md) 
 
-### [Planitz~Zwickau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Zwickau-city\CityPlanitz~Zwickau.personal.md) 
+### [Planitz~Zwickau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Zwickau-city/City/Planitz~Zwickau.private.md) 
 
-### [Planitz~Zwickau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Zwickau-city\CityPlanitz~Zwickau.secret.md)
+### [Planitz~Zwickau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Zwickau-city/City/Planitz~Zwickau.personal.md) 
+
+### [Planitz~Zwickau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Zwickau-city/City/Planitz~Zwickau.secret.md)
 

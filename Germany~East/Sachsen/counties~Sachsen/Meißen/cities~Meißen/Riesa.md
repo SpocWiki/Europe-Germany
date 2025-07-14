@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Riesa.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~MeißenRiesa.public.md) 
+### [Riesa](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Riesa.md) 
 
-### [Riesa.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~MeißenRiesa.internal.md) 
+### [Riesa.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Riesa.public.md) 
 
-### [Riesa.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~MeißenRiesa.protect.md) 
+### [Riesa.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Riesa.internal.md) 
 
-### [Riesa.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~MeißenRiesa.private.md) 
+### [Riesa.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Riesa.protect.md) 
 
-### [Riesa.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~MeißenRiesa.personal.md) 
+### [Riesa.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Riesa.private.md) 
 
-### [Riesa.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~MeißenRiesa.secret.md)
+### [Riesa.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Riesa.personal.md) 
+
+### [Riesa.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Riesa.secret.md)
 

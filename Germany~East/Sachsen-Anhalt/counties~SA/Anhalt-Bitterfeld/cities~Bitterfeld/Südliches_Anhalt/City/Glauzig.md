@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Glauzig.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Südliches_Anhalt\CityGlauzig.public.md) 
+### [Glauzig](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Südliches_Anhalt/City/Glauzig.md) 
 
-### [Glauzig.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Südliches_Anhalt\CityGlauzig.internal.md) 
+### [Glauzig.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Südliches_Anhalt/City/Glauzig.public.md) 
 
-### [Glauzig.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Südliches_Anhalt\CityGlauzig.protect.md) 
+### [Glauzig.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Südliches_Anhalt/City/Glauzig.internal.md) 
 
-### [Glauzig.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Südliches_Anhalt\CityGlauzig.private.md) 
+### [Glauzig.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Südliches_Anhalt/City/Glauzig.protect.md) 
 
-### [Glauzig.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Südliches_Anhalt\CityGlauzig.personal.md) 
+### [Glauzig.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Südliches_Anhalt/City/Glauzig.private.md) 
 
-### [Glauzig.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Südliches_Anhalt\CityGlauzig.secret.md)
+### [Glauzig.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Südliches_Anhalt/City/Glauzig.personal.md) 
+
+### [Glauzig.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Südliches_Anhalt/City/Glauzig.secret.md)
 

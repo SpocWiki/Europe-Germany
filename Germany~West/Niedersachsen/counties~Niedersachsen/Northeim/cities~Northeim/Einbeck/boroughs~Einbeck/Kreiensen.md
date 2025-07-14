@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kreiensen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Einbeck\boroughs~EinbeckKreiensen.public.md) 
+### [Kreiensen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck/boroughs~Einbeck/Kreiensen.md) 
 
-### [Kreiensen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Einbeck\boroughs~EinbeckKreiensen.internal.md) 
+### [Kreiensen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck/boroughs~Einbeck/Kreiensen.public.md) 
 
-### [Kreiensen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Einbeck\boroughs~EinbeckKreiensen.protect.md) 
+### [Kreiensen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck/boroughs~Einbeck/Kreiensen.internal.md) 
 
-### [Kreiensen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Einbeck\boroughs~EinbeckKreiensen.private.md) 
+### [Kreiensen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck/boroughs~Einbeck/Kreiensen.protect.md) 
 
-### [Kreiensen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Einbeck\boroughs~EinbeckKreiensen.personal.md) 
+### [Kreiensen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck/boroughs~Einbeck/Kreiensen.private.md) 
 
-### [Kreiensen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Einbeck\boroughs~EinbeckKreiensen.secret.md)
+### [Kreiensen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck/boroughs~Einbeck/Kreiensen.personal.md) 
+
+### [Kreiensen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck/boroughs~Einbeck/Kreiensen.secret.md)
 

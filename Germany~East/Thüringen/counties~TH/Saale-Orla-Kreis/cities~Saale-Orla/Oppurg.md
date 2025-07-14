@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oppurg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-OrlaOppurg.public.md) 
+### [Oppurg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Oppurg.md) 
 
-### [Oppurg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-OrlaOppurg.internal.md) 
+### [Oppurg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Oppurg.public.md) 
 
-### [Oppurg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-OrlaOppurg.protect.md) 
+### [Oppurg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Oppurg.internal.md) 
 
-### [Oppurg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-OrlaOppurg.private.md) 
+### [Oppurg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Oppurg.protect.md) 
 
-### [Oppurg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-OrlaOppurg.personal.md) 
+### [Oppurg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Oppurg.private.md) 
 
-### [Oppurg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-OrlaOppurg.secret.md)
+### [Oppurg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Oppurg.personal.md) 
+
+### [Oppurg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Oppurg.secret.md)
 

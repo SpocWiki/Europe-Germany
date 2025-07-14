@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eddelak.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Dithmarschen\cities~Dithmarschen\Burg-St.Michaelisdonn\boroughs~St.MichaelisdonnEddelak.public.md) 
+### [Eddelak](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Burg-St.Michaelisdonn/boroughs~St.Michaelisdonn/Eddelak.md) 
 
-### [Eddelak.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Dithmarschen\cities~Dithmarschen\Burg-St.Michaelisdonn\boroughs~St.MichaelisdonnEddelak.internal.md) 
+### [Eddelak.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Burg-St.Michaelisdonn/boroughs~St.Michaelisdonn/Eddelak.public.md) 
 
-### [Eddelak.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Dithmarschen\cities~Dithmarschen\Burg-St.Michaelisdonn\boroughs~St.MichaelisdonnEddelak.protect.md) 
+### [Eddelak.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Burg-St.Michaelisdonn/boroughs~St.Michaelisdonn/Eddelak.internal.md) 
 
-### [Eddelak.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Dithmarschen\cities~Dithmarschen\Burg-St.Michaelisdonn\boroughs~St.MichaelisdonnEddelak.private.md) 
+### [Eddelak.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Burg-St.Michaelisdonn/boroughs~St.Michaelisdonn/Eddelak.protect.md) 
 
-### [Eddelak.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Dithmarschen\cities~Dithmarschen\Burg-St.Michaelisdonn\boroughs~St.MichaelisdonnEddelak.personal.md) 
+### [Eddelak.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Burg-St.Michaelisdonn/boroughs~St.Michaelisdonn/Eddelak.private.md) 
 
-### [Eddelak.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Dithmarschen\cities~Dithmarschen\Burg-St.Michaelisdonn\boroughs~St.MichaelisdonnEddelak.secret.md)
+### [Eddelak.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Burg-St.Michaelisdonn/boroughs~St.Michaelisdonn/Eddelak.personal.md) 
+
+### [Eddelak.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Burg-St.Michaelisdonn/boroughs~St.Michaelisdonn/Eddelak.secret.md)
 

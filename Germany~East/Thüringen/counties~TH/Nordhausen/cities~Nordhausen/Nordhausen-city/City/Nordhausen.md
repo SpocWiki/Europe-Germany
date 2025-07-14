@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nordhausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Nordhausen\cities~Nordhausen\Nordhausen-city\CityNordhausen.public.md) 
+### [Nordhausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Nordhausen/cities~Nordhausen/Nordhausen-city/City/Nordhausen.md) 
 
-### [Nordhausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Nordhausen\cities~Nordhausen\Nordhausen-city\CityNordhausen.internal.md) 
+### [Nordhausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Nordhausen/cities~Nordhausen/Nordhausen-city/City/Nordhausen.public.md) 
 
-### [Nordhausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Nordhausen\cities~Nordhausen\Nordhausen-city\CityNordhausen.protect.md) 
+### [Nordhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Nordhausen/cities~Nordhausen/Nordhausen-city/City/Nordhausen.internal.md) 
 
-### [Nordhausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Nordhausen\cities~Nordhausen\Nordhausen-city\CityNordhausen.private.md) 
+### [Nordhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Nordhausen/cities~Nordhausen/Nordhausen-city/City/Nordhausen.protect.md) 
 
-### [Nordhausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Nordhausen\cities~Nordhausen\Nordhausen-city\CityNordhausen.personal.md) 
+### [Nordhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Nordhausen/cities~Nordhausen/Nordhausen-city/City/Nordhausen.private.md) 
 
-### [Nordhausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Nordhausen\cities~Nordhausen\Nordhausen-city\CityNordhausen.secret.md)
+### [Nordhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Nordhausen/cities~Nordhausen/Nordhausen-city/City/Nordhausen.personal.md) 
+
+### [Nordhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Nordhausen/cities~Nordhausen/Nordhausen-city/City/Nordhausen.secret.md)
 

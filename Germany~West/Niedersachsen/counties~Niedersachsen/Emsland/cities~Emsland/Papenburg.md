@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Papenburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~EmslandPapenburg.public.md) 
+### [Papenburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Papenburg.md) 
 
-### [Papenburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~EmslandPapenburg.internal.md) 
+### [Papenburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Papenburg.public.md) 
 
-### [Papenburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~EmslandPapenburg.protect.md) 
+### [Papenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Papenburg.internal.md) 
 
-### [Papenburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~EmslandPapenburg.private.md) 
+### [Papenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Papenburg.protect.md) 
 
-### [Papenburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~EmslandPapenburg.personal.md) 
+### [Papenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Papenburg.private.md) 
 
-### [Papenburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~EmslandPapenburg.secret.md)
+### [Papenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Papenburg.personal.md) 
+
+### [Papenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Papenburg.secret.md)
 

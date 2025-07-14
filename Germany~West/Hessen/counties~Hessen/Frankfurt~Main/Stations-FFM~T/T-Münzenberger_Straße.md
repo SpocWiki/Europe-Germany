@@ -33,15 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [T-Münzenberger_Straße.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Münzenberger_Straße.public.md) 
+### [T-Münzenberger_Straße](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Münzenberger_Straße.md) 
 
-### [T-Münzenberger_Straße.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Münzenberger_Straße.internal.md) 
+### [T-Münzenberger_Straße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Münzenberger_Straße.public.md) 
 
-### [T-Münzenberger_Straße.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Münzenberger_Straße.protect.md) 
+### [T-Münzenberger_Straße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Münzenberger_Straße.internal.md) 
 
-### [T-Münzenberger_Straße.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Münzenberger_Straße.private.md) 
+### [T-Münzenberger_Straße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Münzenberger_Straße.protect.md) 
 
-### [T-Münzenberger_Straße.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Münzenberger_Straße.personal.md) 
+### [T-Münzenberger_Straße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Münzenberger_Straße.private.md) 
 
-### [T-Münzenberger_Straße.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Münzenberger_Straße.secret.md)
+### [T-Münzenberger_Straße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Münzenberger_Straße.personal.md) 
+
+### [T-Münzenberger_Straße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Münzenberger_Straße.secret.md)
 

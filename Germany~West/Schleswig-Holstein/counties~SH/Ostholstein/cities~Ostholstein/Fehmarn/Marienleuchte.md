@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marienleuchte.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~Ostholstein\FehmarnMarienleuchte.public.md) 
+### [Marienleuchte](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Fehmarn/Marienleuchte.md) 
 
-### [Marienleuchte.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~Ostholstein\FehmarnMarienleuchte.internal.md) 
+### [Marienleuchte.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Fehmarn/Marienleuchte.public.md) 
 
-### [Marienleuchte.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~Ostholstein\FehmarnMarienleuchte.protect.md) 
+### [Marienleuchte.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Fehmarn/Marienleuchte.internal.md) 
 
-### [Marienleuchte.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~Ostholstein\FehmarnMarienleuchte.private.md) 
+### [Marienleuchte.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Fehmarn/Marienleuchte.protect.md) 
 
-### [Marienleuchte.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~Ostholstein\FehmarnMarienleuchte.personal.md) 
+### [Marienleuchte.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Fehmarn/Marienleuchte.private.md) 
 
-### [Marienleuchte.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~Ostholstein\FehmarnMarienleuchte.secret.md)
+### [Marienleuchte.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Fehmarn/Marienleuchte.personal.md) 
+
+### [Marienleuchte.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Fehmarn/Marienleuchte.secret.md)
 

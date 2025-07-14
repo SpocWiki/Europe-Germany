@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sternberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Sternberger_Seen\boroughs~Sternb_SeeSternberg.public.md) 
+### [Sternberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Sternberger_Seen/boroughs~Sternb_See/Sternberg.md) 
 
-### [Sternberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Sternberger_Seen\boroughs~Sternb_SeeSternberg.internal.md) 
+### [Sternberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Sternberger_Seen/boroughs~Sternb_See/Sternberg.public.md) 
 
-### [Sternberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Sternberger_Seen\boroughs~Sternb_SeeSternberg.protect.md) 
+### [Sternberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Sternberger_Seen/boroughs~Sternb_See/Sternberg.internal.md) 
 
-### [Sternberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Sternberger_Seen\boroughs~Sternb_SeeSternberg.private.md) 
+### [Sternberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Sternberger_Seen/boroughs~Sternb_See/Sternberg.protect.md) 
 
-### [Sternberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Sternberger_Seen\boroughs~Sternb_SeeSternberg.personal.md) 
+### [Sternberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Sternberger_Seen/boroughs~Sternb_See/Sternberg.private.md) 
 
-### [Sternberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Sternberger_Seen\boroughs~Sternb_SeeSternberg.secret.md)
+### [Sternberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Sternberger_Seen/boroughs~Sternb_See/Sternberg.personal.md) 
+
+### [Sternberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Sternberger_Seen/boroughs~Sternb_See/Sternberg.secret.md)
 

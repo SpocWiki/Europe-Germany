@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Teuchern.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Burgenlandkreis\cities~BurgenlandTeuchern.public.md) 
+### [Teuchern](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Teuchern.md) 
 
-### [Teuchern.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Burgenlandkreis\cities~BurgenlandTeuchern.internal.md) 
+### [Teuchern.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Teuchern.public.md) 
 
-### [Teuchern.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Burgenlandkreis\cities~BurgenlandTeuchern.protect.md) 
+### [Teuchern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Teuchern.internal.md) 
 
-### [Teuchern.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Burgenlandkreis\cities~BurgenlandTeuchern.private.md) 
+### [Teuchern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Teuchern.protect.md) 
 
-### [Teuchern.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Burgenlandkreis\cities~BurgenlandTeuchern.personal.md) 
+### [Teuchern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Teuchern.private.md) 
 
-### [Teuchern.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Burgenlandkreis\cities~BurgenlandTeuchern.secret.md)
+### [Teuchern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Teuchern.personal.md) 
+
+### [Teuchern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Teuchern.secret.md)
 

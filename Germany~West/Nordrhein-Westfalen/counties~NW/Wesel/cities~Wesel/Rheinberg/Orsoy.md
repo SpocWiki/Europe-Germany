@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Orsoy.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~Wesel\RheinbergOrsoy.public.md) 
+### [Orsoy](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Rheinberg/Orsoy.md) 
 
-### [Orsoy.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~Wesel\RheinbergOrsoy.internal.md) 
+### [Orsoy.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Rheinberg/Orsoy.public.md) 
 
-### [Orsoy.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~Wesel\RheinbergOrsoy.protect.md) 
+### [Orsoy.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Rheinberg/Orsoy.internal.md) 
 
-### [Orsoy.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~Wesel\RheinbergOrsoy.private.md) 
+### [Orsoy.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Rheinberg/Orsoy.protect.md) 
 
-### [Orsoy.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~Wesel\RheinbergOrsoy.personal.md) 
+### [Orsoy.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Rheinberg/Orsoy.private.md) 
 
-### [Orsoy.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~Wesel\RheinbergOrsoy.secret.md)
+### [Orsoy.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Rheinberg/Orsoy.personal.md) 
+
+### [Orsoy.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Rheinberg/Orsoy.secret.md)
 

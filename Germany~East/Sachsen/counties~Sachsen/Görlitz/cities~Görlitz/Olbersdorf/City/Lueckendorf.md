@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lueckendorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Olbersdorf\CityLueckendorf.public.md) 
+### [Lueckendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Olbersdorf/City/Lueckendorf.md) 
 
-### [Lueckendorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Olbersdorf\CityLueckendorf.internal.md) 
+### [Lueckendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Olbersdorf/City/Lueckendorf.public.md) 
 
-### [Lueckendorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Olbersdorf\CityLueckendorf.protect.md) 
+### [Lueckendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Olbersdorf/City/Lueckendorf.internal.md) 
 
-### [Lueckendorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Olbersdorf\CityLueckendorf.private.md) 
+### [Lueckendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Olbersdorf/City/Lueckendorf.protect.md) 
 
-### [Lueckendorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Olbersdorf\CityLueckendorf.personal.md) 
+### [Lueckendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Olbersdorf/City/Lueckendorf.private.md) 
 
-### [Lueckendorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Olbersdorf\CityLueckendorf.secret.md)
+### [Lueckendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Olbersdorf/City/Lueckendorf.personal.md) 
+
+### [Lueckendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Olbersdorf/City/Lueckendorf.secret.md)
 

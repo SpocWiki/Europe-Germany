@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Püttlingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Region~Saarbrücken\cities~SaarbrückenPüttlingen.public.md) 
+### [Püttlingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Püttlingen.md) 
 
-### [Püttlingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Region~Saarbrücken\cities~SaarbrückenPüttlingen.internal.md) 
+### [Püttlingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Püttlingen.public.md) 
 
-### [Püttlingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Region~Saarbrücken\cities~SaarbrückenPüttlingen.protect.md) 
+### [Püttlingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Püttlingen.internal.md) 
 
-### [Püttlingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Region~Saarbrücken\cities~SaarbrückenPüttlingen.private.md) 
+### [Püttlingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Püttlingen.protect.md) 
 
-### [Püttlingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Region~Saarbrücken\cities~SaarbrückenPüttlingen.personal.md) 
+### [Püttlingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Püttlingen.private.md) 
 
-### [Püttlingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Region~Saarbrücken\cities~SaarbrückenPüttlingen.secret.md)
+### [Püttlingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Püttlingen.personal.md) 
+
+### [Püttlingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Püttlingen.secret.md)
 

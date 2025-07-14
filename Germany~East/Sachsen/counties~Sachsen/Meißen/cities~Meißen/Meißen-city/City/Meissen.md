@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Meissen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Meißen-city\CityMeissen.public.md) 
+### [Meissen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Meißen-city/City/Meissen.md) 
 
-### [Meissen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Meißen-city\CityMeissen.internal.md) 
+### [Meissen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Meißen-city/City/Meissen.public.md) 
 
-### [Meissen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Meißen-city\CityMeissen.protect.md) 
+### [Meissen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Meißen-city/City/Meissen.internal.md) 
 
-### [Meissen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Meißen-city\CityMeissen.private.md) 
+### [Meissen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Meißen-city/City/Meissen.protect.md) 
 
-### [Meissen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Meißen-city\CityMeissen.personal.md) 
+### [Meissen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Meißen-city/City/Meissen.private.md) 
 
-### [Meissen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Meißen-city\CityMeissen.secret.md)
+### [Meissen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Meißen-city/City/Meissen.personal.md) 
+
+### [Meissen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Meißen-city/City/Meissen.secret.md)
 

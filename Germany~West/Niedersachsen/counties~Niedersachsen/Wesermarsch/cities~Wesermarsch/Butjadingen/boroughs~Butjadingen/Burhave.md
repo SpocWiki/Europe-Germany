@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Burhave.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Butjadingen\boroughs~ButjadingenBurhave.public.md) 
+### [Burhave](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Burhave.md) 
 
-### [Burhave.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Butjadingen\boroughs~ButjadingenBurhave.internal.md) 
+### [Burhave.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Burhave.public.md) 
 
-### [Burhave.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Butjadingen\boroughs~ButjadingenBurhave.protect.md) 
+### [Burhave.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Burhave.internal.md) 
 
-### [Burhave.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Butjadingen\boroughs~ButjadingenBurhave.private.md) 
+### [Burhave.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Burhave.protect.md) 
 
-### [Burhave.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Butjadingen\boroughs~ButjadingenBurhave.personal.md) 
+### [Burhave.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Burhave.private.md) 
 
-### [Burhave.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Butjadingen\boroughs~ButjadingenBurhave.secret.md)
+### [Burhave.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Burhave.personal.md) 
+
+### [Burhave.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Burhave.secret.md)
 

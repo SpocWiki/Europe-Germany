@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sterkrade.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberhausen,WestfahlenSterkrade.public.md) 
+### [Sterkrade](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen/Sterkrade.md) 
 
-### [Sterkrade.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberhausen,WestfahlenSterkrade.internal.md) 
+### [Sterkrade.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen/Sterkrade.public.md) 
 
-### [Sterkrade.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberhausen,WestfahlenSterkrade.protect.md) 
+### [Sterkrade.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen/Sterkrade.internal.md) 
 
-### [Sterkrade.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberhausen,WestfahlenSterkrade.private.md) 
+### [Sterkrade.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen/Sterkrade.protect.md) 
 
-### [Sterkrade.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberhausen,WestfahlenSterkrade.personal.md) 
+### [Sterkrade.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen/Sterkrade.private.md) 
 
-### [Sterkrade.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberhausen,WestfahlenSterkrade.secret.md)
+### [Sterkrade.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen/Sterkrade.personal.md) 
+
+### [Sterkrade.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen/Sterkrade.secret.md)
 

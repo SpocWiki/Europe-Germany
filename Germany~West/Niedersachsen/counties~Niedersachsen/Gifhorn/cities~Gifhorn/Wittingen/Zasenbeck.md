@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zasenbeck.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\WittingenZasenbeck.public.md) 
+### [Zasenbeck](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/Zasenbeck.md) 
 
-### [Zasenbeck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\WittingenZasenbeck.internal.md) 
+### [Zasenbeck.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/Zasenbeck.public.md) 
 
-### [Zasenbeck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\WittingenZasenbeck.protect.md) 
+### [Zasenbeck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/Zasenbeck.internal.md) 
 
-### [Zasenbeck.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\WittingenZasenbeck.private.md) 
+### [Zasenbeck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/Zasenbeck.protect.md) 
 
-### [Zasenbeck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\WittingenZasenbeck.personal.md) 
+### [Zasenbeck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/Zasenbeck.private.md) 
 
-### [Zasenbeck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\WittingenZasenbeck.secret.md)
+### [Zasenbeck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/Zasenbeck.personal.md) 
+
+### [Zasenbeck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/Zasenbeck.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jarmen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Demmin\boroughs~DemminJarmen.public.md) 
+### [Jarmen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Demmin/boroughs~Demmin/Jarmen.md) 
 
-### [Jarmen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Demmin\boroughs~DemminJarmen.internal.md) 
+### [Jarmen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Demmin/boroughs~Demmin/Jarmen.public.md) 
 
-### [Jarmen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Demmin\boroughs~DemminJarmen.protect.md) 
+### [Jarmen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Demmin/boroughs~Demmin/Jarmen.internal.md) 
 
-### [Jarmen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Demmin\boroughs~DemminJarmen.private.md) 
+### [Jarmen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Demmin/boroughs~Demmin/Jarmen.protect.md) 
 
-### [Jarmen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Demmin\boroughs~DemminJarmen.personal.md) 
+### [Jarmen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Demmin/boroughs~Demmin/Jarmen.private.md) 
 
-### [Jarmen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Demmin\boroughs~DemminJarmen.secret.md)
+### [Jarmen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Demmin/boroughs~Demmin/Jarmen.personal.md) 
+
+### [Jarmen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Demmin/boroughs~Demmin/Jarmen.secret.md)
 

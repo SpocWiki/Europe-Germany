@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Havelberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~StendalHavelberg.public.md) 
+### [Havelberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Havelberg.md) 
 
-### [Havelberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~StendalHavelberg.internal.md) 
+### [Havelberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Havelberg.public.md) 
 
-### [Havelberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~StendalHavelberg.protect.md) 
+### [Havelberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Havelberg.internal.md) 
 
-### [Havelberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~StendalHavelberg.private.md) 
+### [Havelberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Havelberg.protect.md) 
 
-### [Havelberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~StendalHavelberg.personal.md) 
+### [Havelberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Havelberg.private.md) 
 
-### [Havelberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~StendalHavelberg.secret.md)
+### [Havelberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Havelberg.personal.md) 
+
+### [Havelberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Havelberg.secret.md)
 

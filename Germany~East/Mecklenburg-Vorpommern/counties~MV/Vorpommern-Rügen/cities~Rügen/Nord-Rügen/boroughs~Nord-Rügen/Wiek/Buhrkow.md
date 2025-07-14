@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Buhrkow.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Nord-Rügen\boroughs~Nord-Rügen\WiekBuhrkow.public.md) 
+### [Buhrkow](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Wiek/Buhrkow.md) 
 
-### [Buhrkow.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Nord-Rügen\boroughs~Nord-Rügen\WiekBuhrkow.internal.md) 
+### [Buhrkow.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Wiek/Buhrkow.public.md) 
 
-### [Buhrkow.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Nord-Rügen\boroughs~Nord-Rügen\WiekBuhrkow.protect.md) 
+### [Buhrkow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Wiek/Buhrkow.internal.md) 
 
-### [Buhrkow.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Nord-Rügen\boroughs~Nord-Rügen\WiekBuhrkow.private.md) 
+### [Buhrkow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Wiek/Buhrkow.protect.md) 
 
-### [Buhrkow.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Nord-Rügen\boroughs~Nord-Rügen\WiekBuhrkow.personal.md) 
+### [Buhrkow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Wiek/Buhrkow.private.md) 
 
-### [Buhrkow.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Nord-Rügen\boroughs~Nord-Rügen\WiekBuhrkow.secret.md)
+### [Buhrkow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Wiek/Buhrkow.personal.md) 
+
+### [Buhrkow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Wiek/Buhrkow.secret.md)
 

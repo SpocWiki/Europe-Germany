@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bünde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~HerfordBünde.public.md) 
+### [Bünde](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Bünde.md) 
 
-### [Bünde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~HerfordBünde.internal.md) 
+### [Bünde.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Bünde.public.md) 
 
-### [Bünde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~HerfordBünde.protect.md) 
+### [Bünde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Bünde.internal.md) 
 
-### [Bünde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~HerfordBünde.private.md) 
+### [Bünde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Bünde.protect.md) 
 
-### [Bünde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~HerfordBünde.personal.md) 
+### [Bünde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Bünde.private.md) 
 
-### [Bünde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~HerfordBünde.secret.md)
+### [Bünde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Bünde.personal.md) 
+
+### [Bünde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Bünde.secret.md)
 

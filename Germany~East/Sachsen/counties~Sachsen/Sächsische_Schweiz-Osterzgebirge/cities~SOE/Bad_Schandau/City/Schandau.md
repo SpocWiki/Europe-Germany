@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schandau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Bad_Schandau\CitySchandau.public.md) 
+### [Schandau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Bad_Schandau/City/Schandau.md) 
 
-### [Schandau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Bad_Schandau\CitySchandau.internal.md) 
+### [Schandau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Bad_Schandau/City/Schandau.public.md) 
 
-### [Schandau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Bad_Schandau\CitySchandau.protect.md) 
+### [Schandau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Bad_Schandau/City/Schandau.internal.md) 
 
-### [Schandau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Bad_Schandau\CitySchandau.private.md) 
+### [Schandau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Bad_Schandau/City/Schandau.protect.md) 
 
-### [Schandau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Bad_Schandau\CitySchandau.personal.md) 
+### [Schandau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Bad_Schandau/City/Schandau.private.md) 
 
-### [Schandau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Bad_Schandau\CitySchandau.secret.md)
+### [Schandau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Bad_Schandau/City/Schandau.personal.md) 
+
+### [Schandau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Bad_Schandau/City/Schandau.secret.md)
 

@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Uedem.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveUedem.public.md) 
+### [Uedem](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Uedem.md) 
 
-### [Uedem.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveUedem.internal.md) 
+### [Uedem.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Uedem.public.md) 
 
-### [Uedem.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveUedem.protect.md) 
+### [Uedem.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Uedem.internal.md) 
 
-### [Uedem.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveUedem.private.md) 
+### [Uedem.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Uedem.protect.md) 
 
-### [Uedem.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveUedem.personal.md) 
+### [Uedem.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Uedem.private.md) 
 
-### [Uedem.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveUedem.secret.md)
+### [Uedem.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Uedem.personal.md) 
+
+### [Uedem.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Uedem.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Heiligendamm.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Doberan,BadHeiligendamm.public.md) 
+### [Heiligendamm](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Doberan,Bad/Heiligendamm.md) 
 
-### [Heiligendamm.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Doberan,BadHeiligendamm.internal.md) 
+### [Heiligendamm.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Doberan,Bad/Heiligendamm.public.md) 
 
-### [Heiligendamm.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Doberan,BadHeiligendamm.protect.md) 
+### [Heiligendamm.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Doberan,Bad/Heiligendamm.internal.md) 
 
-### [Heiligendamm.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Doberan,BadHeiligendamm.private.md) 
+### [Heiligendamm.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Doberan,Bad/Heiligendamm.protect.md) 
 
-### [Heiligendamm.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Doberan,BadHeiligendamm.personal.md) 
+### [Heiligendamm.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Doberan,Bad/Heiligendamm.private.md) 
 
-### [Heiligendamm.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Doberan,BadHeiligendamm.secret.md)
+### [Heiligendamm.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Doberan,Bad/Heiligendamm.personal.md) 
+
+### [Heiligendamm.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Doberan,Bad/Heiligendamm.secret.md)
 

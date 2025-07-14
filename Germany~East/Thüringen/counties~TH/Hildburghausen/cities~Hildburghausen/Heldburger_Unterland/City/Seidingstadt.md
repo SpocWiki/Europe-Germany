@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Seidingstadt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~Hildburghausen\Heldburger_Unterland\CitySeidingstadt.public.md) 
+### [Seidingstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Heldburger_Unterland/City/Seidingstadt.md) 
 
-### [Seidingstadt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~Hildburghausen\Heldburger_Unterland\CitySeidingstadt.internal.md) 
+### [Seidingstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Heldburger_Unterland/City/Seidingstadt.public.md) 
 
-### [Seidingstadt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~Hildburghausen\Heldburger_Unterland\CitySeidingstadt.protect.md) 
+### [Seidingstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Heldburger_Unterland/City/Seidingstadt.internal.md) 
 
-### [Seidingstadt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~Hildburghausen\Heldburger_Unterland\CitySeidingstadt.private.md) 
+### [Seidingstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Heldburger_Unterland/City/Seidingstadt.protect.md) 
 
-### [Seidingstadt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~Hildburghausen\Heldburger_Unterland\CitySeidingstadt.personal.md) 
+### [Seidingstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Heldburger_Unterland/City/Seidingstadt.private.md) 
 
-### [Seidingstadt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~Hildburghausen\Heldburger_Unterland\CitySeidingstadt.secret.md)
+### [Seidingstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Heldburger_Unterland/City/Seidingstadt.personal.md) 
+
+### [Seidingstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Heldburger_Unterland/City/Seidingstadt.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Halsbruecke.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Großschirma\CityHalsbruecke.public.md) 
+### [Halsbruecke](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Großschirma/City/Halsbruecke.md) 
 
-### [Halsbruecke.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Großschirma\CityHalsbruecke.internal.md) 
+### [Halsbruecke.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Großschirma/City/Halsbruecke.public.md) 
 
-### [Halsbruecke.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Großschirma\CityHalsbruecke.protect.md) 
+### [Halsbruecke.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Großschirma/City/Halsbruecke.internal.md) 
 
-### [Halsbruecke.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Großschirma\CityHalsbruecke.private.md) 
+### [Halsbruecke.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Großschirma/City/Halsbruecke.protect.md) 
 
-### [Halsbruecke.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Großschirma\CityHalsbruecke.personal.md) 
+### [Halsbruecke.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Großschirma/City/Halsbruecke.private.md) 
 
-### [Halsbruecke.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Mittelsachsen\cities~Mittelsachsen\Großschirma\CityHalsbruecke.secret.md)
+### [Halsbruecke.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Großschirma/City/Halsbruecke.personal.md) 
+
+### [Halsbruecke.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Großschirma/City/Halsbruecke.secret.md)
 

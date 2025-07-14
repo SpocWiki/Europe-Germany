@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Adorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Adorf_Vogtl\CityAdorf.public.md) 
+### [Adorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Adorf_Vogtl/City/Adorf.md) 
 
-### [Adorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Adorf_Vogtl\CityAdorf.internal.md) 
+### [Adorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Adorf_Vogtl/City/Adorf.public.md) 
 
-### [Adorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Adorf_Vogtl\CityAdorf.protect.md) 
+### [Adorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Adorf_Vogtl/City/Adorf.internal.md) 
 
-### [Adorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Adorf_Vogtl\CityAdorf.private.md) 
+### [Adorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Adorf_Vogtl/City/Adorf.protect.md) 
 
-### [Adorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Adorf_Vogtl\CityAdorf.personal.md) 
+### [Adorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Adorf_Vogtl/City/Adorf.private.md) 
 
-### [Adorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Adorf_Vogtl\CityAdorf.secret.md)
+### [Adorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Adorf_Vogtl/City/Adorf.personal.md) 
+
+### [Adorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Adorf_Vogtl/City/Adorf.secret.md)
 

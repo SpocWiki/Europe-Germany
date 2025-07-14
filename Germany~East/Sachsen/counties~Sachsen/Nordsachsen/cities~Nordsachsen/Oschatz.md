@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oschatz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~NordsachsenOschatz.public.md) 
+### [Oschatz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Oschatz.md) 
 
-### [Oschatz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~NordsachsenOschatz.internal.md) 
+### [Oschatz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Oschatz.public.md) 
 
-### [Oschatz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~NordsachsenOschatz.protect.md) 
+### [Oschatz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Oschatz.internal.md) 
 
-### [Oschatz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~NordsachsenOschatz.private.md) 
+### [Oschatz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Oschatz.protect.md) 
 
-### [Oschatz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~NordsachsenOschatz.personal.md) 
+### [Oschatz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Oschatz.private.md) 
 
-### [Oschatz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~NordsachsenOschatz.secret.md)
+### [Oschatz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Oschatz.personal.md) 
+
+### [Oschatz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Oschatz.secret.md)
 

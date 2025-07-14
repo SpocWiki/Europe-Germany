@@ -163,15 +163,17 @@ Capital :: [[Saarbruecken]]
 
 ## Confidential Links & Embeds: 
 
-### [Saarland.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestSaarland.public.md) 
+### [Saarland](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland.md) 
 
-### [Saarland.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestSaarland.internal.md) 
+### [Saarland.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland.public.md) 
 
-### [Saarland.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestSaarland.protect.md) 
+### [Saarland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland.internal.md) 
 
-### [Saarland.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestSaarland.private.md) 
+### [Saarland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland.protect.md) 
 
-### [Saarland.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestSaarland.personal.md) 
+### [Saarland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland.private.md) 
 
-### [Saarland.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestSaarland.secret.md)
+### [Saarland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland.personal.md) 
+
+### [Saarland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Petershagen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-LübbeckePetershagen.public.md) 
+### [Petershagen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Petershagen.md) 
 
-### [Petershagen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-LübbeckePetershagen.internal.md) 
+### [Petershagen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Petershagen.public.md) 
 
-### [Petershagen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-LübbeckePetershagen.protect.md) 
+### [Petershagen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Petershagen.internal.md) 
 
-### [Petershagen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-LübbeckePetershagen.private.md) 
+### [Petershagen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Petershagen.protect.md) 
 
-### [Petershagen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-LübbeckePetershagen.personal.md) 
+### [Petershagen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Petershagen.private.md) 
 
-### [Petershagen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-LübbeckePetershagen.secret.md)
+### [Petershagen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Petershagen.personal.md) 
+
+### [Petershagen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Petershagen.secret.md)
 

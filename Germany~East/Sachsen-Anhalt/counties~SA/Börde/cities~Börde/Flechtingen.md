@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Flechtingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~BördeFlechtingen.public.md) 
+### [Flechtingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Flechtingen.md) 
 
-### [Flechtingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~BördeFlechtingen.internal.md) 
+### [Flechtingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Flechtingen.public.md) 
 
-### [Flechtingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~BördeFlechtingen.protect.md) 
+### [Flechtingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Flechtingen.internal.md) 
 
-### [Flechtingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~BördeFlechtingen.private.md) 
+### [Flechtingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Flechtingen.protect.md) 
 
-### [Flechtingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~BördeFlechtingen.personal.md) 
+### [Flechtingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Flechtingen.private.md) 
 
-### [Flechtingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~BördeFlechtingen.secret.md)
+### [Flechtingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Flechtingen.personal.md) 
+
+### [Flechtingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Flechtingen.secret.md)
 

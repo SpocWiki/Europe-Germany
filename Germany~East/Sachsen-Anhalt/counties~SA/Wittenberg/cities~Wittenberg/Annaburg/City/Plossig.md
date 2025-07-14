@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Plossig.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Annaburg\CityPlossig.public.md) 
+### [Plossig](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Annaburg/City/Plossig.md) 
 
-### [Plossig.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Annaburg\CityPlossig.internal.md) 
+### [Plossig.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Annaburg/City/Plossig.public.md) 
 
-### [Plossig.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Annaburg\CityPlossig.protect.md) 
+### [Plossig.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Annaburg/City/Plossig.internal.md) 
 
-### [Plossig.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Annaburg\CityPlossig.private.md) 
+### [Plossig.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Annaburg/City/Plossig.protect.md) 
 
-### [Plossig.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Annaburg\CityPlossig.personal.md) 
+### [Plossig.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Annaburg/City/Plossig.private.md) 
 
-### [Plossig.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Annaburg\CityPlossig.secret.md)
+### [Plossig.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Annaburg/City/Plossig.personal.md) 
+
+### [Plossig.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Annaburg/City/Plossig.secret.md)
 

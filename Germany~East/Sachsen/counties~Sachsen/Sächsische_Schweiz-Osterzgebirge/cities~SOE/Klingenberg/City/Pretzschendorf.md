@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pretzschendorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Klingenberg\CityPretzschendorf.public.md) 
+### [Pretzschendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Klingenberg/City/Pretzschendorf.md) 
 
-### [Pretzschendorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Klingenberg\CityPretzschendorf.internal.md) 
+### [Pretzschendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Klingenberg/City/Pretzschendorf.public.md) 
 
-### [Pretzschendorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Klingenberg\CityPretzschendorf.protect.md) 
+### [Pretzschendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Klingenberg/City/Pretzschendorf.internal.md) 
 
-### [Pretzschendorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Klingenberg\CityPretzschendorf.private.md) 
+### [Pretzschendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Klingenberg/City/Pretzschendorf.protect.md) 
 
-### [Pretzschendorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Klingenberg\CityPretzschendorf.personal.md) 
+### [Pretzschendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Klingenberg/City/Pretzschendorf.private.md) 
 
-### [Pretzschendorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Klingenberg\CityPretzschendorf.secret.md)
+### [Pretzschendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Klingenberg/City/Pretzschendorf.personal.md) 
+
+### [Pretzschendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Klingenberg/City/Pretzschendorf.secret.md)
 

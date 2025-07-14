@@ -181,15 +181,17 @@ Capital :: [[Baden-Wuerttemberg/Stuttgart]]
 
 ## Confidential Links & Embeds: 
 
-### [Baden-Wuerttemberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestBaden-Wuerttemberg.public.md) 
+### [Baden-Wuerttemberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.md) 
 
-### [Baden-Wuerttemberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestBaden-Wuerttemberg.internal.md) 
+### [Baden-Wuerttemberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.public.md) 
 
-### [Baden-Wuerttemberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestBaden-Wuerttemberg.protect.md) 
+### [Baden-Wuerttemberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.internal.md) 
 
-### [Baden-Wuerttemberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestBaden-Wuerttemberg.private.md) 
+### [Baden-Wuerttemberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.protect.md) 
 
-### [Baden-Wuerttemberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestBaden-Wuerttemberg.personal.md) 
+### [Baden-Wuerttemberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.private.md) 
 
-### [Baden-Wuerttemberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestBaden-Wuerttemberg.secret.md)
+### [Baden-Wuerttemberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.personal.md) 
+
+### [Baden-Wuerttemberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lippstadt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~SoestLippstadt.public.md) 
+### [Lippstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Lippstadt.md) 
 
-### [Lippstadt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~SoestLippstadt.internal.md) 
+### [Lippstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Lippstadt.public.md) 
 
-### [Lippstadt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~SoestLippstadt.protect.md) 
+### [Lippstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Lippstadt.internal.md) 
 
-### [Lippstadt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~SoestLippstadt.private.md) 
+### [Lippstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Lippstadt.protect.md) 
 
-### [Lippstadt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~SoestLippstadt.personal.md) 
+### [Lippstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Lippstadt.private.md) 
 
-### [Lippstadt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~SoestLippstadt.secret.md)
+### [Lippstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Lippstadt.personal.md) 
+
+### [Lippstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Lippstadt.secret.md)
 

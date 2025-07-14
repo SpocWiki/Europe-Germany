@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gautzsch.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig-City\CityGautzsch.public.md) 
+### [Gautzsch](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig-City/City/Gautzsch.md) 
 
-### [Gautzsch.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig-City\CityGautzsch.internal.md) 
+### [Gautzsch.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig-City/City/Gautzsch.public.md) 
 
-### [Gautzsch.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig-City\CityGautzsch.protect.md) 
+### [Gautzsch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig-City/City/Gautzsch.internal.md) 
 
-### [Gautzsch.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig-City\CityGautzsch.private.md) 
+### [Gautzsch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig-City/City/Gautzsch.protect.md) 
 
-### [Gautzsch.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig-City\CityGautzsch.personal.md) 
+### [Gautzsch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig-City/City/Gautzsch.private.md) 
 
-### [Gautzsch.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig-City\CityGautzsch.secret.md)
+### [Gautzsch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig-City/City/Gautzsch.personal.md) 
+
+### [Gautzsch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig-City/City/Gautzsch.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Falkenthal,Löwenberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\Löwenberger_LandFalkenthal,Löwenberg.public.md) 
+### [Falkenthal,Löwenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Löwenberger_Land/Falkenthal,Löwenberg.md) 
 
-### [Falkenthal,Löwenberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\Löwenberger_LandFalkenthal,Löwenberg.internal.md) 
+### [Falkenthal,Löwenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Löwenberger_Land/Falkenthal,Löwenberg.public.md) 
 
-### [Falkenthal,Löwenberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\Löwenberger_LandFalkenthal,Löwenberg.protect.md) 
+### [Falkenthal,Löwenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Löwenberger_Land/Falkenthal,Löwenberg.internal.md) 
 
-### [Falkenthal,Löwenberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\Löwenberger_LandFalkenthal,Löwenberg.private.md) 
+### [Falkenthal,Löwenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Löwenberger_Land/Falkenthal,Löwenberg.protect.md) 
 
-### [Falkenthal,Löwenberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\Löwenberger_LandFalkenthal,Löwenberg.personal.md) 
+### [Falkenthal,Löwenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Löwenberger_Land/Falkenthal,Löwenberg.private.md) 
 
-### [Falkenthal,Löwenberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~Oberhavel\Löwenberger_LandFalkenthal,Löwenberg.secret.md)
+### [Falkenthal,Löwenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Löwenberger_Land/Falkenthal,Löwenberg.personal.md) 
+
+### [Falkenthal,Löwenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Löwenberger_Land/Falkenthal,Löwenberg.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Frillendorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrFrillendorf.public.md) 
+### [Frillendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Frillendorf.md) 
 
-### [Frillendorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrFrillendorf.internal.md) 
+### [Frillendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Frillendorf.public.md) 
 
-### [Frillendorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrFrillendorf.protect.md) 
+### [Frillendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Frillendorf.internal.md) 
 
-### [Frillendorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrFrillendorf.private.md) 
+### [Frillendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Frillendorf.protect.md) 
 
-### [Frillendorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrFrillendorf.personal.md) 
+### [Frillendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Frillendorf.private.md) 
 
-### [Frillendorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrFrillendorf.secret.md)
+### [Frillendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Frillendorf.personal.md) 
+
+### [Frillendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Frillendorf.secret.md)
 

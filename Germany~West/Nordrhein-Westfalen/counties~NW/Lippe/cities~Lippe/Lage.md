@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lage.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~LippeLage.public.md) 
+### [Lage](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Lage.md) 
 
-### [Lage.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~LippeLage.internal.md) 
+### [Lage.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Lage.public.md) 
 
-### [Lage.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~LippeLage.protect.md) 
+### [Lage.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Lage.internal.md) 
 
-### [Lage.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~LippeLage.private.md) 
+### [Lage.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Lage.protect.md) 
 
-### [Lage.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~LippeLage.personal.md) 
+### [Lage.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Lage.private.md) 
 
-### [Lage.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~LippeLage.secret.md)
+### [Lage.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Lage.personal.md) 
+
+### [Lage.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Lage.secret.md)
 

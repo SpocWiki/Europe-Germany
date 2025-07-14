@@ -225,15 +225,17 @@ Capital :: [[Mainz]]
 
 ## Confidential Links & Embeds: 
 
-### [Rheinland-Pfalz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestRheinland-Pfalz.public.md) 
+### [Rheinland-Pfalz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz.md) 
 
-### [Rheinland-Pfalz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestRheinland-Pfalz.internal.md) 
+### [Rheinland-Pfalz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz.public.md) 
 
-### [Rheinland-Pfalz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestRheinland-Pfalz.protect.md) 
+### [Rheinland-Pfalz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz.internal.md) 
 
-### [Rheinland-Pfalz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestRheinland-Pfalz.private.md) 
+### [Rheinland-Pfalz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz.protect.md) 
 
-### [Rheinland-Pfalz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestRheinland-Pfalz.personal.md) 
+### [Rheinland-Pfalz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz.private.md) 
 
-### [Rheinland-Pfalz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestRheinland-Pfalz.secret.md)
+### [Rheinland-Pfalz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz.personal.md) 
+
+### [Rheinland-Pfalz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Rheinland-Pfalz.secret.md)
 

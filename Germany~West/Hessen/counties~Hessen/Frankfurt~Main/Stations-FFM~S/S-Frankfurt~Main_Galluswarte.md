@@ -30,15 +30,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [S-Frankfurt~Main_Galluswarte.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main_Galluswarte.public.md) 
+### [S-Frankfurt~Main_Galluswarte](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Galluswarte.md) 
 
-### [S-Frankfurt~Main_Galluswarte.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main_Galluswarte.internal.md) 
+### [S-Frankfurt~Main_Galluswarte.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Galluswarte.public.md) 
 
-### [S-Frankfurt~Main_Galluswarte.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main_Galluswarte.protect.md) 
+### [S-Frankfurt~Main_Galluswarte.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Galluswarte.internal.md) 
 
-### [S-Frankfurt~Main_Galluswarte.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main_Galluswarte.private.md) 
+### [S-Frankfurt~Main_Galluswarte.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Galluswarte.protect.md) 
 
-### [S-Frankfurt~Main_Galluswarte.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main_Galluswarte.personal.md) 
+### [S-Frankfurt~Main_Galluswarte.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Galluswarte.private.md) 
 
-### [S-Frankfurt~Main_Galluswarte.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main_Galluswarte.secret.md)
+### [S-Frankfurt~Main_Galluswarte.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Galluswarte.personal.md) 
+
+### [S-Frankfurt~Main_Galluswarte.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Galluswarte.secret.md)
 

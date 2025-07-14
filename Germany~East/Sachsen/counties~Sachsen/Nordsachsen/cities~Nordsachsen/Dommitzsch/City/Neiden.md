@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neiden.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Dommitzsch\CityNeiden.public.md) 
+### [Neiden](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Dommitzsch/City/Neiden.md) 
 
-### [Neiden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Dommitzsch\CityNeiden.internal.md) 
+### [Neiden.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Dommitzsch/City/Neiden.public.md) 
 
-### [Neiden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Dommitzsch\CityNeiden.protect.md) 
+### [Neiden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Dommitzsch/City/Neiden.internal.md) 
 
-### [Neiden.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Dommitzsch\CityNeiden.private.md) 
+### [Neiden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Dommitzsch/City/Neiden.protect.md) 
 
-### [Neiden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Dommitzsch\CityNeiden.personal.md) 
+### [Neiden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Dommitzsch/City/Neiden.private.md) 
 
-### [Neiden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Dommitzsch\CityNeiden.secret.md)
+### [Neiden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Dommitzsch/City/Neiden.personal.md) 
+
+### [Neiden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Dommitzsch/City/Neiden.secret.md)
 

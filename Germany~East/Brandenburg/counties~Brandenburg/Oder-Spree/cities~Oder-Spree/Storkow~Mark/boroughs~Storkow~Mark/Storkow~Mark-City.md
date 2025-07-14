@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Storkow~Mark-City.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\Storkow~Mark\boroughs~Storkow~MarkStorkow~Mark-City.public.md) 
+### [Storkow~Mark-City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City.md) 
 
-### [Storkow~Mark-City.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\Storkow~Mark\boroughs~Storkow~MarkStorkow~Mark-City.internal.md) 
+### [Storkow~Mark-City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City.public.md) 
 
-### [Storkow~Mark-City.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\Storkow~Mark\boroughs~Storkow~MarkStorkow~Mark-City.protect.md) 
+### [Storkow~Mark-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City.internal.md) 
 
-### [Storkow~Mark-City.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\Storkow~Mark\boroughs~Storkow~MarkStorkow~Mark-City.private.md) 
+### [Storkow~Mark-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City.protect.md) 
 
-### [Storkow~Mark-City.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\Storkow~Mark\boroughs~Storkow~MarkStorkow~Mark-City.personal.md) 
+### [Storkow~Mark-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City.private.md) 
 
-### [Storkow~Mark-City.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\Storkow~Mark\boroughs~Storkow~MarkStorkow~Mark-City.secret.md)
+### [Storkow~Mark-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City.personal.md) 
+
+### [Storkow~Mark-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City.secret.md)
 

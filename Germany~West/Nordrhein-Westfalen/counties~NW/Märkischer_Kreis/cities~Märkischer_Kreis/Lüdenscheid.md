@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lüdenscheid.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisLüdenscheid.public.md) 
+### [Lüdenscheid](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Lüdenscheid.md) 
 
-### [Lüdenscheid.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisLüdenscheid.internal.md) 
+### [Lüdenscheid.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Lüdenscheid.public.md) 
 
-### [Lüdenscheid.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisLüdenscheid.protect.md) 
+### [Lüdenscheid.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Lüdenscheid.internal.md) 
 
-### [Lüdenscheid.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisLüdenscheid.private.md) 
+### [Lüdenscheid.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Lüdenscheid.protect.md) 
 
-### [Lüdenscheid.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisLüdenscheid.personal.md) 
+### [Lüdenscheid.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Lüdenscheid.private.md) 
 
-### [Lüdenscheid.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Märkischer_Kreis\cities~Märkischer_KreisLüdenscheid.secret.md)
+### [Lüdenscheid.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Lüdenscheid.personal.md) 
+
+### [Lüdenscheid.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Märkischer_Kreis/cities~Märkischer_Kreis/Lüdenscheid.secret.md)
 

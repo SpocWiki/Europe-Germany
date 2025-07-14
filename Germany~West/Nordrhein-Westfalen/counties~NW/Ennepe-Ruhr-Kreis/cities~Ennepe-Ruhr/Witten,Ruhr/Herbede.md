@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Herbede.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-Ruhr\Witten,RuhrHerbede.public.md) 
+### [Herbede](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Witten,Ruhr/Herbede.md) 
 
-### [Herbede.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-Ruhr\Witten,RuhrHerbede.internal.md) 
+### [Herbede.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Witten,Ruhr/Herbede.public.md) 
 
-### [Herbede.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-Ruhr\Witten,RuhrHerbede.protect.md) 
+### [Herbede.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Witten,Ruhr/Herbede.internal.md) 
 
-### [Herbede.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-Ruhr\Witten,RuhrHerbede.private.md) 
+### [Herbede.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Witten,Ruhr/Herbede.protect.md) 
 
-### [Herbede.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-Ruhr\Witten,RuhrHerbede.personal.md) 
+### [Herbede.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Witten,Ruhr/Herbede.private.md) 
 
-### [Herbede.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Ennepe-Ruhr-Kreis\cities~Ennepe-Ruhr\Witten,RuhrHerbede.secret.md)
+### [Herbede.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Witten,Ruhr/Herbede.personal.md) 
+
+### [Herbede.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Ennepe-Ruhr-Kreis/cities~Ennepe-Ruhr/Witten,Ruhr/Herbede.secret.md)
 

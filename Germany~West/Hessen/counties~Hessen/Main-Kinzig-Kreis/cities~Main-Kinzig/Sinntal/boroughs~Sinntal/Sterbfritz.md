@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sterbfritz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Sinntal\boroughs~SinntalSterbfritz.public.md) 
+### [Sterbfritz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Sinntal/boroughs~Sinntal/Sterbfritz.md) 
 
-### [Sterbfritz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Sinntal\boroughs~SinntalSterbfritz.internal.md) 
+### [Sterbfritz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Sinntal/boroughs~Sinntal/Sterbfritz.public.md) 
 
-### [Sterbfritz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Sinntal\boroughs~SinntalSterbfritz.protect.md) 
+### [Sterbfritz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Sinntal/boroughs~Sinntal/Sterbfritz.internal.md) 
 
-### [Sterbfritz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Sinntal\boroughs~SinntalSterbfritz.private.md) 
+### [Sterbfritz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Sinntal/boroughs~Sinntal/Sterbfritz.protect.md) 
 
-### [Sterbfritz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Sinntal\boroughs~SinntalSterbfritz.personal.md) 
+### [Sterbfritz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Sinntal/boroughs~Sinntal/Sterbfritz.private.md) 
 
-### [Sterbfritz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-Kinzig\Sinntal\boroughs~SinntalSterbfritz.secret.md)
+### [Sterbfritz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Sinntal/boroughs~Sinntal/Sterbfritz.personal.md) 
+
+### [Sterbfritz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Sinntal/boroughs~Sinntal/Sterbfritz.secret.md)
 

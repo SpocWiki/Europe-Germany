@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fintel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~WümmeFintel.public.md) 
+### [Fintel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Fintel.md) 
 
-### [Fintel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~WümmeFintel.internal.md) 
+### [Fintel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Fintel.public.md) 
 
-### [Fintel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~WümmeFintel.protect.md) 
+### [Fintel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Fintel.internal.md) 
 
-### [Fintel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~WümmeFintel.private.md) 
+### [Fintel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Fintel.protect.md) 
 
-### [Fintel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~WümmeFintel.personal.md) 
+### [Fintel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Fintel.private.md) 
 
-### [Fintel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~WümmeFintel.secret.md)
+### [Fintel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Fintel.personal.md) 
+
+### [Fintel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Fintel.secret.md)
 

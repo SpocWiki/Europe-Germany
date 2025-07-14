@@ -31,15 +31,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [T-Bolongaropalast.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Bolongaropalast.public.md) 
+### [T-Bolongaropalast](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bolongaropalast.md) 
 
-### [T-Bolongaropalast.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Bolongaropalast.internal.md) 
+### [T-Bolongaropalast.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bolongaropalast.public.md) 
 
-### [T-Bolongaropalast.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Bolongaropalast.protect.md) 
+### [T-Bolongaropalast.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bolongaropalast.internal.md) 
 
-### [T-Bolongaropalast.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Bolongaropalast.private.md) 
+### [T-Bolongaropalast.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bolongaropalast.protect.md) 
 
-### [T-Bolongaropalast.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Bolongaropalast.personal.md) 
+### [T-Bolongaropalast.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bolongaropalast.private.md) 
 
-### [T-Bolongaropalast.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Bolongaropalast.secret.md)
+### [T-Bolongaropalast.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bolongaropalast.personal.md) 
+
+### [T-Bolongaropalast.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bolongaropalast.secret.md)
 

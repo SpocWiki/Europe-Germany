@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oldenbuettel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterholz\cities~Osterholz\Hambergen\boroughs~HambergenOldenbuettel.public.md) 
+### [Oldenbuettel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Oldenbuettel.md) 
 
-### [Oldenbuettel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterholz\cities~Osterholz\Hambergen\boroughs~HambergenOldenbuettel.internal.md) 
+### [Oldenbuettel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Oldenbuettel.public.md) 
 
-### [Oldenbuettel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterholz\cities~Osterholz\Hambergen\boroughs~HambergenOldenbuettel.protect.md) 
+### [Oldenbuettel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Oldenbuettel.internal.md) 
 
-### [Oldenbuettel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterholz\cities~Osterholz\Hambergen\boroughs~HambergenOldenbuettel.private.md) 
+### [Oldenbuettel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Oldenbuettel.protect.md) 
 
-### [Oldenbuettel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterholz\cities~Osterholz\Hambergen\boroughs~HambergenOldenbuettel.personal.md) 
+### [Oldenbuettel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Oldenbuettel.private.md) 
 
-### [Oldenbuettel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterholz\cities~Osterholz\Hambergen\boroughs~HambergenOldenbuettel.secret.md)
+### [Oldenbuettel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Oldenbuettel.personal.md) 
+
+### [Oldenbuettel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Oldenbuettel.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sandstedt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Hagen~Bremischen\boroughs~Hagen~BremischenSandstedt.public.md) 
+### [Sandstedt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.md) 
 
-### [Sandstedt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Hagen~Bremischen\boroughs~Hagen~BremischenSandstedt.internal.md) 
+### [Sandstedt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.public.md) 
 
-### [Sandstedt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Hagen~Bremischen\boroughs~Hagen~BremischenSandstedt.protect.md) 
+### [Sandstedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.internal.md) 
 
-### [Sandstedt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Hagen~Bremischen\boroughs~Hagen~BremischenSandstedt.private.md) 
+### [Sandstedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.protect.md) 
 
-### [Sandstedt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Hagen~Bremischen\boroughs~Hagen~BremischenSandstedt.personal.md) 
+### [Sandstedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.private.md) 
 
-### [Sandstedt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Hagen~Bremischen\boroughs~Hagen~BremischenSandstedt.secret.md)
+### [Sandstedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.personal.md) 
+
+### [Sandstedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.secret.md)
 

@@ -131,15 +131,17 @@ Capital :: [[Wiesbaden]]
 
 ## Confidential Links & Embeds: 
 
-### [Hessen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestHessen.public.md) 
+### [Hessen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.md) 
 
-### [Hessen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestHessen.internal.md) 
+### [Hessen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.public.md) 
 
-### [Hessen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestHessen.protect.md) 
+### [Hessen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.internal.md) 
 
-### [Hessen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestHessen.private.md) 
+### [Hessen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.protect.md) 
 
-### [Hessen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestHessen.personal.md) 
+### [Hessen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.private.md) 
 
-### [Hessen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestHessen.secret.md)
+### [Hessen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.personal.md) 
+
+### [Hessen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.secret.md)
 

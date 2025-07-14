@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ziegenhain.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-Eder\Schwalmstadt\boroughs~SchwalmstadtZiegenhain.public.md) 
+### [Ziegenhain](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Ziegenhain.md) 
 
-### [Ziegenhain.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-Eder\Schwalmstadt\boroughs~SchwalmstadtZiegenhain.internal.md) 
+### [Ziegenhain.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Ziegenhain.public.md) 
 
-### [Ziegenhain.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-Eder\Schwalmstadt\boroughs~SchwalmstadtZiegenhain.protect.md) 
+### [Ziegenhain.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Ziegenhain.internal.md) 
 
-### [Ziegenhain.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-Eder\Schwalmstadt\boroughs~SchwalmstadtZiegenhain.private.md) 
+### [Ziegenhain.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Ziegenhain.protect.md) 
 
-### [Ziegenhain.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-Eder\Schwalmstadt\boroughs~SchwalmstadtZiegenhain.personal.md) 
+### [Ziegenhain.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Ziegenhain.private.md) 
 
-### [Ziegenhain.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-Eder\Schwalmstadt\boroughs~SchwalmstadtZiegenhain.secret.md)
+### [Ziegenhain.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Ziegenhain.personal.md) 
+
+### [Ziegenhain.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Ziegenhain.secret.md)
 

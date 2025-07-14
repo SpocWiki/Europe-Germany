@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Siek.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Stormarn\cities~StormarnSiek.public.md) 
+### [Siek](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Siek.md) 
 
-### [Siek.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Stormarn\cities~StormarnSiek.internal.md) 
+### [Siek.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Siek.public.md) 
 
-### [Siek.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Stormarn\cities~StormarnSiek.protect.md) 
+### [Siek.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Siek.internal.md) 
 
-### [Siek.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Stormarn\cities~StormarnSiek.private.md) 
+### [Siek.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Siek.protect.md) 
 
-### [Siek.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Stormarn\cities~StormarnSiek.personal.md) 
+### [Siek.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Siek.private.md) 
 
-### [Siek.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Stormarn\cities~StormarnSiek.secret.md)
+### [Siek.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Siek.personal.md) 
+
+### [Siek.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Siek.secret.md)
 

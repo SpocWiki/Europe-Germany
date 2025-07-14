@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ehrenfriedersdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~ErzgebirgskrEhrenfriedersdorf.public.md) 
+### [Ehrenfriedersdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Ehrenfriedersdorf.md) 
 
-### [Ehrenfriedersdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~ErzgebirgskrEhrenfriedersdorf.internal.md) 
+### [Ehrenfriedersdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Ehrenfriedersdorf.public.md) 
 
-### [Ehrenfriedersdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~ErzgebirgskrEhrenfriedersdorf.protect.md) 
+### [Ehrenfriedersdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Ehrenfriedersdorf.internal.md) 
 
-### [Ehrenfriedersdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~ErzgebirgskrEhrenfriedersdorf.private.md) 
+### [Ehrenfriedersdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Ehrenfriedersdorf.protect.md) 
 
-### [Ehrenfriedersdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~ErzgebirgskrEhrenfriedersdorf.personal.md) 
+### [Ehrenfriedersdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Ehrenfriedersdorf.private.md) 
 
-### [Ehrenfriedersdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~ErzgebirgskrEhrenfriedersdorf.secret.md)
+### [Ehrenfriedersdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Ehrenfriedersdorf.personal.md) 
+
+### [Ehrenfriedersdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Ehrenfriedersdorf.secret.md)
 

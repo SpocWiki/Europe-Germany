@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hirschhorn~Neckar.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Bergstraße\cities~BergstraßeHirschhorn~Neckar.public.md) 
+### [Hirschhorn~Neckar](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Hirschhorn~Neckar.md) 
 
-### [Hirschhorn~Neckar.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Bergstraße\cities~BergstraßeHirschhorn~Neckar.internal.md) 
+### [Hirschhorn~Neckar.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Hirschhorn~Neckar.public.md) 
 
-### [Hirschhorn~Neckar.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Bergstraße\cities~BergstraßeHirschhorn~Neckar.protect.md) 
+### [Hirschhorn~Neckar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Hirschhorn~Neckar.internal.md) 
 
-### [Hirschhorn~Neckar.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Bergstraße\cities~BergstraßeHirschhorn~Neckar.private.md) 
+### [Hirschhorn~Neckar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Hirschhorn~Neckar.protect.md) 
 
-### [Hirschhorn~Neckar.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Bergstraße\cities~BergstraßeHirschhorn~Neckar.personal.md) 
+### [Hirschhorn~Neckar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Hirschhorn~Neckar.private.md) 
 
-### [Hirschhorn~Neckar.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Bergstraße\cities~BergstraßeHirschhorn~Neckar.secret.md)
+### [Hirschhorn~Neckar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Hirschhorn~Neckar.personal.md) 
+
+### [Hirschhorn~Neckar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Hirschhorn~Neckar.secret.md)
 

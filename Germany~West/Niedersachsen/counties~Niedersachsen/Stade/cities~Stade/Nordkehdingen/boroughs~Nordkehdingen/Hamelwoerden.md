@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hamelwoerden.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~Stade\Nordkehdingen\boroughs~NordkehdingenHamelwoerden.public.md) 
+### [Hamelwoerden](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Hamelwoerden.md) 
 
-### [Hamelwoerden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~Stade\Nordkehdingen\boroughs~NordkehdingenHamelwoerden.internal.md) 
+### [Hamelwoerden.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Hamelwoerden.public.md) 
 
-### [Hamelwoerden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~Stade\Nordkehdingen\boroughs~NordkehdingenHamelwoerden.protect.md) 
+### [Hamelwoerden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Hamelwoerden.internal.md) 
 
-### [Hamelwoerden.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~Stade\Nordkehdingen\boroughs~NordkehdingenHamelwoerden.private.md) 
+### [Hamelwoerden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Hamelwoerden.protect.md) 
 
-### [Hamelwoerden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~Stade\Nordkehdingen\boroughs~NordkehdingenHamelwoerden.personal.md) 
+### [Hamelwoerden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Hamelwoerden.private.md) 
 
-### [Hamelwoerden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~Stade\Nordkehdingen\boroughs~NordkehdingenHamelwoerden.secret.md)
+### [Hamelwoerden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Hamelwoerden.personal.md) 
+
+### [Hamelwoerden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Hamelwoerden.secret.md)
 

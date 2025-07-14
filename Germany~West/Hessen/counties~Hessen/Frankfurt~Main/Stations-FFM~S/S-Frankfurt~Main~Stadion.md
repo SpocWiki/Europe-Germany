@@ -30,15 +30,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [S-Frankfurt~Main~Stadion.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main~Stadion.public.md) 
+### [S-Frankfurt~Main~Stadion](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main~Stadion.md) 
 
-### [S-Frankfurt~Main~Stadion.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main~Stadion.internal.md) 
+### [S-Frankfurt~Main~Stadion.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main~Stadion.public.md) 
 
-### [S-Frankfurt~Main~Stadion.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main~Stadion.protect.md) 
+### [S-Frankfurt~Main~Stadion.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main~Stadion.internal.md) 
 
-### [S-Frankfurt~Main~Stadion.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main~Stadion.private.md) 
+### [S-Frankfurt~Main~Stadion.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main~Stadion.protect.md) 
 
-### [S-Frankfurt~Main~Stadion.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main~Stadion.personal.md) 
+### [S-Frankfurt~Main~Stadion.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main~Stadion.private.md) 
 
-### [S-Frankfurt~Main~Stadion.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main~Stadion.secret.md)
+### [S-Frankfurt~Main~Stadion.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main~Stadion.personal.md) 
+
+### [S-Frankfurt~Main~Stadion.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main~Stadion.secret.md)
 

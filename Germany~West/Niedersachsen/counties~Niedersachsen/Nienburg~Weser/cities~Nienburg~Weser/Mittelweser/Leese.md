@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Leese.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~Weser\MittelweserLeese.public.md) 
+### [Leese](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Mittelweser/Leese.md) 
 
-### [Leese.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~Weser\MittelweserLeese.internal.md) 
+### [Leese.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Mittelweser/Leese.public.md) 
 
-### [Leese.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~Weser\MittelweserLeese.protect.md) 
+### [Leese.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Mittelweser/Leese.internal.md) 
 
-### [Leese.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~Weser\MittelweserLeese.private.md) 
+### [Leese.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Mittelweser/Leese.protect.md) 
 
-### [Leese.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~Weser\MittelweserLeese.personal.md) 
+### [Leese.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Mittelweser/Leese.private.md) 
 
-### [Leese.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Nienburg~Weser\cities~Nienburg~Weser\MittelweserLeese.secret.md)
+### [Leese.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Mittelweser/Leese.personal.md) 
+
+### [Leese.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Nienburg~Weser/cities~Nienburg~Weser/Mittelweser/Leese.secret.md)
 

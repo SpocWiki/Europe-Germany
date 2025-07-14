@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stendal-city.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~StendalStendal-city.public.md) 
+### [Stendal-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Stendal-city.md) 
 
-### [Stendal-city.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~StendalStendal-city.internal.md) 
+### [Stendal-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Stendal-city.public.md) 
 
-### [Stendal-city.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~StendalStendal-city.protect.md) 
+### [Stendal-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Stendal-city.internal.md) 
 
-### [Stendal-city.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~StendalStendal-city.private.md) 
+### [Stendal-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Stendal-city.protect.md) 
 
-### [Stendal-city.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~StendalStendal-city.personal.md) 
+### [Stendal-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Stendal-city.private.md) 
 
-### [Stendal-city.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~StendalStendal-city.secret.md)
+### [Stendal-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Stendal-city.personal.md) 
+
+### [Stendal-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Stendal-city.secret.md)
 

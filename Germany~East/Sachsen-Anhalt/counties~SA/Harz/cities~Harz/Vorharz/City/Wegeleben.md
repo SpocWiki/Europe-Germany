@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wegeleben.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Vorharz\CityWegeleben.public.md) 
+### [Wegeleben](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Vorharz/City/Wegeleben.md) 
 
-### [Wegeleben.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Vorharz\CityWegeleben.internal.md) 
+### [Wegeleben.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Vorharz/City/Wegeleben.public.md) 
 
-### [Wegeleben.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Vorharz\CityWegeleben.protect.md) 
+### [Wegeleben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Vorharz/City/Wegeleben.internal.md) 
 
-### [Wegeleben.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Vorharz\CityWegeleben.private.md) 
+### [Wegeleben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Vorharz/City/Wegeleben.protect.md) 
 
-### [Wegeleben.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Vorharz\CityWegeleben.personal.md) 
+### [Wegeleben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Vorharz/City/Wegeleben.private.md) 
 
-### [Wegeleben.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Vorharz\CityWegeleben.secret.md)
+### [Wegeleben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Vorharz/City/Wegeleben.personal.md) 
+
+### [Wegeleben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Vorharz/City/Wegeleben.secret.md)
 

@@ -158,15 +158,17 @@ Capital :: [[Potsdam]] ]
 
 ## Confidential Links & Embeds: 
 
-### [Brandenburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastBrandenburg.public.md) 
+### [Brandenburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg.md) 
 
-### [Brandenburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastBrandenburg.internal.md) 
+### [Brandenburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg.public.md) 
 
-### [Brandenburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastBrandenburg.protect.md) 
+### [Brandenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg.internal.md) 
 
-### [Brandenburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastBrandenburg.private.md) 
+### [Brandenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg.protect.md) 
 
-### [Brandenburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastBrandenburg.personal.md) 
+### [Brandenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg.private.md) 
 
-### [Brandenburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastBrandenburg.secret.md)
+### [Brandenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg.personal.md) 
+
+### [Brandenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg.secret.md)
 

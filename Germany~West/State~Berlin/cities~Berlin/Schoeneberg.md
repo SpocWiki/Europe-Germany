@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schoeneberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinSchoeneberg.public.md) 
+### [Schoeneberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Schoeneberg.md) 
 
-### [Schoeneberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinSchoeneberg.internal.md) 
+### [Schoeneberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Schoeneberg.public.md) 
 
-### [Schoeneberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinSchoeneberg.protect.md) 
+### [Schoeneberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Schoeneberg.internal.md) 
 
-### [Schoeneberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinSchoeneberg.private.md) 
+### [Schoeneberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Schoeneberg.protect.md) 
 
-### [Schoeneberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinSchoeneberg.personal.md) 
+### [Schoeneberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Schoeneberg.private.md) 
 
-### [Schoeneberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinSchoeneberg.secret.md)
+### [Schoeneberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Schoeneberg.personal.md) 
+
+### [Schoeneberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Schoeneberg.secret.md)
 

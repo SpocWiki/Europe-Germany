@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Twiste.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-Frankenbg\Bad_Arolsen\boroughs~ArolsenTwiste.public.md) 
+### [Twiste](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Bad_Arolsen/boroughs~Arolsen/Twiste.md) 
 
-### [Twiste.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-Frankenbg\Bad_Arolsen\boroughs~ArolsenTwiste.internal.md) 
+### [Twiste.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Bad_Arolsen/boroughs~Arolsen/Twiste.public.md) 
 
-### [Twiste.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-Frankenbg\Bad_Arolsen\boroughs~ArolsenTwiste.protect.md) 
+### [Twiste.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Bad_Arolsen/boroughs~Arolsen/Twiste.internal.md) 
 
-### [Twiste.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-Frankenbg\Bad_Arolsen\boroughs~ArolsenTwiste.private.md) 
+### [Twiste.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Bad_Arolsen/boroughs~Arolsen/Twiste.protect.md) 
 
-### [Twiste.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-Frankenbg\Bad_Arolsen\boroughs~ArolsenTwiste.personal.md) 
+### [Twiste.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Bad_Arolsen/boroughs~Arolsen/Twiste.private.md) 
 
-### [Twiste.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-Frankenbg\Bad_Arolsen\boroughs~ArolsenTwiste.secret.md)
+### [Twiste.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Bad_Arolsen/boroughs~Arolsen/Twiste.personal.md) 
+
+### [Twiste.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Bad_Arolsen/boroughs~Arolsen/Twiste.secret.md)
 

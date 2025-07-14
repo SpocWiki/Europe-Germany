@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wattenscheid.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BochumWattenscheid.public.md) 
+### [Wattenscheid](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bochum/Wattenscheid.md) 
 
-### [Wattenscheid.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BochumWattenscheid.internal.md) 
+### [Wattenscheid.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bochum/Wattenscheid.public.md) 
 
-### [Wattenscheid.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BochumWattenscheid.protect.md) 
+### [Wattenscheid.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bochum/Wattenscheid.internal.md) 
 
-### [Wattenscheid.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BochumWattenscheid.private.md) 
+### [Wattenscheid.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bochum/Wattenscheid.protect.md) 
 
-### [Wattenscheid.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BochumWattenscheid.personal.md) 
+### [Wattenscheid.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bochum/Wattenscheid.private.md) 
 
-### [Wattenscheid.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BochumWattenscheid.secret.md)
+### [Wattenscheid.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bochum/Wattenscheid.personal.md) 
+
+### [Wattenscheid.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bochum/Wattenscheid.secret.md)
 

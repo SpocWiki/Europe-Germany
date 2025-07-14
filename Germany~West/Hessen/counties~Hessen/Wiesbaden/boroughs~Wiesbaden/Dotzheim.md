@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dotzheim.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenDotzheim.public.md) 
+### [Dotzheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Dotzheim.md) 
 
-### [Dotzheim.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenDotzheim.internal.md) 
+### [Dotzheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Dotzheim.public.md) 
 
-### [Dotzheim.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenDotzheim.protect.md) 
+### [Dotzheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Dotzheim.internal.md) 
 
-### [Dotzheim.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenDotzheim.private.md) 
+### [Dotzheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Dotzheim.protect.md) 
 
-### [Dotzheim.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenDotzheim.personal.md) 
+### [Dotzheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Dotzheim.private.md) 
 
-### [Dotzheim.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenDotzheim.secret.md)
+### [Dotzheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Dotzheim.personal.md) 
+
+### [Dotzheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Dotzheim.secret.md)
 

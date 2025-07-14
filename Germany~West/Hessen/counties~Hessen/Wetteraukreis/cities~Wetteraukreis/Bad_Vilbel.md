@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bad_Vilbel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisBad_Vilbel.public.md) 
+### [Bad_Vilbel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Bad_Vilbel.md) 
 
-### [Bad_Vilbel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisBad_Vilbel.internal.md) 
+### [Bad_Vilbel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Bad_Vilbel.public.md) 
 
-### [Bad_Vilbel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisBad_Vilbel.protect.md) 
+### [Bad_Vilbel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Bad_Vilbel.internal.md) 
 
-### [Bad_Vilbel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisBad_Vilbel.private.md) 
+### [Bad_Vilbel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Bad_Vilbel.protect.md) 
 
-### [Bad_Vilbel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisBad_Vilbel.personal.md) 
+### [Bad_Vilbel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Bad_Vilbel.private.md) 
 
-### [Bad_Vilbel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wetteraukreis\cities~WetteraukreisBad_Vilbel.secret.md)
+### [Bad_Vilbel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Bad_Vilbel.personal.md) 
+
+### [Bad_Vilbel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wetteraukreis/cities~Wetteraukreis/Bad_Vilbel.secret.md)
 

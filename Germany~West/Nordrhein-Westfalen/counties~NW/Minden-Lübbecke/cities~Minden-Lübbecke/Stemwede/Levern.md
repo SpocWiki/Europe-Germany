@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Levern.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-Lübbecke\StemwedeLevern.public.md) 
+### [Levern](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Stemwede/Levern.md) 
 
-### [Levern.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-Lübbecke\StemwedeLevern.internal.md) 
+### [Levern.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Stemwede/Levern.public.md) 
 
-### [Levern.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-Lübbecke\StemwedeLevern.protect.md) 
+### [Levern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Stemwede/Levern.internal.md) 
 
-### [Levern.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-Lübbecke\StemwedeLevern.private.md) 
+### [Levern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Stemwede/Levern.protect.md) 
 
-### [Levern.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-Lübbecke\StemwedeLevern.personal.md) 
+### [Levern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Stemwede/Levern.private.md) 
 
-### [Levern.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-Lübbecke\StemwedeLevern.secret.md)
+### [Levern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Stemwede/Levern.personal.md) 
+
+### [Levern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Stemwede/Levern.secret.md)
 

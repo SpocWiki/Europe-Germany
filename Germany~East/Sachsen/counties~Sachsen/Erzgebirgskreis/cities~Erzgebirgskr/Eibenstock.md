@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eibenstock.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~ErzgebirgskrEibenstock.public.md) 
+### [Eibenstock](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Eibenstock.md) 
 
-### [Eibenstock.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~ErzgebirgskrEibenstock.internal.md) 
+### [Eibenstock.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Eibenstock.public.md) 
 
-### [Eibenstock.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~ErzgebirgskrEibenstock.protect.md) 
+### [Eibenstock.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Eibenstock.internal.md) 
 
-### [Eibenstock.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~ErzgebirgskrEibenstock.private.md) 
+### [Eibenstock.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Eibenstock.protect.md) 
 
-### [Eibenstock.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~ErzgebirgskrEibenstock.personal.md) 
+### [Eibenstock.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Eibenstock.private.md) 
 
-### [Eibenstock.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~ErzgebirgskrEibenstock.secret.md)
+### [Eibenstock.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Eibenstock.personal.md) 
+
+### [Eibenstock.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Eibenstock.secret.md)
 

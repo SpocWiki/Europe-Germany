@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cranzahl.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Bärenstein\CityCranzahl.public.md) 
+### [Cranzahl](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Bärenstein/City/Cranzahl.md) 
 
-### [Cranzahl.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Bärenstein\CityCranzahl.internal.md) 
+### [Cranzahl.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Bärenstein/City/Cranzahl.public.md) 
 
-### [Cranzahl.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Bärenstein\CityCranzahl.protect.md) 
+### [Cranzahl.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Bärenstein/City/Cranzahl.internal.md) 
 
-### [Cranzahl.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Bärenstein\CityCranzahl.private.md) 
+### [Cranzahl.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Bärenstein/City/Cranzahl.protect.md) 
 
-### [Cranzahl.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Bärenstein\CityCranzahl.personal.md) 
+### [Cranzahl.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Bärenstein/City/Cranzahl.private.md) 
 
-### [Cranzahl.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Bärenstein\CityCranzahl.secret.md)
+### [Cranzahl.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Bärenstein/City/Cranzahl.personal.md) 
+
+### [Cranzahl.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Bärenstein/City/Cranzahl.secret.md)
 

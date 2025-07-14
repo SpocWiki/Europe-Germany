@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Olpe-city.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeOlpe-city.public.md) 
+### [Olpe-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Olpe-city.md) 
 
-### [Olpe-city.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeOlpe-city.internal.md) 
+### [Olpe-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Olpe-city.public.md) 
 
-### [Olpe-city.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeOlpe-city.protect.md) 
+### [Olpe-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Olpe-city.internal.md) 
 
-### [Olpe-city.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeOlpe-city.private.md) 
+### [Olpe-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Olpe-city.protect.md) 
 
-### [Olpe-city.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeOlpe-city.personal.md) 
+### [Olpe-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Olpe-city.private.md) 
 
-### [Olpe-city.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeOlpe-city.secret.md)
+### [Olpe-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Olpe-city.personal.md) 
+
+### [Olpe-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Olpe-city.secret.md)
 

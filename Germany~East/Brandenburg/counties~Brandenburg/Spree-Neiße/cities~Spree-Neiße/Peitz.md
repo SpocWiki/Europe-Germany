@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Peitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Spree-Neiße\cities~Spree-NeißePeitz.public.md) 
+### [Peitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Peitz.md) 
 
-### [Peitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Spree-Neiße\cities~Spree-NeißePeitz.internal.md) 
+### [Peitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Peitz.public.md) 
 
-### [Peitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Spree-Neiße\cities~Spree-NeißePeitz.protect.md) 
+### [Peitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Peitz.internal.md) 
 
-### [Peitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Spree-Neiße\cities~Spree-NeißePeitz.private.md) 
+### [Peitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Peitz.protect.md) 
 
-### [Peitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Spree-Neiße\cities~Spree-NeißePeitz.personal.md) 
+### [Peitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Peitz.private.md) 
 
-### [Peitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Spree-Neiße\cities~Spree-NeißePeitz.secret.md)
+### [Peitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Peitz.personal.md) 
+
+### [Peitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Peitz.secret.md)
 

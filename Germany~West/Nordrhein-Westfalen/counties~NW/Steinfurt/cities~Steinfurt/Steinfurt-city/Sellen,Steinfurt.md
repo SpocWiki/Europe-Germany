@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sellen,Steinfurt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~Steinfurt\Steinfurt-citySellen,Steinfurt.public.md) 
+### [Sellen,Steinfurt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Sellen,Steinfurt.md) 
 
-### [Sellen,Steinfurt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~Steinfurt\Steinfurt-citySellen,Steinfurt.internal.md) 
+### [Sellen,Steinfurt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Sellen,Steinfurt.public.md) 
 
-### [Sellen,Steinfurt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~Steinfurt\Steinfurt-citySellen,Steinfurt.protect.md) 
+### [Sellen,Steinfurt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Sellen,Steinfurt.internal.md) 
 
-### [Sellen,Steinfurt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~Steinfurt\Steinfurt-citySellen,Steinfurt.private.md) 
+### [Sellen,Steinfurt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Sellen,Steinfurt.protect.md) 
 
-### [Sellen,Steinfurt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~Steinfurt\Steinfurt-citySellen,Steinfurt.personal.md) 
+### [Sellen,Steinfurt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Sellen,Steinfurt.private.md) 
 
-### [Sellen,Steinfurt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~Steinfurt\Steinfurt-citySellen,Steinfurt.secret.md)
+### [Sellen,Steinfurt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Sellen,Steinfurt.personal.md) 
+
+### [Sellen,Steinfurt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Sellen,Steinfurt.secret.md)
 

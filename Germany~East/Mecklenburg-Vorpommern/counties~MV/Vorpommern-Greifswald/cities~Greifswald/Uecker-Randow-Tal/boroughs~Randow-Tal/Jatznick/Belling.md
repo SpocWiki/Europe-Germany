@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Belling.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Uecker-Randow-Tal\boroughs~Randow-Tal\JatznickBelling.public.md) 
+### [Belling](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick/Belling.md) 
 
-### [Belling.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Uecker-Randow-Tal\boroughs~Randow-Tal\JatznickBelling.internal.md) 
+### [Belling.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick/Belling.public.md) 
 
-### [Belling.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Uecker-Randow-Tal\boroughs~Randow-Tal\JatznickBelling.protect.md) 
+### [Belling.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick/Belling.internal.md) 
 
-### [Belling.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Uecker-Randow-Tal\boroughs~Randow-Tal\JatznickBelling.private.md) 
+### [Belling.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick/Belling.protect.md) 
 
-### [Belling.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Uecker-Randow-Tal\boroughs~Randow-Tal\JatznickBelling.personal.md) 
+### [Belling.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick/Belling.private.md) 
 
-### [Belling.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Uecker-Randow-Tal\boroughs~Randow-Tal\JatznickBelling.secret.md)
+### [Belling.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick/Belling.personal.md) 
+
+### [Belling.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick/Belling.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rade.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterholz\cities~Osterholz\Schwanewede\boroughs~SchwanewedeRade.public.md) 
+### [Rade](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Schwanewede/boroughs~Schwanewede/Rade.md) 
 
-### [Rade.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterholz\cities~Osterholz\Schwanewede\boroughs~SchwanewedeRade.internal.md) 
+### [Rade.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Schwanewede/boroughs~Schwanewede/Rade.public.md) 
 
-### [Rade.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterholz\cities~Osterholz\Schwanewede\boroughs~SchwanewedeRade.protect.md) 
+### [Rade.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Schwanewede/boroughs~Schwanewede/Rade.internal.md) 
 
-### [Rade.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterholz\cities~Osterholz\Schwanewede\boroughs~SchwanewedeRade.private.md) 
+### [Rade.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Schwanewede/boroughs~Schwanewede/Rade.protect.md) 
 
-### [Rade.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterholz\cities~Osterholz\Schwanewede\boroughs~SchwanewedeRade.personal.md) 
+### [Rade.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Schwanewede/boroughs~Schwanewede/Rade.private.md) 
 
-### [Rade.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterholz\cities~Osterholz\Schwanewede\boroughs~SchwanewedeRade.secret.md)
+### [Rade.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Schwanewede/boroughs~Schwanewede/Rade.personal.md) 
+
+### [Rade.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Schwanewede/boroughs~Schwanewede/Rade.secret.md)
 

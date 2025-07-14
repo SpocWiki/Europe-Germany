@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Friedland,Mecklenburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_SeenFriedland,Mecklenburg.public.md) 
+### [Friedland,Mecklenburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Friedland,Mecklenburg.md) 
 
-### [Friedland,Mecklenburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_SeenFriedland,Mecklenburg.internal.md) 
+### [Friedland,Mecklenburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Friedland,Mecklenburg.public.md) 
 
-### [Friedland,Mecklenburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_SeenFriedland,Mecklenburg.protect.md) 
+### [Friedland,Mecklenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Friedland,Mecklenburg.internal.md) 
 
-### [Friedland,Mecklenburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_SeenFriedland,Mecklenburg.private.md) 
+### [Friedland,Mecklenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Friedland,Mecklenburg.protect.md) 
 
-### [Friedland,Mecklenburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_SeenFriedland,Mecklenburg.personal.md) 
+### [Friedland,Mecklenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Friedland,Mecklenburg.private.md) 
 
-### [Friedland,Mecklenburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_SeenFriedland,Mecklenburg.secret.md)
+### [Friedland,Mecklenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Friedland,Mecklenburg.personal.md) 
+
+### [Friedland,Mecklenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Friedland,Mecklenburg.secret.md)
 

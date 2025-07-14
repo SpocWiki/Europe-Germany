@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Recklinghausen-city.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenRecklinghausen-city.public.md) 
+### [Recklinghausen-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Recklinghausen-city.md) 
 
-### [Recklinghausen-city.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenRecklinghausen-city.internal.md) 
+### [Recklinghausen-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Recklinghausen-city.public.md) 
 
-### [Recklinghausen-city.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenRecklinghausen-city.protect.md) 
+### [Recklinghausen-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Recklinghausen-city.internal.md) 
 
-### [Recklinghausen-city.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenRecklinghausen-city.private.md) 
+### [Recklinghausen-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Recklinghausen-city.protect.md) 
 
-### [Recklinghausen-city.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenRecklinghausen-city.personal.md) 
+### [Recklinghausen-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Recklinghausen-city.private.md) 
 
-### [Recklinghausen-city.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenRecklinghausen-city.secret.md)
+### [Recklinghausen-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Recklinghausen-city.personal.md) 
+
+### [Recklinghausen-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Recklinghausen-city.secret.md)
 

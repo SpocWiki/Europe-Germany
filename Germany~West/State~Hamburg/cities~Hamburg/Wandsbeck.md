@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wandsbeck.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgWandsbeck.public.md) 
+### [Wandsbeck](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Wandsbeck.md) 
 
-### [Wandsbeck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgWandsbeck.internal.md) 
+### [Wandsbeck.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Wandsbeck.public.md) 
 
-### [Wandsbeck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgWandsbeck.protect.md) 
+### [Wandsbeck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Wandsbeck.internal.md) 
 
-### [Wandsbeck.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgWandsbeck.private.md) 
+### [Wandsbeck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Wandsbeck.protect.md) 
 
-### [Wandsbeck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgWandsbeck.personal.md) 
+### [Wandsbeck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Wandsbeck.private.md) 
 
-### [Wandsbeck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgWandsbeck.secret.md)
+### [Wandsbeck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Wandsbeck.personal.md) 
+
+### [Wandsbeck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Wandsbeck.secret.md)
 

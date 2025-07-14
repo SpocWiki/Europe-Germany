@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Calau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~OberspreewaldCalau.public.md) 
+### [Calau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Calau.md) 
 
-### [Calau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~OberspreewaldCalau.internal.md) 
+### [Calau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Calau.public.md) 
 
-### [Calau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~OberspreewaldCalau.protect.md) 
+### [Calau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Calau.internal.md) 
 
-### [Calau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~OberspreewaldCalau.private.md) 
+### [Calau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Calau.protect.md) 
 
-### [Calau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~OberspreewaldCalau.personal.md) 
+### [Calau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Calau.private.md) 
 
-### [Calau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~OberspreewaldCalau.secret.md)
+### [Calau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Calau.personal.md) 
+
+### [Calau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Calau.secret.md)
 

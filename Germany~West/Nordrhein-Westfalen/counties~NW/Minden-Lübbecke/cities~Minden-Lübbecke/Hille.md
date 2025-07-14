@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hille.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-LübbeckeHille.public.md) 
+### [Hille](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Hille.md) 
 
-### [Hille.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-LübbeckeHille.internal.md) 
+### [Hille.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Hille.public.md) 
 
-### [Hille.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-LübbeckeHille.protect.md) 
+### [Hille.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Hille.internal.md) 
 
-### [Hille.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-LübbeckeHille.private.md) 
+### [Hille.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Hille.protect.md) 
 
-### [Hille.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-LübbeckeHille.personal.md) 
+### [Hille.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Hille.private.md) 
 
-### [Hille.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-LübbeckeHille.secret.md)
+### [Hille.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Hille.personal.md) 
+
+### [Hille.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Hille.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zorge.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterode~Harz\cities~Osterode~Harz\Walkenried\boroughs~WalkenriedZorge.public.md) 
+### [Zorge](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Walkenried/boroughs~Walkenried/Zorge.md) 
 
-### [Zorge.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterode~Harz\cities~Osterode~Harz\Walkenried\boroughs~WalkenriedZorge.internal.md) 
+### [Zorge.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Walkenried/boroughs~Walkenried/Zorge.public.md) 
 
-### [Zorge.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterode~Harz\cities~Osterode~Harz\Walkenried\boroughs~WalkenriedZorge.protect.md) 
+### [Zorge.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Walkenried/boroughs~Walkenried/Zorge.internal.md) 
 
-### [Zorge.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterode~Harz\cities~Osterode~Harz\Walkenried\boroughs~WalkenriedZorge.private.md) 
+### [Zorge.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Walkenried/boroughs~Walkenried/Zorge.protect.md) 
 
-### [Zorge.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterode~Harz\cities~Osterode~Harz\Walkenried\boroughs~WalkenriedZorge.personal.md) 
+### [Zorge.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Walkenried/boroughs~Walkenried/Zorge.private.md) 
 
-### [Zorge.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterode~Harz\cities~Osterode~Harz\Walkenried\boroughs~WalkenriedZorge.secret.md)
+### [Zorge.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Walkenried/boroughs~Walkenried/Zorge.personal.md) 
+
+### [Zorge.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Walkenried/boroughs~Walkenried/Zorge.secret.md)
 

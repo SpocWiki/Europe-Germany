@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Treffurth.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Treffurt\CityTreffurth.public.md) 
+### [Treffurth](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Treffurt/City/Treffurth.md) 
 
-### [Treffurth.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Treffurt\CityTreffurth.internal.md) 
+### [Treffurth.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Treffurt/City/Treffurth.public.md) 
 
-### [Treffurth.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Treffurt\CityTreffurth.protect.md) 
+### [Treffurth.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Treffurt/City/Treffurth.internal.md) 
 
-### [Treffurth.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Treffurt\CityTreffurth.private.md) 
+### [Treffurth.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Treffurt/City/Treffurth.protect.md) 
 
-### [Treffurth.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Treffurt\CityTreffurth.personal.md) 
+### [Treffurth.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Treffurt/City/Treffurth.private.md) 
 
-### [Treffurth.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Treffurt\CityTreffurth.secret.md)
+### [Treffurth.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Treffurt/City/Treffurth.personal.md) 
+
+### [Treffurth.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Treffurt/City/Treffurth.secret.md)
 

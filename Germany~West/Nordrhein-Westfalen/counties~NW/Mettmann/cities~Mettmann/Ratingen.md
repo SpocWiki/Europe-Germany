@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ratingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannRatingen.public.md) 
+### [Ratingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Ratingen.md) 
 
-### [Ratingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannRatingen.internal.md) 
+### [Ratingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Ratingen.public.md) 
 
-### [Ratingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannRatingen.protect.md) 
+### [Ratingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Ratingen.internal.md) 
 
-### [Ratingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannRatingen.private.md) 
+### [Ratingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Ratingen.protect.md) 
 
-### [Ratingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannRatingen.personal.md) 
+### [Ratingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Ratingen.private.md) 
 
-### [Ratingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannRatingen.secret.md)
+### [Ratingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Ratingen.personal.md) 
+
+### [Ratingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Ratingen.secret.md)
 

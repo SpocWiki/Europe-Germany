@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marnitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Eldenburg-Lübz\boroughs~LübzMarnitz.public.md) 
+### [Marnitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Eldenburg-Lübz/boroughs~Lübz/Marnitz.md) 
 
-### [Marnitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Eldenburg-Lübz\boroughs~LübzMarnitz.internal.md) 
+### [Marnitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Eldenburg-Lübz/boroughs~Lübz/Marnitz.public.md) 
 
-### [Marnitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Eldenburg-Lübz\boroughs~LübzMarnitz.protect.md) 
+### [Marnitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Eldenburg-Lübz/boroughs~Lübz/Marnitz.internal.md) 
 
-### [Marnitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Eldenburg-Lübz\boroughs~LübzMarnitz.private.md) 
+### [Marnitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Eldenburg-Lübz/boroughs~Lübz/Marnitz.protect.md) 
 
-### [Marnitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Eldenburg-Lübz\boroughs~LübzMarnitz.personal.md) 
+### [Marnitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Eldenburg-Lübz/boroughs~Lübz/Marnitz.private.md) 
 
-### [Marnitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Eldenburg-Lübz\boroughs~LübzMarnitz.secret.md)
+### [Marnitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Eldenburg-Lübz/boroughs~Lübz/Marnitz.personal.md) 
+
+### [Marnitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Eldenburg-Lübz/boroughs~Lübz/Marnitz.secret.md)
 

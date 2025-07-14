@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wurgwitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Freital\CityWurgwitz.public.md) 
+### [Wurgwitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Freital/City/Wurgwitz.md) 
 
-### [Wurgwitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Freital\CityWurgwitz.internal.md) 
+### [Wurgwitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Freital/City/Wurgwitz.public.md) 
 
-### [Wurgwitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Freital\CityWurgwitz.protect.md) 
+### [Wurgwitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Freital/City/Wurgwitz.internal.md) 
 
-### [Wurgwitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Freital\CityWurgwitz.private.md) 
+### [Wurgwitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Freital/City/Wurgwitz.protect.md) 
 
-### [Wurgwitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Freital\CityWurgwitz.personal.md) 
+### [Wurgwitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Freital/City/Wurgwitz.private.md) 
 
-### [Wurgwitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Freital\CityWurgwitz.secret.md)
+### [Wurgwitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Freital/City/Wurgwitz.personal.md) 
+
+### [Wurgwitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Freital/City/Wurgwitz.secret.md)
 

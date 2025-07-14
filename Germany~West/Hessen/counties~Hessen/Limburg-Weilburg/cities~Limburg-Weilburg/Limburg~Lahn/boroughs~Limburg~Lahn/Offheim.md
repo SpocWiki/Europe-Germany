@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Offheim.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-Weilburg\Limburg~Lahn\boroughs~Limburg~LahnOffheim.public.md) 
+### [Offheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Limburg~Lahn/boroughs~Limburg~Lahn/Offheim.md) 
 
-### [Offheim.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-Weilburg\Limburg~Lahn\boroughs~Limburg~LahnOffheim.internal.md) 
+### [Offheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Limburg~Lahn/boroughs~Limburg~Lahn/Offheim.public.md) 
 
-### [Offheim.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-Weilburg\Limburg~Lahn\boroughs~Limburg~LahnOffheim.protect.md) 
+### [Offheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Limburg~Lahn/boroughs~Limburg~Lahn/Offheim.internal.md) 
 
-### [Offheim.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-Weilburg\Limburg~Lahn\boroughs~Limburg~LahnOffheim.private.md) 
+### [Offheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Limburg~Lahn/boroughs~Limburg~Lahn/Offheim.protect.md) 
 
-### [Offheim.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-Weilburg\Limburg~Lahn\boroughs~Limburg~LahnOffheim.personal.md) 
+### [Offheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Limburg~Lahn/boroughs~Limburg~Lahn/Offheim.private.md) 
 
-### [Offheim.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-Weilburg\Limburg~Lahn\boroughs~Limburg~LahnOffheim.secret.md)
+### [Offheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Limburg~Lahn/boroughs~Limburg~Lahn/Offheim.personal.md) 
+
+### [Offheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Limburg~Lahn/boroughs~Limburg~Lahn/Offheim.secret.md)
 

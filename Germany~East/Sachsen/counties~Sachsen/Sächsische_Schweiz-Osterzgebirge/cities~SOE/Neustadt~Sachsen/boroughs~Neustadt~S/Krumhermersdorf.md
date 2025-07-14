@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Krumhermersdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Neustadt~Sachsen\boroughs~Neustadt~SKrumhermersdorf.public.md) 
+### [Krumhermersdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Neustadt~Sachsen/boroughs~Neustadt~S/Krumhermersdorf.md) 
 
-### [Krumhermersdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Neustadt~Sachsen\boroughs~Neustadt~SKrumhermersdorf.internal.md) 
+### [Krumhermersdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Neustadt~Sachsen/boroughs~Neustadt~S/Krumhermersdorf.public.md) 
 
-### [Krumhermersdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Neustadt~Sachsen\boroughs~Neustadt~SKrumhermersdorf.protect.md) 
+### [Krumhermersdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Neustadt~Sachsen/boroughs~Neustadt~S/Krumhermersdorf.internal.md) 
 
-### [Krumhermersdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Neustadt~Sachsen\boroughs~Neustadt~SKrumhermersdorf.private.md) 
+### [Krumhermersdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Neustadt~Sachsen/boroughs~Neustadt~S/Krumhermersdorf.protect.md) 
 
-### [Krumhermersdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Neustadt~Sachsen\boroughs~Neustadt~SKrumhermersdorf.personal.md) 
+### [Krumhermersdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Neustadt~Sachsen/boroughs~Neustadt~S/Krumhermersdorf.private.md) 
 
-### [Krumhermersdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Sächsische_Schweiz-Osterzgebirge\cities~SOE\Neustadt~Sachsen\boroughs~Neustadt~SKrumhermersdorf.secret.md)
+### [Krumhermersdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Neustadt~Sachsen/boroughs~Neustadt~S/Krumhermersdorf.personal.md) 
+
+### [Krumhermersdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Sächsische_Schweiz-Osterzgebirge/cities~SOE/Neustadt~Sachsen/boroughs~Neustadt~S/Krumhermersdorf.secret.md)
 

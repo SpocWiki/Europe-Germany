@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Köln-Muelheim.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln-Muelheim.public.md) 
+### [Köln-Muelheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Muelheim.md) 
 
-### [Köln-Muelheim.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln-Muelheim.internal.md) 
+### [Köln-Muelheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Muelheim.public.md) 
 
-### [Köln-Muelheim.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln-Muelheim.protect.md) 
+### [Köln-Muelheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Muelheim.internal.md) 
 
-### [Köln-Muelheim.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln-Muelheim.private.md) 
+### [Köln-Muelheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Muelheim.protect.md) 
 
-### [Köln-Muelheim.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln-Muelheim.personal.md) 
+### [Köln-Muelheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Muelheim.private.md) 
 
-### [Köln-Muelheim.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln-Muelheim.secret.md)
+### [Köln-Muelheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Muelheim.personal.md) 
+
+### [Köln-Muelheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Muelheim.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fresenburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Lathen\boroughs~LathenFresenburg.public.md) 
+### [Fresenburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Lathen/boroughs~Lathen/Fresenburg.md) 
 
-### [Fresenburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Lathen\boroughs~LathenFresenburg.internal.md) 
+### [Fresenburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Lathen/boroughs~Lathen/Fresenburg.public.md) 
 
-### [Fresenburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Lathen\boroughs~LathenFresenburg.protect.md) 
+### [Fresenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Lathen/boroughs~Lathen/Fresenburg.internal.md) 
 
-### [Fresenburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Lathen\boroughs~LathenFresenburg.private.md) 
+### [Fresenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Lathen/boroughs~Lathen/Fresenburg.protect.md) 
 
-### [Fresenburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Lathen\boroughs~LathenFresenburg.personal.md) 
+### [Fresenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Lathen/boroughs~Lathen/Fresenburg.private.md) 
 
-### [Fresenburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Lathen\boroughs~LathenFresenburg.secret.md)
+### [Fresenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Lathen/boroughs~Lathen/Fresenburg.personal.md) 
+
+### [Fresenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Lathen/boroughs~Lathen/Fresenburg.secret.md)
 

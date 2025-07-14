@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jever.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~FrieslandJever.public.md) 
+### [Jever](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Jever.md) 
 
-### [Jever.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~FrieslandJever.internal.md) 
+### [Jever.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Jever.public.md) 
 
-### [Jever.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~FrieslandJever.protect.md) 
+### [Jever.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Jever.internal.md) 
 
-### [Jever.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~FrieslandJever.private.md) 
+### [Jever.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Jever.protect.md) 
 
-### [Jever.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~FrieslandJever.personal.md) 
+### [Jever.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Jever.private.md) 
 
-### [Jever.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~FrieslandJever.secret.md)
+### [Jever.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Jever.personal.md) 
+
+### [Jever.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Jever.secret.md)
 

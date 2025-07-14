@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zienau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Gardelegen\CityZienau.public.md) 
+### [Zienau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Gardelegen/City/Zienau.md) 
 
-### [Zienau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Gardelegen\CityZienau.internal.md) 
+### [Zienau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Gardelegen/City/Zienau.public.md) 
 
-### [Zienau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Gardelegen\CityZienau.protect.md) 
+### [Zienau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Gardelegen/City/Zienau.internal.md) 
 
-### [Zienau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Gardelegen\CityZienau.private.md) 
+### [Zienau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Gardelegen/City/Zienau.protect.md) 
 
-### [Zienau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Gardelegen\CityZienau.personal.md) 
+### [Zienau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Gardelegen/City/Zienau.private.md) 
 
-### [Zienau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Gardelegen\CityZienau.secret.md)
+### [Zienau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Gardelegen/City/Zienau.personal.md) 
+
+### [Zienau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Gardelegen/City/Zienau.secret.md)
 

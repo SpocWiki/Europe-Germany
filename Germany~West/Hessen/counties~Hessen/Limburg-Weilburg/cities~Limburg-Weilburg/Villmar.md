@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Villmar.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-WeilburgVillmar.public.md) 
+### [Villmar](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Villmar.md) 
 
-### [Villmar.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-WeilburgVillmar.internal.md) 
+### [Villmar.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Villmar.public.md) 
 
-### [Villmar.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-WeilburgVillmar.protect.md) 
+### [Villmar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Villmar.internal.md) 
 
-### [Villmar.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-WeilburgVillmar.private.md) 
+### [Villmar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Villmar.protect.md) 
 
-### [Villmar.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-WeilburgVillmar.personal.md) 
+### [Villmar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Villmar.private.md) 
 
-### [Villmar.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-WeilburgVillmar.secret.md)
+### [Villmar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Villmar.personal.md) 
+
+### [Villmar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Villmar.secret.md)
 

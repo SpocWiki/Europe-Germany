@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Steinach.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~SonnebergSteinach.public.md) 
+### [Steinach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Steinach.md) 
 
-### [Steinach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~SonnebergSteinach.internal.md) 
+### [Steinach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Steinach.public.md) 
 
-### [Steinach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~SonnebergSteinach.protect.md) 
+### [Steinach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Steinach.internal.md) 
 
-### [Steinach.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~SonnebergSteinach.private.md) 
+### [Steinach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Steinach.protect.md) 
 
-### [Steinach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~SonnebergSteinach.personal.md) 
+### [Steinach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Steinach.private.md) 
 
-### [Steinach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~SonnebergSteinach.secret.md)
+### [Steinach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Steinach.personal.md) 
+
+### [Steinach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Steinach.secret.md)
 

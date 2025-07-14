@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hollerath.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Hellenthal\CityHollerath.public.md) 
+### [Hollerath](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Hellenthal/City/Hollerath.md) 
 
-### [Hollerath.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Hellenthal\CityHollerath.internal.md) 
+### [Hollerath.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Hellenthal/City/Hollerath.public.md) 
 
-### [Hollerath.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Hellenthal\CityHollerath.protect.md) 
+### [Hollerath.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Hellenthal/City/Hollerath.internal.md) 
 
-### [Hollerath.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Hellenthal\CityHollerath.private.md) 
+### [Hollerath.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Hellenthal/City/Hollerath.protect.md) 
 
-### [Hollerath.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Hellenthal\CityHollerath.personal.md) 
+### [Hollerath.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Hellenthal/City/Hollerath.private.md) 
 
-### [Hollerath.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Hellenthal\CityHollerath.secret.md)
+### [Hollerath.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Hellenthal/City/Hollerath.personal.md) 
+
+### [Hollerath.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Hellenthal/City/Hollerath.secret.md)
 

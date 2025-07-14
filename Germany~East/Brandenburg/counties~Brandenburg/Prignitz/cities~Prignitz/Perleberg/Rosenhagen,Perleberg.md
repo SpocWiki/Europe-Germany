@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rosenhagen,Perleberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~Prignitz\PerlebergRosenhagen,Perleberg.public.md) 
+### [Rosenhagen,Perleberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Perleberg/Rosenhagen,Perleberg.md) 
 
-### [Rosenhagen,Perleberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~Prignitz\PerlebergRosenhagen,Perleberg.internal.md) 
+### [Rosenhagen,Perleberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Perleberg/Rosenhagen,Perleberg.public.md) 
 
-### [Rosenhagen,Perleberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~Prignitz\PerlebergRosenhagen,Perleberg.protect.md) 
+### [Rosenhagen,Perleberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Perleberg/Rosenhagen,Perleberg.internal.md) 
 
-### [Rosenhagen,Perleberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~Prignitz\PerlebergRosenhagen,Perleberg.private.md) 
+### [Rosenhagen,Perleberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Perleberg/Rosenhagen,Perleberg.protect.md) 
 
-### [Rosenhagen,Perleberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~Prignitz\PerlebergRosenhagen,Perleberg.personal.md) 
+### [Rosenhagen,Perleberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Perleberg/Rosenhagen,Perleberg.private.md) 
 
-### [Rosenhagen,Perleberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~Prignitz\PerlebergRosenhagen,Perleberg.secret.md)
+### [Rosenhagen,Perleberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Perleberg/Rosenhagen,Perleberg.personal.md) 
+
+### [Rosenhagen,Perleberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Perleberg/Rosenhagen,Perleberg.secret.md)
 

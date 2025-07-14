@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Blankenburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Blankenburg~Harz\CityBlankenburg.public.md) 
+### [Blankenburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Blankenburg~Harz/City/Blankenburg.md) 
 
-### [Blankenburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Blankenburg~Harz\CityBlankenburg.internal.md) 
+### [Blankenburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Blankenburg~Harz/City/Blankenburg.public.md) 
 
-### [Blankenburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Blankenburg~Harz\CityBlankenburg.protect.md) 
+### [Blankenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Blankenburg~Harz/City/Blankenburg.internal.md) 
 
-### [Blankenburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Blankenburg~Harz\CityBlankenburg.private.md) 
+### [Blankenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Blankenburg~Harz/City/Blankenburg.protect.md) 
 
-### [Blankenburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Blankenburg~Harz\CityBlankenburg.personal.md) 
+### [Blankenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Blankenburg~Harz/City/Blankenburg.private.md) 
 
-### [Blankenburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Blankenburg~Harz\CityBlankenburg.secret.md)
+### [Blankenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Blankenburg~Harz/City/Blankenburg.personal.md) 
+
+### [Blankenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Blankenburg~Harz/City/Blankenburg.secret.md)
 

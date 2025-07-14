@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sassnitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~RügenSassnitz.public.md) 
+### [Sassnitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Sassnitz.md) 
 
-### [Sassnitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~RügenSassnitz.internal.md) 
+### [Sassnitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Sassnitz.public.md) 
 
-### [Sassnitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~RügenSassnitz.protect.md) 
+### [Sassnitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Sassnitz.internal.md) 
 
-### [Sassnitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~RügenSassnitz.private.md) 
+### [Sassnitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Sassnitz.protect.md) 
 
-### [Sassnitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~RügenSassnitz.personal.md) 
+### [Sassnitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Sassnitz.private.md) 
 
-### [Sassnitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~RügenSassnitz.secret.md)
+### [Sassnitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Sassnitz.personal.md) 
+
+### [Sassnitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Sassnitz.secret.md)
 

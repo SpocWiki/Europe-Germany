@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Niemberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~Saalekreis\Landsberg\CityNiemberg.public.md) 
+### [Niemberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Landsberg/City/Niemberg.md) 
 
-### [Niemberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~Saalekreis\Landsberg\CityNiemberg.internal.md) 
+### [Niemberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Landsberg/City/Niemberg.public.md) 
 
-### [Niemberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~Saalekreis\Landsberg\CityNiemberg.protect.md) 
+### [Niemberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Landsberg/City/Niemberg.internal.md) 
 
-### [Niemberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~Saalekreis\Landsberg\CityNiemberg.private.md) 
+### [Niemberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Landsberg/City/Niemberg.protect.md) 
 
-### [Niemberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~Saalekreis\Landsberg\CityNiemberg.personal.md) 
+### [Niemberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Landsberg/City/Niemberg.private.md) 
 
-### [Niemberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~Saalekreis\Landsberg\CityNiemberg.secret.md)
+### [Niemberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Landsberg/City/Niemberg.personal.md) 
+
+### [Niemberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Landsberg/City/Niemberg.secret.md)
 

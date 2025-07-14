@@ -43,15 +43,17 @@ Aachener Dom (seit 1978 Teil der Unesco-Welterbeliste)
 
 ## Confidential Links & Embeds: 
 
-### [Aachen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_AachenAachen.public.md) 
+### [Aachen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Aachen.md) 
 
-### [Aachen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_AachenAachen.internal.md) 
+### [Aachen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Aachen.public.md) 
 
-### [Aachen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_AachenAachen.protect.md) 
+### [Aachen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Aachen.internal.md) 
 
-### [Aachen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_AachenAachen.private.md) 
+### [Aachen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Aachen.protect.md) 
 
-### [Aachen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_AachenAachen.personal.md) 
+### [Aachen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Aachen.private.md) 
 
-### [Aachen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Städte-Region_Aachen\cities~Region_AachenAachen.secret.md)
+### [Aachen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Aachen.personal.md) 
+
+### [Aachen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Städte-Region_Aachen/cities~Region_Aachen/Aachen.secret.md)
 

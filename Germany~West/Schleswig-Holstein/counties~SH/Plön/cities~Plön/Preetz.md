@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Preetz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~PlönPreetz.public.md) 
+### [Preetz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz.md) 
 
-### [Preetz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~PlönPreetz.internal.md) 
+### [Preetz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz.public.md) 
 
-### [Preetz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~PlönPreetz.protect.md) 
+### [Preetz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz.internal.md) 
 
-### [Preetz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~PlönPreetz.private.md) 
+### [Preetz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz.protect.md) 
 
-### [Preetz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~PlönPreetz.personal.md) 
+### [Preetz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz.private.md) 
 
-### [Preetz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~PlönPreetz.secret.md)
+### [Preetz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz.personal.md) 
+
+### [Preetz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Preetz.secret.md)
 

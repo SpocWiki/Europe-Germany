@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bitterfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Bitterfeld-Wolfen\CityBitterfeld.public.md) 
+### [Bitterfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Bitterfeld-Wolfen/City/Bitterfeld.md) 
 
-### [Bitterfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Bitterfeld-Wolfen\CityBitterfeld.internal.md) 
+### [Bitterfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Bitterfeld-Wolfen/City/Bitterfeld.public.md) 
 
-### [Bitterfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Bitterfeld-Wolfen\CityBitterfeld.protect.md) 
+### [Bitterfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Bitterfeld-Wolfen/City/Bitterfeld.internal.md) 
 
-### [Bitterfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Bitterfeld-Wolfen\CityBitterfeld.private.md) 
+### [Bitterfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Bitterfeld-Wolfen/City/Bitterfeld.protect.md) 
 
-### [Bitterfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Bitterfeld-Wolfen\CityBitterfeld.personal.md) 
+### [Bitterfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Bitterfeld-Wolfen/City/Bitterfeld.private.md) 
 
-### [Bitterfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Bitterfeld-Wolfen\CityBitterfeld.secret.md)
+### [Bitterfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Bitterfeld-Wolfen/City/Bitterfeld.personal.md) 
+
+### [Bitterfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Bitterfeld-Wolfen/City/Bitterfeld.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aschersleben.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~SalzlandkreisAschersleben.public.md) 
+### [Aschersleben](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Aschersleben.md) 
 
-### [Aschersleben.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~SalzlandkreisAschersleben.internal.md) 
+### [Aschersleben.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Aschersleben.public.md) 
 
-### [Aschersleben.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~SalzlandkreisAschersleben.protect.md) 
+### [Aschersleben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Aschersleben.internal.md) 
 
-### [Aschersleben.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~SalzlandkreisAschersleben.private.md) 
+### [Aschersleben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Aschersleben.protect.md) 
 
-### [Aschersleben.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~SalzlandkreisAschersleben.personal.md) 
+### [Aschersleben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Aschersleben.private.md) 
 
-### [Aschersleben.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~SalzlandkreisAschersleben.secret.md)
+### [Aschersleben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Aschersleben.personal.md) 
+
+### [Aschersleben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Aschersleben.secret.md)
 

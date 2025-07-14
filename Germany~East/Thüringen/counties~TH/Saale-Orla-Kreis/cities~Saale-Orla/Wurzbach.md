@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wurzbach.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-OrlaWurzbach.public.md) 
+### [Wurzbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Wurzbach.md) 
 
-### [Wurzbach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-OrlaWurzbach.internal.md) 
+### [Wurzbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Wurzbach.public.md) 
 
-### [Wurzbach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-OrlaWurzbach.protect.md) 
+### [Wurzbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Wurzbach.internal.md) 
 
-### [Wurzbach.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-OrlaWurzbach.private.md) 
+### [Wurzbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Wurzbach.protect.md) 
 
-### [Wurzbach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-OrlaWurzbach.personal.md) 
+### [Wurzbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Wurzbach.private.md) 
 
-### [Wurzbach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-OrlaWurzbach.secret.md)
+### [Wurzbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Wurzbach.personal.md) 
+
+### [Wurzbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Wurzbach.secret.md)
 

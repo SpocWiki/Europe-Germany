@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mülheim~Ruhr.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NWMülheim~Ruhr.public.md) 
+### [Mülheim~Ruhr](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mülheim~Ruhr.md) 
 
-### [Mülheim~Ruhr.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NWMülheim~Ruhr.internal.md) 
+### [Mülheim~Ruhr.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mülheim~Ruhr.public.md) 
 
-### [Mülheim~Ruhr.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NWMülheim~Ruhr.protect.md) 
+### [Mülheim~Ruhr.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mülheim~Ruhr.internal.md) 
 
-### [Mülheim~Ruhr.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NWMülheim~Ruhr.private.md) 
+### [Mülheim~Ruhr.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mülheim~Ruhr.protect.md) 
 
-### [Mülheim~Ruhr.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NWMülheim~Ruhr.personal.md) 
+### [Mülheim~Ruhr.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mülheim~Ruhr.private.md) 
 
-### [Mülheim~Ruhr.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NWMülheim~Ruhr.secret.md)
+### [Mülheim~Ruhr.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mülheim~Ruhr.personal.md) 
+
+### [Mülheim~Ruhr.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mülheim~Ruhr.secret.md)
 

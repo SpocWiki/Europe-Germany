@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lübben,Spreewald.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Dahme-Spreewald\cities~Dahme-SpreewaldLübben,Spreewald.public.md) 
+### [Lübben,Spreewald](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Lübben,Spreewald.md) 
 
-### [Lübben,Spreewald.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Dahme-Spreewald\cities~Dahme-SpreewaldLübben,Spreewald.internal.md) 
+### [Lübben,Spreewald.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Lübben,Spreewald.public.md) 
 
-### [Lübben,Spreewald.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Dahme-Spreewald\cities~Dahme-SpreewaldLübben,Spreewald.protect.md) 
+### [Lübben,Spreewald.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Lübben,Spreewald.internal.md) 
 
-### [Lübben,Spreewald.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Dahme-Spreewald\cities~Dahme-SpreewaldLübben,Spreewald.private.md) 
+### [Lübben,Spreewald.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Lübben,Spreewald.protect.md) 
 
-### [Lübben,Spreewald.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Dahme-Spreewald\cities~Dahme-SpreewaldLübben,Spreewald.personal.md) 
+### [Lübben,Spreewald.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Lübben,Spreewald.private.md) 
 
-### [Lübben,Spreewald.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Dahme-Spreewald\cities~Dahme-SpreewaldLübben,Spreewald.secret.md)
+### [Lübben,Spreewald.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Lübben,Spreewald.personal.md) 
+
+### [Lübben,Spreewald.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Lübben,Spreewald.secret.md)
 

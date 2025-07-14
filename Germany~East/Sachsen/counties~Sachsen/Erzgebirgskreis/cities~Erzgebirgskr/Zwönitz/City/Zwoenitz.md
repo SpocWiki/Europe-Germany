@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zwoenitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Zwönitz\CityZwoenitz.public.md) 
+### [Zwoenitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Zwönitz/City/Zwoenitz.md) 
 
-### [Zwoenitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Zwönitz\CityZwoenitz.internal.md) 
+### [Zwoenitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Zwönitz/City/Zwoenitz.public.md) 
 
-### [Zwoenitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Zwönitz\CityZwoenitz.protect.md) 
+### [Zwoenitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Zwönitz/City/Zwoenitz.internal.md) 
 
-### [Zwoenitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Zwönitz\CityZwoenitz.private.md) 
+### [Zwoenitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Zwönitz/City/Zwoenitz.protect.md) 
 
-### [Zwoenitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Zwönitz\CityZwoenitz.personal.md) 
+### [Zwoenitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Zwönitz/City/Zwoenitz.private.md) 
 
-### [Zwoenitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Zwönitz\CityZwoenitz.secret.md)
+### [Zwoenitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Zwönitz/City/Zwoenitz.personal.md) 
+
+### [Zwoenitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Zwönitz/City/Zwoenitz.secret.md)
 

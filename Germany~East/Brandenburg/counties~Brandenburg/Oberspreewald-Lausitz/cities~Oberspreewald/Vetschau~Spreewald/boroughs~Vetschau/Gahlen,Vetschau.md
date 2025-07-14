@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gahlen,Vetschau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~Oberspreewald\Vetschau~Spreewald\boroughs~VetschauGahlen,Vetschau.public.md) 
+### [Gahlen,Vetschau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Gahlen,Vetschau.md) 
 
-### [Gahlen,Vetschau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~Oberspreewald\Vetschau~Spreewald\boroughs~VetschauGahlen,Vetschau.internal.md) 
+### [Gahlen,Vetschau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Gahlen,Vetschau.public.md) 
 
-### [Gahlen,Vetschau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~Oberspreewald\Vetschau~Spreewald\boroughs~VetschauGahlen,Vetschau.protect.md) 
+### [Gahlen,Vetschau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Gahlen,Vetschau.internal.md) 
 
-### [Gahlen,Vetschau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~Oberspreewald\Vetschau~Spreewald\boroughs~VetschauGahlen,Vetschau.private.md) 
+### [Gahlen,Vetschau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Gahlen,Vetschau.protect.md) 
 
-### [Gahlen,Vetschau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~Oberspreewald\Vetschau~Spreewald\boroughs~VetschauGahlen,Vetschau.personal.md) 
+### [Gahlen,Vetschau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Gahlen,Vetschau.private.md) 
 
-### [Gahlen,Vetschau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~Oberspreewald\Vetschau~Spreewald\boroughs~VetschauGahlen,Vetschau.secret.md)
+### [Gahlen,Vetschau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Gahlen,Vetschau.personal.md) 
+
+### [Gahlen,Vetschau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Gahlen,Vetschau.secret.md)
 

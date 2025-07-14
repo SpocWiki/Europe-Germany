@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Loebau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Löbau\CityLoebau.public.md) 
+### [Loebau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Löbau/City/Loebau.md) 
 
-### [Loebau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Löbau\CityLoebau.internal.md) 
+### [Loebau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Löbau/City/Loebau.public.md) 
 
-### [Loebau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Löbau\CityLoebau.protect.md) 
+### [Loebau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Löbau/City/Loebau.internal.md) 
 
-### [Loebau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Löbau\CityLoebau.private.md) 
+### [Loebau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Löbau/City/Loebau.protect.md) 
 
-### [Loebau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Löbau\CityLoebau.personal.md) 
+### [Loebau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Löbau/City/Loebau.private.md) 
 
-### [Loebau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Löbau\CityLoebau.secret.md)
+### [Loebau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Löbau/City/Loebau.personal.md) 
+
+### [Loebau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Löbau/City/Loebau.secret.md)
 

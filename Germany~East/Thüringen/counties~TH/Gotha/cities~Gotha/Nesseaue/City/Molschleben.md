@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Molschleben.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Nesseaue\CityMolschleben.public.md) 
+### [Molschleben](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Nesseaue/City/Molschleben.md) 
 
-### [Molschleben.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Nesseaue\CityMolschleben.internal.md) 
+### [Molschleben.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Nesseaue/City/Molschleben.public.md) 
 
-### [Molschleben.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Nesseaue\CityMolschleben.protect.md) 
+### [Molschleben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Nesseaue/City/Molschleben.internal.md) 
 
-### [Molschleben.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Nesseaue\CityMolschleben.private.md) 
+### [Molschleben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Nesseaue/City/Molschleben.protect.md) 
 
-### [Molschleben.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Nesseaue\CityMolschleben.personal.md) 
+### [Molschleben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Nesseaue/City/Molschleben.private.md) 
 
-### [Molschleben.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Nesseaue\CityMolschleben.secret.md)
+### [Molschleben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Nesseaue/City/Molschleben.personal.md) 
+
+### [Molschleben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Nesseaue/City/Molschleben.secret.md)
 

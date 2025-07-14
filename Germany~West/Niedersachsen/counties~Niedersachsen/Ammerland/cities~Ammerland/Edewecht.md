@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Edewecht.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~AmmerlandEdewecht.public.md) 
+### [Edewecht](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Edewecht.md) 
 
-### [Edewecht.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~AmmerlandEdewecht.internal.md) 
+### [Edewecht.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Edewecht.public.md) 
 
-### [Edewecht.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~AmmerlandEdewecht.protect.md) 
+### [Edewecht.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Edewecht.internal.md) 
 
-### [Edewecht.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~AmmerlandEdewecht.private.md) 
+### [Edewecht.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Edewecht.protect.md) 
 
-### [Edewecht.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~AmmerlandEdewecht.personal.md) 
+### [Edewecht.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Edewecht.private.md) 
 
-### [Edewecht.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~AmmerlandEdewecht.secret.md)
+### [Edewecht.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Edewecht.personal.md) 
+
+### [Edewecht.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Edewecht.secret.md)
 

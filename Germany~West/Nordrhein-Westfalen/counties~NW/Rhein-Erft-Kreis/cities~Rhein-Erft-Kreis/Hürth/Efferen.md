@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Efferen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-Kreis\HürthEfferen.public.md) 
+### [Efferen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Hürth/Efferen.md) 
 
-### [Efferen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-Kreis\HürthEfferen.internal.md) 
+### [Efferen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Hürth/Efferen.public.md) 
 
-### [Efferen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-Kreis\HürthEfferen.protect.md) 
+### [Efferen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Hürth/Efferen.internal.md) 
 
-### [Efferen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-Kreis\HürthEfferen.private.md) 
+### [Efferen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Hürth/Efferen.protect.md) 
 
-### [Efferen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-Kreis\HürthEfferen.personal.md) 
+### [Efferen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Hürth/Efferen.private.md) 
 
-### [Efferen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-Kreis\HürthEfferen.secret.md)
+### [Efferen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Hürth/Efferen.personal.md) 
+
+### [Efferen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Hürth/Efferen.secret.md)
 

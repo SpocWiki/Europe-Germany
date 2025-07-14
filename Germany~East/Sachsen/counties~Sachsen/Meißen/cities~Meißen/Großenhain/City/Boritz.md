@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Boritz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Großenhain\CityBoritz.public.md) 
+### [Boritz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Großenhain/City/Boritz.md) 
 
-### [Boritz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Großenhain\CityBoritz.internal.md) 
+### [Boritz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Großenhain/City/Boritz.public.md) 
 
-### [Boritz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Großenhain\CityBoritz.protect.md) 
+### [Boritz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Großenhain/City/Boritz.internal.md) 
 
-### [Boritz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Großenhain\CityBoritz.private.md) 
+### [Boritz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Großenhain/City/Boritz.protect.md) 
 
-### [Boritz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Großenhain\CityBoritz.personal.md) 
+### [Boritz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Großenhain/City/Boritz.private.md) 
 
-### [Boritz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Großenhain\CityBoritz.secret.md)
+### [Boritz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Großenhain/City/Boritz.personal.md) 
+
+### [Boritz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Großenhain/City/Boritz.secret.md)
 

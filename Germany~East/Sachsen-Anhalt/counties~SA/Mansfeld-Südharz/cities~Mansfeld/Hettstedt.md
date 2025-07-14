@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hettstedt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~MansfeldHettstedt.public.md) 
+### [Hettstedt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Hettstedt.md) 
 
-### [Hettstedt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~MansfeldHettstedt.internal.md) 
+### [Hettstedt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Hettstedt.public.md) 
 
-### [Hettstedt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~MansfeldHettstedt.protect.md) 
+### [Hettstedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Hettstedt.internal.md) 
 
-### [Hettstedt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~MansfeldHettstedt.private.md) 
+### [Hettstedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Hettstedt.protect.md) 
 
-### [Hettstedt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~MansfeldHettstedt.personal.md) 
+### [Hettstedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Hettstedt.private.md) 
 
-### [Hettstedt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~MansfeldHettstedt.secret.md)
+### [Hettstedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Hettstedt.personal.md) 
+
+### [Hettstedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Hettstedt.secret.md)
 

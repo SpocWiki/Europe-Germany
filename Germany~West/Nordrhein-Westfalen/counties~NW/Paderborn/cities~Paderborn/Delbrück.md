@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Delbrück.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~PaderbornDelbrück.public.md) 
+### [Delbrück](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Delbrück.md) 
 
-### [Delbrück.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~PaderbornDelbrück.internal.md) 
+### [Delbrück.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Delbrück.public.md) 
 
-### [Delbrück.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~PaderbornDelbrück.protect.md) 
+### [Delbrück.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Delbrück.internal.md) 
 
-### [Delbrück.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~PaderbornDelbrück.private.md) 
+### [Delbrück.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Delbrück.protect.md) 
 
-### [Delbrück.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~PaderbornDelbrück.personal.md) 
+### [Delbrück.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Delbrück.private.md) 
 
-### [Delbrück.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~PaderbornDelbrück.secret.md)
+### [Delbrück.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Delbrück.personal.md) 
+
+### [Delbrück.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Delbrück.secret.md)
 

@@ -39,15 +39,17 @@ Archäologischer Grenzkomplex Haithabu und Danewerk (2018)
 
 ## Confidential Links & Embeds: 
 
-### [Schleswig.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Schleswig-Flensburg\cities~Schleswig-FlensburgSchleswig.public.md) 
+### [Schleswig](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Schleswig.md) 
 
-### [Schleswig.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Schleswig-Flensburg\cities~Schleswig-FlensburgSchleswig.internal.md) 
+### [Schleswig.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Schleswig.public.md) 
 
-### [Schleswig.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Schleswig-Flensburg\cities~Schleswig-FlensburgSchleswig.protect.md) 
+### [Schleswig.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Schleswig.internal.md) 
 
-### [Schleswig.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Schleswig-Flensburg\cities~Schleswig-FlensburgSchleswig.private.md) 
+### [Schleswig.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Schleswig.protect.md) 
 
-### [Schleswig.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Schleswig-Flensburg\cities~Schleswig-FlensburgSchleswig.personal.md) 
+### [Schleswig.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Schleswig.private.md) 
 
-### [Schleswig.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Schleswig-Flensburg\cities~Schleswig-FlensburgSchleswig.secret.md)
+### [Schleswig.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Schleswig.personal.md) 
+
+### [Schleswig.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Schleswig.secret.md)
 

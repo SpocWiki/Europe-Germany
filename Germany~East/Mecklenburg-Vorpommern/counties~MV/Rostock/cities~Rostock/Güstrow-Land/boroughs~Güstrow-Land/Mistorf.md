@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mistorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Güstrow-Land\boroughs~Güstrow-LandMistorf.public.md) 
+### [Mistorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Güstrow-Land/boroughs~Güstrow-Land/Mistorf.md) 
 
-### [Mistorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Güstrow-Land\boroughs~Güstrow-LandMistorf.internal.md) 
+### [Mistorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Güstrow-Land/boroughs~Güstrow-Land/Mistorf.public.md) 
 
-### [Mistorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Güstrow-Land\boroughs~Güstrow-LandMistorf.protect.md) 
+### [Mistorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Güstrow-Land/boroughs~Güstrow-Land/Mistorf.internal.md) 
 
-### [Mistorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Güstrow-Land\boroughs~Güstrow-LandMistorf.private.md) 
+### [Mistorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Güstrow-Land/boroughs~Güstrow-Land/Mistorf.protect.md) 
 
-### [Mistorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Güstrow-Land\boroughs~Güstrow-LandMistorf.personal.md) 
+### [Mistorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Güstrow-Land/boroughs~Güstrow-Land/Mistorf.private.md) 
 
-### [Mistorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Güstrow-Land\boroughs~Güstrow-LandMistorf.secret.md)
+### [Mistorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Güstrow-Land/boroughs~Güstrow-Land/Mistorf.personal.md) 
+
+### [Mistorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Güstrow-Land/boroughs~Güstrow-Land/Mistorf.secret.md)
 

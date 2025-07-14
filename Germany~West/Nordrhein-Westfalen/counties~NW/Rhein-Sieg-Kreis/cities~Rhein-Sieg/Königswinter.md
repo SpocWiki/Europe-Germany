@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Königswinter.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-SiegKönigswinter.public.md) 
+### [Königswinter](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Königswinter.md) 
 
-### [Königswinter.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-SiegKönigswinter.internal.md) 
+### [Königswinter.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Königswinter.public.md) 
 
-### [Königswinter.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-SiegKönigswinter.protect.md) 
+### [Königswinter.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Königswinter.internal.md) 
 
-### [Königswinter.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-SiegKönigswinter.private.md) 
+### [Königswinter.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Königswinter.protect.md) 
 
-### [Königswinter.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-SiegKönigswinter.personal.md) 
+### [Königswinter.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Königswinter.private.md) 
 
-### [Königswinter.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-SiegKönigswinter.secret.md)
+### [Königswinter.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Königswinter.personal.md) 
+
+### [Königswinter.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Königswinter.secret.md)
 

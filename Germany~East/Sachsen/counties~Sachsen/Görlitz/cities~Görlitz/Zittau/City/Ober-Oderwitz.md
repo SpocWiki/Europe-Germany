@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ober-Oderwitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Zittau\CityOber-Oderwitz.public.md) 
+### [Ober-Oderwitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Zittau/City/Ober-Oderwitz.md) 
 
-### [Ober-Oderwitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Zittau\CityOber-Oderwitz.internal.md) 
+### [Ober-Oderwitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Zittau/City/Ober-Oderwitz.public.md) 
 
-### [Ober-Oderwitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Zittau\CityOber-Oderwitz.protect.md) 
+### [Ober-Oderwitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Zittau/City/Ober-Oderwitz.internal.md) 
 
-### [Ober-Oderwitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Zittau\CityOber-Oderwitz.private.md) 
+### [Ober-Oderwitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Zittau/City/Ober-Oderwitz.protect.md) 
 
-### [Ober-Oderwitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Zittau\CityOber-Oderwitz.personal.md) 
+### [Ober-Oderwitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Zittau/City/Ober-Oderwitz.private.md) 
 
-### [Ober-Oderwitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Zittau\CityOber-Oderwitz.secret.md)
+### [Ober-Oderwitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Zittau/City/Ober-Oderwitz.personal.md) 
+
+### [Ober-Oderwitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Zittau/City/Ober-Oderwitz.secret.md)
 

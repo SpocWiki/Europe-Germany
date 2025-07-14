@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Werden,Essen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrWerden,Essen.public.md) 
+### [Werden,Essen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Werden,Essen.md) 
 
-### [Werden,Essen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrWerden,Essen.internal.md) 
+### [Werden,Essen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Werden,Essen.public.md) 
 
-### [Werden,Essen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrWerden,Essen.protect.md) 
+### [Werden,Essen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Werden,Essen.internal.md) 
 
-### [Werden,Essen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrWerden,Essen.private.md) 
+### [Werden,Essen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Werden,Essen.protect.md) 
 
-### [Werden,Essen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrWerden,Essen.personal.md) 
+### [Werden,Essen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Werden,Essen.private.md) 
 
-### [Werden,Essen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrWerden,Essen.secret.md)
+### [Werden,Essen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Werden,Essen.personal.md) 
+
+### [Werden,Essen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Werden,Essen.secret.md)
 

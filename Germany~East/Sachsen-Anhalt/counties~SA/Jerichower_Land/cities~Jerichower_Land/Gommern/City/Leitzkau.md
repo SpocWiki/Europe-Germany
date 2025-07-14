@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Leitzkau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_Land\Gommern\CityLeitzkau.public.md) 
+### [Leitzkau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Gommern/City/Leitzkau.md) 
 
-### [Leitzkau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_Land\Gommern\CityLeitzkau.internal.md) 
+### [Leitzkau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Gommern/City/Leitzkau.public.md) 
 
-### [Leitzkau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_Land\Gommern\CityLeitzkau.protect.md) 
+### [Leitzkau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Gommern/City/Leitzkau.internal.md) 
 
-### [Leitzkau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_Land\Gommern\CityLeitzkau.private.md) 
+### [Leitzkau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Gommern/City/Leitzkau.protect.md) 
 
-### [Leitzkau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_Land\Gommern\CityLeitzkau.personal.md) 
+### [Leitzkau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Gommern/City/Leitzkau.private.md) 
 
-### [Leitzkau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_Land\Gommern\CityLeitzkau.secret.md)
+### [Leitzkau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Gommern/City/Leitzkau.personal.md) 
+
+### [Leitzkau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Gommern/City/Leitzkau.secret.md)
 

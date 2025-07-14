@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kreuzau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~DürenKreuzau.public.md) 
+### [Kreuzau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Kreuzau.md) 
 
-### [Kreuzau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~DürenKreuzau.internal.md) 
+### [Kreuzau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Kreuzau.public.md) 
 
-### [Kreuzau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~DürenKreuzau.protect.md) 
+### [Kreuzau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Kreuzau.internal.md) 
 
-### [Kreuzau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~DürenKreuzau.private.md) 
+### [Kreuzau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Kreuzau.protect.md) 
 
-### [Kreuzau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~DürenKreuzau.personal.md) 
+### [Kreuzau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Kreuzau.private.md) 
 
-### [Kreuzau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~DürenKreuzau.secret.md)
+### [Kreuzau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Kreuzau.personal.md) 
+
+### [Kreuzau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Kreuzau.secret.md)
 

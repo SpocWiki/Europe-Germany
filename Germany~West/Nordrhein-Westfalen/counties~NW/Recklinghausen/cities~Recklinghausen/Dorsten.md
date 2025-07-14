@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dorsten.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenDorsten.public.md) 
+### [Dorsten](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Dorsten.md) 
 
-### [Dorsten.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenDorsten.internal.md) 
+### [Dorsten.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Dorsten.public.md) 
 
-### [Dorsten.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenDorsten.protect.md) 
+### [Dorsten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Dorsten.internal.md) 
 
-### [Dorsten.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenDorsten.private.md) 
+### [Dorsten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Dorsten.protect.md) 
 
-### [Dorsten.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenDorsten.personal.md) 
+### [Dorsten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Dorsten.private.md) 
 
-### [Dorsten.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenDorsten.secret.md)
+### [Dorsten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Dorsten.personal.md) 
+
+### [Dorsten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Dorsten.secret.md)
 

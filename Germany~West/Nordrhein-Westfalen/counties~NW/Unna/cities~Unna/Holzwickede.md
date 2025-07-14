@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Holzwickede.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~UnnaHolzwickede.public.md) 
+### [Holzwickede](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Holzwickede.md) 
 
-### [Holzwickede.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~UnnaHolzwickede.internal.md) 
+### [Holzwickede.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Holzwickede.public.md) 
 
-### [Holzwickede.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~UnnaHolzwickede.protect.md) 
+### [Holzwickede.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Holzwickede.internal.md) 
 
-### [Holzwickede.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~UnnaHolzwickede.private.md) 
+### [Holzwickede.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Holzwickede.protect.md) 
 
-### [Holzwickede.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~UnnaHolzwickede.personal.md) 
+### [Holzwickede.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Holzwickede.private.md) 
 
-### [Holzwickede.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~UnnaHolzwickede.secret.md)
+### [Holzwickede.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Holzwickede.personal.md) 
+
+### [Holzwickede.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Holzwickede.secret.md)
 

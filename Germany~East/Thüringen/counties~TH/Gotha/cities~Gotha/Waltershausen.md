@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Waltershausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~GothaWaltershausen.public.md) 
+### [Waltershausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Waltershausen.md) 
 
-### [Waltershausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~GothaWaltershausen.internal.md) 
+### [Waltershausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Waltershausen.public.md) 
 
-### [Waltershausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~GothaWaltershausen.protect.md) 
+### [Waltershausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Waltershausen.internal.md) 
 
-### [Waltershausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~GothaWaltershausen.private.md) 
+### [Waltershausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Waltershausen.protect.md) 
 
-### [Waltershausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~GothaWaltershausen.personal.md) 
+### [Waltershausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Waltershausen.private.md) 
 
-### [Waltershausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~GothaWaltershausen.secret.md)
+### [Waltershausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Waltershausen.personal.md) 
+
+### [Waltershausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Waltershausen.secret.md)
 

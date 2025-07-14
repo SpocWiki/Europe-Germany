@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Muenstereifel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Bad_Münstereifel\CityMuenstereifel.public.md) 
+### [Muenstereifel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Bad_Münstereifel/City/Muenstereifel.md) 
 
-### [Muenstereifel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Bad_Münstereifel\CityMuenstereifel.internal.md) 
+### [Muenstereifel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Bad_Münstereifel/City/Muenstereifel.public.md) 
 
-### [Muenstereifel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Bad_Münstereifel\CityMuenstereifel.protect.md) 
+### [Muenstereifel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Bad_Münstereifel/City/Muenstereifel.internal.md) 
 
-### [Muenstereifel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Bad_Münstereifel\CityMuenstereifel.private.md) 
+### [Muenstereifel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Bad_Münstereifel/City/Muenstereifel.protect.md) 
 
-### [Muenstereifel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Bad_Münstereifel\CityMuenstereifel.personal.md) 
+### [Muenstereifel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Bad_Münstereifel/City/Muenstereifel.private.md) 
 
-### [Muenstereifel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Bad_Münstereifel\CityMuenstereifel.secret.md)
+### [Muenstereifel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Bad_Münstereifel/City/Muenstereifel.personal.md) 
+
+### [Muenstereifel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Bad_Münstereifel/City/Muenstereifel.secret.md)
 

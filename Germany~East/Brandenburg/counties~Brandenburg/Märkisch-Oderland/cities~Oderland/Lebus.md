@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lebus.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~OderlandLebus.public.md) 
+### [Lebus](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Lebus.md) 
 
-### [Lebus.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~OderlandLebus.internal.md) 
+### [Lebus.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Lebus.public.md) 
 
-### [Lebus.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~OderlandLebus.protect.md) 
+### [Lebus.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Lebus.internal.md) 
 
-### [Lebus.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~OderlandLebus.private.md) 
+### [Lebus.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Lebus.protect.md) 
 
-### [Lebus.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~OderlandLebus.personal.md) 
+### [Lebus.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Lebus.private.md) 
 
-### [Lebus.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~OderlandLebus.secret.md)
+### [Lebus.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Lebus.personal.md) 
+
+### [Lebus.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Lebus.secret.md)
 

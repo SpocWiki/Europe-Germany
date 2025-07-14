@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Spornitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Parchim\boroughs~ParchimSpornitz.public.md) 
+### [Spornitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Parchim/boroughs~Parchim/Spornitz.md) 
 
-### [Spornitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Parchim\boroughs~ParchimSpornitz.internal.md) 
+### [Spornitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Parchim/boroughs~Parchim/Spornitz.public.md) 
 
-### [Spornitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Parchim\boroughs~ParchimSpornitz.protect.md) 
+### [Spornitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Parchim/boroughs~Parchim/Spornitz.internal.md) 
 
-### [Spornitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Parchim\boroughs~ParchimSpornitz.private.md) 
+### [Spornitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Parchim/boroughs~Parchim/Spornitz.protect.md) 
 
-### [Spornitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Parchim\boroughs~ParchimSpornitz.personal.md) 
+### [Spornitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Parchim/boroughs~Parchim/Spornitz.private.md) 
 
-### [Spornitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Parchim\boroughs~ParchimSpornitz.secret.md)
+### [Spornitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Parchim/boroughs~Parchim/Spornitz.personal.md) 
+
+### [Spornitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Parchim/boroughs~Parchim/Spornitz.secret.md)
 

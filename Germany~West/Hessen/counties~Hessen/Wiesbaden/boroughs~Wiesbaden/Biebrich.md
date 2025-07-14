@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Biebrich.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenBiebrich.public.md) 
+### [Biebrich](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Biebrich.md) 
 
-### [Biebrich.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenBiebrich.internal.md) 
+### [Biebrich.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Biebrich.public.md) 
 
-### [Biebrich.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenBiebrich.protect.md) 
+### [Biebrich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Biebrich.internal.md) 
 
-### [Biebrich.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenBiebrich.private.md) 
+### [Biebrich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Biebrich.protect.md) 
 
-### [Biebrich.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenBiebrich.personal.md) 
+### [Biebrich.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Biebrich.private.md) 
 
-### [Biebrich.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Wiesbaden\boroughs~WiesbadenBiebrich.secret.md)
+### [Biebrich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Biebrich.personal.md) 
+
+### [Biebrich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Biebrich.secret.md)
 

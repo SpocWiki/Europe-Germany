@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mittel-Wendorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\WismarMittel-Wendorf.public.md) 
+### [Mittel-Wendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Wismar/Mittel-Wendorf.md) 
 
-### [Mittel-Wendorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\WismarMittel-Wendorf.internal.md) 
+### [Mittel-Wendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Wismar/Mittel-Wendorf.public.md) 
 
-### [Mittel-Wendorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\WismarMittel-Wendorf.protect.md) 
+### [Mittel-Wendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Wismar/Mittel-Wendorf.internal.md) 
 
-### [Mittel-Wendorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\WismarMittel-Wendorf.private.md) 
+### [Mittel-Wendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Wismar/Mittel-Wendorf.protect.md) 
 
-### [Mittel-Wendorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\WismarMittel-Wendorf.personal.md) 
+### [Mittel-Wendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Wismar/Mittel-Wendorf.private.md) 
 
-### [Mittel-Wendorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\WismarMittel-Wendorf.secret.md)
+### [Mittel-Wendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Wismar/Mittel-Wendorf.personal.md) 
+
+### [Mittel-Wendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Wismar/Mittel-Wendorf.secret.md)
 

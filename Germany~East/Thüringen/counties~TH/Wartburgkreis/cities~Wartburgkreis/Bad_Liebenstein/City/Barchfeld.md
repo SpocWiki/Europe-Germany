@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Barchfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Bad_Liebenstein\CityBarchfeld.public.md) 
+### [Barchfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Liebenstein/City/Barchfeld.md) 
 
-### [Barchfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Bad_Liebenstein\CityBarchfeld.internal.md) 
+### [Barchfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Liebenstein/City/Barchfeld.public.md) 
 
-### [Barchfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Bad_Liebenstein\CityBarchfeld.protect.md) 
+### [Barchfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Liebenstein/City/Barchfeld.internal.md) 
 
-### [Barchfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Bad_Liebenstein\CityBarchfeld.private.md) 
+### [Barchfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Liebenstein/City/Barchfeld.protect.md) 
 
-### [Barchfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Bad_Liebenstein\CityBarchfeld.personal.md) 
+### [Barchfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Liebenstein/City/Barchfeld.private.md) 
 
-### [Barchfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Bad_Liebenstein\CityBarchfeld.secret.md)
+### [Barchfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Liebenstein/City/Barchfeld.personal.md) 
+
+### [Barchfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Liebenstein/City/Barchfeld.secret.md)
 

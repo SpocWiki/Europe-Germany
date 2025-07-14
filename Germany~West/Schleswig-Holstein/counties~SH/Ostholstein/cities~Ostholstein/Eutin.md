@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eutin.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinEutin.public.md) 
+### [Eutin](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Eutin.md) 
 
-### [Eutin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinEutin.internal.md) 
+### [Eutin.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Eutin.public.md) 
 
-### [Eutin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinEutin.protect.md) 
+### [Eutin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Eutin.internal.md) 
 
-### [Eutin.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinEutin.private.md) 
+### [Eutin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Eutin.protect.md) 
 
-### [Eutin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinEutin.personal.md) 
+### [Eutin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Eutin.private.md) 
 
-### [Eutin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinEutin.secret.md)
+### [Eutin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Eutin.personal.md) 
+
+### [Eutin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Eutin.secret.md)
 

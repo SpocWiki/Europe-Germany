@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Strehla.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~MeißenStrehla.public.md) 
+### [Strehla](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Strehla.md) 
 
-### [Strehla.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~MeißenStrehla.internal.md) 
+### [Strehla.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Strehla.public.md) 
 
-### [Strehla.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~MeißenStrehla.protect.md) 
+### [Strehla.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Strehla.internal.md) 
 
-### [Strehla.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~MeißenStrehla.private.md) 
+### [Strehla.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Strehla.protect.md) 
 
-### [Strehla.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~MeißenStrehla.personal.md) 
+### [Strehla.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Strehla.private.md) 
 
-### [Strehla.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~MeißenStrehla.secret.md)
+### [Strehla.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Strehla.personal.md) 
+
+### [Strehla.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Strehla.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Luetzen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Burgenlandkreis\cities~Burgenland\Lützen\CityLuetzen.public.md) 
+### [Luetzen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Lützen/City/Luetzen.md) 
 
-### [Luetzen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Burgenlandkreis\cities~Burgenland\Lützen\CityLuetzen.internal.md) 
+### [Luetzen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Lützen/City/Luetzen.public.md) 
 
-### [Luetzen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Burgenlandkreis\cities~Burgenland\Lützen\CityLuetzen.protect.md) 
+### [Luetzen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Lützen/City/Luetzen.internal.md) 
 
-### [Luetzen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Burgenlandkreis\cities~Burgenland\Lützen\CityLuetzen.private.md) 
+### [Luetzen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Lützen/City/Luetzen.protect.md) 
 
-### [Luetzen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Burgenlandkreis\cities~Burgenland\Lützen\CityLuetzen.personal.md) 
+### [Luetzen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Lützen/City/Luetzen.private.md) 
 
-### [Luetzen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Burgenlandkreis\cities~Burgenland\Lützen\CityLuetzen.secret.md)
+### [Luetzen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Lützen/City/Luetzen.personal.md) 
+
+### [Luetzen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Lützen/City/Luetzen.secret.md)
 

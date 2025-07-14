@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Geraberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Geratal\CityGeraberg.public.md) 
+### [Geraberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Geratal/City/Geraberg.md) 
 
-### [Geraberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Geratal\CityGeraberg.internal.md) 
+### [Geraberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Geratal/City/Geraberg.public.md) 
 
-### [Geraberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Geratal\CityGeraberg.protect.md) 
+### [Geraberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Geratal/City/Geraberg.internal.md) 
 
-### [Geraberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Geratal\CityGeraberg.private.md) 
+### [Geraberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Geratal/City/Geraberg.protect.md) 
 
-### [Geraberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Geratal\CityGeraberg.personal.md) 
+### [Geraberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Geratal/City/Geraberg.private.md) 
 
-### [Geraberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Geratal\CityGeraberg.secret.md)
+### [Geraberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Geratal/City/Geraberg.personal.md) 
+
+### [Geraberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Geratal/City/Geraberg.secret.md)
 

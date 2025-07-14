@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bensheim.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Bergstraße\cities~BergstraßeBensheim.public.md) 
+### [Bensheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Bensheim.md) 
 
-### [Bensheim.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Bergstraße\cities~BergstraßeBensheim.internal.md) 
+### [Bensheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Bensheim.public.md) 
 
-### [Bensheim.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Bergstraße\cities~BergstraßeBensheim.protect.md) 
+### [Bensheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Bensheim.internal.md) 
 
-### [Bensheim.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Bergstraße\cities~BergstraßeBensheim.private.md) 
+### [Bensheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Bensheim.protect.md) 
 
-### [Bensheim.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Bergstraße\cities~BergstraßeBensheim.personal.md) 
+### [Bensheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Bensheim.private.md) 
 
-### [Bensheim.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Bergstraße\cities~BergstraßeBensheim.secret.md)
+### [Bensheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Bensheim.personal.md) 
+
+### [Bensheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Bensheim.secret.md)
 

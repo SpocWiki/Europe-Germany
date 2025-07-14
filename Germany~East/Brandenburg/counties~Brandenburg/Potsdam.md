@@ -38,15 +38,17 @@ Schlösser und Parks von Potsdam und Berlin (1990)
 
 ## Confidential Links & Embeds: 
 
-### [Potsdam.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~BrandenburgPotsdam.public.md) 
+### [Potsdam](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam.md) 
 
-### [Potsdam.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~BrandenburgPotsdam.internal.md) 
+### [Potsdam.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam.public.md) 
 
-### [Potsdam.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~BrandenburgPotsdam.protect.md) 
+### [Potsdam.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam.internal.md) 
 
-### [Potsdam.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~BrandenburgPotsdam.private.md) 
+### [Potsdam.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam.protect.md) 
 
-### [Potsdam.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~BrandenburgPotsdam.personal.md) 
+### [Potsdam.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam.private.md) 
 
-### [Potsdam.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~BrandenburgPotsdam.secret.md)
+### [Potsdam.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam.personal.md) 
+
+### [Potsdam.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam.secret.md)
 

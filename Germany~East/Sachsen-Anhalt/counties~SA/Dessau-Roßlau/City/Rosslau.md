@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rosslau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Dessau-Roßlau\CityRosslau.public.md) 
+### [Rosslau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Rosslau.md) 
 
-### [Rosslau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Dessau-Roßlau\CityRosslau.internal.md) 
+### [Rosslau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Rosslau.public.md) 
 
-### [Rosslau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Dessau-Roßlau\CityRosslau.protect.md) 
+### [Rosslau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Rosslau.internal.md) 
 
-### [Rosslau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Dessau-Roßlau\CityRosslau.private.md) 
+### [Rosslau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Rosslau.protect.md) 
 
-### [Rosslau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Dessau-Roßlau\CityRosslau.personal.md) 
+### [Rosslau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Rosslau.private.md) 
 
-### [Rosslau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Dessau-Roßlau\CityRosslau.secret.md)
+### [Rosslau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Rosslau.personal.md) 
+
+### [Rosslau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Rosslau.secret.md)
 

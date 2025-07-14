@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Geesthacht.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgGeesthacht.public.md) 
+### [Geesthacht](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Geesthacht.md) 
 
-### [Geesthacht.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgGeesthacht.internal.md) 
+### [Geesthacht.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Geesthacht.public.md) 
 
-### [Geesthacht.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgGeesthacht.protect.md) 
+### [Geesthacht.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Geesthacht.internal.md) 
 
-### [Geesthacht.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgGeesthacht.private.md) 
+### [Geesthacht.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Geesthacht.protect.md) 
 
-### [Geesthacht.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgGeesthacht.personal.md) 
+### [Geesthacht.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Geesthacht.private.md) 
 
-### [Geesthacht.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgGeesthacht.secret.md)
+### [Geesthacht.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Geesthacht.personal.md) 
+
+### [Geesthacht.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Geesthacht.secret.md)
 

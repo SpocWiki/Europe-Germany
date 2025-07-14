@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Heyrode.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Vogtei\CityHeyrode.public.md) 
+### [Heyrode](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Vogtei/City/Heyrode.md) 
 
-### [Heyrode.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Vogtei\CityHeyrode.internal.md) 
+### [Heyrode.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Vogtei/City/Heyrode.public.md) 
 
-### [Heyrode.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Vogtei\CityHeyrode.protect.md) 
+### [Heyrode.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Vogtei/City/Heyrode.internal.md) 
 
-### [Heyrode.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Vogtei\CityHeyrode.private.md) 
+### [Heyrode.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Vogtei/City/Heyrode.protect.md) 
 
-### [Heyrode.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Vogtei\CityHeyrode.personal.md) 
+### [Heyrode.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Vogtei/City/Heyrode.private.md) 
 
-### [Heyrode.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Vogtei\CityHeyrode.secret.md)
+### [Heyrode.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Vogtei/City/Heyrode.personal.md) 
+
+### [Heyrode.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Vogtei/City/Heyrode.secret.md)
 

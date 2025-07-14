@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bad_Pyrmont.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hameln-Pyrmont\cities~Hameln-PyrmontBad_Pyrmont.public.md) 
+### [Bad_Pyrmont](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Bad_Pyrmont.md) 
 
-### [Bad_Pyrmont.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hameln-Pyrmont\cities~Hameln-PyrmontBad_Pyrmont.internal.md) 
+### [Bad_Pyrmont.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Bad_Pyrmont.public.md) 
 
-### [Bad_Pyrmont.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hameln-Pyrmont\cities~Hameln-PyrmontBad_Pyrmont.protect.md) 
+### [Bad_Pyrmont.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Bad_Pyrmont.internal.md) 
 
-### [Bad_Pyrmont.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hameln-Pyrmont\cities~Hameln-PyrmontBad_Pyrmont.private.md) 
+### [Bad_Pyrmont.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Bad_Pyrmont.protect.md) 
 
-### [Bad_Pyrmont.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hameln-Pyrmont\cities~Hameln-PyrmontBad_Pyrmont.personal.md) 
+### [Bad_Pyrmont.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Bad_Pyrmont.private.md) 
 
-### [Bad_Pyrmont.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hameln-Pyrmont\cities~Hameln-PyrmontBad_Pyrmont.secret.md)
+### [Bad_Pyrmont.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Bad_Pyrmont.personal.md) 
+
+### [Bad_Pyrmont.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Bad_Pyrmont.secret.md)
 

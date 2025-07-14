@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Liebenstein.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Bad_Liebenstein\CityLiebenstein.public.md) 
+### [Liebenstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Liebenstein/City/Liebenstein.md) 
 
-### [Liebenstein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Bad_Liebenstein\CityLiebenstein.internal.md) 
+### [Liebenstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Liebenstein/City/Liebenstein.public.md) 
 
-### [Liebenstein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Bad_Liebenstein\CityLiebenstein.protect.md) 
+### [Liebenstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Liebenstein/City/Liebenstein.internal.md) 
 
-### [Liebenstein.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Bad_Liebenstein\CityLiebenstein.private.md) 
+### [Liebenstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Liebenstein/City/Liebenstein.protect.md) 
 
-### [Liebenstein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Bad_Liebenstein\CityLiebenstein.personal.md) 
+### [Liebenstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Liebenstein/City/Liebenstein.private.md) 
 
-### [Liebenstein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Wartburgkreis\cities~Wartburgkreis\Bad_Liebenstein\CityLiebenstein.secret.md)
+### [Liebenstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Liebenstein/City/Liebenstein.personal.md) 
+
+### [Liebenstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Liebenstein/City/Liebenstein.secret.md)
 

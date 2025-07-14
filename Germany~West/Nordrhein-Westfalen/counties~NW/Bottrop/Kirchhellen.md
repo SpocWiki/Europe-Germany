@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kirchhellen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BottropKirchhellen.public.md) 
+### [Kirchhellen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bottrop/Kirchhellen.md) 
 
-### [Kirchhellen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BottropKirchhellen.internal.md) 
+### [Kirchhellen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bottrop/Kirchhellen.public.md) 
 
-### [Kirchhellen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BottropKirchhellen.protect.md) 
+### [Kirchhellen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bottrop/Kirchhellen.internal.md) 
 
-### [Kirchhellen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BottropKirchhellen.private.md) 
+### [Kirchhellen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bottrop/Kirchhellen.protect.md) 
 
-### [Kirchhellen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BottropKirchhellen.personal.md) 
+### [Kirchhellen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bottrop/Kirchhellen.private.md) 
 
-### [Kirchhellen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BottropKirchhellen.secret.md)
+### [Kirchhellen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bottrop/Kirchhellen.personal.md) 
+
+### [Kirchhellen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bottrop/Kirchhellen.secret.md)
 

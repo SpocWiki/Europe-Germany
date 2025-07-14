@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stadtoldendorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Holzminden\cities~Holzminden\Eschershausen-Stadtoldendorf\boroughs~StadtoldendfStadtoldendorf.public.md) 
+### [Stadtoldendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Eschershausen-Stadtoldendorf/boroughs~Stadtoldendf/Stadtoldendorf.md) 
 
-### [Stadtoldendorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Holzminden\cities~Holzminden\Eschershausen-Stadtoldendorf\boroughs~StadtoldendfStadtoldendorf.internal.md) 
+### [Stadtoldendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Eschershausen-Stadtoldendorf/boroughs~Stadtoldendf/Stadtoldendorf.public.md) 
 
-### [Stadtoldendorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Holzminden\cities~Holzminden\Eschershausen-Stadtoldendorf\boroughs~StadtoldendfStadtoldendorf.protect.md) 
+### [Stadtoldendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Eschershausen-Stadtoldendorf/boroughs~Stadtoldendf/Stadtoldendorf.internal.md) 
 
-### [Stadtoldendorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Holzminden\cities~Holzminden\Eschershausen-Stadtoldendorf\boroughs~StadtoldendfStadtoldendorf.private.md) 
+### [Stadtoldendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Eschershausen-Stadtoldendorf/boroughs~Stadtoldendf/Stadtoldendorf.protect.md) 
 
-### [Stadtoldendorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Holzminden\cities~Holzminden\Eschershausen-Stadtoldendorf\boroughs~StadtoldendfStadtoldendorf.personal.md) 
+### [Stadtoldendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Eschershausen-Stadtoldendorf/boroughs~Stadtoldendf/Stadtoldendorf.private.md) 
 
-### [Stadtoldendorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Holzminden\cities~Holzminden\Eschershausen-Stadtoldendorf\boroughs~StadtoldendfStadtoldendorf.secret.md)
+### [Stadtoldendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Eschershausen-Stadtoldendorf/boroughs~Stadtoldendf/Stadtoldendorf.personal.md) 
+
+### [Stadtoldendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Eschershausen-Stadtoldendorf/boroughs~Stadtoldendf/Stadtoldendorf.secret.md)
 

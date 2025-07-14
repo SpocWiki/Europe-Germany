@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dudweiler.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Region~Saarbrücken\cities~Saarbrücken\SaarbrückenDudweiler.public.md) 
+### [Dudweiler](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Saarbrücken/Dudweiler.md) 
 
-### [Dudweiler.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Region~Saarbrücken\cities~Saarbrücken\SaarbrückenDudweiler.internal.md) 
+### [Dudweiler.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Saarbrücken/Dudweiler.public.md) 
 
-### [Dudweiler.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Region~Saarbrücken\cities~Saarbrücken\SaarbrückenDudweiler.protect.md) 
+### [Dudweiler.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Saarbrücken/Dudweiler.internal.md) 
 
-### [Dudweiler.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Region~Saarbrücken\cities~Saarbrücken\SaarbrückenDudweiler.private.md) 
+### [Dudweiler.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Saarbrücken/Dudweiler.protect.md) 
 
-### [Dudweiler.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Region~Saarbrücken\cities~Saarbrücken\SaarbrückenDudweiler.personal.md) 
+### [Dudweiler.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Saarbrücken/Dudweiler.private.md) 
 
-### [Dudweiler.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Region~Saarbrücken\cities~Saarbrücken\SaarbrückenDudweiler.secret.md)
+### [Dudweiler.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Saarbrücken/Dudweiler.personal.md) 
+
+### [Dudweiler.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Saarbrücken/Dudweiler.secret.md)
 

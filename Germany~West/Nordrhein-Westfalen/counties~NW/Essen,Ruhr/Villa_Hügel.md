@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Villa_Hügel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrVilla_Hügel.public.md) 
+### [Villa_Hügel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Villa_Hügel.md) 
 
-### [Villa_Hügel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrVilla_Hügel.internal.md) 
+### [Villa_Hügel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Villa_Hügel.public.md) 
 
-### [Villa_Hügel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrVilla_Hügel.protect.md) 
+### [Villa_Hügel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Villa_Hügel.internal.md) 
 
-### [Villa_Hügel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrVilla_Hügel.private.md) 
+### [Villa_Hügel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Villa_Hügel.protect.md) 
 
-### [Villa_Hügel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrVilla_Hügel.personal.md) 
+### [Villa_Hügel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Villa_Hügel.private.md) 
 
-### [Villa_Hügel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrVilla_Hügel.secret.md)
+### [Villa_Hügel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Villa_Hügel.personal.md) 
+
+### [Villa_Hügel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Villa_Hügel.secret.md)
 

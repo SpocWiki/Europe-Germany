@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Langenselbold.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-KinzigLangenselbold.public.md) 
+### [Langenselbold](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Langenselbold.md) 
 
-### [Langenselbold.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-KinzigLangenselbold.internal.md) 
+### [Langenselbold.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Langenselbold.public.md) 
 
-### [Langenselbold.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-KinzigLangenselbold.protect.md) 
+### [Langenselbold.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Langenselbold.internal.md) 
 
-### [Langenselbold.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-KinzigLangenselbold.private.md) 
+### [Langenselbold.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Langenselbold.protect.md) 
 
-### [Langenselbold.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-KinzigLangenselbold.personal.md) 
+### [Langenselbold.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Langenselbold.private.md) 
 
-### [Langenselbold.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Main-Kinzig-Kreis\cities~Main-KinzigLangenselbold.secret.md)
+### [Langenselbold.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Langenselbold.personal.md) 
+
+### [Langenselbold.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Langenselbold.secret.md)
 

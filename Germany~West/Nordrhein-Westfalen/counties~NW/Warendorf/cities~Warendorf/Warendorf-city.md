@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Warendorf-city.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfWarendorf-city.public.md) 
+### [Warendorf-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Warendorf-city.md) 
 
-### [Warendorf-city.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfWarendorf-city.internal.md) 
+### [Warendorf-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Warendorf-city.public.md) 
 
-### [Warendorf-city.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfWarendorf-city.protect.md) 
+### [Warendorf-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Warendorf-city.internal.md) 
 
-### [Warendorf-city.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfWarendorf-city.private.md) 
+### [Warendorf-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Warendorf-city.protect.md) 
 
-### [Warendorf-city.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfWarendorf-city.personal.md) 
+### [Warendorf-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Warendorf-city.private.md) 
 
-### [Warendorf-city.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Warendorf\cities~WarendorfWarendorf-city.secret.md)
+### [Warendorf-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Warendorf-city.personal.md) 
+
+### [Warendorf-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Warendorf/cities~Warendorf/Warendorf-city.secret.md)
 

@@ -48,15 +48,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hitzacker~Elbe.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüchow-Dannenberg\cities~Lüchow-Dannenberg\Elbtalaue\boroughs~ElbtalaueHitzacker~Elbe.public.md) 
+### [Hitzacker~Elbe](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.md) 
 
-### [Hitzacker~Elbe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüchow-Dannenberg\cities~Lüchow-Dannenberg\Elbtalaue\boroughs~ElbtalaueHitzacker~Elbe.internal.md) 
+### [Hitzacker~Elbe.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.public.md) 
 
-### [Hitzacker~Elbe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüchow-Dannenberg\cities~Lüchow-Dannenberg\Elbtalaue\boroughs~ElbtalaueHitzacker~Elbe.protect.md) 
+### [Hitzacker~Elbe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.internal.md) 
 
-### [Hitzacker~Elbe.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüchow-Dannenberg\cities~Lüchow-Dannenberg\Elbtalaue\boroughs~ElbtalaueHitzacker~Elbe.private.md) 
+### [Hitzacker~Elbe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.protect.md) 
 
-### [Hitzacker~Elbe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüchow-Dannenberg\cities~Lüchow-Dannenberg\Elbtalaue\boroughs~ElbtalaueHitzacker~Elbe.personal.md) 
+### [Hitzacker~Elbe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.private.md) 
 
-### [Hitzacker~Elbe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüchow-Dannenberg\cities~Lüchow-Dannenberg\Elbtalaue\boroughs~ElbtalaueHitzacker~Elbe.secret.md)
+### [Hitzacker~Elbe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.personal.md) 
+
+### [Hitzacker~Elbe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.secret.md)
 

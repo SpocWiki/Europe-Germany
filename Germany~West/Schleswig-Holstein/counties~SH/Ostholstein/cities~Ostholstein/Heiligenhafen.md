@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Heiligenhafen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinHeiligenhafen.public.md) 
+### [Heiligenhafen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Heiligenhafen.md) 
 
-### [Heiligenhafen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinHeiligenhafen.internal.md) 
+### [Heiligenhafen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Heiligenhafen.public.md) 
 
-### [Heiligenhafen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinHeiligenhafen.protect.md) 
+### [Heiligenhafen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Heiligenhafen.internal.md) 
 
-### [Heiligenhafen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinHeiligenhafen.private.md) 
+### [Heiligenhafen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Heiligenhafen.protect.md) 
 
-### [Heiligenhafen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinHeiligenhafen.personal.md) 
+### [Heiligenhafen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Heiligenhafen.private.md) 
 
-### [Heiligenhafen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinHeiligenhafen.secret.md)
+### [Heiligenhafen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Heiligenhafen.personal.md) 
+
+### [Heiligenhafen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Heiligenhafen.secret.md)
 

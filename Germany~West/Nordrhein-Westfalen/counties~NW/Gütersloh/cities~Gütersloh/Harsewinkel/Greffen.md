@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Greffen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~Gütersloh\HarsewinkelGreffen.public.md) 
+### [Greffen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.md) 
 
-### [Greffen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~Gütersloh\HarsewinkelGreffen.internal.md) 
+### [Greffen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.public.md) 
 
-### [Greffen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~Gütersloh\HarsewinkelGreffen.protect.md) 
+### [Greffen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.internal.md) 
 
-### [Greffen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~Gütersloh\HarsewinkelGreffen.private.md) 
+### [Greffen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.protect.md) 
 
-### [Greffen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~Gütersloh\HarsewinkelGreffen.personal.md) 
+### [Greffen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.private.md) 
 
-### [Greffen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~Gütersloh\HarsewinkelGreffen.secret.md)
+### [Greffen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.personal.md) 
+
+### [Greffen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.secret.md)
 

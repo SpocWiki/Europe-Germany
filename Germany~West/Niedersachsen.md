@@ -231,15 +231,17 @@ Capital ::  [[Niedersachsen/counties~Niedersachsen/RegionHannover/cities~RegionH
 
 ## Confidential Links & Embeds: 
 
-### [Niedersachsen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestNiedersachsen.public.md) 
+### [Niedersachsen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.md) 
 
-### [Niedersachsen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestNiedersachsen.internal.md) 
+### [Niedersachsen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.public.md) 
 
-### [Niedersachsen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestNiedersachsen.protect.md) 
+### [Niedersachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.internal.md) 
 
-### [Niedersachsen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestNiedersachsen.private.md) 
+### [Niedersachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.protect.md) 
 
-### [Niedersachsen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestNiedersachsen.personal.md) 
+### [Niedersachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.private.md) 
 
-### [Niedersachsen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestNiedersachsen.secret.md)
+### [Niedersachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.personal.md) 
+
+### [Niedersachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.secret.md)
 

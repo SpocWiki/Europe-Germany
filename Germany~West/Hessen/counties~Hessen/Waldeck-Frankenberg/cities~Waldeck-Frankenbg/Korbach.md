@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Korbach.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-FrankenbgKorbach.public.md) 
+### [Korbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Korbach.md) 
 
-### [Korbach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-FrankenbgKorbach.internal.md) 
+### [Korbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Korbach.public.md) 
 
-### [Korbach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-FrankenbgKorbach.protect.md) 
+### [Korbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Korbach.internal.md) 
 
-### [Korbach.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-FrankenbgKorbach.private.md) 
+### [Korbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Korbach.protect.md) 
 
-### [Korbach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-FrankenbgKorbach.personal.md) 
+### [Korbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Korbach.private.md) 
 
-### [Korbach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-FrankenbgKorbach.secret.md)
+### [Korbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Korbach.personal.md) 
+
+### [Korbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Korbach.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wolgast.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Am_Peenestrom\boroughs~PeenestromWolgast.public.md) 
+### [Wolgast](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Am_Peenestrom/boroughs~Peenestrom/Wolgast.md) 
 
-### [Wolgast.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Am_Peenestrom\boroughs~PeenestromWolgast.internal.md) 
+### [Wolgast.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Am_Peenestrom/boroughs~Peenestrom/Wolgast.public.md) 
 
-### [Wolgast.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Am_Peenestrom\boroughs~PeenestromWolgast.protect.md) 
+### [Wolgast.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Am_Peenestrom/boroughs~Peenestrom/Wolgast.internal.md) 
 
-### [Wolgast.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Am_Peenestrom\boroughs~PeenestromWolgast.private.md) 
+### [Wolgast.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Am_Peenestrom/boroughs~Peenestrom/Wolgast.protect.md) 
 
-### [Wolgast.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Am_Peenestrom\boroughs~PeenestromWolgast.personal.md) 
+### [Wolgast.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Am_Peenestrom/boroughs~Peenestrom/Wolgast.private.md) 
 
-### [Wolgast.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Am_Peenestrom\boroughs~PeenestromWolgast.secret.md)
+### [Wolgast.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Am_Peenestrom/boroughs~Peenestrom/Wolgast.personal.md) 
+
+### [Wolgast.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Am_Peenestrom/boroughs~Peenestrom/Wolgast.secret.md)
 

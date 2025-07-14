@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Haste.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Nenndorf\boroughs~NenndorfHaste.public.md) 
+### [Haste](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Nenndorf/boroughs~Nenndorf/Haste.md) 
 
-### [Haste.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Nenndorf\boroughs~NenndorfHaste.internal.md) 
+### [Haste.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Nenndorf/boroughs~Nenndorf/Haste.public.md) 
 
-### [Haste.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Nenndorf\boroughs~NenndorfHaste.protect.md) 
+### [Haste.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Nenndorf/boroughs~Nenndorf/Haste.internal.md) 
 
-### [Haste.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Nenndorf\boroughs~NenndorfHaste.private.md) 
+### [Haste.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Nenndorf/boroughs~Nenndorf/Haste.protect.md) 
 
-### [Haste.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Nenndorf\boroughs~NenndorfHaste.personal.md) 
+### [Haste.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Nenndorf/boroughs~Nenndorf/Haste.private.md) 
 
-### [Haste.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Nenndorf\boroughs~NenndorfHaste.secret.md)
+### [Haste.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Nenndorf/boroughs~Nenndorf/Haste.personal.md) 
+
+### [Haste.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Nenndorf/boroughs~Nenndorf/Haste.secret.md)
 

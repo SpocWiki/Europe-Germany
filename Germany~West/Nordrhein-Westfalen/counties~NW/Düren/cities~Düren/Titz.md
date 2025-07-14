@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Titz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~DürenTitz.public.md) 
+### [Titz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Titz.md) 
 
-### [Titz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~DürenTitz.internal.md) 
+### [Titz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Titz.public.md) 
 
-### [Titz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~DürenTitz.protect.md) 
+### [Titz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Titz.internal.md) 
 
-### [Titz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~DürenTitz.private.md) 
+### [Titz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Titz.protect.md) 
 
-### [Titz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~DürenTitz.personal.md) 
+### [Titz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Titz.private.md) 
 
-### [Titz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~DürenTitz.secret.md)
+### [Titz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Titz.personal.md) 
+
+### [Titz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Titz.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Horn-Bad_Meinberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~LippeHorn-Bad_Meinberg.public.md) 
+### [Horn-Bad_Meinberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Horn-Bad_Meinberg.md) 
 
-### [Horn-Bad_Meinberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~LippeHorn-Bad_Meinberg.internal.md) 
+### [Horn-Bad_Meinberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Horn-Bad_Meinberg.public.md) 
 
-### [Horn-Bad_Meinberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~LippeHorn-Bad_Meinberg.protect.md) 
+### [Horn-Bad_Meinberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Horn-Bad_Meinberg.internal.md) 
 
-### [Horn-Bad_Meinberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~LippeHorn-Bad_Meinberg.private.md) 
+### [Horn-Bad_Meinberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Horn-Bad_Meinberg.protect.md) 
 
-### [Horn-Bad_Meinberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~LippeHorn-Bad_Meinberg.personal.md) 
+### [Horn-Bad_Meinberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Horn-Bad_Meinberg.private.md) 
 
-### [Horn-Bad_Meinberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Lippe\cities~LippeHorn-Bad_Meinberg.secret.md)
+### [Horn-Bad_Meinberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Horn-Bad_Meinberg.personal.md) 
+
+### [Horn-Bad_Meinberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Horn-Bad_Meinberg.secret.md)
 

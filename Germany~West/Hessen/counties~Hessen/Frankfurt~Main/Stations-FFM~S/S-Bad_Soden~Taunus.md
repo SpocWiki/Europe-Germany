@@ -30,15 +30,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [S-Bad_Soden~Taunus.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Bad_Soden~Taunus.public.md) 
+### [S-Bad_Soden~Taunus](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Bad_Soden~Taunus.md) 
 
-### [S-Bad_Soden~Taunus.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Bad_Soden~Taunus.internal.md) 
+### [S-Bad_Soden~Taunus.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Bad_Soden~Taunus.public.md) 
 
-### [S-Bad_Soden~Taunus.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Bad_Soden~Taunus.protect.md) 
+### [S-Bad_Soden~Taunus.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Bad_Soden~Taunus.internal.md) 
 
-### [S-Bad_Soden~Taunus.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Bad_Soden~Taunus.private.md) 
+### [S-Bad_Soden~Taunus.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Bad_Soden~Taunus.protect.md) 
 
-### [S-Bad_Soden~Taunus.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Bad_Soden~Taunus.personal.md) 
+### [S-Bad_Soden~Taunus.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Bad_Soden~Taunus.private.md) 
 
-### [S-Bad_Soden~Taunus.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Bad_Soden~Taunus.secret.md)
+### [S-Bad_Soden~Taunus.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Bad_Soden~Taunus.personal.md) 
+
+### [S-Bad_Soden~Taunus.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Bad_Soden~Taunus.secret.md)
 

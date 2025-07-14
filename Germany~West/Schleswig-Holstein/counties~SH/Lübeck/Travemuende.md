@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Travemuende.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\LübeckTravemuende.public.md) 
+### [Travemuende](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck/Travemuende.md) 
 
-### [Travemuende.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\LübeckTravemuende.internal.md) 
+### [Travemuende.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck/Travemuende.public.md) 
 
-### [Travemuende.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\LübeckTravemuende.protect.md) 
+### [Travemuende.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck/Travemuende.internal.md) 
 
-### [Travemuende.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\LübeckTravemuende.private.md) 
+### [Travemuende.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck/Travemuende.protect.md) 
 
-### [Travemuende.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\LübeckTravemuende.personal.md) 
+### [Travemuende.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck/Travemuende.private.md) 
 
-### [Travemuende.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\LübeckTravemuende.secret.md)
+### [Travemuende.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck/Travemuende.personal.md) 
+
+### [Travemuende.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck/Travemuende.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neinstedt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Thale\CityNeinstedt.public.md) 
+### [Neinstedt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Thale/City/Neinstedt.md) 
 
-### [Neinstedt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Thale\CityNeinstedt.internal.md) 
+### [Neinstedt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Thale/City/Neinstedt.public.md) 
 
-### [Neinstedt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Thale\CityNeinstedt.protect.md) 
+### [Neinstedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Thale/City/Neinstedt.internal.md) 
 
-### [Neinstedt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Thale\CityNeinstedt.private.md) 
+### [Neinstedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Thale/City/Neinstedt.protect.md) 
 
-### [Neinstedt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Thale\CityNeinstedt.personal.md) 
+### [Neinstedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Thale/City/Neinstedt.private.md) 
 
-### [Neinstedt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Thale\CityNeinstedt.secret.md)
+### [Neinstedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Thale/City/Neinstedt.personal.md) 
+
+### [Neinstedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Thale/City/Neinstedt.secret.md)
 

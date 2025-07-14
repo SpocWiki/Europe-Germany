@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vinzelberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Stendal-cityVinzelberg.public.md) 
+### [Vinzelberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Stendal-city/Vinzelberg.md) 
 
-### [Vinzelberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Stendal-cityVinzelberg.internal.md) 
+### [Vinzelberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Stendal-city/Vinzelberg.public.md) 
 
-### [Vinzelberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Stendal-cityVinzelberg.protect.md) 
+### [Vinzelberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Stendal-city/Vinzelberg.internal.md) 
 
-### [Vinzelberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Stendal-cityVinzelberg.private.md) 
+### [Vinzelberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Stendal-city/Vinzelberg.protect.md) 
 
-### [Vinzelberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Stendal-cityVinzelberg.personal.md) 
+### [Vinzelberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Stendal-city/Vinzelberg.private.md) 
 
-### [Vinzelberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Stendal-cityVinzelberg.secret.md)
+### [Vinzelberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Stendal-city/Vinzelberg.personal.md) 
+
+### [Vinzelberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Stendal-city/Vinzelberg.secret.md)
 

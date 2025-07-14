@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grossenmeer.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Ovelgönne\boroughs~OvelgönneGrossenmeer.public.md) 
+### [Grossenmeer](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Ovelgönne/boroughs~Ovelgönne/Grossenmeer.md) 
 
-### [Grossenmeer.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Ovelgönne\boroughs~OvelgönneGrossenmeer.internal.md) 
+### [Grossenmeer.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Ovelgönne/boroughs~Ovelgönne/Grossenmeer.public.md) 
 
-### [Grossenmeer.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Ovelgönne\boroughs~OvelgönneGrossenmeer.protect.md) 
+### [Grossenmeer.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Ovelgönne/boroughs~Ovelgönne/Grossenmeer.internal.md) 
 
-### [Grossenmeer.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Ovelgönne\boroughs~OvelgönneGrossenmeer.private.md) 
+### [Grossenmeer.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Ovelgönne/boroughs~Ovelgönne/Grossenmeer.protect.md) 
 
-### [Grossenmeer.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Ovelgönne\boroughs~OvelgönneGrossenmeer.personal.md) 
+### [Grossenmeer.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Ovelgönne/boroughs~Ovelgönne/Grossenmeer.private.md) 
 
-### [Grossenmeer.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Ovelgönne\boroughs~OvelgönneGrossenmeer.secret.md)
+### [Grossenmeer.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Ovelgönne/boroughs~Ovelgönne/Grossenmeer.personal.md) 
+
+### [Grossenmeer.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Ovelgönne/boroughs~Ovelgönne/Grossenmeer.secret.md)
 

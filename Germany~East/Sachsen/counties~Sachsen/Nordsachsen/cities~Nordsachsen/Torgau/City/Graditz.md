@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Graditz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Torgau\CityGraditz.public.md) 
+### [Graditz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Torgau/City/Graditz.md) 
 
-### [Graditz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Torgau\CityGraditz.internal.md) 
+### [Graditz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Torgau/City/Graditz.public.md) 
 
-### [Graditz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Torgau\CityGraditz.protect.md) 
+### [Graditz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Torgau/City/Graditz.internal.md) 
 
-### [Graditz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Torgau\CityGraditz.private.md) 
+### [Graditz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Torgau/City/Graditz.protect.md) 
 
-### [Graditz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Torgau\CityGraditz.personal.md) 
+### [Graditz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Torgau/City/Graditz.private.md) 
 
-### [Graditz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Torgau\CityGraditz.secret.md)
+### [Graditz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Torgau/City/Graditz.personal.md) 
+
+### [Graditz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Torgau/City/Graditz.secret.md)
 

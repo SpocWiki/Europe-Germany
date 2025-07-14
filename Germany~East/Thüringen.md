@@ -205,15 +205,17 @@ Capital :: [[Erfurt]] ]
 
 ## Confidential Links & Embeds: 
 
-### [Thüringen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastThüringen.public.md) 
+### [Thüringen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.md) 
 
-### [Thüringen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastThüringen.internal.md) 
+### [Thüringen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.public.md) 
 
-### [Thüringen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastThüringen.protect.md) 
+### [Thüringen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.internal.md) 
 
-### [Thüringen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastThüringen.private.md) 
+### [Thüringen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.protect.md) 
 
-### [Thüringen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastThüringen.personal.md) 
+### [Thüringen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.private.md) 
 
-### [Thüringen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastThüringen.secret.md)
+### [Thüringen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.personal.md) 
+
+### [Thüringen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.secret.md)
 

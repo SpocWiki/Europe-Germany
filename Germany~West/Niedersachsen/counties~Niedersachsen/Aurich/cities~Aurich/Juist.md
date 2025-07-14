@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Juist.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~AurichJuist.public.md) 
+### [Juist](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Juist.md) 
 
-### [Juist.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~AurichJuist.internal.md) 
+### [Juist.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Juist.public.md) 
 
-### [Juist.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~AurichJuist.protect.md) 
+### [Juist.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Juist.internal.md) 
 
-### [Juist.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~AurichJuist.private.md) 
+### [Juist.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Juist.protect.md) 
 
-### [Juist.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~AurichJuist.personal.md) 
+### [Juist.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Juist.private.md) 
 
-### [Juist.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~AurichJuist.secret.md)
+### [Juist.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Juist.personal.md) 
+
+### [Juist.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Juist.secret.md)
 

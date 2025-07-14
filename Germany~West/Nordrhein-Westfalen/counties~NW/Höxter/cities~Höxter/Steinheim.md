@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Steinheim.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~HöxterSteinheim.public.md) 
+### [Steinheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Steinheim.md) 
 
-### [Steinheim.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~HöxterSteinheim.internal.md) 
+### [Steinheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Steinheim.public.md) 
 
-### [Steinheim.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~HöxterSteinheim.protect.md) 
+### [Steinheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Steinheim.internal.md) 
 
-### [Steinheim.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~HöxterSteinheim.private.md) 
+### [Steinheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Steinheim.protect.md) 
 
-### [Steinheim.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~HöxterSteinheim.personal.md) 
+### [Steinheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Steinheim.private.md) 
 
-### [Steinheim.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~HöxterSteinheim.secret.md)
+### [Steinheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Steinheim.personal.md) 
+
+### [Steinheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Steinheim.secret.md)
 

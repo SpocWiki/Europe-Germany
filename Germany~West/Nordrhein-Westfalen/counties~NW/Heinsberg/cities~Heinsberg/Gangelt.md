@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gangelt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~HeinsbergGangelt.public.md) 
+### [Gangelt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Gangelt.md) 
 
-### [Gangelt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~HeinsbergGangelt.internal.md) 
+### [Gangelt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Gangelt.public.md) 
 
-### [Gangelt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~HeinsbergGangelt.protect.md) 
+### [Gangelt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Gangelt.internal.md) 
 
-### [Gangelt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~HeinsbergGangelt.private.md) 
+### [Gangelt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Gangelt.protect.md) 
 
-### [Gangelt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~HeinsbergGangelt.personal.md) 
+### [Gangelt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Gangelt.private.md) 
 
-### [Gangelt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~HeinsbergGangelt.secret.md)
+### [Gangelt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Gangelt.personal.md) 
+
+### [Gangelt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Gangelt.secret.md)
 

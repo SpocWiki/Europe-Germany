@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Radevormwald.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_KreisRadevormwald.public.md) 
+### [Radevormwald](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Radevormwald.md) 
 
-### [Radevormwald.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_KreisRadevormwald.internal.md) 
+### [Radevormwald.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Radevormwald.public.md) 
 
-### [Radevormwald.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_KreisRadevormwald.protect.md) 
+### [Radevormwald.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Radevormwald.internal.md) 
 
-### [Radevormwald.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_KreisRadevormwald.private.md) 
+### [Radevormwald.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Radevormwald.protect.md) 
 
-### [Radevormwald.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_KreisRadevormwald.personal.md) 
+### [Radevormwald.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Radevormwald.private.md) 
 
-### [Radevormwald.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_KreisRadevormwald.secret.md)
+### [Radevormwald.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Radevormwald.personal.md) 
+
+### [Radevormwald.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Radevormwald.secret.md)
 

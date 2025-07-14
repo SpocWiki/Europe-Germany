@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Doveren.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~Heinsberg\HückelhovenDoveren.public.md) 
+### [Doveren](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Hückelhoven/Doveren.md) 
 
-### [Doveren.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~Heinsberg\HückelhovenDoveren.internal.md) 
+### [Doveren.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Hückelhoven/Doveren.public.md) 
 
-### [Doveren.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~Heinsberg\HückelhovenDoveren.protect.md) 
+### [Doveren.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Hückelhoven/Doveren.internal.md) 
 
-### [Doveren.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~Heinsberg\HückelhovenDoveren.private.md) 
+### [Doveren.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Hückelhoven/Doveren.protect.md) 
 
-### [Doveren.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~Heinsberg\HückelhovenDoveren.personal.md) 
+### [Doveren.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Hückelhoven/Doveren.private.md) 
 
-### [Doveren.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~Heinsberg\HückelhovenDoveren.secret.md)
+### [Doveren.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Hückelhoven/Doveren.personal.md) 
+
+### [Doveren.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Hückelhoven/Doveren.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gehlsdorf,Rostock.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Rostock-CityGehlsdorf,Rostock.public.md) 
+### [Gehlsdorf,Rostock](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Rostock-City/Gehlsdorf,Rostock.md) 
 
-### [Gehlsdorf,Rostock.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Rostock-CityGehlsdorf,Rostock.internal.md) 
+### [Gehlsdorf,Rostock.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Rostock-City/Gehlsdorf,Rostock.public.md) 
 
-### [Gehlsdorf,Rostock.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Rostock-CityGehlsdorf,Rostock.protect.md) 
+### [Gehlsdorf,Rostock.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Rostock-City/Gehlsdorf,Rostock.internal.md) 
 
-### [Gehlsdorf,Rostock.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Rostock-CityGehlsdorf,Rostock.private.md) 
+### [Gehlsdorf,Rostock.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Rostock-City/Gehlsdorf,Rostock.protect.md) 
 
-### [Gehlsdorf,Rostock.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Rostock-CityGehlsdorf,Rostock.personal.md) 
+### [Gehlsdorf,Rostock.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Rostock-City/Gehlsdorf,Rostock.private.md) 
 
-### [Gehlsdorf,Rostock.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Rostock-CityGehlsdorf,Rostock.secret.md)
+### [Gehlsdorf,Rostock.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Rostock-City/Gehlsdorf,Rostock.personal.md) 
+
+### [Gehlsdorf,Rostock.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Rostock-City/Gehlsdorf,Rostock.secret.md)
 

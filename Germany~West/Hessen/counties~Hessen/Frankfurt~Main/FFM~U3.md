@@ -75,15 +75,17 @@ markerFolder: ./Station/
 
 ## Confidential Links & Embeds: 
 
-### [FFM~U3.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~U3.public.md) 
+### [FFM~U3](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~U3.md) 
 
-### [FFM~U3.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~U3.internal.md) 
+### [FFM~U3.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~U3.public.md) 
 
-### [FFM~U3.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~U3.protect.md) 
+### [FFM~U3.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~U3.internal.md) 
 
-### [FFM~U3.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~U3.private.md) 
+### [FFM~U3.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~U3.protect.md) 
 
-### [FFM~U3.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~U3.personal.md) 
+### [FFM~U3.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~U3.private.md) 
 
-### [FFM~U3.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~MainFFM~U3.secret.md)
+### [FFM~U3.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~U3.personal.md) 
+
+### [FFM~U3.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~U3.secret.md)
 

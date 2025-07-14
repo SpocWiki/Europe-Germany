@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~Central\GermanyLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~Central\GermanyLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~Central\GermanyLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~Central\GermanyLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~Central\GermanyLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~Central\GermanyLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/License.secret.md)
 

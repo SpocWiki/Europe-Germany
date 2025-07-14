@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Erkner.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-SpreeErkner.public.md) 
+### [Erkner](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Erkner.md) 
 
-### [Erkner.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-SpreeErkner.internal.md) 
+### [Erkner.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Erkner.public.md) 
 
-### [Erkner.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-SpreeErkner.protect.md) 
+### [Erkner.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Erkner.internal.md) 
 
-### [Erkner.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-SpreeErkner.private.md) 
+### [Erkner.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Erkner.protect.md) 
 
-### [Erkner.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-SpreeErkner.personal.md) 
+### [Erkner.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Erkner.private.md) 
 
-### [Erkner.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-SpreeErkner.secret.md)
+### [Erkner.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Erkner.personal.md) 
+
+### [Erkner.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Erkner.secret.md)
 

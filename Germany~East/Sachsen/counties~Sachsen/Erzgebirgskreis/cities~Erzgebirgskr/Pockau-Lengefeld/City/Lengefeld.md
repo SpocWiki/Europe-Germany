@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lengefeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Pockau-Lengefeld\CityLengefeld.public.md) 
+### [Lengefeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Pockau-Lengefeld/City/Lengefeld.md) 
 
-### [Lengefeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Pockau-Lengefeld\CityLengefeld.internal.md) 
+### [Lengefeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Pockau-Lengefeld/City/Lengefeld.public.md) 
 
-### [Lengefeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Pockau-Lengefeld\CityLengefeld.protect.md) 
+### [Lengefeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Pockau-Lengefeld/City/Lengefeld.internal.md) 
 
-### [Lengefeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Pockau-Lengefeld\CityLengefeld.private.md) 
+### [Lengefeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Pockau-Lengefeld/City/Lengefeld.protect.md) 
 
-### [Lengefeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Pockau-Lengefeld\CityLengefeld.personal.md) 
+### [Lengefeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Pockau-Lengefeld/City/Lengefeld.private.md) 
 
-### [Lengefeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Pockau-Lengefeld\CityLengefeld.secret.md)
+### [Lengefeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Pockau-Lengefeld/City/Lengefeld.personal.md) 
+
+### [Lengefeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Pockau-Lengefeld/City/Lengefeld.secret.md)
 

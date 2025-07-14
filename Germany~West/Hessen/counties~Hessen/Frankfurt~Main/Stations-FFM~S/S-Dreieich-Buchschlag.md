@@ -30,15 +30,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [S-Dreieich-Buchschlag.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Dreieich-Buchschlag.public.md) 
+### [S-Dreieich-Buchschlag](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Dreieich-Buchschlag.md) 
 
-### [S-Dreieich-Buchschlag.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Dreieich-Buchschlag.internal.md) 
+### [S-Dreieich-Buchschlag.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Dreieich-Buchschlag.public.md) 
 
-### [S-Dreieich-Buchschlag.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Dreieich-Buchschlag.protect.md) 
+### [S-Dreieich-Buchschlag.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Dreieich-Buchschlag.internal.md) 
 
-### [S-Dreieich-Buchschlag.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Dreieich-Buchschlag.private.md) 
+### [S-Dreieich-Buchschlag.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Dreieich-Buchschlag.protect.md) 
 
-### [S-Dreieich-Buchschlag.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Dreieich-Buchschlag.personal.md) 
+### [S-Dreieich-Buchschlag.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Dreieich-Buchschlag.private.md) 
 
-### [S-Dreieich-Buchschlag.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Dreieich-Buchschlag.secret.md)
+### [S-Dreieich-Buchschlag.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Dreieich-Buchschlag.personal.md) 
+
+### [S-Dreieich-Buchschlag.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Dreieich-Buchschlag.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Parchim-city.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Parchim\boroughs~ParchimParchim-city.public.md) 
+### [Parchim-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Parchim/boroughs~Parchim/Parchim-city.md) 
 
-### [Parchim-city.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Parchim\boroughs~ParchimParchim-city.internal.md) 
+### [Parchim-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Parchim/boroughs~Parchim/Parchim-city.public.md) 
 
-### [Parchim-city.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Parchim\boroughs~ParchimParchim-city.protect.md) 
+### [Parchim-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Parchim/boroughs~Parchim/Parchim-city.internal.md) 
 
-### [Parchim-city.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Parchim\boroughs~ParchimParchim-city.private.md) 
+### [Parchim-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Parchim/boroughs~Parchim/Parchim-city.protect.md) 
 
-### [Parchim-city.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Parchim\boroughs~ParchimParchim-city.personal.md) 
+### [Parchim-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Parchim/boroughs~Parchim/Parchim-city.private.md) 
 
-### [Parchim-city.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Parchim\boroughs~ParchimParchim-city.secret.md)
+### [Parchim-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Parchim/boroughs~Parchim/Parchim-city.personal.md) 
+
+### [Parchim-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Parchim/boroughs~Parchim/Parchim-city.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wanne-Eickel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\HerneWanne-Eickel.public.md) 
+### [Wanne-Eickel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herne/Wanne-Eickel.md) 
 
-### [Wanne-Eickel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\HerneWanne-Eickel.internal.md) 
+### [Wanne-Eickel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herne/Wanne-Eickel.public.md) 
 
-### [Wanne-Eickel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\HerneWanne-Eickel.protect.md) 
+### [Wanne-Eickel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herne/Wanne-Eickel.internal.md) 
 
-### [Wanne-Eickel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\HerneWanne-Eickel.private.md) 
+### [Wanne-Eickel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herne/Wanne-Eickel.protect.md) 
 
-### [Wanne-Eickel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\HerneWanne-Eickel.personal.md) 
+### [Wanne-Eickel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herne/Wanne-Eickel.private.md) 
 
-### [Wanne-Eickel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\HerneWanne-Eickel.secret.md)
+### [Wanne-Eickel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herne/Wanne-Eickel.personal.md) 
+
+### [Wanne-Eickel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herne/Wanne-Eickel.secret.md)
 

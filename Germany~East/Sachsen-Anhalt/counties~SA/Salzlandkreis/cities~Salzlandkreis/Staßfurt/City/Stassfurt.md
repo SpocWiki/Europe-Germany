@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stassfurt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Staßfurt\CityStassfurt.public.md) 
+### [Stassfurt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Staßfurt/City/Stassfurt.md) 
 
-### [Stassfurt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Staßfurt\CityStassfurt.internal.md) 
+### [Stassfurt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Staßfurt/City/Stassfurt.public.md) 
 
-### [Stassfurt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Staßfurt\CityStassfurt.protect.md) 
+### [Stassfurt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Staßfurt/City/Stassfurt.internal.md) 
 
-### [Stassfurt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Staßfurt\CityStassfurt.private.md) 
+### [Stassfurt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Staßfurt/City/Stassfurt.protect.md) 
 
-### [Stassfurt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Staßfurt\CityStassfurt.personal.md) 
+### [Stassfurt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Staßfurt/City/Stassfurt.private.md) 
 
-### [Stassfurt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Staßfurt\CityStassfurt.secret.md)
+### [Stassfurt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Staßfurt/City/Stassfurt.personal.md) 
+
+### [Stassfurt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Staßfurt/City/Stassfurt.secret.md)
 

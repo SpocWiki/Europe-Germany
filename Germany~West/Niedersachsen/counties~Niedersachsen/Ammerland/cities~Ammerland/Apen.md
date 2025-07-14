@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Apen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~AmmerlandApen.public.md) 
+### [Apen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Apen.md) 
 
-### [Apen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~AmmerlandApen.internal.md) 
+### [Apen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Apen.public.md) 
 
-### [Apen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~AmmerlandApen.protect.md) 
+### [Apen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Apen.internal.md) 
 
-### [Apen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~AmmerlandApen.private.md) 
+### [Apen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Apen.protect.md) 
 
-### [Apen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~AmmerlandApen.personal.md) 
+### [Apen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Apen.private.md) 
 
-### [Apen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~AmmerlandApen.secret.md)
+### [Apen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Apen.personal.md) 
+
+### [Apen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Apen.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kirchhörde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DortmundKirchhörde.public.md) 
+### [Kirchhörde](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Dortmund/Kirchhörde.md) 
 
-### [Kirchhörde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DortmundKirchhörde.internal.md) 
+### [Kirchhörde.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Dortmund/Kirchhörde.public.md) 
 
-### [Kirchhörde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DortmundKirchhörde.protect.md) 
+### [Kirchhörde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Dortmund/Kirchhörde.internal.md) 
 
-### [Kirchhörde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DortmundKirchhörde.private.md) 
+### [Kirchhörde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Dortmund/Kirchhörde.protect.md) 
 
-### [Kirchhörde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DortmundKirchhörde.personal.md) 
+### [Kirchhörde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Dortmund/Kirchhörde.private.md) 
 
-### [Kirchhörde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DortmundKirchhörde.secret.md)
+### [Kirchhörde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Dortmund/Kirchhörde.personal.md) 
+
+### [Kirchhörde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Dortmund/Kirchhörde.secret.md)
 

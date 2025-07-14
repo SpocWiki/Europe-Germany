@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Westerland.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\SyltWesterland.public.md) 
+### [Westerland](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Sylt/Westerland.md) 
 
-### [Westerland.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\SyltWesterland.internal.md) 
+### [Westerland.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Sylt/Westerland.public.md) 
 
-### [Westerland.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\SyltWesterland.protect.md) 
+### [Westerland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Sylt/Westerland.internal.md) 
 
-### [Westerland.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\SyltWesterland.private.md) 
+### [Westerland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Sylt/Westerland.protect.md) 
 
-### [Westerland.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\SyltWesterland.personal.md) 
+### [Westerland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Sylt/Westerland.private.md) 
 
-### [Westerland.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\SyltWesterland.secret.md)
+### [Westerland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Sylt/Westerland.personal.md) 
+
+### [Westerland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Sylt/Westerland.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bad_Bentheim.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Grafschaft_Bentheim\cities~BentheimBad_Bentheim.public.md) 
+### [Bad_Bentheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Bad_Bentheim.md) 
 
-### [Bad_Bentheim.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Grafschaft_Bentheim\cities~BentheimBad_Bentheim.internal.md) 
+### [Bad_Bentheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Bad_Bentheim.public.md) 
 
-### [Bad_Bentheim.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Grafschaft_Bentheim\cities~BentheimBad_Bentheim.protect.md) 
+### [Bad_Bentheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Bad_Bentheim.internal.md) 
 
-### [Bad_Bentheim.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Grafschaft_Bentheim\cities~BentheimBad_Bentheim.private.md) 
+### [Bad_Bentheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Bad_Bentheim.protect.md) 
 
-### [Bad_Bentheim.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Grafschaft_Bentheim\cities~BentheimBad_Bentheim.personal.md) 
+### [Bad_Bentheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Bad_Bentheim.private.md) 
 
-### [Bad_Bentheim.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Grafschaft_Bentheim\cities~BentheimBad_Bentheim.secret.md)
+### [Bad_Bentheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Bad_Bentheim.personal.md) 
+
+### [Bad_Bentheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Bad_Bentheim.secret.md)
 

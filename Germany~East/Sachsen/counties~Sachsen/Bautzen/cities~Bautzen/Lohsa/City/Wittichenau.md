@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wittichenau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Lohsa\CityWittichenau.public.md) 
+### [Wittichenau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Lohsa/City/Wittichenau.md) 
 
-### [Wittichenau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Lohsa\CityWittichenau.internal.md) 
+### [Wittichenau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Lohsa/City/Wittichenau.public.md) 
 
-### [Wittichenau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Lohsa\CityWittichenau.protect.md) 
+### [Wittichenau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Lohsa/City/Wittichenau.internal.md) 
 
-### [Wittichenau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Lohsa\CityWittichenau.private.md) 
+### [Wittichenau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Lohsa/City/Wittichenau.protect.md) 
 
-### [Wittichenau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Lohsa\CityWittichenau.personal.md) 
+### [Wittichenau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Lohsa/City/Wittichenau.private.md) 
 
-### [Wittichenau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Lohsa\CityWittichenau.secret.md)
+### [Wittichenau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Lohsa/City/Wittichenau.personal.md) 
+
+### [Wittichenau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Lohsa/City/Wittichenau.secret.md)
 

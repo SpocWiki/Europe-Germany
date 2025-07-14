@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neustrelitz-Land.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Neustrelitz\boroughs~NeustrelitzNeustrelitz-Land.public.md) 
+### [Neustrelitz-Land](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neustrelitz/boroughs~Neustrelitz/Neustrelitz-Land.md) 
 
-### [Neustrelitz-Land.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Neustrelitz\boroughs~NeustrelitzNeustrelitz-Land.internal.md) 
+### [Neustrelitz-Land.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neustrelitz/boroughs~Neustrelitz/Neustrelitz-Land.public.md) 
 
-### [Neustrelitz-Land.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Neustrelitz\boroughs~NeustrelitzNeustrelitz-Land.protect.md) 
+### [Neustrelitz-Land.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neustrelitz/boroughs~Neustrelitz/Neustrelitz-Land.internal.md) 
 
-### [Neustrelitz-Land.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Neustrelitz\boroughs~NeustrelitzNeustrelitz-Land.private.md) 
+### [Neustrelitz-Land.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neustrelitz/boroughs~Neustrelitz/Neustrelitz-Land.protect.md) 
 
-### [Neustrelitz-Land.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Neustrelitz\boroughs~NeustrelitzNeustrelitz-Land.personal.md) 
+### [Neustrelitz-Land.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neustrelitz/boroughs~Neustrelitz/Neustrelitz-Land.private.md) 
 
-### [Neustrelitz-Land.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Neustrelitz\boroughs~NeustrelitzNeustrelitz-Land.secret.md)
+### [Neustrelitz-Land.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neustrelitz/boroughs~Neustrelitz/Neustrelitz-Land.personal.md) 
+
+### [Neustrelitz-Land.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Neustrelitz/boroughs~Neustrelitz/Neustrelitz-Land.secret.md)
 

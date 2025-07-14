@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Siegburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-SiegSiegburg.public.md) 
+### [Siegburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Siegburg.md) 
 
-### [Siegburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-SiegSiegburg.internal.md) 
+### [Siegburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Siegburg.public.md) 
 
-### [Siegburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-SiegSiegburg.protect.md) 
+### [Siegburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Siegburg.internal.md) 
 
-### [Siegburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-SiegSiegburg.private.md) 
+### [Siegburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Siegburg.protect.md) 
 
-### [Siegburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-SiegSiegburg.personal.md) 
+### [Siegburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Siegburg.private.md) 
 
-### [Siegburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-SiegSiegburg.secret.md)
+### [Siegburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Siegburg.personal.md) 
+
+### [Siegburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Siegburg.secret.md)
 

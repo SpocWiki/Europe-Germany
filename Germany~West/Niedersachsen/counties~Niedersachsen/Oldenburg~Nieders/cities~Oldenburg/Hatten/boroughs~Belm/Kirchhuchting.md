@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kirchhuchting.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~Oldenburg\Hatten\boroughs~BelmKirchhuchting.public.md) 
+### [Kirchhuchting](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hatten/boroughs~Belm/Kirchhuchting.md) 
 
-### [Kirchhuchting.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~Oldenburg\Hatten\boroughs~BelmKirchhuchting.internal.md) 
+### [Kirchhuchting.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hatten/boroughs~Belm/Kirchhuchting.public.md) 
 
-### [Kirchhuchting.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~Oldenburg\Hatten\boroughs~BelmKirchhuchting.protect.md) 
+### [Kirchhuchting.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hatten/boroughs~Belm/Kirchhuchting.internal.md) 
 
-### [Kirchhuchting.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~Oldenburg\Hatten\boroughs~BelmKirchhuchting.private.md) 
+### [Kirchhuchting.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hatten/boroughs~Belm/Kirchhuchting.protect.md) 
 
-### [Kirchhuchting.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~Oldenburg\Hatten\boroughs~BelmKirchhuchting.personal.md) 
+### [Kirchhuchting.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hatten/boroughs~Belm/Kirchhuchting.private.md) 
 
-### [Kirchhuchting.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~Oldenburg\Hatten\boroughs~BelmKirchhuchting.secret.md)
+### [Kirchhuchting.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hatten/boroughs~Belm/Kirchhuchting.personal.md) 
+
+### [Kirchhuchting.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hatten/boroughs~Belm/Kirchhuchting.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Meiningen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Schmalkalden-Meiningen\cities~SchmalkaldenMeiningen.public.md) 
+### [Meiningen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Meiningen.md) 
 
-### [Meiningen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Schmalkalden-Meiningen\cities~SchmalkaldenMeiningen.internal.md) 
+### [Meiningen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Meiningen.public.md) 
 
-### [Meiningen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Schmalkalden-Meiningen\cities~SchmalkaldenMeiningen.protect.md) 
+### [Meiningen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Meiningen.internal.md) 
 
-### [Meiningen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Schmalkalden-Meiningen\cities~SchmalkaldenMeiningen.private.md) 
+### [Meiningen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Meiningen.protect.md) 
 
-### [Meiningen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Schmalkalden-Meiningen\cities~SchmalkaldenMeiningen.personal.md) 
+### [Meiningen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Meiningen.private.md) 
 
-### [Meiningen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Schmalkalden-Meiningen\cities~SchmalkaldenMeiningen.secret.md)
+### [Meiningen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Meiningen.personal.md) 
+
+### [Meiningen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Meiningen.secret.md)
 

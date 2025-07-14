@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Espelkamp.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-LübbeckeEspelkamp.public.md) 
+### [Espelkamp](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Espelkamp.md) 
 
-### [Espelkamp.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-LübbeckeEspelkamp.internal.md) 
+### [Espelkamp.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Espelkamp.public.md) 
 
-### [Espelkamp.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-LübbeckeEspelkamp.protect.md) 
+### [Espelkamp.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Espelkamp.internal.md) 
 
-### [Espelkamp.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-LübbeckeEspelkamp.private.md) 
+### [Espelkamp.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Espelkamp.protect.md) 
 
-### [Espelkamp.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-LübbeckeEspelkamp.personal.md) 
+### [Espelkamp.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Espelkamp.private.md) 
 
-### [Espelkamp.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Minden-Lübbecke\cities~Minden-LübbeckeEspelkamp.secret.md)
+### [Espelkamp.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Espelkamp.personal.md) 
+
+### [Espelkamp.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Minden-Lübbecke/cities~Minden-Lübbecke/Espelkamp.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stoecken.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\WittingenStoecken.public.md) 
+### [Stoecken](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/Stoecken.md) 
 
-### [Stoecken.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\WittingenStoecken.internal.md) 
+### [Stoecken.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/Stoecken.public.md) 
 
-### [Stoecken.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\WittingenStoecken.protect.md) 
+### [Stoecken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/Stoecken.internal.md) 
 
-### [Stoecken.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\WittingenStoecken.private.md) 
+### [Stoecken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/Stoecken.protect.md) 
 
-### [Stoecken.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\WittingenStoecken.personal.md) 
+### [Stoecken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/Stoecken.private.md) 
 
-### [Stoecken.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\WittingenStoecken.secret.md)
+### [Stoecken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/Stoecken.personal.md) 
+
+### [Stoecken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/Stoecken.secret.md)
 

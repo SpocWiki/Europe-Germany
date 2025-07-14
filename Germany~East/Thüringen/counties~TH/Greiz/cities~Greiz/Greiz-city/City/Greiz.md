@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Greiz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Greiz-city\CityGreiz.public.md) 
+### [Greiz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Greiz-city/City/Greiz.md) 
 
-### [Greiz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Greiz-city\CityGreiz.internal.md) 
+### [Greiz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Greiz-city/City/Greiz.public.md) 
 
-### [Greiz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Greiz-city\CityGreiz.protect.md) 
+### [Greiz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Greiz-city/City/Greiz.internal.md) 
 
-### [Greiz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Greiz-city\CityGreiz.private.md) 
+### [Greiz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Greiz-city/City/Greiz.protect.md) 
 
-### [Greiz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Greiz-city\CityGreiz.personal.md) 
+### [Greiz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Greiz-city/City/Greiz.private.md) 
 
-### [Greiz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Greiz-city\CityGreiz.secret.md)
+### [Greiz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Greiz-city/City/Greiz.personal.md) 
+
+### [Greiz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Greiz-city/City/Greiz.secret.md)
 

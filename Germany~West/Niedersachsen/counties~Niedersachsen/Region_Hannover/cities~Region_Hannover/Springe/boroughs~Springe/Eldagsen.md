@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eldagsen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Springe\boroughs~SpringeEldagsen.public.md) 
+### [Eldagsen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Springe/boroughs~Springe/Eldagsen.md) 
 
-### [Eldagsen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Springe\boroughs~SpringeEldagsen.internal.md) 
+### [Eldagsen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Springe/boroughs~Springe/Eldagsen.public.md) 
 
-### [Eldagsen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Springe\boroughs~SpringeEldagsen.protect.md) 
+### [Eldagsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Springe/boroughs~Springe/Eldagsen.internal.md) 
 
-### [Eldagsen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Springe\boroughs~SpringeEldagsen.private.md) 
+### [Eldagsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Springe/boroughs~Springe/Eldagsen.protect.md) 
 
-### [Eldagsen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Springe\boroughs~SpringeEldagsen.personal.md) 
+### [Eldagsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Springe/boroughs~Springe/Eldagsen.private.md) 
 
-### [Eldagsen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Springe\boroughs~SpringeEldagsen.secret.md)
+### [Eldagsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Springe/boroughs~Springe/Eldagsen.personal.md) 
+
+### [Eldagsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Springe/boroughs~Springe/Eldagsen.secret.md)
 

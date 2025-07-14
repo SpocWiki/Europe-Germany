@@ -30,15 +30,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [S-Frankfurt~Main_Mühlberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main_Mühlberg.public.md) 
+### [S-Frankfurt~Main_Mühlberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Mühlberg.md) 
 
-### [S-Frankfurt~Main_Mühlberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main_Mühlberg.internal.md) 
+### [S-Frankfurt~Main_Mühlberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Mühlberg.public.md) 
 
-### [S-Frankfurt~Main_Mühlberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main_Mühlberg.protect.md) 
+### [S-Frankfurt~Main_Mühlberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Mühlberg.internal.md) 
 
-### [S-Frankfurt~Main_Mühlberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main_Mühlberg.private.md) 
+### [S-Frankfurt~Main_Mühlberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Mühlberg.protect.md) 
 
-### [S-Frankfurt~Main_Mühlberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main_Mühlberg.personal.md) 
+### [S-Frankfurt~Main_Mühlberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Mühlberg.private.md) 
 
-### [S-Frankfurt~Main_Mühlberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main_Mühlberg.secret.md)
+### [S-Frankfurt~Main_Mühlberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Mühlberg.personal.md) 
+
+### [S-Frankfurt~Main_Mühlberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Mühlberg.secret.md)
 

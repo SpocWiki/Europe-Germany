@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Köln-Kalk.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln-Kalk.public.md) 
+### [Köln-Kalk](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Kalk.md) 
 
-### [Köln-Kalk.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln-Kalk.internal.md) 
+### [Köln-Kalk.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Kalk.public.md) 
 
-### [Köln-Kalk.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln-Kalk.protect.md) 
+### [Köln-Kalk.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Kalk.internal.md) 
 
-### [Köln-Kalk.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln-Kalk.private.md) 
+### [Köln-Kalk.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Kalk.protect.md) 
 
-### [Köln-Kalk.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln-Kalk.personal.md) 
+### [Köln-Kalk.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Kalk.private.md) 
 
-### [Köln-Kalk.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln-Kalk.secret.md)
+### [Köln-Kalk.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Kalk.personal.md) 
+
+### [Köln-Kalk.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Kalk.secret.md)
 

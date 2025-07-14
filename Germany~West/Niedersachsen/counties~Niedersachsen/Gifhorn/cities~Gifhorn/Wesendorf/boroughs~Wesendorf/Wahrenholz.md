@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wahrenholz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Wesendorf\boroughs~WesendorfWahrenholz.public.md) 
+### [Wahrenholz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wesendorf/boroughs~Wesendorf/Wahrenholz.md) 
 
-### [Wahrenholz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Wesendorf\boroughs~WesendorfWahrenholz.internal.md) 
+### [Wahrenholz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wesendorf/boroughs~Wesendorf/Wahrenholz.public.md) 
 
-### [Wahrenholz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Wesendorf\boroughs~WesendorfWahrenholz.protect.md) 
+### [Wahrenholz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wesendorf/boroughs~Wesendorf/Wahrenholz.internal.md) 
 
-### [Wahrenholz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Wesendorf\boroughs~WesendorfWahrenholz.private.md) 
+### [Wahrenholz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wesendorf/boroughs~Wesendorf/Wahrenholz.protect.md) 
 
-### [Wahrenholz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Wesendorf\boroughs~WesendorfWahrenholz.personal.md) 
+### [Wahrenholz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wesendorf/boroughs~Wesendorf/Wahrenholz.private.md) 
 
-### [Wahrenholz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Wesendorf\boroughs~WesendorfWahrenholz.secret.md)
+### [Wahrenholz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wesendorf/boroughs~Wesendorf/Wahrenholz.personal.md) 
+
+### [Wahrenholz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wesendorf/boroughs~Wesendorf/Wahrenholz.secret.md)
 

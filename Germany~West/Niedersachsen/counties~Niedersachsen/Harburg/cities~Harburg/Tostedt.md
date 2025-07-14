@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tostedt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~HarburgTostedt.public.md) 
+### [Tostedt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Tostedt.md) 
 
-### [Tostedt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~HarburgTostedt.internal.md) 
+### [Tostedt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Tostedt.public.md) 
 
-### [Tostedt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~HarburgTostedt.protect.md) 
+### [Tostedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Tostedt.internal.md) 
 
-### [Tostedt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~HarburgTostedt.private.md) 
+### [Tostedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Tostedt.protect.md) 
 
-### [Tostedt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~HarburgTostedt.personal.md) 
+### [Tostedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Tostedt.private.md) 
 
-### [Tostedt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~HarburgTostedt.secret.md)
+### [Tostedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Tostedt.personal.md) 
+
+### [Tostedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Tostedt.secret.md)
 

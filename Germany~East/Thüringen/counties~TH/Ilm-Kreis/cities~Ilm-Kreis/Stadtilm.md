@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stadtilm.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-KreisStadtilm.public.md) 
+### [Stadtilm](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Stadtilm.md) 
 
-### [Stadtilm.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-KreisStadtilm.internal.md) 
+### [Stadtilm.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Stadtilm.public.md) 
 
-### [Stadtilm.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-KreisStadtilm.protect.md) 
+### [Stadtilm.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Stadtilm.internal.md) 
 
-### [Stadtilm.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-KreisStadtilm.private.md) 
+### [Stadtilm.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Stadtilm.protect.md) 
 
-### [Stadtilm.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-KreisStadtilm.personal.md) 
+### [Stadtilm.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Stadtilm.private.md) 
 
-### [Stadtilm.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-KreisStadtilm.secret.md)
+### [Stadtilm.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Stadtilm.personal.md) 
+
+### [Stadtilm.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Stadtilm.secret.md)
 

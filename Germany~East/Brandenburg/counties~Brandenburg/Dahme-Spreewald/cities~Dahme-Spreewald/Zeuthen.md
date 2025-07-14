@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zeuthen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Dahme-Spreewald\cities~Dahme-SpreewaldZeuthen.public.md) 
+### [Zeuthen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Zeuthen.md) 
 
-### [Zeuthen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Dahme-Spreewald\cities~Dahme-SpreewaldZeuthen.internal.md) 
+### [Zeuthen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Zeuthen.public.md) 
 
-### [Zeuthen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Dahme-Spreewald\cities~Dahme-SpreewaldZeuthen.protect.md) 
+### [Zeuthen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Zeuthen.internal.md) 
 
-### [Zeuthen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Dahme-Spreewald\cities~Dahme-SpreewaldZeuthen.private.md) 
+### [Zeuthen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Zeuthen.protect.md) 
 
-### [Zeuthen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Dahme-Spreewald\cities~Dahme-SpreewaldZeuthen.personal.md) 
+### [Zeuthen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Zeuthen.private.md) 
 
-### [Zeuthen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Dahme-Spreewald\cities~Dahme-SpreewaldZeuthen.secret.md)
+### [Zeuthen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Zeuthen.personal.md) 
+
+### [Zeuthen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Zeuthen.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Klinkum.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~Heinsberg\WegbergKlinkum.public.md) 
+### [Klinkum](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Wegberg/Klinkum.md) 
 
-### [Klinkum.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~Heinsberg\WegbergKlinkum.internal.md) 
+### [Klinkum.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Wegberg/Klinkum.public.md) 
 
-### [Klinkum.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~Heinsberg\WegbergKlinkum.protect.md) 
+### [Klinkum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Wegberg/Klinkum.internal.md) 
 
-### [Klinkum.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~Heinsberg\WegbergKlinkum.private.md) 
+### [Klinkum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Wegberg/Klinkum.protect.md) 
 
-### [Klinkum.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~Heinsberg\WegbergKlinkum.personal.md) 
+### [Klinkum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Wegberg/Klinkum.private.md) 
 
-### [Klinkum.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Heinsberg\cities~Heinsberg\WegbergKlinkum.secret.md)
+### [Klinkum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Wegberg/Klinkum.personal.md) 
+
+### [Klinkum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Heinsberg/cities~Heinsberg/Wegberg/Klinkum.secret.md)
 

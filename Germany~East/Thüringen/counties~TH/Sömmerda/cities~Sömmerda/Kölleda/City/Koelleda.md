@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Koelleda.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sömmerda\cities~Sömmerda\Kölleda\CityKoelleda.public.md) 
+### [Koelleda](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Kölleda/City/Koelleda.md) 
 
-### [Koelleda.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sömmerda\cities~Sömmerda\Kölleda\CityKoelleda.internal.md) 
+### [Koelleda.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Kölleda/City/Koelleda.public.md) 
 
-### [Koelleda.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sömmerda\cities~Sömmerda\Kölleda\CityKoelleda.protect.md) 
+### [Koelleda.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Kölleda/City/Koelleda.internal.md) 
 
-### [Koelleda.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sömmerda\cities~Sömmerda\Kölleda\CityKoelleda.private.md) 
+### [Koelleda.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Kölleda/City/Koelleda.protect.md) 
 
-### [Koelleda.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sömmerda\cities~Sömmerda\Kölleda\CityKoelleda.personal.md) 
+### [Koelleda.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Kölleda/City/Koelleda.private.md) 
 
-### [Koelleda.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sömmerda\cities~Sömmerda\Kölleda\CityKoelleda.secret.md)
+### [Koelleda.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Kölleda/City/Koelleda.personal.md) 
+
+### [Koelleda.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Kölleda/City/Koelleda.secret.md)
 

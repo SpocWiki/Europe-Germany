@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rotthausen,Gelsenkirchen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\GelsenkirchenRotthausen,Gelsenkirchen.public.md) 
+### [Rotthausen,Gelsenkirchen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Rotthausen,Gelsenkirchen.md) 
 
-### [Rotthausen,Gelsenkirchen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\GelsenkirchenRotthausen,Gelsenkirchen.internal.md) 
+### [Rotthausen,Gelsenkirchen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Rotthausen,Gelsenkirchen.public.md) 
 
-### [Rotthausen,Gelsenkirchen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\GelsenkirchenRotthausen,Gelsenkirchen.protect.md) 
+### [Rotthausen,Gelsenkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Rotthausen,Gelsenkirchen.internal.md) 
 
-### [Rotthausen,Gelsenkirchen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\GelsenkirchenRotthausen,Gelsenkirchen.private.md) 
+### [Rotthausen,Gelsenkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Rotthausen,Gelsenkirchen.protect.md) 
 
-### [Rotthausen,Gelsenkirchen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\GelsenkirchenRotthausen,Gelsenkirchen.personal.md) 
+### [Rotthausen,Gelsenkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Rotthausen,Gelsenkirchen.private.md) 
 
-### [Rotthausen,Gelsenkirchen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\GelsenkirchenRotthausen,Gelsenkirchen.secret.md)
+### [Rotthausen,Gelsenkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Rotthausen,Gelsenkirchen.personal.md) 
+
+### [Rotthausen,Gelsenkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Rotthausen,Gelsenkirchen.secret.md)
 

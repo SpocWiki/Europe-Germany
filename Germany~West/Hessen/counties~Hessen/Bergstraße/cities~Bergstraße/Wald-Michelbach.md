@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wald-Michelbach.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Bergstraße\cities~BergstraßeWald-Michelbach.public.md) 
+### [Wald-Michelbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Wald-Michelbach.md) 
 
-### [Wald-Michelbach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Bergstraße\cities~BergstraßeWald-Michelbach.internal.md) 
+### [Wald-Michelbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Wald-Michelbach.public.md) 
 
-### [Wald-Michelbach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Bergstraße\cities~BergstraßeWald-Michelbach.protect.md) 
+### [Wald-Michelbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Wald-Michelbach.internal.md) 
 
-### [Wald-Michelbach.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Bergstraße\cities~BergstraßeWald-Michelbach.private.md) 
+### [Wald-Michelbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Wald-Michelbach.protect.md) 
 
-### [Wald-Michelbach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Bergstraße\cities~BergstraßeWald-Michelbach.personal.md) 
+### [Wald-Michelbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Wald-Michelbach.private.md) 
 
-### [Wald-Michelbach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Bergstraße\cities~BergstraßeWald-Michelbach.secret.md)
+### [Wald-Michelbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Wald-Michelbach.personal.md) 
+
+### [Wald-Michelbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Wald-Michelbach.secret.md)
 

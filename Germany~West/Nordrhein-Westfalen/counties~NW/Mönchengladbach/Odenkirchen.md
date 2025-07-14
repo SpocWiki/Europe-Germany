@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Odenkirchen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\MönchengladbachOdenkirchen.public.md) 
+### [Odenkirchen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mönchengladbach/Odenkirchen.md) 
 
-### [Odenkirchen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\MönchengladbachOdenkirchen.internal.md) 
+### [Odenkirchen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mönchengladbach/Odenkirchen.public.md) 
 
-### [Odenkirchen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\MönchengladbachOdenkirchen.protect.md) 
+### [Odenkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mönchengladbach/Odenkirchen.internal.md) 
 
-### [Odenkirchen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\MönchengladbachOdenkirchen.private.md) 
+### [Odenkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mönchengladbach/Odenkirchen.protect.md) 
 
-### [Odenkirchen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\MönchengladbachOdenkirchen.personal.md) 
+### [Odenkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mönchengladbach/Odenkirchen.private.md) 
 
-### [Odenkirchen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\MönchengladbachOdenkirchen.secret.md)
+### [Odenkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mönchengladbach/Odenkirchen.personal.md) 
+
+### [Odenkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mönchengladbach/Odenkirchen.secret.md)
 

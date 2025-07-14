@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Altenessen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrAltenessen.public.md) 
+### [Altenessen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Altenessen.md) 
 
-### [Altenessen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrAltenessen.internal.md) 
+### [Altenessen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Altenessen.public.md) 
 
-### [Altenessen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrAltenessen.protect.md) 
+### [Altenessen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Altenessen.internal.md) 
 
-### [Altenessen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrAltenessen.private.md) 
+### [Altenessen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Altenessen.protect.md) 
 
-### [Altenessen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrAltenessen.personal.md) 
+### [Altenessen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Altenessen.private.md) 
 
-### [Altenessen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrAltenessen.secret.md)
+### [Altenessen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Altenessen.personal.md) 
+
+### [Altenessen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Altenessen.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eissendorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgEissendorf.public.md) 
+### [Eissendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Eissendorf.md) 
 
-### [Eissendorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgEissendorf.internal.md) 
+### [Eissendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Eissendorf.public.md) 
 
-### [Eissendorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgEissendorf.protect.md) 
+### [Eissendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Eissendorf.internal.md) 
 
-### [Eissendorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgEissendorf.private.md) 
+### [Eissendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Eissendorf.protect.md) 
 
-### [Eissendorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgEissendorf.personal.md) 
+### [Eissendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Eissendorf.private.md) 
 
-### [Eissendorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgEissendorf.secret.md)
+### [Eissendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Eissendorf.personal.md) 
+
+### [Eissendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Eissendorf.secret.md)
 

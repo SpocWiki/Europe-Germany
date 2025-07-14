@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Glaubitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Nünchritz\CityGlaubitz.public.md) 
+### [Glaubitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Nünchritz/City/Glaubitz.md) 
 
-### [Glaubitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Nünchritz\CityGlaubitz.internal.md) 
+### [Glaubitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Nünchritz/City/Glaubitz.public.md) 
 
-### [Glaubitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Nünchritz\CityGlaubitz.protect.md) 
+### [Glaubitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Nünchritz/City/Glaubitz.internal.md) 
 
-### [Glaubitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Nünchritz\CityGlaubitz.private.md) 
+### [Glaubitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Nünchritz/City/Glaubitz.protect.md) 
 
-### [Glaubitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Nünchritz\CityGlaubitz.personal.md) 
+### [Glaubitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Nünchritz/City/Glaubitz.private.md) 
 
-### [Glaubitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Nünchritz\CityGlaubitz.secret.md)
+### [Glaubitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Nünchritz/City/Glaubitz.personal.md) 
+
+### [Glaubitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Nünchritz/City/Glaubitz.secret.md)
 

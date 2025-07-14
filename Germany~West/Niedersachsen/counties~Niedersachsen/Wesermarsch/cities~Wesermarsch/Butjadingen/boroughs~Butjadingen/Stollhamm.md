@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stollhamm.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Butjadingen\boroughs~ButjadingenStollhamm.public.md) 
+### [Stollhamm](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Stollhamm.md) 
 
-### [Stollhamm.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Butjadingen\boroughs~ButjadingenStollhamm.internal.md) 
+### [Stollhamm.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Stollhamm.public.md) 
 
-### [Stollhamm.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Butjadingen\boroughs~ButjadingenStollhamm.protect.md) 
+### [Stollhamm.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Stollhamm.internal.md) 
 
-### [Stollhamm.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Butjadingen\boroughs~ButjadingenStollhamm.private.md) 
+### [Stollhamm.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Stollhamm.protect.md) 
 
-### [Stollhamm.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Butjadingen\boroughs~ButjadingenStollhamm.personal.md) 
+### [Stollhamm.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Stollhamm.private.md) 
 
-### [Stollhamm.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Butjadingen\boroughs~ButjadingenStollhamm.secret.md)
+### [Stollhamm.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Stollhamm.personal.md) 
+
+### [Stollhamm.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Butjadingen/boroughs~Butjadingen/Stollhamm.secret.md)
 

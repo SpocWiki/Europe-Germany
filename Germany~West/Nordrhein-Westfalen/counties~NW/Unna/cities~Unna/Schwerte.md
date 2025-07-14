@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schwerte.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~UnnaSchwerte.public.md) 
+### [Schwerte](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Schwerte.md) 
 
-### [Schwerte.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~UnnaSchwerte.internal.md) 
+### [Schwerte.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Schwerte.public.md) 
 
-### [Schwerte.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~UnnaSchwerte.protect.md) 
+### [Schwerte.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Schwerte.internal.md) 
 
-### [Schwerte.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~UnnaSchwerte.private.md) 
+### [Schwerte.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Schwerte.protect.md) 
 
-### [Schwerte.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~UnnaSchwerte.personal.md) 
+### [Schwerte.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Schwerte.private.md) 
 
-### [Schwerte.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~UnnaSchwerte.secret.md)
+### [Schwerte.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Schwerte.personal.md) 
+
+### [Schwerte.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Schwerte.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Einfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\NeumünsterEinfeld.public.md) 
+### [Einfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Neumünster/Einfeld.md) 
 
-### [Einfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\NeumünsterEinfeld.internal.md) 
+### [Einfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Neumünster/Einfeld.public.md) 
 
-### [Einfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\NeumünsterEinfeld.protect.md) 
+### [Einfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Neumünster/Einfeld.internal.md) 
 
-### [Einfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\NeumünsterEinfeld.private.md) 
+### [Einfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Neumünster/Einfeld.protect.md) 
 
-### [Einfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\NeumünsterEinfeld.personal.md) 
+### [Einfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Neumünster/Einfeld.private.md) 
 
-### [Einfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\NeumünsterEinfeld.secret.md)
+### [Einfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Neumünster/Einfeld.personal.md) 
+
+### [Einfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Neumünster/Einfeld.secret.md)
 

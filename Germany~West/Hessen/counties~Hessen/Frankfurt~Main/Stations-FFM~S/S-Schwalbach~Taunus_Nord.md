@@ -30,15 +30,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [S-Schwalbach~Taunus_Nord.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Schwalbach~Taunus_Nord.public.md) 
+### [S-Schwalbach~Taunus_Nord](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Schwalbach~Taunus_Nord.md) 
 
-### [S-Schwalbach~Taunus_Nord.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Schwalbach~Taunus_Nord.internal.md) 
+### [S-Schwalbach~Taunus_Nord.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Schwalbach~Taunus_Nord.public.md) 
 
-### [S-Schwalbach~Taunus_Nord.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Schwalbach~Taunus_Nord.protect.md) 
+### [S-Schwalbach~Taunus_Nord.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Schwalbach~Taunus_Nord.internal.md) 
 
-### [S-Schwalbach~Taunus_Nord.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Schwalbach~Taunus_Nord.private.md) 
+### [S-Schwalbach~Taunus_Nord.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Schwalbach~Taunus_Nord.protect.md) 
 
-### [S-Schwalbach~Taunus_Nord.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Schwalbach~Taunus_Nord.personal.md) 
+### [S-Schwalbach~Taunus_Nord.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Schwalbach~Taunus_Nord.private.md) 
 
-### [S-Schwalbach~Taunus_Nord.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Schwalbach~Taunus_Nord.secret.md)
+### [S-Schwalbach~Taunus_Nord.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Schwalbach~Taunus_Nord.personal.md) 
+
+### [S-Schwalbach~Taunus_Nord.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Schwalbach~Taunus_Nord.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Glindow.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-Mittelmark\Werder,Havel\boroughs~Werder~HavelGlindow.public.md) 
+### [Glindow](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Werder,Havel/boroughs~Werder~Havel/Glindow.md) 
 
-### [Glindow.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-Mittelmark\Werder,Havel\boroughs~Werder~HavelGlindow.internal.md) 
+### [Glindow.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Werder,Havel/boroughs~Werder~Havel/Glindow.public.md) 
 
-### [Glindow.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-Mittelmark\Werder,Havel\boroughs~Werder~HavelGlindow.protect.md) 
+### [Glindow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Werder,Havel/boroughs~Werder~Havel/Glindow.internal.md) 
 
-### [Glindow.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-Mittelmark\Werder,Havel\boroughs~Werder~HavelGlindow.private.md) 
+### [Glindow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Werder,Havel/boroughs~Werder~Havel/Glindow.protect.md) 
 
-### [Glindow.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-Mittelmark\Werder,Havel\boroughs~Werder~HavelGlindow.personal.md) 
+### [Glindow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Werder,Havel/boroughs~Werder~Havel/Glindow.private.md) 
 
-### [Glindow.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-Mittelmark\Werder,Havel\boroughs~Werder~HavelGlindow.secret.md)
+### [Glindow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Werder,Havel/boroughs~Werder~Havel/Glindow.personal.md) 
+
+### [Glindow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Werder,Havel/boroughs~Werder~Havel/Glindow.secret.md)
 

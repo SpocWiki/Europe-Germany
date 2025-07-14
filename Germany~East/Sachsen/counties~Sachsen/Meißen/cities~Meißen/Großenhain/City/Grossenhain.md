@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grossenhain.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Großenhain\CityGrossenhain.public.md) 
+### [Grossenhain](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Großenhain/City/Grossenhain.md) 
 
-### [Grossenhain.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Großenhain\CityGrossenhain.internal.md) 
+### [Grossenhain.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Großenhain/City/Grossenhain.public.md) 
 
-### [Grossenhain.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Großenhain\CityGrossenhain.protect.md) 
+### [Grossenhain.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Großenhain/City/Grossenhain.internal.md) 
 
-### [Grossenhain.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Großenhain\CityGrossenhain.private.md) 
+### [Grossenhain.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Großenhain/City/Grossenhain.protect.md) 
 
-### [Grossenhain.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Großenhain\CityGrossenhain.personal.md) 
+### [Grossenhain.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Großenhain/City/Grossenhain.private.md) 
 
-### [Grossenhain.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Meißen\cities~Meißen\Großenhain\CityGrossenhain.secret.md)
+### [Grossenhain.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Großenhain/City/Grossenhain.personal.md) 
+
+### [Grossenhain.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Großenhain/City/Grossenhain.secret.md)
 

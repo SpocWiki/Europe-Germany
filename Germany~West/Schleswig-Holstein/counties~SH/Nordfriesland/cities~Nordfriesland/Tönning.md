@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tönning.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~NordfrieslandTönning.public.md) 
+### [Tönning](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Tönning.md) 
 
-### [Tönning.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~NordfrieslandTönning.internal.md) 
+### [Tönning.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Tönning.public.md) 
 
-### [Tönning.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~NordfrieslandTönning.protect.md) 
+### [Tönning.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Tönning.internal.md) 
 
-### [Tönning.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~NordfrieslandTönning.private.md) 
+### [Tönning.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Tönning.protect.md) 
 
-### [Tönning.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~NordfrieslandTönning.personal.md) 
+### [Tönning.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Tönning.private.md) 
 
-### [Tönning.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~NordfrieslandTönning.secret.md)
+### [Tönning.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Tönning.personal.md) 
+
+### [Tönning.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Tönning.secret.md)
 

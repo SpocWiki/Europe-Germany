@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Britz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Barnim\cities~Barnim\Britz-Chorin-Oderberg\boroughs~Britz-Chorin-OderbergBritz.public.md) 
+### [Britz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Britz-Chorin-Oderberg/boroughs~Britz-Chorin-Oderberg/Britz.md) 
 
-### [Britz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Barnim\cities~Barnim\Britz-Chorin-Oderberg\boroughs~Britz-Chorin-OderbergBritz.internal.md) 
+### [Britz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Britz-Chorin-Oderberg/boroughs~Britz-Chorin-Oderberg/Britz.public.md) 
 
-### [Britz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Barnim\cities~Barnim\Britz-Chorin-Oderberg\boroughs~Britz-Chorin-OderbergBritz.protect.md) 
+### [Britz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Britz-Chorin-Oderberg/boroughs~Britz-Chorin-Oderberg/Britz.internal.md) 
 
-### [Britz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Barnim\cities~Barnim\Britz-Chorin-Oderberg\boroughs~Britz-Chorin-OderbergBritz.private.md) 
+### [Britz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Britz-Chorin-Oderberg/boroughs~Britz-Chorin-Oderberg/Britz.protect.md) 
 
-### [Britz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Barnim\cities~Barnim\Britz-Chorin-Oderberg\boroughs~Britz-Chorin-OderbergBritz.personal.md) 
+### [Britz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Britz-Chorin-Oderberg/boroughs~Britz-Chorin-Oderberg/Britz.private.md) 
 
-### [Britz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Barnim\cities~Barnim\Britz-Chorin-Oderberg\boroughs~Britz-Chorin-OderbergBritz.secret.md)
+### [Britz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Britz-Chorin-Oderberg/boroughs~Britz-Chorin-Oderberg/Britz.personal.md) 
+
+### [Britz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Britz-Chorin-Oderberg/boroughs~Britz-Chorin-Oderberg/Britz.secret.md)
 

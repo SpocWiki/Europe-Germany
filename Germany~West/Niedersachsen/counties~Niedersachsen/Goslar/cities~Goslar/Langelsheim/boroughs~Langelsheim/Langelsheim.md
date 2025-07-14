@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Langelsheim.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Goslar\cities~Goslar\Langelsheim\boroughs~LangelsheimLangelsheim.public.md) 
+### [Langelsheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Langelsheim/boroughs~Langelsheim/Langelsheim.md) 
 
-### [Langelsheim.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Goslar\cities~Goslar\Langelsheim\boroughs~LangelsheimLangelsheim.internal.md) 
+### [Langelsheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Langelsheim/boroughs~Langelsheim/Langelsheim.public.md) 
 
-### [Langelsheim.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Goslar\cities~Goslar\Langelsheim\boroughs~LangelsheimLangelsheim.protect.md) 
+### [Langelsheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Langelsheim/boroughs~Langelsheim/Langelsheim.internal.md) 
 
-### [Langelsheim.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Goslar\cities~Goslar\Langelsheim\boroughs~LangelsheimLangelsheim.private.md) 
+### [Langelsheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Langelsheim/boroughs~Langelsheim/Langelsheim.protect.md) 
 
-### [Langelsheim.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Goslar\cities~Goslar\Langelsheim\boroughs~LangelsheimLangelsheim.personal.md) 
+### [Langelsheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Langelsheim/boroughs~Langelsheim/Langelsheim.private.md) 
 
-### [Langelsheim.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Goslar\cities~Goslar\Langelsheim\boroughs~LangelsheimLangelsheim.secret.md)
+### [Langelsheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Langelsheim/boroughs~Langelsheim/Langelsheim.personal.md) 
+
+### [Langelsheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Langelsheim/boroughs~Langelsheim/Langelsheim.secret.md)
 

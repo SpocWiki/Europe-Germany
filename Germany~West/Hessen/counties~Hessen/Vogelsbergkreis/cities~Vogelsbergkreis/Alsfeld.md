@@ -37,15 +37,17 @@ Unbedingt sehenswert ist der Marktplatz mit Weinhaus, Rathaus und dem Turm der W
 
 ## Confidential Links & Embeds: 
 
-### [Alsfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Vogelsbergkreis\cities~VogelsbergkreisAlsfeld.public.md) 
+### [Alsfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Alsfeld.md) 
 
-### [Alsfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Vogelsbergkreis\cities~VogelsbergkreisAlsfeld.internal.md) 
+### [Alsfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Alsfeld.public.md) 
 
-### [Alsfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Vogelsbergkreis\cities~VogelsbergkreisAlsfeld.protect.md) 
+### [Alsfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Alsfeld.internal.md) 
 
-### [Alsfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Vogelsbergkreis\cities~VogelsbergkreisAlsfeld.private.md) 
+### [Alsfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Alsfeld.protect.md) 
 
-### [Alsfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Vogelsbergkreis\cities~VogelsbergkreisAlsfeld.personal.md) 
+### [Alsfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Alsfeld.private.md) 
 
-### [Alsfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Vogelsbergkreis\cities~VogelsbergkreisAlsfeld.secret.md)
+### [Alsfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Alsfeld.personal.md) 
+
+### [Alsfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Alsfeld.secret.md)
 

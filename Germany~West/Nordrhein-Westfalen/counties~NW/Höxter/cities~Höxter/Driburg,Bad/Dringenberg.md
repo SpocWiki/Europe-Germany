@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dringenberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\Driburg,BadDringenberg.public.md) 
+### [Dringenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Driburg,Bad/Dringenberg.md) 
 
-### [Dringenberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\Driburg,BadDringenberg.internal.md) 
+### [Dringenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Driburg,Bad/Dringenberg.public.md) 
 
-### [Dringenberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\Driburg,BadDringenberg.protect.md) 
+### [Dringenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Driburg,Bad/Dringenberg.internal.md) 
 
-### [Dringenberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\Driburg,BadDringenberg.private.md) 
+### [Dringenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Driburg,Bad/Dringenberg.protect.md) 
 
-### [Dringenberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\Driburg,BadDringenberg.personal.md) 
+### [Dringenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Driburg,Bad/Dringenberg.private.md) 
 
-### [Dringenberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\Driburg,BadDringenberg.secret.md)
+### [Dringenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Driburg,Bad/Dringenberg.personal.md) 
+
+### [Dringenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Driburg,Bad/Dringenberg.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Battin.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Annaburg\CityBattin.public.md) 
+### [Battin](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Annaburg/City/Battin.md) 
 
-### [Battin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Annaburg\CityBattin.internal.md) 
+### [Battin.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Annaburg/City/Battin.public.md) 
 
-### [Battin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Annaburg\CityBattin.protect.md) 
+### [Battin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Annaburg/City/Battin.internal.md) 
 
-### [Battin.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Annaburg\CityBattin.private.md) 
+### [Battin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Annaburg/City/Battin.protect.md) 
 
-### [Battin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Annaburg\CityBattin.personal.md) 
+### [Battin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Annaburg/City/Battin.private.md) 
 
-### [Battin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Annaburg\CityBattin.secret.md)
+### [Battin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Annaburg/City/Battin.personal.md) 
+
+### [Battin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Annaburg/City/Battin.secret.md)
 

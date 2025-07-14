@@ -40,15 +40,17 @@ Dom und Michaeliskirche in Hildesheim ([[Unesco]] Welterbe seit  1985)
 
 ## Confidential Links & Embeds: 
 
-### [Hildesheim.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenHildesheim.public.md) 
+### [Hildesheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim.md) 
 
-### [Hildesheim.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenHildesheim.internal.md) 
+### [Hildesheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim.public.md) 
 
-### [Hildesheim.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenHildesheim.protect.md) 
+### [Hildesheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim.internal.md) 
 
-### [Hildesheim.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenHildesheim.private.md) 
+### [Hildesheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim.protect.md) 
 
-### [Hildesheim.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenHildesheim.personal.md) 
+### [Hildesheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim.private.md) 
 
-### [Hildesheim.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenHildesheim.secret.md)
+### [Hildesheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim.personal.md) 
+
+### [Hildesheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim.secret.md)
 

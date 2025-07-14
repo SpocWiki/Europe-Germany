@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schönhagen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Uslar\boroughs~UslarSchönhagen.public.md) 
+### [Schönhagen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Uslar/boroughs~Uslar/Schönhagen.md) 
 
-### [Schönhagen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Uslar\boroughs~UslarSchönhagen.internal.md) 
+### [Schönhagen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Uslar/boroughs~Uslar/Schönhagen.public.md) 
 
-### [Schönhagen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Uslar\boroughs~UslarSchönhagen.protect.md) 
+### [Schönhagen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Uslar/boroughs~Uslar/Schönhagen.internal.md) 
 
-### [Schönhagen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Uslar\boroughs~UslarSchönhagen.private.md) 
+### [Schönhagen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Uslar/boroughs~Uslar/Schönhagen.protect.md) 
 
-### [Schönhagen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Uslar\boroughs~UslarSchönhagen.personal.md) 
+### [Schönhagen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Uslar/boroughs~Uslar/Schönhagen.private.md) 
 
-### [Schönhagen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Uslar\boroughs~UslarSchönhagen.secret.md)
+### [Schönhagen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Uslar/boroughs~Uslar/Schönhagen.personal.md) 
+
+### [Schönhagen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Uslar/boroughs~Uslar/Schönhagen.secret.md)
 

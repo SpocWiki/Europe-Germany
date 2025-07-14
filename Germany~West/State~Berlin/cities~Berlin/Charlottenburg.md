@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Charlottenburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinCharlottenburg.public.md) 
+### [Charlottenburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Charlottenburg.md) 
 
-### [Charlottenburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinCharlottenburg.internal.md) 
+### [Charlottenburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Charlottenburg.public.md) 
 
-### [Charlottenburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinCharlottenburg.protect.md) 
+### [Charlottenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Charlottenburg.internal.md) 
 
-### [Charlottenburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinCharlottenburg.private.md) 
+### [Charlottenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Charlottenburg.protect.md) 
 
-### [Charlottenburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinCharlottenburg.personal.md) 
+### [Charlottenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Charlottenburg.private.md) 
 
-### [Charlottenburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinCharlottenburg.secret.md)
+### [Charlottenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Charlottenburg.personal.md) 
+
+### [Charlottenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Charlottenburg.secret.md)
 

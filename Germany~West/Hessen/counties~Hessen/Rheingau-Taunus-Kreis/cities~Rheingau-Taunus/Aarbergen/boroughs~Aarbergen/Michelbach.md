@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Michelbach.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Rheingau-Taunus-Kreis\cities~Rheingau-Taunus\Aarbergen\boroughs~AarbergenMichelbach.public.md) 
+### [Michelbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Aarbergen/boroughs~Aarbergen/Michelbach.md) 
 
-### [Michelbach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Rheingau-Taunus-Kreis\cities~Rheingau-Taunus\Aarbergen\boroughs~AarbergenMichelbach.internal.md) 
+### [Michelbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Aarbergen/boroughs~Aarbergen/Michelbach.public.md) 
 
-### [Michelbach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Rheingau-Taunus-Kreis\cities~Rheingau-Taunus\Aarbergen\boroughs~AarbergenMichelbach.protect.md) 
+### [Michelbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Aarbergen/boroughs~Aarbergen/Michelbach.internal.md) 
 
-### [Michelbach.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Rheingau-Taunus-Kreis\cities~Rheingau-Taunus\Aarbergen\boroughs~AarbergenMichelbach.private.md) 
+### [Michelbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Aarbergen/boroughs~Aarbergen/Michelbach.protect.md) 
 
-### [Michelbach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Rheingau-Taunus-Kreis\cities~Rheingau-Taunus\Aarbergen\boroughs~AarbergenMichelbach.personal.md) 
+### [Michelbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Aarbergen/boroughs~Aarbergen/Michelbach.private.md) 
 
-### [Michelbach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Rheingau-Taunus-Kreis\cities~Rheingau-Taunus\Aarbergen\boroughs~AarbergenMichelbach.secret.md)
+### [Michelbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Aarbergen/boroughs~Aarbergen/Michelbach.personal.md) 
+
+### [Michelbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Aarbergen/boroughs~Aarbergen/Michelbach.secret.md)
 

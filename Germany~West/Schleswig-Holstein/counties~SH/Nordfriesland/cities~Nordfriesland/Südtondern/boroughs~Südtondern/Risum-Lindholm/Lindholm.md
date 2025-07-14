@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lindholm.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Südtondern\boroughs~Südtondern\Risum-LindholmLindholm.public.md) 
+### [Lindholm](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Südtondern/boroughs~Südtondern/Risum-Lindholm/Lindholm.md) 
 
-### [Lindholm.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Südtondern\boroughs~Südtondern\Risum-LindholmLindholm.internal.md) 
+### [Lindholm.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Südtondern/boroughs~Südtondern/Risum-Lindholm/Lindholm.public.md) 
 
-### [Lindholm.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Südtondern\boroughs~Südtondern\Risum-LindholmLindholm.protect.md) 
+### [Lindholm.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Südtondern/boroughs~Südtondern/Risum-Lindholm/Lindholm.internal.md) 
 
-### [Lindholm.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Südtondern\boroughs~Südtondern\Risum-LindholmLindholm.private.md) 
+### [Lindholm.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Südtondern/boroughs~Südtondern/Risum-Lindholm/Lindholm.protect.md) 
 
-### [Lindholm.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Südtondern\boroughs~Südtondern\Risum-LindholmLindholm.personal.md) 
+### [Lindholm.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Südtondern/boroughs~Südtondern/Risum-Lindholm/Lindholm.private.md) 
 
-### [Lindholm.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~Nordfriesland\Südtondern\boroughs~Südtondern\Risum-LindholmLindholm.secret.md)
+### [Lindholm.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Südtondern/boroughs~Südtondern/Risum-Lindholm/Lindholm.personal.md) 
+
+### [Lindholm.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Südtondern/boroughs~Südtondern/Risum-Lindholm/Lindholm.secret.md)
 

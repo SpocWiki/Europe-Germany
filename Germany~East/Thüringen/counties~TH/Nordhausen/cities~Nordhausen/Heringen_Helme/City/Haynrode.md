@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Haynrode.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Nordhausen\cities~Nordhausen\Heringen_Helme\CityHaynrode.public.md) 
+### [Haynrode](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Nordhausen/cities~Nordhausen/Heringen_Helme/City/Haynrode.md) 
 
-### [Haynrode.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Nordhausen\cities~Nordhausen\Heringen_Helme\CityHaynrode.internal.md) 
+### [Haynrode.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Nordhausen/cities~Nordhausen/Heringen_Helme/City/Haynrode.public.md) 
 
-### [Haynrode.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Nordhausen\cities~Nordhausen\Heringen_Helme\CityHaynrode.protect.md) 
+### [Haynrode.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Nordhausen/cities~Nordhausen/Heringen_Helme/City/Haynrode.internal.md) 
 
-### [Haynrode.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Nordhausen\cities~Nordhausen\Heringen_Helme\CityHaynrode.private.md) 
+### [Haynrode.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Nordhausen/cities~Nordhausen/Heringen_Helme/City/Haynrode.protect.md) 
 
-### [Haynrode.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Nordhausen\cities~Nordhausen\Heringen_Helme\CityHaynrode.personal.md) 
+### [Haynrode.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Nordhausen/cities~Nordhausen/Heringen_Helme/City/Haynrode.private.md) 
 
-### [Haynrode.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Nordhausen\cities~Nordhausen\Heringen_Helme\CityHaynrode.secret.md)
+### [Haynrode.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Nordhausen/cities~Nordhausen/Heringen_Helme/City/Haynrode.personal.md) 
+
+### [Haynrode.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Nordhausen/cities~Nordhausen/Heringen_Helme/City/Haynrode.secret.md)
 

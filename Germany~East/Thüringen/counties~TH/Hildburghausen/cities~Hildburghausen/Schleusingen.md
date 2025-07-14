@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schleusingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~HildburghausenSchleusingen.public.md) 
+### [Schleusingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Schleusingen.md) 
 
-### [Schleusingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~HildburghausenSchleusingen.internal.md) 
+### [Schleusingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Schleusingen.public.md) 
 
-### [Schleusingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~HildburghausenSchleusingen.protect.md) 
+### [Schleusingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Schleusingen.internal.md) 
 
-### [Schleusingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~HildburghausenSchleusingen.private.md) 
+### [Schleusingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Schleusingen.protect.md) 
 
-### [Schleusingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~HildburghausenSchleusingen.personal.md) 
+### [Schleusingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Schleusingen.private.md) 
 
-### [Schleusingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~HildburghausenSchleusingen.secret.md)
+### [Schleusingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Schleusingen.personal.md) 
+
+### [Schleusingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Schleusingen.secret.md)
 

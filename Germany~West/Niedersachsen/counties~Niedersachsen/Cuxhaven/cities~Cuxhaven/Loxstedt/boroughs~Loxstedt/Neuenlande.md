@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neuenlande.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Loxstedt\boroughs~LoxstedtNeuenlande.public.md) 
+### [Neuenlande](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Neuenlande.md) 
 
-### [Neuenlande.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Loxstedt\boroughs~LoxstedtNeuenlande.internal.md) 
+### [Neuenlande.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Neuenlande.public.md) 
 
-### [Neuenlande.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Loxstedt\boroughs~LoxstedtNeuenlande.protect.md) 
+### [Neuenlande.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Neuenlande.internal.md) 
 
-### [Neuenlande.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Loxstedt\boroughs~LoxstedtNeuenlande.private.md) 
+### [Neuenlande.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Neuenlande.protect.md) 
 
-### [Neuenlande.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Loxstedt\boroughs~LoxstedtNeuenlande.personal.md) 
+### [Neuenlande.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Neuenlande.private.md) 
 
-### [Neuenlande.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Loxstedt\boroughs~LoxstedtNeuenlande.secret.md)
+### [Neuenlande.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Neuenlande.personal.md) 
+
+### [Neuenlande.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Neuenlande.secret.md)
 

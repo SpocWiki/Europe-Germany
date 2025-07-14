@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Frankfurt,Oder.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~BrandenburgFrankfurt,Oder.public.md) 
+### [Frankfurt,Oder](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Frankfurt,Oder.md) 
 
-### [Frankfurt,Oder.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~BrandenburgFrankfurt,Oder.internal.md) 
+### [Frankfurt,Oder.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Frankfurt,Oder.public.md) 
 
-### [Frankfurt,Oder.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~BrandenburgFrankfurt,Oder.protect.md) 
+### [Frankfurt,Oder.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Frankfurt,Oder.internal.md) 
 
-### [Frankfurt,Oder.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~BrandenburgFrankfurt,Oder.private.md) 
+### [Frankfurt,Oder.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Frankfurt,Oder.protect.md) 
 
-### [Frankfurt,Oder.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~BrandenburgFrankfurt,Oder.personal.md) 
+### [Frankfurt,Oder.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Frankfurt,Oder.private.md) 
 
-### [Frankfurt,Oder.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~BrandenburgFrankfurt,Oder.secret.md)
+### [Frankfurt,Oder.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Frankfurt,Oder.personal.md) 
+
+### [Frankfurt,Oder.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Frankfurt,Oder.secret.md)
 

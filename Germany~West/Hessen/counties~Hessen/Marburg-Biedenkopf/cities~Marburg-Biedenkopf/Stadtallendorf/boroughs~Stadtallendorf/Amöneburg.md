@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Amöneburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-Biedenkopf\Stadtallendorf\boroughs~StadtallendorfAmöneburg.public.md) 
+### [Amöneburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Stadtallendorf/boroughs~Stadtallendorf/Amöneburg.md) 
 
-### [Amöneburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-Biedenkopf\Stadtallendorf\boroughs~StadtallendorfAmöneburg.internal.md) 
+### [Amöneburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Stadtallendorf/boroughs~Stadtallendorf/Amöneburg.public.md) 
 
-### [Amöneburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-Biedenkopf\Stadtallendorf\boroughs~StadtallendorfAmöneburg.protect.md) 
+### [Amöneburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Stadtallendorf/boroughs~Stadtallendorf/Amöneburg.internal.md) 
 
-### [Amöneburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-Biedenkopf\Stadtallendorf\boroughs~StadtallendorfAmöneburg.private.md) 
+### [Amöneburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Stadtallendorf/boroughs~Stadtallendorf/Amöneburg.protect.md) 
 
-### [Amöneburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-Biedenkopf\Stadtallendorf\boroughs~StadtallendorfAmöneburg.personal.md) 
+### [Amöneburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Stadtallendorf/boroughs~Stadtallendorf/Amöneburg.private.md) 
 
-### [Amöneburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-Biedenkopf\Stadtallendorf\boroughs~StadtallendorfAmöneburg.secret.md)
+### [Amöneburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Stadtallendorf/boroughs~Stadtallendorf/Amöneburg.personal.md) 
+
+### [Amöneburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Stadtallendorf/boroughs~Stadtallendorf/Amöneburg.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Greiffenberg,Angermünde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~Uckermark\AngermündeGreiffenberg,Angermünde.public.md) 
+### [Greiffenberg,Angermünde](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Angermünde/Greiffenberg,Angermünde.md) 
 
-### [Greiffenberg,Angermünde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~Uckermark\AngermündeGreiffenberg,Angermünde.internal.md) 
+### [Greiffenberg,Angermünde.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Angermünde/Greiffenberg,Angermünde.public.md) 
 
-### [Greiffenberg,Angermünde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~Uckermark\AngermündeGreiffenberg,Angermünde.protect.md) 
+### [Greiffenberg,Angermünde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Angermünde/Greiffenberg,Angermünde.internal.md) 
 
-### [Greiffenberg,Angermünde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~Uckermark\AngermündeGreiffenberg,Angermünde.private.md) 
+### [Greiffenberg,Angermünde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Angermünde/Greiffenberg,Angermünde.protect.md) 
 
-### [Greiffenberg,Angermünde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~Uckermark\AngermündeGreiffenberg,Angermünde.personal.md) 
+### [Greiffenberg,Angermünde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Angermünde/Greiffenberg,Angermünde.private.md) 
 
-### [Greiffenberg,Angermünde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~Uckermark\AngermündeGreiffenberg,Angermünde.secret.md)
+### [Greiffenberg,Angermünde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Angermünde/Greiffenberg,Angermünde.personal.md) 
+
+### [Greiffenberg,Angermünde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Angermünde/Greiffenberg,Angermünde.secret.md)
 

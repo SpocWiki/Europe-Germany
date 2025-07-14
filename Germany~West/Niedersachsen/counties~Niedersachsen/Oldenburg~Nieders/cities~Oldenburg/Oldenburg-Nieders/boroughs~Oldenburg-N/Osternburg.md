@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Osternburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~Oldenburg\Oldenburg-Nieders\boroughs~Oldenburg-NOsternburg.public.md) 
+### [Osternburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Oldenburg-Nieders/boroughs~Oldenburg-N/Osternburg.md) 
 
-### [Osternburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~Oldenburg\Oldenburg-Nieders\boroughs~Oldenburg-NOsternburg.internal.md) 
+### [Osternburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Oldenburg-Nieders/boroughs~Oldenburg-N/Osternburg.public.md) 
 
-### [Osternburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~Oldenburg\Oldenburg-Nieders\boroughs~Oldenburg-NOsternburg.protect.md) 
+### [Osternburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Oldenburg-Nieders/boroughs~Oldenburg-N/Osternburg.internal.md) 
 
-### [Osternburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~Oldenburg\Oldenburg-Nieders\boroughs~Oldenburg-NOsternburg.private.md) 
+### [Osternburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Oldenburg-Nieders/boroughs~Oldenburg-N/Osternburg.protect.md) 
 
-### [Osternburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~Oldenburg\Oldenburg-Nieders\boroughs~Oldenburg-NOsternburg.personal.md) 
+### [Osternburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Oldenburg-Nieders/boroughs~Oldenburg-N/Osternburg.private.md) 
 
-### [Osternburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~Oldenburg\Oldenburg-Nieders\boroughs~Oldenburg-NOsternburg.secret.md)
+### [Osternburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Oldenburg-Nieders/boroughs~Oldenburg-N/Osternburg.personal.md) 
+
+### [Osternburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Oldenburg-Nieders/boroughs~Oldenburg-N/Osternburg.secret.md)
 

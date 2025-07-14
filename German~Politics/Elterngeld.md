@@ -16,22 +16,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Elterngeld) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Elterngeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\German~PoliticsElterngeld.public.md) 
+### [Elterngeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Elterngeld.md) 
 
-### [Elterngeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\German~PoliticsElterngeld.internal.md) 
+### [Elterngeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Elterngeld.public.md) 
 
-### [Elterngeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\German~PoliticsElterngeld.protect.md) 
+### [Elterngeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Elterngeld.internal.md) 
 
-### [Elterngeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\German~PoliticsElterngeld.private.md) 
+### [Elterngeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Elterngeld.protect.md) 
 
-### [Elterngeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\German~PoliticsElterngeld.personal.md) 
+### [Elterngeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Elterngeld.private.md) 
 
-### [Elterngeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\German~PoliticsElterngeld.secret.md)
+### [Elterngeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Elterngeld.personal.md) 
+
+### [Elterngeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Elterngeld.secret.md)
 

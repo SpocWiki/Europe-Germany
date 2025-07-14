@@ -16,15 +16,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Eppelborn.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,SaarEppelborn.public.md) 
+### [Eppelborn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Eppelborn.md) 
 
-### [Eppelborn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,SaarEppelborn.internal.md) 
+### [Eppelborn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Eppelborn.public.md) 
 
-### [Eppelborn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,SaarEppelborn.protect.md) 
+### [Eppelborn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Eppelborn.internal.md) 
 
-### [Eppelborn.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,SaarEppelborn.private.md) 
+### [Eppelborn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Eppelborn.protect.md) 
 
-### [Eppelborn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,SaarEppelborn.personal.md) 
+### [Eppelborn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Eppelborn.private.md) 
 
-### [Eppelborn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,SaarEppelborn.secret.md)
+### [Eppelborn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Eppelborn.personal.md) 
+
+### [Eppelborn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Eppelborn.secret.md)
 

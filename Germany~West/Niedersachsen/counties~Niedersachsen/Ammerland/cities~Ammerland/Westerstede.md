@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Westerstede.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~AmmerlandWesterstede.public.md) 
+### [Westerstede](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Westerstede.md) 
 
-### [Westerstede.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~AmmerlandWesterstede.internal.md) 
+### [Westerstede.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Westerstede.public.md) 
 
-### [Westerstede.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~AmmerlandWesterstede.protect.md) 
+### [Westerstede.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Westerstede.internal.md) 
 
-### [Westerstede.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~AmmerlandWesterstede.private.md) 
+### [Westerstede.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Westerstede.protect.md) 
 
-### [Westerstede.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~AmmerlandWesterstede.personal.md) 
+### [Westerstede.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Westerstede.private.md) 
 
-### [Westerstede.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~AmmerlandWesterstede.secret.md)
+### [Westerstede.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Westerstede.personal.md) 
+
+### [Westerstede.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Westerstede.secret.md)
 

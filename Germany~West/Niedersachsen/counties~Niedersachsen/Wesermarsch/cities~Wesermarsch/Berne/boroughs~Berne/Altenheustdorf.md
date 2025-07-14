@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Altenheustdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Berne\boroughs~BerneAltenheustdorf.public.md) 
+### [Altenheustdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Berne/boroughs~Berne/Altenheustdorf.md) 
 
-### [Altenheustdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Berne\boroughs~BerneAltenheustdorf.internal.md) 
+### [Altenheustdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Berne/boroughs~Berne/Altenheustdorf.public.md) 
 
-### [Altenheustdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Berne\boroughs~BerneAltenheustdorf.protect.md) 
+### [Altenheustdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Berne/boroughs~Berne/Altenheustdorf.internal.md) 
 
-### [Altenheustdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Berne\boroughs~BerneAltenheustdorf.private.md) 
+### [Altenheustdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Berne/boroughs~Berne/Altenheustdorf.protect.md) 
 
-### [Altenheustdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Berne\boroughs~BerneAltenheustdorf.personal.md) 
+### [Altenheustdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Berne/boroughs~Berne/Altenheustdorf.private.md) 
 
-### [Altenheustdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Berne\boroughs~BerneAltenheustdorf.secret.md)
+### [Altenheustdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Berne/boroughs~Berne/Altenheustdorf.personal.md) 
+
+### [Altenheustdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Berne/boroughs~Berne/Altenheustdorf.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Herzfelde,Rüdersdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~Oderland\Rüdersdorf,BerlinHerzfelde,Rüdersdorf.public.md) 
+### [Herzfelde,Rüdersdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Rüdersdorf,Berlin/Herzfelde,Rüdersdorf.md) 
 
-### [Herzfelde,Rüdersdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~Oderland\Rüdersdorf,BerlinHerzfelde,Rüdersdorf.internal.md) 
+### [Herzfelde,Rüdersdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Rüdersdorf,Berlin/Herzfelde,Rüdersdorf.public.md) 
 
-### [Herzfelde,Rüdersdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~Oderland\Rüdersdorf,BerlinHerzfelde,Rüdersdorf.protect.md) 
+### [Herzfelde,Rüdersdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Rüdersdorf,Berlin/Herzfelde,Rüdersdorf.internal.md) 
 
-### [Herzfelde,Rüdersdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~Oderland\Rüdersdorf,BerlinHerzfelde,Rüdersdorf.private.md) 
+### [Herzfelde,Rüdersdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Rüdersdorf,Berlin/Herzfelde,Rüdersdorf.protect.md) 
 
-### [Herzfelde,Rüdersdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~Oderland\Rüdersdorf,BerlinHerzfelde,Rüdersdorf.personal.md) 
+### [Herzfelde,Rüdersdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Rüdersdorf,Berlin/Herzfelde,Rüdersdorf.private.md) 
 
-### [Herzfelde,Rüdersdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~Oderland\Rüdersdorf,BerlinHerzfelde,Rüdersdorf.secret.md)
+### [Herzfelde,Rüdersdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Rüdersdorf,Berlin/Herzfelde,Rüdersdorf.personal.md) 
+
+### [Herzfelde,Rüdersdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Rüdersdorf,Berlin/Herzfelde,Rüdersdorf.secret.md)
 

@@ -125,15 +125,17 @@ Capital :: [[Schwerin]] ]]
 
 ## Confidential Links & Embeds: 
 
-### [Mecklenburg-Vorpommern.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastMecklenburg-Vorpommern.public.md) 
+### [Mecklenburg-Vorpommern](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern.md) 
 
-### [Mecklenburg-Vorpommern.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastMecklenburg-Vorpommern.internal.md) 
+### [Mecklenburg-Vorpommern.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern.public.md) 
 
-### [Mecklenburg-Vorpommern.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastMecklenburg-Vorpommern.protect.md) 
+### [Mecklenburg-Vorpommern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern.internal.md) 
 
-### [Mecklenburg-Vorpommern.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastMecklenburg-Vorpommern.private.md) 
+### [Mecklenburg-Vorpommern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern.protect.md) 
 
-### [Mecklenburg-Vorpommern.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastMecklenburg-Vorpommern.personal.md) 
+### [Mecklenburg-Vorpommern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern.private.md) 
 
-### [Mecklenburg-Vorpommern.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~EastMecklenburg-Vorpommern.secret.md)
+### [Mecklenburg-Vorpommern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern.personal.md) 
+
+### [Mecklenburg-Vorpommern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern.secret.md)
 

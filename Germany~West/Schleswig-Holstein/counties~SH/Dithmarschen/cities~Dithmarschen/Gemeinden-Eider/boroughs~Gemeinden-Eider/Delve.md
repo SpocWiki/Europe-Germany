@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Delve.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Dithmarschen\cities~Dithmarschen\Gemeinden-Eider\boroughs~Gemeinden-EiderDelve.public.md) 
+### [Delve](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Gemeinden-Eider/boroughs~Gemeinden-Eider/Delve.md) 
 
-### [Delve.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Dithmarschen\cities~Dithmarschen\Gemeinden-Eider\boroughs~Gemeinden-EiderDelve.internal.md) 
+### [Delve.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Gemeinden-Eider/boroughs~Gemeinden-Eider/Delve.public.md) 
 
-### [Delve.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Dithmarschen\cities~Dithmarschen\Gemeinden-Eider\boroughs~Gemeinden-EiderDelve.protect.md) 
+### [Delve.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Gemeinden-Eider/boroughs~Gemeinden-Eider/Delve.internal.md) 
 
-### [Delve.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Dithmarschen\cities~Dithmarschen\Gemeinden-Eider\boroughs~Gemeinden-EiderDelve.private.md) 
+### [Delve.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Gemeinden-Eider/boroughs~Gemeinden-Eider/Delve.protect.md) 
 
-### [Delve.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Dithmarschen\cities~Dithmarschen\Gemeinden-Eider\boroughs~Gemeinden-EiderDelve.personal.md) 
+### [Delve.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Gemeinden-Eider/boroughs~Gemeinden-Eider/Delve.private.md) 
 
-### [Delve.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Dithmarschen\cities~Dithmarschen\Gemeinden-Eider\boroughs~Gemeinden-EiderDelve.secret.md)
+### [Delve.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Gemeinden-Eider/boroughs~Gemeinden-Eider/Delve.personal.md) 
+
+### [Delve.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Gemeinden-Eider/boroughs~Gemeinden-Eider/Delve.secret.md)
 

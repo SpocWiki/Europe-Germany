@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rudolstadt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-RudolstRudolstadt.public.md) 
+### [Rudolstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Rudolstadt.md) 
 
-### [Rudolstadt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-RudolstRudolstadt.internal.md) 
+### [Rudolstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Rudolstadt.public.md) 
 
-### [Rudolstadt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-RudolstRudolstadt.protect.md) 
+### [Rudolstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Rudolstadt.internal.md) 
 
-### [Rudolstadt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-RudolstRudolstadt.private.md) 
+### [Rudolstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Rudolstadt.protect.md) 
 
-### [Rudolstadt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-RudolstRudolstadt.personal.md) 
+### [Rudolstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Rudolstadt.private.md) 
 
-### [Rudolstadt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-RudolstRudolstadt.secret.md)
+### [Rudolstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Rudolstadt.personal.md) 
+
+### [Rudolstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Rudolstadt.secret.md)
 

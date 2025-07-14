@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Barmen,Wuppertal.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalBarmen,Wuppertal.public.md) 
+### [Barmen,Wuppertal](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Barmen,Wuppertal.md) 
 
-### [Barmen,Wuppertal.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalBarmen,Wuppertal.internal.md) 
+### [Barmen,Wuppertal.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Barmen,Wuppertal.public.md) 
 
-### [Barmen,Wuppertal.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalBarmen,Wuppertal.protect.md) 
+### [Barmen,Wuppertal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Barmen,Wuppertal.internal.md) 
 
-### [Barmen,Wuppertal.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalBarmen,Wuppertal.private.md) 
+### [Barmen,Wuppertal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Barmen,Wuppertal.protect.md) 
 
-### [Barmen,Wuppertal.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalBarmen,Wuppertal.personal.md) 
+### [Barmen,Wuppertal.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Barmen,Wuppertal.private.md) 
 
-### [Barmen,Wuppertal.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalBarmen,Wuppertal.secret.md)
+### [Barmen,Wuppertal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Barmen,Wuppertal.personal.md) 
+
+### [Barmen,Wuppertal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Barmen,Wuppertal.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schildau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Belgern-Schildau\CitySchildau.public.md) 
+### [Schildau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Belgern-Schildau/City/Schildau.md) 
 
-### [Schildau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Belgern-Schildau\CitySchildau.internal.md) 
+### [Schildau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Belgern-Schildau/City/Schildau.public.md) 
 
-### [Schildau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Belgern-Schildau\CitySchildau.protect.md) 
+### [Schildau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Belgern-Schildau/City/Schildau.internal.md) 
 
-### [Schildau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Belgern-Schildau\CitySchildau.private.md) 
+### [Schildau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Belgern-Schildau/City/Schildau.protect.md) 
 
-### [Schildau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Belgern-Schildau\CitySchildau.personal.md) 
+### [Schildau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Belgern-Schildau/City/Schildau.private.md) 
 
-### [Schildau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Nordsachsen\cities~Nordsachsen\Belgern-Schildau\CitySchildau.secret.md)
+### [Schildau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Belgern-Schildau/City/Schildau.personal.md) 
+
+### [Schildau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Belgern-Schildau/City/Schildau.secret.md)
 

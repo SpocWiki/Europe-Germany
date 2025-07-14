@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Meppen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~EmslandMeppen.public.md) 
+### [Meppen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Meppen.md) 
 
-### [Meppen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~EmslandMeppen.internal.md) 
+### [Meppen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Meppen.public.md) 
 
-### [Meppen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~EmslandMeppen.protect.md) 
+### [Meppen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Meppen.internal.md) 
 
-### [Meppen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~EmslandMeppen.private.md) 
+### [Meppen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Meppen.protect.md) 
 
-### [Meppen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~EmslandMeppen.personal.md) 
+### [Meppen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Meppen.private.md) 
 
-### [Meppen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~EmslandMeppen.secret.md)
+### [Meppen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Meppen.personal.md) 
+
+### [Meppen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Meppen.secret.md)
 

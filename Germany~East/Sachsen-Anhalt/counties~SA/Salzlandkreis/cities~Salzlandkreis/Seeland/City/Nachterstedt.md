@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nachterstedt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Seeland\CityNachterstedt.public.md) 
+### [Nachterstedt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Seeland/City/Nachterstedt.md) 
 
-### [Nachterstedt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Seeland\CityNachterstedt.internal.md) 
+### [Nachterstedt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Seeland/City/Nachterstedt.public.md) 
 
-### [Nachterstedt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Seeland\CityNachterstedt.protect.md) 
+### [Nachterstedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Seeland/City/Nachterstedt.internal.md) 
 
-### [Nachterstedt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Seeland\CityNachterstedt.private.md) 
+### [Nachterstedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Seeland/City/Nachterstedt.protect.md) 
 
-### [Nachterstedt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Seeland\CityNachterstedt.personal.md) 
+### [Nachterstedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Seeland/City/Nachterstedt.private.md) 
 
-### [Nachterstedt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Seeland\CityNachterstedt.secret.md)
+### [Nachterstedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Seeland/City/Nachterstedt.personal.md) 
+
+### [Nachterstedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Seeland/City/Nachterstedt.secret.md)
 

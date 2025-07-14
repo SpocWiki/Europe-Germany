@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Siemersdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Recknitz-Trebeltal\boroughs~Recknitz-Trebeltal\TribseesSiemersdorf.public.md) 
+### [Siemersdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Recknitz-Trebeltal/boroughs~Recknitz-Trebeltal/Tribsees/Siemersdorf.md) 
 
-### [Siemersdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Recknitz-Trebeltal\boroughs~Recknitz-Trebeltal\TribseesSiemersdorf.internal.md) 
+### [Siemersdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Recknitz-Trebeltal/boroughs~Recknitz-Trebeltal/Tribsees/Siemersdorf.public.md) 
 
-### [Siemersdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Recknitz-Trebeltal\boroughs~Recknitz-Trebeltal\TribseesSiemersdorf.protect.md) 
+### [Siemersdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Recknitz-Trebeltal/boroughs~Recknitz-Trebeltal/Tribsees/Siemersdorf.internal.md) 
 
-### [Siemersdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Recknitz-Trebeltal\boroughs~Recknitz-Trebeltal\TribseesSiemersdorf.private.md) 
+### [Siemersdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Recknitz-Trebeltal/boroughs~Recknitz-Trebeltal/Tribsees/Siemersdorf.protect.md) 
 
-### [Siemersdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Recknitz-Trebeltal\boroughs~Recknitz-Trebeltal\TribseesSiemersdorf.personal.md) 
+### [Siemersdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Recknitz-Trebeltal/boroughs~Recknitz-Trebeltal/Tribsees/Siemersdorf.private.md) 
 
-### [Siemersdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Recknitz-Trebeltal\boroughs~Recknitz-Trebeltal\TribseesSiemersdorf.secret.md)
+### [Siemersdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Recknitz-Trebeltal/boroughs~Recknitz-Trebeltal/Tribsees/Siemersdorf.personal.md) 
+
+### [Siemersdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Recknitz-Trebeltal/boroughs~Recknitz-Trebeltal/Tribsees/Siemersdorf.secret.md)
 

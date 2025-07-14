@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sandfoerde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Torgelow-Ferdinandshof\boroughs~TorgelowSandfoerde.public.md) 
+### [Sandfoerde](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Torgelow-Ferdinandshof/boroughs~Torgelow/Sandfoerde.md) 
 
-### [Sandfoerde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Torgelow-Ferdinandshof\boroughs~TorgelowSandfoerde.internal.md) 
+### [Sandfoerde.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Torgelow-Ferdinandshof/boroughs~Torgelow/Sandfoerde.public.md) 
 
-### [Sandfoerde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Torgelow-Ferdinandshof\boroughs~TorgelowSandfoerde.protect.md) 
+### [Sandfoerde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Torgelow-Ferdinandshof/boroughs~Torgelow/Sandfoerde.internal.md) 
 
-### [Sandfoerde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Torgelow-Ferdinandshof\boroughs~TorgelowSandfoerde.private.md) 
+### [Sandfoerde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Torgelow-Ferdinandshof/boroughs~Torgelow/Sandfoerde.protect.md) 
 
-### [Sandfoerde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Torgelow-Ferdinandshof\boroughs~TorgelowSandfoerde.personal.md) 
+### [Sandfoerde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Torgelow-Ferdinandshof/boroughs~Torgelow/Sandfoerde.private.md) 
 
-### [Sandfoerde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Torgelow-Ferdinandshof\boroughs~TorgelowSandfoerde.secret.md)
+### [Sandfoerde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Torgelow-Ferdinandshof/boroughs~Torgelow/Sandfoerde.personal.md) 
+
+### [Sandfoerde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Torgelow-Ferdinandshof/boroughs~Torgelow/Sandfoerde.secret.md)
 

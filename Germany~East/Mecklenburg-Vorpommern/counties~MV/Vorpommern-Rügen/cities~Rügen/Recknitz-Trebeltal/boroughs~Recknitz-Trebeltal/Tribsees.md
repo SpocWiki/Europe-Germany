@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tribsees.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Recknitz-Trebeltal\boroughs~Recknitz-TrebeltalTribsees.public.md) 
+### [Tribsees](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Recknitz-Trebeltal/boroughs~Recknitz-Trebeltal/Tribsees.md) 
 
-### [Tribsees.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Recknitz-Trebeltal\boroughs~Recknitz-TrebeltalTribsees.internal.md) 
+### [Tribsees.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Recknitz-Trebeltal/boroughs~Recknitz-Trebeltal/Tribsees.public.md) 
 
-### [Tribsees.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Recknitz-Trebeltal\boroughs~Recknitz-TrebeltalTribsees.protect.md) 
+### [Tribsees.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Recknitz-Trebeltal/boroughs~Recknitz-Trebeltal/Tribsees.internal.md) 
 
-### [Tribsees.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Recknitz-Trebeltal\boroughs~Recknitz-TrebeltalTribsees.private.md) 
+### [Tribsees.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Recknitz-Trebeltal/boroughs~Recknitz-Trebeltal/Tribsees.protect.md) 
 
-### [Tribsees.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Recknitz-Trebeltal\boroughs~Recknitz-TrebeltalTribsees.personal.md) 
+### [Tribsees.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Recknitz-Trebeltal/boroughs~Recknitz-Trebeltal/Tribsees.private.md) 
 
-### [Tribsees.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Recknitz-Trebeltal\boroughs~Recknitz-TrebeltalTribsees.secret.md)
+### [Tribsees.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Recknitz-Trebeltal/boroughs~Recknitz-Trebeltal/Tribsees.personal.md) 
+
+### [Tribsees.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Recknitz-Trebeltal/boroughs~Recknitz-Trebeltal/Tribsees.secret.md)
 

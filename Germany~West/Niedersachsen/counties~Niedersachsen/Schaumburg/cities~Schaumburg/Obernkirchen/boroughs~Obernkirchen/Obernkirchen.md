@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Obernkirchen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Obernkirchen\boroughs~ObernkirchenObernkirchen.public.md) 
+### [Obernkirchen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.md) 
 
-### [Obernkirchen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Obernkirchen\boroughs~ObernkirchenObernkirchen.internal.md) 
+### [Obernkirchen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.public.md) 
 
-### [Obernkirchen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Obernkirchen\boroughs~ObernkirchenObernkirchen.protect.md) 
+### [Obernkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.internal.md) 
 
-### [Obernkirchen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Obernkirchen\boroughs~ObernkirchenObernkirchen.private.md) 
+### [Obernkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.protect.md) 
 
-### [Obernkirchen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Obernkirchen\boroughs~ObernkirchenObernkirchen.personal.md) 
+### [Obernkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.private.md) 
 
-### [Obernkirchen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~Schaumburg\Obernkirchen\boroughs~ObernkirchenObernkirchen.secret.md)
+### [Obernkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.personal.md) 
+
+### [Obernkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.secret.md)
 

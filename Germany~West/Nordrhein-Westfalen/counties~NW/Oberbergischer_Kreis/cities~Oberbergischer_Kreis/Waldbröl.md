@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Waldbröl.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_KreisWaldbröl.public.md) 
+### [Waldbröl](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Waldbröl.md) 
 
-### [Waldbröl.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_KreisWaldbröl.internal.md) 
+### [Waldbröl.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Waldbröl.public.md) 
 
-### [Waldbröl.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_KreisWaldbröl.protect.md) 
+### [Waldbröl.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Waldbröl.internal.md) 
 
-### [Waldbröl.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_KreisWaldbröl.private.md) 
+### [Waldbröl.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Waldbröl.protect.md) 
 
-### [Waldbröl.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_KreisWaldbröl.personal.md) 
+### [Waldbröl.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Waldbröl.private.md) 
 
-### [Waldbröl.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_KreisWaldbröl.secret.md)
+### [Waldbröl.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Waldbröl.personal.md) 
+
+### [Waldbröl.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Waldbröl.secret.md)
 

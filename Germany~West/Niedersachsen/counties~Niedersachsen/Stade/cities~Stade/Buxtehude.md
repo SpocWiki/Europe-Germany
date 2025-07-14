@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Buxtehude.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~StadeBuxtehude.public.md) 
+### [Buxtehude](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Buxtehude.md) 
 
-### [Buxtehude.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~StadeBuxtehude.internal.md) 
+### [Buxtehude.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Buxtehude.public.md) 
 
-### [Buxtehude.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~StadeBuxtehude.protect.md) 
+### [Buxtehude.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Buxtehude.internal.md) 
 
-### [Buxtehude.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~StadeBuxtehude.private.md) 
+### [Buxtehude.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Buxtehude.protect.md) 
 
-### [Buxtehude.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~StadeBuxtehude.personal.md) 
+### [Buxtehude.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Buxtehude.private.md) 
 
-### [Buxtehude.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~StadeBuxtehude.secret.md)
+### [Buxtehude.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Buxtehude.personal.md) 
+
+### [Buxtehude.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Buxtehude.secret.md)
 

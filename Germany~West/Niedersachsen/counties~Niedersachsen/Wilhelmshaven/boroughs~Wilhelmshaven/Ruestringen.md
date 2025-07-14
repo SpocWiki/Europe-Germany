@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ruestringen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wilhelmshaven\boroughs~WilhelmshavenRuestringen.public.md) 
+### [Ruestringen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven/boroughs~Wilhelmshaven/Ruestringen.md) 
 
-### [Ruestringen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wilhelmshaven\boroughs~WilhelmshavenRuestringen.internal.md) 
+### [Ruestringen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven/boroughs~Wilhelmshaven/Ruestringen.public.md) 
 
-### [Ruestringen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wilhelmshaven\boroughs~WilhelmshavenRuestringen.protect.md) 
+### [Ruestringen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven/boroughs~Wilhelmshaven/Ruestringen.internal.md) 
 
-### [Ruestringen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wilhelmshaven\boroughs~WilhelmshavenRuestringen.private.md) 
+### [Ruestringen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven/boroughs~Wilhelmshaven/Ruestringen.protect.md) 
 
-### [Ruestringen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wilhelmshaven\boroughs~WilhelmshavenRuestringen.personal.md) 
+### [Ruestringen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven/boroughs~Wilhelmshaven/Ruestringen.private.md) 
 
-### [Ruestringen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wilhelmshaven\boroughs~WilhelmshavenRuestringen.secret.md)
+### [Ruestringen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven/boroughs~Wilhelmshaven/Ruestringen.personal.md) 
+
+### [Ruestringen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven/boroughs~Wilhelmshaven/Ruestringen.secret.md)
 

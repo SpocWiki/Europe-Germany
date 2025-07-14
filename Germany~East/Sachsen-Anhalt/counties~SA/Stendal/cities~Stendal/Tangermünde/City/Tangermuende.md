@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tangermuende.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Tangermünde\CityTangermuende.public.md) 
+### [Tangermuende](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Tangermünde/City/Tangermuende.md) 
 
-### [Tangermuende.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Tangermünde\CityTangermuende.internal.md) 
+### [Tangermuende.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Tangermünde/City/Tangermuende.public.md) 
 
-### [Tangermuende.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Tangermünde\CityTangermuende.protect.md) 
+### [Tangermuende.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Tangermünde/City/Tangermuende.internal.md) 
 
-### [Tangermuende.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Tangermünde\CityTangermuende.private.md) 
+### [Tangermuende.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Tangermünde/City/Tangermuende.protect.md) 
 
-### [Tangermuende.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Tangermünde\CityTangermuende.personal.md) 
+### [Tangermuende.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Tangermünde/City/Tangermuende.private.md) 
 
-### [Tangermuende.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Tangermünde\CityTangermuende.secret.md)
+### [Tangermuende.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Tangermünde/City/Tangermuende.personal.md) 
+
+### [Tangermuende.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Tangermünde/City/Tangermuende.secret.md)
 

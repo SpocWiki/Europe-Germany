@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gersten.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Lengerich\boroughs~LengerichGersten.public.md) 
+### [Gersten](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Lengerich/boroughs~Lengerich/Gersten.md) 
 
-### [Gersten.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Lengerich\boroughs~LengerichGersten.internal.md) 
+### [Gersten.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Lengerich/boroughs~Lengerich/Gersten.public.md) 
 
-### [Gersten.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Lengerich\boroughs~LengerichGersten.protect.md) 
+### [Gersten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Lengerich/boroughs~Lengerich/Gersten.internal.md) 
 
-### [Gersten.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Lengerich\boroughs~LengerichGersten.private.md) 
+### [Gersten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Lengerich/boroughs~Lengerich/Gersten.protect.md) 
 
-### [Gersten.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Lengerich\boroughs~LengerichGersten.personal.md) 
+### [Gersten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Lengerich/boroughs~Lengerich/Gersten.private.md) 
 
-### [Gersten.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Lengerich\boroughs~LengerichGersten.secret.md)
+### [Gersten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Lengerich/boroughs~Lengerich/Gersten.personal.md) 
+
+### [Gersten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Lengerich/boroughs~Lengerich/Gersten.secret.md)
 

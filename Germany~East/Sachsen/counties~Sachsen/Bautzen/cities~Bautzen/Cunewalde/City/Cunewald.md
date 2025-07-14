@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cunewald.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Cunewalde\CityCunewald.public.md) 
+### [Cunewald](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Cunewalde/City/Cunewald.md) 
 
-### [Cunewald.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Cunewalde\CityCunewald.internal.md) 
+### [Cunewald.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Cunewalde/City/Cunewald.public.md) 
 
-### [Cunewald.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Cunewalde\CityCunewald.protect.md) 
+### [Cunewald.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Cunewalde/City/Cunewald.internal.md) 
 
-### [Cunewald.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Cunewalde\CityCunewald.private.md) 
+### [Cunewald.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Cunewalde/City/Cunewald.protect.md) 
 
-### [Cunewald.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Cunewalde\CityCunewald.personal.md) 
+### [Cunewald.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Cunewalde/City/Cunewald.private.md) 
 
-### [Cunewald.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Cunewalde\CityCunewald.secret.md)
+### [Cunewald.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Cunewalde/City/Cunewald.personal.md) 
+
+### [Cunewald.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Cunewalde/City/Cunewald.secret.md)
 

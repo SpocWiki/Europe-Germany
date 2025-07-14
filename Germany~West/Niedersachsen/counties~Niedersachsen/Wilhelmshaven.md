@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wilhelmshaven.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWilhelmshaven.public.md) 
+### [Wilhelmshaven](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven.md) 
 
-### [Wilhelmshaven.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWilhelmshaven.internal.md) 
+### [Wilhelmshaven.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven.public.md) 
 
-### [Wilhelmshaven.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWilhelmshaven.protect.md) 
+### [Wilhelmshaven.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven.internal.md) 
 
-### [Wilhelmshaven.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWilhelmshaven.private.md) 
+### [Wilhelmshaven.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven.protect.md) 
 
-### [Wilhelmshaven.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWilhelmshaven.personal.md) 
+### [Wilhelmshaven.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven.private.md) 
 
-### [Wilhelmshaven.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenWilhelmshaven.secret.md)
+### [Wilhelmshaven.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven.personal.md) 
+
+### [Wilhelmshaven.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wilhelmshaven.secret.md)
 

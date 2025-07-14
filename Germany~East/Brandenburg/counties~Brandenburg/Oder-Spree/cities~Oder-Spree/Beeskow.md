@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Beeskow.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-SpreeBeeskow.public.md) 
+### [Beeskow](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Beeskow.md) 
 
-### [Beeskow.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-SpreeBeeskow.internal.md) 
+### [Beeskow.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Beeskow.public.md) 
 
-### [Beeskow.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-SpreeBeeskow.protect.md) 
+### [Beeskow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Beeskow.internal.md) 
 
-### [Beeskow.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-SpreeBeeskow.private.md) 
+### [Beeskow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Beeskow.protect.md) 
 
-### [Beeskow.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-SpreeBeeskow.personal.md) 
+### [Beeskow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Beeskow.private.md) 
 
-### [Beeskow.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-SpreeBeeskow.secret.md)
+### [Beeskow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Beeskow.personal.md) 
+
+### [Beeskow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Beeskow.secret.md)
 

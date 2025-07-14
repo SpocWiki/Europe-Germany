@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bockhorn.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~FrieslandBockhorn.public.md) 
+### [Bockhorn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Bockhorn.md) 
 
-### [Bockhorn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~FrieslandBockhorn.internal.md) 
+### [Bockhorn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Bockhorn.public.md) 
 
-### [Bockhorn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~FrieslandBockhorn.protect.md) 
+### [Bockhorn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Bockhorn.internal.md) 
 
-### [Bockhorn.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~FrieslandBockhorn.private.md) 
+### [Bockhorn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Bockhorn.protect.md) 
 
-### [Bockhorn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~FrieslandBockhorn.personal.md) 
+### [Bockhorn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Bockhorn.private.md) 
 
-### [Bockhorn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~FrieslandBockhorn.secret.md)
+### [Bockhorn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Bockhorn.personal.md) 
+
+### [Bockhorn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Bockhorn.secret.md)
 

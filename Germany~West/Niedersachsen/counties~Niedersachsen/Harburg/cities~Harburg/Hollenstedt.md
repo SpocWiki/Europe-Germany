@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hollenstedt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~HarburgHollenstedt.public.md) 
+### [Hollenstedt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Hollenstedt.md) 
 
-### [Hollenstedt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~HarburgHollenstedt.internal.md) 
+### [Hollenstedt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Hollenstedt.public.md) 
 
-### [Hollenstedt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~HarburgHollenstedt.protect.md) 
+### [Hollenstedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Hollenstedt.internal.md) 
 
-### [Hollenstedt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~HarburgHollenstedt.private.md) 
+### [Hollenstedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Hollenstedt.protect.md) 
 
-### [Hollenstedt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~HarburgHollenstedt.personal.md) 
+### [Hollenstedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Hollenstedt.private.md) 
 
-### [Hollenstedt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~HarburgHollenstedt.secret.md)
+### [Hollenstedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Hollenstedt.personal.md) 
+
+### [Hollenstedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Hollenstedt.secret.md)
 

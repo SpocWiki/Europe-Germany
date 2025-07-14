@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neuenkirchen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~Vechta\Neuenkirchen-Vörden\boroughs~Neuenkirchen-VördenNeuenkirchen.public.md) 
+### [Neuenkirchen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen.md) 
 
-### [Neuenkirchen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~Vechta\Neuenkirchen-Vörden\boroughs~Neuenkirchen-VördenNeuenkirchen.internal.md) 
+### [Neuenkirchen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen.public.md) 
 
-### [Neuenkirchen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~Vechta\Neuenkirchen-Vörden\boroughs~Neuenkirchen-VördenNeuenkirchen.protect.md) 
+### [Neuenkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen.internal.md) 
 
-### [Neuenkirchen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~Vechta\Neuenkirchen-Vörden\boroughs~Neuenkirchen-VördenNeuenkirchen.private.md) 
+### [Neuenkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen.protect.md) 
 
-### [Neuenkirchen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~Vechta\Neuenkirchen-Vörden\boroughs~Neuenkirchen-VördenNeuenkirchen.personal.md) 
+### [Neuenkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen.private.md) 
 
-### [Neuenkirchen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~Vechta\Neuenkirchen-Vörden\boroughs~Neuenkirchen-VördenNeuenkirchen.secret.md)
+### [Neuenkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen.personal.md) 
+
+### [Neuenkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen.secret.md)
 

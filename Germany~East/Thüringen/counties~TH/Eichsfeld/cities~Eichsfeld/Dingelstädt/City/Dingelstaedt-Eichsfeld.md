@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dingelstaedt-Eichsfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Dingelstädt\CityDingelstaedt-Eichsfeld.public.md) 
+### [Dingelstaedt-Eichsfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Dingelstädt/City/Dingelstaedt-Eichsfeld.md) 
 
-### [Dingelstaedt-Eichsfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Dingelstädt\CityDingelstaedt-Eichsfeld.internal.md) 
+### [Dingelstaedt-Eichsfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Dingelstädt/City/Dingelstaedt-Eichsfeld.public.md) 
 
-### [Dingelstaedt-Eichsfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Dingelstädt\CityDingelstaedt-Eichsfeld.protect.md) 
+### [Dingelstaedt-Eichsfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Dingelstädt/City/Dingelstaedt-Eichsfeld.internal.md) 
 
-### [Dingelstaedt-Eichsfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Dingelstädt\CityDingelstaedt-Eichsfeld.private.md) 
+### [Dingelstaedt-Eichsfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Dingelstädt/City/Dingelstaedt-Eichsfeld.protect.md) 
 
-### [Dingelstaedt-Eichsfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Dingelstädt\CityDingelstaedt-Eichsfeld.personal.md) 
+### [Dingelstaedt-Eichsfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Dingelstädt/City/Dingelstaedt-Eichsfeld.private.md) 
 
-### [Dingelstaedt-Eichsfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Dingelstädt\CityDingelstaedt-Eichsfeld.secret.md)
+### [Dingelstaedt-Eichsfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Dingelstädt/City/Dingelstaedt-Eichsfeld.personal.md) 
+
+### [Dingelstaedt-Eichsfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Dingelstädt/City/Dingelstaedt-Eichsfeld.secret.md)
 

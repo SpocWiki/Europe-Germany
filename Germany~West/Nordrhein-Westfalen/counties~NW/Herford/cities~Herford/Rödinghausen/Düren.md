@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Düren.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~Herford\RödinghausenDüren.public.md) 
+### [Düren](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Rödinghausen/Düren.md) 
 
-### [Düren.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~Herford\RödinghausenDüren.internal.md) 
+### [Düren.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Rödinghausen/Düren.public.md) 
 
-### [Düren.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~Herford\RödinghausenDüren.protect.md) 
+### [Düren.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Rödinghausen/Düren.internal.md) 
 
-### [Düren.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~Herford\RödinghausenDüren.private.md) 
+### [Düren.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Rödinghausen/Düren.protect.md) 
 
-### [Düren.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~Herford\RödinghausenDüren.personal.md) 
+### [Düren.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Rödinghausen/Düren.private.md) 
 
-### [Düren.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~Herford\RödinghausenDüren.secret.md)
+### [Düren.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Rödinghausen/Düren.personal.md) 
+
+### [Düren.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Rödinghausen/Düren.secret.md)
 

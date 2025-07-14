@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dedesdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Loxstedt\boroughs~LoxstedtDedesdorf.public.md) 
+### [Dedesdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Dedesdorf.md) 
 
-### [Dedesdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Loxstedt\boroughs~LoxstedtDedesdorf.internal.md) 
+### [Dedesdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Dedesdorf.public.md) 
 
-### [Dedesdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Loxstedt\boroughs~LoxstedtDedesdorf.protect.md) 
+### [Dedesdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Dedesdorf.internal.md) 
 
-### [Dedesdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Loxstedt\boroughs~LoxstedtDedesdorf.private.md) 
+### [Dedesdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Dedesdorf.protect.md) 
 
-### [Dedesdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Loxstedt\boroughs~LoxstedtDedesdorf.personal.md) 
+### [Dedesdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Dedesdorf.private.md) 
 
-### [Dedesdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cuxhaven\cities~Cuxhaven\Loxstedt\boroughs~LoxstedtDedesdorf.secret.md)
+### [Dedesdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Dedesdorf.personal.md) 
+
+### [Dedesdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Loxstedt/boroughs~Loxstedt/Dedesdorf.secret.md)
 

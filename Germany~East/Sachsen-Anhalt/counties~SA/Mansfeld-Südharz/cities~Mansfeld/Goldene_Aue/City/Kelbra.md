@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kelbra.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Goldene_Aue\CityKelbra.public.md) 
+### [Kelbra](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Goldene_Aue/City/Kelbra.md) 
 
-### [Kelbra.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Goldene_Aue\CityKelbra.internal.md) 
+### [Kelbra.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Goldene_Aue/City/Kelbra.public.md) 
 
-### [Kelbra.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Goldene_Aue\CityKelbra.protect.md) 
+### [Kelbra.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Goldene_Aue/City/Kelbra.internal.md) 
 
-### [Kelbra.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Goldene_Aue\CityKelbra.private.md) 
+### [Kelbra.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Goldene_Aue/City/Kelbra.protect.md) 
 
-### [Kelbra.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Goldene_Aue\CityKelbra.personal.md) 
+### [Kelbra.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Goldene_Aue/City/Kelbra.private.md) 
 
-### [Kelbra.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Goldene_Aue\CityKelbra.secret.md)
+### [Kelbra.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Goldene_Aue/City/Kelbra.personal.md) 
+
+### [Kelbra.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Goldene_Aue/City/Kelbra.secret.md)
 

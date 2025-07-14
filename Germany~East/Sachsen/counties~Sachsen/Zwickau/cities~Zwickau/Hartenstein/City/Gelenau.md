@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gelenau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Hartenstein\CityGelenau.public.md) 
+### [Gelenau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Hartenstein/City/Gelenau.md) 
 
-### [Gelenau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Hartenstein\CityGelenau.internal.md) 
+### [Gelenau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Hartenstein/City/Gelenau.public.md) 
 
-### [Gelenau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Hartenstein\CityGelenau.protect.md) 
+### [Gelenau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Hartenstein/City/Gelenau.internal.md) 
 
-### [Gelenau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Hartenstein\CityGelenau.private.md) 
+### [Gelenau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Hartenstein/City/Gelenau.protect.md) 
 
-### [Gelenau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Hartenstein\CityGelenau.personal.md) 
+### [Gelenau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Hartenstein/City/Gelenau.private.md) 
 
-### [Gelenau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Hartenstein\CityGelenau.secret.md)
+### [Gelenau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Hartenstein/City/Gelenau.personal.md) 
+
+### [Gelenau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Hartenstein/City/Gelenau.secret.md)
 

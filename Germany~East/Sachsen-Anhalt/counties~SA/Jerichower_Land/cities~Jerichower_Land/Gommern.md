@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gommern.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_LandGommern.public.md) 
+### [Gommern](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Gommern.md) 
 
-### [Gommern.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_LandGommern.internal.md) 
+### [Gommern.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Gommern.public.md) 
 
-### [Gommern.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_LandGommern.protect.md) 
+### [Gommern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Gommern.internal.md) 
 
-### [Gommern.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_LandGommern.private.md) 
+### [Gommern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Gommern.protect.md) 
 
-### [Gommern.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_LandGommern.personal.md) 
+### [Gommern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Gommern.private.md) 
 
-### [Gommern.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_LandGommern.secret.md)
+### [Gommern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Gommern.personal.md) 
+
+### [Gommern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Gommern.secret.md)
 

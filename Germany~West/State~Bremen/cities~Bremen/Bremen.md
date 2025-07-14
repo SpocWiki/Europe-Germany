@@ -119,15 +119,17 @@ wie Perlen an einer Schnur auf.
 
 ## Confidential Links & Embeds: 
 
-### [Bremen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~BremenBremen.public.md) 
+### [Bremen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremen.md) 
 
-### [Bremen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~BremenBremen.internal.md) 
+### [Bremen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremen.public.md) 
 
-### [Bremen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~BremenBremen.protect.md) 
+### [Bremen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremen.internal.md) 
 
-### [Bremen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~BremenBremen.private.md) 
+### [Bremen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremen.protect.md) 
 
-### [Bremen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~BremenBremen.personal.md) 
+### [Bremen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremen.private.md) 
 
-### [Bremen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~BremenBremen.secret.md)
+### [Bremen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremen.personal.md) 
+
+### [Bremen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremen.secret.md)
 

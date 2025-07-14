@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kaarst.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Kreis_Neuss\cities~Rhein-Kreis_NeussKaarst.public.md) 
+### [Kaarst](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Kaarst.md) 
 
-### [Kaarst.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Kreis_Neuss\cities~Rhein-Kreis_NeussKaarst.internal.md) 
+### [Kaarst.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Kaarst.public.md) 
 
-### [Kaarst.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Kreis_Neuss\cities~Rhein-Kreis_NeussKaarst.protect.md) 
+### [Kaarst.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Kaarst.internal.md) 
 
-### [Kaarst.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Kreis_Neuss\cities~Rhein-Kreis_NeussKaarst.private.md) 
+### [Kaarst.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Kaarst.protect.md) 
 
-### [Kaarst.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Kreis_Neuss\cities~Rhein-Kreis_NeussKaarst.personal.md) 
+### [Kaarst.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Kaarst.private.md) 
 
-### [Kaarst.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Kreis_Neuss\cities~Rhein-Kreis_NeussKaarst.secret.md)
+### [Kaarst.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Kaarst.personal.md) 
+
+### [Kaarst.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Kaarst.secret.md)
 

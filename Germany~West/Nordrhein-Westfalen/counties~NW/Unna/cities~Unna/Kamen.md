@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kamen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~UnnaKamen.public.md) 
+### [Kamen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Kamen.md) 
 
-### [Kamen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~UnnaKamen.internal.md) 
+### [Kamen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Kamen.public.md) 
 
-### [Kamen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~UnnaKamen.protect.md) 
+### [Kamen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Kamen.internal.md) 
 
-### [Kamen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~UnnaKamen.private.md) 
+### [Kamen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Kamen.protect.md) 
 
-### [Kamen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~UnnaKamen.personal.md) 
+### [Kamen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Kamen.private.md) 
 
-### [Kamen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~UnnaKamen.secret.md)
+### [Kamen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Kamen.personal.md) 
+
+### [Kamen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Kamen.secret.md)
 

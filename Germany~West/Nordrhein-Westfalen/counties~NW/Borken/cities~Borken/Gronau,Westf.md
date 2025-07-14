@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gronau,Westf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~BorkenGronau,Westf.public.md) 
+### [Gronau,Westf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Gronau,Westf.md) 
 
-### [Gronau,Westf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~BorkenGronau,Westf.internal.md) 
+### [Gronau,Westf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Gronau,Westf.public.md) 
 
-### [Gronau,Westf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~BorkenGronau,Westf.protect.md) 
+### [Gronau,Westf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Gronau,Westf.internal.md) 
 
-### [Gronau,Westf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~BorkenGronau,Westf.private.md) 
+### [Gronau,Westf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Gronau,Westf.protect.md) 
 
-### [Gronau,Westf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~BorkenGronau,Westf.personal.md) 
+### [Gronau,Westf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Gronau,Westf.private.md) 
 
-### [Gronau,Westf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~BorkenGronau,Westf.secret.md)
+### [Gronau,Westf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Gronau,Westf.personal.md) 
+
+### [Gronau,Westf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Gronau,Westf.secret.md)
 

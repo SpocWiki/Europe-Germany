@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Husum.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~NordfrieslandHusum.public.md) 
+### [Husum](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Husum.md) 
 
-### [Husum.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~NordfrieslandHusum.internal.md) 
+### [Husum.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Husum.public.md) 
 
-### [Husum.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~NordfrieslandHusum.protect.md) 
+### [Husum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Husum.internal.md) 
 
-### [Husum.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~NordfrieslandHusum.private.md) 
+### [Husum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Husum.protect.md) 
 
-### [Husum.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~NordfrieslandHusum.personal.md) 
+### [Husum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Husum.private.md) 
 
-### [Husum.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Nordfriesland\cities~NordfrieslandHusum.secret.md)
+### [Husum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Husum.personal.md) 
+
+### [Husum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Husum.secret.md)
 

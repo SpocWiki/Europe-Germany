@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ballenstedt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Sangerhausen\CityBallenstedt.public.md) 
+### [Ballenstedt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Sangerhausen/City/Ballenstedt.md) 
 
-### [Ballenstedt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Sangerhausen\CityBallenstedt.internal.md) 
+### [Ballenstedt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Sangerhausen/City/Ballenstedt.public.md) 
 
-### [Ballenstedt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Sangerhausen\CityBallenstedt.protect.md) 
+### [Ballenstedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Sangerhausen/City/Ballenstedt.internal.md) 
 
-### [Ballenstedt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Sangerhausen\CityBallenstedt.private.md) 
+### [Ballenstedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Sangerhausen/City/Ballenstedt.protect.md) 
 
-### [Ballenstedt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Sangerhausen\CityBallenstedt.personal.md) 
+### [Ballenstedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Sangerhausen/City/Ballenstedt.private.md) 
 
-### [Ballenstedt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Sangerhausen\CityBallenstedt.secret.md)
+### [Ballenstedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Sangerhausen/City/Ballenstedt.personal.md) 
+
+### [Ballenstedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Sangerhausen/City/Ballenstedt.secret.md)
 

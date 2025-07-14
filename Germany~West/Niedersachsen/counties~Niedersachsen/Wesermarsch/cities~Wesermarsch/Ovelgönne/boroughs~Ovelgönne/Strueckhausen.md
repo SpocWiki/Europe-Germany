@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Strueckhausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Ovelgönne\boroughs~OvelgönneStrueckhausen.public.md) 
+### [Strueckhausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Ovelgönne/boroughs~Ovelgönne/Strueckhausen.md) 
 
-### [Strueckhausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Ovelgönne\boroughs~OvelgönneStrueckhausen.internal.md) 
+### [Strueckhausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Ovelgönne/boroughs~Ovelgönne/Strueckhausen.public.md) 
 
-### [Strueckhausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Ovelgönne\boroughs~OvelgönneStrueckhausen.protect.md) 
+### [Strueckhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Ovelgönne/boroughs~Ovelgönne/Strueckhausen.internal.md) 
 
-### [Strueckhausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Ovelgönne\boroughs~OvelgönneStrueckhausen.private.md) 
+### [Strueckhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Ovelgönne/boroughs~Ovelgönne/Strueckhausen.protect.md) 
 
-### [Strueckhausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Ovelgönne\boroughs~OvelgönneStrueckhausen.personal.md) 
+### [Strueckhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Ovelgönne/boroughs~Ovelgönne/Strueckhausen.private.md) 
 
-### [Strueckhausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Ovelgönne\boroughs~OvelgönneStrueckhausen.secret.md)
+### [Strueckhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Ovelgönne/boroughs~Ovelgönne/Strueckhausen.personal.md) 
+
+### [Strueckhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Ovelgönne/boroughs~Ovelgönne/Strueckhausen.secret.md)
 

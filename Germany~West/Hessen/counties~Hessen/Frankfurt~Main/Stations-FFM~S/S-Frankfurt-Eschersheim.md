@@ -30,15 +30,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [S-Frankfurt-Eschersheim.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt-Eschersheim.public.md) 
+### [S-Frankfurt-Eschersheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Eschersheim.md) 
 
-### [S-Frankfurt-Eschersheim.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt-Eschersheim.internal.md) 
+### [S-Frankfurt-Eschersheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Eschersheim.public.md) 
 
-### [S-Frankfurt-Eschersheim.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt-Eschersheim.protect.md) 
+### [S-Frankfurt-Eschersheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Eschersheim.internal.md) 
 
-### [S-Frankfurt-Eschersheim.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt-Eschersheim.private.md) 
+### [S-Frankfurt-Eschersheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Eschersheim.protect.md) 
 
-### [S-Frankfurt-Eschersheim.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt-Eschersheim.personal.md) 
+### [S-Frankfurt-Eschersheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Eschersheim.private.md) 
 
-### [S-Frankfurt-Eschersheim.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt-Eschersheim.secret.md)
+### [S-Frankfurt-Eschersheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Eschersheim.personal.md) 
+
+### [S-Frankfurt-Eschersheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Eschersheim.secret.md)
 

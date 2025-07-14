@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kupferdreh.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrKupferdreh.public.md) 
+### [Kupferdreh](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Kupferdreh.md) 
 
-### [Kupferdreh.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrKupferdreh.internal.md) 
+### [Kupferdreh.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Kupferdreh.public.md) 
 
-### [Kupferdreh.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrKupferdreh.protect.md) 
+### [Kupferdreh.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Kupferdreh.internal.md) 
 
-### [Kupferdreh.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrKupferdreh.private.md) 
+### [Kupferdreh.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Kupferdreh.protect.md) 
 
-### [Kupferdreh.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrKupferdreh.personal.md) 
+### [Kupferdreh.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Kupferdreh.private.md) 
 
-### [Kupferdreh.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Essen,RuhrKupferdreh.secret.md)
+### [Kupferdreh.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Kupferdreh.personal.md) 
+
+### [Kupferdreh.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr/Kupferdreh.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lünen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~UnnaLünen.public.md) 
+### [Lünen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Lünen.md) 
 
-### [Lünen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~UnnaLünen.internal.md) 
+### [Lünen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Lünen.public.md) 
 
-### [Lünen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~UnnaLünen.protect.md) 
+### [Lünen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Lünen.internal.md) 
 
-### [Lünen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~UnnaLünen.private.md) 
+### [Lünen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Lünen.protect.md) 
 
-### [Lünen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~UnnaLünen.personal.md) 
+### [Lünen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Lünen.private.md) 
 
-### [Lünen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~UnnaLünen.secret.md)
+### [Lünen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Lünen.personal.md) 
+
+### [Lünen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Lünen.secret.md)
 

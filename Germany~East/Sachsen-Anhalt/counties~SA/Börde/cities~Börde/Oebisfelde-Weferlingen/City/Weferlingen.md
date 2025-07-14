@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Weferlingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oebisfelde-Weferlingen\CityWeferlingen.public.md) 
+### [Weferlingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oebisfelde-Weferlingen/City/Weferlingen.md) 
 
-### [Weferlingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oebisfelde-Weferlingen\CityWeferlingen.internal.md) 
+### [Weferlingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oebisfelde-Weferlingen/City/Weferlingen.public.md) 
 
-### [Weferlingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oebisfelde-Weferlingen\CityWeferlingen.protect.md) 
+### [Weferlingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oebisfelde-Weferlingen/City/Weferlingen.internal.md) 
 
-### [Weferlingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oebisfelde-Weferlingen\CityWeferlingen.private.md) 
+### [Weferlingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oebisfelde-Weferlingen/City/Weferlingen.protect.md) 
 
-### [Weferlingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oebisfelde-Weferlingen\CityWeferlingen.personal.md) 
+### [Weferlingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oebisfelde-Weferlingen/City/Weferlingen.private.md) 
 
-### [Weferlingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Börde\cities~Börde\Oebisfelde-Weferlingen\CityWeferlingen.secret.md)
+### [Weferlingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oebisfelde-Weferlingen/City/Weferlingen.personal.md) 
+
+### [Weferlingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oebisfelde-Weferlingen/City/Weferlingen.secret.md)
 

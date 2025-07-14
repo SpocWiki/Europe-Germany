@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Assel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~Stade\DrochtersenAssel.public.md) 
+### [Assel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Drochtersen/Assel.md) 
 
-### [Assel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~Stade\DrochtersenAssel.internal.md) 
+### [Assel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Drochtersen/Assel.public.md) 
 
-### [Assel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~Stade\DrochtersenAssel.protect.md) 
+### [Assel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Drochtersen/Assel.internal.md) 
 
-### [Assel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~Stade\DrochtersenAssel.private.md) 
+### [Assel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Drochtersen/Assel.protect.md) 
 
-### [Assel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~Stade\DrochtersenAssel.personal.md) 
+### [Assel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Drochtersen/Assel.private.md) 
 
-### [Assel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~Stade\DrochtersenAssel.secret.md)
+### [Assel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Drochtersen/Assel.personal.md) 
+
+### [Assel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Drochtersen/Assel.secret.md)
 

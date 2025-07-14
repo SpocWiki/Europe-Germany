@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Promoisel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Nord-Rügen\boroughs~Nord-Rügen\SagardPromoisel.public.md) 
+### [Promoisel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Sagard/Promoisel.md) 
 
-### [Promoisel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Nord-Rügen\boroughs~Nord-Rügen\SagardPromoisel.internal.md) 
+### [Promoisel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Sagard/Promoisel.public.md) 
 
-### [Promoisel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Nord-Rügen\boroughs~Nord-Rügen\SagardPromoisel.protect.md) 
+### [Promoisel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Sagard/Promoisel.internal.md) 
 
-### [Promoisel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Nord-Rügen\boroughs~Nord-Rügen\SagardPromoisel.private.md) 
+### [Promoisel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Sagard/Promoisel.protect.md) 
 
-### [Promoisel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Nord-Rügen\boroughs~Nord-Rügen\SagardPromoisel.personal.md) 
+### [Promoisel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Sagard/Promoisel.private.md) 
 
-### [Promoisel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Nord-Rügen\boroughs~Nord-Rügen\SagardPromoisel.secret.md)
+### [Promoisel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Sagard/Promoisel.personal.md) 
+
+### [Promoisel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Sagard/Promoisel.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Klettwitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~Oberspreewald\SchipkauKlettwitz.public.md) 
+### [Klettwitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Schipkau/Klettwitz.md) 
 
-### [Klettwitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~Oberspreewald\SchipkauKlettwitz.internal.md) 
+### [Klettwitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Schipkau/Klettwitz.public.md) 
 
-### [Klettwitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~Oberspreewald\SchipkauKlettwitz.protect.md) 
+### [Klettwitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Schipkau/Klettwitz.internal.md) 
 
-### [Klettwitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~Oberspreewald\SchipkauKlettwitz.private.md) 
+### [Klettwitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Schipkau/Klettwitz.protect.md) 
 
-### [Klettwitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~Oberspreewald\SchipkauKlettwitz.personal.md) 
+### [Klettwitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Schipkau/Klettwitz.private.md) 
 
-### [Klettwitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberspreewald-Lausitz\cities~Oberspreewald\SchipkauKlettwitz.secret.md)
+### [Klettwitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Schipkau/Klettwitz.personal.md) 
+
+### [Klettwitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Schipkau/Klettwitz.secret.md)
 

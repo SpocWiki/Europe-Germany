@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wulfen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~Ostholstein\FehmarnWulfen.public.md) 
+### [Wulfen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Fehmarn/Wulfen.md) 
 
-### [Wulfen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~Ostholstein\FehmarnWulfen.internal.md) 
+### [Wulfen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Fehmarn/Wulfen.public.md) 
 
-### [Wulfen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~Ostholstein\FehmarnWulfen.protect.md) 
+### [Wulfen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Fehmarn/Wulfen.internal.md) 
 
-### [Wulfen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~Ostholstein\FehmarnWulfen.private.md) 
+### [Wulfen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Fehmarn/Wulfen.protect.md) 
 
-### [Wulfen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~Ostholstein\FehmarnWulfen.personal.md) 
+### [Wulfen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Fehmarn/Wulfen.private.md) 
 
-### [Wulfen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~Ostholstein\FehmarnWulfen.secret.md)
+### [Wulfen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Fehmarn/Wulfen.personal.md) 
+
+### [Wulfen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Fehmarn/Wulfen.secret.md)
 

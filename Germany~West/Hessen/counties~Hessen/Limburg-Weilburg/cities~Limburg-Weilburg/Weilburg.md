@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Weilburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-WeilburgWeilburg.public.md) 
+### [Weilburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Weilburg.md) 
 
-### [Weilburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-WeilburgWeilburg.internal.md) 
+### [Weilburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Weilburg.public.md) 
 
-### [Weilburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-WeilburgWeilburg.protect.md) 
+### [Weilburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Weilburg.internal.md) 
 
-### [Weilburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-WeilburgWeilburg.private.md) 
+### [Weilburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Weilburg.protect.md) 
 
-### [Weilburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-WeilburgWeilburg.personal.md) 
+### [Weilburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Weilburg.private.md) 
 
-### [Weilburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Limburg-Weilburg\cities~Limburg-WeilburgWeilburg.secret.md)
+### [Weilburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Weilburg.personal.md) 
+
+### [Weilburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Limburg-Weilburg/cities~Limburg-Weilburg/Weilburg.secret.md)
 

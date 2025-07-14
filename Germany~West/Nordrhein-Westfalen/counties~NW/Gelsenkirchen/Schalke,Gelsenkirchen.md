@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schalke,Gelsenkirchen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\GelsenkirchenSchalke,Gelsenkirchen.public.md) 
+### [Schalke,Gelsenkirchen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Schalke,Gelsenkirchen.md) 
 
-### [Schalke,Gelsenkirchen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\GelsenkirchenSchalke,Gelsenkirchen.internal.md) 
+### [Schalke,Gelsenkirchen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Schalke,Gelsenkirchen.public.md) 
 
-### [Schalke,Gelsenkirchen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\GelsenkirchenSchalke,Gelsenkirchen.protect.md) 
+### [Schalke,Gelsenkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Schalke,Gelsenkirchen.internal.md) 
 
-### [Schalke,Gelsenkirchen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\GelsenkirchenSchalke,Gelsenkirchen.private.md) 
+### [Schalke,Gelsenkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Schalke,Gelsenkirchen.protect.md) 
 
-### [Schalke,Gelsenkirchen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\GelsenkirchenSchalke,Gelsenkirchen.personal.md) 
+### [Schalke,Gelsenkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Schalke,Gelsenkirchen.private.md) 
 
-### [Schalke,Gelsenkirchen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\GelsenkirchenSchalke,Gelsenkirchen.secret.md)
+### [Schalke,Gelsenkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Schalke,Gelsenkirchen.personal.md) 
+
+### [Schalke,Gelsenkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Schalke,Gelsenkirchen.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wiesbaden.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~HessenWiesbaden.public.md) 
+### [Wiesbaden](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden.md) 
 
-### [Wiesbaden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~HessenWiesbaden.internal.md) 
+### [Wiesbaden.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden.public.md) 
 
-### [Wiesbaden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~HessenWiesbaden.protect.md) 
+### [Wiesbaden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden.internal.md) 
 
-### [Wiesbaden.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~HessenWiesbaden.private.md) 
+### [Wiesbaden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden.protect.md) 
 
-### [Wiesbaden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~HessenWiesbaden.personal.md) 
+### [Wiesbaden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden.private.md) 
 
-### [Wiesbaden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~HessenWiesbaden.secret.md)
+### [Wiesbaden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden.personal.md) 
+
+### [Wiesbaden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden.secret.md)
 

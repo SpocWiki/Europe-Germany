@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Morsbach.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_KreisMorsbach.public.md) 
+### [Morsbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Morsbach.md) 
 
-### [Morsbach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_KreisMorsbach.internal.md) 
+### [Morsbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Morsbach.public.md) 
 
-### [Morsbach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_KreisMorsbach.protect.md) 
+### [Morsbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Morsbach.internal.md) 
 
-### [Morsbach.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_KreisMorsbach.private.md) 
+### [Morsbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Morsbach.protect.md) 
 
-### [Morsbach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_KreisMorsbach.personal.md) 
+### [Morsbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Morsbach.private.md) 
 
-### [Morsbach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_KreisMorsbach.secret.md)
+### [Morsbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Morsbach.personal.md) 
+
+### [Morsbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Morsbach.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Moorfleth.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgMoorfleth.public.md) 
+### [Moorfleth](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Moorfleth.md) 
 
-### [Moorfleth.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgMoorfleth.internal.md) 
+### [Moorfleth.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Moorfleth.public.md) 
 
-### [Moorfleth.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgMoorfleth.protect.md) 
+### [Moorfleth.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Moorfleth.internal.md) 
 
-### [Moorfleth.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgMoorfleth.private.md) 
+### [Moorfleth.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Moorfleth.protect.md) 
 
-### [Moorfleth.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgMoorfleth.personal.md) 
+### [Moorfleth.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Moorfleth.private.md) 
 
-### [Moorfleth.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgMoorfleth.secret.md)
+### [Moorfleth.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Moorfleth.personal.md) 
+
+### [Moorfleth.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Moorfleth.secret.md)
 

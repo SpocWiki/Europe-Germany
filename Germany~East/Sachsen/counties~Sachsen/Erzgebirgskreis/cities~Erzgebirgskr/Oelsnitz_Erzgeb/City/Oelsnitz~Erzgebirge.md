@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oelsnitz~Erzgebirge.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Oelsnitz_Erzgeb\CityOelsnitz~Erzgebirge.public.md) 
+### [Oelsnitz~Erzgebirge](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Oelsnitz_Erzgeb/City/Oelsnitz~Erzgebirge.md) 
 
-### [Oelsnitz~Erzgebirge.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Oelsnitz_Erzgeb\CityOelsnitz~Erzgebirge.internal.md) 
+### [Oelsnitz~Erzgebirge.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Oelsnitz_Erzgeb/City/Oelsnitz~Erzgebirge.public.md) 
 
-### [Oelsnitz~Erzgebirge.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Oelsnitz_Erzgeb\CityOelsnitz~Erzgebirge.protect.md) 
+### [Oelsnitz~Erzgebirge.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Oelsnitz_Erzgeb/City/Oelsnitz~Erzgebirge.internal.md) 
 
-### [Oelsnitz~Erzgebirge.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Oelsnitz_Erzgeb\CityOelsnitz~Erzgebirge.private.md) 
+### [Oelsnitz~Erzgebirge.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Oelsnitz_Erzgeb/City/Oelsnitz~Erzgebirge.protect.md) 
 
-### [Oelsnitz~Erzgebirge.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Oelsnitz_Erzgeb\CityOelsnitz~Erzgebirge.personal.md) 
+### [Oelsnitz~Erzgebirge.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Oelsnitz_Erzgeb/City/Oelsnitz~Erzgebirge.private.md) 
 
-### [Oelsnitz~Erzgebirge.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Oelsnitz_Erzgeb\CityOelsnitz~Erzgebirge.secret.md)
+### [Oelsnitz~Erzgebirge.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Oelsnitz_Erzgeb/City/Oelsnitz~Erzgebirge.personal.md) 
+
+### [Oelsnitz~Erzgebirge.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Oelsnitz_Erzgeb/City/Oelsnitz~Erzgebirge.secret.md)
 

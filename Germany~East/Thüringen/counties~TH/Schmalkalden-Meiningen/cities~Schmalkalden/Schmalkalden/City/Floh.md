@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Floh.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Schmalkalden-Meiningen\cities~Schmalkalden\Schmalkalden\CityFloh.public.md) 
+### [Floh](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Schmalkalden/City/Floh.md) 
 
-### [Floh.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Schmalkalden-Meiningen\cities~Schmalkalden\Schmalkalden\CityFloh.internal.md) 
+### [Floh.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Schmalkalden/City/Floh.public.md) 
 
-### [Floh.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Schmalkalden-Meiningen\cities~Schmalkalden\Schmalkalden\CityFloh.protect.md) 
+### [Floh.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Schmalkalden/City/Floh.internal.md) 
 
-### [Floh.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Schmalkalden-Meiningen\cities~Schmalkalden\Schmalkalden\CityFloh.private.md) 
+### [Floh.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Schmalkalden/City/Floh.protect.md) 
 
-### [Floh.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Schmalkalden-Meiningen\cities~Schmalkalden\Schmalkalden\CityFloh.personal.md) 
+### [Floh.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Schmalkalden/City/Floh.private.md) 
 
-### [Floh.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Schmalkalden-Meiningen\cities~Schmalkalden\Schmalkalden\CityFloh.secret.md)
+### [Floh.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Schmalkalden/City/Floh.personal.md) 
+
+### [Floh.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Schmalkalden-Meiningen/cities~Schmalkalden/Schmalkalden/City/Floh.secret.md)
 

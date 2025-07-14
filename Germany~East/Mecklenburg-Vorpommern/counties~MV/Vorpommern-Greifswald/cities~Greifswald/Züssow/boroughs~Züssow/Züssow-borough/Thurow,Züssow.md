@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Thurow,Züssow.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Züssow\boroughs~Züssow\Züssow-boroughThurow,Züssow.public.md) 
+### [Thurow,Züssow](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Züssow/boroughs~Züssow/Züssow-borough/Thurow,Züssow.md) 
 
-### [Thurow,Züssow.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Züssow\boroughs~Züssow\Züssow-boroughThurow,Züssow.internal.md) 
+### [Thurow,Züssow.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Züssow/boroughs~Züssow/Züssow-borough/Thurow,Züssow.public.md) 
 
-### [Thurow,Züssow.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Züssow\boroughs~Züssow\Züssow-boroughThurow,Züssow.protect.md) 
+### [Thurow,Züssow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Züssow/boroughs~Züssow/Züssow-borough/Thurow,Züssow.internal.md) 
 
-### [Thurow,Züssow.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Züssow\boroughs~Züssow\Züssow-boroughThurow,Züssow.private.md) 
+### [Thurow,Züssow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Züssow/boroughs~Züssow/Züssow-borough/Thurow,Züssow.protect.md) 
 
-### [Thurow,Züssow.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Züssow\boroughs~Züssow\Züssow-boroughThurow,Züssow.personal.md) 
+### [Thurow,Züssow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Züssow/boroughs~Züssow/Züssow-borough/Thurow,Züssow.private.md) 
 
-### [Thurow,Züssow.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Züssow\boroughs~Züssow\Züssow-boroughThurow,Züssow.secret.md)
+### [Thurow,Züssow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Züssow/boroughs~Züssow/Züssow-borough/Thurow,Züssow.personal.md) 
+
+### [Thurow,Züssow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Züssow/boroughs~Züssow/Züssow-borough/Thurow,Züssow.secret.md)
 

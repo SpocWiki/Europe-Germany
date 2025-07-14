@@ -30,15 +30,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [S-Riedstadt-Goddelau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Riedstadt-Goddelau.public.md) 
+### [S-Riedstadt-Goddelau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Riedstadt-Goddelau.md) 
 
-### [S-Riedstadt-Goddelau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Riedstadt-Goddelau.internal.md) 
+### [S-Riedstadt-Goddelau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Riedstadt-Goddelau.public.md) 
 
-### [S-Riedstadt-Goddelau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Riedstadt-Goddelau.protect.md) 
+### [S-Riedstadt-Goddelau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Riedstadt-Goddelau.internal.md) 
 
-### [S-Riedstadt-Goddelau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Riedstadt-Goddelau.private.md) 
+### [S-Riedstadt-Goddelau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Riedstadt-Goddelau.protect.md) 
 
-### [S-Riedstadt-Goddelau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Riedstadt-Goddelau.personal.md) 
+### [S-Riedstadt-Goddelau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Riedstadt-Goddelau.private.md) 
 
-### [S-Riedstadt-Goddelau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Riedstadt-Goddelau.secret.md)
+### [S-Riedstadt-Goddelau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Riedstadt-Goddelau.personal.md) 
+
+### [S-Riedstadt-Goddelau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Riedstadt-Goddelau.secret.md)
 

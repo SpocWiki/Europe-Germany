@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hittfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~Harburg\SeevetalHittfeld.public.md) 
+### [Hittfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Seevetal/Hittfeld.md) 
 
-### [Hittfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~Harburg\SeevetalHittfeld.internal.md) 
+### [Hittfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Seevetal/Hittfeld.public.md) 
 
-### [Hittfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~Harburg\SeevetalHittfeld.protect.md) 
+### [Hittfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Seevetal/Hittfeld.internal.md) 
 
-### [Hittfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~Harburg\SeevetalHittfeld.private.md) 
+### [Hittfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Seevetal/Hittfeld.protect.md) 
 
-### [Hittfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~Harburg\SeevetalHittfeld.personal.md) 
+### [Hittfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Seevetal/Hittfeld.private.md) 
 
-### [Hittfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~Harburg\SeevetalHittfeld.secret.md)
+### [Hittfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Seevetal/Hittfeld.personal.md) 
+
+### [Hittfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Seevetal/Hittfeld.secret.md)
 

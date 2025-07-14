@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neusalza.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Neusalza-Spremberg\CityNeusalza.public.md) 
+### [Neusalza](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Neusalza-Spremberg/City/Neusalza.md) 
 
-### [Neusalza.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Neusalza-Spremberg\CityNeusalza.internal.md) 
+### [Neusalza.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Neusalza-Spremberg/City/Neusalza.public.md) 
 
-### [Neusalza.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Neusalza-Spremberg\CityNeusalza.protect.md) 
+### [Neusalza.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Neusalza-Spremberg/City/Neusalza.internal.md) 
 
-### [Neusalza.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Neusalza-Spremberg\CityNeusalza.private.md) 
+### [Neusalza.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Neusalza-Spremberg/City/Neusalza.protect.md) 
 
-### [Neusalza.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Neusalza-Spremberg\CityNeusalza.personal.md) 
+### [Neusalza.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Neusalza-Spremberg/City/Neusalza.private.md) 
 
-### [Neusalza.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Görlitz\cities~Görlitz\Neusalza-Spremberg\CityNeusalza.secret.md)
+### [Neusalza.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Neusalza-Spremberg/City/Neusalza.personal.md) 
+
+### [Neusalza.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Neusalza-Spremberg/City/Neusalza.secret.md)
 

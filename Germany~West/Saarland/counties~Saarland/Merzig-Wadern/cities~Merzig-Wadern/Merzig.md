@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Merzig.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Merzig-Wadern\cities~Merzig-WadernMerzig.public.md) 
+### [Merzig](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Merzig.md) 
 
-### [Merzig.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Merzig-Wadern\cities~Merzig-WadernMerzig.internal.md) 
+### [Merzig.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Merzig.public.md) 
 
-### [Merzig.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Merzig-Wadern\cities~Merzig-WadernMerzig.protect.md) 
+### [Merzig.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Merzig.internal.md) 
 
-### [Merzig.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Merzig-Wadern\cities~Merzig-WadernMerzig.private.md) 
+### [Merzig.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Merzig.protect.md) 
 
-### [Merzig.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Merzig-Wadern\cities~Merzig-WadernMerzig.personal.md) 
+### [Merzig.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Merzig.private.md) 
 
-### [Merzig.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Merzig-Wadern\cities~Merzig-WadernMerzig.secret.md)
+### [Merzig.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Merzig.personal.md) 
+
+### [Merzig.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Merzig.secret.md)
 

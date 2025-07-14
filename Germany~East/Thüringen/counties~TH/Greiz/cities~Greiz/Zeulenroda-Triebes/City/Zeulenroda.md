@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zeulenroda.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Zeulenroda-Triebes\CityZeulenroda.public.md) 
+### [Zeulenroda](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Zeulenroda-Triebes/City/Zeulenroda.md) 
 
-### [Zeulenroda.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Zeulenroda-Triebes\CityZeulenroda.internal.md) 
+### [Zeulenroda.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Zeulenroda-Triebes/City/Zeulenroda.public.md) 
 
-### [Zeulenroda.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Zeulenroda-Triebes\CityZeulenroda.protect.md) 
+### [Zeulenroda.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Zeulenroda-Triebes/City/Zeulenroda.internal.md) 
 
-### [Zeulenroda.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Zeulenroda-Triebes\CityZeulenroda.private.md) 
+### [Zeulenroda.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Zeulenroda-Triebes/City/Zeulenroda.protect.md) 
 
-### [Zeulenroda.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Zeulenroda-Triebes\CityZeulenroda.personal.md) 
+### [Zeulenroda.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Zeulenroda-Triebes/City/Zeulenroda.private.md) 
 
-### [Zeulenroda.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Zeulenroda-Triebes\CityZeulenroda.secret.md)
+### [Zeulenroda.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Zeulenroda-Triebes/City/Zeulenroda.personal.md) 
+
+### [Zeulenroda.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Zeulenroda-Triebes/City/Zeulenroda.secret.md)
 

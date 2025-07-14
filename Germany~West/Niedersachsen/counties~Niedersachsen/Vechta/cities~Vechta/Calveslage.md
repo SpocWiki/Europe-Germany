@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Calveslage.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~VechtaCalveslage.public.md) 
+### [Calveslage](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Calveslage.md) 
 
-### [Calveslage.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~VechtaCalveslage.internal.md) 
+### [Calveslage.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Calveslage.public.md) 
 
-### [Calveslage.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~VechtaCalveslage.protect.md) 
+### [Calveslage.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Calveslage.internal.md) 
 
-### [Calveslage.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~VechtaCalveslage.private.md) 
+### [Calveslage.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Calveslage.protect.md) 
 
-### [Calveslage.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~VechtaCalveslage.personal.md) 
+### [Calveslage.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Calveslage.private.md) 
 
-### [Calveslage.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~VechtaCalveslage.secret.md)
+### [Calveslage.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Calveslage.personal.md) 
+
+### [Calveslage.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Calveslage.secret.md)
 

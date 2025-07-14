@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kranichfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Weimarer_Land\cities~Weimarer_LandKranichfeld.public.md) 
+### [Kranichfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Kranichfeld.md) 
 
-### [Kranichfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Weimarer_Land\cities~Weimarer_LandKranichfeld.internal.md) 
+### [Kranichfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Kranichfeld.public.md) 
 
-### [Kranichfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Weimarer_Land\cities~Weimarer_LandKranichfeld.protect.md) 
+### [Kranichfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Kranichfeld.internal.md) 
 
-### [Kranichfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Weimarer_Land\cities~Weimarer_LandKranichfeld.private.md) 
+### [Kranichfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Kranichfeld.protect.md) 
 
-### [Kranichfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Weimarer_Land\cities~Weimarer_LandKranichfeld.personal.md) 
+### [Kranichfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Kranichfeld.private.md) 
 
-### [Kranichfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Weimarer_Land\cities~Weimarer_LandKranichfeld.secret.md)
+### [Kranichfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Kranichfeld.personal.md) 
+
+### [Kranichfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Kranichfeld.secret.md)
 

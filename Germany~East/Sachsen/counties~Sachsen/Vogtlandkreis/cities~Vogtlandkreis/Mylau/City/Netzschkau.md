@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Netzschkau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Mylau\CityNetzschkau.public.md) 
+### [Netzschkau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Mylau/City/Netzschkau.md) 
 
-### [Netzschkau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Mylau\CityNetzschkau.internal.md) 
+### [Netzschkau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Mylau/City/Netzschkau.public.md) 
 
-### [Netzschkau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Mylau\CityNetzschkau.protect.md) 
+### [Netzschkau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Mylau/City/Netzschkau.internal.md) 
 
-### [Netzschkau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Mylau\CityNetzschkau.private.md) 
+### [Netzschkau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Mylau/City/Netzschkau.protect.md) 
 
-### [Netzschkau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Mylau\CityNetzschkau.personal.md) 
+### [Netzschkau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Mylau/City/Netzschkau.private.md) 
 
-### [Netzschkau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Mylau\CityNetzschkau.secret.md)
+### [Netzschkau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Mylau/City/Netzschkau.personal.md) 
+
+### [Netzschkau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Mylau/City/Netzschkau.secret.md)
 

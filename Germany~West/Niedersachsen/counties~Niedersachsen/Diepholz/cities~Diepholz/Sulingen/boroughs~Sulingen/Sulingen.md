@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sulingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Sulingen\boroughs~SulingenSulingen.public.md) 
+### [Sulingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Sulingen/boroughs~Sulingen/Sulingen.md) 
 
-### [Sulingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Sulingen\boroughs~SulingenSulingen.internal.md) 
+### [Sulingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Sulingen/boroughs~Sulingen/Sulingen.public.md) 
 
-### [Sulingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Sulingen\boroughs~SulingenSulingen.protect.md) 
+### [Sulingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Sulingen/boroughs~Sulingen/Sulingen.internal.md) 
 
-### [Sulingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Sulingen\boroughs~SulingenSulingen.private.md) 
+### [Sulingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Sulingen/boroughs~Sulingen/Sulingen.protect.md) 
 
-### [Sulingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Sulingen\boroughs~SulingenSulingen.personal.md) 
+### [Sulingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Sulingen/boroughs~Sulingen/Sulingen.private.md) 
 
-### [Sulingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Sulingen\boroughs~SulingenSulingen.secret.md)
+### [Sulingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Sulingen/boroughs~Sulingen/Sulingen.personal.md) 
+
+### [Sulingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Sulingen/boroughs~Sulingen/Sulingen.secret.md)
 

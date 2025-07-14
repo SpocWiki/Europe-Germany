@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hünfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~FuldaHünfeld.public.md) 
+### [Hünfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Hünfeld.md) 
 
-### [Hünfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~FuldaHünfeld.internal.md) 
+### [Hünfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Hünfeld.public.md) 
 
-### [Hünfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~FuldaHünfeld.protect.md) 
+### [Hünfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Hünfeld.internal.md) 
 
-### [Hünfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~FuldaHünfeld.private.md) 
+### [Hünfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Hünfeld.protect.md) 
 
-### [Hünfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~FuldaHünfeld.personal.md) 
+### [Hünfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Hünfeld.private.md) 
 
-### [Hünfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Fulda\cities~FuldaHünfeld.secret.md)
+### [Hünfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Hünfeld.personal.md) 
+
+### [Hünfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Fulda/cities~Fulda/Hünfeld.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Freienohl.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~Hochsauerland\MeschedeFreienohl.public.md) 
+### [Freienohl](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Meschede/Freienohl.md) 
 
-### [Freienohl.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~Hochsauerland\MeschedeFreienohl.internal.md) 
+### [Freienohl.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Meschede/Freienohl.public.md) 
 
-### [Freienohl.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~Hochsauerland\MeschedeFreienohl.protect.md) 
+### [Freienohl.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Meschede/Freienohl.internal.md) 
 
-### [Freienohl.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~Hochsauerland\MeschedeFreienohl.private.md) 
+### [Freienohl.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Meschede/Freienohl.protect.md) 
 
-### [Freienohl.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~Hochsauerland\MeschedeFreienohl.personal.md) 
+### [Freienohl.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Meschede/Freienohl.private.md) 
 
-### [Freienohl.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Hochsauerlandkreis\cities~Hochsauerland\MeschedeFreienohl.secret.md)
+### [Freienohl.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Meschede/Freienohl.personal.md) 
+
+### [Freienohl.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Hochsauerlandkreis/cities~Hochsauerland/Meschede/Freienohl.secret.md)
 

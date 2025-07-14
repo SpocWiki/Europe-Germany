@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lüdinghausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~CoesfeldLüdinghausen.public.md) 
+### [Lüdinghausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Lüdinghausen.md) 
 
-### [Lüdinghausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~CoesfeldLüdinghausen.internal.md) 
+### [Lüdinghausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Lüdinghausen.public.md) 
 
-### [Lüdinghausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~CoesfeldLüdinghausen.protect.md) 
+### [Lüdinghausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Lüdinghausen.internal.md) 
 
-### [Lüdinghausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~CoesfeldLüdinghausen.private.md) 
+### [Lüdinghausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Lüdinghausen.protect.md) 
 
-### [Lüdinghausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~CoesfeldLüdinghausen.personal.md) 
+### [Lüdinghausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Lüdinghausen.private.md) 
 
-### [Lüdinghausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~CoesfeldLüdinghausen.secret.md)
+### [Lüdinghausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Lüdinghausen.personal.md) 
+
+### [Lüdinghausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Lüdinghausen.secret.md)
 

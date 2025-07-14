@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Laubach.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Gießen\cities~GießenLaubach.public.md) 
+### [Laubach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Laubach.md) 
 
-### [Laubach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Gießen\cities~GießenLaubach.internal.md) 
+### [Laubach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Laubach.public.md) 
 
-### [Laubach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Gießen\cities~GießenLaubach.protect.md) 
+### [Laubach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Laubach.internal.md) 
 
-### [Laubach.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Gießen\cities~GießenLaubach.private.md) 
+### [Laubach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Laubach.protect.md) 
 
-### [Laubach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Gießen\cities~GießenLaubach.personal.md) 
+### [Laubach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Laubach.private.md) 
 
-### [Laubach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Gießen\cities~GießenLaubach.secret.md)
+### [Laubach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Laubach.personal.md) 
+
+### [Laubach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Laubach.secret.md)
 

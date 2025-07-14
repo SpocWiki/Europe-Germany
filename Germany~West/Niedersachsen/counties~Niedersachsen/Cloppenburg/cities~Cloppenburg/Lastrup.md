@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lastrup.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cloppenburg\cities~CloppenburgLastrup.public.md) 
+### [Lastrup](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Lastrup.md) 
 
-### [Lastrup.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cloppenburg\cities~CloppenburgLastrup.internal.md) 
+### [Lastrup.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Lastrup.public.md) 
 
-### [Lastrup.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cloppenburg\cities~CloppenburgLastrup.protect.md) 
+### [Lastrup.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Lastrup.internal.md) 
 
-### [Lastrup.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cloppenburg\cities~CloppenburgLastrup.private.md) 
+### [Lastrup.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Lastrup.protect.md) 
 
-### [Lastrup.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cloppenburg\cities~CloppenburgLastrup.personal.md) 
+### [Lastrup.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Lastrup.private.md) 
 
-### [Lastrup.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cloppenburg\cities~CloppenburgLastrup.secret.md)
+### [Lastrup.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Lastrup.personal.md) 
+
+### [Lastrup.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Lastrup.secret.md)
 

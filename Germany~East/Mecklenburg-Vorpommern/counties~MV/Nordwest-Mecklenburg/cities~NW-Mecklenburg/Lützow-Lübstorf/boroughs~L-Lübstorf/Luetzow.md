@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Luetzow.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\Lützow-Lübstorf\boroughs~L-LübstorfLuetzow.public.md) 
+### [Luetzow](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Lützow-Lübstorf/boroughs~L-Lübstorf/Luetzow.md) 
 
-### [Luetzow.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\Lützow-Lübstorf\boroughs~L-LübstorfLuetzow.internal.md) 
+### [Luetzow.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Lützow-Lübstorf/boroughs~L-Lübstorf/Luetzow.public.md) 
 
-### [Luetzow.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\Lützow-Lübstorf\boroughs~L-LübstorfLuetzow.protect.md) 
+### [Luetzow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Lützow-Lübstorf/boroughs~L-Lübstorf/Luetzow.internal.md) 
 
-### [Luetzow.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\Lützow-Lübstorf\boroughs~L-LübstorfLuetzow.private.md) 
+### [Luetzow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Lützow-Lübstorf/boroughs~L-Lübstorf/Luetzow.protect.md) 
 
-### [Luetzow.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\Lützow-Lübstorf\boroughs~L-LübstorfLuetzow.personal.md) 
+### [Luetzow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Lützow-Lübstorf/boroughs~L-Lübstorf/Luetzow.private.md) 
 
-### [Luetzow.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\Lützow-Lübstorf\boroughs~L-LübstorfLuetzow.secret.md)
+### [Luetzow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Lützow-Lübstorf/boroughs~L-Lübstorf/Luetzow.personal.md) 
+
+### [Luetzow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Lützow-Lübstorf/boroughs~L-Lübstorf/Luetzow.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lehesten.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Schiefergebirge\CityLehesten.public.md) 
+### [Lehesten](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schiefergebirge/City/Lehesten.md) 
 
-### [Lehesten.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Schiefergebirge\CityLehesten.internal.md) 
+### [Lehesten.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schiefergebirge/City/Lehesten.public.md) 
 
-### [Lehesten.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Schiefergebirge\CityLehesten.protect.md) 
+### [Lehesten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schiefergebirge/City/Lehesten.internal.md) 
 
-### [Lehesten.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Schiefergebirge\CityLehesten.private.md) 
+### [Lehesten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schiefergebirge/City/Lehesten.protect.md) 
 
-### [Lehesten.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Schiefergebirge\CityLehesten.personal.md) 
+### [Lehesten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schiefergebirge/City/Lehesten.private.md) 
 
-### [Lehesten.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Schiefergebirge\CityLehesten.secret.md)
+### [Lehesten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schiefergebirge/City/Lehesten.personal.md) 
+
+### [Lehesten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schiefergebirge/City/Lehesten.secret.md)
 

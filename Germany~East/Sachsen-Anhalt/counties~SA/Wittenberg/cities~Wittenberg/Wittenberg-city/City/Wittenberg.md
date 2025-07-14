@@ -40,15 +40,17 @@ Nach der Wende wurde die Lutherstadt denkmalgerecht restauriert und vor weiterem
 
 ## Confidential Links & Embeds: 
 
-### [Wittenberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Wittenberg-city\CityWittenberg.public.md) 
+### [Wittenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Wittenberg-city/City/Wittenberg.md) 
 
-### [Wittenberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Wittenberg-city\CityWittenberg.internal.md) 
+### [Wittenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Wittenberg-city/City/Wittenberg.public.md) 
 
-### [Wittenberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Wittenberg-city\CityWittenberg.protect.md) 
+### [Wittenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Wittenberg-city/City/Wittenberg.internal.md) 
 
-### [Wittenberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Wittenberg-city\CityWittenberg.private.md) 
+### [Wittenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Wittenberg-city/City/Wittenberg.protect.md) 
 
-### [Wittenberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Wittenberg-city\CityWittenberg.personal.md) 
+### [Wittenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Wittenberg-city/City/Wittenberg.private.md) 
 
-### [Wittenberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Wittenberg-city\CityWittenberg.secret.md)
+### [Wittenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Wittenberg-city/City/Wittenberg.personal.md) 
+
+### [Wittenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Wittenberg-city/City/Wittenberg.secret.md)
 

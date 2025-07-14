@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oranienburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~OberhavelOranienburg.public.md) 
+### [Oranienburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Oranienburg.md) 
 
-### [Oranienburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~OberhavelOranienburg.internal.md) 
+### [Oranienburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Oranienburg.public.md) 
 
-### [Oranienburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~OberhavelOranienburg.protect.md) 
+### [Oranienburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Oranienburg.internal.md) 
 
-### [Oranienburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~OberhavelOranienburg.private.md) 
+### [Oranienburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Oranienburg.protect.md) 
 
-### [Oranienburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~OberhavelOranienburg.personal.md) 
+### [Oranienburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Oranienburg.private.md) 
 
-### [Oranienburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oberhavel\cities~OberhavelOranienburg.secret.md)
+### [Oranienburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Oranienburg.personal.md) 
+
+### [Oranienburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Oranienburg.secret.md)
 

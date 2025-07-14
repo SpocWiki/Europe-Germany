@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hameln.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hameln-Pyrmont\cities~Hameln-PyrmontHameln.public.md) 
+### [Hameln](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Hameln.md) 
 
-### [Hameln.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hameln-Pyrmont\cities~Hameln-PyrmontHameln.internal.md) 
+### [Hameln.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Hameln.public.md) 
 
-### [Hameln.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hameln-Pyrmont\cities~Hameln-PyrmontHameln.protect.md) 
+### [Hameln.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Hameln.internal.md) 
 
-### [Hameln.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hameln-Pyrmont\cities~Hameln-PyrmontHameln.private.md) 
+### [Hameln.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Hameln.protect.md) 
 
-### [Hameln.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hameln-Pyrmont\cities~Hameln-PyrmontHameln.personal.md) 
+### [Hameln.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Hameln.private.md) 
 
-### [Hameln.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hameln-Pyrmont\cities~Hameln-PyrmontHameln.secret.md)
+### [Hameln.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Hameln.personal.md) 
+
+### [Hameln.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hameln-Pyrmont/cities~Hameln-Pyrmont/Hameln.secret.md)
 

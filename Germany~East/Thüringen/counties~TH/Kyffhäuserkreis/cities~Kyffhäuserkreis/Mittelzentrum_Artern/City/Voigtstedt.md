@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Voigtstedt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\Mittelzentrum_Artern\CityVoigtstedt.public.md) 
+### [Voigtstedt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Mittelzentrum_Artern/City/Voigtstedt.md) 
 
-### [Voigtstedt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\Mittelzentrum_Artern\CityVoigtstedt.internal.md) 
+### [Voigtstedt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Mittelzentrum_Artern/City/Voigtstedt.public.md) 
 
-### [Voigtstedt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\Mittelzentrum_Artern\CityVoigtstedt.protect.md) 
+### [Voigtstedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Mittelzentrum_Artern/City/Voigtstedt.internal.md) 
 
-### [Voigtstedt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\Mittelzentrum_Artern\CityVoigtstedt.private.md) 
+### [Voigtstedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Mittelzentrum_Artern/City/Voigtstedt.protect.md) 
 
-### [Voigtstedt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\Mittelzentrum_Artern\CityVoigtstedt.personal.md) 
+### [Voigtstedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Mittelzentrum_Artern/City/Voigtstedt.private.md) 
 
-### [Voigtstedt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\Mittelzentrum_Artern\CityVoigtstedt.secret.md)
+### [Voigtstedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Mittelzentrum_Artern/City/Voigtstedt.personal.md) 
+
+### [Voigtstedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Mittelzentrum_Artern/City/Voigtstedt.secret.md)
 

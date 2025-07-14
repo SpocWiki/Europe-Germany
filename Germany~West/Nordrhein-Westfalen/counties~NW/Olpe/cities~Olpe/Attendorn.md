@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Attendorn.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeAttendorn.public.md) 
+### [Attendorn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Attendorn.md) 
 
-### [Attendorn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeAttendorn.internal.md) 
+### [Attendorn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Attendorn.public.md) 
 
-### [Attendorn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeAttendorn.protect.md) 
+### [Attendorn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Attendorn.internal.md) 
 
-### [Attendorn.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeAttendorn.private.md) 
+### [Attendorn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Attendorn.protect.md) 
 
-### [Attendorn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeAttendorn.personal.md) 
+### [Attendorn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Attendorn.private.md) 
 
-### [Attendorn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeAttendorn.secret.md)
+### [Attendorn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Attendorn.personal.md) 
+
+### [Attendorn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Attendorn.secret.md)
 

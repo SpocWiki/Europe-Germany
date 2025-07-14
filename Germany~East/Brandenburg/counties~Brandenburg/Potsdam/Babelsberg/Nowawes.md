@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nowawes.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam\BabelsbergNowawes.public.md) 
+### [Nowawes](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam/Babelsberg/Nowawes.md) 
 
-### [Nowawes.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam\BabelsbergNowawes.internal.md) 
+### [Nowawes.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam/Babelsberg/Nowawes.public.md) 
 
-### [Nowawes.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam\BabelsbergNowawes.protect.md) 
+### [Nowawes.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam/Babelsberg/Nowawes.internal.md) 
 
-### [Nowawes.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam\BabelsbergNowawes.private.md) 
+### [Nowawes.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam/Babelsberg/Nowawes.protect.md) 
 
-### [Nowawes.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam\BabelsbergNowawes.personal.md) 
+### [Nowawes.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam/Babelsberg/Nowawes.private.md) 
 
-### [Nowawes.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam\BabelsbergNowawes.secret.md)
+### [Nowawes.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam/Babelsberg/Nowawes.personal.md) 
+
+### [Nowawes.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam/Babelsberg/Nowawes.secret.md)
 

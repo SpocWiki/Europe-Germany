@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lensahn.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinLensahn.public.md) 
+### [Lensahn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Lensahn.md) 
 
-### [Lensahn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinLensahn.internal.md) 
+### [Lensahn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Lensahn.public.md) 
 
-### [Lensahn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinLensahn.protect.md) 
+### [Lensahn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Lensahn.internal.md) 
 
-### [Lensahn.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinLensahn.private.md) 
+### [Lensahn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Lensahn.protect.md) 
 
-### [Lensahn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinLensahn.personal.md) 
+### [Lensahn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Lensahn.private.md) 
 
-### [Lensahn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinLensahn.secret.md)
+### [Lensahn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Lensahn.personal.md) 
+
+### [Lensahn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Lensahn.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lintzel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Bevensen-EbstorfLintzel.public.md) 
+### [Lintzel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Bevensen-Ebstorf/Lintzel.md) 
 
-### [Lintzel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Bevensen-EbstorfLintzel.internal.md) 
+### [Lintzel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Bevensen-Ebstorf/Lintzel.public.md) 
 
-### [Lintzel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Bevensen-EbstorfLintzel.protect.md) 
+### [Lintzel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Bevensen-Ebstorf/Lintzel.internal.md) 
 
-### [Lintzel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Bevensen-EbstorfLintzel.private.md) 
+### [Lintzel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Bevensen-Ebstorf/Lintzel.protect.md) 
 
-### [Lintzel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Bevensen-EbstorfLintzel.personal.md) 
+### [Lintzel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Bevensen-Ebstorf/Lintzel.private.md) 
 
-### [Lintzel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Bevensen-EbstorfLintzel.secret.md)
+### [Lintzel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Bevensen-Ebstorf/Lintzel.personal.md) 
+
+### [Lintzel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Bevensen-Ebstorf/Lintzel.secret.md)
 

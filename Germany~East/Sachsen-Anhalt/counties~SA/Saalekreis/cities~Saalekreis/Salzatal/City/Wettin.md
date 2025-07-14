@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wettin.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~Saalekreis\Salzatal\CityWettin.public.md) 
+### [Wettin](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Salzatal/City/Wettin.md) 
 
-### [Wettin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~Saalekreis\Salzatal\CityWettin.internal.md) 
+### [Wettin.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Salzatal/City/Wettin.public.md) 
 
-### [Wettin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~Saalekreis\Salzatal\CityWettin.protect.md) 
+### [Wettin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Salzatal/City/Wettin.internal.md) 
 
-### [Wettin.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~Saalekreis\Salzatal\CityWettin.private.md) 
+### [Wettin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Salzatal/City/Wettin.protect.md) 
 
-### [Wettin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~Saalekreis\Salzatal\CityWettin.personal.md) 
+### [Wettin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Salzatal/City/Wettin.private.md) 
 
-### [Wettin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~Saalekreis\Salzatal\CityWettin.secret.md)
+### [Wettin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Salzatal/City/Wettin.personal.md) 
+
+### [Wettin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Salzatal/City/Wettin.secret.md)
 

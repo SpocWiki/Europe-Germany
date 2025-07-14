@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mölln.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgMölln.public.md) 
+### [Mölln](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Mölln.md) 
 
-### [Mölln.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgMölln.internal.md) 
+### [Mölln.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Mölln.public.md) 
 
-### [Mölln.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgMölln.protect.md) 
+### [Mölln.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Mölln.internal.md) 
 
-### [Mölln.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgMölln.private.md) 
+### [Mölln.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Mölln.protect.md) 
 
-### [Mölln.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgMölln.personal.md) 
+### [Mölln.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Mölln.private.md) 
 
-### [Mölln.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgMölln.secret.md)
+### [Mölln.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Mölln.personal.md) 
+
+### [Mölln.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Mölln.secret.md)
 

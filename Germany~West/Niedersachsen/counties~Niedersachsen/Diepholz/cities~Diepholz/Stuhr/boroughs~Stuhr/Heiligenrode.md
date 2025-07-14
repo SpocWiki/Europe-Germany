@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Heiligenrode.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Stuhr\boroughs~StuhrHeiligenrode.public.md) 
+### [Heiligenrode](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Stuhr/boroughs~Stuhr/Heiligenrode.md) 
 
-### [Heiligenrode.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Stuhr\boroughs~StuhrHeiligenrode.internal.md) 
+### [Heiligenrode.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Stuhr/boroughs~Stuhr/Heiligenrode.public.md) 
 
-### [Heiligenrode.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Stuhr\boroughs~StuhrHeiligenrode.protect.md) 
+### [Heiligenrode.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Stuhr/boroughs~Stuhr/Heiligenrode.internal.md) 
 
-### [Heiligenrode.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Stuhr\boroughs~StuhrHeiligenrode.private.md) 
+### [Heiligenrode.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Stuhr/boroughs~Stuhr/Heiligenrode.protect.md) 
 
-### [Heiligenrode.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Stuhr\boroughs~StuhrHeiligenrode.personal.md) 
+### [Heiligenrode.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Stuhr/boroughs~Stuhr/Heiligenrode.private.md) 
 
-### [Heiligenrode.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Diepholz\cities~Diepholz\Stuhr\boroughs~StuhrHeiligenrode.secret.md)
+### [Heiligenrode.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Stuhr/boroughs~Stuhr/Heiligenrode.personal.md) 
+
+### [Heiligenrode.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Stuhr/boroughs~Stuhr/Heiligenrode.secret.md)
 

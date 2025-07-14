@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rudersdorf,Wilnsdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-Wittgenstein\WilnsdorfRudersdorf,Wilnsdorf.public.md) 
+### [Rudersdorf,Wilnsdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Wilnsdorf/Rudersdorf,Wilnsdorf.md) 
 
-### [Rudersdorf,Wilnsdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-Wittgenstein\WilnsdorfRudersdorf,Wilnsdorf.internal.md) 
+### [Rudersdorf,Wilnsdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Wilnsdorf/Rudersdorf,Wilnsdorf.public.md) 
 
-### [Rudersdorf,Wilnsdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-Wittgenstein\WilnsdorfRudersdorf,Wilnsdorf.protect.md) 
+### [Rudersdorf,Wilnsdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Wilnsdorf/Rudersdorf,Wilnsdorf.internal.md) 
 
-### [Rudersdorf,Wilnsdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-Wittgenstein\WilnsdorfRudersdorf,Wilnsdorf.private.md) 
+### [Rudersdorf,Wilnsdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Wilnsdorf/Rudersdorf,Wilnsdorf.protect.md) 
 
-### [Rudersdorf,Wilnsdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-Wittgenstein\WilnsdorfRudersdorf,Wilnsdorf.personal.md) 
+### [Rudersdorf,Wilnsdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Wilnsdorf/Rudersdorf,Wilnsdorf.private.md) 
 
-### [Rudersdorf,Wilnsdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Siegen-Wittgenstein\cities~Siegen-Wittgenstein\WilnsdorfRudersdorf,Wilnsdorf.secret.md)
+### [Rudersdorf,Wilnsdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Wilnsdorf/Rudersdorf,Wilnsdorf.personal.md) 
+
+### [Rudersdorf,Wilnsdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Siegen-Wittgenstein/cities~Siegen-Wittgenstein/Wilnsdorf/Rudersdorf,Wilnsdorf.secret.md)
 

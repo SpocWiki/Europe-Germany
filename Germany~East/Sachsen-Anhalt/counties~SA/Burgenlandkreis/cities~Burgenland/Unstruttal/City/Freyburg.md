@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Freyburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Burgenlandkreis\cities~Burgenland\Unstruttal\CityFreyburg.public.md) 
+### [Freyburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Unstruttal/City/Freyburg.md) 
 
-### [Freyburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Burgenlandkreis\cities~Burgenland\Unstruttal\CityFreyburg.internal.md) 
+### [Freyburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Unstruttal/City/Freyburg.public.md) 
 
-### [Freyburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Burgenlandkreis\cities~Burgenland\Unstruttal\CityFreyburg.protect.md) 
+### [Freyburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Unstruttal/City/Freyburg.internal.md) 
 
-### [Freyburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Burgenlandkreis\cities~Burgenland\Unstruttal\CityFreyburg.private.md) 
+### [Freyburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Unstruttal/City/Freyburg.protect.md) 
 
-### [Freyburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Burgenlandkreis\cities~Burgenland\Unstruttal\CityFreyburg.personal.md) 
+### [Freyburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Unstruttal/City/Freyburg.private.md) 
 
-### [Freyburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Burgenlandkreis\cities~Burgenland\Unstruttal\CityFreyburg.secret.md)
+### [Freyburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Unstruttal/City/Freyburg.personal.md) 
+
+### [Freyburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Unstruttal/City/Freyburg.secret.md)
 

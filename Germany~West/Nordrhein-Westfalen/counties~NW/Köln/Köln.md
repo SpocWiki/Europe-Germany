@@ -270,15 +270,17 @@ Kölner Dom ( [[Unesco]] 1996)
 
 ## Confidential Links & Embeds: 
 
-### [Köln.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln.public.md) 
+### [Köln](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.md) 
 
-### [Köln.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln.internal.md) 
+### [Köln.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.public.md) 
 
-### [Köln.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln.protect.md) 
+### [Köln.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.internal.md) 
 
-### [Köln.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln.private.md) 
+### [Köln.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.protect.md) 
 
-### [Köln.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln.personal.md) 
+### [Köln.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.private.md) 
 
-### [Köln.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln.secret.md)
+### [Köln.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.personal.md) 
+
+### [Köln.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kirchhundem.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeKirchhundem.public.md) 
+### [Kirchhundem](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Kirchhundem.md) 
 
-### [Kirchhundem.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeKirchhundem.internal.md) 
+### [Kirchhundem.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Kirchhundem.public.md) 
 
-### [Kirchhundem.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeKirchhundem.protect.md) 
+### [Kirchhundem.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Kirchhundem.internal.md) 
 
-### [Kirchhundem.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeKirchhundem.private.md) 
+### [Kirchhundem.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Kirchhundem.protect.md) 
 
-### [Kirchhundem.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeKirchhundem.personal.md) 
+### [Kirchhundem.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Kirchhundem.private.md) 
 
-### [Kirchhundem.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~OlpeKirchhundem.secret.md)
+### [Kirchhundem.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Kirchhundem.personal.md) 
+
+### [Kirchhundem.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Kirchhundem.secret.md)
 

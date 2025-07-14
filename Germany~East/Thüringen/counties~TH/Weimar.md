@@ -44,15 +44,17 @@ Bauhaus und seine Stätten in Weimar, Dessau und Bernau ( [[Unesco]] Welterbe se
 
 ## Confidential Links & Embeds: 
 
-### [Weimar.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~THWeimar.public.md) 
+### [Weimar](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimar.md) 
 
-### [Weimar.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~THWeimar.internal.md) 
+### [Weimar.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimar.public.md) 
 
-### [Weimar.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~THWeimar.protect.md) 
+### [Weimar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimar.internal.md) 
 
-### [Weimar.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~THWeimar.private.md) 
+### [Weimar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimar.protect.md) 
 
-### [Weimar.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~THWeimar.personal.md) 
+### [Weimar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimar.private.md) 
 
-### [Weimar.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~THWeimar.secret.md)
+### [Weimar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimar.personal.md) 
+
+### [Weimar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimar.secret.md)
 

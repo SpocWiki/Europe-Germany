@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dinklage.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~VechtaDinklage.public.md) 
+### [Dinklage](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Dinklage.md) 
 
-### [Dinklage.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~VechtaDinklage.internal.md) 
+### [Dinklage.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Dinklage.public.md) 
 
-### [Dinklage.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~VechtaDinklage.protect.md) 
+### [Dinklage.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Dinklage.internal.md) 
 
-### [Dinklage.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~VechtaDinklage.private.md) 
+### [Dinklage.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Dinklage.protect.md) 
 
-### [Dinklage.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~VechtaDinklage.personal.md) 
+### [Dinklage.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Dinklage.private.md) 
 
-### [Dinklage.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~VechtaDinklage.secret.md)
+### [Dinklage.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Dinklage.personal.md) 
+
+### [Dinklage.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Dinklage.secret.md)
 

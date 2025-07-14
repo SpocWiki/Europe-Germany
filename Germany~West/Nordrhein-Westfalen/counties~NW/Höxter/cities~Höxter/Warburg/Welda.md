@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Welda.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\WarburgWelda.public.md) 
+### [Welda](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Warburg/Welda.md) 
 
-### [Welda.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\WarburgWelda.internal.md) 
+### [Welda.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Warburg/Welda.public.md) 
 
-### [Welda.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\WarburgWelda.protect.md) 
+### [Welda.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Warburg/Welda.internal.md) 
 
-### [Welda.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\WarburgWelda.private.md) 
+### [Welda.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Warburg/Welda.protect.md) 
 
-### [Welda.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\WarburgWelda.personal.md) 
+### [Welda.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Warburg/Welda.private.md) 
 
-### [Welda.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\WarburgWelda.secret.md)
+### [Welda.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Warburg/Welda.personal.md) 
+
+### [Welda.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Warburg/Welda.secret.md)
 

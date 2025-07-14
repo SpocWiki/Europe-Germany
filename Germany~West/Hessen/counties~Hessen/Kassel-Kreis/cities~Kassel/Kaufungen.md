@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kaufungen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Kassel-Kreis\cities~KasselKaufungen.public.md) 
+### [Kaufungen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Kaufungen.md) 
 
-### [Kaufungen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Kassel-Kreis\cities~KasselKaufungen.internal.md) 
+### [Kaufungen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Kaufungen.public.md) 
 
-### [Kaufungen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Kassel-Kreis\cities~KasselKaufungen.protect.md) 
+### [Kaufungen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Kaufungen.internal.md) 
 
-### [Kaufungen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Kassel-Kreis\cities~KasselKaufungen.private.md) 
+### [Kaufungen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Kaufungen.protect.md) 
 
-### [Kaufungen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Kassel-Kreis\cities~KasselKaufungen.personal.md) 
+### [Kaufungen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Kaufungen.private.md) 
 
-### [Kaufungen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Kassel-Kreis\cities~KasselKaufungen.secret.md)
+### [Kaufungen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Kaufungen.personal.md) 
+
+### [Kaufungen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Kaufungen.secret.md)
 

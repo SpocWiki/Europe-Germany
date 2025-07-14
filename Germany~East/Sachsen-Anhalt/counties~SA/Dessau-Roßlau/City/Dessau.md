@@ -39,15 +39,17 @@ Gartenreich Dessau-Wörlitz (2000)
 
 ## Confidential Links & Embeds: 
 
-### [Dessau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Dessau-Roßlau\CityDessau.public.md) 
+### [Dessau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Dessau.md) 
 
-### [Dessau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Dessau-Roßlau\CityDessau.internal.md) 
+### [Dessau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Dessau.public.md) 
 
-### [Dessau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Dessau-Roßlau\CityDessau.protect.md) 
+### [Dessau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Dessau.internal.md) 
 
-### [Dessau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Dessau-Roßlau\CityDessau.private.md) 
+### [Dessau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Dessau.protect.md) 
 
-### [Dessau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Dessau-Roßlau\CityDessau.personal.md) 
+### [Dessau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Dessau.private.md) 
 
-### [Dessau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Dessau-Roßlau\CityDessau.secret.md)
+### [Dessau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Dessau.personal.md) 
+
+### [Dessau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Dessau.secret.md)
 

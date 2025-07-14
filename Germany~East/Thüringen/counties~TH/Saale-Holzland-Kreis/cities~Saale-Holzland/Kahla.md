@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kahla.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-HolzlandKahla.public.md) 
+### [Kahla](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Kahla.md) 
 
-### [Kahla.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-HolzlandKahla.internal.md) 
+### [Kahla.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Kahla.public.md) 
 
-### [Kahla.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-HolzlandKahla.protect.md) 
+### [Kahla.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Kahla.internal.md) 
 
-### [Kahla.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-HolzlandKahla.private.md) 
+### [Kahla.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Kahla.protect.md) 
 
-### [Kahla.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-HolzlandKahla.personal.md) 
+### [Kahla.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Kahla.private.md) 
 
-### [Kahla.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-HolzlandKahla.secret.md)
+### [Kahla.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Kahla.personal.md) 
+
+### [Kahla.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Kahla.secret.md)
 

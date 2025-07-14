@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Niendorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\Dahme~Mark\boroughs~Dahme~MarkNiendorf.public.md) 
+### [Niendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Dahme~Mark/boroughs~Dahme~Mark/Niendorf.md) 
 
-### [Niendorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\Dahme~Mark\boroughs~Dahme~MarkNiendorf.internal.md) 
+### [Niendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Dahme~Mark/boroughs~Dahme~Mark/Niendorf.public.md) 
 
-### [Niendorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\Dahme~Mark\boroughs~Dahme~MarkNiendorf.protect.md) 
+### [Niendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Dahme~Mark/boroughs~Dahme~Mark/Niendorf.internal.md) 
 
-### [Niendorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\Dahme~Mark\boroughs~Dahme~MarkNiendorf.private.md) 
+### [Niendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Dahme~Mark/boroughs~Dahme~Mark/Niendorf.protect.md) 
 
-### [Niendorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\Dahme~Mark\boroughs~Dahme~MarkNiendorf.personal.md) 
+### [Niendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Dahme~Mark/boroughs~Dahme~Mark/Niendorf.private.md) 
 
-### [Niendorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\Dahme~Mark\boroughs~Dahme~MarkNiendorf.secret.md)
+### [Niendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Dahme~Mark/boroughs~Dahme~Mark/Niendorf.personal.md) 
+
+### [Niendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Dahme~Mark/boroughs~Dahme~Mark/Niendorf.secret.md)
 

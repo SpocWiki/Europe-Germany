@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eckernförde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Rendsburg-Eckernförde\cities~RendsburgEckernförde.public.md) 
+### [Eckernförde](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Eckernförde.md) 
 
-### [Eckernförde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Rendsburg-Eckernförde\cities~RendsburgEckernförde.internal.md) 
+### [Eckernförde.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Eckernförde.public.md) 
 
-### [Eckernförde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Rendsburg-Eckernförde\cities~RendsburgEckernförde.protect.md) 
+### [Eckernförde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Eckernförde.internal.md) 
 
-### [Eckernförde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Rendsburg-Eckernförde\cities~RendsburgEckernförde.private.md) 
+### [Eckernförde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Eckernförde.protect.md) 
 
-### [Eckernförde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Rendsburg-Eckernförde\cities~RendsburgEckernförde.personal.md) 
+### [Eckernförde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Eckernförde.private.md) 
 
-### [Eckernförde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Rendsburg-Eckernförde\cities~RendsburgEckernförde.secret.md)
+### [Eckernförde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Eckernförde.personal.md) 
+
+### [Eckernförde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Eckernförde.secret.md)
 

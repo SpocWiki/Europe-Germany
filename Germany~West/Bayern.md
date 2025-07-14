@@ -304,15 +304,17 @@ Capital ::  [[München]]
 
 ## Confidential Links & Embeds: 
 
-### [Bayern.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestBayern.public.md) 
+### [Bayern](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.md) 
 
-### [Bayern.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestBayern.internal.md) 
+### [Bayern.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.public.md) 
 
-### [Bayern.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestBayern.protect.md) 
+### [Bayern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.internal.md) 
 
-### [Bayern.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestBayern.private.md) 
+### [Bayern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.protect.md) 
 
-### [Bayern.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestBayern.personal.md) 
+### [Bayern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.private.md) 
 
-### [Bayern.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestBayern.secret.md)
+### [Bayern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.personal.md) 
+
+### [Bayern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.secret.md)
 

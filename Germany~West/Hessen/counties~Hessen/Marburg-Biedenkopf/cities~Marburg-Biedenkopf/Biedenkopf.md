@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Biedenkopf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-BiedenkopfBiedenkopf.public.md) 
+### [Biedenkopf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Biedenkopf.md) 
 
-### [Biedenkopf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-BiedenkopfBiedenkopf.internal.md) 
+### [Biedenkopf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Biedenkopf.public.md) 
 
-### [Biedenkopf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-BiedenkopfBiedenkopf.protect.md) 
+### [Biedenkopf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Biedenkopf.internal.md) 
 
-### [Biedenkopf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-BiedenkopfBiedenkopf.private.md) 
+### [Biedenkopf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Biedenkopf.protect.md) 
 
-### [Biedenkopf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-BiedenkopfBiedenkopf.personal.md) 
+### [Biedenkopf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Biedenkopf.private.md) 
 
-### [Biedenkopf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-BiedenkopfBiedenkopf.secret.md)
+### [Biedenkopf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Biedenkopf.personal.md) 
+
+### [Biedenkopf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Biedenkopf.secret.md)
 

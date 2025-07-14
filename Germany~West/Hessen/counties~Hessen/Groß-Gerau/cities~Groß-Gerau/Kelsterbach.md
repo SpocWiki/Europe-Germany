@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kelsterbach.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Groß-Gerau\cities~Groß-GerauKelsterbach.public.md) 
+### [Kelsterbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Kelsterbach.md) 
 
-### [Kelsterbach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Groß-Gerau\cities~Groß-GerauKelsterbach.internal.md) 
+### [Kelsterbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Kelsterbach.public.md) 
 
-### [Kelsterbach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Groß-Gerau\cities~Groß-GerauKelsterbach.protect.md) 
+### [Kelsterbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Kelsterbach.internal.md) 
 
-### [Kelsterbach.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Groß-Gerau\cities~Groß-GerauKelsterbach.private.md) 
+### [Kelsterbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Kelsterbach.protect.md) 
 
-### [Kelsterbach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Groß-Gerau\cities~Groß-GerauKelsterbach.personal.md) 
+### [Kelsterbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Kelsterbach.private.md) 
 
-### [Kelsterbach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Groß-Gerau\cities~Groß-GerauKelsterbach.secret.md)
+### [Kelsterbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Kelsterbach.personal.md) 
+
+### [Kelsterbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Kelsterbach.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hückeswagen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_KreisHückeswagen.public.md) 
+### [Hückeswagen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Hückeswagen.md) 
 
-### [Hückeswagen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_KreisHückeswagen.internal.md) 
+### [Hückeswagen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Hückeswagen.public.md) 
 
-### [Hückeswagen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_KreisHückeswagen.protect.md) 
+### [Hückeswagen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Hückeswagen.internal.md) 
 
-### [Hückeswagen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_KreisHückeswagen.private.md) 
+### [Hückeswagen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Hückeswagen.protect.md) 
 
-### [Hückeswagen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_KreisHückeswagen.personal.md) 
+### [Hückeswagen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Hückeswagen.private.md) 
 
-### [Hückeswagen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_KreisHückeswagen.secret.md)
+### [Hückeswagen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Hückeswagen.personal.md) 
+
+### [Hückeswagen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Hückeswagen.secret.md)
 

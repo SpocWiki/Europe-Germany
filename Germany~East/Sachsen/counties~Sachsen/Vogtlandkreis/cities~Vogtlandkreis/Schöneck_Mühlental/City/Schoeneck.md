@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schoeneck.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Schöneck_Mühlental\CitySchoeneck.public.md) 
+### [Schoeneck](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Schöneck_Mühlental/City/Schoeneck.md) 
 
-### [Schoeneck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Schöneck_Mühlental\CitySchoeneck.internal.md) 
+### [Schoeneck.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Schöneck_Mühlental/City/Schoeneck.public.md) 
 
-### [Schoeneck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Schöneck_Mühlental\CitySchoeneck.protect.md) 
+### [Schoeneck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Schöneck_Mühlental/City/Schoeneck.internal.md) 
 
-### [Schoeneck.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Schöneck_Mühlental\CitySchoeneck.private.md) 
+### [Schoeneck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Schöneck_Mühlental/City/Schoeneck.protect.md) 
 
-### [Schoeneck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Schöneck_Mühlental\CitySchoeneck.personal.md) 
+### [Schoeneck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Schöneck_Mühlental/City/Schoeneck.private.md) 
 
-### [Schoeneck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Schöneck_Mühlental\CitySchoeneck.secret.md)
+### [Schoeneck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Schöneck_Mühlental/City/Schoeneck.personal.md) 
+
+### [Schoeneck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Schöneck_Mühlental/City/Schoeneck.secret.md)
 

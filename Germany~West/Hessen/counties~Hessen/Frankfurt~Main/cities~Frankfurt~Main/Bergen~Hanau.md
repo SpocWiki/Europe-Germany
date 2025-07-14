@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bergen~Hanau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\cities~Frankfurt~MainBergen~Hanau.public.md) 
+### [Bergen~Hanau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Bergen~Hanau.md) 
 
-### [Bergen~Hanau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\cities~Frankfurt~MainBergen~Hanau.internal.md) 
+### [Bergen~Hanau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Bergen~Hanau.public.md) 
 
-### [Bergen~Hanau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\cities~Frankfurt~MainBergen~Hanau.protect.md) 
+### [Bergen~Hanau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Bergen~Hanau.internal.md) 
 
-### [Bergen~Hanau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\cities~Frankfurt~MainBergen~Hanau.private.md) 
+### [Bergen~Hanau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Bergen~Hanau.protect.md) 
 
-### [Bergen~Hanau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\cities~Frankfurt~MainBergen~Hanau.personal.md) 
+### [Bergen~Hanau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Bergen~Hanau.private.md) 
 
-### [Bergen~Hanau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\cities~Frankfurt~MainBergen~Hanau.secret.md)
+### [Bergen~Hanau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Bergen~Hanau.personal.md) 
+
+### [Bergen~Hanau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Bergen~Hanau.secret.md)
 

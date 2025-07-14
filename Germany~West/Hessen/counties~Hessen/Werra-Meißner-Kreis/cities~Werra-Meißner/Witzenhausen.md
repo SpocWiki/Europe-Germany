@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Witzenhausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-MeißnerWitzenhausen.public.md) 
+### [Witzenhausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen.md) 
 
-### [Witzenhausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-MeißnerWitzenhausen.internal.md) 
+### [Witzenhausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen.public.md) 
 
-### [Witzenhausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-MeißnerWitzenhausen.protect.md) 
+### [Witzenhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen.internal.md) 
 
-### [Witzenhausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-MeißnerWitzenhausen.private.md) 
+### [Witzenhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen.protect.md) 
 
-### [Witzenhausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-MeißnerWitzenhausen.personal.md) 
+### [Witzenhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen.private.md) 
 
-### [Witzenhausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-MeißnerWitzenhausen.secret.md)
+### [Witzenhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen.personal.md) 
+
+### [Witzenhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen.secret.md)
 

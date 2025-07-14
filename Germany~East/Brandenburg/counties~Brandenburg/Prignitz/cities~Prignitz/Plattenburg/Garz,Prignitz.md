@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Garz,Prignitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~Prignitz\PlattenburgGarz,Prignitz.public.md) 
+### [Garz,Prignitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Plattenburg/Garz,Prignitz.md) 
 
-### [Garz,Prignitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~Prignitz\PlattenburgGarz,Prignitz.internal.md) 
+### [Garz,Prignitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Plattenburg/Garz,Prignitz.public.md) 
 
-### [Garz,Prignitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~Prignitz\PlattenburgGarz,Prignitz.protect.md) 
+### [Garz,Prignitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Plattenburg/Garz,Prignitz.internal.md) 
 
-### [Garz,Prignitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~Prignitz\PlattenburgGarz,Prignitz.private.md) 
+### [Garz,Prignitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Plattenburg/Garz,Prignitz.protect.md) 
 
-### [Garz,Prignitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~Prignitz\PlattenburgGarz,Prignitz.personal.md) 
+### [Garz,Prignitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Plattenburg/Garz,Prignitz.private.md) 
 
-### [Garz,Prignitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Prignitz\cities~Prignitz\PlattenburgGarz,Prignitz.secret.md)
+### [Garz,Prignitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Plattenburg/Garz,Prignitz.personal.md) 
+
+### [Garz,Prignitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Plattenburg/Garz,Prignitz.secret.md)
 

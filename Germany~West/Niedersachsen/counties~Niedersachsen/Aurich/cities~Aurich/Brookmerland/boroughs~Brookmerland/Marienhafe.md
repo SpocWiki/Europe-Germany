@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marienhafe.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~Aurich\Brookmerland\boroughs~BrookmerlandMarienhafe.public.md) 
+### [Marienhafe](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Brookmerland/boroughs~Brookmerland/Marienhafe.md) 
 
-### [Marienhafe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~Aurich\Brookmerland\boroughs~BrookmerlandMarienhafe.internal.md) 
+### [Marienhafe.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Brookmerland/boroughs~Brookmerland/Marienhafe.public.md) 
 
-### [Marienhafe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~Aurich\Brookmerland\boroughs~BrookmerlandMarienhafe.protect.md) 
+### [Marienhafe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Brookmerland/boroughs~Brookmerland/Marienhafe.internal.md) 
 
-### [Marienhafe.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~Aurich\Brookmerland\boroughs~BrookmerlandMarienhafe.private.md) 
+### [Marienhafe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Brookmerland/boroughs~Brookmerland/Marienhafe.protect.md) 
 
-### [Marienhafe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~Aurich\Brookmerland\boroughs~BrookmerlandMarienhafe.personal.md) 
+### [Marienhafe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Brookmerland/boroughs~Brookmerland/Marienhafe.private.md) 
 
-### [Marienhafe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~Aurich\Brookmerland\boroughs~BrookmerlandMarienhafe.secret.md)
+### [Marienhafe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Brookmerland/boroughs~Brookmerland/Marienhafe.personal.md) 
+
+### [Marienhafe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Brookmerland/boroughs~Brookmerland/Marienhafe.secret.md)
 

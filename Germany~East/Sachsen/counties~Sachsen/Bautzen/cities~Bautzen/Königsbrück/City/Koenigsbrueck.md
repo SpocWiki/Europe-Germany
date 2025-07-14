@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Koenigsbrueck.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Königsbrück\CityKoenigsbrueck.public.md) 
+### [Koenigsbrueck](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Königsbrück/City/Koenigsbrueck.md) 
 
-### [Koenigsbrueck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Königsbrück\CityKoenigsbrueck.internal.md) 
+### [Koenigsbrueck.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Königsbrück/City/Koenigsbrueck.public.md) 
 
-### [Koenigsbrueck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Königsbrück\CityKoenigsbrueck.protect.md) 
+### [Koenigsbrueck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Königsbrück/City/Koenigsbrueck.internal.md) 
 
-### [Koenigsbrueck.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Königsbrück\CityKoenigsbrueck.private.md) 
+### [Koenigsbrueck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Königsbrück/City/Koenigsbrueck.protect.md) 
 
-### [Koenigsbrueck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Königsbrück\CityKoenigsbrueck.personal.md) 
+### [Koenigsbrueck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Königsbrück/City/Koenigsbrueck.private.md) 
 
-### [Koenigsbrueck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Bautzen\cities~Bautzen\Königsbrück\CityKoenigsbrueck.secret.md)
+### [Koenigsbrueck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Königsbrück/City/Koenigsbrueck.personal.md) 
+
+### [Koenigsbrueck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Königsbrück/City/Koenigsbrueck.secret.md)
 

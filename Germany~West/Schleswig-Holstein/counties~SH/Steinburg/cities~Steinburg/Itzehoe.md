@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Itzehoe.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~SteinburgItzehoe.public.md) 
+### [Itzehoe](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Itzehoe.md) 
 
-### [Itzehoe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~SteinburgItzehoe.internal.md) 
+### [Itzehoe.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Itzehoe.public.md) 
 
-### [Itzehoe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~SteinburgItzehoe.protect.md) 
+### [Itzehoe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Itzehoe.internal.md) 
 
-### [Itzehoe.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~SteinburgItzehoe.private.md) 
+### [Itzehoe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Itzehoe.protect.md) 
 
-### [Itzehoe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~SteinburgItzehoe.personal.md) 
+### [Itzehoe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Itzehoe.private.md) 
 
-### [Itzehoe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~SteinburgItzehoe.secret.md)
+### [Itzehoe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Itzehoe.personal.md) 
+
+### [Itzehoe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Itzehoe.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nettersheim.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~EuskirchenNettersheim.public.md) 
+### [Nettersheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Nettersheim.md) 
 
-### [Nettersheim.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~EuskirchenNettersheim.internal.md) 
+### [Nettersheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Nettersheim.public.md) 
 
-### [Nettersheim.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~EuskirchenNettersheim.protect.md) 
+### [Nettersheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Nettersheim.internal.md) 
 
-### [Nettersheim.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~EuskirchenNettersheim.private.md) 
+### [Nettersheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Nettersheim.protect.md) 
 
-### [Nettersheim.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~EuskirchenNettersheim.personal.md) 
+### [Nettersheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Nettersheim.private.md) 
 
-### [Nettersheim.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~EuskirchenNettersheim.secret.md)
+### [Nettersheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Nettersheim.personal.md) 
+
+### [Nettersheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Nettersheim.secret.md)
 

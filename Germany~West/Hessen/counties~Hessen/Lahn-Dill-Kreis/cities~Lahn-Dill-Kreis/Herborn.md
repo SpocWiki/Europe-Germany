@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Herborn.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-KreisHerborn.public.md) 
+### [Herborn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Herborn.md) 
 
-### [Herborn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-KreisHerborn.internal.md) 
+### [Herborn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Herborn.public.md) 
 
-### [Herborn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-KreisHerborn.protect.md) 
+### [Herborn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Herborn.internal.md) 
 
-### [Herborn.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-KreisHerborn.private.md) 
+### [Herborn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Herborn.protect.md) 
 
-### [Herborn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-KreisHerborn.personal.md) 
+### [Herborn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Herborn.private.md) 
 
-### [Herborn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-KreisHerborn.secret.md)
+### [Herborn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Herborn.personal.md) 
+
+### [Herborn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Herborn.secret.md)
 

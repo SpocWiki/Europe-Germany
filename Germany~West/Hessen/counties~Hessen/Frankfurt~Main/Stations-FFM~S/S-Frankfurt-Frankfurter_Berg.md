@@ -30,15 +30,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [S-Frankfurt-Frankfurter_Berg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt-Frankfurter_Berg.public.md) 
+### [S-Frankfurt-Frankfurter_Berg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Frankfurter_Berg.md) 
 
-### [S-Frankfurt-Frankfurter_Berg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt-Frankfurter_Berg.internal.md) 
+### [S-Frankfurt-Frankfurter_Berg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Frankfurter_Berg.public.md) 
 
-### [S-Frankfurt-Frankfurter_Berg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt-Frankfurter_Berg.protect.md) 
+### [S-Frankfurt-Frankfurter_Berg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Frankfurter_Berg.internal.md) 
 
-### [S-Frankfurt-Frankfurter_Berg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt-Frankfurter_Berg.private.md) 
+### [S-Frankfurt-Frankfurter_Berg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Frankfurter_Berg.protect.md) 
 
-### [S-Frankfurt-Frankfurter_Berg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt-Frankfurter_Berg.personal.md) 
+### [S-Frankfurt-Frankfurter_Berg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Frankfurter_Berg.private.md) 
 
-### [S-Frankfurt-Frankfurter_Berg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt-Frankfurter_Berg.secret.md)
+### [S-Frankfurt-Frankfurter_Berg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Frankfurter_Berg.personal.md) 
+
+### [S-Frankfurt-Frankfurter_Berg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Frankfurter_Berg.secret.md)
 

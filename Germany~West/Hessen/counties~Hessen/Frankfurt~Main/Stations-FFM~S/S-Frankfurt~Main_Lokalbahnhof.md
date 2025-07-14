@@ -30,15 +30,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [S-Frankfurt~Main_Lokalbahnhof.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main_Lokalbahnhof.public.md) 
+### [S-Frankfurt~Main_Lokalbahnhof](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Lokalbahnhof.md) 
 
-### [S-Frankfurt~Main_Lokalbahnhof.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main_Lokalbahnhof.internal.md) 
+### [S-Frankfurt~Main_Lokalbahnhof.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Lokalbahnhof.public.md) 
 
-### [S-Frankfurt~Main_Lokalbahnhof.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main_Lokalbahnhof.protect.md) 
+### [S-Frankfurt~Main_Lokalbahnhof.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Lokalbahnhof.internal.md) 
 
-### [S-Frankfurt~Main_Lokalbahnhof.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main_Lokalbahnhof.private.md) 
+### [S-Frankfurt~Main_Lokalbahnhof.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Lokalbahnhof.protect.md) 
 
-### [S-Frankfurt~Main_Lokalbahnhof.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main_Lokalbahnhof.personal.md) 
+### [S-Frankfurt~Main_Lokalbahnhof.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Lokalbahnhof.private.md) 
 
-### [S-Frankfurt~Main_Lokalbahnhof.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Frankfurt~Main_Lokalbahnhof.secret.md)
+### [S-Frankfurt~Main_Lokalbahnhof.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Lokalbahnhof.personal.md) 
+
+### [S-Frankfurt~Main_Lokalbahnhof.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_Lokalbahnhof.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Waldenburg~Sachsen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Waldenburg\CityWaldenburg~Sachsen.public.md) 
+### [Waldenburg~Sachsen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.md) 
 
-### [Waldenburg~Sachsen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Waldenburg\CityWaldenburg~Sachsen.internal.md) 
+### [Waldenburg~Sachsen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.public.md) 
 
-### [Waldenburg~Sachsen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Waldenburg\CityWaldenburg~Sachsen.protect.md) 
+### [Waldenburg~Sachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.internal.md) 
 
-### [Waldenburg~Sachsen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Waldenburg\CityWaldenburg~Sachsen.private.md) 
+### [Waldenburg~Sachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.protect.md) 
 
-### [Waldenburg~Sachsen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Waldenburg\CityWaldenburg~Sachsen.personal.md) 
+### [Waldenburg~Sachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.private.md) 
 
-### [Waldenburg~Sachsen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Waldenburg\CityWaldenburg~Sachsen.secret.md)
+### [Waldenburg~Sachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.personal.md) 
+
+### [Waldenburg~Sachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.secret.md)
 

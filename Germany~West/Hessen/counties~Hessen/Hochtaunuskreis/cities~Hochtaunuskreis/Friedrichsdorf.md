@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Friedrichsdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hochtaunuskreis\cities~HochtaunuskreisFriedrichsdorf.public.md) 
+### [Friedrichsdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Friedrichsdorf.md) 
 
-### [Friedrichsdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hochtaunuskreis\cities~HochtaunuskreisFriedrichsdorf.internal.md) 
+### [Friedrichsdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Friedrichsdorf.public.md) 
 
-### [Friedrichsdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hochtaunuskreis\cities~HochtaunuskreisFriedrichsdorf.protect.md) 
+### [Friedrichsdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Friedrichsdorf.internal.md) 
 
-### [Friedrichsdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hochtaunuskreis\cities~HochtaunuskreisFriedrichsdorf.private.md) 
+### [Friedrichsdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Friedrichsdorf.protect.md) 
 
-### [Friedrichsdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hochtaunuskreis\cities~HochtaunuskreisFriedrichsdorf.personal.md) 
+### [Friedrichsdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Friedrichsdorf.private.md) 
 
-### [Friedrichsdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hochtaunuskreis\cities~HochtaunuskreisFriedrichsdorf.secret.md)
+### [Friedrichsdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Friedrichsdorf.personal.md) 
+
+### [Friedrichsdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Friedrichsdorf.secret.md)
 

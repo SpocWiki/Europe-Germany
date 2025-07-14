@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gefell.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-OrlaGefell.public.md) 
+### [Gefell](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Gefell.md) 
 
-### [Gefell.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-OrlaGefell.internal.md) 
+### [Gefell.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Gefell.public.md) 
 
-### [Gefell.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-OrlaGefell.protect.md) 
+### [Gefell.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Gefell.internal.md) 
 
-### [Gefell.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-OrlaGefell.private.md) 
+### [Gefell.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Gefell.protect.md) 
 
-### [Gefell.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-OrlaGefell.personal.md) 
+### [Gefell.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Gefell.private.md) 
 
-### [Gefell.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-OrlaGefell.secret.md)
+### [Gefell.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Gefell.personal.md) 
+
+### [Gefell.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Gefell.secret.md)
 

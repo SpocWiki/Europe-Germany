@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dahme.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\Dahme~Mark\boroughs~Dahme~MarkDahme.public.md) 
+### [Dahme](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Dahme~Mark/boroughs~Dahme~Mark/Dahme.md) 
 
-### [Dahme.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\Dahme~Mark\boroughs~Dahme~MarkDahme.internal.md) 
+### [Dahme.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Dahme~Mark/boroughs~Dahme~Mark/Dahme.public.md) 
 
-### [Dahme.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\Dahme~Mark\boroughs~Dahme~MarkDahme.protect.md) 
+### [Dahme.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Dahme~Mark/boroughs~Dahme~Mark/Dahme.internal.md) 
 
-### [Dahme.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\Dahme~Mark\boroughs~Dahme~MarkDahme.private.md) 
+### [Dahme.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Dahme~Mark/boroughs~Dahme~Mark/Dahme.protect.md) 
 
-### [Dahme.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\Dahme~Mark\boroughs~Dahme~MarkDahme.personal.md) 
+### [Dahme.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Dahme~Mark/boroughs~Dahme~Mark/Dahme.private.md) 
 
-### [Dahme.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\Dahme~Mark\boroughs~Dahme~MarkDahme.secret.md)
+### [Dahme.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Dahme~Mark/boroughs~Dahme~Mark/Dahme.personal.md) 
+
+### [Dahme.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Dahme~Mark/boroughs~Dahme~Mark/Dahme.secret.md)
 

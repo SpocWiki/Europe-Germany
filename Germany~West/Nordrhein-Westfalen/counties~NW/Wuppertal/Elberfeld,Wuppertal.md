@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Elberfeld,Wuppertal.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalElberfeld,Wuppertal.public.md) 
+### [Elberfeld,Wuppertal](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Elberfeld,Wuppertal.md) 
 
-### [Elberfeld,Wuppertal.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalElberfeld,Wuppertal.internal.md) 
+### [Elberfeld,Wuppertal.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Elberfeld,Wuppertal.public.md) 
 
-### [Elberfeld,Wuppertal.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalElberfeld,Wuppertal.protect.md) 
+### [Elberfeld,Wuppertal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Elberfeld,Wuppertal.internal.md) 
 
-### [Elberfeld,Wuppertal.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalElberfeld,Wuppertal.private.md) 
+### [Elberfeld,Wuppertal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Elberfeld,Wuppertal.protect.md) 
 
-### [Elberfeld,Wuppertal.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalElberfeld,Wuppertal.personal.md) 
+### [Elberfeld,Wuppertal.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Elberfeld,Wuppertal.private.md) 
 
-### [Elberfeld,Wuppertal.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\WuppertalElberfeld,Wuppertal.secret.md)
+### [Elberfeld,Wuppertal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Elberfeld,Wuppertal.personal.md) 
+
+### [Elberfeld,Wuppertal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Elberfeld,Wuppertal.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Limbach~Sachsen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Limbach-Oberfrohna\CityLimbach~Sachsen.public.md) 
+### [Limbach~Sachsen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Limbach-Oberfrohna/City/Limbach~Sachsen.md) 
 
-### [Limbach~Sachsen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Limbach-Oberfrohna\CityLimbach~Sachsen.internal.md) 
+### [Limbach~Sachsen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Limbach-Oberfrohna/City/Limbach~Sachsen.public.md) 
 
-### [Limbach~Sachsen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Limbach-Oberfrohna\CityLimbach~Sachsen.protect.md) 
+### [Limbach~Sachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Limbach-Oberfrohna/City/Limbach~Sachsen.internal.md) 
 
-### [Limbach~Sachsen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Limbach-Oberfrohna\CityLimbach~Sachsen.private.md) 
+### [Limbach~Sachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Limbach-Oberfrohna/City/Limbach~Sachsen.protect.md) 
 
-### [Limbach~Sachsen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Limbach-Oberfrohna\CityLimbach~Sachsen.personal.md) 
+### [Limbach~Sachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Limbach-Oberfrohna/City/Limbach~Sachsen.private.md) 
 
-### [Limbach~Sachsen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Zwickau\cities~Zwickau\Limbach-Oberfrohna\CityLimbach~Sachsen.secret.md)
+### [Limbach~Sachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Limbach-Oberfrohna/City/Limbach~Sachsen.personal.md) 
+
+### [Limbach~Sachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Limbach-Oberfrohna/City/Limbach~Sachsen.secret.md)
 

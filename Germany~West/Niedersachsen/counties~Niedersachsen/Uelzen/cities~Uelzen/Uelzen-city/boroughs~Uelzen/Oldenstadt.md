@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oldenstadt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Uelzen-city\boroughs~UelzenOldenstadt.public.md) 
+### [Oldenstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Uelzen-city/boroughs~Uelzen/Oldenstadt.md) 
 
-### [Oldenstadt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Uelzen-city\boroughs~UelzenOldenstadt.internal.md) 
+### [Oldenstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Uelzen-city/boroughs~Uelzen/Oldenstadt.public.md) 
 
-### [Oldenstadt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Uelzen-city\boroughs~UelzenOldenstadt.protect.md) 
+### [Oldenstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Uelzen-city/boroughs~Uelzen/Oldenstadt.internal.md) 
 
-### [Oldenstadt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Uelzen-city\boroughs~UelzenOldenstadt.private.md) 
+### [Oldenstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Uelzen-city/boroughs~Uelzen/Oldenstadt.protect.md) 
 
-### [Oldenstadt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Uelzen-city\boroughs~UelzenOldenstadt.personal.md) 
+### [Oldenstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Uelzen-city/boroughs~Uelzen/Oldenstadt.private.md) 
 
-### [Oldenstadt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Uelzen-city\boroughs~UelzenOldenstadt.secret.md)
+### [Oldenstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Uelzen-city/boroughs~Uelzen/Oldenstadt.personal.md) 
+
+### [Oldenstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Uelzen-city/boroughs~Uelzen/Oldenstadt.secret.md)
 

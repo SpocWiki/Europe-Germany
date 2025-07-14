@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lünern.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~Unna\Unna-cityLünern.public.md) 
+### [Lünern](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Unna-city/Lünern.md) 
 
-### [Lünern.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~Unna\Unna-cityLünern.internal.md) 
+### [Lünern.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Unna-city/Lünern.public.md) 
 
-### [Lünern.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~Unna\Unna-cityLünern.protect.md) 
+### [Lünern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Unna-city/Lünern.internal.md) 
 
-### [Lünern.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~Unna\Unna-cityLünern.private.md) 
+### [Lünern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Unna-city/Lünern.protect.md) 
 
-### [Lünern.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~Unna\Unna-cityLünern.personal.md) 
+### [Lünern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Unna-city/Lünern.private.md) 
 
-### [Lünern.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Unna\cities~Unna\Unna-cityLünern.secret.md)
+### [Lünern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Unna-city/Lünern.personal.md) 
+
+### [Lünern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Unna/cities~Unna/Unna-city/Lünern.secret.md)
 

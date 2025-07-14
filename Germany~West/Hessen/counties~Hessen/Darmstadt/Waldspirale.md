@@ -13,15 +13,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Waldspirale.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\DarmstadtWaldspirale.public.md) 
+### [Waldspirale](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt/Waldspirale.md) 
 
-### [Waldspirale.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\DarmstadtWaldspirale.internal.md) 
+### [Waldspirale.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt/Waldspirale.public.md) 
 
-### [Waldspirale.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\DarmstadtWaldspirale.protect.md) 
+### [Waldspirale.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt/Waldspirale.internal.md) 
 
-### [Waldspirale.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\DarmstadtWaldspirale.private.md) 
+### [Waldspirale.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt/Waldspirale.protect.md) 
 
-### [Waldspirale.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\DarmstadtWaldspirale.personal.md) 
+### [Waldspirale.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt/Waldspirale.private.md) 
 
-### [Waldspirale.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\DarmstadtWaldspirale.secret.md)
+### [Waldspirale.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt/Waldspirale.personal.md) 
+
+### [Waldspirale.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt/Waldspirale.secret.md)
 

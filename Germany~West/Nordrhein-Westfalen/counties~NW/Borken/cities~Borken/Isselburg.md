@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Isselburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~BorkenIsselburg.public.md) 
+### [Isselburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Isselburg.md) 
 
-### [Isselburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~BorkenIsselburg.internal.md) 
+### [Isselburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Isselburg.public.md) 
 
-### [Isselburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~BorkenIsselburg.protect.md) 
+### [Isselburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Isselburg.internal.md) 
 
-### [Isselburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~BorkenIsselburg.private.md) 
+### [Isselburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Isselburg.protect.md) 
 
-### [Isselburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~BorkenIsselburg.personal.md) 
+### [Isselburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Isselburg.private.md) 
 
-### [Isselburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~BorkenIsselburg.secret.md)
+### [Isselburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Isselburg.personal.md) 
+
+### [Isselburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Isselburg.secret.md)
 

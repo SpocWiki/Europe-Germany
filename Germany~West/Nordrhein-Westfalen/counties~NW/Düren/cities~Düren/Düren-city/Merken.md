@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Merken.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~Düren\Düren-cityMerken.public.md) 
+### [Merken](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city/Merken.md) 
 
-### [Merken.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~Düren\Düren-cityMerken.internal.md) 
+### [Merken.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city/Merken.public.md) 
 
-### [Merken.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~Düren\Düren-cityMerken.protect.md) 
+### [Merken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city/Merken.internal.md) 
 
-### [Merken.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~Düren\Düren-cityMerken.private.md) 
+### [Merken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city/Merken.protect.md) 
 
-### [Merken.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~Düren\Düren-cityMerken.personal.md) 
+### [Merken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city/Merken.private.md) 
 
-### [Merken.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Düren\cities~Düren\Düren-cityMerken.secret.md)
+### [Merken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city/Merken.personal.md) 
+
+### [Merken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Düren-city/Merken.secret.md)
 

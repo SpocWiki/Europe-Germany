@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mellenbach.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Schwarzatal~Mitte\boroughs~Schwarzatal-MMellenbach.public.md) 
+### [Mellenbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schwarzatal~Mitte/boroughs~Schwarzatal-M/Mellenbach.md) 
 
-### [Mellenbach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Schwarzatal~Mitte\boroughs~Schwarzatal-MMellenbach.internal.md) 
+### [Mellenbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schwarzatal~Mitte/boroughs~Schwarzatal-M/Mellenbach.public.md) 
 
-### [Mellenbach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Schwarzatal~Mitte\boroughs~Schwarzatal-MMellenbach.protect.md) 
+### [Mellenbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schwarzatal~Mitte/boroughs~Schwarzatal-M/Mellenbach.internal.md) 
 
-### [Mellenbach.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Schwarzatal~Mitte\boroughs~Schwarzatal-MMellenbach.private.md) 
+### [Mellenbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schwarzatal~Mitte/boroughs~Schwarzatal-M/Mellenbach.protect.md) 
 
-### [Mellenbach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Schwarzatal~Mitte\boroughs~Schwarzatal-MMellenbach.personal.md) 
+### [Mellenbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schwarzatal~Mitte/boroughs~Schwarzatal-M/Mellenbach.private.md) 
 
-### [Mellenbach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Schwarzatal~Mitte\boroughs~Schwarzatal-MMellenbach.secret.md)
+### [Mellenbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schwarzatal~Mitte/boroughs~Schwarzatal-M/Mellenbach.personal.md) 
+
+### [Mellenbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Schwarzatal~Mitte/boroughs~Schwarzatal-M/Mellenbach.secret.md)
 

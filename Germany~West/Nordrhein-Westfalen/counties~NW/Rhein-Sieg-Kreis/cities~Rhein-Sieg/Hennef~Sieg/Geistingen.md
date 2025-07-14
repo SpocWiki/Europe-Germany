@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Geistingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-Sieg\Hennef~SiegGeistingen.public.md) 
+### [Geistingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Hennef~Sieg/Geistingen.md) 
 
-### [Geistingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-Sieg\Hennef~SiegGeistingen.internal.md) 
+### [Geistingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Hennef~Sieg/Geistingen.public.md) 
 
-### [Geistingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-Sieg\Hennef~SiegGeistingen.protect.md) 
+### [Geistingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Hennef~Sieg/Geistingen.internal.md) 
 
-### [Geistingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-Sieg\Hennef~SiegGeistingen.private.md) 
+### [Geistingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Hennef~Sieg/Geistingen.protect.md) 
 
-### [Geistingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-Sieg\Hennef~SiegGeistingen.personal.md) 
+### [Geistingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Hennef~Sieg/Geistingen.private.md) 
 
-### [Geistingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Sieg-Kreis\cities~Rhein-Sieg\Hennef~SiegGeistingen.secret.md)
+### [Geistingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Hennef~Sieg/Geistingen.personal.md) 
+
+### [Geistingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Hennef~Sieg/Geistingen.secret.md)
 

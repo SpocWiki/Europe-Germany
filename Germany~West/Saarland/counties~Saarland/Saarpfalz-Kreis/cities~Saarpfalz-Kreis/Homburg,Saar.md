@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Homburg,Saar.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarpfalz-Kreis\cities~Saarpfalz-KreisHomburg,Saar.public.md) 
+### [Homburg,Saar](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/Homburg,Saar.md) 
 
-### [Homburg,Saar.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarpfalz-Kreis\cities~Saarpfalz-KreisHomburg,Saar.internal.md) 
+### [Homburg,Saar.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/Homburg,Saar.public.md) 
 
-### [Homburg,Saar.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarpfalz-Kreis\cities~Saarpfalz-KreisHomburg,Saar.protect.md) 
+### [Homburg,Saar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/Homburg,Saar.internal.md) 
 
-### [Homburg,Saar.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarpfalz-Kreis\cities~Saarpfalz-KreisHomburg,Saar.private.md) 
+### [Homburg,Saar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/Homburg,Saar.protect.md) 
 
-### [Homburg,Saar.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarpfalz-Kreis\cities~Saarpfalz-KreisHomburg,Saar.personal.md) 
+### [Homburg,Saar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/Homburg,Saar.private.md) 
 
-### [Homburg,Saar.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarpfalz-Kreis\cities~Saarpfalz-KreisHomburg,Saar.secret.md)
+### [Homburg,Saar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/Homburg,Saar.personal.md) 
+
+### [Homburg,Saar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/Homburg,Saar.secret.md)
 

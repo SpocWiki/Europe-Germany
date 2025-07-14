@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Weeze.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveWeeze.public.md) 
+### [Weeze](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Weeze.md) 
 
-### [Weeze.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveWeeze.internal.md) 
+### [Weeze.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Weeze.public.md) 
 
-### [Weeze.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveWeeze.protect.md) 
+### [Weeze.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Weeze.internal.md) 
 
-### [Weeze.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveWeeze.private.md) 
+### [Weeze.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Weeze.protect.md) 
 
-### [Weeze.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveWeeze.personal.md) 
+### [Weeze.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Weeze.private.md) 
 
-### [Weeze.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveWeeze.secret.md)
+### [Weeze.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Weeze.personal.md) 
+
+### [Weeze.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Weeze.secret.md)
 

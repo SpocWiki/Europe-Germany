@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Möser.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_LandMöser.public.md) 
+### [Möser](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Möser.md) 
 
-### [Möser.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_LandMöser.internal.md) 
+### [Möser.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Möser.public.md) 
 
-### [Möser.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_LandMöser.protect.md) 
+### [Möser.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Möser.internal.md) 
 
-### [Möser.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_LandMöser.private.md) 
+### [Möser.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Möser.protect.md) 
 
-### [Möser.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_LandMöser.personal.md) 
+### [Möser.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Möser.private.md) 
 
-### [Möser.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Jerichower_Land\cities~Jerichower_LandMöser.secret.md)
+### [Möser.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Möser.personal.md) 
+
+### [Möser.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Jerichower_Land/cities~Jerichower_Land/Möser.secret.md)
 

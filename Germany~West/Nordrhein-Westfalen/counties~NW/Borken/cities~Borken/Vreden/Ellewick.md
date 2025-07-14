@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ellewick.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\VredenEllewick.public.md) 
+### [Ellewick](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Vreden/Ellewick.md) 
 
-### [Ellewick.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\VredenEllewick.internal.md) 
+### [Ellewick.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Vreden/Ellewick.public.md) 
 
-### [Ellewick.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\VredenEllewick.protect.md) 
+### [Ellewick.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Vreden/Ellewick.internal.md) 
 
-### [Ellewick.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\VredenEllewick.private.md) 
+### [Ellewick.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Vreden/Ellewick.protect.md) 
 
-### [Ellewick.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\VredenEllewick.personal.md) 
+### [Ellewick.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Vreden/Ellewick.private.md) 
 
-### [Ellewick.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Borken\cities~Borken\VredenEllewick.secret.md)
+### [Ellewick.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Vreden/Ellewick.personal.md) 
+
+### [Ellewick.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Borken/cities~Borken/Vreden/Ellewick.secret.md)
 

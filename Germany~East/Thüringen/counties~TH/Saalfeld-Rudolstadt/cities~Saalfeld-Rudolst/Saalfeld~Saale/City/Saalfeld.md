@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saalfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Saalfeld~Saale\CitySaalfeld.public.md) 
+### [Saalfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Saalfeld~Saale/City/Saalfeld.md) 
 
-### [Saalfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Saalfeld~Saale\CitySaalfeld.internal.md) 
+### [Saalfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Saalfeld~Saale/City/Saalfeld.public.md) 
 
-### [Saalfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Saalfeld~Saale\CitySaalfeld.protect.md) 
+### [Saalfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Saalfeld~Saale/City/Saalfeld.internal.md) 
 
-### [Saalfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Saalfeld~Saale\CitySaalfeld.private.md) 
+### [Saalfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Saalfeld~Saale/City/Saalfeld.protect.md) 
 
-### [Saalfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Saalfeld~Saale\CitySaalfeld.personal.md) 
+### [Saalfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Saalfeld~Saale/City/Saalfeld.private.md) 
 
-### [Saalfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saalfeld-Rudolstadt\cities~Saalfeld-Rudolst\Saalfeld~Saale\CitySaalfeld.secret.md)
+### [Saalfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Saalfeld~Saale/City/Saalfeld.personal.md) 
+
+### [Saalfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saalfeld-Rudolstadt/cities~Saalfeld-Rudolst/Saalfeld~Saale/City/Saalfeld.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Köln-Wahn.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln-Wahn.public.md) 
+### [Köln-Wahn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Wahn.md) 
 
-### [Köln-Wahn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln-Wahn.internal.md) 
+### [Köln-Wahn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Wahn.public.md) 
 
-### [Köln-Wahn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln-Wahn.protect.md) 
+### [Köln-Wahn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Wahn.internal.md) 
 
-### [Köln-Wahn.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln-Wahn.private.md) 
+### [Köln-Wahn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Wahn.protect.md) 
 
-### [Köln-Wahn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln-Wahn.personal.md) 
+### [Köln-Wahn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Wahn.private.md) 
 
-### [Köln-Wahn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\KölnKöln-Wahn.secret.md)
+### [Köln-Wahn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Wahn.personal.md) 
+
+### [Köln-Wahn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Wahn.secret.md)
 

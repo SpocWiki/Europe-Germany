@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Glückstadt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~SteinburgGlückstadt.public.md) 
+### [Glückstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Glückstadt.md) 
 
-### [Glückstadt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~SteinburgGlückstadt.internal.md) 
+### [Glückstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Glückstadt.public.md) 
 
-### [Glückstadt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~SteinburgGlückstadt.protect.md) 
+### [Glückstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Glückstadt.internal.md) 
 
-### [Glückstadt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~SteinburgGlückstadt.private.md) 
+### [Glückstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Glückstadt.protect.md) 
 
-### [Glückstadt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~SteinburgGlückstadt.personal.md) 
+### [Glückstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Glückstadt.private.md) 
 
-### [Glückstadt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Steinburg\cities~SteinburgGlückstadt.secret.md)
+### [Glückstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Glückstadt.personal.md) 
+
+### [Glückstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Steinburg/cities~Steinburg/Glückstadt.secret.md)
 

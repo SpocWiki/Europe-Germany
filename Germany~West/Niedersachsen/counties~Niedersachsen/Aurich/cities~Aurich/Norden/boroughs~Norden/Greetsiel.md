@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Greetsiel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~Aurich\Norden\boroughs~NordenGreetsiel.public.md) 
+### [Greetsiel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norden/boroughs~Norden/Greetsiel.md) 
 
-### [Greetsiel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~Aurich\Norden\boroughs~NordenGreetsiel.internal.md) 
+### [Greetsiel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norden/boroughs~Norden/Greetsiel.public.md) 
 
-### [Greetsiel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~Aurich\Norden\boroughs~NordenGreetsiel.protect.md) 
+### [Greetsiel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norden/boroughs~Norden/Greetsiel.internal.md) 
 
-### [Greetsiel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~Aurich\Norden\boroughs~NordenGreetsiel.private.md) 
+### [Greetsiel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norden/boroughs~Norden/Greetsiel.protect.md) 
 
-### [Greetsiel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~Aurich\Norden\boroughs~NordenGreetsiel.personal.md) 
+### [Greetsiel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norden/boroughs~Norden/Greetsiel.private.md) 
 
-### [Greetsiel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Aurich\cities~Aurich\Norden\boroughs~NordenGreetsiel.secret.md)
+### [Greetsiel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norden/boroughs~Norden/Greetsiel.personal.md) 
+
+### [Greetsiel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Aurich/cities~Aurich/Norden/boroughs~Norden/Greetsiel.secret.md)
 

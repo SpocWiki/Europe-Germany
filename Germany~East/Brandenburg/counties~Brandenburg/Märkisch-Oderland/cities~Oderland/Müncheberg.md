@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Müncheberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~OderlandMüncheberg.public.md) 
+### [Müncheberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Müncheberg.md) 
 
-### [Müncheberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~OderlandMüncheberg.internal.md) 
+### [Müncheberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Müncheberg.public.md) 
 
-### [Müncheberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~OderlandMüncheberg.protect.md) 
+### [Müncheberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Müncheberg.internal.md) 
 
-### [Müncheberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~OderlandMüncheberg.private.md) 
+### [Müncheberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Müncheberg.protect.md) 
 
-### [Müncheberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~OderlandMüncheberg.personal.md) 
+### [Müncheberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Müncheberg.private.md) 
 
-### [Müncheberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~OderlandMüncheberg.secret.md)
+### [Müncheberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Müncheberg.personal.md) 
+
+### [Müncheberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Müncheberg.secret.md)
 

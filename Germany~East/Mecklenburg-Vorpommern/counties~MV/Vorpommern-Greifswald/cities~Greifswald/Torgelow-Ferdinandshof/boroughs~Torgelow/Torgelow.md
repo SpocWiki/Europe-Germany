@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Torgelow.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Torgelow-Ferdinandshof\boroughs~TorgelowTorgelow.public.md) 
+### [Torgelow](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Torgelow-Ferdinandshof/boroughs~Torgelow/Torgelow.md) 
 
-### [Torgelow.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Torgelow-Ferdinandshof\boroughs~TorgelowTorgelow.internal.md) 
+### [Torgelow.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Torgelow-Ferdinandshof/boroughs~Torgelow/Torgelow.public.md) 
 
-### [Torgelow.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Torgelow-Ferdinandshof\boroughs~TorgelowTorgelow.protect.md) 
+### [Torgelow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Torgelow-Ferdinandshof/boroughs~Torgelow/Torgelow.internal.md) 
 
-### [Torgelow.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Torgelow-Ferdinandshof\boroughs~TorgelowTorgelow.private.md) 
+### [Torgelow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Torgelow-Ferdinandshof/boroughs~Torgelow/Torgelow.protect.md) 
 
-### [Torgelow.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Torgelow-Ferdinandshof\boroughs~TorgelowTorgelow.personal.md) 
+### [Torgelow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Torgelow-Ferdinandshof/boroughs~Torgelow/Torgelow.private.md) 
 
-### [Torgelow.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Greifswald\cities~Greifswald\Torgelow-Ferdinandshof\boroughs~TorgelowTorgelow.secret.md)
+### [Torgelow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Torgelow-Ferdinandshof/boroughs~Torgelow/Torgelow.personal.md) 
+
+### [Torgelow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Torgelow-Ferdinandshof/boroughs~Torgelow/Torgelow.secret.md)
 

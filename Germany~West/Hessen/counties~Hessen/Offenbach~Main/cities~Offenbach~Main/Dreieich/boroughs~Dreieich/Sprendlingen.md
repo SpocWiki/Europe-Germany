@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sprendlingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Offenbach~Main\cities~Offenbach~Main\Dreieich\boroughs~DreieichSprendlingen.public.md) 
+### [Sprendlingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen.md) 
 
-### [Sprendlingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Offenbach~Main\cities~Offenbach~Main\Dreieich\boroughs~DreieichSprendlingen.internal.md) 
+### [Sprendlingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen.public.md) 
 
-### [Sprendlingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Offenbach~Main\cities~Offenbach~Main\Dreieich\boroughs~DreieichSprendlingen.protect.md) 
+### [Sprendlingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen.internal.md) 
 
-### [Sprendlingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Offenbach~Main\cities~Offenbach~Main\Dreieich\boroughs~DreieichSprendlingen.private.md) 
+### [Sprendlingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen.protect.md) 
 
-### [Sprendlingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Offenbach~Main\cities~Offenbach~Main\Dreieich\boroughs~DreieichSprendlingen.personal.md) 
+### [Sprendlingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen.private.md) 
 
-### [Sprendlingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Offenbach~Main\cities~Offenbach~Main\Dreieich\boroughs~DreieichSprendlingen.secret.md)
+### [Sprendlingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen.personal.md) 
+
+### [Sprendlingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kampehl.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\Neustadt~Dosse\boroughs~Neust~Dosse\Neustadt~DosseKampehl.public.md) 
+### [Kampehl](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neustadt~Dosse/boroughs~Neust~Dosse/Neustadt~Dosse/Kampehl.md) 
 
-### [Kampehl.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\Neustadt~Dosse\boroughs~Neust~Dosse\Neustadt~DosseKampehl.internal.md) 
+### [Kampehl.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neustadt~Dosse/boroughs~Neust~Dosse/Neustadt~Dosse/Kampehl.public.md) 
 
-### [Kampehl.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\Neustadt~Dosse\boroughs~Neust~Dosse\Neustadt~DosseKampehl.protect.md) 
+### [Kampehl.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neustadt~Dosse/boroughs~Neust~Dosse/Neustadt~Dosse/Kampehl.internal.md) 
 
-### [Kampehl.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\Neustadt~Dosse\boroughs~Neust~Dosse\Neustadt~DosseKampehl.private.md) 
+### [Kampehl.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neustadt~Dosse/boroughs~Neust~Dosse/Neustadt~Dosse/Kampehl.protect.md) 
 
-### [Kampehl.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\Neustadt~Dosse\boroughs~Neust~Dosse\Neustadt~DosseKampehl.personal.md) 
+### [Kampehl.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neustadt~Dosse/boroughs~Neust~Dosse/Neustadt~Dosse/Kampehl.private.md) 
 
-### [Kampehl.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\Neustadt~Dosse\boroughs~Neust~Dosse\Neustadt~DosseKampehl.secret.md)
+### [Kampehl.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neustadt~Dosse/boroughs~Neust~Dosse/Neustadt~Dosse/Kampehl.personal.md) 
+
+### [Kampehl.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Neustadt~Dosse/boroughs~Neust~Dosse/Neustadt~Dosse/Kampehl.secret.md)
 

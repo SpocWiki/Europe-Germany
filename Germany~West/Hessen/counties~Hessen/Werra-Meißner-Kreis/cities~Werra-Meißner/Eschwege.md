@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eschwege.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-MeißnerEschwege.public.md) 
+### [Eschwege](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Eschwege.md) 
 
-### [Eschwege.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-MeißnerEschwege.internal.md) 
+### [Eschwege.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Eschwege.public.md) 
 
-### [Eschwege.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-MeißnerEschwege.protect.md) 
+### [Eschwege.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Eschwege.internal.md) 
 
-### [Eschwege.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-MeißnerEschwege.private.md) 
+### [Eschwege.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Eschwege.protect.md) 
 
-### [Eschwege.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-MeißnerEschwege.personal.md) 
+### [Eschwege.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Eschwege.private.md) 
 
-### [Eschwege.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Werra-Meißner-Kreis\cities~Werra-MeißnerEschwege.secret.md)
+### [Eschwege.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Eschwege.personal.md) 
+
+### [Eschwege.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Eschwege.secret.md)
 

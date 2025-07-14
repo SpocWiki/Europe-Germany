@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lesum-Burgdamm.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~BremenLesum-Burgdamm.public.md) 
+### [Lesum-Burgdamm](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Lesum-Burgdamm.md) 
 
-### [Lesum-Burgdamm.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~BremenLesum-Burgdamm.internal.md) 
+### [Lesum-Burgdamm.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Lesum-Burgdamm.public.md) 
 
-### [Lesum-Burgdamm.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~BremenLesum-Burgdamm.protect.md) 
+### [Lesum-Burgdamm.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Lesum-Burgdamm.internal.md) 
 
-### [Lesum-Burgdamm.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~BremenLesum-Burgdamm.private.md) 
+### [Lesum-Burgdamm.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Lesum-Burgdamm.protect.md) 
 
-### [Lesum-Burgdamm.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~BremenLesum-Burgdamm.personal.md) 
+### [Lesum-Burgdamm.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Lesum-Burgdamm.private.md) 
 
-### [Lesum-Burgdamm.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~BremenLesum-Burgdamm.secret.md)
+### [Lesum-Burgdamm.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Lesum-Burgdamm.personal.md) 
+
+### [Lesum-Burgdamm.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Lesum-Burgdamm.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Seelow.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~OderlandSeelow.public.md) 
+### [Seelow](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Seelow.md) 
 
-### [Seelow.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~OderlandSeelow.internal.md) 
+### [Seelow.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Seelow.public.md) 
 
-### [Seelow.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~OderlandSeelow.protect.md) 
+### [Seelow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Seelow.internal.md) 
 
-### [Seelow.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~OderlandSeelow.private.md) 
+### [Seelow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Seelow.protect.md) 
 
-### [Seelow.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~OderlandSeelow.personal.md) 
+### [Seelow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Seelow.private.md) 
 
-### [Seelow.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~OderlandSeelow.secret.md)
+### [Seelow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Seelow.personal.md) 
+
+### [Seelow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Seelow.secret.md)
 

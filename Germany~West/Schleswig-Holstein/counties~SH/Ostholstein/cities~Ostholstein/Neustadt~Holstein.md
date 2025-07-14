@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neustadt~Holstein.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinNeustadt~Holstein.public.md) 
+### [Neustadt~Holstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Neustadt~Holstein.md) 
 
-### [Neustadt~Holstein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinNeustadt~Holstein.internal.md) 
+### [Neustadt~Holstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Neustadt~Holstein.public.md) 
 
-### [Neustadt~Holstein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinNeustadt~Holstein.protect.md) 
+### [Neustadt~Holstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Neustadt~Holstein.internal.md) 
 
-### [Neustadt~Holstein.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinNeustadt~Holstein.private.md) 
+### [Neustadt~Holstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Neustadt~Holstein.protect.md) 
 
-### [Neustadt~Holstein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinNeustadt~Holstein.personal.md) 
+### [Neustadt~Holstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Neustadt~Holstein.private.md) 
 
-### [Neustadt~Holstein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinNeustadt~Holstein.secret.md)
+### [Neustadt~Holstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Neustadt~Holstein.personal.md) 
+
+### [Neustadt~Holstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Neustadt~Holstein.secret.md)
 

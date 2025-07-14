@@ -33,15 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [T-Börneplatz_Stolzestraße.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Börneplatz_Stolzestraße.public.md) 
+### [T-Börneplatz_Stolzestraße](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Börneplatz_Stolzestraße.md) 
 
-### [T-Börneplatz_Stolzestraße.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Börneplatz_Stolzestraße.internal.md) 
+### [T-Börneplatz_Stolzestraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Börneplatz_Stolzestraße.public.md) 
 
-### [T-Börneplatz_Stolzestraße.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Börneplatz_Stolzestraße.protect.md) 
+### [T-Börneplatz_Stolzestraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Börneplatz_Stolzestraße.internal.md) 
 
-### [T-Börneplatz_Stolzestraße.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Börneplatz_Stolzestraße.private.md) 
+### [T-Börneplatz_Stolzestraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Börneplatz_Stolzestraße.protect.md) 
 
-### [T-Börneplatz_Stolzestraße.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Börneplatz_Stolzestraße.personal.md) 
+### [T-Börneplatz_Stolzestraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Börneplatz_Stolzestraße.private.md) 
 
-### [T-Börneplatz_Stolzestraße.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~TT-Börneplatz_Stolzestraße.secret.md)
+### [T-Börneplatz_Stolzestraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Börneplatz_Stolzestraße.personal.md) 
+
+### [T-Börneplatz_Stolzestraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Börneplatz_Stolzestraße.secret.md)
 

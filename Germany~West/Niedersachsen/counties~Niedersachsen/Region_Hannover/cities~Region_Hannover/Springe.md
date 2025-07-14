@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Springe.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_HannoverSpringe.public.md) 
+### [Springe](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Springe.md) 
 
-### [Springe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_HannoverSpringe.internal.md) 
+### [Springe.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Springe.public.md) 
 
-### [Springe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_HannoverSpringe.protect.md) 
+### [Springe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Springe.internal.md) 
 
-### [Springe.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_HannoverSpringe.private.md) 
+### [Springe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Springe.protect.md) 
 
-### [Springe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_HannoverSpringe.personal.md) 
+### [Springe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Springe.private.md) 
 
-### [Springe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_HannoverSpringe.secret.md)
+### [Springe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Springe.personal.md) 
+
+### [Springe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Springe.secret.md)
 

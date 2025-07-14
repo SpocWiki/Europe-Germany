@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Löhne.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~HerfordLöhne.public.md) 
+### [Löhne](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Löhne.md) 
 
-### [Löhne.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~HerfordLöhne.internal.md) 
+### [Löhne.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Löhne.public.md) 
 
-### [Löhne.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~HerfordLöhne.protect.md) 
+### [Löhne.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Löhne.internal.md) 
 
-### [Löhne.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~HerfordLöhne.private.md) 
+### [Löhne.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Löhne.protect.md) 
 
-### [Löhne.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~HerfordLöhne.personal.md) 
+### [Löhne.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Löhne.private.md) 
 
-### [Löhne.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~HerfordLöhne.secret.md)
+### [Löhne.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Löhne.personal.md) 
+
+### [Löhne.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Löhne.secret.md)
 

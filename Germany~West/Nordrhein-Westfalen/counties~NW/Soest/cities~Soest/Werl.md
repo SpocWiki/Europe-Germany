@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Werl.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~SoestWerl.public.md) 
+### [Werl](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Werl.md) 
 
-### [Werl.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~SoestWerl.internal.md) 
+### [Werl.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Werl.public.md) 
 
-### [Werl.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~SoestWerl.protect.md) 
+### [Werl.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Werl.internal.md) 
 
-### [Werl.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~SoestWerl.private.md) 
+### [Werl.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Werl.protect.md) 
 
-### [Werl.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~SoestWerl.personal.md) 
+### [Werl.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Werl.private.md) 
 
-### [Werl.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~SoestWerl.secret.md)
+### [Werl.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Werl.personal.md) 
+
+### [Werl.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Werl.secret.md)
 

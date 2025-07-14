@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Strausberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~OderlandStrausberg.public.md) 
+### [Strausberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Strausberg.md) 
 
-### [Strausberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~OderlandStrausberg.internal.md) 
+### [Strausberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Strausberg.public.md) 
 
-### [Strausberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~OderlandStrausberg.protect.md) 
+### [Strausberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Strausberg.internal.md) 
 
-### [Strausberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~OderlandStrausberg.private.md) 
+### [Strausberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Strausberg.protect.md) 
 
-### [Strausberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~OderlandStrausberg.personal.md) 
+### [Strausberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Strausberg.private.md) 
 
-### [Strausberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Märkisch-Oderland\cities~OderlandStrausberg.secret.md)
+### [Strausberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Strausberg.personal.md) 
+
+### [Strausberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Strausberg.secret.md)
 

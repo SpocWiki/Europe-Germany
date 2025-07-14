@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Serba.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-Holzland\Klosterlausnitz\CitySerba.public.md) 
+### [Serba](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Klosterlausnitz/City/Serba.md) 
 
-### [Serba.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-Holzland\Klosterlausnitz\CitySerba.internal.md) 
+### [Serba.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Klosterlausnitz/City/Serba.public.md) 
 
-### [Serba.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-Holzland\Klosterlausnitz\CitySerba.protect.md) 
+### [Serba.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Klosterlausnitz/City/Serba.internal.md) 
 
-### [Serba.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-Holzland\Klosterlausnitz\CitySerba.private.md) 
+### [Serba.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Klosterlausnitz/City/Serba.protect.md) 
 
-### [Serba.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-Holzland\Klosterlausnitz\CitySerba.personal.md) 
+### [Serba.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Klosterlausnitz/City/Serba.private.md) 
 
-### [Serba.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Holzland-Kreis\cities~Saale-Holzland\Klosterlausnitz\CitySerba.secret.md)
+### [Serba.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Klosterlausnitz/City/Serba.personal.md) 
+
+### [Serba.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Holzland-Kreis/cities~Saale-Holzland/Klosterlausnitz/City/Serba.secret.md)
 

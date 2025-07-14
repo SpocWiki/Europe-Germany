@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Castrop.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~Recklinghausen\Castrop-RauxelCastrop.public.md) 
+### [Castrop](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Castrop-Rauxel/Castrop.md) 
 
-### [Castrop.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~Recklinghausen\Castrop-RauxelCastrop.internal.md) 
+### [Castrop.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Castrop-Rauxel/Castrop.public.md) 
 
-### [Castrop.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~Recklinghausen\Castrop-RauxelCastrop.protect.md) 
+### [Castrop.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Castrop-Rauxel/Castrop.internal.md) 
 
-### [Castrop.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~Recklinghausen\Castrop-RauxelCastrop.private.md) 
+### [Castrop.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Castrop-Rauxel/Castrop.protect.md) 
 
-### [Castrop.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~Recklinghausen\Castrop-RauxelCastrop.personal.md) 
+### [Castrop.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Castrop-Rauxel/Castrop.private.md) 
 
-### [Castrop.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~Recklinghausen\Castrop-RauxelCastrop.secret.md)
+### [Castrop.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Castrop-Rauxel/Castrop.personal.md) 
+
+### [Castrop.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Castrop-Rauxel/Castrop.secret.md)
 

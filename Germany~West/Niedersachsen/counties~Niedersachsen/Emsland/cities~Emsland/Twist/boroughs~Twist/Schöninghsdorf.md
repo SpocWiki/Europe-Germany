@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schöninghsdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Twist\boroughs~TwistSchöninghsdorf.public.md) 
+### [Schöninghsdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Twist/boroughs~Twist/Schöninghsdorf.md) 
 
-### [Schöninghsdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Twist\boroughs~TwistSchöninghsdorf.internal.md) 
+### [Schöninghsdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Twist/boroughs~Twist/Schöninghsdorf.public.md) 
 
-### [Schöninghsdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Twist\boroughs~TwistSchöninghsdorf.protect.md) 
+### [Schöninghsdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Twist/boroughs~Twist/Schöninghsdorf.internal.md) 
 
-### [Schöninghsdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Twist\boroughs~TwistSchöninghsdorf.private.md) 
+### [Schöninghsdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Twist/boroughs~Twist/Schöninghsdorf.protect.md) 
 
-### [Schöninghsdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Twist\boroughs~TwistSchöninghsdorf.personal.md) 
+### [Schöninghsdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Twist/boroughs~Twist/Schöninghsdorf.private.md) 
 
-### [Schöninghsdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Twist\boroughs~TwistSchöninghsdorf.secret.md)
+### [Schöninghsdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Twist/boroughs~Twist/Schöninghsdorf.personal.md) 
+
+### [Schöninghsdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Twist/boroughs~Twist/Schöninghsdorf.secret.md)
 

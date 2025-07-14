@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Herzfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Parchim\boroughs~ParchimHerzfeld.public.md) 
+### [Herzfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Parchim/boroughs~Parchim/Herzfeld.md) 
 
-### [Herzfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Parchim\boroughs~ParchimHerzfeld.internal.md) 
+### [Herzfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Parchim/boroughs~Parchim/Herzfeld.public.md) 
 
-### [Herzfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Parchim\boroughs~ParchimHerzfeld.protect.md) 
+### [Herzfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Parchim/boroughs~Parchim/Herzfeld.internal.md) 
 
-### [Herzfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Parchim\boroughs~ParchimHerzfeld.private.md) 
+### [Herzfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Parchim/boroughs~Parchim/Herzfeld.protect.md) 
 
-### [Herzfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Parchim\boroughs~ParchimHerzfeld.personal.md) 
+### [Herzfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Parchim/boroughs~Parchim/Herzfeld.private.md) 
 
-### [Herzfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Parchim\boroughs~ParchimHerzfeld.secret.md)
+### [Herzfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Parchim/boroughs~Parchim/Herzfeld.personal.md) 
+
+### [Herzfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Parchim/boroughs~Parchim/Herzfeld.secret.md)
 

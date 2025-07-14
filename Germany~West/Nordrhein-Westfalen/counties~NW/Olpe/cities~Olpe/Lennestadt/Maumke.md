@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Maumke.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~Olpe\LennestadtMaumke.public.md) 
+### [Maumke](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Lennestadt/Maumke.md) 
 
-### [Maumke.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~Olpe\LennestadtMaumke.internal.md) 
+### [Maumke.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Lennestadt/Maumke.public.md) 
 
-### [Maumke.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~Olpe\LennestadtMaumke.protect.md) 
+### [Maumke.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Lennestadt/Maumke.internal.md) 
 
-### [Maumke.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~Olpe\LennestadtMaumke.private.md) 
+### [Maumke.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Lennestadt/Maumke.protect.md) 
 
-### [Maumke.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~Olpe\LennestadtMaumke.personal.md) 
+### [Maumke.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Lennestadt/Maumke.private.md) 
 
-### [Maumke.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Olpe\cities~Olpe\LennestadtMaumke.secret.md)
+### [Maumke.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Lennestadt/Maumke.personal.md) 
+
+### [Maumke.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Olpe/cities~Olpe/Lennestadt/Maumke.secret.md)
 

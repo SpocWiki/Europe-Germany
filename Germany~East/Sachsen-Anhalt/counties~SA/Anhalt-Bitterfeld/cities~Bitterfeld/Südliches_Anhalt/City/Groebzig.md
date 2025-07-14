@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Groebzig.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Südliches_Anhalt\CityGroebzig.public.md) 
+### [Groebzig](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Südliches_Anhalt/City/Groebzig.md) 
 
-### [Groebzig.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Südliches_Anhalt\CityGroebzig.internal.md) 
+### [Groebzig.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Südliches_Anhalt/City/Groebzig.public.md) 
 
-### [Groebzig.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Südliches_Anhalt\CityGroebzig.protect.md) 
+### [Groebzig.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Südliches_Anhalt/City/Groebzig.internal.md) 
 
-### [Groebzig.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Südliches_Anhalt\CityGroebzig.private.md) 
+### [Groebzig.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Südliches_Anhalt/City/Groebzig.protect.md) 
 
-### [Groebzig.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Südliches_Anhalt\CityGroebzig.personal.md) 
+### [Groebzig.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Südliches_Anhalt/City/Groebzig.private.md) 
 
-### [Groebzig.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Anhalt-Bitterfeld\cities~Bitterfeld\Südliches_Anhalt\CityGroebzig.secret.md)
+### [Groebzig.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Südliches_Anhalt/City/Groebzig.personal.md) 
+
+### [Groebzig.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Südliches_Anhalt/City/Groebzig.secret.md)
 

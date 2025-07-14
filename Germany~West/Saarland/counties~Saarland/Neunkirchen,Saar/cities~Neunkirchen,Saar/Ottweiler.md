@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ottweiler.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,SaarOttweiler.public.md) 
+### [Ottweiler](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Ottweiler.md) 
 
-### [Ottweiler.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,SaarOttweiler.internal.md) 
+### [Ottweiler.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Ottweiler.public.md) 
 
-### [Ottweiler.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,SaarOttweiler.protect.md) 
+### [Ottweiler.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Ottweiler.internal.md) 
 
-### [Ottweiler.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,SaarOttweiler.private.md) 
+### [Ottweiler.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Ottweiler.protect.md) 
 
-### [Ottweiler.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,SaarOttweiler.personal.md) 
+### [Ottweiler.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Ottweiler.private.md) 
 
-### [Ottweiler.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,SaarOttweiler.secret.md)
+### [Ottweiler.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Ottweiler.personal.md) 
+
+### [Ottweiler.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Ottweiler.secret.md)
 

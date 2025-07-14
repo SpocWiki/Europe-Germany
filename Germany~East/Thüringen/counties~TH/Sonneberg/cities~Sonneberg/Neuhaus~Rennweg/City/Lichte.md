@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lichte.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Neuhaus~Rennweg\CityLichte.public.md) 
+### [Lichte](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Neuhaus~Rennweg/City/Lichte.md) 
 
-### [Lichte.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Neuhaus~Rennweg\CityLichte.internal.md) 
+### [Lichte.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Neuhaus~Rennweg/City/Lichte.public.md) 
 
-### [Lichte.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Neuhaus~Rennweg\CityLichte.protect.md) 
+### [Lichte.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Neuhaus~Rennweg/City/Lichte.internal.md) 
 
-### [Lichte.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Neuhaus~Rennweg\CityLichte.private.md) 
+### [Lichte.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Neuhaus~Rennweg/City/Lichte.protect.md) 
 
-### [Lichte.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Neuhaus~Rennweg\CityLichte.personal.md) 
+### [Lichte.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Neuhaus~Rennweg/City/Lichte.private.md) 
 
-### [Lichte.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Neuhaus~Rennweg\CityLichte.secret.md)
+### [Lichte.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Neuhaus~Rennweg/City/Lichte.personal.md) 
+
+### [Lichte.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Neuhaus~Rennweg/City/Lichte.secret.md)
 

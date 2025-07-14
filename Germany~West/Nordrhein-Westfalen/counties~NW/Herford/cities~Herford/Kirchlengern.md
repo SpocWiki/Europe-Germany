@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kirchlengern.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~HerfordKirchlengern.public.md) 
+### [Kirchlengern](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Kirchlengern.md) 
 
-### [Kirchlengern.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~HerfordKirchlengern.internal.md) 
+### [Kirchlengern.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Kirchlengern.public.md) 
 
-### [Kirchlengern.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~HerfordKirchlengern.protect.md) 
+### [Kirchlengern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Kirchlengern.internal.md) 
 
-### [Kirchlengern.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~HerfordKirchlengern.private.md) 
+### [Kirchlengern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Kirchlengern.protect.md) 
 
-### [Kirchlengern.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~HerfordKirchlengern.personal.md) 
+### [Kirchlengern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Kirchlengern.private.md) 
 
-### [Kirchlengern.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~HerfordKirchlengern.secret.md)
+### [Kirchlengern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Kirchlengern.personal.md) 
+
+### [Kirchlengern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Kirchlengern.secret.md)
 

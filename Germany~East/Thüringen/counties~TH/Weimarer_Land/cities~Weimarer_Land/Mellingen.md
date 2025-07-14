@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mellingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Weimarer_Land\cities~Weimarer_LandMellingen.public.md) 
+### [Mellingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Mellingen.md) 
 
-### [Mellingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Weimarer_Land\cities~Weimarer_LandMellingen.internal.md) 
+### [Mellingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Mellingen.public.md) 
 
-### [Mellingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Weimarer_Land\cities~Weimarer_LandMellingen.protect.md) 
+### [Mellingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Mellingen.internal.md) 
 
-### [Mellingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Weimarer_Land\cities~Weimarer_LandMellingen.private.md) 
+### [Mellingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Mellingen.protect.md) 
 
-### [Mellingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Weimarer_Land\cities~Weimarer_LandMellingen.personal.md) 
+### [Mellingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Mellingen.private.md) 
 
-### [Mellingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Weimarer_Land\cities~Weimarer_LandMellingen.secret.md)
+### [Mellingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Mellingen.personal.md) 
+
+### [Mellingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Mellingen.secret.md)
 

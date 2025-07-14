@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Arnsfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Annaberg-Buchholz\CityArnsfeld.public.md) 
+### [Arnsfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Annaberg-Buchholz/City/Arnsfeld.md) 
 
-### [Arnsfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Annaberg-Buchholz\CityArnsfeld.internal.md) 
+### [Arnsfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Annaberg-Buchholz/City/Arnsfeld.public.md) 
 
-### [Arnsfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Annaberg-Buchholz\CityArnsfeld.protect.md) 
+### [Arnsfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Annaberg-Buchholz/City/Arnsfeld.internal.md) 
 
-### [Arnsfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Annaberg-Buchholz\CityArnsfeld.private.md) 
+### [Arnsfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Annaberg-Buchholz/City/Arnsfeld.protect.md) 
 
-### [Arnsfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Annaberg-Buchholz\CityArnsfeld.personal.md) 
+### [Arnsfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Annaberg-Buchholz/City/Arnsfeld.private.md) 
 
-### [Arnsfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Annaberg-Buchholz\CityArnsfeld.secret.md)
+### [Arnsfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Annaberg-Buchholz/City/Arnsfeld.personal.md) 
+
+### [Arnsfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Annaberg-Buchholz/City/Arnsfeld.secret.md)
 

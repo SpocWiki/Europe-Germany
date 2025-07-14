@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Warburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~HöxterWarburg.public.md) 
+### [Warburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Warburg.md) 
 
-### [Warburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~HöxterWarburg.internal.md) 
+### [Warburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Warburg.public.md) 
 
-### [Warburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~HöxterWarburg.protect.md) 
+### [Warburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Warburg.internal.md) 
 
-### [Warburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~HöxterWarburg.private.md) 
+### [Warburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Warburg.protect.md) 
 
-### [Warburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~HöxterWarburg.personal.md) 
+### [Warburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Warburg.private.md) 
 
-### [Warburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~HöxterWarburg.secret.md)
+### [Warburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Warburg.personal.md) 
+
+### [Warburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Warburg.secret.md)
 

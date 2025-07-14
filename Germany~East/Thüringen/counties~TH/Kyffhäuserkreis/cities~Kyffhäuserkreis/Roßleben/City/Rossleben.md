@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rossleben.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\Roßleben\CityRossleben.public.md) 
+### [Rossleben](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Roßleben/City/Rossleben.md) 
 
-### [Rossleben.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\Roßleben\CityRossleben.internal.md) 
+### [Rossleben.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Roßleben/City/Rossleben.public.md) 
 
-### [Rossleben.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\Roßleben\CityRossleben.protect.md) 
+### [Rossleben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Roßleben/City/Rossleben.internal.md) 
 
-### [Rossleben.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\Roßleben\CityRossleben.private.md) 
+### [Rossleben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Roßleben/City/Rossleben.protect.md) 
 
-### [Rossleben.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\Roßleben\CityRossleben.personal.md) 
+### [Rossleben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Roßleben/City/Rossleben.private.md) 
 
-### [Rossleben.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\Roßleben\CityRossleben.secret.md)
+### [Rossleben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Roßleben/City/Rossleben.personal.md) 
+
+### [Rossleben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/Roßleben/City/Rossleben.secret.md)
 

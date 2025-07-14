@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Haßleben,Boitzenburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~Uckermark\Boitzenburger_LandHaßleben,Boitzenburg.public.md) 
+### [Haßleben,Boitzenburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Boitzenburger_Land/Haßleben,Boitzenburg.md) 
 
-### [Haßleben,Boitzenburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~Uckermark\Boitzenburger_LandHaßleben,Boitzenburg.internal.md) 
+### [Haßleben,Boitzenburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Boitzenburger_Land/Haßleben,Boitzenburg.public.md) 
 
-### [Haßleben,Boitzenburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~Uckermark\Boitzenburger_LandHaßleben,Boitzenburg.protect.md) 
+### [Haßleben,Boitzenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Boitzenburger_Land/Haßleben,Boitzenburg.internal.md) 
 
-### [Haßleben,Boitzenburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~Uckermark\Boitzenburger_LandHaßleben,Boitzenburg.private.md) 
+### [Haßleben,Boitzenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Boitzenburger_Land/Haßleben,Boitzenburg.protect.md) 
 
-### [Haßleben,Boitzenburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~Uckermark\Boitzenburger_LandHaßleben,Boitzenburg.personal.md) 
+### [Haßleben,Boitzenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Boitzenburger_Land/Haßleben,Boitzenburg.private.md) 
 
-### [Haßleben,Boitzenburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~Uckermark\Boitzenburger_LandHaßleben,Boitzenburg.secret.md)
+### [Haßleben,Boitzenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Boitzenburger_Land/Haßleben,Boitzenburg.personal.md) 
+
+### [Haßleben,Boitzenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Boitzenburger_Land/Haßleben,Boitzenburg.secret.md)
 

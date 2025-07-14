@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kempen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~ViersenKempen.public.md) 
+### [Kempen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Kempen.md) 
 
-### [Kempen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~ViersenKempen.internal.md) 
+### [Kempen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Kempen.public.md) 
 
-### [Kempen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~ViersenKempen.protect.md) 
+### [Kempen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Kempen.internal.md) 
 
-### [Kempen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~ViersenKempen.private.md) 
+### [Kempen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Kempen.protect.md) 
 
-### [Kempen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~ViersenKempen.personal.md) 
+### [Kempen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Kempen.private.md) 
 
-### [Kempen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~ViersenKempen.secret.md)
+### [Kempen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Kempen.personal.md) 
+
+### [Kempen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Kempen.secret.md)
 

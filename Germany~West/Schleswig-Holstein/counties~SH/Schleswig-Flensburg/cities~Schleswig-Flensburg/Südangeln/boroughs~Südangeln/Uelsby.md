@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Uelsby.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Schleswig-Flensburg\cities~Schleswig-Flensburg\Südangeln\boroughs~SüdangelnUelsby.public.md) 
+### [Uelsby](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Südangeln/boroughs~Südangeln/Uelsby.md) 
 
-### [Uelsby.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Schleswig-Flensburg\cities~Schleswig-Flensburg\Südangeln\boroughs~SüdangelnUelsby.internal.md) 
+### [Uelsby.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Südangeln/boroughs~Südangeln/Uelsby.public.md) 
 
-### [Uelsby.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Schleswig-Flensburg\cities~Schleswig-Flensburg\Südangeln\boroughs~SüdangelnUelsby.protect.md) 
+### [Uelsby.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Südangeln/boroughs~Südangeln/Uelsby.internal.md) 
 
-### [Uelsby.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Schleswig-Flensburg\cities~Schleswig-Flensburg\Südangeln\boroughs~SüdangelnUelsby.private.md) 
+### [Uelsby.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Südangeln/boroughs~Südangeln/Uelsby.protect.md) 
 
-### [Uelsby.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Schleswig-Flensburg\cities~Schleswig-Flensburg\Südangeln\boroughs~SüdangelnUelsby.personal.md) 
+### [Uelsby.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Südangeln/boroughs~Südangeln/Uelsby.private.md) 
 
-### [Uelsby.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Schleswig-Flensburg\cities~Schleswig-Flensburg\Südangeln\boroughs~SüdangelnUelsby.secret.md)
+### [Uelsby.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Südangeln/boroughs~Südangeln/Uelsby.personal.md) 
+
+### [Uelsby.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Südangeln/boroughs~Südangeln/Uelsby.secret.md)
 

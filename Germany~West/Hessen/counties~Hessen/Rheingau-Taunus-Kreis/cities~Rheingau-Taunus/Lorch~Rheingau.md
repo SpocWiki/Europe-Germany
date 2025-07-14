@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lorch~Rheingau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Rheingau-Taunus-Kreis\cities~Rheingau-TaunusLorch~Rheingau.public.md) 
+### [Lorch~Rheingau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Lorch~Rheingau.md) 
 
-### [Lorch~Rheingau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Rheingau-Taunus-Kreis\cities~Rheingau-TaunusLorch~Rheingau.internal.md) 
+### [Lorch~Rheingau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Lorch~Rheingau.public.md) 
 
-### [Lorch~Rheingau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Rheingau-Taunus-Kreis\cities~Rheingau-TaunusLorch~Rheingau.protect.md) 
+### [Lorch~Rheingau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Lorch~Rheingau.internal.md) 
 
-### [Lorch~Rheingau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Rheingau-Taunus-Kreis\cities~Rheingau-TaunusLorch~Rheingau.private.md) 
+### [Lorch~Rheingau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Lorch~Rheingau.protect.md) 
 
-### [Lorch~Rheingau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Rheingau-Taunus-Kreis\cities~Rheingau-TaunusLorch~Rheingau.personal.md) 
+### [Lorch~Rheingau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Lorch~Rheingau.private.md) 
 
-### [Lorch~Rheingau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Rheingau-Taunus-Kreis\cities~Rheingau-TaunusLorch~Rheingau.secret.md)
+### [Lorch~Rheingau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Lorch~Rheingau.personal.md) 
+
+### [Lorch~Rheingau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Lorch~Rheingau.secret.md)
 

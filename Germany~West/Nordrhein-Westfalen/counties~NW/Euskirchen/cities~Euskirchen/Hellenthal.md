@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hellenthal.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~EuskirchenHellenthal.public.md) 
+### [Hellenthal](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Hellenthal.md) 
 
-### [Hellenthal.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~EuskirchenHellenthal.internal.md) 
+### [Hellenthal.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Hellenthal.public.md) 
 
-### [Hellenthal.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~EuskirchenHellenthal.protect.md) 
+### [Hellenthal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Hellenthal.internal.md) 
 
-### [Hellenthal.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~EuskirchenHellenthal.private.md) 
+### [Hellenthal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Hellenthal.protect.md) 
 
-### [Hellenthal.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~EuskirchenHellenthal.personal.md) 
+### [Hellenthal.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Hellenthal.private.md) 
 
-### [Hellenthal.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~EuskirchenHellenthal.secret.md)
+### [Hellenthal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Hellenthal.personal.md) 
+
+### [Hellenthal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Hellenthal.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wolmirsleben.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Egelner_Mulde\CityWolmirsleben.public.md) 
+### [Wolmirsleben](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Egelner_Mulde/City/Wolmirsleben.md) 
 
-### [Wolmirsleben.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Egelner_Mulde\CityWolmirsleben.internal.md) 
+### [Wolmirsleben.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Egelner_Mulde/City/Wolmirsleben.public.md) 
 
-### [Wolmirsleben.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Egelner_Mulde\CityWolmirsleben.protect.md) 
+### [Wolmirsleben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Egelner_Mulde/City/Wolmirsleben.internal.md) 
 
-### [Wolmirsleben.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Egelner_Mulde\CityWolmirsleben.private.md) 
+### [Wolmirsleben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Egelner_Mulde/City/Wolmirsleben.protect.md) 
 
-### [Wolmirsleben.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Egelner_Mulde\CityWolmirsleben.personal.md) 
+### [Wolmirsleben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Egelner_Mulde/City/Wolmirsleben.private.md) 
 
-### [Wolmirsleben.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Egelner_Mulde\CityWolmirsleben.secret.md)
+### [Wolmirsleben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Egelner_Mulde/City/Wolmirsleben.personal.md) 
+
+### [Wolmirsleben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Egelner_Mulde/City/Wolmirsleben.secret.md)
 

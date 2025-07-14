@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gotha.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Gotha-city\CityGotha.public.md) 
+### [Gotha](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Gotha-city/City/Gotha.md) 
 
-### [Gotha.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Gotha-city\CityGotha.internal.md) 
+### [Gotha.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Gotha-city/City/Gotha.public.md) 
 
-### [Gotha.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Gotha-city\CityGotha.protect.md) 
+### [Gotha.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Gotha-city/City/Gotha.internal.md) 
 
-### [Gotha.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Gotha-city\CityGotha.private.md) 
+### [Gotha.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Gotha-city/City/Gotha.protect.md) 
 
-### [Gotha.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Gotha-city\CityGotha.personal.md) 
+### [Gotha.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Gotha-city/City/Gotha.private.md) 
 
-### [Gotha.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Gotha\cities~Gotha\Gotha-city\CityGotha.secret.md)
+### [Gotha.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Gotha-city/City/Gotha.personal.md) 
+
+### [Gotha.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Gotha-city/City/Gotha.secret.md)
 

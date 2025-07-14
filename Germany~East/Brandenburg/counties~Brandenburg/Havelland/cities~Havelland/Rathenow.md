@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rathenow.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~HavellandRathenow.public.md) 
+### [Rathenow](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rathenow.md) 
 
-### [Rathenow.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~HavellandRathenow.internal.md) 
+### [Rathenow.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rathenow.public.md) 
 
-### [Rathenow.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~HavellandRathenow.protect.md) 
+### [Rathenow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rathenow.internal.md) 
 
-### [Rathenow.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~HavellandRathenow.private.md) 
+### [Rathenow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rathenow.protect.md) 
 
-### [Rathenow.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~HavellandRathenow.personal.md) 
+### [Rathenow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rathenow.private.md) 
 
-### [Rathenow.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~HavellandRathenow.secret.md)
+### [Rathenow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rathenow.personal.md) 
+
+### [Rathenow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rathenow.secret.md)
 

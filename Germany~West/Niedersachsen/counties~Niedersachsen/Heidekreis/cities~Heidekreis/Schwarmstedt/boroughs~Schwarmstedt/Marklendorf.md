@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marklendorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Schwarmstedt\boroughs~SchwarmstedtMarklendorf.public.md) 
+### [Marklendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Marklendorf.md) 
 
-### [Marklendorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Schwarmstedt\boroughs~SchwarmstedtMarklendorf.internal.md) 
+### [Marklendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Marklendorf.public.md) 
 
-### [Marklendorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Schwarmstedt\boroughs~SchwarmstedtMarklendorf.protect.md) 
+### [Marklendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Marklendorf.internal.md) 
 
-### [Marklendorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Schwarmstedt\boroughs~SchwarmstedtMarklendorf.private.md) 
+### [Marklendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Marklendorf.protect.md) 
 
-### [Marklendorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Schwarmstedt\boroughs~SchwarmstedtMarklendorf.personal.md) 
+### [Marklendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Marklendorf.private.md) 
 
-### [Marklendorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Schwarmstedt\boroughs~SchwarmstedtMarklendorf.secret.md)
+### [Marklendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Marklendorf.personal.md) 
+
+### [Marklendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Marklendorf.secret.md)
 

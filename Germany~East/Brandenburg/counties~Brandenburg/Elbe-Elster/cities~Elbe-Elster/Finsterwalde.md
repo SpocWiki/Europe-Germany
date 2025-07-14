@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Finsterwalde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Elbe-Elster\cities~Elbe-ElsterFinsterwalde.public.md) 
+### [Finsterwalde](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Finsterwalde.md) 
 
-### [Finsterwalde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Elbe-Elster\cities~Elbe-ElsterFinsterwalde.internal.md) 
+### [Finsterwalde.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Finsterwalde.public.md) 
 
-### [Finsterwalde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Elbe-Elster\cities~Elbe-ElsterFinsterwalde.protect.md) 
+### [Finsterwalde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Finsterwalde.internal.md) 
 
-### [Finsterwalde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Elbe-Elster\cities~Elbe-ElsterFinsterwalde.private.md) 
+### [Finsterwalde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Finsterwalde.protect.md) 
 
-### [Finsterwalde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Elbe-Elster\cities~Elbe-ElsterFinsterwalde.personal.md) 
+### [Finsterwalde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Finsterwalde.private.md) 
 
-### [Finsterwalde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Elbe-Elster\cities~Elbe-ElsterFinsterwalde.secret.md)
+### [Finsterwalde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Finsterwalde.personal.md) 
+
+### [Finsterwalde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Finsterwalde.secret.md)
 

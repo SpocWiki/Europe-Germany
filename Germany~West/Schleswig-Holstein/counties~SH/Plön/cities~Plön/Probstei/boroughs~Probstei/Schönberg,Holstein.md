@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schönberg,Holstein.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Probstei\boroughs~ProbsteiSchönberg,Holstein.public.md) 
+### [Schönberg,Holstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Probstei/boroughs~Probstei/Schönberg,Holstein.md) 
 
-### [Schönberg,Holstein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Probstei\boroughs~ProbsteiSchönberg,Holstein.internal.md) 
+### [Schönberg,Holstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Probstei/boroughs~Probstei/Schönberg,Holstein.public.md) 
 
-### [Schönberg,Holstein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Probstei\boroughs~ProbsteiSchönberg,Holstein.protect.md) 
+### [Schönberg,Holstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Probstei/boroughs~Probstei/Schönberg,Holstein.internal.md) 
 
-### [Schönberg,Holstein.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Probstei\boroughs~ProbsteiSchönberg,Holstein.private.md) 
+### [Schönberg,Holstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Probstei/boroughs~Probstei/Schönberg,Holstein.protect.md) 
 
-### [Schönberg,Holstein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Probstei\boroughs~ProbsteiSchönberg,Holstein.personal.md) 
+### [Schönberg,Holstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Probstei/boroughs~Probstei/Schönberg,Holstein.private.md) 
 
-### [Schönberg,Holstein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\Probstei\boroughs~ProbsteiSchönberg,Holstein.secret.md)
+### [Schönberg,Holstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Probstei/boroughs~Probstei/Schönberg,Holstein.personal.md) 
+
+### [Schönberg,Holstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Probstei/boroughs~Probstei/Schönberg,Holstein.secret.md)
 

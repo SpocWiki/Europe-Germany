@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wehrshausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-Biedenkopf\Marburg\boroughs~MarburgWehrshausen.public.md) 
+### [Wehrshausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Marburg/boroughs~Marburg/Wehrshausen.md) 
 
-### [Wehrshausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-Biedenkopf\Marburg\boroughs~MarburgWehrshausen.internal.md) 
+### [Wehrshausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Marburg/boroughs~Marburg/Wehrshausen.public.md) 
 
-### [Wehrshausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-Biedenkopf\Marburg\boroughs~MarburgWehrshausen.protect.md) 
+### [Wehrshausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Marburg/boroughs~Marburg/Wehrshausen.internal.md) 
 
-### [Wehrshausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-Biedenkopf\Marburg\boroughs~MarburgWehrshausen.private.md) 
+### [Wehrshausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Marburg/boroughs~Marburg/Wehrshausen.protect.md) 
 
-### [Wehrshausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-Biedenkopf\Marburg\boroughs~MarburgWehrshausen.personal.md) 
+### [Wehrshausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Marburg/boroughs~Marburg/Wehrshausen.private.md) 
 
-### [Wehrshausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Marburg-Biedenkopf\cities~Marburg-Biedenkopf\Marburg\boroughs~MarburgWehrshausen.secret.md)
+### [Wehrshausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Marburg/boroughs~Marburg/Wehrshausen.personal.md) 
+
+### [Wehrshausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Marburg/boroughs~Marburg/Wehrshausen.secret.md)
 

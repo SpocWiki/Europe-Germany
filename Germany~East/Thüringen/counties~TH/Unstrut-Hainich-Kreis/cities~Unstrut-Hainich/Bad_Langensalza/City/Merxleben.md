@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Merxleben.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Bad_Langensalza\CityMerxleben.public.md) 
+### [Merxleben](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Bad_Langensalza/City/Merxleben.md) 
 
-### [Merxleben.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Bad_Langensalza\CityMerxleben.internal.md) 
+### [Merxleben.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Bad_Langensalza/City/Merxleben.public.md) 
 
-### [Merxleben.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Bad_Langensalza\CityMerxleben.protect.md) 
+### [Merxleben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Bad_Langensalza/City/Merxleben.internal.md) 
 
-### [Merxleben.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Bad_Langensalza\CityMerxleben.private.md) 
+### [Merxleben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Bad_Langensalza/City/Merxleben.protect.md) 
 
-### [Merxleben.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Bad_Langensalza\CityMerxleben.personal.md) 
+### [Merxleben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Bad_Langensalza/City/Merxleben.private.md) 
 
-### [Merxleben.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Bad_Langensalza\CityMerxleben.secret.md)
+### [Merxleben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Bad_Langensalza/City/Merxleben.personal.md) 
+
+### [Merxleben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Bad_Langensalza/City/Merxleben.secret.md)
 

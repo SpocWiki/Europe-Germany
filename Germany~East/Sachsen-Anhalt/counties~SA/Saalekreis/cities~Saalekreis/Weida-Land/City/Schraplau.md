@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schraplau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~Saalekreis\Weida-Land\CitySchraplau.public.md) 
+### [Schraplau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Weida-Land/City/Schraplau.md) 
 
-### [Schraplau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~Saalekreis\Weida-Land\CitySchraplau.internal.md) 
+### [Schraplau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Weida-Land/City/Schraplau.public.md) 
 
-### [Schraplau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~Saalekreis\Weida-Land\CitySchraplau.protect.md) 
+### [Schraplau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Weida-Land/City/Schraplau.internal.md) 
 
-### [Schraplau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~Saalekreis\Weida-Land\CitySchraplau.private.md) 
+### [Schraplau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Weida-Land/City/Schraplau.protect.md) 
 
-### [Schraplau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~Saalekreis\Weida-Land\CitySchraplau.personal.md) 
+### [Schraplau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Weida-Land/City/Schraplau.private.md) 
 
-### [Schraplau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~Saalekreis\Weida-Land\CitySchraplau.secret.md)
+### [Schraplau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Weida-Land/City/Schraplau.personal.md) 
+
+### [Schraplau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Weida-Land/City/Schraplau.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Ingbert.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarpfalz-Kreis\cities~Saarpfalz-KreisSt.Ingbert.public.md) 
+### [St.Ingbert](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert.md) 
 
-### [St.Ingbert.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarpfalz-Kreis\cities~Saarpfalz-KreisSt.Ingbert.internal.md) 
+### [St.Ingbert.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert.public.md) 
 
-### [St.Ingbert.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarpfalz-Kreis\cities~Saarpfalz-KreisSt.Ingbert.protect.md) 
+### [St.Ingbert.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert.internal.md) 
 
-### [St.Ingbert.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarpfalz-Kreis\cities~Saarpfalz-KreisSt.Ingbert.private.md) 
+### [St.Ingbert.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert.protect.md) 
 
-### [St.Ingbert.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarpfalz-Kreis\cities~Saarpfalz-KreisSt.Ingbert.personal.md) 
+### [St.Ingbert.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert.private.md) 
 
-### [St.Ingbert.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarpfalz-Kreis\cities~Saarpfalz-KreisSt.Ingbert.secret.md)
+### [St.Ingbert.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert.personal.md) 
+
+### [St.Ingbert.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert.secret.md)
 

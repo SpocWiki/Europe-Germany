@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Moorburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgMoorburg.public.md) 
+### [Moorburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Moorburg.md) 
 
-### [Moorburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgMoorburg.internal.md) 
+### [Moorburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Moorburg.public.md) 
 
-### [Moorburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgMoorburg.protect.md) 
+### [Moorburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Moorburg.internal.md) 
 
-### [Moorburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgMoorburg.private.md) 
+### [Moorburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Moorburg.protect.md) 
 
-### [Moorburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgMoorburg.personal.md) 
+### [Moorburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Moorburg.private.md) 
 
-### [Moorburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Hamburg\cities~HamburgMoorburg.secret.md)
+### [Moorburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Moorburg.personal.md) 
+
+### [Moorburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Moorburg.secret.md)
 

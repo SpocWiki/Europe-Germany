@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lalendorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Krakow,See\boroughs~Krakow,SeeLalendorf.public.md) 
+### [Lalendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Krakow,See/boroughs~Krakow,See/Lalendorf.md) 
 
-### [Lalendorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Krakow,See\boroughs~Krakow,SeeLalendorf.internal.md) 
+### [Lalendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Krakow,See/boroughs~Krakow,See/Lalendorf.public.md) 
 
-### [Lalendorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Krakow,See\boroughs~Krakow,SeeLalendorf.protect.md) 
+### [Lalendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Krakow,See/boroughs~Krakow,See/Lalendorf.internal.md) 
 
-### [Lalendorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Krakow,See\boroughs~Krakow,SeeLalendorf.private.md) 
+### [Lalendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Krakow,See/boroughs~Krakow,See/Lalendorf.protect.md) 
 
-### [Lalendorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Krakow,See\boroughs~Krakow,SeeLalendorf.personal.md) 
+### [Lalendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Krakow,See/boroughs~Krakow,See/Lalendorf.private.md) 
 
-### [Lalendorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Krakow,See\boroughs~Krakow,SeeLalendorf.secret.md)
+### [Lalendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Krakow,See/boroughs~Krakow,See/Lalendorf.personal.md) 
+
+### [Lalendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Krakow,See/boroughs~Krakow,See/Lalendorf.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zeven.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Zeven\boroughs~ZevenZeven.public.md) 
+### [Zeven](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Zeven/boroughs~Zeven/Zeven.md) 
 
-### [Zeven.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Zeven\boroughs~ZevenZeven.internal.md) 
+### [Zeven.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Zeven/boroughs~Zeven/Zeven.public.md) 
 
-### [Zeven.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Zeven\boroughs~ZevenZeven.protect.md) 
+### [Zeven.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Zeven/boroughs~Zeven/Zeven.internal.md) 
 
-### [Zeven.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Zeven\boroughs~ZevenZeven.private.md) 
+### [Zeven.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Zeven/boroughs~Zeven/Zeven.protect.md) 
 
-### [Zeven.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Zeven\boroughs~ZevenZeven.personal.md) 
+### [Zeven.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Zeven/boroughs~Zeven/Zeven.private.md) 
 
-### [Zeven.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Rotenburg~Wümme\cities~Rotenburg~Wümme\Zeven\boroughs~ZevenZeven.secret.md)
+### [Zeven.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Zeven/boroughs~Zeven/Zeven.personal.md) 
+
+### [Zeven.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Zeven/boroughs~Zeven/Zeven.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Malchin.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Malchin~Kummerower_See\boroughs~Malchin~SeeMalchin.public.md) 
+### [Malchin](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Malchin~Kummerower_See/boroughs~Malchin~See/Malchin.md) 
 
-### [Malchin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Malchin~Kummerower_See\boroughs~Malchin~SeeMalchin.internal.md) 
+### [Malchin.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Malchin~Kummerower_See/boroughs~Malchin~See/Malchin.public.md) 
 
-### [Malchin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Malchin~Kummerower_See\boroughs~Malchin~SeeMalchin.protect.md) 
+### [Malchin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Malchin~Kummerower_See/boroughs~Malchin~See/Malchin.internal.md) 
 
-### [Malchin.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Malchin~Kummerower_See\boroughs~Malchin~SeeMalchin.private.md) 
+### [Malchin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Malchin~Kummerower_See/boroughs~Malchin~See/Malchin.protect.md) 
 
-### [Malchin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Malchin~Kummerower_See\boroughs~Malchin~SeeMalchin.personal.md) 
+### [Malchin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Malchin~Kummerower_See/boroughs~Malchin~See/Malchin.private.md) 
 
-### [Malchin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Mecklenb_Seen\cities~Mecklenb_Seen\Malchin~Kummerower_See\boroughs~Malchin~SeeMalchin.secret.md)
+### [Malchin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Malchin~Kummerower_See/boroughs~Malchin~See/Malchin.personal.md) 
+
+### [Malchin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Malchin~Kummerower_See/boroughs~Malchin~See/Malchin.secret.md)
 

@@ -11,15 +11,17 @@ Fagus-Werk in Alfeld (2011)
 
 ## Confidential Links & Embeds: 
 
-### [Alfeld,Leine.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~HildesheimAlfeld,Leine.public.md) 
+### [Alfeld,Leine](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Alfeld,Leine.md) 
 
-### [Alfeld,Leine.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~HildesheimAlfeld,Leine.internal.md) 
+### [Alfeld,Leine.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Alfeld,Leine.public.md) 
 
-### [Alfeld,Leine.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~HildesheimAlfeld,Leine.protect.md) 
+### [Alfeld,Leine.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Alfeld,Leine.internal.md) 
 
-### [Alfeld,Leine.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~HildesheimAlfeld,Leine.private.md) 
+### [Alfeld,Leine.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Alfeld,Leine.protect.md) 
 
-### [Alfeld,Leine.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~HildesheimAlfeld,Leine.personal.md) 
+### [Alfeld,Leine.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Alfeld,Leine.private.md) 
 
-### [Alfeld,Leine.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~HildesheimAlfeld,Leine.secret.md)
+### [Alfeld,Leine.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Alfeld,Leine.personal.md) 
+
+### [Alfeld,Leine.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Alfeld,Leine.secret.md)
 

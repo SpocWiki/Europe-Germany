@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mettnich.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\St.Wendel\cities~St.Wendel\NonnweilerMettnich.public.md) 
+### [Mettnich](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/Nonnweiler/Mettnich.md) 
 
-### [Mettnich.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\St.Wendel\cities~St.Wendel\NonnweilerMettnich.internal.md) 
+### [Mettnich.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/Nonnweiler/Mettnich.public.md) 
 
-### [Mettnich.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\St.Wendel\cities~St.Wendel\NonnweilerMettnich.protect.md) 
+### [Mettnich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/Nonnweiler/Mettnich.internal.md) 
 
-### [Mettnich.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\St.Wendel\cities~St.Wendel\NonnweilerMettnich.private.md) 
+### [Mettnich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/Nonnweiler/Mettnich.protect.md) 
 
-### [Mettnich.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\St.Wendel\cities~St.Wendel\NonnweilerMettnich.personal.md) 
+### [Mettnich.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/Nonnweiler/Mettnich.private.md) 
 
-### [Mettnich.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\St.Wendel\cities~St.Wendel\NonnweilerMettnich.secret.md)
+### [Mettnich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/Nonnweiler/Mettnich.personal.md) 
+
+### [Mettnich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/Nonnweiler/Mettnich.secret.md)
 

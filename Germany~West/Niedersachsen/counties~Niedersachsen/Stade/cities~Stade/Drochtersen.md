@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Drochtersen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~StadeDrochtersen.public.md) 
+### [Drochtersen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Drochtersen.md) 
 
-### [Drochtersen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~StadeDrochtersen.internal.md) 
+### [Drochtersen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Drochtersen.public.md) 
 
-### [Drochtersen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~StadeDrochtersen.protect.md) 
+### [Drochtersen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Drochtersen.internal.md) 
 
-### [Drochtersen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~StadeDrochtersen.private.md) 
+### [Drochtersen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Drochtersen.protect.md) 
 
-### [Drochtersen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~StadeDrochtersen.personal.md) 
+### [Drochtersen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Drochtersen.private.md) 
 
-### [Drochtersen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Stade\cities~StadeDrochtersen.secret.md)
+### [Drochtersen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Drochtersen.personal.md) 
+
+### [Drochtersen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Drochtersen.secret.md)
 

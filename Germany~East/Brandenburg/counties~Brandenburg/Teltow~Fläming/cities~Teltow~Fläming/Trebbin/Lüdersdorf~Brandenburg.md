@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lüdersdorf~Brandenburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\TrebbinLüdersdorf~Brandenburg.public.md) 
+### [Lüdersdorf~Brandenburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Trebbin/Lüdersdorf~Brandenburg.md) 
 
-### [Lüdersdorf~Brandenburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\TrebbinLüdersdorf~Brandenburg.internal.md) 
+### [Lüdersdorf~Brandenburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Trebbin/Lüdersdorf~Brandenburg.public.md) 
 
-### [Lüdersdorf~Brandenburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\TrebbinLüdersdorf~Brandenburg.protect.md) 
+### [Lüdersdorf~Brandenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Trebbin/Lüdersdorf~Brandenburg.internal.md) 
 
-### [Lüdersdorf~Brandenburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\TrebbinLüdersdorf~Brandenburg.private.md) 
+### [Lüdersdorf~Brandenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Trebbin/Lüdersdorf~Brandenburg.protect.md) 
 
-### [Lüdersdorf~Brandenburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\TrebbinLüdersdorf~Brandenburg.personal.md) 
+### [Lüdersdorf~Brandenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Trebbin/Lüdersdorf~Brandenburg.private.md) 
 
-### [Lüdersdorf~Brandenburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~Fläming\TrebbinLüdersdorf~Brandenburg.secret.md)
+### [Lüdersdorf~Brandenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Trebbin/Lüdersdorf~Brandenburg.personal.md) 
+
+### [Lüdersdorf~Brandenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Trebbin/Lüdersdorf~Brandenburg.secret.md)
 

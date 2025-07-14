@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Damme.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~VechtaDamme.public.md) 
+### [Damme](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Damme.md) 
 
-### [Damme.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~VechtaDamme.internal.md) 
+### [Damme.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Damme.public.md) 
 
-### [Damme.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~VechtaDamme.protect.md) 
+### [Damme.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Damme.internal.md) 
 
-### [Damme.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~VechtaDamme.private.md) 
+### [Damme.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Damme.protect.md) 
 
-### [Damme.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~VechtaDamme.personal.md) 
+### [Damme.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Damme.private.md) 
 
-### [Damme.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Vechta\cities~VechtaDamme.secret.md)
+### [Damme.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Damme.personal.md) 
+
+### [Damme.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Damme.secret.md)
 

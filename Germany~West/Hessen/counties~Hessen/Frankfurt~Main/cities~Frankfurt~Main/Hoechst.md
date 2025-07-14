@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hoechst.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\cities~Frankfurt~MainHoechst.public.md) 
+### [Hoechst](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Hoechst.md) 
 
-### [Hoechst.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\cities~Frankfurt~MainHoechst.internal.md) 
+### [Hoechst.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Hoechst.public.md) 
 
-### [Hoechst.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\cities~Frankfurt~MainHoechst.protect.md) 
+### [Hoechst.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Hoechst.internal.md) 
 
-### [Hoechst.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\cities~Frankfurt~MainHoechst.private.md) 
+### [Hoechst.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Hoechst.protect.md) 
 
-### [Hoechst.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\cities~Frankfurt~MainHoechst.personal.md) 
+### [Hoechst.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Hoechst.private.md) 
 
-### [Hoechst.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\cities~Frankfurt~MainHoechst.secret.md)
+### [Hoechst.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Hoechst.personal.md) 
+
+### [Hoechst.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/cities~Frankfurt~Main/Hoechst.secret.md)
 

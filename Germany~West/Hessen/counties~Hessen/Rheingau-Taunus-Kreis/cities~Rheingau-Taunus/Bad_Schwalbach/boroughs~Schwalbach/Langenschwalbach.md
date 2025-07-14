@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Langenschwalbach.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Rheingau-Taunus-Kreis\cities~Rheingau-Taunus\Bad_Schwalbach\boroughs~SchwalbachLangenschwalbach.public.md) 
+### [Langenschwalbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Bad_Schwalbach/boroughs~Schwalbach/Langenschwalbach.md) 
 
-### [Langenschwalbach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Rheingau-Taunus-Kreis\cities~Rheingau-Taunus\Bad_Schwalbach\boroughs~SchwalbachLangenschwalbach.internal.md) 
+### [Langenschwalbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Bad_Schwalbach/boroughs~Schwalbach/Langenschwalbach.public.md) 
 
-### [Langenschwalbach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Rheingau-Taunus-Kreis\cities~Rheingau-Taunus\Bad_Schwalbach\boroughs~SchwalbachLangenschwalbach.protect.md) 
+### [Langenschwalbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Bad_Schwalbach/boroughs~Schwalbach/Langenschwalbach.internal.md) 
 
-### [Langenschwalbach.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Rheingau-Taunus-Kreis\cities~Rheingau-Taunus\Bad_Schwalbach\boroughs~SchwalbachLangenschwalbach.private.md) 
+### [Langenschwalbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Bad_Schwalbach/boroughs~Schwalbach/Langenschwalbach.protect.md) 
 
-### [Langenschwalbach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Rheingau-Taunus-Kreis\cities~Rheingau-Taunus\Bad_Schwalbach\boroughs~SchwalbachLangenschwalbach.personal.md) 
+### [Langenschwalbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Bad_Schwalbach/boroughs~Schwalbach/Langenschwalbach.private.md) 
 
-### [Langenschwalbach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Rheingau-Taunus-Kreis\cities~Rheingau-Taunus\Bad_Schwalbach\boroughs~SchwalbachLangenschwalbach.secret.md)
+### [Langenschwalbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Bad_Schwalbach/boroughs~Schwalbach/Langenschwalbach.personal.md) 
+
+### [Langenschwalbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Bad_Schwalbach/boroughs~Schwalbach/Langenschwalbach.secret.md)
 

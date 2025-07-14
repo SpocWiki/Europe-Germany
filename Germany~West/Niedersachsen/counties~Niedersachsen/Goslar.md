@@ -43,15 +43,17 @@ Bergwerk Rammelsberg, Altstadt von Goslar und Oberharzer Wasserwirtschaft ( [[Un
 
 ## Confidential Links & Embeds: 
 
-### [Goslar.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenGoslar.public.md) 
+### [Goslar](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.md) 
 
-### [Goslar.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenGoslar.internal.md) 
+### [Goslar.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.public.md) 
 
-### [Goslar.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenGoslar.protect.md) 
+### [Goslar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.internal.md) 
 
-### [Goslar.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenGoslar.private.md) 
+### [Goslar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.protect.md) 
 
-### [Goslar.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenGoslar.personal.md) 
+### [Goslar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.private.md) 
 
-### [Goslar.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~NiedersachsenGoslar.secret.md)
+### [Goslar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.personal.md) 
+
+### [Goslar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bremerhaven.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~BremenBremerhaven.public.md) 
+### [Bremerhaven](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven.md) 
 
-### [Bremerhaven.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~BremenBremerhaven.internal.md) 
+### [Bremerhaven.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven.public.md) 
 
-### [Bremerhaven.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~BremenBremerhaven.protect.md) 
+### [Bremerhaven.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven.internal.md) 
 
-### [Bremerhaven.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~BremenBremerhaven.private.md) 
+### [Bremerhaven.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven.protect.md) 
 
-### [Bremerhaven.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~BremenBremerhaven.personal.md) 
+### [Bremerhaven.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven.private.md) 
 
-### [Bremerhaven.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~BremenBremerhaven.secret.md)
+### [Bremerhaven.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven.personal.md) 
+
+### [Bremerhaven.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven.secret.md)
 

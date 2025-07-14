@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hellern.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Osnabrück-City\boroughs~OsnabrückHellern.public.md) 
+### [Hellern](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Osnabrück-City/boroughs~Osnabrück/Hellern.md) 
 
-### [Hellern.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Osnabrück-City\boroughs~OsnabrückHellern.internal.md) 
+### [Hellern.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Osnabrück-City/boroughs~Osnabrück/Hellern.public.md) 
 
-### [Hellern.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Osnabrück-City\boroughs~OsnabrückHellern.protect.md) 
+### [Hellern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Osnabrück-City/boroughs~Osnabrück/Hellern.internal.md) 
 
-### [Hellern.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Osnabrück-City\boroughs~OsnabrückHellern.private.md) 
+### [Hellern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Osnabrück-City/boroughs~Osnabrück/Hellern.protect.md) 
 
-### [Hellern.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Osnabrück-City\boroughs~OsnabrückHellern.personal.md) 
+### [Hellern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Osnabrück-City/boroughs~Osnabrück/Hellern.private.md) 
 
-### [Hellern.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Osnabrück-City\boroughs~OsnabrückHellern.secret.md)
+### [Hellern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Osnabrück-City/boroughs~Osnabrück/Hellern.personal.md) 
+
+### [Hellern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Osnabrück-City/boroughs~Osnabrück/Hellern.secret.md)
 

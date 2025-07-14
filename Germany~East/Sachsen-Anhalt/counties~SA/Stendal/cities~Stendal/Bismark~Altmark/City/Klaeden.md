@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Klaeden.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Bismark~Altmark\CityKlaeden.public.md) 
+### [Klaeden](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Bismark~Altmark/City/Klaeden.md) 
 
-### [Klaeden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Bismark~Altmark\CityKlaeden.internal.md) 
+### [Klaeden.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Bismark~Altmark/City/Klaeden.public.md) 
 
-### [Klaeden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Bismark~Altmark\CityKlaeden.protect.md) 
+### [Klaeden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Bismark~Altmark/City/Klaeden.internal.md) 
 
-### [Klaeden.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Bismark~Altmark\CityKlaeden.private.md) 
+### [Klaeden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Bismark~Altmark/City/Klaeden.protect.md) 
 
-### [Klaeden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Bismark~Altmark\CityKlaeden.personal.md) 
+### [Klaeden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Bismark~Altmark/City/Klaeden.private.md) 
 
-### [Klaeden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Stendal\cities~Stendal\Bismark~Altmark\CityKlaeden.secret.md)
+### [Klaeden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Bismark~Altmark/City/Klaeden.personal.md) 
+
+### [Klaeden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Stendal/cities~Stendal/Bismark~Altmark/City/Klaeden.secret.md)
 

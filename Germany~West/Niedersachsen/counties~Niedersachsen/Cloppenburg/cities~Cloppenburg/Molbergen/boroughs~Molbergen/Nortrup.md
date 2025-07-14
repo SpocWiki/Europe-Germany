@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nortrup.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cloppenburg\cities~Cloppenburg\Molbergen\boroughs~MolbergenNortrup.public.md) 
+### [Nortrup](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Molbergen/boroughs~Molbergen/Nortrup.md) 
 
-### [Nortrup.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cloppenburg\cities~Cloppenburg\Molbergen\boroughs~MolbergenNortrup.internal.md) 
+### [Nortrup.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Molbergen/boroughs~Molbergen/Nortrup.public.md) 
 
-### [Nortrup.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cloppenburg\cities~Cloppenburg\Molbergen\boroughs~MolbergenNortrup.protect.md) 
+### [Nortrup.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Molbergen/boroughs~Molbergen/Nortrup.internal.md) 
 
-### [Nortrup.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cloppenburg\cities~Cloppenburg\Molbergen\boroughs~MolbergenNortrup.private.md) 
+### [Nortrup.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Molbergen/boroughs~Molbergen/Nortrup.protect.md) 
 
-### [Nortrup.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cloppenburg\cities~Cloppenburg\Molbergen\boroughs~MolbergenNortrup.personal.md) 
+### [Nortrup.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Molbergen/boroughs~Molbergen/Nortrup.private.md) 
 
-### [Nortrup.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Cloppenburg\cities~Cloppenburg\Molbergen\boroughs~MolbergenNortrup.secret.md)
+### [Nortrup.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Molbergen/boroughs~Molbergen/Nortrup.personal.md) 
+
+### [Nortrup.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Molbergen/boroughs~Molbergen/Nortrup.secret.md)
 

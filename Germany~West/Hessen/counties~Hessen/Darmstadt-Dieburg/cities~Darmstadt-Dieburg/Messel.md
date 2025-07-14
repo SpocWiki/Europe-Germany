@@ -4,15 +4,17 @@ Fossillagerstätte Grube Messel ( 1995)
 
 ## Confidential Links & Embeds: 
 
-### [Messel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Darmstadt-Dieburg\cities~Darmstadt-DieburgMessel.public.md) 
+### [Messel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Messel.md) 
 
-### [Messel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Darmstadt-Dieburg\cities~Darmstadt-DieburgMessel.internal.md) 
+### [Messel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Messel.public.md) 
 
-### [Messel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Darmstadt-Dieburg\cities~Darmstadt-DieburgMessel.protect.md) 
+### [Messel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Messel.internal.md) 
 
-### [Messel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Darmstadt-Dieburg\cities~Darmstadt-DieburgMessel.private.md) 
+### [Messel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Messel.protect.md) 
 
-### [Messel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Darmstadt-Dieburg\cities~Darmstadt-DieburgMessel.personal.md) 
+### [Messel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Messel.private.md) 
 
-### [Messel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Darmstadt-Dieburg\cities~Darmstadt-DieburgMessel.secret.md)
+### [Messel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Messel.personal.md) 
+
+### [Messel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Messel.secret.md)
 

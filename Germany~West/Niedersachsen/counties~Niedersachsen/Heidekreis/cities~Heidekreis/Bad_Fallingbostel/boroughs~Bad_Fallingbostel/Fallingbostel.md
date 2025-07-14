@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fallingbostel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Bad_Fallingbostel\boroughs~Bad_FallingbostelFallingbostel.public.md) 
+### [Fallingbostel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Bad_Fallingbostel/boroughs~Bad_Fallingbostel/Fallingbostel.md) 
 
-### [Fallingbostel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Bad_Fallingbostel\boroughs~Bad_FallingbostelFallingbostel.internal.md) 
+### [Fallingbostel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Bad_Fallingbostel/boroughs~Bad_Fallingbostel/Fallingbostel.public.md) 
 
-### [Fallingbostel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Bad_Fallingbostel\boroughs~Bad_FallingbostelFallingbostel.protect.md) 
+### [Fallingbostel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Bad_Fallingbostel/boroughs~Bad_Fallingbostel/Fallingbostel.internal.md) 
 
-### [Fallingbostel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Bad_Fallingbostel\boroughs~Bad_FallingbostelFallingbostel.private.md) 
+### [Fallingbostel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Bad_Fallingbostel/boroughs~Bad_Fallingbostel/Fallingbostel.protect.md) 
 
-### [Fallingbostel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Bad_Fallingbostel\boroughs~Bad_FallingbostelFallingbostel.personal.md) 
+### [Fallingbostel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Bad_Fallingbostel/boroughs~Bad_Fallingbostel/Fallingbostel.private.md) 
 
-### [Fallingbostel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Heidekreis\cities~Heidekreis\Bad_Fallingbostel\boroughs~Bad_FallingbostelFallingbostel.secret.md)
+### [Fallingbostel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Bad_Fallingbostel/boroughs~Bad_Fallingbostel/Fallingbostel.personal.md) 
+
+### [Fallingbostel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Bad_Fallingbostel/boroughs~Bad_Fallingbostel/Fallingbostel.secret.md)
 

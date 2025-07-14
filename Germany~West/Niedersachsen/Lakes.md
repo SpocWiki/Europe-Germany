@@ -41,15 +41,17 @@ markerFolder: ./Lakes/
 
 ## Confidential Links & Embeds: 
 
-### [Lakes.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\NiedersachsenLakes.public.md) 
+### [Lakes](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Lakes.md) 
 
-### [Lakes.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\NiedersachsenLakes.internal.md) 
+### [Lakes.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Lakes.public.md) 
 
-### [Lakes.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\NiedersachsenLakes.protect.md) 
+### [Lakes.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Lakes.internal.md) 
 
-### [Lakes.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\NiedersachsenLakes.private.md) 
+### [Lakes.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Lakes.protect.md) 
 
-### [Lakes.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\NiedersachsenLakes.personal.md) 
+### [Lakes.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Lakes.private.md) 
 
-### [Lakes.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\NiedersachsenLakes.secret.md)
+### [Lakes.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Lakes.personal.md) 
+
+### [Lakes.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Lakes.secret.md)
 

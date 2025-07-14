@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Haltern,See.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenHaltern,See.public.md) 
+### [Haltern,See](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Haltern,See.md) 
 
-### [Haltern,See.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenHaltern,See.internal.md) 
+### [Haltern,See.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Haltern,See.public.md) 
 
-### [Haltern,See.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenHaltern,See.protect.md) 
+### [Haltern,See.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Haltern,See.internal.md) 
 
-### [Haltern,See.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenHaltern,See.private.md) 
+### [Haltern,See.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Haltern,See.protect.md) 
 
-### [Haltern,See.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenHaltern,See.personal.md) 
+### [Haltern,See.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Haltern,See.private.md) 
 
-### [Haltern,See.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenHaltern,See.secret.md)
+### [Haltern,See.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Haltern,See.personal.md) 
+
+### [Haltern,See.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Haltern,See.secret.md)
 

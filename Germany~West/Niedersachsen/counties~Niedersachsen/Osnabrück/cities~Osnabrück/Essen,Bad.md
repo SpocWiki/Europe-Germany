@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Essen,Bad.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~OsnabrückEssen,Bad.public.md) 
+### [Essen,Bad](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Essen,Bad.md) 
 
-### [Essen,Bad.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~OsnabrückEssen,Bad.internal.md) 
+### [Essen,Bad.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Essen,Bad.public.md) 
 
-### [Essen,Bad.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~OsnabrückEssen,Bad.protect.md) 
+### [Essen,Bad.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Essen,Bad.internal.md) 
 
-### [Essen,Bad.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~OsnabrückEssen,Bad.private.md) 
+### [Essen,Bad.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Essen,Bad.protect.md) 
 
-### [Essen,Bad.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~OsnabrückEssen,Bad.personal.md) 
+### [Essen,Bad.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Essen,Bad.private.md) 
 
-### [Essen,Bad.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~OsnabrückEssen,Bad.secret.md)
+### [Essen,Bad.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Essen,Bad.personal.md) 
+
+### [Essen,Bad.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Essen,Bad.secret.md)
 

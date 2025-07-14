@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sandkrug.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~Oldenburg\Hatten\boroughs~BelmSandkrug.public.md) 
+### [Sandkrug](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hatten/boroughs~Belm/Sandkrug.md) 
 
-### [Sandkrug.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~Oldenburg\Hatten\boroughs~BelmSandkrug.internal.md) 
+### [Sandkrug.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hatten/boroughs~Belm/Sandkrug.public.md) 
 
-### [Sandkrug.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~Oldenburg\Hatten\boroughs~BelmSandkrug.protect.md) 
+### [Sandkrug.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hatten/boroughs~Belm/Sandkrug.internal.md) 
 
-### [Sandkrug.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~Oldenburg\Hatten\boroughs~BelmSandkrug.private.md) 
+### [Sandkrug.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hatten/boroughs~Belm/Sandkrug.protect.md) 
 
-### [Sandkrug.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~Oldenburg\Hatten\boroughs~BelmSandkrug.personal.md) 
+### [Sandkrug.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hatten/boroughs~Belm/Sandkrug.private.md) 
 
-### [Sandkrug.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Oldenburg~Nieders\cities~Oldenburg\Hatten\boroughs~BelmSandkrug.secret.md)
+### [Sandkrug.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hatten/boroughs~Belm/Sandkrug.personal.md) 
+
+### [Sandkrug.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Hatten/boroughs~Belm/Sandkrug.secret.md)
 

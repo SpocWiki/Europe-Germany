@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wittingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Wittingen\boroughs~WittingenWittingen.public.md) 
+### [Wittingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/boroughs~Wittingen/Wittingen.md) 
 
-### [Wittingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Wittingen\boroughs~WittingenWittingen.internal.md) 
+### [Wittingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/boroughs~Wittingen/Wittingen.public.md) 
 
-### [Wittingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Wittingen\boroughs~WittingenWittingen.protect.md) 
+### [Wittingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/boroughs~Wittingen/Wittingen.internal.md) 
 
-### [Wittingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Wittingen\boroughs~WittingenWittingen.private.md) 
+### [Wittingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/boroughs~Wittingen/Wittingen.protect.md) 
 
-### [Wittingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Wittingen\boroughs~WittingenWittingen.personal.md) 
+### [Wittingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/boroughs~Wittingen/Wittingen.private.md) 
 
-### [Wittingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Gifhorn\cities~Gifhorn\Wittingen\boroughs~WittingenWittingen.secret.md)
+### [Wittingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/boroughs~Wittingen/Wittingen.personal.md) 
+
+### [Wittingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Wittingen/boroughs~Wittingen/Wittingen.secret.md)
 

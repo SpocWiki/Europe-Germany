@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nortmoor.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~Leer\Jümme\boroughs~JümmeNortmoor.public.md) 
+### [Nortmoor](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Jümme/boroughs~Jümme/Nortmoor.md) 
 
-### [Nortmoor.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~Leer\Jümme\boroughs~JümmeNortmoor.internal.md) 
+### [Nortmoor.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Jümme/boroughs~Jümme/Nortmoor.public.md) 
 
-### [Nortmoor.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~Leer\Jümme\boroughs~JümmeNortmoor.protect.md) 
+### [Nortmoor.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Jümme/boroughs~Jümme/Nortmoor.internal.md) 
 
-### [Nortmoor.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~Leer\Jümme\boroughs~JümmeNortmoor.private.md) 
+### [Nortmoor.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Jümme/boroughs~Jümme/Nortmoor.protect.md) 
 
-### [Nortmoor.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~Leer\Jümme\boroughs~JümmeNortmoor.personal.md) 
+### [Nortmoor.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Jümme/boroughs~Jümme/Nortmoor.private.md) 
 
-### [Nortmoor.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~Leer\Jümme\boroughs~JümmeNortmoor.secret.md)
+### [Nortmoor.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Jümme/boroughs~Jümme/Nortmoor.personal.md) 
+
+### [Nortmoor.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Jümme/boroughs~Jümme/Nortmoor.secret.md)
 

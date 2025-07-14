@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oldisleben.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\An_der_Schmücke\CityOldisleben.public.md) 
+### [Oldisleben](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/An_der_Schmücke/City/Oldisleben.md) 
 
-### [Oldisleben.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\An_der_Schmücke\CityOldisleben.internal.md) 
+### [Oldisleben.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/An_der_Schmücke/City/Oldisleben.public.md) 
 
-### [Oldisleben.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\An_der_Schmücke\CityOldisleben.protect.md) 
+### [Oldisleben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/An_der_Schmücke/City/Oldisleben.internal.md) 
 
-### [Oldisleben.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\An_der_Schmücke\CityOldisleben.private.md) 
+### [Oldisleben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/An_der_Schmücke/City/Oldisleben.protect.md) 
 
-### [Oldisleben.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\An_der_Schmücke\CityOldisleben.personal.md) 
+### [Oldisleben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/An_der_Schmücke/City/Oldisleben.private.md) 
 
-### [Oldisleben.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Kyffhäuserkreis\cities~Kyffhäuserkreis\An_der_Schmücke\CityOldisleben.secret.md)
+### [Oldisleben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/An_der_Schmücke/City/Oldisleben.personal.md) 
+
+### [Oldisleben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Kyffhäuserkreis/cities~Kyffhäuserkreis/An_der_Schmücke/City/Oldisleben.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Poessneck.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-Orla\Pößneck\CityPoessneck.public.md) 
+### [Poessneck](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Pößneck/City/Poessneck.md) 
 
-### [Poessneck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-Orla\Pößneck\CityPoessneck.internal.md) 
+### [Poessneck.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Pößneck/City/Poessneck.public.md) 
 
-### [Poessneck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-Orla\Pößneck\CityPoessneck.protect.md) 
+### [Poessneck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Pößneck/City/Poessneck.internal.md) 
 
-### [Poessneck.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-Orla\Pößneck\CityPoessneck.private.md) 
+### [Poessneck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Pößneck/City/Poessneck.protect.md) 
 
-### [Poessneck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-Orla\Pößneck\CityPoessneck.personal.md) 
+### [Poessneck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Pößneck/City/Poessneck.private.md) 
 
-### [Poessneck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Saale-Orla-Kreis\cities~Saale-Orla\Pößneck\CityPoessneck.secret.md)
+### [Poessneck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Pößneck/City/Poessneck.personal.md) 
+
+### [Poessneck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Saale-Orla-Kreis/cities~Saale-Orla/Pößneck/City/Poessneck.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schieben.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Weimarer_Land\cities~Weimarer_Land\Apolda\CitySchieben.public.md) 
+### [Schieben](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Apolda/City/Schieben.md) 
 
-### [Schieben.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Weimarer_Land\cities~Weimarer_Land\Apolda\CitySchieben.internal.md) 
+### [Schieben.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Apolda/City/Schieben.public.md) 
 
-### [Schieben.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Weimarer_Land\cities~Weimarer_Land\Apolda\CitySchieben.protect.md) 
+### [Schieben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Apolda/City/Schieben.internal.md) 
 
-### [Schieben.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Weimarer_Land\cities~Weimarer_Land\Apolda\CitySchieben.private.md) 
+### [Schieben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Apolda/City/Schieben.protect.md) 
 
-### [Schieben.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Weimarer_Land\cities~Weimarer_Land\Apolda\CitySchieben.personal.md) 
+### [Schieben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Apolda/City/Schieben.private.md) 
 
-### [Schieben.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Weimarer_Land\cities~Weimarer_Land\Apolda\CitySchieben.secret.md)
+### [Schieben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Apolda/City/Schieben.personal.md) 
+
+### [Schieben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimarer_Land/cities~Weimarer_Land/Apolda/City/Schieben.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Metzingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüchow-Dannenberg\cities~Lüchow-Dannenberg\ElbtalaueMetzingen.public.md) 
+### [Metzingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/Metzingen.md) 
 
-### [Metzingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüchow-Dannenberg\cities~Lüchow-Dannenberg\ElbtalaueMetzingen.internal.md) 
+### [Metzingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/Metzingen.public.md) 
 
-### [Metzingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüchow-Dannenberg\cities~Lüchow-Dannenberg\ElbtalaueMetzingen.protect.md) 
+### [Metzingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/Metzingen.internal.md) 
 
-### [Metzingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüchow-Dannenberg\cities~Lüchow-Dannenberg\ElbtalaueMetzingen.private.md) 
+### [Metzingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/Metzingen.protect.md) 
 
-### [Metzingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüchow-Dannenberg\cities~Lüchow-Dannenberg\ElbtalaueMetzingen.personal.md) 
+### [Metzingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/Metzingen.private.md) 
 
-### [Metzingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüchow-Dannenberg\cities~Lüchow-Dannenberg\ElbtalaueMetzingen.secret.md)
+### [Metzingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/Metzingen.personal.md) 
+
+### [Metzingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/Metzingen.secret.md)
 

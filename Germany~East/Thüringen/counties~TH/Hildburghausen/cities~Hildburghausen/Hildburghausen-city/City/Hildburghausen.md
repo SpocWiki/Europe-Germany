@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hildburghausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~Hildburghausen\Hildburghausen-city\CityHildburghausen.public.md) 
+### [Hildburghausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Hildburghausen-city/City/Hildburghausen.md) 
 
-### [Hildburghausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~Hildburghausen\Hildburghausen-city\CityHildburghausen.internal.md) 
+### [Hildburghausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Hildburghausen-city/City/Hildburghausen.public.md) 
 
-### [Hildburghausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~Hildburghausen\Hildburghausen-city\CityHildburghausen.protect.md) 
+### [Hildburghausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Hildburghausen-city/City/Hildburghausen.internal.md) 
 
-### [Hildburghausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~Hildburghausen\Hildburghausen-city\CityHildburghausen.private.md) 
+### [Hildburghausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Hildburghausen-city/City/Hildburghausen.protect.md) 
 
-### [Hildburghausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~Hildburghausen\Hildburghausen-city\CityHildburghausen.personal.md) 
+### [Hildburghausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Hildburghausen-city/City/Hildburghausen.private.md) 
 
-### [Hildburghausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Hildburghausen\cities~Hildburghausen\Hildburghausen-city\CityHildburghausen.secret.md)
+### [Hildburghausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Hildburghausen-city/City/Hildburghausen.personal.md) 
+
+### [Hildburghausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Hildburghausen/cities~Hildburghausen/Hildburghausen-city/City/Hildburghausen.secret.md)
 

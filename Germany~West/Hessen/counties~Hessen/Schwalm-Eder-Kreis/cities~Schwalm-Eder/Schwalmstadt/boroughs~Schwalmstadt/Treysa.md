@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Treysa.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-Eder\Schwalmstadt\boroughs~SchwalmstadtTreysa.public.md) 
+### [Treysa](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Treysa.md) 
 
-### [Treysa.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-Eder\Schwalmstadt\boroughs~SchwalmstadtTreysa.internal.md) 
+### [Treysa.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Treysa.public.md) 
 
-### [Treysa.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-Eder\Schwalmstadt\boroughs~SchwalmstadtTreysa.protect.md) 
+### [Treysa.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Treysa.internal.md) 
 
-### [Treysa.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-Eder\Schwalmstadt\boroughs~SchwalmstadtTreysa.private.md) 
+### [Treysa.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Treysa.protect.md) 
 
-### [Treysa.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-Eder\Schwalmstadt\boroughs~SchwalmstadtTreysa.personal.md) 
+### [Treysa.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Treysa.private.md) 
 
-### [Treysa.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Schwalm-Eder-Kreis\cities~Schwalm-Eder\Schwalmstadt\boroughs~SchwalmstadtTreysa.secret.md)
+### [Treysa.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Treysa.personal.md) 
+
+### [Treysa.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Schwalmstadt/boroughs~Schwalmstadt/Treysa.secret.md)
 

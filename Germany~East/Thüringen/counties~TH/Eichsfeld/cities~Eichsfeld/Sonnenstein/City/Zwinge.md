@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zwinge.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Sonnenstein\CityZwinge.public.md) 
+### [Zwinge](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Sonnenstein/City/Zwinge.md) 
 
-### [Zwinge.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Sonnenstein\CityZwinge.internal.md) 
+### [Zwinge.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Sonnenstein/City/Zwinge.public.md) 
 
-### [Zwinge.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Sonnenstein\CityZwinge.protect.md) 
+### [Zwinge.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Sonnenstein/City/Zwinge.internal.md) 
 
-### [Zwinge.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Sonnenstein\CityZwinge.private.md) 
+### [Zwinge.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Sonnenstein/City/Zwinge.protect.md) 
 
-### [Zwinge.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Sonnenstein\CityZwinge.personal.md) 
+### [Zwinge.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Sonnenstein/City/Zwinge.private.md) 
 
-### [Zwinge.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Sonnenstein\CityZwinge.secret.md)
+### [Zwinge.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Sonnenstein/City/Zwinge.personal.md) 
+
+### [Zwinge.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Sonnenstein/City/Zwinge.secret.md)
 

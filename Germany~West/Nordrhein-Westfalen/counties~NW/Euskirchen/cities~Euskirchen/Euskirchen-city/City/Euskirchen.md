@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Euskirchen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Euskirchen-city\CityEuskirchen.public.md) 
+### [Euskirchen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Euskirchen-city/City/Euskirchen.md) 
 
-### [Euskirchen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Euskirchen-city\CityEuskirchen.internal.md) 
+### [Euskirchen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Euskirchen-city/City/Euskirchen.public.md) 
 
-### [Euskirchen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Euskirchen-city\CityEuskirchen.protect.md) 
+### [Euskirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Euskirchen-city/City/Euskirchen.internal.md) 
 
-### [Euskirchen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Euskirchen-city\CityEuskirchen.private.md) 
+### [Euskirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Euskirchen-city/City/Euskirchen.protect.md) 
 
-### [Euskirchen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Euskirchen-city\CityEuskirchen.personal.md) 
+### [Euskirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Euskirchen-city/City/Euskirchen.private.md) 
 
-### [Euskirchen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Euskirchen\cities~Euskirchen\Euskirchen-city\CityEuskirchen.secret.md)
+### [Euskirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Euskirchen-city/City/Euskirchen.personal.md) 
+
+### [Euskirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Euskirchen/cities~Euskirchen/Euskirchen-city/City/Euskirchen.secret.md)
 

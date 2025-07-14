@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lüdersdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\Schönberger_Land\boroughs~Schönb.LandLüdersdorf.public.md) 
+### [Lüdersdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Schönberger_Land/boroughs~Schönb.Land/Lüdersdorf.md) 
 
-### [Lüdersdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\Schönberger_Land\boroughs~Schönb.LandLüdersdorf.internal.md) 
+### [Lüdersdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Schönberger_Land/boroughs~Schönb.Land/Lüdersdorf.public.md) 
 
-### [Lüdersdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\Schönberger_Land\boroughs~Schönb.LandLüdersdorf.protect.md) 
+### [Lüdersdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Schönberger_Land/boroughs~Schönb.Land/Lüdersdorf.internal.md) 
 
-### [Lüdersdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\Schönberger_Land\boroughs~Schönb.LandLüdersdorf.private.md) 
+### [Lüdersdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Schönberger_Land/boroughs~Schönb.Land/Lüdersdorf.protect.md) 
 
-### [Lüdersdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\Schönberger_Land\boroughs~Schönb.LandLüdersdorf.personal.md) 
+### [Lüdersdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Schönberger_Land/boroughs~Schönb.Land/Lüdersdorf.private.md) 
 
-### [Lüdersdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\Schönberger_Land\boroughs~Schönb.LandLüdersdorf.secret.md)
+### [Lüdersdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Schönberger_Land/boroughs~Schönb.Land/Lüdersdorf.personal.md) 
+
+### [Lüdersdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Schönberger_Land/boroughs~Schönb.Land/Lüdersdorf.secret.md)
 

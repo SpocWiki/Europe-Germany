@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ichtershausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Amt_Wachsenburg\CityIchtershausen.public.md) 
+### [Ichtershausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Amt_Wachsenburg/City/Ichtershausen.md) 
 
-### [Ichtershausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Amt_Wachsenburg\CityIchtershausen.internal.md) 
+### [Ichtershausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Amt_Wachsenburg/City/Ichtershausen.public.md) 
 
-### [Ichtershausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Amt_Wachsenburg\CityIchtershausen.protect.md) 
+### [Ichtershausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Amt_Wachsenburg/City/Ichtershausen.internal.md) 
 
-### [Ichtershausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Amt_Wachsenburg\CityIchtershausen.private.md) 
+### [Ichtershausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Amt_Wachsenburg/City/Ichtershausen.protect.md) 
 
-### [Ichtershausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Amt_Wachsenburg\CityIchtershausen.personal.md) 
+### [Ichtershausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Amt_Wachsenburg/City/Ichtershausen.private.md) 
 
-### [Ichtershausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Ilm-Kreis\cities~Ilm-Kreis\Amt_Wachsenburg\CityIchtershausen.secret.md)
+### [Ichtershausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Amt_Wachsenburg/City/Ichtershausen.personal.md) 
+
+### [Ichtershausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Amt_Wachsenburg/City/Ichtershausen.secret.md)
 

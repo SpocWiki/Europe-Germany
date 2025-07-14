@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ilfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Nordhausen\cities~Nordhausen\Hohnstein_Südharz\CityIlfeld.public.md) 
+### [Ilfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Nordhausen/cities~Nordhausen/Hohnstein_Südharz/City/Ilfeld.md) 
 
-### [Ilfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Nordhausen\cities~Nordhausen\Hohnstein_Südharz\CityIlfeld.internal.md) 
+### [Ilfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Nordhausen/cities~Nordhausen/Hohnstein_Südharz/City/Ilfeld.public.md) 
 
-### [Ilfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Nordhausen\cities~Nordhausen\Hohnstein_Südharz\CityIlfeld.protect.md) 
+### [Ilfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Nordhausen/cities~Nordhausen/Hohnstein_Südharz/City/Ilfeld.internal.md) 
 
-### [Ilfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Nordhausen\cities~Nordhausen\Hohnstein_Südharz\CityIlfeld.private.md) 
+### [Ilfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Nordhausen/cities~Nordhausen/Hohnstein_Südharz/City/Ilfeld.protect.md) 
 
-### [Ilfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Nordhausen\cities~Nordhausen\Hohnstein_Südharz\CityIlfeld.personal.md) 
+### [Ilfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Nordhausen/cities~Nordhausen/Hohnstein_Südharz/City/Ilfeld.private.md) 
 
-### [Ilfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Nordhausen\cities~Nordhausen\Hohnstein_Südharz\CityIlfeld.secret.md)
+### [Ilfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Nordhausen/cities~Nordhausen/Hohnstein_Südharz/City/Ilfeld.personal.md) 
+
+### [Ilfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Nordhausen/cities~Nordhausen/Hohnstein_Südharz/City/Ilfeld.secret.md)
 

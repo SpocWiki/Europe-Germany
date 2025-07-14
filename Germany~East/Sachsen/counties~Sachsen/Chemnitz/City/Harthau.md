@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Harthau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Chemnitz\CityHarthau.public.md) 
+### [Harthau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz/City/Harthau.md) 
 
-### [Harthau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Chemnitz\CityHarthau.internal.md) 
+### [Harthau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz/City/Harthau.public.md) 
 
-### [Harthau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Chemnitz\CityHarthau.protect.md) 
+### [Harthau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz/City/Harthau.internal.md) 
 
-### [Harthau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Chemnitz\CityHarthau.private.md) 
+### [Harthau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz/City/Harthau.protect.md) 
 
-### [Harthau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Chemnitz\CityHarthau.personal.md) 
+### [Harthau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz/City/Harthau.private.md) 
 
-### [Harthau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Chemnitz\CityHarthau.secret.md)
+### [Harthau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz/City/Harthau.personal.md) 
+
+### [Harthau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Chemnitz/City/Harthau.secret.md)
 

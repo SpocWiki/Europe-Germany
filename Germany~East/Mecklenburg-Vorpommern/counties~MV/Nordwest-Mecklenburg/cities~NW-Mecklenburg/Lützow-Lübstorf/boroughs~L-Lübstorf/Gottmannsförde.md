@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gottmannsförde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\Lützow-Lübstorf\boroughs~L-LübstorfGottmannsförde.public.md) 
+### [Gottmannsförde](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Lützow-Lübstorf/boroughs~L-Lübstorf/Gottmannsförde.md) 
 
-### [Gottmannsförde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\Lützow-Lübstorf\boroughs~L-LübstorfGottmannsförde.internal.md) 
+### [Gottmannsförde.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Lützow-Lübstorf/boroughs~L-Lübstorf/Gottmannsförde.public.md) 
 
-### [Gottmannsförde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\Lützow-Lübstorf\boroughs~L-LübstorfGottmannsförde.protect.md) 
+### [Gottmannsförde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Lützow-Lübstorf/boroughs~L-Lübstorf/Gottmannsförde.internal.md) 
 
-### [Gottmannsförde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\Lützow-Lübstorf\boroughs~L-LübstorfGottmannsförde.private.md) 
+### [Gottmannsförde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Lützow-Lübstorf/boroughs~L-Lübstorf/Gottmannsförde.protect.md) 
 
-### [Gottmannsförde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\Lützow-Lübstorf\boroughs~L-LübstorfGottmannsförde.personal.md) 
+### [Gottmannsförde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Lützow-Lübstorf/boroughs~L-Lübstorf/Gottmannsförde.private.md) 
 
-### [Gottmannsförde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Nordwest-Mecklenburg\cities~NW-Mecklenburg\Lützow-Lübstorf\boroughs~L-LübstorfGottmannsförde.secret.md)
+### [Gottmannsförde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Lützow-Lübstorf/boroughs~L-Lübstorf/Gottmannsförde.personal.md) 
+
+### [Gottmannsförde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Lützow-Lübstorf/boroughs~L-Lübstorf/Gottmannsförde.secret.md)
 

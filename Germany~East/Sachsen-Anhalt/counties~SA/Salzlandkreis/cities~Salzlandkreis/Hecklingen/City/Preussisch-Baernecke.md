@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Preussisch-Baernecke.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Hecklingen\CityPreussisch-Baernecke.public.md) 
+### [Preussisch-Baernecke](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Hecklingen/City/Preussisch-Baernecke.md) 
 
-### [Preussisch-Baernecke.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Hecklingen\CityPreussisch-Baernecke.internal.md) 
+### [Preussisch-Baernecke.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Hecklingen/City/Preussisch-Baernecke.public.md) 
 
-### [Preussisch-Baernecke.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Hecklingen\CityPreussisch-Baernecke.protect.md) 
+### [Preussisch-Baernecke.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Hecklingen/City/Preussisch-Baernecke.internal.md) 
 
-### [Preussisch-Baernecke.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Hecklingen\CityPreussisch-Baernecke.private.md) 
+### [Preussisch-Baernecke.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Hecklingen/City/Preussisch-Baernecke.protect.md) 
 
-### [Preussisch-Baernecke.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Hecklingen\CityPreussisch-Baernecke.personal.md) 
+### [Preussisch-Baernecke.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Hecklingen/City/Preussisch-Baernecke.private.md) 
 
-### [Preussisch-Baernecke.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Hecklingen\CityPreussisch-Baernecke.secret.md)
+### [Preussisch-Baernecke.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Hecklingen/City/Preussisch-Baernecke.personal.md) 
+
+### [Preussisch-Baernecke.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Hecklingen/City/Preussisch-Baernecke.secret.md)
 

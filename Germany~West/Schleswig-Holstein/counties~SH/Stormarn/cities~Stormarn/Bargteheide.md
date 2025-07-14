@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bargteheide.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Stormarn\cities~StormarnBargteheide.public.md) 
+### [Bargteheide](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Bargteheide.md) 
 
-### [Bargteheide.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Stormarn\cities~StormarnBargteheide.internal.md) 
+### [Bargteheide.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Bargteheide.public.md) 
 
-### [Bargteheide.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Stormarn\cities~StormarnBargteheide.protect.md) 
+### [Bargteheide.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Bargteheide.internal.md) 
 
-### [Bargteheide.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Stormarn\cities~StormarnBargteheide.private.md) 
+### [Bargteheide.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Bargteheide.protect.md) 
 
-### [Bargteheide.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Stormarn\cities~StormarnBargteheide.personal.md) 
+### [Bargteheide.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Bargteheide.private.md) 
 
-### [Bargteheide.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Stormarn\cities~StormarnBargteheide.secret.md)
+### [Bargteheide.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Bargteheide.personal.md) 
+
+### [Bargteheide.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Bargteheide.secret.md)
 

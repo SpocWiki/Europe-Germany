@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lockwitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityLockwitz.public.md) 
+### [Lockwitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Lockwitz.md) 
 
-### [Lockwitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityLockwitz.internal.md) 
+### [Lockwitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Lockwitz.public.md) 
 
-### [Lockwitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityLockwitz.protect.md) 
+### [Lockwitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Lockwitz.internal.md) 
 
-### [Lockwitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityLockwitz.private.md) 
+### [Lockwitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Lockwitz.protect.md) 
 
-### [Lockwitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityLockwitz.personal.md) 
+### [Lockwitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Lockwitz.private.md) 
 
-### [Lockwitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityLockwitz.secret.md)
+### [Lockwitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Lockwitz.personal.md) 
+
+### [Lockwitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Lockwitz.secret.md)
 

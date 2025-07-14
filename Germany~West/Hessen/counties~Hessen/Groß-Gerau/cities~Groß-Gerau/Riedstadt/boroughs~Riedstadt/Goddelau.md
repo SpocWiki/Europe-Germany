@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Goddelau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Groß-Gerau\cities~Groß-Gerau\Riedstadt\boroughs~RiedstadtGoddelau.public.md) 
+### [Goddelau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Riedstadt/boroughs~Riedstadt/Goddelau.md) 
 
-### [Goddelau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Groß-Gerau\cities~Groß-Gerau\Riedstadt\boroughs~RiedstadtGoddelau.internal.md) 
+### [Goddelau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Riedstadt/boroughs~Riedstadt/Goddelau.public.md) 
 
-### [Goddelau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Groß-Gerau\cities~Groß-Gerau\Riedstadt\boroughs~RiedstadtGoddelau.protect.md) 
+### [Goddelau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Riedstadt/boroughs~Riedstadt/Goddelau.internal.md) 
 
-### [Goddelau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Groß-Gerau\cities~Groß-Gerau\Riedstadt\boroughs~RiedstadtGoddelau.private.md) 
+### [Goddelau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Riedstadt/boroughs~Riedstadt/Goddelau.protect.md) 
 
-### [Goddelau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Groß-Gerau\cities~Groß-Gerau\Riedstadt\boroughs~RiedstadtGoddelau.personal.md) 
+### [Goddelau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Riedstadt/boroughs~Riedstadt/Goddelau.private.md) 
 
-### [Goddelau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Groß-Gerau\cities~Groß-Gerau\Riedstadt\boroughs~RiedstadtGoddelau.secret.md)
+### [Goddelau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Riedstadt/boroughs~Riedstadt/Goddelau.personal.md) 
+
+### [Goddelau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Groß-Gerau/cities~Groß-Gerau/Riedstadt/boroughs~Riedstadt/Goddelau.secret.md)
 

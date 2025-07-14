@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Winsen~Luhe.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~HarburgWinsen~Luhe.public.md) 
+### [Winsen~Luhe](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Winsen~Luhe.md) 
 
-### [Winsen~Luhe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~HarburgWinsen~Luhe.internal.md) 
+### [Winsen~Luhe.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Winsen~Luhe.public.md) 
 
-### [Winsen~Luhe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~HarburgWinsen~Luhe.protect.md) 
+### [Winsen~Luhe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Winsen~Luhe.internal.md) 
 
-### [Winsen~Luhe.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~HarburgWinsen~Luhe.private.md) 
+### [Winsen~Luhe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Winsen~Luhe.protect.md) 
 
-### [Winsen~Luhe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~HarburgWinsen~Luhe.personal.md) 
+### [Winsen~Luhe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Winsen~Luhe.private.md) 
 
-### [Winsen~Luhe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Harburg\cities~HarburgWinsen~Luhe.secret.md)
+### [Winsen~Luhe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Winsen~Luhe.personal.md) 
+
+### [Winsen~Luhe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Winsen~Luhe.secret.md)
 

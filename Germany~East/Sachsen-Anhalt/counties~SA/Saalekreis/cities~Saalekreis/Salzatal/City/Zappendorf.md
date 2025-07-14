@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zappendorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~Saalekreis\Salzatal\CityZappendorf.public.md) 
+### [Zappendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Salzatal/City/Zappendorf.md) 
 
-### [Zappendorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~Saalekreis\Salzatal\CityZappendorf.internal.md) 
+### [Zappendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Salzatal/City/Zappendorf.public.md) 
 
-### [Zappendorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~Saalekreis\Salzatal\CityZappendorf.protect.md) 
+### [Zappendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Salzatal/City/Zappendorf.internal.md) 
 
-### [Zappendorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~Saalekreis\Salzatal\CityZappendorf.private.md) 
+### [Zappendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Salzatal/City/Zappendorf.protect.md) 
 
-### [Zappendorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~Saalekreis\Salzatal\CityZappendorf.personal.md) 
+### [Zappendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Salzatal/City/Zappendorf.private.md) 
 
-### [Zappendorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Saalekreis\cities~Saalekreis\Salzatal\CityZappendorf.secret.md)
+### [Zappendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Salzatal/City/Zappendorf.personal.md) 
+
+### [Zappendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Saalekreis/cities~Saalekreis/Salzatal/City/Zappendorf.secret.md)
 

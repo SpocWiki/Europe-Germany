@@ -16,15 +16,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Schiffweiler.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,SaarSchiffweiler.public.md) 
+### [Schiffweiler](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Schiffweiler.md) 
 
-### [Schiffweiler.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,SaarSchiffweiler.internal.md) 
+### [Schiffweiler.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Schiffweiler.public.md) 
 
-### [Schiffweiler.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,SaarSchiffweiler.protect.md) 
+### [Schiffweiler.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Schiffweiler.internal.md) 
 
-### [Schiffweiler.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,SaarSchiffweiler.private.md) 
+### [Schiffweiler.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Schiffweiler.protect.md) 
 
-### [Schiffweiler.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,SaarSchiffweiler.personal.md) 
+### [Schiffweiler.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Schiffweiler.private.md) 
 
-### [Schiffweiler.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Neunkirchen,Saar\cities~Neunkirchen,SaarSchiffweiler.secret.md)
+### [Schiffweiler.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Schiffweiler.personal.md) 
+
+### [Schiffweiler.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Schiffweiler.secret.md)
 

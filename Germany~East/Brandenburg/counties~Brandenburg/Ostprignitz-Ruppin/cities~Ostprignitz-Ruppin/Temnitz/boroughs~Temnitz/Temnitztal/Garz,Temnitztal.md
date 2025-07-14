@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Garz,Temnitztal.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\Temnitz\boroughs~Temnitz\TemnitztalGarz,Temnitztal.public.md) 
+### [Garz,Temnitztal](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Temnitz/boroughs~Temnitz/Temnitztal/Garz,Temnitztal.md) 
 
-### [Garz,Temnitztal.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\Temnitz\boroughs~Temnitz\TemnitztalGarz,Temnitztal.internal.md) 
+### [Garz,Temnitztal.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Temnitz/boroughs~Temnitz/Temnitztal/Garz,Temnitztal.public.md) 
 
-### [Garz,Temnitztal.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\Temnitz\boroughs~Temnitz\TemnitztalGarz,Temnitztal.protect.md) 
+### [Garz,Temnitztal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Temnitz/boroughs~Temnitz/Temnitztal/Garz,Temnitztal.internal.md) 
 
-### [Garz,Temnitztal.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\Temnitz\boroughs~Temnitz\TemnitztalGarz,Temnitztal.private.md) 
+### [Garz,Temnitztal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Temnitz/boroughs~Temnitz/Temnitztal/Garz,Temnitztal.protect.md) 
 
-### [Garz,Temnitztal.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\Temnitz\boroughs~Temnitz\TemnitztalGarz,Temnitztal.personal.md) 
+### [Garz,Temnitztal.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Temnitz/boroughs~Temnitz/Temnitztal/Garz,Temnitztal.private.md) 
 
-### [Garz,Temnitztal.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\Temnitz\boroughs~Temnitz\TemnitztalGarz,Temnitztal.secret.md)
+### [Garz,Temnitztal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Temnitz/boroughs~Temnitz/Temnitztal/Garz,Temnitztal.personal.md) 
+
+### [Garz,Temnitztal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Temnitz/boroughs~Temnitz/Temnitztal/Garz,Temnitztal.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Heiligenstadt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Heilbad_Heiligenstadt\CityHeiligenstadt.public.md) 
+### [Heiligenstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Heilbad_Heiligenstadt/City/Heiligenstadt.md) 
 
-### [Heiligenstadt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Heilbad_Heiligenstadt\CityHeiligenstadt.internal.md) 
+### [Heiligenstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Heilbad_Heiligenstadt/City/Heiligenstadt.public.md) 
 
-### [Heiligenstadt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Heilbad_Heiligenstadt\CityHeiligenstadt.protect.md) 
+### [Heiligenstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Heilbad_Heiligenstadt/City/Heiligenstadt.internal.md) 
 
-### [Heiligenstadt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Heilbad_Heiligenstadt\CityHeiligenstadt.private.md) 
+### [Heiligenstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Heilbad_Heiligenstadt/City/Heiligenstadt.protect.md) 
 
-### [Heiligenstadt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Heilbad_Heiligenstadt\CityHeiligenstadt.personal.md) 
+### [Heiligenstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Heilbad_Heiligenstadt/City/Heiligenstadt.private.md) 
 
-### [Heiligenstadt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Eichsfeld\cities~Eichsfeld\Heilbad_Heiligenstadt\CityHeiligenstadt.secret.md)
+### [Heiligenstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Heilbad_Heiligenstadt/City/Heiligenstadt.personal.md) 
+
+### [Heiligenstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Heilbad_Heiligenstadt/City/Heiligenstadt.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Esens.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wittmund\cities~WittmundEsens.public.md) 
+### [Esens](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Esens.md) 
 
-### [Esens.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wittmund\cities~WittmundEsens.internal.md) 
+### [Esens.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Esens.public.md) 
 
-### [Esens.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wittmund\cities~WittmundEsens.protect.md) 
+### [Esens.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Esens.internal.md) 
 
-### [Esens.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wittmund\cities~WittmundEsens.private.md) 
+### [Esens.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Esens.protect.md) 
 
-### [Esens.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wittmund\cities~WittmundEsens.personal.md) 
+### [Esens.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Esens.private.md) 
 
-### [Esens.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wittmund\cities~WittmundEsens.secret.md)
+### [Esens.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Esens.personal.md) 
+
+### [Esens.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wittmund/cities~Wittmund/Esens.secret.md)
 

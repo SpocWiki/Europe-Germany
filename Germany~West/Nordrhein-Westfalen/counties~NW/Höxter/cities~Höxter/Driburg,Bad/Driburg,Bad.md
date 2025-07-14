@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Driburg,Bad.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\Driburg,BadDriburg,Bad.public.md) 
+### [Driburg,Bad](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Driburg,Bad/Driburg,Bad.md) 
 
-### [Driburg,Bad.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\Driburg,BadDriburg,Bad.internal.md) 
+### [Driburg,Bad.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Driburg,Bad/Driburg,Bad.public.md) 
 
-### [Driburg,Bad.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\Driburg,BadDriburg,Bad.protect.md) 
+### [Driburg,Bad.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Driburg,Bad/Driburg,Bad.internal.md) 
 
-### [Driburg,Bad.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\Driburg,BadDriburg,Bad.private.md) 
+### [Driburg,Bad.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Driburg,Bad/Driburg,Bad.protect.md) 
 
-### [Driburg,Bad.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\Driburg,BadDriburg,Bad.personal.md) 
+### [Driburg,Bad.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Driburg,Bad/Driburg,Bad.private.md) 
 
-### [Driburg,Bad.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Höxter\cities~Höxter\Driburg,BadDriburg,Bad.secret.md)
+### [Driburg,Bad.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Driburg,Bad/Driburg,Bad.personal.md) 
+
+### [Driburg,Bad.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Höxter/cities~Höxter/Driburg,Bad/Driburg,Bad.secret.md)
 

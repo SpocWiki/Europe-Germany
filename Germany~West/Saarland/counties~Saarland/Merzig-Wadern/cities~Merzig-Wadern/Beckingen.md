@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Beckingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Merzig-Wadern\cities~Merzig-WadernBeckingen.public.md) 
+### [Beckingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Beckingen.md) 
 
-### [Beckingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Merzig-Wadern\cities~Merzig-WadernBeckingen.internal.md) 
+### [Beckingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Beckingen.public.md) 
 
-### [Beckingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Merzig-Wadern\cities~Merzig-WadernBeckingen.protect.md) 
+### [Beckingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Beckingen.internal.md) 
 
-### [Beckingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Merzig-Wadern\cities~Merzig-WadernBeckingen.private.md) 
+### [Beckingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Beckingen.protect.md) 
 
-### [Beckingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Merzig-Wadern\cities~Merzig-WadernBeckingen.personal.md) 
+### [Beckingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Beckingen.private.md) 
 
-### [Beckingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Merzig-Wadern\cities~Merzig-WadernBeckingen.secret.md)
+### [Beckingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Beckingen.personal.md) 
+
+### [Beckingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Merzig-Wadern/cities~Merzig-Wadern/Beckingen.secret.md)
 

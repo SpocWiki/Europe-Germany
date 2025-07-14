@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schermbeck.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselSchermbeck.public.md) 
+### [Schermbeck](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Schermbeck.md) 
 
-### [Schermbeck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselSchermbeck.internal.md) 
+### [Schermbeck.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Schermbeck.public.md) 
 
-### [Schermbeck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselSchermbeck.protect.md) 
+### [Schermbeck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Schermbeck.internal.md) 
 
-### [Schermbeck.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselSchermbeck.private.md) 
+### [Schermbeck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Schermbeck.protect.md) 
 
-### [Schermbeck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselSchermbeck.personal.md) 
+### [Schermbeck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Schermbeck.private.md) 
 
-### [Schermbeck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselSchermbeck.secret.md)
+### [Schermbeck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Schermbeck.personal.md) 
+
+### [Schermbeck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Schermbeck.secret.md)
 

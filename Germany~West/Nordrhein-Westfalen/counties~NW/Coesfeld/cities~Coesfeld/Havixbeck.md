@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Havixbeck.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~CoesfeldHavixbeck.public.md) 
+### [Havixbeck](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Havixbeck.md) 
 
-### [Havixbeck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~CoesfeldHavixbeck.internal.md) 
+### [Havixbeck.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Havixbeck.public.md) 
 
-### [Havixbeck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~CoesfeldHavixbeck.protect.md) 
+### [Havixbeck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Havixbeck.internal.md) 
 
-### [Havixbeck.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~CoesfeldHavixbeck.private.md) 
+### [Havixbeck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Havixbeck.protect.md) 
 
-### [Havixbeck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~CoesfeldHavixbeck.personal.md) 
+### [Havixbeck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Havixbeck.private.md) 
 
-### [Havixbeck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~CoesfeldHavixbeck.secret.md)
+### [Havixbeck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Havixbeck.personal.md) 
+
+### [Havixbeck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Havixbeck.secret.md)
 

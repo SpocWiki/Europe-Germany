@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Doehlen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Auma-Weidatal\CityDoehlen.public.md) 
+### [Doehlen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Auma-Weidatal/City/Doehlen.md) 
 
-### [Doehlen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Auma-Weidatal\CityDoehlen.internal.md) 
+### [Doehlen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Auma-Weidatal/City/Doehlen.public.md) 
 
-### [Doehlen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Auma-Weidatal\CityDoehlen.protect.md) 
+### [Doehlen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Auma-Weidatal/City/Doehlen.internal.md) 
 
-### [Doehlen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Auma-Weidatal\CityDoehlen.private.md) 
+### [Doehlen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Auma-Weidatal/City/Doehlen.protect.md) 
 
-### [Doehlen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Auma-Weidatal\CityDoehlen.personal.md) 
+### [Doehlen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Auma-Weidatal/City/Doehlen.private.md) 
 
-### [Doehlen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Auma-Weidatal\CityDoehlen.secret.md)
+### [Doehlen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Auma-Weidatal/City/Doehlen.personal.md) 
+
+### [Doehlen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Auma-Weidatal/City/Doehlen.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dorf-Itter.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-Frankenbg\Korbach\boroughs~KorbachDorf-Itter.public.md) 
+### [Dorf-Itter](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Korbach/boroughs~Korbach/Dorf-Itter.md) 
 
-### [Dorf-Itter.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-Frankenbg\Korbach\boroughs~KorbachDorf-Itter.internal.md) 
+### [Dorf-Itter.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Korbach/boroughs~Korbach/Dorf-Itter.public.md) 
 
-### [Dorf-Itter.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-Frankenbg\Korbach\boroughs~KorbachDorf-Itter.protect.md) 
+### [Dorf-Itter.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Korbach/boroughs~Korbach/Dorf-Itter.internal.md) 
 
-### [Dorf-Itter.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-Frankenbg\Korbach\boroughs~KorbachDorf-Itter.private.md) 
+### [Dorf-Itter.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Korbach/boroughs~Korbach/Dorf-Itter.protect.md) 
 
-### [Dorf-Itter.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-Frankenbg\Korbach\boroughs~KorbachDorf-Itter.personal.md) 
+### [Dorf-Itter.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Korbach/boroughs~Korbach/Dorf-Itter.private.md) 
 
-### [Dorf-Itter.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-Frankenbg\Korbach\boroughs~KorbachDorf-Itter.secret.md)
+### [Dorf-Itter.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Korbach/boroughs~Korbach/Dorf-Itter.personal.md) 
+
+### [Dorf-Itter.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Korbach/boroughs~Korbach/Dorf-Itter.secret.md)
 

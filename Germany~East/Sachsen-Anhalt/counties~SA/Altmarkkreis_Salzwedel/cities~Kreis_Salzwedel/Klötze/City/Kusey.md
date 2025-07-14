@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kusey.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Klötze\CityKusey.public.md) 
+### [Kusey](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Klötze/City/Kusey.md) 
 
-### [Kusey.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Klötze\CityKusey.internal.md) 
+### [Kusey.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Klötze/City/Kusey.public.md) 
 
-### [Kusey.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Klötze\CityKusey.protect.md) 
+### [Kusey.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Klötze/City/Kusey.internal.md) 
 
-### [Kusey.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Klötze\CityKusey.private.md) 
+### [Kusey.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Klötze/City/Kusey.protect.md) 
 
-### [Kusey.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Klötze\CityKusey.personal.md) 
+### [Kusey.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Klötze/City/Kusey.private.md) 
 
-### [Kusey.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Klötze\CityKusey.secret.md)
+### [Kusey.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Klötze/City/Kusey.personal.md) 
+
+### [Kusey.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Klötze/City/Kusey.secret.md)
 

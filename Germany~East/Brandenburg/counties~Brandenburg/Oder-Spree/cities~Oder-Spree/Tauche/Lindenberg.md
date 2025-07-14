@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lindenberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\TaucheLindenberg.public.md) 
+### [Lindenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Tauche/Lindenberg.md) 
 
-### [Lindenberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\TaucheLindenberg.internal.md) 
+### [Lindenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Tauche/Lindenberg.public.md) 
 
-### [Lindenberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\TaucheLindenberg.protect.md) 
+### [Lindenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Tauche/Lindenberg.internal.md) 
 
-### [Lindenberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\TaucheLindenberg.private.md) 
+### [Lindenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Tauche/Lindenberg.protect.md) 
 
-### [Lindenberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\TaucheLindenberg.personal.md) 
+### [Lindenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Tauche/Lindenberg.private.md) 
 
-### [Lindenberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\TaucheLindenberg.secret.md)
+### [Lindenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Tauche/Lindenberg.personal.md) 
+
+### [Lindenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Tauche/Lindenberg.secret.md)
 

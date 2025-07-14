@@ -3,15 +3,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Lüder.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Aue\boroughs~AueLüder.public.md) 
+### [Lüder](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Aue/boroughs~Aue/Lüder.md) 
 
-### [Lüder.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Aue\boroughs~AueLüder.internal.md) 
+### [Lüder.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Aue/boroughs~Aue/Lüder.public.md) 
 
-### [Lüder.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Aue\boroughs~AueLüder.protect.md) 
+### [Lüder.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Aue/boroughs~Aue/Lüder.internal.md) 
 
-### [Lüder.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Aue\boroughs~AueLüder.private.md) 
+### [Lüder.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Aue/boroughs~Aue/Lüder.protect.md) 
 
-### [Lüder.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Aue\boroughs~AueLüder.personal.md) 
+### [Lüder.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Aue/boroughs~Aue/Lüder.private.md) 
 
-### [Lüder.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Aue\boroughs~AueLüder.secret.md)
+### [Lüder.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Aue/boroughs~Aue/Lüder.personal.md) 
+
+### [Lüder.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Aue/boroughs~Aue/Lüder.secret.md)
 

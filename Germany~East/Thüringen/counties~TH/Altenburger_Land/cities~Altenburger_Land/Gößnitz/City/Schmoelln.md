@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schmoelln.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Altenburger_Land\cities~Altenburger_Land\Gößnitz\CitySchmoelln.public.md) 
+### [Schmoelln](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Gößnitz/City/Schmoelln.md) 
 
-### [Schmoelln.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Altenburger_Land\cities~Altenburger_Land\Gößnitz\CitySchmoelln.internal.md) 
+### [Schmoelln.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Gößnitz/City/Schmoelln.public.md) 
 
-### [Schmoelln.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Altenburger_Land\cities~Altenburger_Land\Gößnitz\CitySchmoelln.protect.md) 
+### [Schmoelln.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Gößnitz/City/Schmoelln.internal.md) 
 
-### [Schmoelln.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Altenburger_Land\cities~Altenburger_Land\Gößnitz\CitySchmoelln.private.md) 
+### [Schmoelln.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Gößnitz/City/Schmoelln.protect.md) 
 
-### [Schmoelln.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Altenburger_Land\cities~Altenburger_Land\Gößnitz\CitySchmoelln.personal.md) 
+### [Schmoelln.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Gößnitz/City/Schmoelln.private.md) 
 
-### [Schmoelln.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Altenburger_Land\cities~Altenburger_Land\Gößnitz\CitySchmoelln.secret.md)
+### [Schmoelln.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Gößnitz/City/Schmoelln.personal.md) 
+
+### [Schmoelln.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Gößnitz/City/Schmoelln.secret.md)
 

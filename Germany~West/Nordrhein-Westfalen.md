@@ -172,15 +172,17 @@ Capital :: [[Duesseldorf]]
 
 ## Confidential Links & Embeds: 
 
-### [Nordrhein-Westfalen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestNordrhein-Westfalen.public.md) 
+### [Nordrhein-Westfalen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.md) 
 
-### [Nordrhein-Westfalen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestNordrhein-Westfalen.internal.md) 
+### [Nordrhein-Westfalen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.public.md) 
 
-### [Nordrhein-Westfalen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestNordrhein-Westfalen.protect.md) 
+### [Nordrhein-Westfalen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.internal.md) 
 
-### [Nordrhein-Westfalen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestNordrhein-Westfalen.private.md) 
+### [Nordrhein-Westfalen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.protect.md) 
 
-### [Nordrhein-Westfalen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestNordrhein-Westfalen.personal.md) 
+### [Nordrhein-Westfalen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.private.md) 
 
-### [Nordrhein-Westfalen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~WestNordrhein-Westfalen.secret.md)
+### [Nordrhein-Westfalen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.personal.md) 
+
+### [Nordrhein-Westfalen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.secret.md)
 

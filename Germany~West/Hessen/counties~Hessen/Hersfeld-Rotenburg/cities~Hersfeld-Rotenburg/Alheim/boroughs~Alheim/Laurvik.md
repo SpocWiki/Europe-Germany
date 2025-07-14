@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Laurvik.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hersfeld-Rotenburg\cities~Hersfeld-Rotenburg\Alheim\boroughs~AlheimLaurvik.public.md) 
+### [Laurvik](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Alheim/boroughs~Alheim/Laurvik.md) 
 
-### [Laurvik.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hersfeld-Rotenburg\cities~Hersfeld-Rotenburg\Alheim\boroughs~AlheimLaurvik.internal.md) 
+### [Laurvik.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Alheim/boroughs~Alheim/Laurvik.public.md) 
 
-### [Laurvik.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hersfeld-Rotenburg\cities~Hersfeld-Rotenburg\Alheim\boroughs~AlheimLaurvik.protect.md) 
+### [Laurvik.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Alheim/boroughs~Alheim/Laurvik.internal.md) 
 
-### [Laurvik.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hersfeld-Rotenburg\cities~Hersfeld-Rotenburg\Alheim\boroughs~AlheimLaurvik.private.md) 
+### [Laurvik.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Alheim/boroughs~Alheim/Laurvik.protect.md) 
 
-### [Laurvik.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hersfeld-Rotenburg\cities~Hersfeld-Rotenburg\Alheim\boroughs~AlheimLaurvik.personal.md) 
+### [Laurvik.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Alheim/boroughs~Alheim/Laurvik.private.md) 
 
-### [Laurvik.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hersfeld-Rotenburg\cities~Hersfeld-Rotenburg\Alheim\boroughs~AlheimLaurvik.secret.md)
+### [Laurvik.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Alheim/boroughs~Alheim/Laurvik.personal.md) 
+
+### [Laurvik.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Alheim/boroughs~Alheim/Laurvik.secret.md)
 

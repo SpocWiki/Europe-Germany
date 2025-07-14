@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nauen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~HavellandNauen.public.md) 
+### [Nauen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Nauen.md) 
 
-### [Nauen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~HavellandNauen.internal.md) 
+### [Nauen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Nauen.public.md) 
 
-### [Nauen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~HavellandNauen.protect.md) 
+### [Nauen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Nauen.internal.md) 
 
-### [Nauen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~HavellandNauen.private.md) 
+### [Nauen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Nauen.protect.md) 
 
-### [Nauen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~HavellandNauen.personal.md) 
+### [Nauen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Nauen.private.md) 
 
-### [Nauen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~HavellandNauen.secret.md)
+### [Nauen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Nauen.personal.md) 
+
+### [Nauen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Nauen.secret.md)
 

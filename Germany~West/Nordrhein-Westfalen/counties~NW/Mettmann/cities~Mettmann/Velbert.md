@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Velbert.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannVelbert.public.md) 
+### [Velbert](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Velbert.md) 
 
-### [Velbert.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannVelbert.internal.md) 
+### [Velbert.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Velbert.public.md) 
 
-### [Velbert.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannVelbert.protect.md) 
+### [Velbert.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Velbert.internal.md) 
 
-### [Velbert.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannVelbert.private.md) 
+### [Velbert.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Velbert.protect.md) 
 
-### [Velbert.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannVelbert.personal.md) 
+### [Velbert.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Velbert.private.md) 
 
-### [Velbert.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannVelbert.secret.md)
+### [Velbert.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Velbert.personal.md) 
+
+### [Velbert.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Velbert.secret.md)
 

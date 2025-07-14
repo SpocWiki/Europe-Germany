@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wallerfangen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarlouis\cities~SaarlouisWallerfangen.public.md) 
+### [Wallerfangen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Wallerfangen.md) 
 
-### [Wallerfangen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarlouis\cities~SaarlouisWallerfangen.internal.md) 
+### [Wallerfangen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Wallerfangen.public.md) 
 
-### [Wallerfangen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarlouis\cities~SaarlouisWallerfangen.protect.md) 
+### [Wallerfangen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Wallerfangen.internal.md) 
 
-### [Wallerfangen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarlouis\cities~SaarlouisWallerfangen.private.md) 
+### [Wallerfangen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Wallerfangen.protect.md) 
 
-### [Wallerfangen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarlouis\cities~SaarlouisWallerfangen.personal.md) 
+### [Wallerfangen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Wallerfangen.private.md) 
 
-### [Wallerfangen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Saarlouis\cities~SaarlouisWallerfangen.secret.md)
+### [Wallerfangen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Wallerfangen.personal.md) 
+
+### [Wallerfangen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Wallerfangen.secret.md)
 

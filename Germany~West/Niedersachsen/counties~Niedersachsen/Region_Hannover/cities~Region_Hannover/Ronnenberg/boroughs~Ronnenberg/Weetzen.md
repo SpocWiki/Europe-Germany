@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Weetzen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Ronnenberg\boroughs~RonnenbergWeetzen.public.md) 
+### [Weetzen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.md) 
 
-### [Weetzen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Ronnenberg\boroughs~RonnenbergWeetzen.internal.md) 
+### [Weetzen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.public.md) 
 
-### [Weetzen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Ronnenberg\boroughs~RonnenbergWeetzen.protect.md) 
+### [Weetzen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.internal.md) 
 
-### [Weetzen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Ronnenberg\boroughs~RonnenbergWeetzen.private.md) 
+### [Weetzen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.protect.md) 
 
-### [Weetzen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Ronnenberg\boroughs~RonnenbergWeetzen.personal.md) 
+### [Weetzen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.private.md) 
 
-### [Weetzen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Region_Hannover\cities~Region_Hannover\Ronnenberg\boroughs~RonnenbergWeetzen.secret.md)
+### [Weetzen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.personal.md) 
+
+### [Weetzen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.secret.md)
 

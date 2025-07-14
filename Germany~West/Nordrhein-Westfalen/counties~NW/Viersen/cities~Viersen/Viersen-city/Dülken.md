@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dülken.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\Viersen-cityDülken.public.md) 
+### [Dülken](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Viersen-city/Dülken.md) 
 
-### [Dülken.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\Viersen-cityDülken.internal.md) 
+### [Dülken.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Viersen-city/Dülken.public.md) 
 
-### [Dülken.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\Viersen-cityDülken.protect.md) 
+### [Dülken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Viersen-city/Dülken.internal.md) 
 
-### [Dülken.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\Viersen-cityDülken.private.md) 
+### [Dülken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Viersen-city/Dülken.protect.md) 
 
-### [Dülken.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\Viersen-cityDülken.personal.md) 
+### [Dülken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Viersen-city/Dülken.private.md) 
 
-### [Dülken.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Viersen\cities~Viersen\Viersen-cityDülken.secret.md)
+### [Dülken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Viersen-city/Dülken.personal.md) 
+
+### [Dülken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Viersen-city/Dülken.secret.md)
 

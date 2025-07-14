@@ -37,15 +37,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schöppenstedt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Elm-AsseSchöppenstedt.public.md) 
+### [Schöppenstedt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Elm-Asse/Schöppenstedt.md) 
 
-### [Schöppenstedt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Elm-AsseSchöppenstedt.internal.md) 
+### [Schöppenstedt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Elm-Asse/Schöppenstedt.public.md) 
 
-### [Schöppenstedt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Elm-AsseSchöppenstedt.protect.md) 
+### [Schöppenstedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Elm-Asse/Schöppenstedt.internal.md) 
 
-### [Schöppenstedt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Elm-AsseSchöppenstedt.private.md) 
+### [Schöppenstedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Elm-Asse/Schöppenstedt.protect.md) 
 
-### [Schöppenstedt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Elm-AsseSchöppenstedt.personal.md) 
+### [Schöppenstedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Elm-Asse/Schöppenstedt.private.md) 
 
-### [Schöppenstedt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Elm-AsseSchöppenstedt.secret.md)
+### [Schöppenstedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Elm-Asse/Schöppenstedt.personal.md) 
+
+### [Schöppenstedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Elm-Asse/Schöppenstedt.secret.md)
 

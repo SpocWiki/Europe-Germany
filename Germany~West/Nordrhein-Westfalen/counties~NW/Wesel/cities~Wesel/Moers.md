@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Moers.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselMoers.public.md) 
+### [Moers](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers.md) 
 
-### [Moers.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselMoers.internal.md) 
+### [Moers.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers.public.md) 
 
-### [Moers.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselMoers.protect.md) 
+### [Moers.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers.internal.md) 
 
-### [Moers.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselMoers.private.md) 
+### [Moers.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers.protect.md) 
 
-### [Moers.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselMoers.personal.md) 
+### [Moers.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers.private.md) 
 
-### [Moers.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~WeselMoers.secret.md)
+### [Moers.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers.personal.md) 
+
+### [Moers.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers.secret.md)
 

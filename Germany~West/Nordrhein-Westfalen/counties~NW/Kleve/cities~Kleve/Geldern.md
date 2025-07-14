@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Geldern.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveGeldern.public.md) 
+### [Geldern](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Geldern.md) 
 
-### [Geldern.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveGeldern.internal.md) 
+### [Geldern.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Geldern.public.md) 
 
-### [Geldern.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveGeldern.protect.md) 
+### [Geldern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Geldern.internal.md) 
 
-### [Geldern.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveGeldern.private.md) 
+### [Geldern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Geldern.protect.md) 
 
-### [Geldern.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveGeldern.personal.md) 
+### [Geldern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Geldern.private.md) 
 
-### [Geldern.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Kleve\cities~KleveGeldern.secret.md)
+### [Geldern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Geldern.personal.md) 
+
+### [Geldern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Geldern.secret.md)
 

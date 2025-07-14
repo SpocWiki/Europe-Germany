@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Markranstaedt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Markranstädt\CityMarkranstaedt.public.md) 
+### [Markranstaedt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Markranstädt/City/Markranstaedt.md) 
 
-### [Markranstaedt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Markranstädt\CityMarkranstaedt.internal.md) 
+### [Markranstaedt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Markranstädt/City/Markranstaedt.public.md) 
 
-### [Markranstaedt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Markranstädt\CityMarkranstaedt.protect.md) 
+### [Markranstaedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Markranstädt/City/Markranstaedt.internal.md) 
 
-### [Markranstaedt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Markranstädt\CityMarkranstaedt.private.md) 
+### [Markranstaedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Markranstädt/City/Markranstaedt.protect.md) 
 
-### [Markranstaedt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Markranstädt\CityMarkranstaedt.personal.md) 
+### [Markranstaedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Markranstädt/City/Markranstaedt.private.md) 
 
-### [Markranstaedt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Leipzig\cities~Leipzig\Markranstädt\CityMarkranstaedt.secret.md)
+### [Markranstaedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Markranstädt/City/Markranstaedt.personal.md) 
+
+### [Markranstaedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig/cities~Leipzig/Markranstädt/City/Markranstaedt.secret.md)
 

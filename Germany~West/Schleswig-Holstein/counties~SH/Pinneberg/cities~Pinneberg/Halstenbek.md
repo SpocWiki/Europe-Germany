@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Halstenbek.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Pinneberg\cities~PinnebergHalstenbek.public.md) 
+### [Halstenbek](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Halstenbek.md) 
 
-### [Halstenbek.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Pinneberg\cities~PinnebergHalstenbek.internal.md) 
+### [Halstenbek.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Halstenbek.public.md) 
 
-### [Halstenbek.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Pinneberg\cities~PinnebergHalstenbek.protect.md) 
+### [Halstenbek.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Halstenbek.internal.md) 
 
-### [Halstenbek.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Pinneberg\cities~PinnebergHalstenbek.private.md) 
+### [Halstenbek.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Halstenbek.protect.md) 
 
-### [Halstenbek.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Pinneberg\cities~PinnebergHalstenbek.personal.md) 
+### [Halstenbek.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Halstenbek.private.md) 
 
-### [Halstenbek.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Pinneberg\cities~PinnebergHalstenbek.secret.md)
+### [Halstenbek.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Halstenbek.personal.md) 
+
+### [Halstenbek.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Halstenbek.secret.md)
 

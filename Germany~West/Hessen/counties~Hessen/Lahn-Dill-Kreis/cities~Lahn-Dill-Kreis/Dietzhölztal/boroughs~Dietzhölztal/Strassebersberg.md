@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Strassebersberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-Kreis\Dietzhölztal\boroughs~DietzhölztalStrassebersberg.public.md) 
+### [Strassebersberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Dietzhölztal/boroughs~Dietzhölztal/Strassebersberg.md) 
 
-### [Strassebersberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-Kreis\Dietzhölztal\boroughs~DietzhölztalStrassebersberg.internal.md) 
+### [Strassebersberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Dietzhölztal/boroughs~Dietzhölztal/Strassebersberg.public.md) 
 
-### [Strassebersberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-Kreis\Dietzhölztal\boroughs~DietzhölztalStrassebersberg.protect.md) 
+### [Strassebersberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Dietzhölztal/boroughs~Dietzhölztal/Strassebersberg.internal.md) 
 
-### [Strassebersberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-Kreis\Dietzhölztal\boroughs~DietzhölztalStrassebersberg.private.md) 
+### [Strassebersberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Dietzhölztal/boroughs~Dietzhölztal/Strassebersberg.protect.md) 
 
-### [Strassebersberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-Kreis\Dietzhölztal\boroughs~DietzhölztalStrassebersberg.personal.md) 
+### [Strassebersberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Dietzhölztal/boroughs~Dietzhölztal/Strassebersberg.private.md) 
 
-### [Strassebersberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-Kreis\Dietzhölztal\boroughs~DietzhölztalStrassebersberg.secret.md)
+### [Strassebersberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Dietzhölztal/boroughs~Dietzhölztal/Strassebersberg.personal.md) 
+
+### [Strassebersberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Dietzhölztal/boroughs~Dietzhölztal/Strassebersberg.secret.md)
 

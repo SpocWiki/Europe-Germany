@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Teschow.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Neubukow\boroughs~NeubukowTeschow.public.md) 
+### [Teschow](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Teschow.md) 
 
-### [Teschow.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Neubukow\boroughs~NeubukowTeschow.internal.md) 
+### [Teschow.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Teschow.public.md) 
 
-### [Teschow.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Neubukow\boroughs~NeubukowTeschow.protect.md) 
+### [Teschow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Teschow.internal.md) 
 
-### [Teschow.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Neubukow\boroughs~NeubukowTeschow.private.md) 
+### [Teschow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Teschow.protect.md) 
 
-### [Teschow.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Neubukow\boroughs~NeubukowTeschow.personal.md) 
+### [Teschow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Teschow.private.md) 
 
-### [Teschow.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Neubukow\boroughs~NeubukowTeschow.secret.md)
+### [Teschow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Teschow.personal.md) 
+
+### [Teschow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Teschow.secret.md)
 

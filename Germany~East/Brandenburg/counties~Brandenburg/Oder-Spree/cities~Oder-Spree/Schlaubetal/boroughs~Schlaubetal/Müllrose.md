@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Müllrose.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\Schlaubetal\boroughs~SchlaubetalMüllrose.public.md) 
+### [Müllrose](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Schlaubetal/boroughs~Schlaubetal/Müllrose.md) 
 
-### [Müllrose.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\Schlaubetal\boroughs~SchlaubetalMüllrose.internal.md) 
+### [Müllrose.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Schlaubetal/boroughs~Schlaubetal/Müllrose.public.md) 
 
-### [Müllrose.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\Schlaubetal\boroughs~SchlaubetalMüllrose.protect.md) 
+### [Müllrose.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Schlaubetal/boroughs~Schlaubetal/Müllrose.internal.md) 
 
-### [Müllrose.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\Schlaubetal\boroughs~SchlaubetalMüllrose.private.md) 
+### [Müllrose.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Schlaubetal/boroughs~Schlaubetal/Müllrose.protect.md) 
 
-### [Müllrose.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\Schlaubetal\boroughs~SchlaubetalMüllrose.personal.md) 
+### [Müllrose.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Schlaubetal/boroughs~Schlaubetal/Müllrose.private.md) 
 
-### [Müllrose.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Oder-Spree\cities~Oder-Spree\Schlaubetal\boroughs~SchlaubetalMüllrose.secret.md)
+### [Müllrose.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Schlaubetal/boroughs~Schlaubetal/Müllrose.personal.md) 
+
+### [Müllrose.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Schlaubetal/boroughs~Schlaubetal/Müllrose.secret.md)
 

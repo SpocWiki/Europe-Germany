@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sandhagen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Neubukow\boroughs~NeubukowSandhagen.public.md) 
+### [Sandhagen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Sandhagen.md) 
 
-### [Sandhagen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Neubukow\boroughs~NeubukowSandhagen.internal.md) 
+### [Sandhagen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Sandhagen.public.md) 
 
-### [Sandhagen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Neubukow\boroughs~NeubukowSandhagen.protect.md) 
+### [Sandhagen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Sandhagen.internal.md) 
 
-### [Sandhagen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Neubukow\boroughs~NeubukowSandhagen.private.md) 
+### [Sandhagen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Sandhagen.protect.md) 
 
-### [Sandhagen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Neubukow\boroughs~NeubukowSandhagen.personal.md) 
+### [Sandhagen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Sandhagen.private.md) 
 
-### [Sandhagen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Neubukow\boroughs~NeubukowSandhagen.secret.md)
+### [Sandhagen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Sandhagen.personal.md) 
+
+### [Sandhagen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Sandhagen.secret.md)
 

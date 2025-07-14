@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Soemmerda.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sömmerda\cities~Sömmerda\Sömmerda-city\CitySoemmerda.public.md) 
+### [Soemmerda](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Sömmerda-city/City/Soemmerda.md) 
 
-### [Soemmerda.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sömmerda\cities~Sömmerda\Sömmerda-city\CitySoemmerda.internal.md) 
+### [Soemmerda.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Sömmerda-city/City/Soemmerda.public.md) 
 
-### [Soemmerda.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sömmerda\cities~Sömmerda\Sömmerda-city\CitySoemmerda.protect.md) 
+### [Soemmerda.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Sömmerda-city/City/Soemmerda.internal.md) 
 
-### [Soemmerda.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sömmerda\cities~Sömmerda\Sömmerda-city\CitySoemmerda.private.md) 
+### [Soemmerda.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Sömmerda-city/City/Soemmerda.protect.md) 
 
-### [Soemmerda.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sömmerda\cities~Sömmerda\Sömmerda-city\CitySoemmerda.personal.md) 
+### [Soemmerda.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Sömmerda-city/City/Soemmerda.private.md) 
 
-### [Soemmerda.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sömmerda\cities~Sömmerda\Sömmerda-city\CitySoemmerda.secret.md)
+### [Soemmerda.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Sömmerda-city/City/Soemmerda.personal.md) 
+
+### [Soemmerda.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Sömmerda-city/City/Soemmerda.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Exter,Vlotho.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~Herford\VlothoExter,Vlotho.public.md) 
+### [Exter,Vlotho](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Vlotho/Exter,Vlotho.md) 
 
-### [Exter,Vlotho.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~Herford\VlothoExter,Vlotho.internal.md) 
+### [Exter,Vlotho.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Vlotho/Exter,Vlotho.public.md) 
 
-### [Exter,Vlotho.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~Herford\VlothoExter,Vlotho.protect.md) 
+### [Exter,Vlotho.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Vlotho/Exter,Vlotho.internal.md) 
 
-### [Exter,Vlotho.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~Herford\VlothoExter,Vlotho.private.md) 
+### [Exter,Vlotho.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Vlotho/Exter,Vlotho.protect.md) 
 
-### [Exter,Vlotho.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~Herford\VlothoExter,Vlotho.personal.md) 
+### [Exter,Vlotho.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Vlotho/Exter,Vlotho.private.md) 
 
-### [Exter,Vlotho.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Herford\cities~Herford\VlothoExter,Vlotho.secret.md)
+### [Exter,Vlotho.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Vlotho/Exter,Vlotho.personal.md) 
+
+### [Exter,Vlotho.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Vlotho/Exter,Vlotho.secret.md)
 

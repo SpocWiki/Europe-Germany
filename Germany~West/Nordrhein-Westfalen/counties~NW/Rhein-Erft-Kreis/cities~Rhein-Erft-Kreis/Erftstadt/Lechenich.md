@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lechenich.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-Kreis\ErftstadtLechenich.public.md) 
+### [Lechenich](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Erftstadt/Lechenich.md) 
 
-### [Lechenich.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-Kreis\ErftstadtLechenich.internal.md) 
+### [Lechenich.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Erftstadt/Lechenich.public.md) 
 
-### [Lechenich.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-Kreis\ErftstadtLechenich.protect.md) 
+### [Lechenich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Erftstadt/Lechenich.internal.md) 
 
-### [Lechenich.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-Kreis\ErftstadtLechenich.private.md) 
+### [Lechenich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Erftstadt/Lechenich.protect.md) 
 
-### [Lechenich.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-Kreis\ErftstadtLechenich.personal.md) 
+### [Lechenich.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Erftstadt/Lechenich.private.md) 
 
-### [Lechenich.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Erft-Kreis\cities~Rhein-Erft-Kreis\ErftstadtLechenich.secret.md)
+### [Lechenich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Erftstadt/Lechenich.personal.md) 
+
+### [Lechenich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Erft-Kreis/cities~Rhein-Erft-Kreis/Erftstadt/Lechenich.secret.md)
 

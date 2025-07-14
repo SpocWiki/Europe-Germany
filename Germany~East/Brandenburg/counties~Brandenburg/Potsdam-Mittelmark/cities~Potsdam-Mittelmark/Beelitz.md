@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Beelitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-MittelmarkBeelitz.public.md) 
+### [Beelitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Beelitz.md) 
 
-### [Beelitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-MittelmarkBeelitz.internal.md) 
+### [Beelitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Beelitz.public.md) 
 
-### [Beelitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-MittelmarkBeelitz.protect.md) 
+### [Beelitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Beelitz.internal.md) 
 
-### [Beelitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-MittelmarkBeelitz.private.md) 
+### [Beelitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Beelitz.protect.md) 
 
-### [Beelitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-MittelmarkBeelitz.personal.md) 
+### [Beelitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Beelitz.private.md) 
 
-### [Beelitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-MittelmarkBeelitz.secret.md)
+### [Beelitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Beelitz.personal.md) 
+
+### [Beelitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Beelitz.secret.md)
 

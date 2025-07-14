@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oldorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~Friesland\Wangerland\boroughs~WangerlandOldorf.public.md) 
+### [Oldorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Wangerland/boroughs~Wangerland/Oldorf.md) 
 
-### [Oldorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~Friesland\Wangerland\boroughs~WangerlandOldorf.internal.md) 
+### [Oldorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Wangerland/boroughs~Wangerland/Oldorf.public.md) 
 
-### [Oldorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~Friesland\Wangerland\boroughs~WangerlandOldorf.protect.md) 
+### [Oldorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Wangerland/boroughs~Wangerland/Oldorf.internal.md) 
 
-### [Oldorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~Friesland\Wangerland\boroughs~WangerlandOldorf.private.md) 
+### [Oldorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Wangerland/boroughs~Wangerland/Oldorf.protect.md) 
 
-### [Oldorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~Friesland\Wangerland\boroughs~WangerlandOldorf.personal.md) 
+### [Oldorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Wangerland/boroughs~Wangerland/Oldorf.private.md) 
 
-### [Oldorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Friesland\cities~Friesland\Wangerland\boroughs~WangerlandOldorf.secret.md)
+### [Oldorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Wangerland/boroughs~Wangerland/Oldorf.personal.md) 
+
+### [Oldorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Wangerland/boroughs~Wangerland/Oldorf.secret.md)
 

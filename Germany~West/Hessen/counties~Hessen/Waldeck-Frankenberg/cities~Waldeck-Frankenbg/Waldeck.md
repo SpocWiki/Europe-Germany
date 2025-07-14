@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Waldeck.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-FrankenbgWaldeck.public.md) 
+### [Waldeck](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Waldeck.md) 
 
-### [Waldeck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-FrankenbgWaldeck.internal.md) 
+### [Waldeck.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Waldeck.public.md) 
 
-### [Waldeck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-FrankenbgWaldeck.protect.md) 
+### [Waldeck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Waldeck.internal.md) 
 
-### [Waldeck.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-FrankenbgWaldeck.private.md) 
+### [Waldeck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Waldeck.protect.md) 
 
-### [Waldeck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-FrankenbgWaldeck.personal.md) 
+### [Waldeck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Waldeck.private.md) 
 
-### [Waldeck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Waldeck-Frankenberg\cities~Waldeck-FrankenbgWaldeck.secret.md)
+### [Waldeck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Waldeck.personal.md) 
+
+### [Waldeck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Waldeck-Frankenberg/cities~Waldeck-Frankenbg/Waldeck.secret.md)
 

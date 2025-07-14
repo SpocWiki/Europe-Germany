@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Arkona.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Nord-Rügen\boroughs~Nord-Rügen\WiekArkona.public.md) 
+### [Arkona](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Wiek/Arkona.md) 
 
-### [Arkona.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Nord-Rügen\boroughs~Nord-Rügen\WiekArkona.internal.md) 
+### [Arkona.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Wiek/Arkona.public.md) 
 
-### [Arkona.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Nord-Rügen\boroughs~Nord-Rügen\WiekArkona.protect.md) 
+### [Arkona.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Wiek/Arkona.internal.md) 
 
-### [Arkona.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Nord-Rügen\boroughs~Nord-Rügen\WiekArkona.private.md) 
+### [Arkona.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Wiek/Arkona.protect.md) 
 
-### [Arkona.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Nord-Rügen\boroughs~Nord-Rügen\WiekArkona.personal.md) 
+### [Arkona.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Wiek/Arkona.private.md) 
 
-### [Arkona.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Vorpommern-Rügen\cities~Rügen\Nord-Rügen\boroughs~Nord-Rügen\WiekArkona.secret.md)
+### [Arkona.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Wiek/Arkona.personal.md) 
+
+### [Arkona.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Wiek/Arkona.secret.md)
 

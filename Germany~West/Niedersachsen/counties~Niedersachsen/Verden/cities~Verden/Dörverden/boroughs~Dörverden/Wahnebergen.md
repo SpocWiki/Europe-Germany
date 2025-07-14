@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wahnebergen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Verden\cities~Verden\Dörverden\boroughs~DörverdenWahnebergen.public.md) 
+### [Wahnebergen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Dörverden/boroughs~Dörverden/Wahnebergen.md) 
 
-### [Wahnebergen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Verden\cities~Verden\Dörverden\boroughs~DörverdenWahnebergen.internal.md) 
+### [Wahnebergen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Dörverden/boroughs~Dörverden/Wahnebergen.public.md) 
 
-### [Wahnebergen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Verden\cities~Verden\Dörverden\boroughs~DörverdenWahnebergen.protect.md) 
+### [Wahnebergen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Dörverden/boroughs~Dörverden/Wahnebergen.internal.md) 
 
-### [Wahnebergen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Verden\cities~Verden\Dörverden\boroughs~DörverdenWahnebergen.private.md) 
+### [Wahnebergen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Dörverden/boroughs~Dörverden/Wahnebergen.protect.md) 
 
-### [Wahnebergen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Verden\cities~Verden\Dörverden\boroughs~DörverdenWahnebergen.personal.md) 
+### [Wahnebergen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Dörverden/boroughs~Dörverden/Wahnebergen.private.md) 
 
-### [Wahnebergen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Verden\cities~Verden\Dörverden\boroughs~DörverdenWahnebergen.secret.md)
+### [Wahnebergen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Dörverden/boroughs~Dörverden/Wahnebergen.personal.md) 
+
+### [Wahnebergen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Dörverden/boroughs~Dörverden/Wahnebergen.secret.md)
 

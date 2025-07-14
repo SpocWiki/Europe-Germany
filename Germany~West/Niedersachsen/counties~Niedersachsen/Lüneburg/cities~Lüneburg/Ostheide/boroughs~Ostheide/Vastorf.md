@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vastorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüneburg\cities~Lüneburg\Ostheide\boroughs~OstheideVastorf.public.md) 
+### [Vastorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Ostheide/boroughs~Ostheide/Vastorf.md) 
 
-### [Vastorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüneburg\cities~Lüneburg\Ostheide\boroughs~OstheideVastorf.internal.md) 
+### [Vastorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Ostheide/boroughs~Ostheide/Vastorf.public.md) 
 
-### [Vastorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüneburg\cities~Lüneburg\Ostheide\boroughs~OstheideVastorf.protect.md) 
+### [Vastorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Ostheide/boroughs~Ostheide/Vastorf.internal.md) 
 
-### [Vastorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüneburg\cities~Lüneburg\Ostheide\boroughs~OstheideVastorf.private.md) 
+### [Vastorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Ostheide/boroughs~Ostheide/Vastorf.protect.md) 
 
-### [Vastorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüneburg\cities~Lüneburg\Ostheide\boroughs~OstheideVastorf.personal.md) 
+### [Vastorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Ostheide/boroughs~Ostheide/Vastorf.private.md) 
 
-### [Vastorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Lüneburg\cities~Lüneburg\Ostheide\boroughs~OstheideVastorf.secret.md)
+### [Vastorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Ostheide/boroughs~Ostheide/Vastorf.personal.md) 
+
+### [Vastorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Ostheide/boroughs~Ostheide/Vastorf.secret.md)
 

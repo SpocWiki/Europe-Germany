@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stollberg_Erzgeb-City.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Stollberg_Erzgeb\boroughs~Stollberg_ErzgebStollberg_Erzgeb-City.public.md) 
+### [Stollberg_Erzgeb-City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Stollberg_Erzgeb/boroughs~Stollberg_Erzgeb/Stollberg_Erzgeb-City.md) 
 
-### [Stollberg_Erzgeb-City.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Stollberg_Erzgeb\boroughs~Stollberg_ErzgebStollberg_Erzgeb-City.internal.md) 
+### [Stollberg_Erzgeb-City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Stollberg_Erzgeb/boroughs~Stollberg_Erzgeb/Stollberg_Erzgeb-City.public.md) 
 
-### [Stollberg_Erzgeb-City.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Stollberg_Erzgeb\boroughs~Stollberg_ErzgebStollberg_Erzgeb-City.protect.md) 
+### [Stollberg_Erzgeb-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Stollberg_Erzgeb/boroughs~Stollberg_Erzgeb/Stollberg_Erzgeb-City.internal.md) 
 
-### [Stollberg_Erzgeb-City.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Stollberg_Erzgeb\boroughs~Stollberg_ErzgebStollberg_Erzgeb-City.private.md) 
+### [Stollberg_Erzgeb-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Stollberg_Erzgeb/boroughs~Stollberg_Erzgeb/Stollberg_Erzgeb-City.protect.md) 
 
-### [Stollberg_Erzgeb-City.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Stollberg_Erzgeb\boroughs~Stollberg_ErzgebStollberg_Erzgeb-City.personal.md) 
+### [Stollberg_Erzgeb-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Stollberg_Erzgeb/boroughs~Stollberg_Erzgeb/Stollberg_Erzgeb-City.private.md) 
 
-### [Stollberg_Erzgeb-City.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Erzgebirgskreis\cities~Erzgebirgskr\Stollberg_Erzgeb\boroughs~Stollberg_ErzgebStollberg_Erzgeb-City.secret.md)
+### [Stollberg_Erzgeb-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Stollberg_Erzgeb/boroughs~Stollberg_Erzgeb/Stollberg_Erzgeb-City.personal.md) 
+
+### [Stollberg_Erzgeb-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Stollberg_Erzgeb/boroughs~Stollberg_Erzgeb/Stollberg_Erzgeb-City.secret.md)
 

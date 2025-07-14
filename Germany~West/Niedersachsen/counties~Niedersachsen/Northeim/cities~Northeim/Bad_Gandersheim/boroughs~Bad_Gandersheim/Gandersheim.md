@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gandersheim.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Bad_Gandersheim\boroughs~Bad_GandersheimGandersheim.public.md) 
+### [Gandersheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bad_Gandersheim/boroughs~Bad_Gandersheim/Gandersheim.md) 
 
-### [Gandersheim.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Bad_Gandersheim\boroughs~Bad_GandersheimGandersheim.internal.md) 
+### [Gandersheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bad_Gandersheim/boroughs~Bad_Gandersheim/Gandersheim.public.md) 
 
-### [Gandersheim.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Bad_Gandersheim\boroughs~Bad_GandersheimGandersheim.protect.md) 
+### [Gandersheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bad_Gandersheim/boroughs~Bad_Gandersheim/Gandersheim.internal.md) 
 
-### [Gandersheim.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Bad_Gandersheim\boroughs~Bad_GandersheimGandersheim.private.md) 
+### [Gandersheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bad_Gandersheim/boroughs~Bad_Gandersheim/Gandersheim.protect.md) 
 
-### [Gandersheim.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Bad_Gandersheim\boroughs~Bad_GandersheimGandersheim.personal.md) 
+### [Gandersheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bad_Gandersheim/boroughs~Bad_Gandersheim/Gandersheim.private.md) 
 
-### [Gandersheim.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Bad_Gandersheim\boroughs~Bad_GandersheimGandersheim.secret.md)
+### [Gandersheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bad_Gandersheim/boroughs~Bad_Gandersheim/Gandersheim.personal.md) 
+
+### [Gandersheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bad_Gandersheim/boroughs~Bad_Gandersheim/Gandersheim.secret.md)
 

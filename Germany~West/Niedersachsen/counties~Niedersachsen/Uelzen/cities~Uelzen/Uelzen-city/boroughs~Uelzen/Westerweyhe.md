@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Westerweyhe.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Uelzen-city\boroughs~UelzenWesterweyhe.public.md) 
+### [Westerweyhe](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Uelzen-city/boroughs~Uelzen/Westerweyhe.md) 
 
-### [Westerweyhe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Uelzen-city\boroughs~UelzenWesterweyhe.internal.md) 
+### [Westerweyhe.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Uelzen-city/boroughs~Uelzen/Westerweyhe.public.md) 
 
-### [Westerweyhe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Uelzen-city\boroughs~UelzenWesterweyhe.protect.md) 
+### [Westerweyhe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Uelzen-city/boroughs~Uelzen/Westerweyhe.internal.md) 
 
-### [Westerweyhe.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Uelzen-city\boroughs~UelzenWesterweyhe.private.md) 
+### [Westerweyhe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Uelzen-city/boroughs~Uelzen/Westerweyhe.protect.md) 
 
-### [Westerweyhe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Uelzen-city\boroughs~UelzenWesterweyhe.personal.md) 
+### [Westerweyhe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Uelzen-city/boroughs~Uelzen/Westerweyhe.private.md) 
 
-### [Westerweyhe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Uelzen\cities~Uelzen\Uelzen-city\boroughs~UelzenWesterweyhe.secret.md)
+### [Westerweyhe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Uelzen-city/boroughs~Uelzen/Westerweyhe.personal.md) 
+
+### [Westerweyhe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Uelzen-city/boroughs~Uelzen/Westerweyhe.secret.md)
 

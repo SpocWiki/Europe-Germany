@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Herzebrock.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~Gütersloh\Herzebrock-ClarholzHerzebrock.public.md) 
+### [Herzebrock](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Herzebrock-Clarholz/Herzebrock.md) 
 
-### [Herzebrock.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~Gütersloh\Herzebrock-ClarholzHerzebrock.internal.md) 
+### [Herzebrock.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Herzebrock-Clarholz/Herzebrock.public.md) 
 
-### [Herzebrock.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~Gütersloh\Herzebrock-ClarholzHerzebrock.protect.md) 
+### [Herzebrock.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Herzebrock-Clarholz/Herzebrock.internal.md) 
 
-### [Herzebrock.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~Gütersloh\Herzebrock-ClarholzHerzebrock.private.md) 
+### [Herzebrock.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Herzebrock-Clarholz/Herzebrock.protect.md) 
 
-### [Herzebrock.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~Gütersloh\Herzebrock-ClarholzHerzebrock.personal.md) 
+### [Herzebrock.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Herzebrock-Clarholz/Herzebrock.private.md) 
 
-### [Herzebrock.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Gütersloh\cities~Gütersloh\Herzebrock-ClarholzHerzebrock.secret.md)
+### [Herzebrock.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Herzebrock-Clarholz/Herzebrock.personal.md) 
+
+### [Herzebrock.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Herzebrock-Clarholz/Herzebrock.secret.md)
 

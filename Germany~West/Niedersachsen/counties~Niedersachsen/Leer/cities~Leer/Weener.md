@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Weener.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~LeerWeener.public.md) 
+### [Weener](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Weener.md) 
 
-### [Weener.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~LeerWeener.internal.md) 
+### [Weener.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Weener.public.md) 
 
-### [Weener.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~LeerWeener.protect.md) 
+### [Weener.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Weener.internal.md) 
 
-### [Weener.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~LeerWeener.private.md) 
+### [Weener.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Weener.protect.md) 
 
-### [Weener.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~LeerWeener.personal.md) 
+### [Weener.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Weener.private.md) 
 
-### [Weener.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~LeerWeener.secret.md)
+### [Weener.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Weener.personal.md) 
+
+### [Weener.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Weener.secret.md)
 

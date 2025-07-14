@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sonnenberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Goslar\cities~Goslar\Goslar-city\boroughs~Goslar\Goslar-boroughSonnenberg.public.md) 
+### [Sonnenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Goslar-city/boroughs~Goslar/Goslar-borough/Sonnenberg.md) 
 
-### [Sonnenberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Goslar\cities~Goslar\Goslar-city\boroughs~Goslar\Goslar-boroughSonnenberg.internal.md) 
+### [Sonnenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Goslar-city/boroughs~Goslar/Goslar-borough/Sonnenberg.public.md) 
 
-### [Sonnenberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Goslar\cities~Goslar\Goslar-city\boroughs~Goslar\Goslar-boroughSonnenberg.protect.md) 
+### [Sonnenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Goslar-city/boroughs~Goslar/Goslar-borough/Sonnenberg.internal.md) 
 
-### [Sonnenberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Goslar\cities~Goslar\Goslar-city\boroughs~Goslar\Goslar-boroughSonnenberg.private.md) 
+### [Sonnenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Goslar-city/boroughs~Goslar/Goslar-borough/Sonnenberg.protect.md) 
 
-### [Sonnenberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Goslar\cities~Goslar\Goslar-city\boroughs~Goslar\Goslar-boroughSonnenberg.personal.md) 
+### [Sonnenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Goslar-city/boroughs~Goslar/Goslar-borough/Sonnenberg.private.md) 
 
-### [Sonnenberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Goslar\cities~Goslar\Goslar-city\boroughs~Goslar\Goslar-boroughSonnenberg.secret.md)
+### [Sonnenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Goslar-city/boroughs~Goslar/Goslar-borough/Sonnenberg.personal.md) 
+
+### [Sonnenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Goslar-city/boroughs~Goslar/Goslar-borough/Sonnenberg.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saaringen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Brandenburg~HavelSaaringen.public.md) 
+### [Saaringen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Brandenburg~Havel/Saaringen.md) 
 
-### [Saaringen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Brandenburg~HavelSaaringen.internal.md) 
+### [Saaringen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Brandenburg~Havel/Saaringen.public.md) 
 
-### [Saaringen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Brandenburg~HavelSaaringen.protect.md) 
+### [Saaringen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Brandenburg~Havel/Saaringen.internal.md) 
 
-### [Saaringen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Brandenburg~HavelSaaringen.private.md) 
+### [Saaringen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Brandenburg~Havel/Saaringen.protect.md) 
 
-### [Saaringen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Brandenburg~HavelSaaringen.personal.md) 
+### [Saaringen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Brandenburg~Havel/Saaringen.private.md) 
 
-### [Saaringen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Brandenburg~HavelSaaringen.secret.md)
+### [Saaringen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Brandenburg~Havel/Saaringen.personal.md) 
+
+### [Saaringen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Brandenburg~Havel/Saaringen.secret.md)
 

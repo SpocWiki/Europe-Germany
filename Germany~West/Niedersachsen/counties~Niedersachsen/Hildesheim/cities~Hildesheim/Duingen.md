@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Duingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~HildesheimDuingen.public.md) 
+### [Duingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Duingen.md) 
 
-### [Duingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~HildesheimDuingen.internal.md) 
+### [Duingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Duingen.public.md) 
 
-### [Duingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~HildesheimDuingen.protect.md) 
+### [Duingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Duingen.internal.md) 
 
-### [Duingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~HildesheimDuingen.private.md) 
+### [Duingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Duingen.protect.md) 
 
-### [Duingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~HildesheimDuingen.personal.md) 
+### [Duingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Duingen.private.md) 
 
-### [Duingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Hildesheim\cities~HildesheimDuingen.secret.md)
+### [Duingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Duingen.personal.md) 
+
+### [Duingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Duingen.secret.md)
 

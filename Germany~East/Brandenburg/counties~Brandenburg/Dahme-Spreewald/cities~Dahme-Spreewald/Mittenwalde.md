@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mittenwalde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Dahme-Spreewald\cities~Dahme-SpreewaldMittenwalde.public.md) 
+### [Mittenwalde](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Mittenwalde.md) 
 
-### [Mittenwalde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Dahme-Spreewald\cities~Dahme-SpreewaldMittenwalde.internal.md) 
+### [Mittenwalde.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Mittenwalde.public.md) 
 
-### [Mittenwalde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Dahme-Spreewald\cities~Dahme-SpreewaldMittenwalde.protect.md) 
+### [Mittenwalde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Mittenwalde.internal.md) 
 
-### [Mittenwalde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Dahme-Spreewald\cities~Dahme-SpreewaldMittenwalde.private.md) 
+### [Mittenwalde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Mittenwalde.protect.md) 
 
-### [Mittenwalde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Dahme-Spreewald\cities~Dahme-SpreewaldMittenwalde.personal.md) 
+### [Mittenwalde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Mittenwalde.private.md) 
 
-### [Mittenwalde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Dahme-Spreewald\cities~Dahme-SpreewaldMittenwalde.secret.md)
+### [Mittenwalde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Mittenwalde.personal.md) 
+
+### [Mittenwalde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Mittenwalde.secret.md)
 

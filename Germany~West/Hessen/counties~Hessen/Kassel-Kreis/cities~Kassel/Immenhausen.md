@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Immenhausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Kassel-Kreis\cities~KasselImmenhausen.public.md) 
+### [Immenhausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Immenhausen.md) 
 
-### [Immenhausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Kassel-Kreis\cities~KasselImmenhausen.internal.md) 
+### [Immenhausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Immenhausen.public.md) 
 
-### [Immenhausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Kassel-Kreis\cities~KasselImmenhausen.protect.md) 
+### [Immenhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Immenhausen.internal.md) 
 
-### [Immenhausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Kassel-Kreis\cities~KasselImmenhausen.private.md) 
+### [Immenhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Immenhausen.protect.md) 
 
-### [Immenhausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Kassel-Kreis\cities~KasselImmenhausen.personal.md) 
+### [Immenhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Immenhausen.private.md) 
 
-### [Immenhausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Kassel-Kreis\cities~KasselImmenhausen.secret.md)
+### [Immenhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Immenhausen.personal.md) 
+
+### [Immenhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Immenhausen.secret.md)
 

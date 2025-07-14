@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lehe.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~Bremen\Bremerhaven\boroughs~BremerhavenLehe.public.md) 
+### [Lehe](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Lehe.md) 
 
-### [Lehe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~Bremen\Bremerhaven\boroughs~BremerhavenLehe.internal.md) 
+### [Lehe.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Lehe.public.md) 
 
-### [Lehe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~Bremen\Bremerhaven\boroughs~BremerhavenLehe.protect.md) 
+### [Lehe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Lehe.internal.md) 
 
-### [Lehe.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~Bremen\Bremerhaven\boroughs~BremerhavenLehe.private.md) 
+### [Lehe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Lehe.protect.md) 
 
-### [Lehe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~Bremen\Bremerhaven\boroughs~BremerhavenLehe.personal.md) 
+### [Lehe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Lehe.private.md) 
 
-### [Lehe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~Bremen\Bremerhaven\boroughs~BremerhavenLehe.secret.md)
+### [Lehe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Lehe.personal.md) 
+
+### [Lehe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Lehe.secret.md)
 

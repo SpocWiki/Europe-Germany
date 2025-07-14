@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brake~Unterweser.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterholz\cities~Osterholz\Schwanewede\boroughs~SchwanewedeBrake~Unterweser.public.md) 
+### [Brake~Unterweser](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Schwanewede/boroughs~Schwanewede/Brake~Unterweser.md) 
 
-### [Brake~Unterweser.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterholz\cities~Osterholz\Schwanewede\boroughs~SchwanewedeBrake~Unterweser.internal.md) 
+### [Brake~Unterweser.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Schwanewede/boroughs~Schwanewede/Brake~Unterweser.public.md) 
 
-### [Brake~Unterweser.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterholz\cities~Osterholz\Schwanewede\boroughs~SchwanewedeBrake~Unterweser.protect.md) 
+### [Brake~Unterweser.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Schwanewede/boroughs~Schwanewede/Brake~Unterweser.internal.md) 
 
-### [Brake~Unterweser.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterholz\cities~Osterholz\Schwanewede\boroughs~SchwanewedeBrake~Unterweser.private.md) 
+### [Brake~Unterweser.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Schwanewede/boroughs~Schwanewede/Brake~Unterweser.protect.md) 
 
-### [Brake~Unterweser.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterholz\cities~Osterholz\Schwanewede\boroughs~SchwanewedeBrake~Unterweser.personal.md) 
+### [Brake~Unterweser.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Schwanewede/boroughs~Schwanewede/Brake~Unterweser.private.md) 
 
-### [Brake~Unterweser.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osterholz\cities~Osterholz\Schwanewede\boroughs~SchwanewedeBrake~Unterweser.secret.md)
+### [Brake~Unterweser.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Schwanewede/boroughs~Schwanewede/Brake~Unterweser.personal.md) 
+
+### [Brake~Unterweser.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Schwanewede/boroughs~Schwanewede/Brake~Unterweser.secret.md)
 

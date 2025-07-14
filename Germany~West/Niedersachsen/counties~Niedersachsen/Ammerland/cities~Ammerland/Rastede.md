@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rastede.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~AmmerlandRastede.public.md) 
+### [Rastede](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Rastede.md) 
 
-### [Rastede.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~AmmerlandRastede.internal.md) 
+### [Rastede.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Rastede.public.md) 
 
-### [Rastede.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~AmmerlandRastede.protect.md) 
+### [Rastede.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Rastede.internal.md) 
 
-### [Rastede.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~AmmerlandRastede.private.md) 
+### [Rastede.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Rastede.protect.md) 
 
-### [Rastede.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~AmmerlandRastede.personal.md) 
+### [Rastede.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Rastede.private.md) 
 
-### [Rastede.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Ammerland\cities~AmmerlandRastede.secret.md)
+### [Rastede.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Rastede.personal.md) 
+
+### [Rastede.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Ammerland/cities~Ammerland/Rastede.secret.md)
 

@@ -30,15 +30,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [S-Niederrad_Bahnhof.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Niederrad_Bahnhof.public.md) 
+### [S-Niederrad_Bahnhof](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Niederrad_Bahnhof.md) 
 
-### [S-Niederrad_Bahnhof.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Niederrad_Bahnhof.internal.md) 
+### [S-Niederrad_Bahnhof.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Niederrad_Bahnhof.public.md) 
 
-### [S-Niederrad_Bahnhof.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Niederrad_Bahnhof.protect.md) 
+### [S-Niederrad_Bahnhof.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Niederrad_Bahnhof.internal.md) 
 
-### [S-Niederrad_Bahnhof.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Niederrad_Bahnhof.private.md) 
+### [S-Niederrad_Bahnhof.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Niederrad_Bahnhof.protect.md) 
 
-### [S-Niederrad_Bahnhof.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Niederrad_Bahnhof.personal.md) 
+### [S-Niederrad_Bahnhof.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Niederrad_Bahnhof.private.md) 
 
-### [S-Niederrad_Bahnhof.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Niederrad_Bahnhof.secret.md)
+### [S-Niederrad_Bahnhof.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Niederrad_Bahnhof.personal.md) 
+
+### [S-Niederrad_Bahnhof.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Niederrad_Bahnhof.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Langensalza.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Bad_Langensalza\CityLangensalza.public.md) 
+### [Langensalza](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Bad_Langensalza/City/Langensalza.md) 
 
-### [Langensalza.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Bad_Langensalza\CityLangensalza.internal.md) 
+### [Langensalza.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Bad_Langensalza/City/Langensalza.public.md) 
 
-### [Langensalza.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Bad_Langensalza\CityLangensalza.protect.md) 
+### [Langensalza.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Bad_Langensalza/City/Langensalza.internal.md) 
 
-### [Langensalza.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Bad_Langensalza\CityLangensalza.private.md) 
+### [Langensalza.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Bad_Langensalza/City/Langensalza.protect.md) 
 
-### [Langensalza.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Bad_Langensalza\CityLangensalza.personal.md) 
+### [Langensalza.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Bad_Langensalza/City/Langensalza.private.md) 
 
-### [Langensalza.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Bad_Langensalza\CityLangensalza.secret.md)
+### [Langensalza.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Bad_Langensalza/City/Langensalza.personal.md) 
+
+### [Langensalza.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Bad_Langensalza/City/Langensalza.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nennhausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~HavellandNennhausen.public.md) 
+### [Nennhausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Nennhausen.md) 
 
-### [Nennhausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~HavellandNennhausen.internal.md) 
+### [Nennhausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Nennhausen.public.md) 
 
-### [Nennhausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~HavellandNennhausen.protect.md) 
+### [Nennhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Nennhausen.internal.md) 
 
-### [Nennhausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~HavellandNennhausen.private.md) 
+### [Nennhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Nennhausen.protect.md) 
 
-### [Nennhausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~HavellandNennhausen.personal.md) 
+### [Nennhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Nennhausen.private.md) 
 
-### [Nennhausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Havelland\cities~HavellandNennhausen.secret.md)
+### [Nennhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Nennhausen.personal.md) 
+
+### [Nennhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Nennhausen.secret.md)
 

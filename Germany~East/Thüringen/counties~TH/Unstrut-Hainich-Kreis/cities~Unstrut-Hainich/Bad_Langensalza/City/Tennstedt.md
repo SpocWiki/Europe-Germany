@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tennstedt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Bad_Langensalza\CityTennstedt.public.md) 
+### [Tennstedt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Bad_Langensalza/City/Tennstedt.md) 
 
-### [Tennstedt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Bad_Langensalza\CityTennstedt.internal.md) 
+### [Tennstedt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Bad_Langensalza/City/Tennstedt.public.md) 
 
-### [Tennstedt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Bad_Langensalza\CityTennstedt.protect.md) 
+### [Tennstedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Bad_Langensalza/City/Tennstedt.internal.md) 
 
-### [Tennstedt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Bad_Langensalza\CityTennstedt.private.md) 
+### [Tennstedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Bad_Langensalza/City/Tennstedt.protect.md) 
 
-### [Tennstedt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Bad_Langensalza\CityTennstedt.personal.md) 
+### [Tennstedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Bad_Langensalza/City/Tennstedt.private.md) 
 
-### [Tennstedt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Bad_Langensalza\CityTennstedt.secret.md)
+### [Tennstedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Bad_Langensalza/City/Tennstedt.personal.md) 
+
+### [Tennstedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Bad_Langensalza/City/Tennstedt.secret.md)
 

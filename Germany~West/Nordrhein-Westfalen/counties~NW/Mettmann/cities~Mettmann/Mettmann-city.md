@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mettmann-city.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannMettmann-city.public.md) 
+### [Mettmann-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Mettmann-city.md) 
 
-### [Mettmann-city.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannMettmann-city.internal.md) 
+### [Mettmann-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Mettmann-city.public.md) 
 
-### [Mettmann-city.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannMettmann-city.protect.md) 
+### [Mettmann-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Mettmann-city.internal.md) 
 
-### [Mettmann-city.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannMettmann-city.private.md) 
+### [Mettmann-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Mettmann-city.protect.md) 
 
-### [Mettmann-city.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannMettmann-city.personal.md) 
+### [Mettmann-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Mettmann-city.private.md) 
 
-### [Mettmann-city.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannMettmann-city.secret.md)
+### [Mettmann-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Mettmann-city.personal.md) 
+
+### [Mettmann-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Mettmann-city.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hasselfelde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Oberharz~Brocken\CityHasselfelde.public.md) 
+### [Hasselfelde](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Hasselfelde.md) 
 
-### [Hasselfelde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Oberharz~Brocken\CityHasselfelde.internal.md) 
+### [Hasselfelde.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Hasselfelde.public.md) 
 
-### [Hasselfelde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Oberharz~Brocken\CityHasselfelde.protect.md) 
+### [Hasselfelde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Hasselfelde.internal.md) 
 
-### [Hasselfelde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Oberharz~Brocken\CityHasselfelde.private.md) 
+### [Hasselfelde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Hasselfelde.protect.md) 
 
-### [Hasselfelde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Oberharz~Brocken\CityHasselfelde.personal.md) 
+### [Hasselfelde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Hasselfelde.private.md) 
 
-### [Hasselfelde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Oberharz~Brocken\CityHasselfelde.secret.md)
+### [Hasselfelde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Hasselfelde.personal.md) 
+
+### [Hasselfelde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Hasselfelde.secret.md)
 

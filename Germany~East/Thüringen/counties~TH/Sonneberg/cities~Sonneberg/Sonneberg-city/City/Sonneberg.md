@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sonneberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Sonneberg-city\CitySonneberg.public.md) 
+### [Sonneberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Sonneberg-city/City/Sonneberg.md) 
 
-### [Sonneberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Sonneberg-city\CitySonneberg.internal.md) 
+### [Sonneberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Sonneberg-city/City/Sonneberg.public.md) 
 
-### [Sonneberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Sonneberg-city\CitySonneberg.protect.md) 
+### [Sonneberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Sonneberg-city/City/Sonneberg.internal.md) 
 
-### [Sonneberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Sonneberg-city\CitySonneberg.private.md) 
+### [Sonneberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Sonneberg-city/City/Sonneberg.protect.md) 
 
-### [Sonneberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Sonneberg-city\CitySonneberg.personal.md) 
+### [Sonneberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Sonneberg-city/City/Sonneberg.private.md) 
 
-### [Sonneberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Sonneberg\cities~Sonneberg\Sonneberg-city\CitySonneberg.secret.md)
+### [Sonneberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Sonneberg-city/City/Sonneberg.personal.md) 
+
+### [Sonneberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sonneberg/cities~Sonneberg/Sonneberg-city/City/Sonneberg.secret.md)
 

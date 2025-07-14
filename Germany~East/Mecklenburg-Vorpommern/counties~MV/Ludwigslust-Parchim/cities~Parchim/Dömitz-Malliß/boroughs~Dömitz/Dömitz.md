@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dömitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Dömitz-Malliß\boroughs~DömitzDömitz.public.md) 
+### [Dömitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Dömitz-Malliß/boroughs~Dömitz/Dömitz.md) 
 
-### [Dömitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Dömitz-Malliß\boroughs~DömitzDömitz.internal.md) 
+### [Dömitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Dömitz-Malliß/boroughs~Dömitz/Dömitz.public.md) 
 
-### [Dömitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Dömitz-Malliß\boroughs~DömitzDömitz.protect.md) 
+### [Dömitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Dömitz-Malliß/boroughs~Dömitz/Dömitz.internal.md) 
 
-### [Dömitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Dömitz-Malliß\boroughs~DömitzDömitz.private.md) 
+### [Dömitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Dömitz-Malliß/boroughs~Dömitz/Dömitz.protect.md) 
 
-### [Dömitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Dömitz-Malliß\boroughs~DömitzDömitz.personal.md) 
+### [Dömitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Dömitz-Malliß/boroughs~Dömitz/Dömitz.private.md) 
 
-### [Dömitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Ludwigslust-Parchim\cities~Parchim\Dömitz-Malliß\boroughs~DömitzDömitz.secret.md)
+### [Dömitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Dömitz-Malliß/boroughs~Dömitz/Dömitz.personal.md) 
+
+### [Dömitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Dömitz-Malliß/boroughs~Dömitz/Dömitz.secret.md)
 

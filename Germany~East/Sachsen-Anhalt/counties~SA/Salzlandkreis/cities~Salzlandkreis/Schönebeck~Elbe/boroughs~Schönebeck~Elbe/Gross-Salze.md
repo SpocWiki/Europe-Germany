@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gross-Salze.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Schönebeck~Elbe\boroughs~Schönebeck~ElbeGross-Salze.public.md) 
+### [Gross-Salze](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Schönebeck~Elbe/boroughs~Schönebeck~Elbe/Gross-Salze.md) 
 
-### [Gross-Salze.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Schönebeck~Elbe\boroughs~Schönebeck~ElbeGross-Salze.internal.md) 
+### [Gross-Salze.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Schönebeck~Elbe/boroughs~Schönebeck~Elbe/Gross-Salze.public.md) 
 
-### [Gross-Salze.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Schönebeck~Elbe\boroughs~Schönebeck~ElbeGross-Salze.protect.md) 
+### [Gross-Salze.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Schönebeck~Elbe/boroughs~Schönebeck~Elbe/Gross-Salze.internal.md) 
 
-### [Gross-Salze.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Schönebeck~Elbe\boroughs~Schönebeck~ElbeGross-Salze.private.md) 
+### [Gross-Salze.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Schönebeck~Elbe/boroughs~Schönebeck~Elbe/Gross-Salze.protect.md) 
 
-### [Gross-Salze.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Schönebeck~Elbe\boroughs~Schönebeck~ElbeGross-Salze.personal.md) 
+### [Gross-Salze.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Schönebeck~Elbe/boroughs~Schönebeck~Elbe/Gross-Salze.private.md) 
 
-### [Gross-Salze.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Salzlandkreis\cities~Salzlandkreis\Schönebeck~Elbe\boroughs~Schönebeck~ElbeGross-Salze.secret.md)
+### [Gross-Salze.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Schönebeck~Elbe/boroughs~Schönebeck~Elbe/Gross-Salze.personal.md) 
+
+### [Gross-Salze.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Salzlandkreis/cities~Salzlandkreis/Schönebeck~Elbe/boroughs~Schönebeck~Elbe/Gross-Salze.secret.md)
 

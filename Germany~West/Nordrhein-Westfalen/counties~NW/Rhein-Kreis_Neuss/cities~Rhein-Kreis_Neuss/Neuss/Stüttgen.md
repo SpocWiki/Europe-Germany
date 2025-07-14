@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stüttgen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Kreis_Neuss\cities~Rhein-Kreis_Neuss\NeussStüttgen.public.md) 
+### [Stüttgen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Neuss/Stüttgen.md) 
 
-### [Stüttgen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Kreis_Neuss\cities~Rhein-Kreis_Neuss\NeussStüttgen.internal.md) 
+### [Stüttgen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Neuss/Stüttgen.public.md) 
 
-### [Stüttgen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Kreis_Neuss\cities~Rhein-Kreis_Neuss\NeussStüttgen.protect.md) 
+### [Stüttgen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Neuss/Stüttgen.internal.md) 
 
-### [Stüttgen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Kreis_Neuss\cities~Rhein-Kreis_Neuss\NeussStüttgen.private.md) 
+### [Stüttgen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Neuss/Stüttgen.protect.md) 
 
-### [Stüttgen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Kreis_Neuss\cities~Rhein-Kreis_Neuss\NeussStüttgen.personal.md) 
+### [Stüttgen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Neuss/Stüttgen.private.md) 
 
-### [Stüttgen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Rhein-Kreis_Neuss\cities~Rhein-Kreis_Neuss\NeussStüttgen.secret.md)
+### [Stüttgen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Neuss/Stüttgen.personal.md) 
+
+### [Stüttgen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Neuss/Stüttgen.secret.md)
 

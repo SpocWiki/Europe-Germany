@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jueterbog.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-Mittelmark\Teltow-FlämingJueterbog.public.md) 
+### [Jueterbog](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Teltow-Fläming/Jueterbog.md) 
 
-### [Jueterbog.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-Mittelmark\Teltow-FlämingJueterbog.internal.md) 
+### [Jueterbog.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Teltow-Fläming/Jueterbog.public.md) 
 
-### [Jueterbog.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-Mittelmark\Teltow-FlämingJueterbog.protect.md) 
+### [Jueterbog.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Teltow-Fläming/Jueterbog.internal.md) 
 
-### [Jueterbog.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-Mittelmark\Teltow-FlämingJueterbog.private.md) 
+### [Jueterbog.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Teltow-Fläming/Jueterbog.protect.md) 
 
-### [Jueterbog.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-Mittelmark\Teltow-FlämingJueterbog.personal.md) 
+### [Jueterbog.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Teltow-Fläming/Jueterbog.private.md) 
 
-### [Jueterbog.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-Mittelmark\Teltow-FlämingJueterbog.secret.md)
+### [Jueterbog.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Teltow-Fläming/Jueterbog.personal.md) 
+
+### [Jueterbog.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Teltow-Fläming/Jueterbog.secret.md)
 

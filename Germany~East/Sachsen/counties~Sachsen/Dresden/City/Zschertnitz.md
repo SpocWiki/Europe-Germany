@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zschertnitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityZschertnitz.public.md) 
+### [Zschertnitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Zschertnitz.md) 
 
-### [Zschertnitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityZschertnitz.internal.md) 
+### [Zschertnitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Zschertnitz.public.md) 
 
-### [Zschertnitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityZschertnitz.protect.md) 
+### [Zschertnitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Zschertnitz.internal.md) 
 
-### [Zschertnitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityZschertnitz.private.md) 
+### [Zschertnitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Zschertnitz.protect.md) 
 
-### [Zschertnitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityZschertnitz.personal.md) 
+### [Zschertnitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Zschertnitz.private.md) 
 
-### [Zschertnitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Dresden\CityZschertnitz.secret.md)
+### [Zschertnitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Zschertnitz.personal.md) 
+
+### [Zschertnitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden/City/Zschertnitz.secret.md)
 

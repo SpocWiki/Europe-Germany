@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Friedrichshain,Felixsee.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Spree-Neiße\cities~Spree-Neiße\Döbern-Land\boroughs~Döbern-Land\FelixseeFriedrichshain,Felixsee.public.md) 
+### [Friedrichshain,Felixsee](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Döbern-Land/boroughs~Döbern-Land/Felixsee/Friedrichshain,Felixsee.md) 
 
-### [Friedrichshain,Felixsee.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Spree-Neiße\cities~Spree-Neiße\Döbern-Land\boroughs~Döbern-Land\FelixseeFriedrichshain,Felixsee.internal.md) 
+### [Friedrichshain,Felixsee.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Döbern-Land/boroughs~Döbern-Land/Felixsee/Friedrichshain,Felixsee.public.md) 
 
-### [Friedrichshain,Felixsee.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Spree-Neiße\cities~Spree-Neiße\Döbern-Land\boroughs~Döbern-Land\FelixseeFriedrichshain,Felixsee.protect.md) 
+### [Friedrichshain,Felixsee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Döbern-Land/boroughs~Döbern-Land/Felixsee/Friedrichshain,Felixsee.internal.md) 
 
-### [Friedrichshain,Felixsee.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Spree-Neiße\cities~Spree-Neiße\Döbern-Land\boroughs~Döbern-Land\FelixseeFriedrichshain,Felixsee.private.md) 
+### [Friedrichshain,Felixsee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Döbern-Land/boroughs~Döbern-Land/Felixsee/Friedrichshain,Felixsee.protect.md) 
 
-### [Friedrichshain,Felixsee.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Spree-Neiße\cities~Spree-Neiße\Döbern-Land\boroughs~Döbern-Land\FelixseeFriedrichshain,Felixsee.personal.md) 
+### [Friedrichshain,Felixsee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Döbern-Land/boroughs~Döbern-Land/Felixsee/Friedrichshain,Felixsee.private.md) 
 
-### [Friedrichshain,Felixsee.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Spree-Neiße\cities~Spree-Neiße\Döbern-Land\boroughs~Döbern-Land\FelixseeFriedrichshain,Felixsee.secret.md)
+### [Friedrichshain,Felixsee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Döbern-Land/boroughs~Döbern-Land/Felixsee/Friedrichshain,Felixsee.personal.md) 
+
+### [Friedrichshain,Felixsee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Döbern-Land/boroughs~Döbern-Land/Felixsee/Friedrichshain,Felixsee.secret.md)
 

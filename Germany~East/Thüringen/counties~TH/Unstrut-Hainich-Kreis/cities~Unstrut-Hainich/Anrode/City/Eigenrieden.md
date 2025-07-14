@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eigenrieden.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Anrode\CityEigenrieden.public.md) 
+### [Eigenrieden](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Anrode/City/Eigenrieden.md) 
 
-### [Eigenrieden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Anrode\CityEigenrieden.internal.md) 
+### [Eigenrieden.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Anrode/City/Eigenrieden.public.md) 
 
-### [Eigenrieden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Anrode\CityEigenrieden.protect.md) 
+### [Eigenrieden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Anrode/City/Eigenrieden.internal.md) 
 
-### [Eigenrieden.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Anrode\CityEigenrieden.private.md) 
+### [Eigenrieden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Anrode/City/Eigenrieden.protect.md) 
 
-### [Eigenrieden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Anrode\CityEigenrieden.personal.md) 
+### [Eigenrieden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Anrode/City/Eigenrieden.private.md) 
 
-### [Eigenrieden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Unstrut-Hainich-Kreis\cities~Unstrut-Hainich\Anrode\CityEigenrieden.secret.md)
+### [Eigenrieden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Anrode/City/Eigenrieden.personal.md) 
+
+### [Eigenrieden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Unstrut-Hainich-Kreis/cities~Unstrut-Hainich/Anrode/City/Eigenrieden.secret.md)
 

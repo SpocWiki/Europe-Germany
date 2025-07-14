@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Greene.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Einbeck\boroughs~EinbeckGreene.public.md) 
+### [Greene](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck/boroughs~Einbeck/Greene.md) 
 
-### [Greene.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Einbeck\boroughs~EinbeckGreene.internal.md) 
+### [Greene.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck/boroughs~Einbeck/Greene.public.md) 
 
-### [Greene.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Einbeck\boroughs~EinbeckGreene.protect.md) 
+### [Greene.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck/boroughs~Einbeck/Greene.internal.md) 
 
-### [Greene.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Einbeck\boroughs~EinbeckGreene.private.md) 
+### [Greene.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck/boroughs~Einbeck/Greene.protect.md) 
 
-### [Greene.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Einbeck\boroughs~EinbeckGreene.personal.md) 
+### [Greene.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck/boroughs~Einbeck/Greene.private.md) 
 
-### [Greene.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Northeim\cities~Northeim\Einbeck\boroughs~EinbeckGreene.secret.md)
+### [Greene.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck/boroughs~Einbeck/Greene.personal.md) 
+
+### [Greene.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Einbeck/boroughs~Einbeck/Greene.secret.md)
 

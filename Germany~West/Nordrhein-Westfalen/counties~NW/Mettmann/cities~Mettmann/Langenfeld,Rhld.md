@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Langenfeld,Rhld.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannLangenfeld,Rhld.public.md) 
+### [Langenfeld,Rhld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Langenfeld,Rhld.md) 
 
-### [Langenfeld,Rhld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannLangenfeld,Rhld.internal.md) 
+### [Langenfeld,Rhld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Langenfeld,Rhld.public.md) 
 
-### [Langenfeld,Rhld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannLangenfeld,Rhld.protect.md) 
+### [Langenfeld,Rhld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Langenfeld,Rhld.internal.md) 
 
-### [Langenfeld,Rhld.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannLangenfeld,Rhld.private.md) 
+### [Langenfeld,Rhld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Langenfeld,Rhld.protect.md) 
 
-### [Langenfeld,Rhld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannLangenfeld,Rhld.personal.md) 
+### [Langenfeld,Rhld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Langenfeld,Rhld.private.md) 
 
-### [Langenfeld,Rhld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Mettmann\cities~MettmannLangenfeld,Rhld.secret.md)
+### [Langenfeld,Rhld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Langenfeld,Rhld.personal.md) 
+
+### [Langenfeld,Rhld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Mettmann/cities~Mettmann/Langenfeld,Rhld.secret.md)
 

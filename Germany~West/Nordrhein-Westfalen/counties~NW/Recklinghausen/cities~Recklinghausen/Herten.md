@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Herten.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenHerten.public.md) 
+### [Herten](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Herten.md) 
 
-### [Herten.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenHerten.internal.md) 
+### [Herten.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Herten.public.md) 
 
-### [Herten.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenHerten.protect.md) 
+### [Herten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Herten.internal.md) 
 
-### [Herten.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenHerten.private.md) 
+### [Herten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Herten.protect.md) 
 
-### [Herten.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenHerten.personal.md) 
+### [Herten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Herten.private.md) 
 
-### [Herten.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Recklinghausen\cities~RecklinghausenHerten.secret.md)
+### [Herten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Herten.personal.md) 
+
+### [Herten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Recklinghausen/cities~Recklinghausen/Herten.secret.md)
 

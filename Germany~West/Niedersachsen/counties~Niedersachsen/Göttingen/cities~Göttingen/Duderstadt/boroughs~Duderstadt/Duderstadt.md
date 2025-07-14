@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Duderstadt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Göttingen\cities~Göttingen\Duderstadt\boroughs~DuderstadtDuderstadt.public.md) 
+### [Duderstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Duderstadt/boroughs~Duderstadt/Duderstadt.md) 
 
-### [Duderstadt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Göttingen\cities~Göttingen\Duderstadt\boroughs~DuderstadtDuderstadt.internal.md) 
+### [Duderstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Duderstadt/boroughs~Duderstadt/Duderstadt.public.md) 
 
-### [Duderstadt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Göttingen\cities~Göttingen\Duderstadt\boroughs~DuderstadtDuderstadt.protect.md) 
+### [Duderstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Duderstadt/boroughs~Duderstadt/Duderstadt.internal.md) 
 
-### [Duderstadt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Göttingen\cities~Göttingen\Duderstadt\boroughs~DuderstadtDuderstadt.private.md) 
+### [Duderstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Duderstadt/boroughs~Duderstadt/Duderstadt.protect.md) 
 
-### [Duderstadt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Göttingen\cities~Göttingen\Duderstadt\boroughs~DuderstadtDuderstadt.personal.md) 
+### [Duderstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Duderstadt/boroughs~Duderstadt/Duderstadt.private.md) 
 
-### [Duderstadt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Göttingen\cities~Göttingen\Duderstadt\boroughs~DuderstadtDuderstadt.secret.md)
+### [Duderstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Duderstadt/boroughs~Duderstadt/Duderstadt.personal.md) 
+
+### [Duderstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Duderstadt/boroughs~Duderstadt/Duderstadt.secret.md)
 

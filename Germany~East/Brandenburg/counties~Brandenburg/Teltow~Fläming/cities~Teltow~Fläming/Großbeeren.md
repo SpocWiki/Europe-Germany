@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Großbeeren.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~FlämingGroßbeeren.public.md) 
+### [Großbeeren](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Großbeeren.md) 
 
-### [Großbeeren.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~FlämingGroßbeeren.internal.md) 
+### [Großbeeren.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Großbeeren.public.md) 
 
-### [Großbeeren.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~FlämingGroßbeeren.protect.md) 
+### [Großbeeren.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Großbeeren.internal.md) 
 
-### [Großbeeren.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~FlämingGroßbeeren.private.md) 
+### [Großbeeren.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Großbeeren.protect.md) 
 
-### [Großbeeren.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~FlämingGroßbeeren.personal.md) 
+### [Großbeeren.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Großbeeren.private.md) 
 
-### [Großbeeren.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Teltow~Fläming\cities~Teltow~FlämingGroßbeeren.secret.md)
+### [Großbeeren.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Großbeeren.personal.md) 
+
+### [Großbeeren.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Teltow~Fläming/cities~Teltow~Fläming/Großbeeren.secret.md)
 

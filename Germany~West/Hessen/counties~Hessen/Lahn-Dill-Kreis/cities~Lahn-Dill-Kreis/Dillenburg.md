@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dillenburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-KreisDillenburg.public.md) 
+### [Dillenburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Dillenburg.md) 
 
-### [Dillenburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-KreisDillenburg.internal.md) 
+### [Dillenburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Dillenburg.public.md) 
 
-### [Dillenburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-KreisDillenburg.protect.md) 
+### [Dillenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Dillenburg.internal.md) 
 
-### [Dillenburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-KreisDillenburg.private.md) 
+### [Dillenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Dillenburg.protect.md) 
 
-### [Dillenburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-KreisDillenburg.personal.md) 
+### [Dillenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Dillenburg.private.md) 
 
-### [Dillenburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Lahn-Dill-Kreis\cities~Lahn-Dill-KreisDillenburg.secret.md)
+### [Dillenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Dillenburg.personal.md) 
+
+### [Dillenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Lahn-Dill-Kreis/cities~Lahn-Dill-Kreis/Dillenburg.secret.md)
 

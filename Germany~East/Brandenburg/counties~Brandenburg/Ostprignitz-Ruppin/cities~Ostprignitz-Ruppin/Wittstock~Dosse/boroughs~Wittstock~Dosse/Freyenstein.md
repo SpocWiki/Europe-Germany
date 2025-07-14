@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Freyenstein.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\Wittstock~Dosse\boroughs~Wittstock~DosseFreyenstein.public.md) 
+### [Freyenstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Freyenstein.md) 
 
-### [Freyenstein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\Wittstock~Dosse\boroughs~Wittstock~DosseFreyenstein.internal.md) 
+### [Freyenstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Freyenstein.public.md) 
 
-### [Freyenstein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\Wittstock~Dosse\boroughs~Wittstock~DosseFreyenstein.protect.md) 
+### [Freyenstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Freyenstein.internal.md) 
 
-### [Freyenstein.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\Wittstock~Dosse\boroughs~Wittstock~DosseFreyenstein.private.md) 
+### [Freyenstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Freyenstein.protect.md) 
 
-### [Freyenstein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\Wittstock~Dosse\boroughs~Wittstock~DosseFreyenstein.personal.md) 
+### [Freyenstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Freyenstein.private.md) 
 
-### [Freyenstein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Ostprignitz-Ruppin\cities~Ostprignitz-Ruppin\Wittstock~Dosse\boroughs~Wittstock~DosseFreyenstein.secret.md)
+### [Freyenstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Freyenstein.personal.md) 
+
+### [Freyenstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Freyenstein.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Biendorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Neubukow\boroughs~NeubukowBiendorf.public.md) 
+### [Biendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Biendorf.md) 
 
-### [Biendorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Neubukow\boroughs~NeubukowBiendorf.internal.md) 
+### [Biendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Biendorf.public.md) 
 
-### [Biendorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Neubukow\boroughs~NeubukowBiendorf.protect.md) 
+### [Biendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Biendorf.internal.md) 
 
-### [Biendorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Neubukow\boroughs~NeubukowBiendorf.private.md) 
+### [Biendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Biendorf.protect.md) 
 
-### [Biendorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Neubukow\boroughs~NeubukowBiendorf.personal.md) 
+### [Biendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Biendorf.private.md) 
 
-### [Biendorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Mecklenburg-Vorpommern\counties~MV\Rostock\cities~Rostock\Neubukow\boroughs~NeubukowBiendorf.secret.md)
+### [Biendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Biendorf.personal.md) 
+
+### [Biendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Biendorf.secret.md)
 

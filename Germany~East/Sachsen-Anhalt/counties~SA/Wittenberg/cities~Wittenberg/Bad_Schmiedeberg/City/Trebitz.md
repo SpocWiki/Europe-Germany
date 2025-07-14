@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Trebitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Bad_Schmiedeberg\CityTrebitz.public.md) 
+### [Trebitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Bad_Schmiedeberg/City/Trebitz.md) 
 
-### [Trebitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Bad_Schmiedeberg\CityTrebitz.internal.md) 
+### [Trebitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Bad_Schmiedeberg/City/Trebitz.public.md) 
 
-### [Trebitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Bad_Schmiedeberg\CityTrebitz.protect.md) 
+### [Trebitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Bad_Schmiedeberg/City/Trebitz.internal.md) 
 
-### [Trebitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Bad_Schmiedeberg\CityTrebitz.private.md) 
+### [Trebitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Bad_Schmiedeberg/City/Trebitz.protect.md) 
 
-### [Trebitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Bad_Schmiedeberg\CityTrebitz.personal.md) 
+### [Trebitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Bad_Schmiedeberg/City/Trebitz.private.md) 
 
-### [Trebitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Wittenberg\cities~Wittenberg\Bad_Schmiedeberg\CityTrebitz.secret.md)
+### [Trebitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Bad_Schmiedeberg/City/Trebitz.personal.md) 
+
+### [Trebitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Bad_Schmiedeberg/City/Trebitz.secret.md)
 

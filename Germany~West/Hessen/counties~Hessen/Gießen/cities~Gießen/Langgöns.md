@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Langgöns.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Gießen\cities~GießenLanggöns.public.md) 
+### [Langgöns](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Langgöns.md) 
 
-### [Langgöns.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Gießen\cities~GießenLanggöns.internal.md) 
+### [Langgöns.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Langgöns.public.md) 
 
-### [Langgöns.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Gießen\cities~GießenLanggöns.protect.md) 
+### [Langgöns.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Langgöns.internal.md) 
 
-### [Langgöns.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Gießen\cities~GießenLanggöns.private.md) 
+### [Langgöns.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Langgöns.protect.md) 
 
-### [Langgöns.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Gießen\cities~GießenLanggöns.personal.md) 
+### [Langgöns.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Langgöns.private.md) 
 
-### [Langgöns.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Gießen\cities~GießenLanggöns.secret.md)
+### [Langgöns.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Langgöns.personal.md) 
+
+### [Langgöns.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Langgöns.secret.md)
 

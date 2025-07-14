@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Altenbeken.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~Paderborn\Paderborn-cityAltenbeken.public.md) 
+### [Altenbeken](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city/Altenbeken.md) 
 
-### [Altenbeken.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~Paderborn\Paderborn-cityAltenbeken.internal.md) 
+### [Altenbeken.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city/Altenbeken.public.md) 
 
-### [Altenbeken.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~Paderborn\Paderborn-cityAltenbeken.protect.md) 
+### [Altenbeken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city/Altenbeken.internal.md) 
 
-### [Altenbeken.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~Paderborn\Paderborn-cityAltenbeken.private.md) 
+### [Altenbeken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city/Altenbeken.protect.md) 
 
-### [Altenbeken.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~Paderborn\Paderborn-cityAltenbeken.personal.md) 
+### [Altenbeken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city/Altenbeken.private.md) 
 
-### [Altenbeken.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Paderborn\cities~Paderborn\Paderborn-cityAltenbeken.secret.md)
+### [Altenbeken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city/Altenbeken.personal.md) 
+
+### [Altenbeken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city/Altenbeken.secret.md)
 

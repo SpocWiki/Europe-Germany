@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Crimmitschau.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Wünschendorf_Elster\CityCrimmitschau.public.md) 
+### [Crimmitschau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Wünschendorf_Elster/City/Crimmitschau.md) 
 
-### [Crimmitschau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Wünschendorf_Elster\CityCrimmitschau.internal.md) 
+### [Crimmitschau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Wünschendorf_Elster/City/Crimmitschau.public.md) 
 
-### [Crimmitschau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Wünschendorf_Elster\CityCrimmitschau.protect.md) 
+### [Crimmitschau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Wünschendorf_Elster/City/Crimmitschau.internal.md) 
 
-### [Crimmitschau.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Wünschendorf_Elster\CityCrimmitschau.private.md) 
+### [Crimmitschau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Wünschendorf_Elster/City/Crimmitschau.protect.md) 
 
-### [Crimmitschau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Wünschendorf_Elster\CityCrimmitschau.personal.md) 
+### [Crimmitschau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Wünschendorf_Elster/City/Crimmitschau.private.md) 
 
-### [Crimmitschau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Thüringen\counties~TH\Greiz\cities~Greiz\Wünschendorf_Elster\CityCrimmitschau.secret.md)
+### [Crimmitschau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Wünschendorf_Elster/City/Crimmitschau.personal.md) 
+
+### [Crimmitschau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Wünschendorf_Elster/City/Crimmitschau.secret.md)
 

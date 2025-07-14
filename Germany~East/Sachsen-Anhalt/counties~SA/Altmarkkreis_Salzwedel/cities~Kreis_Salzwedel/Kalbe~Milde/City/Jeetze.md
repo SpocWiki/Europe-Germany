@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jeetze.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Kalbe~Milde\CityJeetze.public.md) 
+### [Jeetze](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Kalbe~Milde/City/Jeetze.md) 
 
-### [Jeetze.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Kalbe~Milde\CityJeetze.internal.md) 
+### [Jeetze.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Kalbe~Milde/City/Jeetze.public.md) 
 
-### [Jeetze.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Kalbe~Milde\CityJeetze.protect.md) 
+### [Jeetze.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Kalbe~Milde/City/Jeetze.internal.md) 
 
-### [Jeetze.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Kalbe~Milde\CityJeetze.private.md) 
+### [Jeetze.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Kalbe~Milde/City/Jeetze.protect.md) 
 
-### [Jeetze.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Kalbe~Milde\CityJeetze.personal.md) 
+### [Jeetze.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Kalbe~Milde/City/Jeetze.private.md) 
 
-### [Jeetze.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Altmarkkreis_Salzwedel\cities~Kreis_Salzwedel\Kalbe~Milde\CityJeetze.secret.md)
+### [Jeetze.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Kalbe~Milde/City/Jeetze.personal.md) 
+
+### [Jeetze.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Altmarkkreis_Salzwedel/cities~Kreis_Salzwedel/Kalbe~Milde/City/Jeetze.secret.md)
 

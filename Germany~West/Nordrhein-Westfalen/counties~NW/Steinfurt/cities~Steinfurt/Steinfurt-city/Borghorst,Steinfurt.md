@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Borghorst,Steinfurt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~Steinfurt\Steinfurt-cityBorghorst,Steinfurt.public.md) 
+### [Borghorst,Steinfurt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Borghorst,Steinfurt.md) 
 
-### [Borghorst,Steinfurt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~Steinfurt\Steinfurt-cityBorghorst,Steinfurt.internal.md) 
+### [Borghorst,Steinfurt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Borghorst,Steinfurt.public.md) 
 
-### [Borghorst,Steinfurt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~Steinfurt\Steinfurt-cityBorghorst,Steinfurt.protect.md) 
+### [Borghorst,Steinfurt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Borghorst,Steinfurt.internal.md) 
 
-### [Borghorst,Steinfurt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~Steinfurt\Steinfurt-cityBorghorst,Steinfurt.private.md) 
+### [Borghorst,Steinfurt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Borghorst,Steinfurt.protect.md) 
 
-### [Borghorst,Steinfurt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~Steinfurt\Steinfurt-cityBorghorst,Steinfurt.personal.md) 
+### [Borghorst,Steinfurt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Borghorst,Steinfurt.private.md) 
 
-### [Borghorst,Steinfurt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Steinfurt\cities~Steinfurt\Steinfurt-cityBorghorst,Steinfurt.secret.md)
+### [Borghorst,Steinfurt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Borghorst,Steinfurt.personal.md) 
+
+### [Borghorst,Steinfurt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Borghorst,Steinfurt.secret.md)
 

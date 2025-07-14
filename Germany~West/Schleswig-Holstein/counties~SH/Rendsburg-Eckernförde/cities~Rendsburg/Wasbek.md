@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wasbek.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Rendsburg-Eckernförde\cities~RendsburgWasbek.public.md) 
+### [Wasbek](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Wasbek.md) 
 
-### [Wasbek.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Rendsburg-Eckernförde\cities~RendsburgWasbek.internal.md) 
+### [Wasbek.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Wasbek.public.md) 
 
-### [Wasbek.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Rendsburg-Eckernförde\cities~RendsburgWasbek.protect.md) 
+### [Wasbek.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Wasbek.internal.md) 
 
-### [Wasbek.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Rendsburg-Eckernförde\cities~RendsburgWasbek.private.md) 
+### [Wasbek.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Wasbek.protect.md) 
 
-### [Wasbek.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Rendsburg-Eckernförde\cities~RendsburgWasbek.personal.md) 
+### [Wasbek.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Wasbek.private.md) 
 
-### [Wasbek.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Rendsburg-Eckernförde\cities~RendsburgWasbek.secret.md)
+### [Wasbek.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Wasbek.personal.md) 
+
+### [Wasbek.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Wasbek.secret.md)
 

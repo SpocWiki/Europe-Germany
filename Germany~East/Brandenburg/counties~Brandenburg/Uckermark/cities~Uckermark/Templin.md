@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Templin.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~UckermarkTemplin.public.md) 
+### [Templin](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Templin.md) 
 
-### [Templin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~UckermarkTemplin.internal.md) 
+### [Templin.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Templin.public.md) 
 
-### [Templin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~UckermarkTemplin.protect.md) 
+### [Templin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Templin.internal.md) 
 
-### [Templin.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~UckermarkTemplin.private.md) 
+### [Templin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Templin.protect.md) 
 
-### [Templin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~UckermarkTemplin.personal.md) 
+### [Templin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Templin.private.md) 
 
-### [Templin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Uckermark\cities~UckermarkTemplin.secret.md)
+### [Templin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Templin.personal.md) 
+
+### [Templin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Templin.secret.md)
 

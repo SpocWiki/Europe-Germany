@@ -30,15 +30,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [S-Kronberg_im_Taunus.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Kronberg_im_Taunus.public.md) 
+### [S-Kronberg_im_Taunus](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Kronberg_im_Taunus.md) 
 
-### [S-Kronberg_im_Taunus.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Kronberg_im_Taunus.internal.md) 
+### [S-Kronberg_im_Taunus.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Kronberg_im_Taunus.public.md) 
 
-### [S-Kronberg_im_Taunus.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Kronberg_im_Taunus.protect.md) 
+### [S-Kronberg_im_Taunus.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Kronberg_im_Taunus.internal.md) 
 
-### [S-Kronberg_im_Taunus.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Kronberg_im_Taunus.private.md) 
+### [S-Kronberg_im_Taunus.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Kronberg_im_Taunus.protect.md) 
 
-### [S-Kronberg_im_Taunus.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Kronberg_im_Taunus.personal.md) 
+### [S-Kronberg_im_Taunus.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Kronberg_im_Taunus.private.md) 
 
-### [S-Kronberg_im_Taunus.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Frankfurt~Main\Stations-FFM~SS-Kronberg_im_Taunus.secret.md)
+### [S-Kronberg_im_Taunus.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Kronberg_im_Taunus.personal.md) 
+
+### [S-Kronberg_im_Taunus.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Kronberg_im_Taunus.secret.md)
 

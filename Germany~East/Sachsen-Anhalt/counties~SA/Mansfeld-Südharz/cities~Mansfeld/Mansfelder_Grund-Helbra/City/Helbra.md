@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Helbra.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Mansfelder_Grund-Helbra\CityHelbra.public.md) 
+### [Helbra](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Mansfelder_Grund-Helbra/City/Helbra.md) 
 
-### [Helbra.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Mansfelder_Grund-Helbra\CityHelbra.internal.md) 
+### [Helbra.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Mansfelder_Grund-Helbra/City/Helbra.public.md) 
 
-### [Helbra.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Mansfelder_Grund-Helbra\CityHelbra.protect.md) 
+### [Helbra.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Mansfelder_Grund-Helbra/City/Helbra.internal.md) 
 
-### [Helbra.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Mansfelder_Grund-Helbra\CityHelbra.private.md) 
+### [Helbra.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Mansfelder_Grund-Helbra/City/Helbra.protect.md) 
 
-### [Helbra.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Mansfelder_Grund-Helbra\CityHelbra.personal.md) 
+### [Helbra.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Mansfelder_Grund-Helbra/City/Helbra.private.md) 
 
-### [Helbra.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Mansfeld-Südharz\cities~Mansfeld\Mansfelder_Grund-Helbra\CityHelbra.secret.md)
+### [Helbra.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Mansfelder_Grund-Helbra/City/Helbra.personal.md) 
+
+### [Helbra.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Mansfelder_Grund-Helbra/City/Helbra.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rinteln.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~SchaumburgRinteln.public.md) 
+### [Rinteln](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Rinteln.md) 
 
-### [Rinteln.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~SchaumburgRinteln.internal.md) 
+### [Rinteln.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Rinteln.public.md) 
 
-### [Rinteln.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~SchaumburgRinteln.protect.md) 
+### [Rinteln.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Rinteln.internal.md) 
 
-### [Rinteln.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~SchaumburgRinteln.private.md) 
+### [Rinteln.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Rinteln.protect.md) 
 
-### [Rinteln.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~SchaumburgRinteln.personal.md) 
+### [Rinteln.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Rinteln.private.md) 
 
-### [Rinteln.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Schaumburg\cities~SchaumburgRinteln.secret.md)
+### [Rinteln.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Rinteln.personal.md) 
+
+### [Rinteln.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Rinteln.secret.md)
 

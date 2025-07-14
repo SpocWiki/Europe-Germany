@@ -21,15 +21,17 @@ Umgeben wird Nienhagen von den Nachbargemeinden [Elmenhorst/Lichtenhagen](https:
 
 ## Confidential Links & Embeds: 
 
-### [Gespensterwald,Nienhagen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\_SightsGespensterwald,Nienhagen.public.md) 
+### [Gespensterwald,Nienhagen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/_Sights/Gespensterwald,Nienhagen.md) 
 
-### [Gespensterwald,Nienhagen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\_SightsGespensterwald,Nienhagen.internal.md) 
+### [Gespensterwald,Nienhagen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/_Sights/Gespensterwald,Nienhagen.public.md) 
 
-### [Gespensterwald,Nienhagen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\_SightsGespensterwald,Nienhagen.protect.md) 
+### [Gespensterwald,Nienhagen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/_Sights/Gespensterwald,Nienhagen.internal.md) 
 
-### [Gespensterwald,Nienhagen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\_SightsGespensterwald,Nienhagen.private.md) 
+### [Gespensterwald,Nienhagen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/_Sights/Gespensterwald,Nienhagen.protect.md) 
 
-### [Gespensterwald,Nienhagen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\_SightsGespensterwald,Nienhagen.personal.md) 
+### [Gespensterwald,Nienhagen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/_Sights/Gespensterwald,Nienhagen.private.md) 
 
-### [Gespensterwald,Nienhagen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\_SightsGespensterwald,Nienhagen.secret.md)
+### [Gespensterwald,Nienhagen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/_Sights/Gespensterwald,Nienhagen.personal.md) 
+
+### [Gespensterwald,Nienhagen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/_Sights/Gespensterwald,Nienhagen.secret.md)
 

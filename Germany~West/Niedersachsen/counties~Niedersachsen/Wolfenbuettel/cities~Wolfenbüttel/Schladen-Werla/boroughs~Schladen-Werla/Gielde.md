@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gielde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Schladen-Werla\boroughs~Schladen-WerlaGielde.public.md) 
+### [Gielde](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Schladen-Werla/boroughs~Schladen-Werla/Gielde.md) 
 
-### [Gielde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Schladen-Werla\boroughs~Schladen-WerlaGielde.internal.md) 
+### [Gielde.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Schladen-Werla/boroughs~Schladen-Werla/Gielde.public.md) 
 
-### [Gielde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Schladen-Werla\boroughs~Schladen-WerlaGielde.protect.md) 
+### [Gielde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Schladen-Werla/boroughs~Schladen-Werla/Gielde.internal.md) 
 
-### [Gielde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Schladen-Werla\boroughs~Schladen-WerlaGielde.private.md) 
+### [Gielde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Schladen-Werla/boroughs~Schladen-Werla/Gielde.protect.md) 
 
-### [Gielde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Schladen-Werla\boroughs~Schladen-WerlaGielde.personal.md) 
+### [Gielde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Schladen-Werla/boroughs~Schladen-Werla/Gielde.private.md) 
 
-### [Gielde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wolfenbuettel\cities~Wolfenbüttel\Schladen-Werla\boroughs~Schladen-WerlaGielde.secret.md)
+### [Gielde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Schladen-Werla/boroughs~Schladen-Werla/Gielde.personal.md) 
+
+### [Gielde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfenbuettel/cities~Wolfenbüttel/Schladen-Werla/boroughs~Schladen-Werla/Gielde.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Opmünden.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~Soest\Soest-cityOpmünden.public.md) 
+### [Opmünden](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city/Opmünden.md) 
 
-### [Opmünden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~Soest\Soest-cityOpmünden.internal.md) 
+### [Opmünden.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city/Opmünden.public.md) 
 
-### [Opmünden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~Soest\Soest-cityOpmünden.protect.md) 
+### [Opmünden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city/Opmünden.internal.md) 
 
-### [Opmünden.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~Soest\Soest-cityOpmünden.private.md) 
+### [Opmünden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city/Opmünden.protect.md) 
 
-### [Opmünden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~Soest\Soest-cityOpmünden.personal.md) 
+### [Opmünden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city/Opmünden.private.md) 
 
-### [Opmünden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Soest\cities~Soest\Soest-cityOpmünden.secret.md)
+### [Opmünden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city/Opmünden.personal.md) 
+
+### [Opmünden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city/Opmünden.secret.md)
 

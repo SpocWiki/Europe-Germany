@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mittel-Stiepel.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BochumMittel-Stiepel.public.md) 
+### [Mittel-Stiepel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bochum/Mittel-Stiepel.md) 
 
-### [Mittel-Stiepel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BochumMittel-Stiepel.internal.md) 
+### [Mittel-Stiepel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bochum/Mittel-Stiepel.public.md) 
 
-### [Mittel-Stiepel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BochumMittel-Stiepel.protect.md) 
+### [Mittel-Stiepel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bochum/Mittel-Stiepel.internal.md) 
 
-### [Mittel-Stiepel.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BochumMittel-Stiepel.private.md) 
+### [Mittel-Stiepel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bochum/Mittel-Stiepel.protect.md) 
 
-### [Mittel-Stiepel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BochumMittel-Stiepel.personal.md) 
+### [Mittel-Stiepel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bochum/Mittel-Stiepel.private.md) 
 
-### [Mittel-Stiepel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\BochumMittel-Stiepel.secret.md)
+### [Mittel-Stiepel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bochum/Mittel-Stiepel.personal.md) 
+
+### [Mittel-Stiepel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bochum/Mittel-Stiepel.secret.md)
 

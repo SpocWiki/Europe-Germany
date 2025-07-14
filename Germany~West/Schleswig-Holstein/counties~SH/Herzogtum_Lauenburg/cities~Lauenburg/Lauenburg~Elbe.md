@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lauenburg~Elbe.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgLauenburg~Elbe.public.md) 
+### [Lauenburg~Elbe](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburg~Elbe.md) 
 
-### [Lauenburg~Elbe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgLauenburg~Elbe.internal.md) 
+### [Lauenburg~Elbe.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburg~Elbe.public.md) 
 
-### [Lauenburg~Elbe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgLauenburg~Elbe.protect.md) 
+### [Lauenburg~Elbe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburg~Elbe.internal.md) 
 
-### [Lauenburg~Elbe.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgLauenburg~Elbe.private.md) 
+### [Lauenburg~Elbe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburg~Elbe.protect.md) 
 
-### [Lauenburg~Elbe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgLauenburg~Elbe.personal.md) 
+### [Lauenburg~Elbe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburg~Elbe.private.md) 
 
-### [Lauenburg~Elbe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgLauenburg~Elbe.secret.md)
+### [Lauenburg~Elbe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburg~Elbe.personal.md) 
+
+### [Lauenburg~Elbe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburg~Elbe.secret.md)
 

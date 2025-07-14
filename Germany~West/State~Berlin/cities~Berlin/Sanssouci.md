@@ -51,15 +51,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sanssouci.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinSanssouci.public.md) 
+### [Sanssouci](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Sanssouci.md) 
 
-### [Sanssouci.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinSanssouci.internal.md) 
+### [Sanssouci.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Sanssouci.public.md) 
 
-### [Sanssouci.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinSanssouci.protect.md) 
+### [Sanssouci.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Sanssouci.internal.md) 
 
-### [Sanssouci.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinSanssouci.private.md) 
+### [Sanssouci.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Sanssouci.protect.md) 
 
-### [Sanssouci.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinSanssouci.personal.md) 
+### [Sanssouci.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Sanssouci.private.md) 
 
-### [Sanssouci.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Berlin\cities~BerlinSanssouci.secret.md)
+### [Sanssouci.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Sanssouci.personal.md) 
+
+### [Sanssouci.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Sanssouci.secret.md)
 

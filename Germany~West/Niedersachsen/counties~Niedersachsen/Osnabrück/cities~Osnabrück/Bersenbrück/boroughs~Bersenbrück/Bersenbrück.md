@@ -37,15 +37,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bersenbrück.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Bersenbrück\boroughs~BersenbrückBersenbrück.public.md) 
+### [Bersenbrück](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Bersenbrück/boroughs~Bersenbrück/Bersenbrück.md) 
 
-### [Bersenbrück.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Bersenbrück\boroughs~BersenbrückBersenbrück.internal.md) 
+### [Bersenbrück.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Bersenbrück/boroughs~Bersenbrück/Bersenbrück.public.md) 
 
-### [Bersenbrück.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Bersenbrück\boroughs~BersenbrückBersenbrück.protect.md) 
+### [Bersenbrück.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Bersenbrück/boroughs~Bersenbrück/Bersenbrück.internal.md) 
 
-### [Bersenbrück.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Bersenbrück\boroughs~BersenbrückBersenbrück.private.md) 
+### [Bersenbrück.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Bersenbrück/boroughs~Bersenbrück/Bersenbrück.protect.md) 
 
-### [Bersenbrück.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Bersenbrück\boroughs~BersenbrückBersenbrück.personal.md) 
+### [Bersenbrück.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Bersenbrück/boroughs~Bersenbrück/Bersenbrück.private.md) 
 
-### [Bersenbrück.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Osnabrück\cities~Osnabrück\Bersenbrück\boroughs~BersenbrückBersenbrück.secret.md)
+### [Bersenbrück.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Bersenbrück/boroughs~Bersenbrück/Bersenbrück.personal.md) 
+
+### [Bersenbrück.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osnabrück/cities~Osnabrück/Bersenbrück/boroughs~Bersenbrück/Bersenbrück.secret.md)
 

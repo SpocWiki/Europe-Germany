@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Quierschied.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Region~Saarbrücken\cities~SaarbrückenQuierschied.public.md) 
+### [Quierschied](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Quierschied.md) 
 
-### [Quierschied.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Region~Saarbrücken\cities~SaarbrückenQuierschied.internal.md) 
+### [Quierschied.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Quierschied.public.md) 
 
-### [Quierschied.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Region~Saarbrücken\cities~SaarbrückenQuierschied.protect.md) 
+### [Quierschied.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Quierschied.internal.md) 
 
-### [Quierschied.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Region~Saarbrücken\cities~SaarbrückenQuierschied.private.md) 
+### [Quierschied.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Quierschied.protect.md) 
 
-### [Quierschied.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Region~Saarbrücken\cities~SaarbrückenQuierschied.personal.md) 
+### [Quierschied.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Quierschied.private.md) 
 
-### [Quierschied.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Region~Saarbrücken\cities~SaarbrückenQuierschied.secret.md)
+### [Quierschied.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Quierschied.personal.md) 
+
+### [Quierschied.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Quierschied.secret.md)
 

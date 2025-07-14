@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ahlen,Ascheberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~Coesfeld\AschebergAhlen,Ascheberg.public.md) 
+### [Ahlen,Ascheberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Ascheberg/Ahlen,Ascheberg.md) 
 
-### [Ahlen,Ascheberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~Coesfeld\AschebergAhlen,Ascheberg.internal.md) 
+### [Ahlen,Ascheberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Ascheberg/Ahlen,Ascheberg.public.md) 
 
-### [Ahlen,Ascheberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~Coesfeld\AschebergAhlen,Ascheberg.protect.md) 
+### [Ahlen,Ascheberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Ascheberg/Ahlen,Ascheberg.internal.md) 
 
-### [Ahlen,Ascheberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~Coesfeld\AschebergAhlen,Ascheberg.private.md) 
+### [Ahlen,Ascheberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Ascheberg/Ahlen,Ascheberg.protect.md) 
 
-### [Ahlen,Ascheberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~Coesfeld\AschebergAhlen,Ascheberg.personal.md) 
+### [Ahlen,Ascheberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Ascheberg/Ahlen,Ascheberg.private.md) 
 
-### [Ahlen,Ascheberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~Coesfeld\AschebergAhlen,Ascheberg.secret.md)
+### [Ahlen,Ascheberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Ascheberg/Ahlen,Ascheberg.personal.md) 
+
+### [Ahlen,Ascheberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Ascheberg/Ahlen,Ascheberg.secret.md)
 

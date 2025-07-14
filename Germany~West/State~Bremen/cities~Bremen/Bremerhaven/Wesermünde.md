@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wesermünde.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~Bremen\BremerhavenWesermünde.public.md) 
+### [Wesermünde](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/Wesermünde.md) 
 
-### [Wesermünde.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~Bremen\BremerhavenWesermünde.internal.md) 
+### [Wesermünde.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/Wesermünde.public.md) 
 
-### [Wesermünde.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~Bremen\BremerhavenWesermünde.protect.md) 
+### [Wesermünde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/Wesermünde.internal.md) 
 
-### [Wesermünde.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~Bremen\BremerhavenWesermünde.private.md) 
+### [Wesermünde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/Wesermünde.protect.md) 
 
-### [Wesermünde.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~Bremen\BremerhavenWesermünde.personal.md) 
+### [Wesermünde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/Wesermünde.private.md) 
 
-### [Wesermünde.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\State~Bremen\cities~Bremen\BremerhavenWesermünde.secret.md)
+### [Wesermünde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/Wesermünde.personal.md) 
+
+### [Wesermünde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremerhaven/Wesermünde.secret.md)
 

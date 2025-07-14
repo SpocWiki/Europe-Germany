@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kaiserswerth.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DüsseldorfKaiserswerth.public.md) 
+### [Kaiserswerth](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kaiserswerth.md) 
 
-### [Kaiserswerth.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DüsseldorfKaiserswerth.internal.md) 
+### [Kaiserswerth.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kaiserswerth.public.md) 
 
-### [Kaiserswerth.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DüsseldorfKaiserswerth.protect.md) 
+### [Kaiserswerth.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kaiserswerth.internal.md) 
 
-### [Kaiserswerth.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DüsseldorfKaiserswerth.private.md) 
+### [Kaiserswerth.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kaiserswerth.protect.md) 
 
-### [Kaiserswerth.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DüsseldorfKaiserswerth.personal.md) 
+### [Kaiserswerth.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kaiserswerth.private.md) 
 
-### [Kaiserswerth.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\DüsseldorfKaiserswerth.secret.md)
+### [Kaiserswerth.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kaiserswerth.personal.md) 
+
+### [Kaiserswerth.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kaiserswerth.secret.md)
 

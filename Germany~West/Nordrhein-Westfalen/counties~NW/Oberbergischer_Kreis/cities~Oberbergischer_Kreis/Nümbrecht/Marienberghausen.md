@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marienberghausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_Kreis\NümbrechtMarienberghausen.public.md) 
+### [Marienberghausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Nümbrecht/Marienberghausen.md) 
 
-### [Marienberghausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_Kreis\NümbrechtMarienberghausen.internal.md) 
+### [Marienberghausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Nümbrecht/Marienberghausen.public.md) 
 
-### [Marienberghausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_Kreis\NümbrechtMarienberghausen.protect.md) 
+### [Marienberghausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Nümbrecht/Marienberghausen.internal.md) 
 
-### [Marienberghausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_Kreis\NümbrechtMarienberghausen.private.md) 
+### [Marienberghausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Nümbrecht/Marienberghausen.protect.md) 
 
-### [Marienberghausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_Kreis\NümbrechtMarienberghausen.personal.md) 
+### [Marienberghausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Nümbrecht/Marienberghausen.private.md) 
 
-### [Marienberghausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Oberbergischer_Kreis\cities~Oberbergischer_Kreis\NümbrechtMarienberghausen.secret.md)
+### [Marienberghausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Nümbrecht/Marienberghausen.personal.md) 
+
+### [Marienberghausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberbergischer_Kreis/cities~Oberbergischer_Kreis/Nümbrecht/Marienberghausen.secret.md)
 

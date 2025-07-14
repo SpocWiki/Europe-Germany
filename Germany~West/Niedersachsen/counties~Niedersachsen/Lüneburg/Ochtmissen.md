@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ochtmissen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\LüneburgOchtmissen.public.md) 
+### [Ochtmissen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/Ochtmissen.md) 
 
-### [Ochtmissen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\LüneburgOchtmissen.internal.md) 
+### [Ochtmissen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/Ochtmissen.public.md) 
 
-### [Ochtmissen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\LüneburgOchtmissen.protect.md) 
+### [Ochtmissen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/Ochtmissen.internal.md) 
 
-### [Ochtmissen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\LüneburgOchtmissen.private.md) 
+### [Ochtmissen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/Ochtmissen.protect.md) 
 
-### [Ochtmissen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\LüneburgOchtmissen.personal.md) 
+### [Ochtmissen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/Ochtmissen.private.md) 
 
-### [Ochtmissen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\LüneburgOchtmissen.secret.md)
+### [Ochtmissen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/Ochtmissen.personal.md) 
+
+### [Ochtmissen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/Ochtmissen.secret.md)
 

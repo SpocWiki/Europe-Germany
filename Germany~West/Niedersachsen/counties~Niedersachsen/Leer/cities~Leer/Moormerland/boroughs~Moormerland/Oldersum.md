@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oldersum.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~Leer\Moormerland\boroughs~MoormerlandOldersum.public.md) 
+### [Oldersum](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Moormerland/boroughs~Moormerland/Oldersum.md) 
 
-### [Oldersum.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~Leer\Moormerland\boroughs~MoormerlandOldersum.internal.md) 
+### [Oldersum.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Moormerland/boroughs~Moormerland/Oldersum.public.md) 
 
-### [Oldersum.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~Leer\Moormerland\boroughs~MoormerlandOldersum.protect.md) 
+### [Oldersum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Moormerland/boroughs~Moormerland/Oldersum.internal.md) 
 
-### [Oldersum.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~Leer\Moormerland\boroughs~MoormerlandOldersum.private.md) 
+### [Oldersum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Moormerland/boroughs~Moormerland/Oldersum.protect.md) 
 
-### [Oldersum.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~Leer\Moormerland\boroughs~MoormerlandOldersum.personal.md) 
+### [Oldersum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Moormerland/boroughs~Moormerland/Oldersum.private.md) 
 
-### [Oldersum.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Leer\cities~Leer\Moormerland\boroughs~MoormerlandOldersum.secret.md)
+### [Oldersum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Moormerland/boroughs~Moormerland/Oldersum.personal.md) 
+
+### [Oldersum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Moormerland/boroughs~Moormerland/Oldersum.secret.md)
 

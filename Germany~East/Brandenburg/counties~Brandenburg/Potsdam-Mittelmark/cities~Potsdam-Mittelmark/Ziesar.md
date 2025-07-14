@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ziesar.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-MittelmarkZiesar.public.md) 
+### [Ziesar](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Ziesar.md) 
 
-### [Ziesar.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-MittelmarkZiesar.internal.md) 
+### [Ziesar.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Ziesar.public.md) 
 
-### [Ziesar.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-MittelmarkZiesar.protect.md) 
+### [Ziesar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Ziesar.internal.md) 
 
-### [Ziesar.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-MittelmarkZiesar.private.md) 
+### [Ziesar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Ziesar.protect.md) 
 
-### [Ziesar.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-MittelmarkZiesar.personal.md) 
+### [Ziesar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Ziesar.private.md) 
 
-### [Ziesar.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Potsdam-Mittelmark\cities~Potsdam-MittelmarkZiesar.secret.md)
+### [Ziesar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Ziesar.personal.md) 
+
+### [Ziesar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Potsdam-Mittelmark/cities~Potsdam-Mittelmark/Ziesar.secret.md)
 

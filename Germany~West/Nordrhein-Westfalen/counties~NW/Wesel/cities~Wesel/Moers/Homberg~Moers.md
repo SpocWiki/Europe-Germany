@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Homberg~Moers.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~Wesel\MoersHomberg~Moers.public.md) 
+### [Homberg~Moers](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers/Homberg~Moers.md) 
 
-### [Homberg~Moers.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~Wesel\MoersHomberg~Moers.internal.md) 
+### [Homberg~Moers.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers/Homberg~Moers.public.md) 
 
-### [Homberg~Moers.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~Wesel\MoersHomberg~Moers.protect.md) 
+### [Homberg~Moers.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers/Homberg~Moers.internal.md) 
 
-### [Homberg~Moers.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~Wesel\MoersHomberg~Moers.private.md) 
+### [Homberg~Moers.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers/Homberg~Moers.protect.md) 
 
-### [Homberg~Moers.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~Wesel\MoersHomberg~Moers.personal.md) 
+### [Homberg~Moers.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers/Homberg~Moers.private.md) 
 
-### [Homberg~Moers.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Wesel\cities~Wesel\MoersHomberg~Moers.secret.md)
+### [Homberg~Moers.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers/Homberg~Moers.personal.md) 
+
+### [Homberg~Moers.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers/Homberg~Moers.secret.md)
 

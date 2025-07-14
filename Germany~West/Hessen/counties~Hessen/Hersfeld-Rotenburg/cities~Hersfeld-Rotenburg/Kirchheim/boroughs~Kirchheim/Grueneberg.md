@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grueneberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hersfeld-Rotenburg\cities~Hersfeld-Rotenburg\Kirchheim\boroughs~KirchheimGrueneberg.public.md) 
+### [Grueneberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Kirchheim/boroughs~Kirchheim/Grueneberg.md) 
 
-### [Grueneberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hersfeld-Rotenburg\cities~Hersfeld-Rotenburg\Kirchheim\boroughs~KirchheimGrueneberg.internal.md) 
+### [Grueneberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Kirchheim/boroughs~Kirchheim/Grueneberg.public.md) 
 
-### [Grueneberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hersfeld-Rotenburg\cities~Hersfeld-Rotenburg\Kirchheim\boroughs~KirchheimGrueneberg.protect.md) 
+### [Grueneberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Kirchheim/boroughs~Kirchheim/Grueneberg.internal.md) 
 
-### [Grueneberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hersfeld-Rotenburg\cities~Hersfeld-Rotenburg\Kirchheim\boroughs~KirchheimGrueneberg.private.md) 
+### [Grueneberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Kirchheim/boroughs~Kirchheim/Grueneberg.protect.md) 
 
-### [Grueneberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hersfeld-Rotenburg\cities~Hersfeld-Rotenburg\Kirchheim\boroughs~KirchheimGrueneberg.personal.md) 
+### [Grueneberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Kirchheim/boroughs~Kirchheim/Grueneberg.private.md) 
 
-### [Grueneberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Hersfeld-Rotenburg\cities~Hersfeld-Rotenburg\Kirchheim\boroughs~KirchheimGrueneberg.secret.md)
+### [Grueneberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Kirchheim/boroughs~Kirchheim/Grueneberg.personal.md) 
+
+### [Grueneberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Kirchheim/boroughs~Kirchheim/Grueneberg.secret.md)
 

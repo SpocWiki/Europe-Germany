@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hofgeismar.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Kassel-Kreis\cities~KasselHofgeismar.public.md) 
+### [Hofgeismar](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Hofgeismar.md) 
 
-### [Hofgeismar.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Kassel-Kreis\cities~KasselHofgeismar.internal.md) 
+### [Hofgeismar.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Hofgeismar.public.md) 
 
-### [Hofgeismar.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Kassel-Kreis\cities~KasselHofgeismar.protect.md) 
+### [Hofgeismar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Hofgeismar.internal.md) 
 
-### [Hofgeismar.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Kassel-Kreis\cities~KasselHofgeismar.private.md) 
+### [Hofgeismar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Hofgeismar.protect.md) 
 
-### [Hofgeismar.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Kassel-Kreis\cities~KasselHofgeismar.personal.md) 
+### [Hofgeismar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Hofgeismar.private.md) 
 
-### [Hofgeismar.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Kassel-Kreis\cities~KasselHofgeismar.secret.md)
+### [Hofgeismar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Hofgeismar.personal.md) 
+
+### [Hofgeismar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Hofgeismar.secret.md)
 

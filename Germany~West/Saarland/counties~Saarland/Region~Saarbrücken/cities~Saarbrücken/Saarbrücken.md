@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saarbrücken.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Region~Saarbrücken\cities~SaarbrückenSaarbrücken.public.md) 
+### [Saarbrücken](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Saarbrücken.md) 
 
-### [Saarbrücken.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Region~Saarbrücken\cities~SaarbrückenSaarbrücken.internal.md) 
+### [Saarbrücken.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Saarbrücken.public.md) 
 
-### [Saarbrücken.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Region~Saarbrücken\cities~SaarbrückenSaarbrücken.protect.md) 
+### [Saarbrücken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Saarbrücken.internal.md) 
 
-### [Saarbrücken.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Region~Saarbrücken\cities~SaarbrückenSaarbrücken.private.md) 
+### [Saarbrücken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Saarbrücken.protect.md) 
 
-### [Saarbrücken.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Region~Saarbrücken\cities~SaarbrückenSaarbrücken.personal.md) 
+### [Saarbrücken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Saarbrücken.private.md) 
 
-### [Saarbrücken.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Saarland\counties~Saarland\Region~Saarbrücken\cities~SaarbrückenSaarbrücken.secret.md)
+### [Saarbrücken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Saarbrücken.personal.md) 
+
+### [Saarbrücken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Saarbrücken.secret.md)
 

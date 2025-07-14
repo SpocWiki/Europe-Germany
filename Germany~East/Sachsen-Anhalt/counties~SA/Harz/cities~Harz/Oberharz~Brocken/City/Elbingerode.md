@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Elbingerode.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Oberharz~Brocken\CityElbingerode.public.md) 
+### [Elbingerode](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Elbingerode.md) 
 
-### [Elbingerode.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Oberharz~Brocken\CityElbingerode.internal.md) 
+### [Elbingerode.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Elbingerode.public.md) 
 
-### [Elbingerode.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Oberharz~Brocken\CityElbingerode.protect.md) 
+### [Elbingerode.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Elbingerode.internal.md) 
 
-### [Elbingerode.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Oberharz~Brocken\CityElbingerode.private.md) 
+### [Elbingerode.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Elbingerode.protect.md) 
 
-### [Elbingerode.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Oberharz~Brocken\CityElbingerode.personal.md) 
+### [Elbingerode.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Elbingerode.private.md) 
 
-### [Elbingerode.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen-Anhalt\counties~SA\Harz\cities~Harz\Oberharz~Brocken\CityElbingerode.secret.md)
+### [Elbingerode.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Elbingerode.personal.md) 
+
+### [Elbingerode.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Elbingerode.secret.md)
 

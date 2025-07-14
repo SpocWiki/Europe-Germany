@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Büchen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgBüchen.public.md) 
+### [Büchen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Büchen.md) 
 
-### [Büchen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgBüchen.internal.md) 
+### [Büchen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Büchen.public.md) 
 
-### [Büchen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgBüchen.protect.md) 
+### [Büchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Büchen.internal.md) 
 
-### [Büchen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgBüchen.private.md) 
+### [Büchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Büchen.protect.md) 
 
-### [Büchen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgBüchen.personal.md) 
+### [Büchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Büchen.private.md) 
 
-### [Büchen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Herzogtum_Lauenburg\cities~LauenburgBüchen.secret.md)
+### [Büchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Büchen.personal.md) 
+
+### [Büchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Büchen.secret.md)
 

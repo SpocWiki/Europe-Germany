@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oldenburg,Holstein.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinOldenburg,Holstein.public.md) 
+### [Oldenburg,Holstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg,Holstein.md) 
 
-### [Oldenburg,Holstein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinOldenburg,Holstein.internal.md) 
+### [Oldenburg,Holstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg,Holstein.public.md) 
 
-### [Oldenburg,Holstein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinOldenburg,Holstein.protect.md) 
+### [Oldenburg,Holstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg,Holstein.internal.md) 
 
-### [Oldenburg,Holstein.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinOldenburg,Holstein.private.md) 
+### [Oldenburg,Holstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg,Holstein.protect.md) 
 
-### [Oldenburg,Holstein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinOldenburg,Holstein.personal.md) 
+### [Oldenburg,Holstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg,Holstein.private.md) 
 
-### [Oldenburg,Holstein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Ostholstein\cities~OstholsteinOldenburg,Holstein.secret.md)
+### [Oldenburg,Holstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg,Holstein.personal.md) 
+
+### [Oldenburg,Holstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg,Holstein.secret.md)
 

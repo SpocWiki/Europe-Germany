@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Heidberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\SchwentinentalHeidberg.public.md) 
+### [Heidberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Schwentinental/Heidberg.md) 
 
-### [Heidberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\SchwentinentalHeidberg.internal.md) 
+### [Heidberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Schwentinental/Heidberg.public.md) 
 
-### [Heidberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\SchwentinentalHeidberg.protect.md) 
+### [Heidberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Schwentinental/Heidberg.internal.md) 
 
-### [Heidberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\SchwentinentalHeidberg.private.md) 
+### [Heidberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Schwentinental/Heidberg.protect.md) 
 
-### [Heidberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\SchwentinentalHeidberg.personal.md) 
+### [Heidberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Schwentinental/Heidberg.private.md) 
 
-### [Heidberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Schleswig-Holstein\counties~SH\Plön\cities~Plön\SchwentinentalHeidberg.secret.md)
+### [Heidberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Schwentinental/Heidberg.personal.md) 
+
+### [Heidberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Schwentinental/Heidberg.secret.md)
 

@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Buer,Gelsenkirchen.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\GelsenkirchenBuer,Gelsenkirchen.public.md) 
+### [Buer,Gelsenkirchen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Buer,Gelsenkirchen.md) 
 
-### [Buer,Gelsenkirchen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\GelsenkirchenBuer,Gelsenkirchen.internal.md) 
+### [Buer,Gelsenkirchen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Buer,Gelsenkirchen.public.md) 
 
-### [Buer,Gelsenkirchen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\GelsenkirchenBuer,Gelsenkirchen.protect.md) 
+### [Buer,Gelsenkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Buer,Gelsenkirchen.internal.md) 
 
-### [Buer,Gelsenkirchen.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\GelsenkirchenBuer,Gelsenkirchen.private.md) 
+### [Buer,Gelsenkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Buer,Gelsenkirchen.protect.md) 
 
-### [Buer,Gelsenkirchen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\GelsenkirchenBuer,Gelsenkirchen.personal.md) 
+### [Buer,Gelsenkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Buer,Gelsenkirchen.private.md) 
 
-### [Buer,Gelsenkirchen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\GelsenkirchenBuer,Gelsenkirchen.secret.md)
+### [Buer,Gelsenkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Buer,Gelsenkirchen.personal.md) 
+
+### [Buer,Gelsenkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Buer,Gelsenkirchen.secret.md)
 

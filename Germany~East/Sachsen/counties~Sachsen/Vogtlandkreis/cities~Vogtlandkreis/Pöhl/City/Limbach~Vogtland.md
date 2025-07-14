@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Limbach~Vogtland.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Pöhl\CityLimbach~Vogtland.public.md) 
+### [Limbach~Vogtland](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Pöhl/City/Limbach~Vogtland.md) 
 
-### [Limbach~Vogtland.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Pöhl\CityLimbach~Vogtland.internal.md) 
+### [Limbach~Vogtland.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Pöhl/City/Limbach~Vogtland.public.md) 
 
-### [Limbach~Vogtland.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Pöhl\CityLimbach~Vogtland.protect.md) 
+### [Limbach~Vogtland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Pöhl/City/Limbach~Vogtland.internal.md) 
 
-### [Limbach~Vogtland.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Pöhl\CityLimbach~Vogtland.private.md) 
+### [Limbach~Vogtland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Pöhl/City/Limbach~Vogtland.protect.md) 
 
-### [Limbach~Vogtland.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Pöhl\CityLimbach~Vogtland.personal.md) 
+### [Limbach~Vogtland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Pöhl/City/Limbach~Vogtland.private.md) 
 
-### [Limbach~Vogtland.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Sachsen\counties~Sachsen\Vogtlandkreis\cities~Vogtlandkreis\Pöhl\CityLimbach~Vogtland.secret.md)
+### [Limbach~Vogtland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Pöhl/City/Limbach~Vogtland.personal.md) 
+
+### [Limbach~Vogtland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Pöhl/City/Limbach~Vogtland.secret.md)
 

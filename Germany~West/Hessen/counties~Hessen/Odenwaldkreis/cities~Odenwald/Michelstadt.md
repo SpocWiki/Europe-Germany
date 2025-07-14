@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Michelstadt.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Odenwaldkreis\cities~OdenwaldMichelstadt.public.md) 
+### [Michelstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Michelstadt.md) 
 
-### [Michelstadt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Odenwaldkreis\cities~OdenwaldMichelstadt.internal.md) 
+### [Michelstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Michelstadt.public.md) 
 
-### [Michelstadt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Odenwaldkreis\cities~OdenwaldMichelstadt.protect.md) 
+### [Michelstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Michelstadt.internal.md) 
 
-### [Michelstadt.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Odenwaldkreis\cities~OdenwaldMichelstadt.private.md) 
+### [Michelstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Michelstadt.protect.md) 
 
-### [Michelstadt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Odenwaldkreis\cities~OdenwaldMichelstadt.personal.md) 
+### [Michelstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Michelstadt.private.md) 
 
-### [Michelstadt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Odenwaldkreis\cities~OdenwaldMichelstadt.secret.md)
+### [Michelstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Michelstadt.personal.md) 
+
+### [Michelstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Michelstadt.secret.md)
 

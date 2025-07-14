@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kluse.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Dörpen\boroughs~DörpenKluse.public.md) 
+### [Kluse](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Dörpen/boroughs~Dörpen/Kluse.md) 
 
-### [Kluse.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Dörpen\boroughs~DörpenKluse.internal.md) 
+### [Kluse.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Dörpen/boroughs~Dörpen/Kluse.public.md) 
 
-### [Kluse.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Dörpen\boroughs~DörpenKluse.protect.md) 
+### [Kluse.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Dörpen/boroughs~Dörpen/Kluse.internal.md) 
 
-### [Kluse.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Dörpen\boroughs~DörpenKluse.private.md) 
+### [Kluse.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Dörpen/boroughs~Dörpen/Kluse.protect.md) 
 
-### [Kluse.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Dörpen\boroughs~DörpenKluse.personal.md) 
+### [Kluse.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Dörpen/boroughs~Dörpen/Kluse.private.md) 
 
-### [Kluse.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Emsland\cities~Emsland\Dörpen\boroughs~DörpenKluse.secret.md)
+### [Kluse.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Dörpen/boroughs~Dörpen/Kluse.personal.md) 
+
+### [Kluse.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Dörpen/boroughs~Dörpen/Kluse.secret.md)
 

@@ -20,20 +20,19 @@
 > [Wikipedia](https://de.wikipedia.org/wiki/Elsterwerda)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Elsterwerda.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Elbe-Elster\cities~Elbe-ElsterElsterwerda.public.md) 
+### [Elsterwerda](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Elsterwerda.md) 
 
-### [Elsterwerda.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Elbe-Elster\cities~Elbe-ElsterElsterwerda.internal.md) 
+### [Elsterwerda.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Elsterwerda.public.md) 
 
-### [Elsterwerda.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Elbe-Elster\cities~Elbe-ElsterElsterwerda.protect.md) 
+### [Elsterwerda.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Elsterwerda.internal.md) 
 
-### [Elsterwerda.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Elbe-Elster\cities~Elbe-ElsterElsterwerda.private.md) 
+### [Elsterwerda.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Elsterwerda.protect.md) 
 
-### [Elsterwerda.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Elbe-Elster\cities~Elbe-ElsterElsterwerda.personal.md) 
+### [Elsterwerda.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Elsterwerda.private.md) 
 
-### [Elsterwerda.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~East\Brandenburg\counties~Brandenburg\Elbe-Elster\cities~Elbe-ElsterElsterwerda.secret.md)
+### [Elsterwerda.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Elsterwerda.personal.md) 
+
+### [Elsterwerda.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Elsterwerda.secret.md)
 

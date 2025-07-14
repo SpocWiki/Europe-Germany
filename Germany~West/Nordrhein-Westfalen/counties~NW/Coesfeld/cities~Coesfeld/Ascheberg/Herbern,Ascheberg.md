@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Herbern,Ascheberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~Coesfeld\AschebergHerbern,Ascheberg.public.md) 
+### [Herbern,Ascheberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Ascheberg/Herbern,Ascheberg.md) 
 
-### [Herbern,Ascheberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~Coesfeld\AschebergHerbern,Ascheberg.internal.md) 
+### [Herbern,Ascheberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Ascheberg/Herbern,Ascheberg.public.md) 
 
-### [Herbern,Ascheberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~Coesfeld\AschebergHerbern,Ascheberg.protect.md) 
+### [Herbern,Ascheberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Ascheberg/Herbern,Ascheberg.internal.md) 
 
-### [Herbern,Ascheberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~Coesfeld\AschebergHerbern,Ascheberg.private.md) 
+### [Herbern,Ascheberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Ascheberg/Herbern,Ascheberg.protect.md) 
 
-### [Herbern,Ascheberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~Coesfeld\AschebergHerbern,Ascheberg.personal.md) 
+### [Herbern,Ascheberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Ascheberg/Herbern,Ascheberg.private.md) 
 
-### [Herbern,Ascheberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Nordrhein-Westfalen\counties~NW\Coesfeld\cities~Coesfeld\AschebergHerbern,Ascheberg.secret.md)
+### [Herbern,Ascheberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Ascheberg/Herbern,Ascheberg.personal.md) 
+
+### [Herbern,Ascheberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Ascheberg/Herbern,Ascheberg.secret.md)
 

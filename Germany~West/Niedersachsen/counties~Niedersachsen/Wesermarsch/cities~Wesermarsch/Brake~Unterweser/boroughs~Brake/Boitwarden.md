@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Boitwarden.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Brake~Unterweser\boroughs~BrakeBoitwarden.public.md) 
+### [Boitwarden](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Brake~Unterweser/boroughs~Brake/Boitwarden.md) 
 
-### [Boitwarden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Brake~Unterweser\boroughs~BrakeBoitwarden.internal.md) 
+### [Boitwarden.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Brake~Unterweser/boroughs~Brake/Boitwarden.public.md) 
 
-### [Boitwarden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Brake~Unterweser\boroughs~BrakeBoitwarden.protect.md) 
+### [Boitwarden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Brake~Unterweser/boroughs~Brake/Boitwarden.internal.md) 
 
-### [Boitwarden.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Brake~Unterweser\boroughs~BrakeBoitwarden.private.md) 
+### [Boitwarden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Brake~Unterweser/boroughs~Brake/Boitwarden.protect.md) 
 
-### [Boitwarden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Brake~Unterweser\boroughs~BrakeBoitwarden.personal.md) 
+### [Boitwarden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Brake~Unterweser/boroughs~Brake/Boitwarden.private.md) 
 
-### [Boitwarden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Niedersachsen\counties~Niedersachsen\Wesermarsch\cities~Wesermarsch\Brake~Unterweser\boroughs~BrakeBoitwarden.secret.md)
+### [Boitwarden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Brake~Unterweser/boroughs~Brake/Boitwarden.personal.md) 
+
+### [Boitwarden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Brake~Unterweser/boroughs~Brake/Boitwarden.secret.md)
 

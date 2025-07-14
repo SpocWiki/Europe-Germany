@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wallenrod.public](/_public/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Vogelsbergkreis\cities~Vogelsbergkreis\Lauterbach~Hessen\boroughs~LauterbachWallenrod.public.md) 
+### [Wallenrod](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Wallenrod.md) 
 
-### [Wallenrod.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Vogelsbergkreis\cities~Vogelsbergkreis\Lauterbach~Hessen\boroughs~LauterbachWallenrod.internal.md) 
+### [Wallenrod.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Wallenrod.public.md) 
 
-### [Wallenrod.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Vogelsbergkreis\cities~Vogelsbergkreis\Lauterbach~Hessen\boroughs~LauterbachWallenrod.protect.md) 
+### [Wallenrod.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Wallenrod.internal.md) 
 
-### [Wallenrod.private](/_private/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Vogelsbergkreis\cities~Vogelsbergkreis\Lauterbach~Hessen\boroughs~LauterbachWallenrod.private.md) 
+### [Wallenrod.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Wallenrod.protect.md) 
 
-### [Wallenrod.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Vogelsbergkreis\cities~Vogelsbergkreis\Lauterbach~Hessen\boroughs~LauterbachWallenrod.personal.md) 
+### [Wallenrod.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Wallenrod.private.md) 
 
-### [Wallenrod.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Germany\Germany~West\Hessen\counties~Hessen\Vogelsbergkreis\cities~Vogelsbergkreis\Lauterbach~Hessen\boroughs~LauterbachWallenrod.secret.md)
+### [Wallenrod.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Wallenrod.personal.md) 
+
+### [Wallenrod.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Wallenrod.secret.md)
 
