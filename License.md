@@ -111,19 +111,3 @@ Except for the limited purpose of indicating to the public that the Work is lice
 Creative Commons may be contacted at <http://creativecommons.org/>.
 
 
-## Confidential Links & Embeds: 
-
-### #is_/same_as :: [License](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/License.md) 
-
-### #is_/same_as :: [License.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/License.public.md) 
-
-### #is_/same_as :: [License.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/License.internal.md) 
-
-### #is_/same_as :: [License.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/License.protect.md) 
-
-### #is_/same_as :: [License.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/License.private.md) 
-
-### #is_/same_as :: [License.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/License.personal.md) 
-
-### #is_/same_as :: [License.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/License.secret.md)
-
