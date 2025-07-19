@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brunsbüttelkoog](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.md) 
+### #is_/same_as :: [Brunsbüttelkoog](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.md) 
 
-### [Brunsbüttelkoog.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.public.md) 
+### #is_/same_as :: [Brunsbüttelkoog.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.public.md) 
 
-### [Brunsbüttelkoog.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.internal.md) 
+### #is_/same_as :: [Brunsbüttelkoog.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.internal.md) 
 
-### [Brunsbüttelkoog.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.protect.md) 
+### #is_/same_as :: [Brunsbüttelkoog.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.protect.md) 
 
-### [Brunsbüttelkoog.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.private.md) 
+### #is_/same_as :: [Brunsbüttelkoog.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.private.md) 
 
-### [Brunsbüttelkoog.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.personal.md) 
+### #is_/same_as :: [Brunsbüttelkoog.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.personal.md) 
 
-### [Brunsbüttelkoog.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.secret.md)
+### #is_/same_as :: [Brunsbüttelkoog.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.secret.md)
 

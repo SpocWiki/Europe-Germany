@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Frauenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Morschen/boroughs~Morschen/Frauenberg.md) 
+### #is_/same_as :: [Frauenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Morschen/boroughs~Morschen/Frauenberg.md) 
 
-### [Frauenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Morschen/boroughs~Morschen/Frauenberg.public.md) 
+### #is_/same_as :: [Frauenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Morschen/boroughs~Morschen/Frauenberg.public.md) 
 
-### [Frauenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Morschen/boroughs~Morschen/Frauenberg.internal.md) 
+### #is_/same_as :: [Frauenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Morschen/boroughs~Morschen/Frauenberg.internal.md) 
 
-### [Frauenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Morschen/boroughs~Morschen/Frauenberg.protect.md) 
+### #is_/same_as :: [Frauenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Morschen/boroughs~Morschen/Frauenberg.protect.md) 
 
-### [Frauenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Morschen/boroughs~Morschen/Frauenberg.private.md) 
+### #is_/same_as :: [Frauenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Morschen/boroughs~Morschen/Frauenberg.private.md) 
 
-### [Frauenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Morschen/boroughs~Morschen/Frauenberg.personal.md) 
+### #is_/same_as :: [Frauenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Morschen/boroughs~Morschen/Frauenberg.personal.md) 
 
-### [Frauenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Morschen/boroughs~Morschen/Frauenberg.secret.md)
+### #is_/same_as :: [Frauenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Morschen/boroughs~Morschen/Frauenberg.secret.md)
 

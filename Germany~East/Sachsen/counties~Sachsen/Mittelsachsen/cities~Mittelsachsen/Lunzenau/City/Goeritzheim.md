@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Goeritzheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Lunzenau/City/Goeritzheim.md) 
+### #is_/same_as :: [Goeritzheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Lunzenau/City/Goeritzheim.md) 
 
-### [Goeritzheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Lunzenau/City/Goeritzheim.public.md) 
+### #is_/same_as :: [Goeritzheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Lunzenau/City/Goeritzheim.public.md) 
 
-### [Goeritzheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Lunzenau/City/Goeritzheim.internal.md) 
+### #is_/same_as :: [Goeritzheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Lunzenau/City/Goeritzheim.internal.md) 
 
-### [Goeritzheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Lunzenau/City/Goeritzheim.protect.md) 
+### #is_/same_as :: [Goeritzheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Lunzenau/City/Goeritzheim.protect.md) 
 
-### [Goeritzheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Lunzenau/City/Goeritzheim.private.md) 
+### #is_/same_as :: [Goeritzheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Lunzenau/City/Goeritzheim.private.md) 
 
-### [Goeritzheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Lunzenau/City/Goeritzheim.personal.md) 
+### #is_/same_as :: [Goeritzheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Lunzenau/City/Goeritzheim.personal.md) 
 
-### [Goeritzheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Lunzenau/City/Goeritzheim.secret.md)
+### #is_/same_as :: [Goeritzheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Lunzenau/City/Goeritzheim.secret.md)
 

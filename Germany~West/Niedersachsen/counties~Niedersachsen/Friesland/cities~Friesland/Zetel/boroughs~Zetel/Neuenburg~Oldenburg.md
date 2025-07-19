@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neuenburg~Oldenburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.md) 
+### #is_/same_as :: [Neuenburg~Oldenburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.md) 
 
-### [Neuenburg~Oldenburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.public.md) 
+### #is_/same_as :: [Neuenburg~Oldenburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.public.md) 
 
-### [Neuenburg~Oldenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.internal.md) 
+### #is_/same_as :: [Neuenburg~Oldenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.internal.md) 
 
-### [Neuenburg~Oldenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.protect.md) 
+### #is_/same_as :: [Neuenburg~Oldenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.protect.md) 
 
-### [Neuenburg~Oldenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.private.md) 
+### #is_/same_as :: [Neuenburg~Oldenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.private.md) 
 
-### [Neuenburg~Oldenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.personal.md) 
+### #is_/same_as :: [Neuenburg~Oldenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.personal.md) 
 
-### [Neuenburg~Oldenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.secret.md)
+### #is_/same_as :: [Neuenburg~Oldenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.secret.md)
 

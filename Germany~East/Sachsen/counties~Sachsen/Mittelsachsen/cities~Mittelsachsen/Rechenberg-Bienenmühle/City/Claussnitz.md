@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Claussnitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Rechenberg-Bienenmühle/City/Claussnitz.md) 
+### #is_/same_as :: [Claussnitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Rechenberg-Bienenmühle/City/Claussnitz.md) 
 
-### [Claussnitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Rechenberg-Bienenmühle/City/Claussnitz.public.md) 
+### #is_/same_as :: [Claussnitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Rechenberg-Bienenmühle/City/Claussnitz.public.md) 
 
-### [Claussnitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Rechenberg-Bienenmühle/City/Claussnitz.internal.md) 
+### #is_/same_as :: [Claussnitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Rechenberg-Bienenmühle/City/Claussnitz.internal.md) 
 
-### [Claussnitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Rechenberg-Bienenmühle/City/Claussnitz.protect.md) 
+### #is_/same_as :: [Claussnitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Rechenberg-Bienenmühle/City/Claussnitz.protect.md) 
 
-### [Claussnitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Rechenberg-Bienenmühle/City/Claussnitz.private.md) 
+### #is_/same_as :: [Claussnitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Rechenberg-Bienenmühle/City/Claussnitz.private.md) 
 
-### [Claussnitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Rechenberg-Bienenmühle/City/Claussnitz.personal.md) 
+### #is_/same_as :: [Claussnitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Rechenberg-Bienenmühle/City/Claussnitz.personal.md) 
 
-### [Claussnitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Rechenberg-Bienenmühle/City/Claussnitz.secret.md)
+### #is_/same_as :: [Claussnitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Rechenberg-Bienenmühle/City/Claussnitz.secret.md)
 

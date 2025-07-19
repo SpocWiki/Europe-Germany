@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zinnowitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Nord/boroughs~Usedom-N/Zinnowitz.md) 
+### #is_/same_as :: [Zinnowitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Nord/boroughs~Usedom-N/Zinnowitz.md) 
 
-### [Zinnowitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Nord/boroughs~Usedom-N/Zinnowitz.public.md) 
+### #is_/same_as :: [Zinnowitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Nord/boroughs~Usedom-N/Zinnowitz.public.md) 
 
-### [Zinnowitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Nord/boroughs~Usedom-N/Zinnowitz.internal.md) 
+### #is_/same_as :: [Zinnowitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Nord/boroughs~Usedom-N/Zinnowitz.internal.md) 
 
-### [Zinnowitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Nord/boroughs~Usedom-N/Zinnowitz.protect.md) 
+### #is_/same_as :: [Zinnowitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Nord/boroughs~Usedom-N/Zinnowitz.protect.md) 
 
-### [Zinnowitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Nord/boroughs~Usedom-N/Zinnowitz.private.md) 
+### #is_/same_as :: [Zinnowitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Nord/boroughs~Usedom-N/Zinnowitz.private.md) 
 
-### [Zinnowitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Nord/boroughs~Usedom-N/Zinnowitz.personal.md) 
+### #is_/same_as :: [Zinnowitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Nord/boroughs~Usedom-N/Zinnowitz.personal.md) 
 
-### [Zinnowitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Nord/boroughs~Usedom-N/Zinnowitz.secret.md)
+### #is_/same_as :: [Zinnowitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Nord/boroughs~Usedom-N/Zinnowitz.secret.md)
 

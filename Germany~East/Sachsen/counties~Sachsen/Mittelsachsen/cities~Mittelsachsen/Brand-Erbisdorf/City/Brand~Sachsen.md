@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brand~Sachsen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Brand~Sachsen.md) 
+### #is_/same_as :: [Brand~Sachsen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Brand~Sachsen.md) 
 
-### [Brand~Sachsen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Brand~Sachsen.public.md) 
+### #is_/same_as :: [Brand~Sachsen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Brand~Sachsen.public.md) 
 
-### [Brand~Sachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Brand~Sachsen.internal.md) 
+### #is_/same_as :: [Brand~Sachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Brand~Sachsen.internal.md) 
 
-### [Brand~Sachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Brand~Sachsen.protect.md) 
+### #is_/same_as :: [Brand~Sachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Brand~Sachsen.protect.md) 
 
-### [Brand~Sachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Brand~Sachsen.private.md) 
+### #is_/same_as :: [Brand~Sachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Brand~Sachsen.private.md) 
 
-### [Brand~Sachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Brand~Sachsen.personal.md) 
+### #is_/same_as :: [Brand~Sachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Brand~Sachsen.personal.md) 
 
-### [Brand~Sachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Brand~Sachsen.secret.md)
+### #is_/same_as :: [Brand~Sachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Brand~Sachsen.secret.md)
 

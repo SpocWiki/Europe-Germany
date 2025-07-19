@@ -270,17 +270,17 @@ Kölner Dom ( [[Unesco]] 1996)
 
 ## Confidential Links & Embeds: 
 
-### [Köln](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.md) 
+### #is_/same_as :: [Köln](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.md) 
 
-### [Köln.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.public.md) 
+### #is_/same_as :: [Köln.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.public.md) 
 
-### [Köln.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.internal.md) 
+### #is_/same_as :: [Köln.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.internal.md) 
 
-### [Köln.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.protect.md) 
+### #is_/same_as :: [Köln.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.protect.md) 
 
-### [Köln.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.private.md) 
+### #is_/same_as :: [Köln.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.private.md) 
 
-### [Köln.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.personal.md) 
+### #is_/same_as :: [Köln.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.personal.md) 
 
-### [Köln.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.secret.md)
+### #is_/same_as :: [Köln.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.secret.md)
 

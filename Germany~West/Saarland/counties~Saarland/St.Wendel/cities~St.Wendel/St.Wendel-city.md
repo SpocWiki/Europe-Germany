@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Wendel-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/St.Wendel-city.md) 
+### #is_/same_as :: [St.Wendel-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/St.Wendel-city.md) 
 
-### [St.Wendel-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/St.Wendel-city.public.md) 
+### #is_/same_as :: [St.Wendel-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/St.Wendel-city.public.md) 
 
-### [St.Wendel-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/St.Wendel-city.internal.md) 
+### #is_/same_as :: [St.Wendel-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/St.Wendel-city.internal.md) 
 
-### [St.Wendel-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/St.Wendel-city.protect.md) 
+### #is_/same_as :: [St.Wendel-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/St.Wendel-city.protect.md) 
 
-### [St.Wendel-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/St.Wendel-city.private.md) 
+### #is_/same_as :: [St.Wendel-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/St.Wendel-city.private.md) 
 
-### [St.Wendel-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/St.Wendel-city.personal.md) 
+### #is_/same_as :: [St.Wendel-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/St.Wendel-city.personal.md) 
 
-### [St.Wendel-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/St.Wendel-city.secret.md)
+### #is_/same_as :: [St.Wendel-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/St.Wendel/cities~St.Wendel/St.Wendel-city.secret.md)
 

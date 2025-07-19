@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Weissensee](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Weißensee/City/Weissensee.md) 
+### #is_/same_as :: [Weissensee](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Weißensee/City/Weissensee.md) 
 
-### [Weissensee.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Weißensee/City/Weissensee.public.md) 
+### #is_/same_as :: [Weissensee.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Weißensee/City/Weissensee.public.md) 
 
-### [Weissensee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Weißensee/City/Weissensee.internal.md) 
+### #is_/same_as :: [Weissensee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Weißensee/City/Weissensee.internal.md) 
 
-### [Weissensee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Weißensee/City/Weissensee.protect.md) 
+### #is_/same_as :: [Weissensee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Weißensee/City/Weissensee.protect.md) 
 
-### [Weissensee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Weißensee/City/Weissensee.private.md) 
+### #is_/same_as :: [Weissensee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Weißensee/City/Weissensee.private.md) 
 
-### [Weissensee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Weißensee/City/Weissensee.personal.md) 
+### #is_/same_as :: [Weissensee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Weißensee/City/Weissensee.personal.md) 
 
-### [Weissensee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Weißensee/City/Weissensee.secret.md)
+### #is_/same_as :: [Weissensee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Sömmerda/cities~Sömmerda/Weißensee/City/Weissensee.secret.md)
 

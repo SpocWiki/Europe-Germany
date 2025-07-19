@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Scheibenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Scheibenberg-Schlettau/City/Scheibenberg.md) 
+### #is_/same_as :: [Scheibenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Scheibenberg-Schlettau/City/Scheibenberg.md) 
 
-### [Scheibenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Scheibenberg-Schlettau/City/Scheibenberg.public.md) 
+### #is_/same_as :: [Scheibenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Scheibenberg-Schlettau/City/Scheibenberg.public.md) 
 
-### [Scheibenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Scheibenberg-Schlettau/City/Scheibenberg.internal.md) 
+### #is_/same_as :: [Scheibenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Scheibenberg-Schlettau/City/Scheibenberg.internal.md) 
 
-### [Scheibenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Scheibenberg-Schlettau/City/Scheibenberg.protect.md) 
+### #is_/same_as :: [Scheibenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Scheibenberg-Schlettau/City/Scheibenberg.protect.md) 
 
-### [Scheibenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Scheibenberg-Schlettau/City/Scheibenberg.private.md) 
+### #is_/same_as :: [Scheibenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Scheibenberg-Schlettau/City/Scheibenberg.private.md) 
 
-### [Scheibenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Scheibenberg-Schlettau/City/Scheibenberg.personal.md) 
+### #is_/same_as :: [Scheibenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Scheibenberg-Schlettau/City/Scheibenberg.personal.md) 
 
-### [Scheibenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Scheibenberg-Schlettau/City/Scheibenberg.secret.md)
+### #is_/same_as :: [Scheibenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Scheibenberg-Schlettau/City/Scheibenberg.secret.md)
 

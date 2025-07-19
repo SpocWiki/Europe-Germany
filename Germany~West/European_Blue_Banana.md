@@ -53,17 +53,17 @@ to describe this zone of intense economic activity, industrial concentration, an
 
 ## Confidential Links & Embeds: 
 
-### [European_Blue_Banana](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.md) 
+### #is_/same_as :: [European_Blue_Banana](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.md) 
 
-### [European_Blue_Banana.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.public.md) 
+### #is_/same_as :: [European_Blue_Banana.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.public.md) 
 
-### [European_Blue_Banana.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.internal.md) 
+### #is_/same_as :: [European_Blue_Banana.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.internal.md) 
 
-### [European_Blue_Banana.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.protect.md) 
+### #is_/same_as :: [European_Blue_Banana.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.protect.md) 
 
-### [European_Blue_Banana.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.private.md) 
+### #is_/same_as :: [European_Blue_Banana.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.private.md) 
 
-### [European_Blue_Banana.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.personal.md) 
+### #is_/same_as :: [European_Blue_Banana.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.personal.md) 
 
-### [European_Blue_Banana.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.secret.md)
+### #is_/same_as :: [European_Blue_Banana.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.secret.md)
 

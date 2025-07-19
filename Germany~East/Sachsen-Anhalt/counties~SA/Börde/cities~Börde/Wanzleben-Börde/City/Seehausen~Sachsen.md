@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Seehausen~Sachsen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Seehausen~Sachsen.md) 
+### #is_/same_as :: [Seehausen~Sachsen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Seehausen~Sachsen.md) 
 
-### [Seehausen~Sachsen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Seehausen~Sachsen.public.md) 
+### #is_/same_as :: [Seehausen~Sachsen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Seehausen~Sachsen.public.md) 
 
-### [Seehausen~Sachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Seehausen~Sachsen.internal.md) 
+### #is_/same_as :: [Seehausen~Sachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Seehausen~Sachsen.internal.md) 
 
-### [Seehausen~Sachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Seehausen~Sachsen.protect.md) 
+### #is_/same_as :: [Seehausen~Sachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Seehausen~Sachsen.protect.md) 
 
-### [Seehausen~Sachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Seehausen~Sachsen.private.md) 
+### #is_/same_as :: [Seehausen~Sachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Seehausen~Sachsen.private.md) 
 
-### [Seehausen~Sachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Seehausen~Sachsen.personal.md) 
+### #is_/same_as :: [Seehausen~Sachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Seehausen~Sachsen.personal.md) 
 
-### [Seehausen~Sachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Seehausen~Sachsen.secret.md)
+### #is_/same_as :: [Seehausen~Sachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Seehausen~Sachsen.secret.md)
 

@@ -159,17 +159,17 @@ Capital :: [[Magdeburg]] ]]
 
 ## Confidential Links & Embeds: 
 
-### [Sachsen-Anhalt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.md) 
+### #is_/same_as :: [Sachsen-Anhalt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.md) 
 
-### [Sachsen-Anhalt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.public.md) 
+### #is_/same_as :: [Sachsen-Anhalt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.public.md) 
 
-### [Sachsen-Anhalt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.internal.md) 
+### #is_/same_as :: [Sachsen-Anhalt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.internal.md) 
 
-### [Sachsen-Anhalt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.protect.md) 
+### #is_/same_as :: [Sachsen-Anhalt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.protect.md) 
 
-### [Sachsen-Anhalt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.private.md) 
+### #is_/same_as :: [Sachsen-Anhalt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.private.md) 
 
-### [Sachsen-Anhalt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.personal.md) 
+### #is_/same_as :: [Sachsen-Anhalt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.personal.md) 
 
-### [Sachsen-Anhalt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.secret.md)
+### #is_/same_as :: [Sachsen-Anhalt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.secret.md)
 

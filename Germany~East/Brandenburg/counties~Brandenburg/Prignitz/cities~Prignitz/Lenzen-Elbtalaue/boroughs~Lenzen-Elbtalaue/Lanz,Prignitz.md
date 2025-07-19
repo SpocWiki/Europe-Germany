@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lanz,Prignitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Lenzen-Elbtalaue/boroughs~Lenzen-Elbtalaue/Lanz,Prignitz.md) 
+### #is_/same_as :: [Lanz,Prignitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Lenzen-Elbtalaue/boroughs~Lenzen-Elbtalaue/Lanz,Prignitz.md) 
 
-### [Lanz,Prignitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Lenzen-Elbtalaue/boroughs~Lenzen-Elbtalaue/Lanz,Prignitz.public.md) 
+### #is_/same_as :: [Lanz,Prignitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Lenzen-Elbtalaue/boroughs~Lenzen-Elbtalaue/Lanz,Prignitz.public.md) 
 
-### [Lanz,Prignitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Lenzen-Elbtalaue/boroughs~Lenzen-Elbtalaue/Lanz,Prignitz.internal.md) 
+### #is_/same_as :: [Lanz,Prignitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Lenzen-Elbtalaue/boroughs~Lenzen-Elbtalaue/Lanz,Prignitz.internal.md) 
 
-### [Lanz,Prignitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Lenzen-Elbtalaue/boroughs~Lenzen-Elbtalaue/Lanz,Prignitz.protect.md) 
+### #is_/same_as :: [Lanz,Prignitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Lenzen-Elbtalaue/boroughs~Lenzen-Elbtalaue/Lanz,Prignitz.protect.md) 
 
-### [Lanz,Prignitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Lenzen-Elbtalaue/boroughs~Lenzen-Elbtalaue/Lanz,Prignitz.private.md) 
+### #is_/same_as :: [Lanz,Prignitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Lenzen-Elbtalaue/boroughs~Lenzen-Elbtalaue/Lanz,Prignitz.private.md) 
 
-### [Lanz,Prignitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Lenzen-Elbtalaue/boroughs~Lenzen-Elbtalaue/Lanz,Prignitz.personal.md) 
+### #is_/same_as :: [Lanz,Prignitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Lenzen-Elbtalaue/boroughs~Lenzen-Elbtalaue/Lanz,Prignitz.personal.md) 
 
-### [Lanz,Prignitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Lenzen-Elbtalaue/boroughs~Lenzen-Elbtalaue/Lanz,Prignitz.secret.md)
+### #is_/same_as :: [Lanz,Prignitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Lenzen-Elbtalaue/boroughs~Lenzen-Elbtalaue/Lanz,Prignitz.secret.md)
 

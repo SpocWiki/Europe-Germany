@@ -172,17 +172,17 @@ Capital :: [[Duesseldorf]]
 
 ## Confidential Links & Embeds: 
 
-### [Nordrhein-Westfalen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.md) 
+### #is_/same_as :: [Nordrhein-Westfalen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.md) 
 
-### [Nordrhein-Westfalen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.public.md) 
+### #is_/same_as :: [Nordrhein-Westfalen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.public.md) 
 
-### [Nordrhein-Westfalen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.internal.md) 
+### #is_/same_as :: [Nordrhein-Westfalen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.internal.md) 
 
-### [Nordrhein-Westfalen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.protect.md) 
+### #is_/same_as :: [Nordrhein-Westfalen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.protect.md) 
 
-### [Nordrhein-Westfalen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.private.md) 
+### #is_/same_as :: [Nordrhein-Westfalen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.private.md) 
 
-### [Nordrhein-Westfalen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.personal.md) 
+### #is_/same_as :: [Nordrhein-Westfalen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.personal.md) 
 
-### [Nordrhein-Westfalen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.secret.md)
+### #is_/same_as :: [Nordrhein-Westfalen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.secret.md)
 

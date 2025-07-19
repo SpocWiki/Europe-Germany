@@ -37,17 +37,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Königslutter](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Königslutter~Elm/boroughs~Königslutter~Elm/Königslutter.md) 
+### #is_/same_as :: [Königslutter](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Königslutter~Elm/boroughs~Königslutter~Elm/Königslutter.md) 
 
-### [Königslutter.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Königslutter~Elm/boroughs~Königslutter~Elm/Königslutter.public.md) 
+### #is_/same_as :: [Königslutter.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Königslutter~Elm/boroughs~Königslutter~Elm/Königslutter.public.md) 
 
-### [Königslutter.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Königslutter~Elm/boroughs~Königslutter~Elm/Königslutter.internal.md) 
+### #is_/same_as :: [Königslutter.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Königslutter~Elm/boroughs~Königslutter~Elm/Königslutter.internal.md) 
 
-### [Königslutter.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Königslutter~Elm/boroughs~Königslutter~Elm/Königslutter.protect.md) 
+### #is_/same_as :: [Königslutter.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Königslutter~Elm/boroughs~Königslutter~Elm/Königslutter.protect.md) 
 
-### [Königslutter.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Königslutter~Elm/boroughs~Königslutter~Elm/Königslutter.private.md) 
+### #is_/same_as :: [Königslutter.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Königslutter~Elm/boroughs~Königslutter~Elm/Königslutter.private.md) 
 
-### [Königslutter.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Königslutter~Elm/boroughs~Königslutter~Elm/Königslutter.personal.md) 
+### #is_/same_as :: [Königslutter.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Königslutter~Elm/boroughs~Königslutter~Elm/Königslutter.personal.md) 
 
-### [Königslutter.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Königslutter~Elm/boroughs~Königslutter~Elm/Königslutter.secret.md)
+### #is_/same_as :: [Königslutter.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Königslutter~Elm/boroughs~Königslutter~Elm/Königslutter.secret.md)
 

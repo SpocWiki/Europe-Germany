@@ -35,17 +35,17 @@ Kloster Lorsch und Altenmünster ( [[Unesco]] Welterbe seit 1991)
 
 ## Confidential Links & Embeds: 
 
-### [Lorsch](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.md) 
+### #is_/same_as :: [Lorsch](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.md) 
 
-### [Lorsch.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.public.md) 
+### #is_/same_as :: [Lorsch.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.public.md) 
 
-### [Lorsch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.internal.md) 
+### #is_/same_as :: [Lorsch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.internal.md) 
 
-### [Lorsch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.protect.md) 
+### #is_/same_as :: [Lorsch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.protect.md) 
 
-### [Lorsch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.private.md) 
+### #is_/same_as :: [Lorsch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.private.md) 
 
-### [Lorsch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.personal.md) 
+### #is_/same_as :: [Lorsch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.personal.md) 
 
-### [Lorsch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.secret.md)
+### #is_/same_as :: [Lorsch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch.secret.md)
 

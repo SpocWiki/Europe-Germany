@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schötmar](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad/Schötmar.md) 
+### #is_/same_as :: [Schötmar](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad/Schötmar.md) 
 
-### [Schötmar.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad/Schötmar.public.md) 
+### #is_/same_as :: [Schötmar.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad/Schötmar.public.md) 
 
-### [Schötmar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad/Schötmar.internal.md) 
+### #is_/same_as :: [Schötmar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad/Schötmar.internal.md) 
 
-### [Schötmar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad/Schötmar.protect.md) 
+### #is_/same_as :: [Schötmar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad/Schötmar.protect.md) 
 
-### [Schötmar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad/Schötmar.private.md) 
+### #is_/same_as :: [Schötmar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad/Schötmar.private.md) 
 
-### [Schötmar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad/Schötmar.personal.md) 
+### #is_/same_as :: [Schötmar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad/Schötmar.personal.md) 
 
-### [Schötmar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad/Schötmar.secret.md)
+### #is_/same_as :: [Schötmar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad/Schötmar.secret.md)
 

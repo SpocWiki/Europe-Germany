@@ -190,17 +190,17 @@ Capital :: [[Kiel]]
 
 ## Confidential Links & Embeds: 
 
-### [Schleswig-Holstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.md) 
+### #is_/same_as :: [Schleswig-Holstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.md) 
 
-### [Schleswig-Holstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.public.md) 
+### #is_/same_as :: [Schleswig-Holstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.public.md) 
 
-### [Schleswig-Holstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.internal.md) 
+### #is_/same_as :: [Schleswig-Holstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.internal.md) 
 
-### [Schleswig-Holstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.protect.md) 
+### #is_/same_as :: [Schleswig-Holstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.protect.md) 
 
-### [Schleswig-Holstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.private.md) 
+### #is_/same_as :: [Schleswig-Holstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.private.md) 
 
-### [Schleswig-Holstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.personal.md) 
+### #is_/same_as :: [Schleswig-Holstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.personal.md) 
 
-### [Schleswig-Holstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.secret.md)
+### #is_/same_as :: [Schleswig-Holstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.secret.md)
 

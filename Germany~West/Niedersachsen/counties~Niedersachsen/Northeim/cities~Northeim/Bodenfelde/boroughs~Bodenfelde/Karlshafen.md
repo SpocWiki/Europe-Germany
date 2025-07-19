@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Karlshafen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bodenfelde/boroughs~Bodenfelde/Karlshafen.md) 
+### #is_/same_as :: [Karlshafen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bodenfelde/boroughs~Bodenfelde/Karlshafen.md) 
 
-### [Karlshafen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bodenfelde/boroughs~Bodenfelde/Karlshafen.public.md) 
+### #is_/same_as :: [Karlshafen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bodenfelde/boroughs~Bodenfelde/Karlshafen.public.md) 
 
-### [Karlshafen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bodenfelde/boroughs~Bodenfelde/Karlshafen.internal.md) 
+### #is_/same_as :: [Karlshafen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bodenfelde/boroughs~Bodenfelde/Karlshafen.internal.md) 
 
-### [Karlshafen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bodenfelde/boroughs~Bodenfelde/Karlshafen.protect.md) 
+### #is_/same_as :: [Karlshafen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bodenfelde/boroughs~Bodenfelde/Karlshafen.protect.md) 
 
-### [Karlshafen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bodenfelde/boroughs~Bodenfelde/Karlshafen.private.md) 
+### #is_/same_as :: [Karlshafen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bodenfelde/boroughs~Bodenfelde/Karlshafen.private.md) 
 
-### [Karlshafen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bodenfelde/boroughs~Bodenfelde/Karlshafen.personal.md) 
+### #is_/same_as :: [Karlshafen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bodenfelde/boroughs~Bodenfelde/Karlshafen.personal.md) 
 
-### [Karlshafen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bodenfelde/boroughs~Bodenfelde/Karlshafen.secret.md)
+### #is_/same_as :: [Karlshafen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Bodenfelde/boroughs~Bodenfelde/Karlshafen.secret.md)
 

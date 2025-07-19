@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Burgsteinfurth-castle](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Burgsteinfurth-castle.md) 
+### #is_/same_as :: [Burgsteinfurth-castle](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Burgsteinfurth-castle.md) 
 
-### [Burgsteinfurth-castle.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Burgsteinfurth-castle.public.md) 
+### #is_/same_as :: [Burgsteinfurth-castle.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Burgsteinfurth-castle.public.md) 
 
-### [Burgsteinfurth-castle.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Burgsteinfurth-castle.internal.md) 
+### #is_/same_as :: [Burgsteinfurth-castle.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Burgsteinfurth-castle.internal.md) 
 
-### [Burgsteinfurth-castle.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Burgsteinfurth-castle.protect.md) 
+### #is_/same_as :: [Burgsteinfurth-castle.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Burgsteinfurth-castle.protect.md) 
 
-### [Burgsteinfurth-castle.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Burgsteinfurth-castle.private.md) 
+### #is_/same_as :: [Burgsteinfurth-castle.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Burgsteinfurth-castle.private.md) 
 
-### [Burgsteinfurth-castle.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Burgsteinfurth-castle.personal.md) 
+### #is_/same_as :: [Burgsteinfurth-castle.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Burgsteinfurth-castle.personal.md) 
 
-### [Burgsteinfurth-castle.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Burgsteinfurth-castle.secret.md)
+### #is_/same_as :: [Burgsteinfurth-castle.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Steinfurt/cities~Steinfurt/Steinfurt-city/Burgsteinfurth-castle.secret.md)
 

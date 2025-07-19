@@ -18,17 +18,17 @@ fosters traditional Marriage
 
 ## Confidential Links & Embeds: 
 
-### [Ehegatten-Splitting](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Ehegatten-Splitting.md) 
+### #is_/same_as :: [Ehegatten-Splitting](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Ehegatten-Splitting.md) 
 
-### [Ehegatten-Splitting.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Ehegatten-Splitting.public.md) 
+### #is_/same_as :: [Ehegatten-Splitting.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Ehegatten-Splitting.public.md) 
 
-### [Ehegatten-Splitting.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Ehegatten-Splitting.internal.md) 
+### #is_/same_as :: [Ehegatten-Splitting.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Ehegatten-Splitting.internal.md) 
 
-### [Ehegatten-Splitting.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Ehegatten-Splitting.protect.md) 
+### #is_/same_as :: [Ehegatten-Splitting.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Ehegatten-Splitting.protect.md) 
 
-### [Ehegatten-Splitting.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Ehegatten-Splitting.private.md) 
+### #is_/same_as :: [Ehegatten-Splitting.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Ehegatten-Splitting.private.md) 
 
-### [Ehegatten-Splitting.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Ehegatten-Splitting.personal.md) 
+### #is_/same_as :: [Ehegatten-Splitting.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Ehegatten-Splitting.personal.md) 
 
-### [Ehegatten-Splitting.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Ehegatten-Splitting.secret.md)
+### #is_/same_as :: [Ehegatten-Splitting.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Ehegatten-Splitting.secret.md)
 

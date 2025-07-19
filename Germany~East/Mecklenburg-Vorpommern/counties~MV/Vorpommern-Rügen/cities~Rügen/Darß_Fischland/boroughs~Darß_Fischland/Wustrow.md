@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wustrow](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Darß_Fischland/boroughs~Darß_Fischland/Wustrow.md) 
+### #is_/same_as :: [Wustrow](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Darß_Fischland/boroughs~Darß_Fischland/Wustrow.md) 
 
-### [Wustrow.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Darß_Fischland/boroughs~Darß_Fischland/Wustrow.public.md) 
+### #is_/same_as :: [Wustrow.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Darß_Fischland/boroughs~Darß_Fischland/Wustrow.public.md) 
 
-### [Wustrow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Darß_Fischland/boroughs~Darß_Fischland/Wustrow.internal.md) 
+### #is_/same_as :: [Wustrow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Darß_Fischland/boroughs~Darß_Fischland/Wustrow.internal.md) 
 
-### [Wustrow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Darß_Fischland/boroughs~Darß_Fischland/Wustrow.protect.md) 
+### #is_/same_as :: [Wustrow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Darß_Fischland/boroughs~Darß_Fischland/Wustrow.protect.md) 
 
-### [Wustrow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Darß_Fischland/boroughs~Darß_Fischland/Wustrow.private.md) 
+### #is_/same_as :: [Wustrow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Darß_Fischland/boroughs~Darß_Fischland/Wustrow.private.md) 
 
-### [Wustrow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Darß_Fischland/boroughs~Darß_Fischland/Wustrow.personal.md) 
+### #is_/same_as :: [Wustrow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Darß_Fischland/boroughs~Darß_Fischland/Wustrow.personal.md) 
 
-### [Wustrow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Darß_Fischland/boroughs~Darß_Fischland/Wustrow.secret.md)
+### #is_/same_as :: [Wustrow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Darß_Fischland/boroughs~Darß_Fischland/Wustrow.secret.md)
 

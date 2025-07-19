@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wagenitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Mühlenberge/Wagenitz.md) 
+### #is_/same_as :: [Wagenitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Mühlenberge/Wagenitz.md) 
 
-### [Wagenitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Mühlenberge/Wagenitz.public.md) 
+### #is_/same_as :: [Wagenitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Mühlenberge/Wagenitz.public.md) 
 
-### [Wagenitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Mühlenberge/Wagenitz.internal.md) 
+### #is_/same_as :: [Wagenitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Mühlenberge/Wagenitz.internal.md) 
 
-### [Wagenitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Mühlenberge/Wagenitz.protect.md) 
+### #is_/same_as :: [Wagenitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Mühlenberge/Wagenitz.protect.md) 
 
-### [Wagenitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Mühlenberge/Wagenitz.private.md) 
+### #is_/same_as :: [Wagenitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Mühlenberge/Wagenitz.private.md) 
 
-### [Wagenitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Mühlenberge/Wagenitz.personal.md) 
+### #is_/same_as :: [Wagenitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Mühlenberge/Wagenitz.personal.md) 
 
-### [Wagenitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Mühlenberge/Wagenitz.secret.md)
+### #is_/same_as :: [Wagenitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Friesack/boroughs~Friesack/Mühlenberge/Wagenitz.secret.md)
 

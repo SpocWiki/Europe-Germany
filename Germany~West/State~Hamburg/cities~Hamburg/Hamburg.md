@@ -263,17 +263,17 @@ mit ihren detailgetreu nachgebauten Wohnhäusern aus dem 17. Jahrhundert.
 
 ## Confidential Links & Embeds: 
 
-### [Hamburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Hamburg.md) 
+### #is_/same_as :: [Hamburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Hamburg.md) 
 
-### [Hamburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Hamburg.public.md) 
+### #is_/same_as :: [Hamburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Hamburg.public.md) 
 
-### [Hamburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Hamburg.internal.md) 
+### #is_/same_as :: [Hamburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Hamburg.internal.md) 
 
-### [Hamburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Hamburg.protect.md) 
+### #is_/same_as :: [Hamburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Hamburg.protect.md) 
 
-### [Hamburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Hamburg.private.md) 
+### #is_/same_as :: [Hamburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Hamburg.private.md) 
 
-### [Hamburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Hamburg.personal.md) 
+### #is_/same_as :: [Hamburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Hamburg.personal.md) 
 
-### [Hamburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Hamburg.secret.md)
+### #is_/same_as :: [Hamburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Hamburg.secret.md)
 

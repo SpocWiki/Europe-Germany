@@ -39,17 +39,17 @@ Capital :: [[Hamburg]] ]
 
 ## Confidential Links & Embeds: 
 
-### [State~Hamburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.md) 
+### #is_/same_as :: [State~Hamburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.md) 
 
-### [State~Hamburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.public.md) 
+### #is_/same_as :: [State~Hamburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.public.md) 
 
-### [State~Hamburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.internal.md) 
+### #is_/same_as :: [State~Hamburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.internal.md) 
 
-### [State~Hamburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.protect.md) 
+### #is_/same_as :: [State~Hamburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.protect.md) 
 
-### [State~Hamburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.private.md) 
+### #is_/same_as :: [State~Hamburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.private.md) 
 
-### [State~Hamburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.personal.md) 
+### #is_/same_as :: [State~Hamburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.personal.md) 
 
-### [State~Hamburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.secret.md)
+### #is_/same_as :: [State~Hamburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.secret.md)
 

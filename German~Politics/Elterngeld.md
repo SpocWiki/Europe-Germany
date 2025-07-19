@@ -18,17 +18,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Elterngeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Elterngeld.md) 
+### #is_/same_as :: [Elterngeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Elterngeld.md) 
 
-### [Elterngeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Elterngeld.public.md) 
+### #is_/same_as :: [Elterngeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Elterngeld.public.md) 
 
-### [Elterngeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Elterngeld.internal.md) 
+### #is_/same_as :: [Elterngeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Elterngeld.internal.md) 
 
-### [Elterngeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Elterngeld.protect.md) 
+### #is_/same_as :: [Elterngeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Elterngeld.protect.md) 
 
-### [Elterngeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Elterngeld.private.md) 
+### #is_/same_as :: [Elterngeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Elterngeld.private.md) 
 
-### [Elterngeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Elterngeld.personal.md) 
+### #is_/same_as :: [Elterngeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Elterngeld.personal.md) 
 
-### [Elterngeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Elterngeld.secret.md)
+### #is_/same_as :: [Elterngeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Elterngeld.secret.md)
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Frauenstein~Sachsen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Frauenstein/City/Frauenstein~Sachsen.md) 
+### #is_/same_as :: [Frauenstein~Sachsen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Frauenstein/City/Frauenstein~Sachsen.md) 
 
-### [Frauenstein~Sachsen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Frauenstein/City/Frauenstein~Sachsen.public.md) 
+### #is_/same_as :: [Frauenstein~Sachsen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Frauenstein/City/Frauenstein~Sachsen.public.md) 
 
-### [Frauenstein~Sachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Frauenstein/City/Frauenstein~Sachsen.internal.md) 
+### #is_/same_as :: [Frauenstein~Sachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Frauenstein/City/Frauenstein~Sachsen.internal.md) 
 
-### [Frauenstein~Sachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Frauenstein/City/Frauenstein~Sachsen.protect.md) 
+### #is_/same_as :: [Frauenstein~Sachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Frauenstein/City/Frauenstein~Sachsen.protect.md) 
 
-### [Frauenstein~Sachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Frauenstein/City/Frauenstein~Sachsen.private.md) 
+### #is_/same_as :: [Frauenstein~Sachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Frauenstein/City/Frauenstein~Sachsen.private.md) 
 
-### [Frauenstein~Sachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Frauenstein/City/Frauenstein~Sachsen.personal.md) 
+### #is_/same_as :: [Frauenstein~Sachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Frauenstein/City/Frauenstein~Sachsen.personal.md) 
 
-### [Frauenstein~Sachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Frauenstein/City/Frauenstein~Sachsen.secret.md)
+### #is_/same_as :: [Frauenstein~Sachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Frauenstein/City/Frauenstein~Sachsen.secret.md)
 

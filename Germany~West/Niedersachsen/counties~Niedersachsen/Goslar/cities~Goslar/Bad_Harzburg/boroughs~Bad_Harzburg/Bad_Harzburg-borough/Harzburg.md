@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Harzburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Bad_Harzburg/boroughs~Bad_Harzburg/Bad_Harzburg-borough/Harzburg.md) 
+### #is_/same_as :: [Harzburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Bad_Harzburg/boroughs~Bad_Harzburg/Bad_Harzburg-borough/Harzburg.md) 
 
-### [Harzburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Bad_Harzburg/boroughs~Bad_Harzburg/Bad_Harzburg-borough/Harzburg.public.md) 
+### #is_/same_as :: [Harzburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Bad_Harzburg/boroughs~Bad_Harzburg/Bad_Harzburg-borough/Harzburg.public.md) 
 
-### [Harzburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Bad_Harzburg/boroughs~Bad_Harzburg/Bad_Harzburg-borough/Harzburg.internal.md) 
+### #is_/same_as :: [Harzburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Bad_Harzburg/boroughs~Bad_Harzburg/Bad_Harzburg-borough/Harzburg.internal.md) 
 
-### [Harzburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Bad_Harzburg/boroughs~Bad_Harzburg/Bad_Harzburg-borough/Harzburg.protect.md) 
+### #is_/same_as :: [Harzburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Bad_Harzburg/boroughs~Bad_Harzburg/Bad_Harzburg-borough/Harzburg.protect.md) 
 
-### [Harzburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Bad_Harzburg/boroughs~Bad_Harzburg/Bad_Harzburg-borough/Harzburg.private.md) 
+### #is_/same_as :: [Harzburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Bad_Harzburg/boroughs~Bad_Harzburg/Bad_Harzburg-borough/Harzburg.private.md) 
 
-### [Harzburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Bad_Harzburg/boroughs~Bad_Harzburg/Bad_Harzburg-borough/Harzburg.personal.md) 
+### #is_/same_as :: [Harzburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Bad_Harzburg/boroughs~Bad_Harzburg/Bad_Harzburg-borough/Harzburg.personal.md) 
 
-### [Harzburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Bad_Harzburg/boroughs~Bad_Harzburg/Bad_Harzburg-borough/Harzburg.secret.md)
+### #is_/same_as :: [Harzburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Bad_Harzburg/boroughs~Bad_Harzburg/Bad_Harzburg-borough/Harzburg.secret.md)
 

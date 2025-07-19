@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Spiegelsberge](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Halberstadt/City/Spiegelsberge.md) 
+### #is_/same_as :: [Spiegelsberge](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Halberstadt/City/Spiegelsberge.md) 
 
-### [Spiegelsberge.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Halberstadt/City/Spiegelsberge.public.md) 
+### #is_/same_as :: [Spiegelsberge.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Halberstadt/City/Spiegelsberge.public.md) 
 
-### [Spiegelsberge.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Halberstadt/City/Spiegelsberge.internal.md) 
+### #is_/same_as :: [Spiegelsberge.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Halberstadt/City/Spiegelsberge.internal.md) 
 
-### [Spiegelsberge.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Halberstadt/City/Spiegelsberge.protect.md) 
+### #is_/same_as :: [Spiegelsberge.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Halberstadt/City/Spiegelsberge.protect.md) 
 
-### [Spiegelsberge.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Halberstadt/City/Spiegelsberge.private.md) 
+### #is_/same_as :: [Spiegelsberge.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Halberstadt/City/Spiegelsberge.private.md) 
 
-### [Spiegelsberge.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Halberstadt/City/Spiegelsberge.personal.md) 
+### #is_/same_as :: [Spiegelsberge.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Halberstadt/City/Spiegelsberge.personal.md) 
 
-### [Spiegelsberge.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Halberstadt/City/Spiegelsberge.secret.md)
+### #is_/same_as :: [Spiegelsberge.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Halberstadt/City/Spiegelsberge.secret.md)
 

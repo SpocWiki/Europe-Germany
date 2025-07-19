@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fuerstenberg~Westfahlen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Boffzen/boroughs~Boffzen/Fuerstenberg~Westfahlen.md) 
+### #is_/same_as :: [Fuerstenberg~Westfahlen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Boffzen/boroughs~Boffzen/Fuerstenberg~Westfahlen.md) 
 
-### [Fuerstenberg~Westfahlen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Boffzen/boroughs~Boffzen/Fuerstenberg~Westfahlen.public.md) 
+### #is_/same_as :: [Fuerstenberg~Westfahlen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Boffzen/boroughs~Boffzen/Fuerstenberg~Westfahlen.public.md) 
 
-### [Fuerstenberg~Westfahlen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Boffzen/boroughs~Boffzen/Fuerstenberg~Westfahlen.internal.md) 
+### #is_/same_as :: [Fuerstenberg~Westfahlen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Boffzen/boroughs~Boffzen/Fuerstenberg~Westfahlen.internal.md) 
 
-### [Fuerstenberg~Westfahlen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Boffzen/boroughs~Boffzen/Fuerstenberg~Westfahlen.protect.md) 
+### #is_/same_as :: [Fuerstenberg~Westfahlen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Boffzen/boroughs~Boffzen/Fuerstenberg~Westfahlen.protect.md) 
 
-### [Fuerstenberg~Westfahlen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Boffzen/boroughs~Boffzen/Fuerstenberg~Westfahlen.private.md) 
+### #is_/same_as :: [Fuerstenberg~Westfahlen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Boffzen/boroughs~Boffzen/Fuerstenberg~Westfahlen.private.md) 
 
-### [Fuerstenberg~Westfahlen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Boffzen/boroughs~Boffzen/Fuerstenberg~Westfahlen.personal.md) 
+### #is_/same_as :: [Fuerstenberg~Westfahlen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Boffzen/boroughs~Boffzen/Fuerstenberg~Westfahlen.personal.md) 
 
-### [Fuerstenberg~Westfahlen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Boffzen/boroughs~Boffzen/Fuerstenberg~Westfahlen.secret.md)
+### #is_/same_as :: [Fuerstenberg~Westfahlen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Boffzen/boroughs~Boffzen/Fuerstenberg~Westfahlen.secret.md)
 

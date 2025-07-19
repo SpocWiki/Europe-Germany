@@ -39,17 +39,17 @@ has_place_continent:: [[Europe]]
 
 ## Confidential Links & Embeds: 
 
-### [Germany~East](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East.md) 
+### #is_/same_as :: [Germany~East](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East.md) 
 
-### [Germany~East.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East.public.md) 
+### #is_/same_as :: [Germany~East.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East.public.md) 
 
-### [Germany~East.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East.internal.md) 
+### #is_/same_as :: [Germany~East.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East.internal.md) 
 
-### [Germany~East.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East.protect.md) 
+### #is_/same_as :: [Germany~East.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East.protect.md) 
 
-### [Germany~East.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East.private.md) 
+### #is_/same_as :: [Germany~East.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East.private.md) 
 
-### [Germany~East.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East.personal.md) 
+### #is_/same_as :: [Germany~East.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East.personal.md) 
 
-### [Germany~East.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East.secret.md)
+### #is_/same_as :: [Germany~East.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East.secret.md)
 

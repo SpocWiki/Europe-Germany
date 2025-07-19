@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kropp](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kropp-Stapelholm/boroughs~Kropp/Kropp.md) 
+### #is_/same_as :: [Kropp](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kropp-Stapelholm/boroughs~Kropp/Kropp.md) 
 
-### [Kropp.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kropp-Stapelholm/boroughs~Kropp/Kropp.public.md) 
+### #is_/same_as :: [Kropp.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kropp-Stapelholm/boroughs~Kropp/Kropp.public.md) 
 
-### [Kropp.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kropp-Stapelholm/boroughs~Kropp/Kropp.internal.md) 
+### #is_/same_as :: [Kropp.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kropp-Stapelholm/boroughs~Kropp/Kropp.internal.md) 
 
-### [Kropp.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kropp-Stapelholm/boroughs~Kropp/Kropp.protect.md) 
+### #is_/same_as :: [Kropp.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kropp-Stapelholm/boroughs~Kropp/Kropp.protect.md) 
 
-### [Kropp.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kropp-Stapelholm/boroughs~Kropp/Kropp.private.md) 
+### #is_/same_as :: [Kropp.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kropp-Stapelholm/boroughs~Kropp/Kropp.private.md) 
 
-### [Kropp.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kropp-Stapelholm/boroughs~Kropp/Kropp.personal.md) 
+### #is_/same_as :: [Kropp.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kropp-Stapelholm/boroughs~Kropp/Kropp.personal.md) 
 
-### [Kropp.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kropp-Stapelholm/boroughs~Kropp/Kropp.secret.md)
+### #is_/same_as :: [Kropp.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Kropp-Stapelholm/boroughs~Kropp/Kropp.secret.md)
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wittstock_Dosse-City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Wittstock_Dosse-City.md) 
+### #is_/same_as :: [Wittstock_Dosse-City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Wittstock_Dosse-City.md) 
 
-### [Wittstock_Dosse-City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Wittstock_Dosse-City.public.md) 
+### #is_/same_as :: [Wittstock_Dosse-City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Wittstock_Dosse-City.public.md) 
 
-### [Wittstock_Dosse-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Wittstock_Dosse-City.internal.md) 
+### #is_/same_as :: [Wittstock_Dosse-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Wittstock_Dosse-City.internal.md) 
 
-### [Wittstock_Dosse-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Wittstock_Dosse-City.protect.md) 
+### #is_/same_as :: [Wittstock_Dosse-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Wittstock_Dosse-City.protect.md) 
 
-### [Wittstock_Dosse-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Wittstock_Dosse-City.private.md) 
+### #is_/same_as :: [Wittstock_Dosse-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Wittstock_Dosse-City.private.md) 
 
-### [Wittstock_Dosse-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Wittstock_Dosse-City.personal.md) 
+### #is_/same_as :: [Wittstock_Dosse-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Wittstock_Dosse-City.personal.md) 
 
-### [Wittstock_Dosse-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Wittstock_Dosse-City.secret.md)
+### #is_/same_as :: [Wittstock_Dosse-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Wittstock~Dosse/boroughs~Wittstock~Dosse/Wittstock_Dosse-City.secret.md)
 

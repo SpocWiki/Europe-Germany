@@ -44,17 +44,17 @@ der Dicke sowie der Reichenbacher Turm.
 
 ## Confidential Links & Embeds: 
 
-### [Görlitz-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.md) 
+### #is_/same_as :: [Görlitz-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.md) 
 
-### [Görlitz-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.public.md) 
+### #is_/same_as :: [Görlitz-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.public.md) 
 
-### [Görlitz-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.internal.md) 
+### #is_/same_as :: [Görlitz-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.internal.md) 
 
-### [Görlitz-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.protect.md) 
+### #is_/same_as :: [Görlitz-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.protect.md) 
 
-### [Görlitz-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.private.md) 
+### #is_/same_as :: [Görlitz-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.private.md) 
 
-### [Görlitz-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.personal.md) 
+### #is_/same_as :: [Görlitz-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.personal.md) 
 
-### [Görlitz-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.secret.md)
+### #is_/same_as :: [Görlitz-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.secret.md)
 

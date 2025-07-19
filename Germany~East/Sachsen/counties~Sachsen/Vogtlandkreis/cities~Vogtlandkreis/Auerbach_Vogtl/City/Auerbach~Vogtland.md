@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Auerbach~Vogtland](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Auerbach_Vogtl/City/Auerbach~Vogtland.md) 
+### #is_/same_as :: [Auerbach~Vogtland](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Auerbach_Vogtl/City/Auerbach~Vogtland.md) 
 
-### [Auerbach~Vogtland.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Auerbach_Vogtl/City/Auerbach~Vogtland.public.md) 
+### #is_/same_as :: [Auerbach~Vogtland.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Auerbach_Vogtl/City/Auerbach~Vogtland.public.md) 
 
-### [Auerbach~Vogtland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Auerbach_Vogtl/City/Auerbach~Vogtland.internal.md) 
+### #is_/same_as :: [Auerbach~Vogtland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Auerbach_Vogtl/City/Auerbach~Vogtland.internal.md) 
 
-### [Auerbach~Vogtland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Auerbach_Vogtl/City/Auerbach~Vogtland.protect.md) 
+### #is_/same_as :: [Auerbach~Vogtland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Auerbach_Vogtl/City/Auerbach~Vogtland.protect.md) 
 
-### [Auerbach~Vogtland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Auerbach_Vogtl/City/Auerbach~Vogtland.private.md) 
+### #is_/same_as :: [Auerbach~Vogtland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Auerbach_Vogtl/City/Auerbach~Vogtland.private.md) 
 
-### [Auerbach~Vogtland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Auerbach_Vogtl/City/Auerbach~Vogtland.personal.md) 
+### #is_/same_as :: [Auerbach~Vogtland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Auerbach_Vogtl/City/Auerbach~Vogtland.personal.md) 
 
-### [Auerbach~Vogtland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Auerbach_Vogtl/City/Auerbach~Vogtland.secret.md)
+### #is_/same_as :: [Auerbach~Vogtland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Auerbach_Vogtl/City/Auerbach~Vogtland.secret.md)
 
