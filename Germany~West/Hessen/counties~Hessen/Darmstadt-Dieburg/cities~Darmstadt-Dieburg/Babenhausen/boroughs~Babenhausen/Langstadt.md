@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Langstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Babenhausen/boroughs~Babenhausen/Langstadt.md) 
+### #is_/same_as :: [Langstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Babenhausen/boroughs~Babenhausen/Langstadt.md) 
 
-### [Langstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Babenhausen/boroughs~Babenhausen/Langstadt.public.md) 
+### #is_/same_as :: [Langstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Babenhausen/boroughs~Babenhausen/Langstadt.public.md) 
 
-### [Langstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Babenhausen/boroughs~Babenhausen/Langstadt.internal.md) 
+### #is_/same_as :: [Langstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Babenhausen/boroughs~Babenhausen/Langstadt.internal.md) 
 
-### [Langstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Babenhausen/boroughs~Babenhausen/Langstadt.protect.md) 
+### #is_/same_as :: [Langstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Babenhausen/boroughs~Babenhausen/Langstadt.protect.md) 
 
-### [Langstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Babenhausen/boroughs~Babenhausen/Langstadt.private.md) 
+### #is_/same_as :: [Langstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Babenhausen/boroughs~Babenhausen/Langstadt.private.md) 
 
-### [Langstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Babenhausen/boroughs~Babenhausen/Langstadt.personal.md) 
+### #is_/same_as :: [Langstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Babenhausen/boroughs~Babenhausen/Langstadt.personal.md) 
 
-### [Langstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Babenhausen/boroughs~Babenhausen/Langstadt.secret.md)
+### #is_/same_as :: [Langstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Babenhausen/boroughs~Babenhausen/Langstadt.secret.md)
 

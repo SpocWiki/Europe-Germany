@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Salzungen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Salzungen/City/Salzungen.md) 
+### #is_/same_as :: [Salzungen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Salzungen/City/Salzungen.md) 
 
-### [Salzungen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Salzungen/City/Salzungen.public.md) 
+### #is_/same_as :: [Salzungen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Salzungen/City/Salzungen.public.md) 
 
-### [Salzungen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Salzungen/City/Salzungen.internal.md) 
+### #is_/same_as :: [Salzungen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Salzungen/City/Salzungen.internal.md) 
 
-### [Salzungen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Salzungen/City/Salzungen.protect.md) 
+### #is_/same_as :: [Salzungen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Salzungen/City/Salzungen.protect.md) 
 
-### [Salzungen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Salzungen/City/Salzungen.private.md) 
+### #is_/same_as :: [Salzungen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Salzungen/City/Salzungen.private.md) 
 
-### [Salzungen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Salzungen/City/Salzungen.personal.md) 
+### #is_/same_as :: [Salzungen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Salzungen/City/Salzungen.personal.md) 
 
-### [Salzungen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Salzungen/City/Salzungen.secret.md)
+### #is_/same_as :: [Salzungen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis/cities~Wartburgkreis/Bad_Salzungen/City/Salzungen.secret.md)
 

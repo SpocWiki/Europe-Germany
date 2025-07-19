@@ -37,17 +37,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lödingsen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Adelebsen/boroughs~Adelebsen/Lödingsen.md) 
+### #is_/same_as :: [Lödingsen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Adelebsen/boroughs~Adelebsen/Lödingsen.md) 
 
-### [Lödingsen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Adelebsen/boroughs~Adelebsen/Lödingsen.public.md) 
+### #is_/same_as :: [Lödingsen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Adelebsen/boroughs~Adelebsen/Lödingsen.public.md) 
 
-### [Lödingsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Adelebsen/boroughs~Adelebsen/Lödingsen.internal.md) 
+### #is_/same_as :: [Lödingsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Adelebsen/boroughs~Adelebsen/Lödingsen.internal.md) 
 
-### [Lödingsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Adelebsen/boroughs~Adelebsen/Lödingsen.protect.md) 
+### #is_/same_as :: [Lödingsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Adelebsen/boroughs~Adelebsen/Lödingsen.protect.md) 
 
-### [Lödingsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Adelebsen/boroughs~Adelebsen/Lödingsen.private.md) 
+### #is_/same_as :: [Lödingsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Adelebsen/boroughs~Adelebsen/Lödingsen.private.md) 
 
-### [Lödingsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Adelebsen/boroughs~Adelebsen/Lödingsen.personal.md) 
+### #is_/same_as :: [Lödingsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Adelebsen/boroughs~Adelebsen/Lödingsen.personal.md) 
 
-### [Lödingsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Adelebsen/boroughs~Adelebsen/Lödingsen.secret.md)
+### #is_/same_as :: [Lödingsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Adelebsen/boroughs~Adelebsen/Lödingsen.secret.md)
 

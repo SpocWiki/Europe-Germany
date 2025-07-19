@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gotha](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Gotha-city/City/Gotha.md) 
+### #is_/same_as :: [Gotha](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Gotha-city/City/Gotha.md) 
 
-### [Gotha.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Gotha-city/City/Gotha.public.md) 
+### #is_/same_as :: [Gotha.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Gotha-city/City/Gotha.public.md) 
 
-### [Gotha.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Gotha-city/City/Gotha.internal.md) 
+### #is_/same_as :: [Gotha.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Gotha-city/City/Gotha.internal.md) 
 
-### [Gotha.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Gotha-city/City/Gotha.protect.md) 
+### #is_/same_as :: [Gotha.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Gotha-city/City/Gotha.protect.md) 
 
-### [Gotha.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Gotha-city/City/Gotha.private.md) 
+### #is_/same_as :: [Gotha.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Gotha-city/City/Gotha.private.md) 
 
-### [Gotha.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Gotha-city/City/Gotha.personal.md) 
+### #is_/same_as :: [Gotha.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Gotha-city/City/Gotha.personal.md) 
 
-### [Gotha.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Gotha-city/City/Gotha.secret.md)
+### #is_/same_as :: [Gotha.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Gotha-city/City/Gotha.secret.md)
 

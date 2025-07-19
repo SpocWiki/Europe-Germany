@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Reichenbach~Oberlausitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Reichenbach_O.L/City/Reichenbach~Oberlausitz.md) 
+### #is_/same_as :: [Reichenbach~Oberlausitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Reichenbach_O.L/City/Reichenbach~Oberlausitz.md) 
 
-### [Reichenbach~Oberlausitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Reichenbach_O.L/City/Reichenbach~Oberlausitz.public.md) 
+### #is_/same_as :: [Reichenbach~Oberlausitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Reichenbach_O.L/City/Reichenbach~Oberlausitz.public.md) 
 
-### [Reichenbach~Oberlausitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Reichenbach_O.L/City/Reichenbach~Oberlausitz.internal.md) 
+### #is_/same_as :: [Reichenbach~Oberlausitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Reichenbach_O.L/City/Reichenbach~Oberlausitz.internal.md) 
 
-### [Reichenbach~Oberlausitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Reichenbach_O.L/City/Reichenbach~Oberlausitz.protect.md) 
+### #is_/same_as :: [Reichenbach~Oberlausitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Reichenbach_O.L/City/Reichenbach~Oberlausitz.protect.md) 
 
-### [Reichenbach~Oberlausitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Reichenbach_O.L/City/Reichenbach~Oberlausitz.private.md) 
+### #is_/same_as :: [Reichenbach~Oberlausitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Reichenbach_O.L/City/Reichenbach~Oberlausitz.private.md) 
 
-### [Reichenbach~Oberlausitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Reichenbach_O.L/City/Reichenbach~Oberlausitz.personal.md) 
+### #is_/same_as :: [Reichenbach~Oberlausitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Reichenbach_O.L/City/Reichenbach~Oberlausitz.personal.md) 
 
-### [Reichenbach~Oberlausitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Reichenbach_O.L/City/Reichenbach~Oberlausitz.secret.md)
+### #is_/same_as :: [Reichenbach~Oberlausitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Reichenbach_O.L/City/Reichenbach~Oberlausitz.secret.md)
 

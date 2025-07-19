@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neuwerk](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Neuwerk.md) 
+### #is_/same_as :: [Neuwerk](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Neuwerk.md) 
 
-### [Neuwerk.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Neuwerk.public.md) 
+### #is_/same_as :: [Neuwerk.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Neuwerk.public.md) 
 
-### [Neuwerk.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Neuwerk.internal.md) 
+### #is_/same_as :: [Neuwerk.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Neuwerk.internal.md) 
 
-### [Neuwerk.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Neuwerk.protect.md) 
+### #is_/same_as :: [Neuwerk.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Neuwerk.protect.md) 
 
-### [Neuwerk.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Neuwerk.private.md) 
+### #is_/same_as :: [Neuwerk.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Neuwerk.private.md) 
 
-### [Neuwerk.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Neuwerk.personal.md) 
+### #is_/same_as :: [Neuwerk.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Neuwerk.personal.md) 
 
-### [Neuwerk.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Neuwerk.secret.md)
+### #is_/same_as :: [Neuwerk.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Neuwerk.secret.md)
 

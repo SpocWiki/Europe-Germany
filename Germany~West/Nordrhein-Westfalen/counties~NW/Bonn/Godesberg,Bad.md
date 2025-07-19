@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Godesberg,Bad](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bonn/Godesberg,Bad.md) 
+### #is_/same_as :: [Godesberg,Bad](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bonn/Godesberg,Bad.md) 
 
-### [Godesberg,Bad.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bonn/Godesberg,Bad.public.md) 
+### #is_/same_as :: [Godesberg,Bad.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bonn/Godesberg,Bad.public.md) 
 
-### [Godesberg,Bad.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bonn/Godesberg,Bad.internal.md) 
+### #is_/same_as :: [Godesberg,Bad.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bonn/Godesberg,Bad.internal.md) 
 
-### [Godesberg,Bad.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bonn/Godesberg,Bad.protect.md) 
+### #is_/same_as :: [Godesberg,Bad.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bonn/Godesberg,Bad.protect.md) 
 
-### [Godesberg,Bad.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bonn/Godesberg,Bad.private.md) 
+### #is_/same_as :: [Godesberg,Bad.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bonn/Godesberg,Bad.private.md) 
 
-### [Godesberg,Bad.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bonn/Godesberg,Bad.personal.md) 
+### #is_/same_as :: [Godesberg,Bad.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bonn/Godesberg,Bad.personal.md) 
 
-### [Godesberg,Bad.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bonn/Godesberg,Bad.secret.md)
+### #is_/same_as :: [Godesberg,Bad.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bonn/Godesberg,Bad.secret.md)
 

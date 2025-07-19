@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Goldenstedt~Oldenburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Goldenstedt/boroughs~Goldenstedt/Goldenstedt~Oldenburg.md) 
+### #is_/same_as :: [Goldenstedt~Oldenburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Goldenstedt/boroughs~Goldenstedt/Goldenstedt~Oldenburg.md) 
 
-### [Goldenstedt~Oldenburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Goldenstedt/boroughs~Goldenstedt/Goldenstedt~Oldenburg.public.md) 
+### #is_/same_as :: [Goldenstedt~Oldenburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Goldenstedt/boroughs~Goldenstedt/Goldenstedt~Oldenburg.public.md) 
 
-### [Goldenstedt~Oldenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Goldenstedt/boroughs~Goldenstedt/Goldenstedt~Oldenburg.internal.md) 
+### #is_/same_as :: [Goldenstedt~Oldenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Goldenstedt/boroughs~Goldenstedt/Goldenstedt~Oldenburg.internal.md) 
 
-### [Goldenstedt~Oldenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Goldenstedt/boroughs~Goldenstedt/Goldenstedt~Oldenburg.protect.md) 
+### #is_/same_as :: [Goldenstedt~Oldenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Goldenstedt/boroughs~Goldenstedt/Goldenstedt~Oldenburg.protect.md) 
 
-### [Goldenstedt~Oldenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Goldenstedt/boroughs~Goldenstedt/Goldenstedt~Oldenburg.private.md) 
+### #is_/same_as :: [Goldenstedt~Oldenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Goldenstedt/boroughs~Goldenstedt/Goldenstedt~Oldenburg.private.md) 
 
-### [Goldenstedt~Oldenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Goldenstedt/boroughs~Goldenstedt/Goldenstedt~Oldenburg.personal.md) 
+### #is_/same_as :: [Goldenstedt~Oldenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Goldenstedt/boroughs~Goldenstedt/Goldenstedt~Oldenburg.personal.md) 
 
-### [Goldenstedt~Oldenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Goldenstedt/boroughs~Goldenstedt/Goldenstedt~Oldenburg.secret.md)
+### #is_/same_as :: [Goldenstedt~Oldenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Goldenstedt/boroughs~Goldenstedt/Goldenstedt~Oldenburg.secret.md)
 

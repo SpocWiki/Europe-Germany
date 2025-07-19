@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kamenz~Sachsen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Kamenz-Schönteichen/City/Kamenz~Sachsen.md) 
+### #is_/same_as :: [Kamenz~Sachsen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Kamenz-Schönteichen/City/Kamenz~Sachsen.md) 
 
-### [Kamenz~Sachsen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Kamenz-Schönteichen/City/Kamenz~Sachsen.public.md) 
+### #is_/same_as :: [Kamenz~Sachsen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Kamenz-Schönteichen/City/Kamenz~Sachsen.public.md) 
 
-### [Kamenz~Sachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Kamenz-Schönteichen/City/Kamenz~Sachsen.internal.md) 
+### #is_/same_as :: [Kamenz~Sachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Kamenz-Schönteichen/City/Kamenz~Sachsen.internal.md) 
 
-### [Kamenz~Sachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Kamenz-Schönteichen/City/Kamenz~Sachsen.protect.md) 
+### #is_/same_as :: [Kamenz~Sachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Kamenz-Schönteichen/City/Kamenz~Sachsen.protect.md) 
 
-### [Kamenz~Sachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Kamenz-Schönteichen/City/Kamenz~Sachsen.private.md) 
+### #is_/same_as :: [Kamenz~Sachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Kamenz-Schönteichen/City/Kamenz~Sachsen.private.md) 
 
-### [Kamenz~Sachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Kamenz-Schönteichen/City/Kamenz~Sachsen.personal.md) 
+### #is_/same_as :: [Kamenz~Sachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Kamenz-Schönteichen/City/Kamenz~Sachsen.personal.md) 
 
-### [Kamenz~Sachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Kamenz-Schönteichen/City/Kamenz~Sachsen.secret.md)
+### #is_/same_as :: [Kamenz~Sachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Kamenz-Schönteichen/City/Kamenz~Sachsen.secret.md)
 

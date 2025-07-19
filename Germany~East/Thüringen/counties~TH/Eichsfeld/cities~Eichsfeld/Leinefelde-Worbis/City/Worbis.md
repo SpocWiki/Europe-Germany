@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Worbis](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Leinefelde-Worbis/City/Worbis.md) 
+### #is_/same_as :: [Worbis](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Leinefelde-Worbis/City/Worbis.md) 
 
-### [Worbis.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Leinefelde-Worbis/City/Worbis.public.md) 
+### #is_/same_as :: [Worbis.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Leinefelde-Worbis/City/Worbis.public.md) 
 
-### [Worbis.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Leinefelde-Worbis/City/Worbis.internal.md) 
+### #is_/same_as :: [Worbis.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Leinefelde-Worbis/City/Worbis.internal.md) 
 
-### [Worbis.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Leinefelde-Worbis/City/Worbis.protect.md) 
+### #is_/same_as :: [Worbis.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Leinefelde-Worbis/City/Worbis.protect.md) 
 
-### [Worbis.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Leinefelde-Worbis/City/Worbis.private.md) 
+### #is_/same_as :: [Worbis.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Leinefelde-Worbis/City/Worbis.private.md) 
 
-### [Worbis.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Leinefelde-Worbis/City/Worbis.personal.md) 
+### #is_/same_as :: [Worbis.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Leinefelde-Worbis/City/Worbis.personal.md) 
 
-### [Worbis.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Leinefelde-Worbis/City/Worbis.secret.md)
+### #is_/same_as :: [Worbis.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Leinefelde-Worbis/City/Worbis.secret.md)
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bergen~Vogtland](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Jägerswald/City/Bergen~Vogtland.md) 
+### #is_/same_as :: [Bergen~Vogtland](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Jägerswald/City/Bergen~Vogtland.md) 
 
-### [Bergen~Vogtland.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Jägerswald/City/Bergen~Vogtland.public.md) 
+### #is_/same_as :: [Bergen~Vogtland.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Jägerswald/City/Bergen~Vogtland.public.md) 
 
-### [Bergen~Vogtland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Jägerswald/City/Bergen~Vogtland.internal.md) 
+### #is_/same_as :: [Bergen~Vogtland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Jägerswald/City/Bergen~Vogtland.internal.md) 
 
-### [Bergen~Vogtland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Jägerswald/City/Bergen~Vogtland.protect.md) 
+### #is_/same_as :: [Bergen~Vogtland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Jägerswald/City/Bergen~Vogtland.protect.md) 
 
-### [Bergen~Vogtland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Jägerswald/City/Bergen~Vogtland.private.md) 
+### #is_/same_as :: [Bergen~Vogtland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Jägerswald/City/Bergen~Vogtland.private.md) 
 
-### [Bergen~Vogtland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Jägerswald/City/Bergen~Vogtland.personal.md) 
+### #is_/same_as :: [Bergen~Vogtland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Jägerswald/City/Bergen~Vogtland.personal.md) 
 
-### [Bergen~Vogtland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Jägerswald/City/Bergen~Vogtland.secret.md)
+### #is_/same_as :: [Bergen~Vogtland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Jägerswald/City/Bergen~Vogtland.secret.md)
 

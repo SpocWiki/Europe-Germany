@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Strücklingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Saterland/boroughs~Saterland/Strücklingen.md) 
+### #is_/same_as :: [Strücklingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Saterland/boroughs~Saterland/Strücklingen.md) 
 
-### [Strücklingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Saterland/boroughs~Saterland/Strücklingen.public.md) 
+### #is_/same_as :: [Strücklingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Saterland/boroughs~Saterland/Strücklingen.public.md) 
 
-### [Strücklingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Saterland/boroughs~Saterland/Strücklingen.internal.md) 
+### #is_/same_as :: [Strücklingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Saterland/boroughs~Saterland/Strücklingen.internal.md) 
 
-### [Strücklingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Saterland/boroughs~Saterland/Strücklingen.protect.md) 
+### #is_/same_as :: [Strücklingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Saterland/boroughs~Saterland/Strücklingen.protect.md) 
 
-### [Strücklingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Saterland/boroughs~Saterland/Strücklingen.private.md) 
+### #is_/same_as :: [Strücklingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Saterland/boroughs~Saterland/Strücklingen.private.md) 
 
-### [Strücklingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Saterland/boroughs~Saterland/Strücklingen.personal.md) 
+### #is_/same_as :: [Strücklingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Saterland/boroughs~Saterland/Strücklingen.personal.md) 
 
-### [Strücklingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Saterland/boroughs~Saterland/Strücklingen.secret.md)
+### #is_/same_as :: [Strücklingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Saterland/boroughs~Saterland/Strücklingen.secret.md)
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bischofswerda](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Demitz-Thumitz/City/Bischofswerda.md) 
+### #is_/same_as :: [Bischofswerda](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Demitz-Thumitz/City/Bischofswerda.md) 
 
-### [Bischofswerda.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Demitz-Thumitz/City/Bischofswerda.public.md) 
+### #is_/same_as :: [Bischofswerda.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Demitz-Thumitz/City/Bischofswerda.public.md) 
 
-### [Bischofswerda.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Demitz-Thumitz/City/Bischofswerda.internal.md) 
+### #is_/same_as :: [Bischofswerda.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Demitz-Thumitz/City/Bischofswerda.internal.md) 
 
-### [Bischofswerda.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Demitz-Thumitz/City/Bischofswerda.protect.md) 
+### #is_/same_as :: [Bischofswerda.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Demitz-Thumitz/City/Bischofswerda.protect.md) 
 
-### [Bischofswerda.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Demitz-Thumitz/City/Bischofswerda.private.md) 
+### #is_/same_as :: [Bischofswerda.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Demitz-Thumitz/City/Bischofswerda.private.md) 
 
-### [Bischofswerda.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Demitz-Thumitz/City/Bischofswerda.personal.md) 
+### #is_/same_as :: [Bischofswerda.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Demitz-Thumitz/City/Bischofswerda.personal.md) 
 
-### [Bischofswerda.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Demitz-Thumitz/City/Bischofswerda.secret.md)
+### #is_/same_as :: [Bischofswerda.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Demitz-Thumitz/City/Bischofswerda.secret.md)
 

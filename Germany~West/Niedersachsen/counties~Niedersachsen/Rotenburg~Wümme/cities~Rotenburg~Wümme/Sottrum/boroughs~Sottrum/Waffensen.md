@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Waffensen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Waffensen.md) 
+### #is_/same_as :: [Waffensen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Waffensen.md) 
 
-### [Waffensen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Waffensen.public.md) 
+### #is_/same_as :: [Waffensen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Waffensen.public.md) 
 
-### [Waffensen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Waffensen.internal.md) 
+### #is_/same_as :: [Waffensen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Waffensen.internal.md) 
 
-### [Waffensen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Waffensen.protect.md) 
+### #is_/same_as :: [Waffensen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Waffensen.protect.md) 
 
-### [Waffensen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Waffensen.private.md) 
+### #is_/same_as :: [Waffensen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Waffensen.private.md) 
 
-### [Waffensen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Waffensen.personal.md) 
+### #is_/same_as :: [Waffensen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Waffensen.personal.md) 
 
-### [Waffensen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Waffensen.secret.md)
+### #is_/same_as :: [Waffensen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Sottrum/boroughs~Sottrum/Waffensen.secret.md)
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Clausthal](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Clausthal-Zellerfeld/boroughs~Clausthal-Z/Clausthal-Zellerfeld-borough/Clausthal.md) 
+### #is_/same_as :: [Clausthal](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Clausthal-Zellerfeld/boroughs~Clausthal-Z/Clausthal-Zellerfeld-borough/Clausthal.md) 
 
-### [Clausthal.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Clausthal-Zellerfeld/boroughs~Clausthal-Z/Clausthal-Zellerfeld-borough/Clausthal.public.md) 
+### #is_/same_as :: [Clausthal.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Clausthal-Zellerfeld/boroughs~Clausthal-Z/Clausthal-Zellerfeld-borough/Clausthal.public.md) 
 
-### [Clausthal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Clausthal-Zellerfeld/boroughs~Clausthal-Z/Clausthal-Zellerfeld-borough/Clausthal.internal.md) 
+### #is_/same_as :: [Clausthal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Clausthal-Zellerfeld/boroughs~Clausthal-Z/Clausthal-Zellerfeld-borough/Clausthal.internal.md) 
 
-### [Clausthal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Clausthal-Zellerfeld/boroughs~Clausthal-Z/Clausthal-Zellerfeld-borough/Clausthal.protect.md) 
+### #is_/same_as :: [Clausthal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Clausthal-Zellerfeld/boroughs~Clausthal-Z/Clausthal-Zellerfeld-borough/Clausthal.protect.md) 
 
-### [Clausthal.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Clausthal-Zellerfeld/boroughs~Clausthal-Z/Clausthal-Zellerfeld-borough/Clausthal.private.md) 
+### #is_/same_as :: [Clausthal.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Clausthal-Zellerfeld/boroughs~Clausthal-Z/Clausthal-Zellerfeld-borough/Clausthal.private.md) 
 
-### [Clausthal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Clausthal-Zellerfeld/boroughs~Clausthal-Z/Clausthal-Zellerfeld-borough/Clausthal.personal.md) 
+### #is_/same_as :: [Clausthal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Clausthal-Zellerfeld/boroughs~Clausthal-Z/Clausthal-Zellerfeld-borough/Clausthal.personal.md) 
 
-### [Clausthal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Clausthal-Zellerfeld/boroughs~Clausthal-Z/Clausthal-Zellerfeld-borough/Clausthal.secret.md)
+### #is_/same_as :: [Clausthal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar/cities~Goslar/Clausthal-Zellerfeld/boroughs~Clausthal-Z/Clausthal-Zellerfeld-borough/Clausthal.secret.md)
 

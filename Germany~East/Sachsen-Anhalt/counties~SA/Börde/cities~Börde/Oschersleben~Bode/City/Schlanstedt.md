@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schlanstedt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Schlanstedt.md) 
+### #is_/same_as :: [Schlanstedt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Schlanstedt.md) 
 
-### [Schlanstedt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Schlanstedt.public.md) 
+### #is_/same_as :: [Schlanstedt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Schlanstedt.public.md) 
 
-### [Schlanstedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Schlanstedt.internal.md) 
+### #is_/same_as :: [Schlanstedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Schlanstedt.internal.md) 
 
-### [Schlanstedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Schlanstedt.protect.md) 
+### #is_/same_as :: [Schlanstedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Schlanstedt.protect.md) 
 
-### [Schlanstedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Schlanstedt.private.md) 
+### #is_/same_as :: [Schlanstedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Schlanstedt.private.md) 
 
-### [Schlanstedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Schlanstedt.personal.md) 
+### #is_/same_as :: [Schlanstedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Schlanstedt.personal.md) 
 
-### [Schlanstedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Schlanstedt.secret.md)
+### #is_/same_as :: [Schlanstedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Oschersleben~Bode/City/Schlanstedt.secret.md)
 

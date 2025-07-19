@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oberode](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neukirchen/boroughs~Neukirchen/Oberode.md) 
+### #is_/same_as :: [Oberode](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neukirchen/boroughs~Neukirchen/Oberode.md) 
 
-### [Oberode.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neukirchen/boroughs~Neukirchen/Oberode.public.md) 
+### #is_/same_as :: [Oberode.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neukirchen/boroughs~Neukirchen/Oberode.public.md) 
 
-### [Oberode.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neukirchen/boroughs~Neukirchen/Oberode.internal.md) 
+### #is_/same_as :: [Oberode.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neukirchen/boroughs~Neukirchen/Oberode.internal.md) 
 
-### [Oberode.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neukirchen/boroughs~Neukirchen/Oberode.protect.md) 
+### #is_/same_as :: [Oberode.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neukirchen/boroughs~Neukirchen/Oberode.protect.md) 
 
-### [Oberode.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neukirchen/boroughs~Neukirchen/Oberode.private.md) 
+### #is_/same_as :: [Oberode.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neukirchen/boroughs~Neukirchen/Oberode.private.md) 
 
-### [Oberode.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neukirchen/boroughs~Neukirchen/Oberode.personal.md) 
+### #is_/same_as :: [Oberode.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neukirchen/boroughs~Neukirchen/Oberode.personal.md) 
 
-### [Oberode.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neukirchen/boroughs~Neukirchen/Oberode.secret.md)
+### #is_/same_as :: [Oberode.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Schwalm-Eder-Kreis/cities~Schwalm-Eder/Neukirchen/boroughs~Neukirchen/Oberode.secret.md)
 

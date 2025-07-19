@@ -44,17 +44,17 @@ Bauhaus und seine Stätten in Weimar, Dessau und Bernau ( [[Unesco]] Welterbe se
 
 ## Confidential Links & Embeds: 
 
-### [Weimar](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimar.md) 
+### #is_/same_as :: [Weimar](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimar.md) 
 
-### [Weimar.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimar.public.md) 
+### #is_/same_as :: [Weimar.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimar.public.md) 
 
-### [Weimar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimar.internal.md) 
+### #is_/same_as :: [Weimar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimar.internal.md) 
 
-### [Weimar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimar.protect.md) 
+### #is_/same_as :: [Weimar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimar.protect.md) 
 
-### [Weimar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimar.private.md) 
+### #is_/same_as :: [Weimar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimar.private.md) 
 
-### [Weimar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimar.personal.md) 
+### #is_/same_as :: [Weimar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimar.personal.md) 
 
-### [Weimar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimar.secret.md)
+### #is_/same_as :: [Weimar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimar.secret.md)
 

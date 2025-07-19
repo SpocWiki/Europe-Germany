@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Soest-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city.md) 
+### #is_/same_as :: [Soest-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city.md) 
 
-### [Soest-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city.public.md) 
+### #is_/same_as :: [Soest-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city.public.md) 
 
-### [Soest-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city.internal.md) 
+### #is_/same_as :: [Soest-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city.internal.md) 
 
-### [Soest-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city.protect.md) 
+### #is_/same_as :: [Soest-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city.protect.md) 
 
-### [Soest-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city.private.md) 
+### #is_/same_as :: [Soest-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city.private.md) 
 
-### [Soest-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city.personal.md) 
+### #is_/same_as :: [Soest-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city.personal.md) 
 
-### [Soest-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city.secret.md)
+### #is_/same_as :: [Soest-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Soest/cities~Soest/Soest-city.secret.md)
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brockwitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Klipphausen/City/Brockwitz.md) 
+### #is_/same_as :: [Brockwitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Klipphausen/City/Brockwitz.md) 
 
-### [Brockwitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Klipphausen/City/Brockwitz.public.md) 
+### #is_/same_as :: [Brockwitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Klipphausen/City/Brockwitz.public.md) 
 
-### [Brockwitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Klipphausen/City/Brockwitz.internal.md) 
+### #is_/same_as :: [Brockwitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Klipphausen/City/Brockwitz.internal.md) 
 
-### [Brockwitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Klipphausen/City/Brockwitz.protect.md) 
+### #is_/same_as :: [Brockwitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Klipphausen/City/Brockwitz.protect.md) 
 
-### [Brockwitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Klipphausen/City/Brockwitz.private.md) 
+### #is_/same_as :: [Brockwitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Klipphausen/City/Brockwitz.private.md) 
 
-### [Brockwitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Klipphausen/City/Brockwitz.personal.md) 
+### #is_/same_as :: [Brockwitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Klipphausen/City/Brockwitz.personal.md) 
 
-### [Brockwitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Klipphausen/City/Brockwitz.secret.md)
+### #is_/same_as :: [Brockwitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Klipphausen/City/Brockwitz.secret.md)
 

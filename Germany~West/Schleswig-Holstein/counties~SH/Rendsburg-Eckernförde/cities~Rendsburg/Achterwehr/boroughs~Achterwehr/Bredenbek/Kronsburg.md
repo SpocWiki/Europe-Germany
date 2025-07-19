@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kronsburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Achterwehr/boroughs~Achterwehr/Bredenbek/Kronsburg.md) 
+### #is_/same_as :: [Kronsburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Achterwehr/boroughs~Achterwehr/Bredenbek/Kronsburg.md) 
 
-### [Kronsburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Achterwehr/boroughs~Achterwehr/Bredenbek/Kronsburg.public.md) 
+### #is_/same_as :: [Kronsburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Achterwehr/boroughs~Achterwehr/Bredenbek/Kronsburg.public.md) 
 
-### [Kronsburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Achterwehr/boroughs~Achterwehr/Bredenbek/Kronsburg.internal.md) 
+### #is_/same_as :: [Kronsburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Achterwehr/boroughs~Achterwehr/Bredenbek/Kronsburg.internal.md) 
 
-### [Kronsburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Achterwehr/boroughs~Achterwehr/Bredenbek/Kronsburg.protect.md) 
+### #is_/same_as :: [Kronsburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Achterwehr/boroughs~Achterwehr/Bredenbek/Kronsburg.protect.md) 
 
-### [Kronsburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Achterwehr/boroughs~Achterwehr/Bredenbek/Kronsburg.private.md) 
+### #is_/same_as :: [Kronsburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Achterwehr/boroughs~Achterwehr/Bredenbek/Kronsburg.private.md) 
 
-### [Kronsburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Achterwehr/boroughs~Achterwehr/Bredenbek/Kronsburg.personal.md) 
+### #is_/same_as :: [Kronsburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Achterwehr/boroughs~Achterwehr/Bredenbek/Kronsburg.personal.md) 
 
-### [Kronsburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Achterwehr/boroughs~Achterwehr/Bredenbek/Kronsburg.secret.md)
+### #is_/same_as :: [Kronsburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Achterwehr/boroughs~Achterwehr/Bredenbek/Kronsburg.secret.md)
 

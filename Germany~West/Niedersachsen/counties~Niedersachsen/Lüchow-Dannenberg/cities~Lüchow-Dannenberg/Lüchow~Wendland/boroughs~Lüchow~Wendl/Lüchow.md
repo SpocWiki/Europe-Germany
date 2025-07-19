@@ -37,17 +37,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lüchow](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Lüchow.md) 
+### #is_/same_as :: [Lüchow](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Lüchow.md) 
 
-### [Lüchow.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Lüchow.public.md) 
+### #is_/same_as :: [Lüchow.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Lüchow.public.md) 
 
-### [Lüchow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Lüchow.internal.md) 
+### #is_/same_as :: [Lüchow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Lüchow.internal.md) 
 
-### [Lüchow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Lüchow.protect.md) 
+### #is_/same_as :: [Lüchow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Lüchow.protect.md) 
 
-### [Lüchow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Lüchow.private.md) 
+### #is_/same_as :: [Lüchow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Lüchow.private.md) 
 
-### [Lüchow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Lüchow.personal.md) 
+### #is_/same_as :: [Lüchow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Lüchow.personal.md) 
 
-### [Lüchow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Lüchow.secret.md)
+### #is_/same_as :: [Lüchow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Lüchow~Wendland/boroughs~Lüchow~Wendl/Lüchow.secret.md)
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Franzburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Franzburg-Richtenberg/boroughs~Franzburg/Franzburg.md) 
+### #is_/same_as :: [Franzburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Franzburg-Richtenberg/boroughs~Franzburg/Franzburg.md) 
 
-### [Franzburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Franzburg-Richtenberg/boroughs~Franzburg/Franzburg.public.md) 
+### #is_/same_as :: [Franzburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Franzburg-Richtenberg/boroughs~Franzburg/Franzburg.public.md) 
 
-### [Franzburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Franzburg-Richtenberg/boroughs~Franzburg/Franzburg.internal.md) 
+### #is_/same_as :: [Franzburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Franzburg-Richtenberg/boroughs~Franzburg/Franzburg.internal.md) 
 
-### [Franzburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Franzburg-Richtenberg/boroughs~Franzburg/Franzburg.protect.md) 
+### #is_/same_as :: [Franzburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Franzburg-Richtenberg/boroughs~Franzburg/Franzburg.protect.md) 
 
-### [Franzburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Franzburg-Richtenberg/boroughs~Franzburg/Franzburg.private.md) 
+### #is_/same_as :: [Franzburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Franzburg-Richtenberg/boroughs~Franzburg/Franzburg.private.md) 
 
-### [Franzburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Franzburg-Richtenberg/boroughs~Franzburg/Franzburg.personal.md) 
+### #is_/same_as :: [Franzburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Franzburg-Richtenberg/boroughs~Franzburg/Franzburg.personal.md) 
 
-### [Franzburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Franzburg-Richtenberg/boroughs~Franzburg/Franzburg.secret.md)
+### #is_/same_as :: [Franzburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Franzburg-Richtenberg/boroughs~Franzburg/Franzburg.secret.md)
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schierke](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Wernigerode/City/Schierke.md) 
+### #is_/same_as :: [Schierke](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Wernigerode/City/Schierke.md) 
 
-### [Schierke.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Wernigerode/City/Schierke.public.md) 
+### #is_/same_as :: [Schierke.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Wernigerode/City/Schierke.public.md) 
 
-### [Schierke.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Wernigerode/City/Schierke.internal.md) 
+### #is_/same_as :: [Schierke.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Wernigerode/City/Schierke.internal.md) 
 
-### [Schierke.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Wernigerode/City/Schierke.protect.md) 
+### #is_/same_as :: [Schierke.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Wernigerode/City/Schierke.protect.md) 
 
-### [Schierke.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Wernigerode/City/Schierke.private.md) 
+### #is_/same_as :: [Schierke.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Wernigerode/City/Schierke.private.md) 
 
-### [Schierke.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Wernigerode/City/Schierke.personal.md) 
+### #is_/same_as :: [Schierke.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Wernigerode/City/Schierke.personal.md) 
 
-### [Schierke.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Wernigerode/City/Schierke.secret.md)
+### #is_/same_as :: [Schierke.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Wernigerode/City/Schierke.secret.md)
 

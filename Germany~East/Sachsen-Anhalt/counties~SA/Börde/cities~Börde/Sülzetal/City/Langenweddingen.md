@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Langenweddingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Sülzetal/City/Langenweddingen.md) 
+### #is_/same_as :: [Langenweddingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Sülzetal/City/Langenweddingen.md) 
 
-### [Langenweddingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Sülzetal/City/Langenweddingen.public.md) 
+### #is_/same_as :: [Langenweddingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Sülzetal/City/Langenweddingen.public.md) 
 
-### [Langenweddingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Sülzetal/City/Langenweddingen.internal.md) 
+### #is_/same_as :: [Langenweddingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Sülzetal/City/Langenweddingen.internal.md) 
 
-### [Langenweddingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Sülzetal/City/Langenweddingen.protect.md) 
+### #is_/same_as :: [Langenweddingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Sülzetal/City/Langenweddingen.protect.md) 
 
-### [Langenweddingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Sülzetal/City/Langenweddingen.private.md) 
+### #is_/same_as :: [Langenweddingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Sülzetal/City/Langenweddingen.private.md) 
 
-### [Langenweddingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Sülzetal/City/Langenweddingen.personal.md) 
+### #is_/same_as :: [Langenweddingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Sülzetal/City/Langenweddingen.personal.md) 
 
-### [Langenweddingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Sülzetal/City/Langenweddingen.secret.md)
+### #is_/same_as :: [Langenweddingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Sülzetal/City/Langenweddingen.secret.md)
 

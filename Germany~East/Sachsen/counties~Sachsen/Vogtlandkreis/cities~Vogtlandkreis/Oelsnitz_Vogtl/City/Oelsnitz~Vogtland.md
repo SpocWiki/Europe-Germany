@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oelsnitz~Vogtland](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Oelsnitz_Vogtl/City/Oelsnitz~Vogtland.md) 
+### #is_/same_as :: [Oelsnitz~Vogtland](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Oelsnitz_Vogtl/City/Oelsnitz~Vogtland.md) 
 
-### [Oelsnitz~Vogtland.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Oelsnitz_Vogtl/City/Oelsnitz~Vogtland.public.md) 
+### #is_/same_as :: [Oelsnitz~Vogtland.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Oelsnitz_Vogtl/City/Oelsnitz~Vogtland.public.md) 
 
-### [Oelsnitz~Vogtland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Oelsnitz_Vogtl/City/Oelsnitz~Vogtland.internal.md) 
+### #is_/same_as :: [Oelsnitz~Vogtland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Oelsnitz_Vogtl/City/Oelsnitz~Vogtland.internal.md) 
 
-### [Oelsnitz~Vogtland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Oelsnitz_Vogtl/City/Oelsnitz~Vogtland.protect.md) 
+### #is_/same_as :: [Oelsnitz~Vogtland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Oelsnitz_Vogtl/City/Oelsnitz~Vogtland.protect.md) 
 
-### [Oelsnitz~Vogtland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Oelsnitz_Vogtl/City/Oelsnitz~Vogtland.private.md) 
+### #is_/same_as :: [Oelsnitz~Vogtland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Oelsnitz_Vogtl/City/Oelsnitz~Vogtland.private.md) 
 
-### [Oelsnitz~Vogtland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Oelsnitz_Vogtl/City/Oelsnitz~Vogtland.personal.md) 
+### #is_/same_as :: [Oelsnitz~Vogtland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Oelsnitz_Vogtl/City/Oelsnitz~Vogtland.personal.md) 
 
-### [Oelsnitz~Vogtland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Oelsnitz_Vogtl/City/Oelsnitz~Vogtland.secret.md)
+### #is_/same_as :: [Oelsnitz~Vogtland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Vogtlandkreis/cities~Vogtlandkreis/Oelsnitz_Vogtl/City/Oelsnitz~Vogtland.secret.md)
 

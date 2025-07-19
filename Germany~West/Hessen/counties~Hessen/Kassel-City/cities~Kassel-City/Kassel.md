@@ -39,17 +39,17 @@ Bergpark Wilhelmshöhe (2013)
 
 ## Confidential Links & Embeds: 
 
-### [Kassel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-City/cities~Kassel-City/Kassel.md) 
+### #is_/same_as :: [Kassel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-City/cities~Kassel-City/Kassel.md) 
 
-### [Kassel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-City/cities~Kassel-City/Kassel.public.md) 
+### #is_/same_as :: [Kassel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-City/cities~Kassel-City/Kassel.public.md) 
 
-### [Kassel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-City/cities~Kassel-City/Kassel.internal.md) 
+### #is_/same_as :: [Kassel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-City/cities~Kassel-City/Kassel.internal.md) 
 
-### [Kassel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-City/cities~Kassel-City/Kassel.protect.md) 
+### #is_/same_as :: [Kassel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-City/cities~Kassel-City/Kassel.protect.md) 
 
-### [Kassel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-City/cities~Kassel-City/Kassel.private.md) 
+### #is_/same_as :: [Kassel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-City/cities~Kassel-City/Kassel.private.md) 
 
-### [Kassel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-City/cities~Kassel-City/Kassel.personal.md) 
+### #is_/same_as :: [Kassel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-City/cities~Kassel-City/Kassel.personal.md) 
 
-### [Kassel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-City/cities~Kassel-City/Kassel.secret.md)
+### #is_/same_as :: [Kassel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-City/cities~Kassel-City/Kassel.secret.md)
 

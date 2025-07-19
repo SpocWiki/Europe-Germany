@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vernawahlshausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Wahlsburg/bboroughs~Wahlsburg/Vernawahlshausen.md) 
+### #is_/same_as :: [Vernawahlshausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Wahlsburg/bboroughs~Wahlsburg/Vernawahlshausen.md) 
 
-### [Vernawahlshausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Wahlsburg/bboroughs~Wahlsburg/Vernawahlshausen.public.md) 
+### #is_/same_as :: [Vernawahlshausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Wahlsburg/bboroughs~Wahlsburg/Vernawahlshausen.public.md) 
 
-### [Vernawahlshausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Wahlsburg/bboroughs~Wahlsburg/Vernawahlshausen.internal.md) 
+### #is_/same_as :: [Vernawahlshausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Wahlsburg/bboroughs~Wahlsburg/Vernawahlshausen.internal.md) 
 
-### [Vernawahlshausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Wahlsburg/bboroughs~Wahlsburg/Vernawahlshausen.protect.md) 
+### #is_/same_as :: [Vernawahlshausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Wahlsburg/bboroughs~Wahlsburg/Vernawahlshausen.protect.md) 
 
-### [Vernawahlshausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Wahlsburg/bboroughs~Wahlsburg/Vernawahlshausen.private.md) 
+### #is_/same_as :: [Vernawahlshausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Wahlsburg/bboroughs~Wahlsburg/Vernawahlshausen.private.md) 
 
-### [Vernawahlshausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Wahlsburg/bboroughs~Wahlsburg/Vernawahlshausen.personal.md) 
+### #is_/same_as :: [Vernawahlshausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Wahlsburg/bboroughs~Wahlsburg/Vernawahlshausen.personal.md) 
 
-### [Vernawahlshausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Wahlsburg/bboroughs~Wahlsburg/Vernawahlshausen.secret.md)
+### #is_/same_as :: [Vernawahlshausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Wahlsburg/bboroughs~Wahlsburg/Vernawahlshausen.secret.md)
 

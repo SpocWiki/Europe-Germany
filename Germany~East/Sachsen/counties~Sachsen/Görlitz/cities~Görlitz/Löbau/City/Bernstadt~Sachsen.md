@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bernstadt~Sachsen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Löbau/City/Bernstadt~Sachsen.md) 
+### #is_/same_as :: [Bernstadt~Sachsen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Löbau/City/Bernstadt~Sachsen.md) 
 
-### [Bernstadt~Sachsen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Löbau/City/Bernstadt~Sachsen.public.md) 
+### #is_/same_as :: [Bernstadt~Sachsen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Löbau/City/Bernstadt~Sachsen.public.md) 
 
-### [Bernstadt~Sachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Löbau/City/Bernstadt~Sachsen.internal.md) 
+### #is_/same_as :: [Bernstadt~Sachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Löbau/City/Bernstadt~Sachsen.internal.md) 
 
-### [Bernstadt~Sachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Löbau/City/Bernstadt~Sachsen.protect.md) 
+### #is_/same_as :: [Bernstadt~Sachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Löbau/City/Bernstadt~Sachsen.protect.md) 
 
-### [Bernstadt~Sachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Löbau/City/Bernstadt~Sachsen.private.md) 
+### #is_/same_as :: [Bernstadt~Sachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Löbau/City/Bernstadt~Sachsen.private.md) 
 
-### [Bernstadt~Sachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Löbau/City/Bernstadt~Sachsen.personal.md) 
+### #is_/same_as :: [Bernstadt~Sachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Löbau/City/Bernstadt~Sachsen.personal.md) 
 
-### [Bernstadt~Sachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Löbau/City/Bernstadt~Sachsen.secret.md)
+### #is_/same_as :: [Bernstadt~Sachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Löbau/City/Bernstadt~Sachsen.secret.md)
 

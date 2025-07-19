@@ -125,17 +125,17 @@ Capital :: [[Schwerin]] ]]
 
 ## Confidential Links & Embeds: 
 
-### [Mecklenburg-Vorpommern](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern.md) 
+### #is_/same_as :: [Mecklenburg-Vorpommern](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern.md) 
 
-### [Mecklenburg-Vorpommern.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern.public.md) 
+### #is_/same_as :: [Mecklenburg-Vorpommern.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern.public.md) 
 
-### [Mecklenburg-Vorpommern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern.internal.md) 
+### #is_/same_as :: [Mecklenburg-Vorpommern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern.internal.md) 
 
-### [Mecklenburg-Vorpommern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern.protect.md) 
+### #is_/same_as :: [Mecklenburg-Vorpommern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern.protect.md) 
 
-### [Mecklenburg-Vorpommern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern.private.md) 
+### #is_/same_as :: [Mecklenburg-Vorpommern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern.private.md) 
 
-### [Mecklenburg-Vorpommern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern.personal.md) 
+### #is_/same_as :: [Mecklenburg-Vorpommern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern.personal.md) 
 
-### [Mecklenburg-Vorpommern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern.secret.md)
+### #is_/same_as :: [Mecklenburg-Vorpommern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern.secret.md)
 

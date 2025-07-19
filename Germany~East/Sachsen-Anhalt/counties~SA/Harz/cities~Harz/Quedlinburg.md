@@ -42,17 +42,17 @@ Stiftskirche, Schloss und Altstadt von Quedlinburg ( [[Unesco]] Welterbe seit 19
 
 ## Confidential Links & Embeds: 
 
-### [Quedlinburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.md) 
+### #is_/same_as :: [Quedlinburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.md) 
 
-### [Quedlinburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.public.md) 
+### #is_/same_as :: [Quedlinburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.public.md) 
 
-### [Quedlinburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.internal.md) 
+### #is_/same_as :: [Quedlinburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.internal.md) 
 
-### [Quedlinburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.protect.md) 
+### #is_/same_as :: [Quedlinburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.protect.md) 
 
-### [Quedlinburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.private.md) 
+### #is_/same_as :: [Quedlinburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.private.md) 
 
-### [Quedlinburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.personal.md) 
+### #is_/same_as :: [Quedlinburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.personal.md) 
 
-### [Quedlinburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.secret.md)
+### #is_/same_as :: [Quedlinburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg.secret.md)
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Simmersdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Döbern-Land/boroughs~Döbern-Land/Groß_Schacksdorf/Simmersdorf.md) 
+### #is_/same_as :: [Simmersdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Döbern-Land/boroughs~Döbern-Land/Groß_Schacksdorf/Simmersdorf.md) 
 
-### [Simmersdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Döbern-Land/boroughs~Döbern-Land/Groß_Schacksdorf/Simmersdorf.public.md) 
+### #is_/same_as :: [Simmersdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Döbern-Land/boroughs~Döbern-Land/Groß_Schacksdorf/Simmersdorf.public.md) 
 
-### [Simmersdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Döbern-Land/boroughs~Döbern-Land/Groß_Schacksdorf/Simmersdorf.internal.md) 
+### #is_/same_as :: [Simmersdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Döbern-Land/boroughs~Döbern-Land/Groß_Schacksdorf/Simmersdorf.internal.md) 
 
-### [Simmersdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Döbern-Land/boroughs~Döbern-Land/Groß_Schacksdorf/Simmersdorf.protect.md) 
+### #is_/same_as :: [Simmersdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Döbern-Land/boroughs~Döbern-Land/Groß_Schacksdorf/Simmersdorf.protect.md) 
 
-### [Simmersdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Döbern-Land/boroughs~Döbern-Land/Groß_Schacksdorf/Simmersdorf.private.md) 
+### #is_/same_as :: [Simmersdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Döbern-Land/boroughs~Döbern-Land/Groß_Schacksdorf/Simmersdorf.private.md) 
 
-### [Simmersdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Döbern-Land/boroughs~Döbern-Land/Groß_Schacksdorf/Simmersdorf.personal.md) 
+### #is_/same_as :: [Simmersdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Döbern-Land/boroughs~Döbern-Land/Groß_Schacksdorf/Simmersdorf.personal.md) 
 
-### [Simmersdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Döbern-Land/boroughs~Döbern-Land/Groß_Schacksdorf/Simmersdorf.secret.md)
+### #is_/same_as :: [Simmersdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Spree-Neiße/cities~Spree-Neiße/Döbern-Land/boroughs~Döbern-Land/Groß_Schacksdorf/Simmersdorf.secret.md)
 

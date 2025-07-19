@@ -41,17 +41,17 @@ markerFolder: ./Rotenburg~Wümme-City//
 
 ## Confidential Links & Embeds: 
 
-### [Rotenburg~Wümme-City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Rotenburg~Wümme-City.md) 
+### #is_/same_as :: [Rotenburg~Wümme-City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Rotenburg~Wümme-City.md) 
 
-### [Rotenburg~Wümme-City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Rotenburg~Wümme-City.public.md) 
+### #is_/same_as :: [Rotenburg~Wümme-City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Rotenburg~Wümme-City.public.md) 
 
-### [Rotenburg~Wümme-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Rotenburg~Wümme-City.internal.md) 
+### #is_/same_as :: [Rotenburg~Wümme-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Rotenburg~Wümme-City.internal.md) 
 
-### [Rotenburg~Wümme-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Rotenburg~Wümme-City.protect.md) 
+### #is_/same_as :: [Rotenburg~Wümme-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Rotenburg~Wümme-City.protect.md) 
 
-### [Rotenburg~Wümme-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Rotenburg~Wümme-City.private.md) 
+### #is_/same_as :: [Rotenburg~Wümme-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Rotenburg~Wümme-City.private.md) 
 
-### [Rotenburg~Wümme-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Rotenburg~Wümme-City.personal.md) 
+### #is_/same_as :: [Rotenburg~Wümme-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Rotenburg~Wümme-City.personal.md) 
 
-### [Rotenburg~Wümme-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Rotenburg~Wümme-City.secret.md)
+### #is_/same_as :: [Rotenburg~Wümme-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Rotenburg~Wümme-City.secret.md)
 

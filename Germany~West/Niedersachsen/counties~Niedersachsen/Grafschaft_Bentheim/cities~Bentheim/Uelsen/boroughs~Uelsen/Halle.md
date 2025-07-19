@@ -37,17 +37,17 @@ Zur Gemeinde gehören auch die Orte Hardingen (1974 eingemeindet) und Hesingen.
 
 ## Confidential Links & Embeds: 
 
-### [Halle](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Uelsen/boroughs~Uelsen/Halle.md) 
+### #is_/same_as :: [Halle](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Uelsen/boroughs~Uelsen/Halle.md) 
 
-### [Halle.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Uelsen/boroughs~Uelsen/Halle.public.md) 
+### #is_/same_as :: [Halle.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Uelsen/boroughs~Uelsen/Halle.public.md) 
 
-### [Halle.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Uelsen/boroughs~Uelsen/Halle.internal.md) 
+### #is_/same_as :: [Halle.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Uelsen/boroughs~Uelsen/Halle.internal.md) 
 
-### [Halle.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Uelsen/boroughs~Uelsen/Halle.protect.md) 
+### #is_/same_as :: [Halle.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Uelsen/boroughs~Uelsen/Halle.protect.md) 
 
-### [Halle.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Uelsen/boroughs~Uelsen/Halle.private.md) 
+### #is_/same_as :: [Halle.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Uelsen/boroughs~Uelsen/Halle.private.md) 
 
-### [Halle.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Uelsen/boroughs~Uelsen/Halle.personal.md) 
+### #is_/same_as :: [Halle.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Uelsen/boroughs~Uelsen/Halle.personal.md) 
 
-### [Halle.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Uelsen/boroughs~Uelsen/Halle.secret.md)
+### #is_/same_as :: [Halle.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Grafschaft_Bentheim/cities~Bentheim/Uelsen/boroughs~Uelsen/Halle.secret.md)
 

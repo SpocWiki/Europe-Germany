@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wiesenbad](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Thermalbad_Wiesenbad/City/Wiesenbad.md) 
+### #is_/same_as :: [Wiesenbad](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Thermalbad_Wiesenbad/City/Wiesenbad.md) 
 
-### [Wiesenbad.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Thermalbad_Wiesenbad/City/Wiesenbad.public.md) 
+### #is_/same_as :: [Wiesenbad.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Thermalbad_Wiesenbad/City/Wiesenbad.public.md) 
 
-### [Wiesenbad.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Thermalbad_Wiesenbad/City/Wiesenbad.internal.md) 
+### #is_/same_as :: [Wiesenbad.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Thermalbad_Wiesenbad/City/Wiesenbad.internal.md) 
 
-### [Wiesenbad.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Thermalbad_Wiesenbad/City/Wiesenbad.protect.md) 
+### #is_/same_as :: [Wiesenbad.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Thermalbad_Wiesenbad/City/Wiesenbad.protect.md) 
 
-### [Wiesenbad.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Thermalbad_Wiesenbad/City/Wiesenbad.private.md) 
+### #is_/same_as :: [Wiesenbad.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Thermalbad_Wiesenbad/City/Wiesenbad.private.md) 
 
-### [Wiesenbad.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Thermalbad_Wiesenbad/City/Wiesenbad.personal.md) 
+### #is_/same_as :: [Wiesenbad.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Thermalbad_Wiesenbad/City/Wiesenbad.personal.md) 
 
-### [Wiesenbad.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Thermalbad_Wiesenbad/City/Wiesenbad.secret.md)
+### #is_/same_as :: [Wiesenbad.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Thermalbad_Wiesenbad/City/Wiesenbad.secret.md)
 

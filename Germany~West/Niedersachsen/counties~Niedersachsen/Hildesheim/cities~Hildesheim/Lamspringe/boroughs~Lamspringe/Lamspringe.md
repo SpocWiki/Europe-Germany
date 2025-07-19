@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lamspringe](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Lamspringe/boroughs~Lamspringe/Lamspringe.md) 
+### #is_/same_as :: [Lamspringe](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Lamspringe/boroughs~Lamspringe/Lamspringe.md) 
 
-### [Lamspringe.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Lamspringe/boroughs~Lamspringe/Lamspringe.public.md) 
+### #is_/same_as :: [Lamspringe.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Lamspringe/boroughs~Lamspringe/Lamspringe.public.md) 
 
-### [Lamspringe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Lamspringe/boroughs~Lamspringe/Lamspringe.internal.md) 
+### #is_/same_as :: [Lamspringe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Lamspringe/boroughs~Lamspringe/Lamspringe.internal.md) 
 
-### [Lamspringe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Lamspringe/boroughs~Lamspringe/Lamspringe.protect.md) 
+### #is_/same_as :: [Lamspringe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Lamspringe/boroughs~Lamspringe/Lamspringe.protect.md) 
 
-### [Lamspringe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Lamspringe/boroughs~Lamspringe/Lamspringe.private.md) 
+### #is_/same_as :: [Lamspringe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Lamspringe/boroughs~Lamspringe/Lamspringe.private.md) 
 
-### [Lamspringe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Lamspringe/boroughs~Lamspringe/Lamspringe.personal.md) 
+### #is_/same_as :: [Lamspringe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Lamspringe/boroughs~Lamspringe/Lamspringe.personal.md) 
 
-### [Lamspringe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Lamspringe/boroughs~Lamspringe/Lamspringe.secret.md)
+### #is_/same_as :: [Lamspringe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Lamspringe/boroughs~Lamspringe/Lamspringe.secret.md)
 

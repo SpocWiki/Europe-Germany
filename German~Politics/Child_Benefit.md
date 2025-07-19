@@ -18,17 +18,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Child_Benefit](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.md) 
+### #is_/same_as :: [Child_Benefit](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.md) 
 
-### [Child_Benefit.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.public.md) 
+### #is_/same_as :: [Child_Benefit.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.public.md) 
 
-### [Child_Benefit.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.internal.md) 
+### #is_/same_as :: [Child_Benefit.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.internal.md) 
 
-### [Child_Benefit.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.protect.md) 
+### #is_/same_as :: [Child_Benefit.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.protect.md) 
 
-### [Child_Benefit.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.private.md) 
+### #is_/same_as :: [Child_Benefit.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.private.md) 
 
-### [Child_Benefit.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.personal.md) 
+### #is_/same_as :: [Child_Benefit.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.personal.md) 
 
-### [Child_Benefit.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.secret.md)
+### #is_/same_as :: [Child_Benefit.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.secret.md)
 

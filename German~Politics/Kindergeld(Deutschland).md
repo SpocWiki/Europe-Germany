@@ -14,17 +14,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Kindergeld(Deutschland)](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Kindergeld(Deutschland).md) 
+### #is_/same_as :: [Kindergeld(Deutschland)](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Kindergeld(Deutschland).md) 
 
-### [Kindergeld(Deutschland).public](/_public/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Kindergeld(Deutschland).public.md) 
+### #is_/same_as :: [Kindergeld(Deutschland).public](/_public/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Kindergeld(Deutschland).public.md) 
 
-### [Kindergeld(Deutschland).internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Kindergeld(Deutschland).internal.md) 
+### #is_/same_as :: [Kindergeld(Deutschland).internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Kindergeld(Deutschland).internal.md) 
 
-### [Kindergeld(Deutschland).protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Kindergeld(Deutschland).protect.md) 
+### #is_/same_as :: [Kindergeld(Deutschland).protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Kindergeld(Deutschland).protect.md) 
 
-### [Kindergeld(Deutschland).private](/_private/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Kindergeld(Deutschland).private.md) 
+### #is_/same_as :: [Kindergeld(Deutschland).private](/_private/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Kindergeld(Deutschland).private.md) 
 
-### [Kindergeld(Deutschland).personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Kindergeld(Deutschland).personal.md) 
+### #is_/same_as :: [Kindergeld(Deutschland).personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Kindergeld(Deutschland).personal.md) 
 
-### [Kindergeld(Deutschland).secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Kindergeld(Deutschland).secret.md)
+### #is_/same_as :: [Kindergeld(Deutschland).secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Kindergeld(Deutschland).secret.md)
 

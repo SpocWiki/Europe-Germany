@@ -37,17 +37,17 @@ Capital ::  [[Bremen]] ]
 
 ## Confidential Links & Embeds: 
 
-### [State~Bremen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen.md) 
+### #is_/same_as :: [State~Bremen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen.md) 
 
-### [State~Bremen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen.public.md) 
+### #is_/same_as :: [State~Bremen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen.public.md) 
 
-### [State~Bremen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen.internal.md) 
+### #is_/same_as :: [State~Bremen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen.internal.md) 
 
-### [State~Bremen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen.protect.md) 
+### #is_/same_as :: [State~Bremen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen.protect.md) 
 
-### [State~Bremen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen.private.md) 
+### #is_/same_as :: [State~Bremen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen.private.md) 
 
-### [State~Bremen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen.personal.md) 
+### #is_/same_as :: [State~Bremen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen.personal.md) 
 
-### [State~Bremen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen.secret.md)
+### #is_/same_as :: [State~Bremen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen.secret.md)
 

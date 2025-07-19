@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Querfurt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale/City/Querfurt.md) 
+### #is_/same_as :: [Querfurt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale/City/Querfurt.md) 
 
-### [Querfurt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale/City/Querfurt.public.md) 
+### #is_/same_as :: [Querfurt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale/City/Querfurt.public.md) 
 
-### [Querfurt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale/City/Querfurt.internal.md) 
+### #is_/same_as :: [Querfurt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale/City/Querfurt.internal.md) 
 
-### [Querfurt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale/City/Querfurt.protect.md) 
+### #is_/same_as :: [Querfurt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale/City/Querfurt.protect.md) 
 
-### [Querfurt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale/City/Querfurt.private.md) 
+### #is_/same_as :: [Querfurt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale/City/Querfurt.private.md) 
 
-### [Querfurt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale/City/Querfurt.personal.md) 
+### #is_/same_as :: [Querfurt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale/City/Querfurt.personal.md) 
 
-### [Querfurt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale/City/Querfurt.secret.md)
+### #is_/same_as :: [Querfurt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Halle~Saale/City/Querfurt.secret.md)
 

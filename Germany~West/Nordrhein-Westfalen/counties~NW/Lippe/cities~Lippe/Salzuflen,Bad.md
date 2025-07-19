@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Salzuflen,Bad](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad.md) 
+### #is_/same_as :: [Salzuflen,Bad](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad.md) 
 
-### [Salzuflen,Bad.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad.public.md) 
+### #is_/same_as :: [Salzuflen,Bad.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad.public.md) 
 
-### [Salzuflen,Bad.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad.internal.md) 
+### #is_/same_as :: [Salzuflen,Bad.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad.internal.md) 
 
-### [Salzuflen,Bad.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad.protect.md) 
+### #is_/same_as :: [Salzuflen,Bad.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad.protect.md) 
 
-### [Salzuflen,Bad.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad.private.md) 
+### #is_/same_as :: [Salzuflen,Bad.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad.private.md) 
 
-### [Salzuflen,Bad.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad.personal.md) 
+### #is_/same_as :: [Salzuflen,Bad.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad.personal.md) 
 
-### [Salzuflen,Bad.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad.secret.md)
+### #is_/same_as :: [Salzuflen,Bad.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Salzuflen,Bad.secret.md)
 

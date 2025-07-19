@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pforta](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Naumburg~Saale/City/Pforta.md) 
+### #is_/same_as :: [Pforta](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Naumburg~Saale/City/Pforta.md) 
 
-### [Pforta.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Naumburg~Saale/City/Pforta.public.md) 
+### #is_/same_as :: [Pforta.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Naumburg~Saale/City/Pforta.public.md) 
 
-### [Pforta.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Naumburg~Saale/City/Pforta.internal.md) 
+### #is_/same_as :: [Pforta.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Naumburg~Saale/City/Pforta.internal.md) 
 
-### [Pforta.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Naumburg~Saale/City/Pforta.protect.md) 
+### #is_/same_as :: [Pforta.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Naumburg~Saale/City/Pforta.protect.md) 
 
-### [Pforta.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Naumburg~Saale/City/Pforta.private.md) 
+### #is_/same_as :: [Pforta.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Naumburg~Saale/City/Pforta.private.md) 
 
-### [Pforta.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Naumburg~Saale/City/Pforta.personal.md) 
+### #is_/same_as :: [Pforta.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Naumburg~Saale/City/Pforta.personal.md) 
 
-### [Pforta.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Naumburg~Saale/City/Pforta.secret.md)
+### #is_/same_as :: [Pforta.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Burgenlandkreis/cities~Burgenland/Naumburg~Saale/City/Pforta.secret.md)
 

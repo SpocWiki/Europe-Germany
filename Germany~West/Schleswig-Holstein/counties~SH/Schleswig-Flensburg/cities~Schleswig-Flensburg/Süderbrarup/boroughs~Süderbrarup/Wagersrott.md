@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wagersrott](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Süderbrarup/boroughs~Süderbrarup/Wagersrott.md) 
+### #is_/same_as :: [Wagersrott](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Süderbrarup/boroughs~Süderbrarup/Wagersrott.md) 
 
-### [Wagersrott.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Süderbrarup/boroughs~Süderbrarup/Wagersrott.public.md) 
+### #is_/same_as :: [Wagersrott.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Süderbrarup/boroughs~Süderbrarup/Wagersrott.public.md) 
 
-### [Wagersrott.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Süderbrarup/boroughs~Süderbrarup/Wagersrott.internal.md) 
+### #is_/same_as :: [Wagersrott.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Süderbrarup/boroughs~Süderbrarup/Wagersrott.internal.md) 
 
-### [Wagersrott.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Süderbrarup/boroughs~Süderbrarup/Wagersrott.protect.md) 
+### #is_/same_as :: [Wagersrott.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Süderbrarup/boroughs~Süderbrarup/Wagersrott.protect.md) 
 
-### [Wagersrott.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Süderbrarup/boroughs~Süderbrarup/Wagersrott.private.md) 
+### #is_/same_as :: [Wagersrott.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Süderbrarup/boroughs~Süderbrarup/Wagersrott.private.md) 
 
-### [Wagersrott.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Süderbrarup/boroughs~Süderbrarup/Wagersrott.personal.md) 
+### #is_/same_as :: [Wagersrott.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Süderbrarup/boroughs~Süderbrarup/Wagersrott.personal.md) 
 
-### [Wagersrott.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Süderbrarup/boroughs~Süderbrarup/Wagersrott.secret.md)
+### #is_/same_as :: [Wagersrott.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Schleswig-Flensburg/cities~Schleswig-Flensburg/Süderbrarup/boroughs~Süderbrarup/Wagersrott.secret.md)
 

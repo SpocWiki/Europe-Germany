@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bodenteich](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Harpstedt/boroughs~Harpstedt/Bodenteich.md) 
+### #is_/same_as :: [Bodenteich](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Harpstedt/boroughs~Harpstedt/Bodenteich.md) 
 
-### [Bodenteich.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Harpstedt/boroughs~Harpstedt/Bodenteich.public.md) 
+### #is_/same_as :: [Bodenteich.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Harpstedt/boroughs~Harpstedt/Bodenteich.public.md) 
 
-### [Bodenteich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Harpstedt/boroughs~Harpstedt/Bodenteich.internal.md) 
+### #is_/same_as :: [Bodenteich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Harpstedt/boroughs~Harpstedt/Bodenteich.internal.md) 
 
-### [Bodenteich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Harpstedt/boroughs~Harpstedt/Bodenteich.protect.md) 
+### #is_/same_as :: [Bodenteich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Harpstedt/boroughs~Harpstedt/Bodenteich.protect.md) 
 
-### [Bodenteich.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Harpstedt/boroughs~Harpstedt/Bodenteich.private.md) 
+### #is_/same_as :: [Bodenteich.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Harpstedt/boroughs~Harpstedt/Bodenteich.private.md) 
 
-### [Bodenteich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Harpstedt/boroughs~Harpstedt/Bodenteich.personal.md) 
+### #is_/same_as :: [Bodenteich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Harpstedt/boroughs~Harpstedt/Bodenteich.personal.md) 
 
-### [Bodenteich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Harpstedt/boroughs~Harpstedt/Bodenteich.secret.md)
+### #is_/same_as :: [Bodenteich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Oldenburg~Nieders/cities~Oldenburg/Harpstedt/boroughs~Harpstedt/Bodenteich.secret.md)
 

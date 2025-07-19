@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hattorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Hattorf~Harz/boroughs~Hattorf~Harz/Hattorf.md) 
+### #is_/same_as :: [Hattorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Hattorf~Harz/boroughs~Hattorf~Harz/Hattorf.md) 
 
-### [Hattorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Hattorf~Harz/boroughs~Hattorf~Harz/Hattorf.public.md) 
+### #is_/same_as :: [Hattorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Hattorf~Harz/boroughs~Hattorf~Harz/Hattorf.public.md) 
 
-### [Hattorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Hattorf~Harz/boroughs~Hattorf~Harz/Hattorf.internal.md) 
+### #is_/same_as :: [Hattorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Hattorf~Harz/boroughs~Hattorf~Harz/Hattorf.internal.md) 
 
-### [Hattorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Hattorf~Harz/boroughs~Hattorf~Harz/Hattorf.protect.md) 
+### #is_/same_as :: [Hattorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Hattorf~Harz/boroughs~Hattorf~Harz/Hattorf.protect.md) 
 
-### [Hattorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Hattorf~Harz/boroughs~Hattorf~Harz/Hattorf.private.md) 
+### #is_/same_as :: [Hattorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Hattorf~Harz/boroughs~Hattorf~Harz/Hattorf.private.md) 
 
-### [Hattorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Hattorf~Harz/boroughs~Hattorf~Harz/Hattorf.personal.md) 
+### #is_/same_as :: [Hattorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Hattorf~Harz/boroughs~Hattorf~Harz/Hattorf.personal.md) 
 
-### [Hattorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Hattorf~Harz/boroughs~Hattorf~Harz/Hattorf.secret.md)
+### #is_/same_as :: [Hattorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Hattorf~Harz/boroughs~Hattorf~Harz/Hattorf.secret.md)
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Suschow](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Suschow.md) 
+### #is_/same_as :: [Suschow](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Suschow.md) 
 
-### [Suschow.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Suschow.public.md) 
+### #is_/same_as :: [Suschow.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Suschow.public.md) 
 
-### [Suschow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Suschow.internal.md) 
+### #is_/same_as :: [Suschow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Suschow.internal.md) 
 
-### [Suschow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Suschow.protect.md) 
+### #is_/same_as :: [Suschow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Suschow.protect.md) 
 
-### [Suschow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Suschow.private.md) 
+### #is_/same_as :: [Suschow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Suschow.private.md) 
 
-### [Suschow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Suschow.personal.md) 
+### #is_/same_as :: [Suschow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Suschow.personal.md) 
 
-### [Suschow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Suschow.secret.md)
+### #is_/same_as :: [Suschow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberspreewald-Lausitz/cities~Oberspreewald/Vetschau~Spreewald/boroughs~Vetschau/Suschow.secret.md)
 

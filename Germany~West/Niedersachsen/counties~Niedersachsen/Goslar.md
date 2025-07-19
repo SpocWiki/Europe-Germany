@@ -43,17 +43,17 @@ Bergwerk Rammelsberg, Altstadt von Goslar und Oberharzer Wasserwirtschaft ( [[Un
 
 ## Confidential Links & Embeds: 
 
-### [Goslar](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.md) 
+### #is_/same_as :: [Goslar](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.md) 
 
-### [Goslar.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.public.md) 
+### #is_/same_as :: [Goslar.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.public.md) 
 
-### [Goslar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.internal.md) 
+### #is_/same_as :: [Goslar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.internal.md) 
 
-### [Goslar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.protect.md) 
+### #is_/same_as :: [Goslar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.protect.md) 
 
-### [Goslar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.private.md) 
+### #is_/same_as :: [Goslar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.private.md) 
 
-### [Goslar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.personal.md) 
+### #is_/same_as :: [Goslar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.personal.md) 
 
-### [Goslar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.secret.md)
+### #is_/same_as :: [Goslar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar.secret.md)
 

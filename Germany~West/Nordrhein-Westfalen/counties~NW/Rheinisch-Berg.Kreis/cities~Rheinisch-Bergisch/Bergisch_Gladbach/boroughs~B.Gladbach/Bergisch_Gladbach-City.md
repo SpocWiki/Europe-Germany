@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bergisch_Gladbach-City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Bergisch_Gladbach/boroughs~B.Gladbach/Bergisch_Gladbach-City.md) 
+### #is_/same_as :: [Bergisch_Gladbach-City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Bergisch_Gladbach/boroughs~B.Gladbach/Bergisch_Gladbach-City.md) 
 
-### [Bergisch_Gladbach-City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Bergisch_Gladbach/boroughs~B.Gladbach/Bergisch_Gladbach-City.public.md) 
+### #is_/same_as :: [Bergisch_Gladbach-City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Bergisch_Gladbach/boroughs~B.Gladbach/Bergisch_Gladbach-City.public.md) 
 
-### [Bergisch_Gladbach-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Bergisch_Gladbach/boroughs~B.Gladbach/Bergisch_Gladbach-City.internal.md) 
+### #is_/same_as :: [Bergisch_Gladbach-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Bergisch_Gladbach/boroughs~B.Gladbach/Bergisch_Gladbach-City.internal.md) 
 
-### [Bergisch_Gladbach-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Bergisch_Gladbach/boroughs~B.Gladbach/Bergisch_Gladbach-City.protect.md) 
+### #is_/same_as :: [Bergisch_Gladbach-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Bergisch_Gladbach/boroughs~B.Gladbach/Bergisch_Gladbach-City.protect.md) 
 
-### [Bergisch_Gladbach-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Bergisch_Gladbach/boroughs~B.Gladbach/Bergisch_Gladbach-City.private.md) 
+### #is_/same_as :: [Bergisch_Gladbach-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Bergisch_Gladbach/boroughs~B.Gladbach/Bergisch_Gladbach-City.private.md) 
 
-### [Bergisch_Gladbach-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Bergisch_Gladbach/boroughs~B.Gladbach/Bergisch_Gladbach-City.personal.md) 
+### #is_/same_as :: [Bergisch_Gladbach-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Bergisch_Gladbach/boroughs~B.Gladbach/Bergisch_Gladbach-City.personal.md) 
 
-### [Bergisch_Gladbach-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Bergisch_Gladbach/boroughs~B.Gladbach/Bergisch_Gladbach-City.secret.md)
+### #is_/same_as :: [Bergisch_Gladbach-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rheinisch-Berg.Kreis/cities~Rheinisch-Bergisch/Bergisch_Gladbach/boroughs~B.Gladbach/Bergisch_Gladbach-City.secret.md)
 

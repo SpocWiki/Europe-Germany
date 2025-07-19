@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neu-Bukow](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Neu-Bukow.md) 
+### #is_/same_as :: [Neu-Bukow](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Neu-Bukow.md) 
 
-### [Neu-Bukow.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Neu-Bukow.public.md) 
+### #is_/same_as :: [Neu-Bukow.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Neu-Bukow.public.md) 
 
-### [Neu-Bukow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Neu-Bukow.internal.md) 
+### #is_/same_as :: [Neu-Bukow.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Neu-Bukow.internal.md) 
 
-### [Neu-Bukow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Neu-Bukow.protect.md) 
+### #is_/same_as :: [Neu-Bukow.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Neu-Bukow.protect.md) 
 
-### [Neu-Bukow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Neu-Bukow.private.md) 
+### #is_/same_as :: [Neu-Bukow.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Neu-Bukow.private.md) 
 
-### [Neu-Bukow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Neu-Bukow.personal.md) 
+### #is_/same_as :: [Neu-Bukow.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Neu-Bukow.personal.md) 
 
-### [Neu-Bukow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Neu-Bukow.secret.md)
+### #is_/same_as :: [Neu-Bukow.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Neubukow/boroughs~Neubukow/Neu-Bukow.secret.md)
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kalbe](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Kalbe.md) 
+### #is_/same_as :: [Kalbe](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Kalbe.md) 
 
-### [Kalbe.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Kalbe.public.md) 
+### #is_/same_as :: [Kalbe.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Kalbe.public.md) 
 
-### [Kalbe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Kalbe.internal.md) 
+### #is_/same_as :: [Kalbe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Kalbe.internal.md) 
 
-### [Kalbe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Kalbe.protect.md) 
+### #is_/same_as :: [Kalbe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Kalbe.protect.md) 
 
-### [Kalbe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Kalbe.private.md) 
+### #is_/same_as :: [Kalbe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Kalbe.private.md) 
 
-### [Kalbe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Kalbe.personal.md) 
+### #is_/same_as :: [Kalbe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Kalbe.personal.md) 
 
-### [Kalbe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Kalbe.secret.md)
+### #is_/same_as :: [Kalbe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Anhalt-Bitterfeld/cities~Bitterfeld/Zerbst_Anhalt/City/Kalbe.secret.md)
 

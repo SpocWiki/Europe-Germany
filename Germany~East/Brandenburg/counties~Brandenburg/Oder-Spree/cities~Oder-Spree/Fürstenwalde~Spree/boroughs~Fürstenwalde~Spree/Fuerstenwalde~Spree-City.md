@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fuerstenwalde~Spree-City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Fürstenwalde~Spree/boroughs~Fürstenwalde~Spree/Fuerstenwalde~Spree-City.md) 
+### #is_/same_as :: [Fuerstenwalde~Spree-City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Fürstenwalde~Spree/boroughs~Fürstenwalde~Spree/Fuerstenwalde~Spree-City.md) 
 
-### [Fuerstenwalde~Spree-City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Fürstenwalde~Spree/boroughs~Fürstenwalde~Spree/Fuerstenwalde~Spree-City.public.md) 
+### #is_/same_as :: [Fuerstenwalde~Spree-City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Fürstenwalde~Spree/boroughs~Fürstenwalde~Spree/Fuerstenwalde~Spree-City.public.md) 
 
-### [Fuerstenwalde~Spree-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Fürstenwalde~Spree/boroughs~Fürstenwalde~Spree/Fuerstenwalde~Spree-City.internal.md) 
+### #is_/same_as :: [Fuerstenwalde~Spree-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Fürstenwalde~Spree/boroughs~Fürstenwalde~Spree/Fuerstenwalde~Spree-City.internal.md) 
 
-### [Fuerstenwalde~Spree-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Fürstenwalde~Spree/boroughs~Fürstenwalde~Spree/Fuerstenwalde~Spree-City.protect.md) 
+### #is_/same_as :: [Fuerstenwalde~Spree-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Fürstenwalde~Spree/boroughs~Fürstenwalde~Spree/Fuerstenwalde~Spree-City.protect.md) 
 
-### [Fuerstenwalde~Spree-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Fürstenwalde~Spree/boroughs~Fürstenwalde~Spree/Fuerstenwalde~Spree-City.private.md) 
+### #is_/same_as :: [Fuerstenwalde~Spree-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Fürstenwalde~Spree/boroughs~Fürstenwalde~Spree/Fuerstenwalde~Spree-City.private.md) 
 
-### [Fuerstenwalde~Spree-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Fürstenwalde~Spree/boroughs~Fürstenwalde~Spree/Fuerstenwalde~Spree-City.personal.md) 
+### #is_/same_as :: [Fuerstenwalde~Spree-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Fürstenwalde~Spree/boroughs~Fürstenwalde~Spree/Fuerstenwalde~Spree-City.personal.md) 
 
-### [Fuerstenwalde~Spree-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Fürstenwalde~Spree/boroughs~Fürstenwalde~Spree/Fuerstenwalde~Spree-City.secret.md)
+### #is_/same_as :: [Fuerstenwalde~Spree-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Fürstenwalde~Spree/boroughs~Fürstenwalde~Spree/Fuerstenwalde~Spree-City.secret.md)
 

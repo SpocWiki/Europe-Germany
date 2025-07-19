@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Farnstaedt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Seegebiet_Mansfelder_Land/City/Farnstaedt.md) 
+### #is_/same_as :: [Farnstaedt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Seegebiet_Mansfelder_Land/City/Farnstaedt.md) 
 
-### [Farnstaedt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Seegebiet_Mansfelder_Land/City/Farnstaedt.public.md) 
+### #is_/same_as :: [Farnstaedt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Seegebiet_Mansfelder_Land/City/Farnstaedt.public.md) 
 
-### [Farnstaedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Seegebiet_Mansfelder_Land/City/Farnstaedt.internal.md) 
+### #is_/same_as :: [Farnstaedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Seegebiet_Mansfelder_Land/City/Farnstaedt.internal.md) 
 
-### [Farnstaedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Seegebiet_Mansfelder_Land/City/Farnstaedt.protect.md) 
+### #is_/same_as :: [Farnstaedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Seegebiet_Mansfelder_Land/City/Farnstaedt.protect.md) 
 
-### [Farnstaedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Seegebiet_Mansfelder_Land/City/Farnstaedt.private.md) 
+### #is_/same_as :: [Farnstaedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Seegebiet_Mansfelder_Land/City/Farnstaedt.private.md) 
 
-### [Farnstaedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Seegebiet_Mansfelder_Land/City/Farnstaedt.personal.md) 
+### #is_/same_as :: [Farnstaedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Seegebiet_Mansfelder_Land/City/Farnstaedt.personal.md) 
 
-### [Farnstaedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Seegebiet_Mansfelder_Land/City/Farnstaedt.secret.md)
+### #is_/same_as :: [Farnstaedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Mansfeld-Südharz/cities~Mansfeld/Seegebiet_Mansfelder_Land/City/Farnstaedt.secret.md)
 

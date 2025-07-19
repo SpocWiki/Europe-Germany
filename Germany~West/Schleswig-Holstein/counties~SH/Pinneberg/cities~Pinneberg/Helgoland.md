@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Helgoland](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Helgoland.md) 
+### #is_/same_as :: [Helgoland](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Helgoland.md) 
 
-### [Helgoland.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Helgoland.public.md) 
+### #is_/same_as :: [Helgoland.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Helgoland.public.md) 
 
-### [Helgoland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Helgoland.internal.md) 
+### #is_/same_as :: [Helgoland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Helgoland.internal.md) 
 
-### [Helgoland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Helgoland.protect.md) 
+### #is_/same_as :: [Helgoland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Helgoland.protect.md) 
 
-### [Helgoland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Helgoland.private.md) 
+### #is_/same_as :: [Helgoland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Helgoland.private.md) 
 
-### [Helgoland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Helgoland.personal.md) 
+### #is_/same_as :: [Helgoland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Helgoland.personal.md) 
 
-### [Helgoland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Helgoland.secret.md)
+### #is_/same_as :: [Helgoland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Pinneberg/cities~Pinneberg/Helgoland.secret.md)
 

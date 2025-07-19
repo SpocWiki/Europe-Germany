@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Frauenstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Frauenstein.md) 
+### #is_/same_as :: [Frauenstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Frauenstein.md) 
 
-### [Frauenstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Frauenstein.public.md) 
+### #is_/same_as :: [Frauenstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Frauenstein.public.md) 
 
-### [Frauenstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Frauenstein.internal.md) 
+### #is_/same_as :: [Frauenstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Frauenstein.internal.md) 
 
-### [Frauenstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Frauenstein.protect.md) 
+### #is_/same_as :: [Frauenstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Frauenstein.protect.md) 
 
-### [Frauenstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Frauenstein.private.md) 
+### #is_/same_as :: [Frauenstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Frauenstein.private.md) 
 
-### [Frauenstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Frauenstein.personal.md) 
+### #is_/same_as :: [Frauenstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Frauenstein.personal.md) 
 
-### [Frauenstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Frauenstein.secret.md)
+### #is_/same_as :: [Frauenstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Wiesbaden/boroughs~Wiesbaden/Frauenstein.secret.md)
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wesselburen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Büsum-Wesselburen/boroughs~Büsum/Wesselburen.md) 
+### #is_/same_as :: [Wesselburen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Büsum-Wesselburen/boroughs~Büsum/Wesselburen.md) 
 
-### [Wesselburen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Büsum-Wesselburen/boroughs~Büsum/Wesselburen.public.md) 
+### #is_/same_as :: [Wesselburen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Büsum-Wesselburen/boroughs~Büsum/Wesselburen.public.md) 
 
-### [Wesselburen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Büsum-Wesselburen/boroughs~Büsum/Wesselburen.internal.md) 
+### #is_/same_as :: [Wesselburen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Büsum-Wesselburen/boroughs~Büsum/Wesselburen.internal.md) 
 
-### [Wesselburen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Büsum-Wesselburen/boroughs~Büsum/Wesselburen.protect.md) 
+### #is_/same_as :: [Wesselburen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Büsum-Wesselburen/boroughs~Büsum/Wesselburen.protect.md) 
 
-### [Wesselburen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Büsum-Wesselburen/boroughs~Büsum/Wesselburen.private.md) 
+### #is_/same_as :: [Wesselburen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Büsum-Wesselburen/boroughs~Büsum/Wesselburen.private.md) 
 
-### [Wesselburen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Büsum-Wesselburen/boroughs~Büsum/Wesselburen.personal.md) 
+### #is_/same_as :: [Wesselburen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Büsum-Wesselburen/boroughs~Büsum/Wesselburen.personal.md) 
 
-### [Wesselburen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Büsum-Wesselburen/boroughs~Büsum/Wesselburen.secret.md)
+### #is_/same_as :: [Wesselburen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Büsum-Wesselburen/boroughs~Büsum/Wesselburen.secret.md)
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wanzleben](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Wanzleben.md) 
+### #is_/same_as :: [Wanzleben](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Wanzleben.md) 
 
-### [Wanzleben.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Wanzleben.public.md) 
+### #is_/same_as :: [Wanzleben.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Wanzleben.public.md) 
 
-### [Wanzleben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Wanzleben.internal.md) 
+### #is_/same_as :: [Wanzleben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Wanzleben.internal.md) 
 
-### [Wanzleben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Wanzleben.protect.md) 
+### #is_/same_as :: [Wanzleben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Wanzleben.protect.md) 
 
-### [Wanzleben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Wanzleben.private.md) 
+### #is_/same_as :: [Wanzleben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Wanzleben.private.md) 
 
-### [Wanzleben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Wanzleben.personal.md) 
+### #is_/same_as :: [Wanzleben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Wanzleben.personal.md) 
 
-### [Wanzleben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Wanzleben.secret.md)
+### #is_/same_as :: [Wanzleben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Börde/cities~Börde/Wanzleben-Börde/City/Wanzleben.secret.md)
 
