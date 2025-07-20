@@ -762,7 +762,7 @@ Check out this Repository into this Subfolder:
 
 #has_/image_for_/coat_of_arms :: ![[./Coat_of_arms_of_Germany.svg|150]] <img src="./Coat_of_arms_of_Germany.svg" width="150"/> 
 
-#has_/sound_of_/anthem :: ![[Anthem-Germany.mp3]]
+#has_/sound_of_/anthem :: ![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Germany.mp3]]
 
 ### #has_/map 
 
