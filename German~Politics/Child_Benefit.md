@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - Child Benefit
+- "Child Benefit"
 ---
-
 
 ## #has_/text_of_/abstract 
 

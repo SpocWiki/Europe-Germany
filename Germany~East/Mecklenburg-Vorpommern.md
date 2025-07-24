@@ -1,84 +1,13 @@
----
-has_id_wikidata: Q1196
-location:
-- 53.7906
-- 12.5967
-type: State
-ISO3166_2: DE-MV
-SpocWebEntityId: 36018
-isDeleted: false
-Confidential: public
-tags:
-- geo/State
-flag: "[[_Standards/WikiData/WD~flag of Mecklenburg-Vorpommern]]"
-replaces:
-- "[[_Standards/WikiData/WD~Schwerin District]]"
-- "[[_Standards/WikiData/WD~Western Pomerania]]"
-- "[[_Standards/WikiData/WD~Neubrandenburg District]]"
-- "[[_Standards/WikiData/WD~Rostock District]]"
-German_regional_key: 13
-shares_border_with:
-- "[[_Standards/WikiData/WD~West Pomeranian Voivodeship]]"
-- '[[_Standards/WikiData/WD~Schleswig-Holstein]]'
-- "[[_Standards/WikiData/WD~Lower Saxony]]"
-- '[[_Standards/WikiData/WD~Brandenburg]]'
+﻿---
+archives_at: '[[_Standards/WikiData/WD~Q28737515]]'
 area: 23174
-WOEID: 2345492
-population: 1628378
-coordinates_of_easternmost_point: "Point(14.416666666 53.333333333)"
-flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mecklenburg-Western%20Pomerania.svg"
-motto_text: "MV tut gut."
-OmegaWiki_Defined_Meaning: 414538
-native_label: Mecklenburg-Vorpommern
-inception: 1990-10-03
-has_time_started: 1990-10-03
+BHCL_UUID: 1f2bf35e-5d93-49e4-bdd5-a86e453d7271
+capital: '[[_Standards/WikiData/WD~Schwerin]]'
+coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Mecklenburg-Vorpommern]]"
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Mecklenburg-Western%20Pomerania%20%28great%29.svg"
 Commons_category: Mecklenburg-Vorpommern
 Commons_gallery: Mecklenburg-Vorpommern
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Schwerin%20Castle%20Aerial%20View%20Island%20Luftbild%20Schweriner%20Schloss%20Insel%20See.jpg"
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Mecklenburg-Western%20Pomerania%20%28great%29.svg"
-Image_Archive_Herder_Institute: Q1196
-head_of_government: "[[_Standards/WikiData/WD~Manuela Schwesig]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Mecklenburg-Vorpommern]]"
-instance_of: "[[_Standards/WikiData/WD~federated state of Germany]]"
-motto: '[[_Standards/WikiData/WD~Q1284789]]'
-main_regulatory_text: "[[_Standards/WikiData/WD~Constitution of the State of Mecklenburg-Vorpommern]]"
-history_of_topic: '[[_Standards/WikiData/WD~Q1516530]]'
-highest_point: "[[_Standards/WikiData/WD~Helpt Hills]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~State Constitutional Court of Mecklenburg-Vorpommern]]"
-coordinates_of_westernmost_point: "Point(10.6 53.366666666)"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal:Mecklenburg-Vorpommern]]"
-geoshape: "http://commons.wikimedia.org/data/main/Data:Mecklenburg-Vorpommern.map"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Ahlbeck%20banner%20Strand%20Seebruecke.jpg"
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Mecklenburg-Vorpommern%20in%20Germany.svg"
-detail_map:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Mecklenburg-Vorpommern.gif"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Mecklenburg-Vorpommern%2C%20administrative%20divisions%20-%20de%20-%20colored.svg"
-location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Mecklenburg-Vorpommern%20location%20map.svg"
-relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Mecklenburg-Vorpommern%20relief%20location%20map.jpg"
-official_website: "https://www.mecklenburg-vorpommern.de/"
-Dewey_Decimal_Classification: 2--4317
-ISO_3166_2_code: DE-MV
-HASC: DE.MV
-NUTS_code:
-- DE8
-- DE80
-FIPS_10_4_countries_and_regions_: GM12
-subreddit: MeckPomm
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Minister-President of Mecklenburg-Vorpommern]]"
-executive_body: "[[_Standards/WikiData/WD~Government of Mecklenburg-Western Pomerania]]"
-list_of_monuments: '[[_Standards/WikiData/WD~Q20754020]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25930012]]'
-follows: '[[_Standards/WikiData/WD~Mecklenburg]]'
-archives_at: '[[_Standards/WikiData/WD~Q28737515]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q56822973]]'
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Mecklenburg-Western Pomerania]]"
-BHCL_UUID: 1f2bf35e-5d93-49e4-bdd5-a86e453d7271
-Facebook_username: mvtutgut
-Instagram_username: mvtutgut
-coordinates_of_northernmost_point: "Point(13.433333333 54.683333333)"
-coordinate_location: "Point(12.5 53.75)"
-coordinates_of_southernmost_point: "Point(11.383333333 53.1)"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Baltic Sea]]"
+Confidential: public
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Schwerin]]'
 - '[[_Standards/WikiData/WD~Rostock]]'
@@ -88,14 +17,85 @@ contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Ludwigslust-Parchim District]]"
 - "[[_Standards/WikiData/WD~Vorpommern-Rügen District]]"
 - "[[_Standards/WikiData/WD~Vorpommern-Greifswald District]]"
-capital: '[[_Standards/WikiData/WD~Schwerin]]'
+coordinates_of_easternmost_point: "Point(14.416666666 53.333333333)"
+coordinates_of_northernmost_point: "Point(13.433333333 54.683333333)"
+coordinates_of_southernmost_point: "Point(11.383333333 53.1)"
+coordinates_of_westernmost_point: "Point(10.6 53.366666666)"
+coordinate_location: "Point(12.5 53.75)"
+country: '[[_Standards/WikiData/WD~Germany]]'
+detail_map:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Mecklenburg-Vorpommern.gif"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Mecklenburg-Vorpommern%2C%20administrative%20divisions%20-%20de%20-%20colored.svg"
+Dewey_Decimal_Classification: 2--4317
+economy_of_topic: "[[_Standards/WikiData/WD~economy of Mecklenburg-Western Pomerania]]"
+elevation_above_sea_level: 0
+executive_body: "[[_Standards/WikiData/WD~Government of Mecklenburg-Western Pomerania]]"
+Facebook_username: mvtutgut
+FIPS_10_4_countries_and_regions_: GM12
+flag: "[[_Standards/WikiData/WD~flag of Mecklenburg-Vorpommern]]"
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mecklenburg-Western%20Pomerania.svg"
+follows: '[[_Standards/WikiData/WD~Mecklenburg]]'
+geoshape: "http://commons.wikimedia.org/data/main/Data:Mecklenburg-Vorpommern.map"
+German_regional_key: 13
+HASC: DE.MV
+has_id_wikidata: Q1196
+has_time_started: 1990-10-03
+head_of_government: "[[_Standards/WikiData/WD~Manuela Schwesig]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~State Constitutional Court of Mecklenburg-Vorpommern]]"
+highest_point: "[[_Standards/WikiData/WD~Helpt Hills]]"
+history_of_topic: '[[_Standards/WikiData/WD~Q1516530]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Schwerin%20Castle%20Aerial%20View%20Island%20Luftbild%20Schweriner%20Schloss%20Insel%20See.jpg"
+Image_Archive_Herder_Institute: Q1196
+inception: 1990-10-03
+Instagram_username: mvtutgut
+instance_of: "[[_Standards/WikiData/WD~federated state of Germany]]"
+isDeleted: false
+ISO3166_2: DE-MV
+ISO_3166_2_code: DE-MV
+list_of_monuments: '[[_Standards/WikiData/WD~Q20754020]]'
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Baltic Sea]]"
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Germany]]'
 located_in_time_zone:
 - "[[_Standards/WikiData/WD~UTC+01:00]]"
 - "[[_Standards/WikiData/WD~UTC+02:00]]"
-elevation_above_sea_level: 0
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Germany]]'
-country: '[[_Standards/WikiData/WD~Germany]]'
+location:
+- 53.7906
+- 12.5967
+location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Mecklenburg-Vorpommern%20location%20map.svg"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Mecklenburg-Vorpommern%20in%20Germany.svg"
+main_regulatory_text: "[[_Standards/WikiData/WD~Constitution of the State of Mecklenburg-Vorpommern]]"
+motto: '[[_Standards/WikiData/WD~Q1284789]]'
+motto_text: "MV tut gut."
+native_label: Mecklenburg-Vorpommern
 number_of_seats_in_assembly: 3
+NUTS_code:
+- DE8
+- DE80
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Minister-President of Mecklenburg-Vorpommern]]"
+official_website: "https://www.mecklenburg-vorpommern.de/"
+OmegaWiki_Defined_Meaning: 414538
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Ahlbeck%20banner%20Strand%20Seebruecke.jpg"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25930012]]'
+population: 1628378
+relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Mecklenburg-Vorpommern%20relief%20location%20map.jpg"
+replaces:
+- "[[_Standards/WikiData/WD~Schwerin District]]"
+- "[[_Standards/WikiData/WD~Western Pomerania]]"
+- "[[_Standards/WikiData/WD~Neubrandenburg District]]"
+- "[[_Standards/WikiData/WD~Rostock District]]"
+shares_border_with:
+- "[[_Standards/WikiData/WD~West Pomeranian Voivodeship]]"
+- '[[_Standards/WikiData/WD~Schleswig-Holstein]]'
+- "[[_Standards/WikiData/WD~Lower Saxony]]"
+- '[[_Standards/WikiData/WD~Brandenburg]]'
+SpocWebEntityId: 36018
+subreddit: MeckPomm
+tags:
+- geo/State
+topic_s_main_category: '[[_Standards/WikiData/WD~Q56822973]]'
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal:Mecklenburg-Vorpommern]]"
+type: State
+WOEID: 2345492
 ---
 
 # [[Mecklenburg-Vorpommern]] 

@@ -1,20 +1,21 @@
----
-location:
-  - 52.43
-  - 9.2
-mapzoom:
-  - 7
-  - 12
-mapmarker: city
-type: City
-tags:
-  - geo/City
-SpocWebEntityId: 32670
-isDeleted: false
-confidential: public
+﻿---
 aliases:
-  - Muenchehagen
+- Muenchehagen
+confidential: public
+isDeleted: false
+location:
+- 52.43
+- 9.2
+mapmarker: city
+mapzoom:
+- 7
+- 12
+SpocWebEntityId: 32670
+tags:
+- geo/City
+type: City
 ---
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::9.2] 

@@ -1,20 +1,21 @@
----
-location:
-  - 52.15
-  - 10.77
-mapzoom:
-  - 7
-  - 12
-mapmarker: city
-type: City
-tags:
-  - geo/City
-SpocWebEntityId: 34151
-isDeleted: false
-confidential: public
+﻿---
 aliases:
-  - Schoeppenstedt
+- Schoeppenstedt
+confidential: public
+isDeleted: false
+location:
+- 52.15
+- 10.77
+mapmarker: city
+mapzoom:
+- 7
+- 12
+SpocWebEntityId: 34151
+tags:
+- geo/City
+type: City
 ---
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::10.77] 

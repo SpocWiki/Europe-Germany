@@ -1,16 +1,17 @@
----
-location: [51.15,14.98] 
-mapzoom: [7,12] 
-mapmarker: city 
-type: City
+﻿---
+confidential: public
+isDeleted: false
+location:
+- 51.15
+- 14.98
+mapmarker: city
+mapzoom:
+- 7
+- 12
+SpocWebEntityId: 30672
 tags:
 - geo/City
-
-
-SpocWebEntityId: 30672
-isDeleted: false
-confidential: public
-
+type: City
 ---
 
 ## [[Görlitz-city]] 

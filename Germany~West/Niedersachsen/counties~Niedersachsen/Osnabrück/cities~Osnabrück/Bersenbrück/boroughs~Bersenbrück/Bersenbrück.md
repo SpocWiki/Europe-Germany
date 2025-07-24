@@ -1,20 +1,21 @@
----
-location:
-  - 52.88
-  - 8
-mapzoom:
-  - 7
-  - 12
-mapmarker: city
-type: City
-tags:
-  - geo/City
-SpocWebEntityId: 29146
-isDeleted: false
-confidential: public
+﻿---
 aliases:
-  - Bersenbrueck
+- Bersenbrueck
+confidential: public
+isDeleted: false
+location:
+- 52.88
+- 8
+mapmarker: city
+mapzoom:
+- 7
+- 12
+SpocWebEntityId: 29146
+tags:
+- geo/City
+type: City
 ---
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::8] 

@@ -1,39 +1,38 @@
----
-location: [50.8699,10.1207] 
-type: Country
-title: Deutschland (Germany)
-SpocWebEntityId: 59064
-
-license: CC BY-SA 4.0
-source: https://datahub.io/core/country-codes
-isDeleted: false
-isReadOnly: false
-draft: false
-confidential: public
-
-tags:
-- geo/Country
+﻿---
 aliases:
 - Deutschland
-- West Germany
+- "West Germany"
 - Alemania
 - Allemagne
-- Federal Republic of Germany
-- Republica Federal de Alemania
-- Bundesrepublik Deutschland 
+- "Federal Republic of Germany"
+- "Republica Federal de Alemania"
+- "Bundesrepublik Deutschland"
 - BRD
-
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - de
-
-cssclasses: Country
-publish: true
-linkTitle: 
-keywords: 
 layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 50.8699
+- 10.1207
+publish: true
 publishDate: 
-expiryDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 59064
+tags:
+- geo/Country
+title: "Deutschland (Germany)"
+type: Country
 ---
+
 [ISO2::] 
 [ISO3::BRD] 
 ```leaflet
@@ -71,9 +70,9 @@ has_place_continent:: [[Europe]]
 [[Rheinland-Pfalz|Rheinland-Pfalz]] 
 [[Saarland]] 
 [[Schleswig-Holstein|Schleswig-Holstein]] 
-[[State~Berlin|State~Berlin]] 
-[[State~Bremen|State~Bremen]] 
-[[State~Hamburg|State~Hamburg]] 
+[[Germany~West/Berlin,State|Berlin,State]] 
+[[Germany~West/Bremen,State|Bremen,State]] 
+[[Germany~West/Hamburg,State|Hamburg,State]] 
 
 
 ## Confidential Links & Embeds: 

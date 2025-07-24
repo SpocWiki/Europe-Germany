@@ -1,16 +1,17 @@
----
-location: [54.3,10.2] 
-mapzoom: [7,12] 
-mapmarker: city 
-type: City
+﻿---
+confidential: public
+isDeleted: false
+location:
+- 54.3
+- 10.2
+mapmarker: city
+mapzoom:
+- 7
+- 12
+SpocWebEntityId: 30828
 tags:
 - geo/City
-
-
-SpocWebEntityId: 30828
-isDeleted: false
-confidential: public
-
+type: City
 ---
 
 # [[Heidberg]] 

@@ -1,17 +1,18 @@
----
-location: [52.95,9.8] 
-mapzoom: [7,12] 
-mapmarker: city 
-type: City
+﻿---
+confidential: public
+isDeleted: false
+location:
+- 52.95
+- 9.8
+mapmarker: city
+mapzoom:
+- 7
+- 12
+SpocWebEntityId: 32517
 tags:
 - geo/City
 - is_a_/City
-
-
-SpocWebEntityId: 32517
-isDeleted: false
-confidential: public
-
+type: City
 ---
 
 #is_a_/City 

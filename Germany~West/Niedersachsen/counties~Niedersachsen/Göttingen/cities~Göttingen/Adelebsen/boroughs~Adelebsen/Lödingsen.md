@@ -1,20 +1,21 @@
----
-location:
-  - 51.58
-  - 9.78
-mapzoom:
-  - 7
-  - 12
-mapmarker: city
-type: City
-tags:
-  - geo/City
-SpocWebEntityId: 32188
-isDeleted: false
-confidential: public
+﻿---
 aliases:
-  - Loedingsen
+- Loedingsen
+confidential: public
+isDeleted: false
+location:
+- 51.58
+- 9.78
+mapmarker: city
+mapzoom:
+- 7
+- 12
+SpocWebEntityId: 32188
+tags:
+- geo/City
+type: City
 ---
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::9.78] 

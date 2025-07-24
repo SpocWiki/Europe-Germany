@@ -1,24 +1,26 @@
----
-location: [53.83,9.3] 
-mapzoom: [7,12] 
-mapmarker: city 
-type: City
+﻿---
+confidential: public
+isDeleted: false
+location:
+- 53.83
+- 9.3
+mapmarker: city
+mapzoom:
+- 7
+- 12
+SpocWebEntityId: 30251
 tags:
 - geo/City
-
-
-SpocWebEntityId: 30251
-isDeleted: false
-confidential: public
-
+type: City
 ---
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::9.3] 
 [has_place_latitude::53.83] 
 [name::Freiburg~Hamburg] 
 has_place_country:: [[Germany]]  
-has_place_province:: [[State~Hamburg]]  
+has_place_province:: [[../../../../../../Hamburg,State]]  
 [Population::] 
 [Unknown::] 
 

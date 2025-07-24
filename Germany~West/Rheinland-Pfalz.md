@@ -1,20 +1,17 @@
----
-has_id_wikidata: Q1200
-location:
-- 49.914
-- 7.57652
-type: State
-ISO3166_2: DE-RP
-SpocWebEntityId: 36021
-isDeleted: false
+﻿---
+aliases:
+- Rhineland-Palatinate
+- Rheinland-Pfalz
+archives_at: "[[_Standards/WikiData/WD~Landeshauptarchiv Koblenz]]"
+area: 19853.36
+award_received: '[[_Standards/WikiData/WD~BigBrotherAwards]]'
+capital: '[[_Standards/WikiData/WD~Mainz]]'
+category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q19473381]]'
+coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Rhineland-Palatinate]]"
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Rhineland-Palatinate.svg"
+Commons_category: Rhineland-Palatinate
+Commons_gallery: Rheinland-Pfalz
 Confidential: public
-tags:
-- geo/State
-icon: Flag_of_Rhineland-Palatinate
-head_of_government: "[[_Standards/WikiData/WD~Malu Dreyer]]"
-legislative_body:
-- "[[_Standards/WikiData/WD~Landtag of Rhineland-Palatinate]]"
-highest_point: '[[_Standards/WikiData/WD~Erbeskopf]]'
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Rheinhessen-Pfalz]]'
 - "[[_Standards/WikiData/WD~Trier Government Region]]"
@@ -58,19 +55,72 @@ contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Altenkirchen district]]"
 - '[[_Standards/WikiData/WD~Pirmasens]]'
 - '[[_Standards/WikiData/WD~Zweibrücken]]'
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Rhineland-Palatinate]]"
-lowest_point: '[[_Standards/WikiData/WD~Nonnenwerth]]'
-flag: "[[_Standards/WikiData/WD~flag of Rhineland-Palatinate]]"
-instance_of:
-- "[[_Standards/WikiData/WD~federated state of Germany]]"
-archives_at: "[[_Standards/WikiData/WD~Landeshauptarchiv Koblenz]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Rhineland-Palatinate]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Constitutional Court of Rhineland-Palatinate]]"
+coordinate_location: "Point(7.449722 49.913056)"
+country: '[[_Standards/WikiData/WD~Germany]]'
+cssclasses:
+- state
 described_by_source:
 - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal:Rhineland-Palatinate]]"
+Dewey_Decimal_Classification: 2--4343
+economy_of_topic: "[[_Standards/WikiData/WD~economy of Rhineland-Palatinate]]"
+elevation_above_sea_level: 89
+expiryDate: 
+Facebook_username: landesregierungrheinlandpfalz
+FIPS_10_4_countries_and_regions_: GM08
+flag: "[[_Standards/WikiData/WD~flag of Rhineland-Palatinate]]"
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rhineland-Palatinate.svg"
+geoshape: "http://commons.wikimedia.org/data/main/Data:Rheinland-Pfalz.map"
+German_regional_key: 07
+HASC:
+- DE.RP
+has_id_wikidata: Q1200
+has_time_started: 1946-08-30
+head_of_government: "[[_Standards/WikiData/WD~Malu Dreyer]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Constitutional Court of Rhineland-Palatinate]]"
+highest_point: '[[_Standards/WikiData/WD~Erbeskopf]]'
+history_of_topic: "[[_Standards/WikiData/WD~history of Rhineland-Palatinate]]"
+icon: Flag_of_Rhineland-Palatinate
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mainz%20Deutschhaus%20BW%202012-08-18%2013-28-02.jpg"
+inception: 1946-08-30
+Instagram_username: ministerpraesidentin.rlp
+instance_of:
+- "[[_Standards/WikiData/WD~federated state of Germany]]"
+isDeleted: false
+ISO3166_2: DE-RP
+ISO_3166_2_code: DE-RP
+keywords: 
+language_used:
+- '[[_Standards/WikiData/WD~Luxembourgish]]'
+- "[[_Standards/WikiData/WD~Palatinate German]]"
+layout: 
+legislative_body:
+- "[[_Standards/WikiData/WD~Landtag of Rhineland-Palatinate]]"
+linkTitle: 
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Germany]]'
+located_in_time_zone:
+- "[[_Standards/WikiData/WD~UTC+01:00]]"
+- "[[_Standards/WikiData/WD~UTC+02:00]]"
+location:
+- 49.914
+- 7.57652
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Rhineland-Palatinate%20in%20Germany.svg"
+lowest_point: '[[_Standards/WikiData/WD~Nonnenwerth]]'
+native_label:
+- Rheinland-Pfalz
+NUTS_code: DEB
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Minister-President of Rhineland-Palatinate]]"
-category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q19473381]]'
+official_name: Rheinland-Pfalz
+official_website: "https://www.rlp.de/"
+OmegaWiki_Defined_Meaning: 642911
+open_data_portal:
+- "[[_Standards/WikiData/WD~Open-Government-Data-Portal Rheinland-Pfalz]]"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Rhine%20valley%20banner.jpg"
+permanent_duplicated_item:
+- '[[_Standards/WikiData/WD~Q25930020]]'
+population: 4084844
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Rheinland-Pfalz2.ogg"
+publish: true
+publishDate: 
 shares_border_with:
 - '[[_Standards/WikiData/WD~Lorraine]]'
 - '[[_Standards/WikiData/WD~Baden-Württemberg]]'
@@ -81,62 +131,12 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Moselle]]'
 - '[[_Standards/WikiData/WD~Bas-Rhin]]'
 - '[[_Standards/WikiData/WD~Wallonia]]'
-permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q25930020]]'
-open_data_portal:
-- "[[_Standards/WikiData/WD~Open-Government-Data-Portal Rheinland-Pfalz]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Rhineland-Palatinate]]"
-award_received: '[[_Standards/WikiData/WD~BigBrotherAwards]]'
-geoshape: "http://commons.wikimedia.org/data/main/Data:Rheinland-Pfalz.map"
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Rhineland-Palatinate%20in%20Germany.svg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mainz%20Deutschhaus%20BW%202012-08-18%2013-28-02.jpg"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Rhine%20valley%20banner.jpg"
-official_website: "https://www.rlp.de/"
-ISO_3166_2_code: DE-RP
-HASC:
-- DE.RP
-FIPS_10_4_countries_and_regions_: GM08
-Commons_gallery: Rheinland-Pfalz
+SpocWebEntityId: 36021
+tags:
+- geo/State
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal:Rhineland-Palatinate]]"
+type: State
 X_username: rlpNews
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Rheinland-Pfalz2.ogg"
-Facebook_username: landesregierungrheinlandpfalz
-Instagram_username: ministerpraesidentin.rlp
-coordinate_location: "Point(7.449722 49.913056)"
-capital: '[[_Standards/WikiData/WD~Mainz]]'
-located_in_time_zone:
-- "[[_Standards/WikiData/WD~UTC+01:00]]"
-- "[[_Standards/WikiData/WD~UTC+02:00]]"
-language_used:
-- '[[_Standards/WikiData/WD~Luxembourgish]]'
-- "[[_Standards/WikiData/WD~Palatinate German]]"
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Germany]]'
-country: '[[_Standards/WikiData/WD~Germany]]'
-elevation_above_sea_level: 89
-German_regional_key: 07
-NUTS_code: DEB
-area: 19853.36
-population: 4084844
-OmegaWiki_Defined_Meaning: 642911
-inception: 1946-08-30
-has_time_started: 1946-08-30
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Rhineland-Palatinate.svg"
-flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rhineland-Palatinate.svg"
-Commons_category: Rhineland-Palatinate
-native_label:
-- Rheinland-Pfalz
-official_name: Rheinland-Pfalz
-Dewey_Decimal_Classification: 2--4343
-cssclasses:
-- state
-publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
-aliases:
-- Rhineland-Palatinate
-- Rheinland-Pfalz
 ---
 
 # Rhineland-Palatinate

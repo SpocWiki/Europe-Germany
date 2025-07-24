@@ -1,31 +1,31 @@
----
-title: Lahn-Dill-Kreis
-lang: en
-type: private_note
-keywords: Lahn-Dill-Kreis
-linkTitle: Lahn-Dill-Kreis
-has_Template: "[[Extract~Note~Template]]"
-license: (c)copyrighted
+﻿---
+aliases:
+- Lahn-Dill-Kreis
 confidential: private
+cssclasses:
+- private
+- note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate: 
+has_Template: '[[Extract~Note~Template]]'
+has_time_started: 2025-04-14
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - private
-  - note
+keywords: Lahn-Dill-Kreis
+lang: en
 layout: 
-draft: true
+license: (c)copyrighted
+linkTitle: Lahn-Dill-Kreis
 publish: false
 publishDate: 
-expiryDate: 
-has_time_started: 2025-04-14
-aliases:
-  - Lahn-Dill-Kreis
 tags:
-  - Lahn-Dill-Kreis
-  - excalidraw
-excalidraw-plugin: parsed
-excalidraw-open-md: true
-excalidraw-autoexport: svg
+- Lahn-Dill-Kreis
+- excalidraw
+title: Lahn-Dill-Kreis
+type: private_note
 ---
 
 # [[Lahn-Dill-Kreis]] 

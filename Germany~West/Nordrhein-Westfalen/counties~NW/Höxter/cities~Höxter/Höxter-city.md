@@ -1,21 +1,20 @@
----
-location:
-  - 51.78
-  - 9.38
-mapzoom:
-  - 7
-  - 12
-mapmarker: city
-type: City
-tags:
-  - geo/City
-SpocWebEntityId: 31082
-isDeleted: false
-confidential: public
+﻿---
 aliases:
-  - Hoexter
+- Hoexter
+confidential: public
+isDeleted: false
+location:
+- 51.78
+- 9.38
+mapmarker: city
+mapzoom:
+- 7
+- 12
+SpocWebEntityId: 31082
+tags:
+- geo/City
+type: City
 ---
-
 
 #is_a_/Place  
 #is_a_ :: [[Place]] 

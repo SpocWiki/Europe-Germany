@@ -1,19 +1,19 @@
----
-location:
-  - 49.25
-  - 6.85
-mapzoom:
-  - 7
-  - 12
-mapmarker: city
-type: City
-tags:
-  - geo/City
-SpocWebEntityId: 35338
-isDeleted: false
-confidential: public
+﻿---
 aliases:
-  - Voelklingen
+- Voelklingen
+confidential: public
+isDeleted: false
+location:
+- 49.25
+- 6.85
+mapmarker: city
+mapzoom:
+- 7
+- 12
+SpocWebEntityId: 35338
+tags:
+- geo/City
+type: City
 ---
 
 # [[Völklingen]] 

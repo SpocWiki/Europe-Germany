@@ -1,20 +1,21 @@
----
-location:
-  - 53.24
-  - 10.41
-mapzoom:
-  - 7
-  - 12
-mapmarker: city
-type: City
-tags:
-  - geo/City
-SpocWebEntityId: 32178
-isDeleted: false
-confidential: public
+﻿---
 aliases:
-  - Lueneburg
+- Lueneburg
+confidential: public
+isDeleted: false
+location:
+- 53.24
+- 10.41
+mapmarker: city
+mapzoom:
+- 7
+- 12
+SpocWebEntityId: 32178
+tags:
+- geo/City
+type: City
 ---
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::10.41] 

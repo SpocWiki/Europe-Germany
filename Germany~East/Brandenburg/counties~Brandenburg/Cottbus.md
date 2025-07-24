@@ -10,10 +10,11 @@ tags:
 SpocWebEntityId: 31596
 isDeleted: false
 confidential: public
-aliases
+aliases:
 - Cottbus
 - Kottbus
 ---
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::14.33] 

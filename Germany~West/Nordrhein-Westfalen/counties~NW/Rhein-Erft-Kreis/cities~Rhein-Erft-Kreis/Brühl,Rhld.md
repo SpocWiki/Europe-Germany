@@ -1,16 +1,17 @@
----
-location: [50.83,6.9] 
-mapzoom: [7,12] 
-mapmarker: city 
-type: City
+﻿---
+confidential: public
+isDeleted: false
+location:
+- 50.83
+- 6.9
+mapmarker: city
+mapzoom:
+- 7
+- 12
+SpocWebEntityId: 29383
 tags:
 - geo/City
-
-
-SpocWebEntityId: 29383
-isDeleted: false
-confidential: public
-
+type: City
 ---
 
 # [[Brühl,Rhld]]

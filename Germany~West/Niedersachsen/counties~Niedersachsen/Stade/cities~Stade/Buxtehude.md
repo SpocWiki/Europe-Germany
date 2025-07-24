@@ -1,17 +1,19 @@
----
-location: [53.45,9.7] 
-mapzoom: [7,12] 
-mapmarker: city 
-type: City
+﻿---
+confidential: public
+isDeleted: false
+location:
+- 53.45
+- 9.7
+mapmarker: city
+mapzoom:
+- 7
+- 12
+SpocWebEntityId: 29427
 tags:
 - geo/City
-
-
-SpocWebEntityId: 29427
-isDeleted: false
-confidential: public
-
+type: City
 ---
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::9.7] 

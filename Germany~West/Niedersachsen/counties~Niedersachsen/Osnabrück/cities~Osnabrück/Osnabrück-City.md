@@ -1,17 +1,19 @@
----
-location: [52.28,8.04] 
-mapzoom: [7,12] 
-mapmarker: city 
-type: City
+﻿---
+confidential: public
+isDeleted: false
+location:
+- 52.28
+- 8.04
+mapmarker: city
+mapzoom:
+- 7
+- 12
+SpocWebEntityId: 33162
 tags:
 - geo/City
-
-
-SpocWebEntityId: 33162
-isDeleted: false
-confidential: public
-
+type: City
 ---
+
 # [[Osnabrück-City]]
 
 #is_a_/Place  

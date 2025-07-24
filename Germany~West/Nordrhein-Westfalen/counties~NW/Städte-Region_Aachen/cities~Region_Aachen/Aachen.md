@@ -1,18 +1,18 @@
----
-location: [50.78,6.07] 
-mapzoom: [7,12] 
-mapmarker: city 
-type: City
+﻿---
+confidential: public
+isDeleted: false
+location:
+- 50.78
+- 6.07
+mapmarker: city
+mapzoom:
+- 7
+- 12
+SpocWebEntityId: 28633
 tags:
 - geo/City
-
-
-SpocWebEntityId: 28633
-isDeleted: false
-confidential: public
-
+type: City
 ---
-
 
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,20 +1,21 @@
----
-location:
-  - 53.48
-  - 9.13
-mapzoom:
-  - 7
-  - 12
-mapmarker: city
-type: City
-tags:
-  - geo/City
-SpocWebEntityId: 29334
-isDeleted: false
-confidential: public
+﻿---
 aliases:
-  - Bremervoerde
+- Bremervoerde
+confidential: public
+isDeleted: false
+location:
+- 53.48
+- 9.13
+mapmarker: city
+mapzoom:
+- 7
+- 12
+SpocWebEntityId: 29334
+tags:
+- geo/City
+type: City
 ---
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::9.13] 

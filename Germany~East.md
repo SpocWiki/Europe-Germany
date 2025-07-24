@@ -1,17 +1,18 @@
----
-type: Country
-tags:
-  - geo/Country
-SpocWebEntityId: 59063
-isDeleted: false
-confidential: public
+﻿---
 aliases:
-  - DDR
-  - East Germany
-  - Deutsche Demokratische Republik
-  - German Democratic Republic
-  - GDR
+- DDR
+- "East Germany"
+- "Deutsche Demokratische Republik"
+- "German Democratic Republic"
+- GDR
+confidential: public
+isDeleted: false
+SpocWebEntityId: 59063
+tags:
+- geo/Country
+type: Country
 ---
+
 [ISO2::] 
 [ISO3::DDR] 
 
