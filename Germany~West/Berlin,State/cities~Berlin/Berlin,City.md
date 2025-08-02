@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Berlin
 archives_at:
@@ -279,11 +279,13 @@ has_place_province:: [[../../Berlin,State]]
 [Population::] 
 [Unknown::] 
 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Berlin,64|WD~Berlin,64]] 
+## #has_/map 
 
 ```leaflet
 id: Berlin
-coordinates: [[Berlin]] 
-markerFile: [[Berlin]] 
+coordinates: [[Berlin,City]] 
+markerFile: [[Berlin,City]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Berlin_Metro
 ---
