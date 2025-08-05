@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Bremen
 archives_at:
@@ -105,11 +105,14 @@ has_place_province:: [[../../Bremen,State]]
 [Population::] 
 [Unknown::] 
 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Bremen,1209|WD~Bremen,1209]]
+
+## #has_/map  
 
 ```leaflet
 id: Bremen
-coordinates: [[Bremen]] 
-markerFile: [[Bremen]] 
+coordinates: [[Bremen,City]] 
+markerFile: [[Bremen,City]] 
 geojsonFolder: ./State~Bremen/
 defaultZoom: 11 
 maxZoom: 18
@@ -118,6 +121,7 @@ maxZoom: 18
 [[../../../../../../../../../assets/geo/Europe/Germany/Berlin/Bremen-Rathausplatz.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Berlin/Bremen-Rathausplatz.webp]]] 
 Rathaus und Roland in Bremen ( [[Unesco]] Welterbe seit 2004) 
 [[../../../../../../../../../assets/geo/Europe/Germany/Bremen/Bremen-Schnoor-viertel.webp]]]![[../../../../../../../../../assets/geo/Europe/Germany/Bremen/Bremen-Schnoor-viertel.webp]]]
+
 Nur ein paar hundert Meter vom Bremer Marktplatz entfernt 
 liegt das einzigartige und zugleich älteste Quartier der Stadt. 
 Im Schnoor-Viertel reihen sich in engen Gassen kleine, bunte Häuser und Geschäfte 
