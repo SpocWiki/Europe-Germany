@@ -1,4 +1,4 @@
-﻿---
+---
 archives_at: '[[_Standards/WikiData/WD~University_Archives_Frankfurt,28737436]]'
 BHCL_UUID: 0c1cc01c-b35a-4d8b-ab2e-8bbe99d813a3
 child_organization_unit:
