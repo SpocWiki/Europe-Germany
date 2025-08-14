@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Lahn-Dill-Kreis
 confidential: private
@@ -38,7 +38,7 @@ type: private_note
 
 ## Embedded Graph 
 
-![[<% tp.file.title %>.svg]] 
+![[Lahn-Dill-Kreis.svg]] 
 
 
 %%
