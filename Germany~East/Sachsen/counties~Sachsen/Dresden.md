@@ -211,7 +211,7 @@ Wolfram_Language_entity_code: "Entity[\"City\", {\"Dresden\", \"Saxony\", \"Germ
 ﻿
 ﻿#is_a_/Place  
 #is_a_ :: [[Place]] 
-#is_a :: [[City]] 
+#is_a ::[[../../../../../../../Geography/Place/Administrative_Area/City]]] 
 #is_a :: [[Government_Organization]] 
 [has_place_longitude::13.73] 
 [has_place_latitude::51.05] 
