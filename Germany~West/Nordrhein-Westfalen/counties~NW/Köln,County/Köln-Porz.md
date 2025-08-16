@@ -36,7 +36,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Köln-Porz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Porz.md) 
+### #is_/same_as ::[Köln-Porz](Köln-Porz.md)) 
 
 ### #is_/same_as :: [Köln-Porz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Porz.public.md) 
 

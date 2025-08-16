@@ -36,7 +36,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nieder-Zündorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Nieder-Zündorf.md) 
+### #is_/same_as ::[Nieder-Zündorf](Nieder-Zündorf.md)) 
 
 ### #is_/same_as :: [Nieder-Zündorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Nieder-Zündorf.public.md) 
 

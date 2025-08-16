@@ -36,7 +36,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Köln-Kalk](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Kalk.md) 
+### #is_/same_as ::[Köln-Kalk](Köln-Kalk.md)) 
 
 ### #is_/same_as :: [Köln-Kalk.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Kalk.public.md) 
 

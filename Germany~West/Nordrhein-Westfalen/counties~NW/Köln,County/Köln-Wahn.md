@@ -36,7 +36,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Köln-Wahn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Wahn.md) 
+### #is_/same_as ::[Köln-Wahn](Köln-Wahn.md)) 
 
 ### #is_/same_as :: [Köln-Wahn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Wahn.public.md) 
 

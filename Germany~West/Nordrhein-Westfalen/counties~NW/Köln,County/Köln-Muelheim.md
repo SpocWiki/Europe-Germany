@@ -36,7 +36,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Köln-Muelheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Muelheim.md) 
+### #is_/same_as ::[Köln-Muelheim](Köln-Muelheim.md)) 
 
 ### #is_/same_as :: [Köln-Muelheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Muelheim.public.md) 
 
