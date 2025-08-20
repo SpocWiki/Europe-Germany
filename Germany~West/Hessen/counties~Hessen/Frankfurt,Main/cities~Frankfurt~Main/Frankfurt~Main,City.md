@@ -1,4 +1,4 @@
-﻿---
+---
 aerial_view:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Frankfurt%20am%20Main%2C%20Germany%2C%20March%2025%2C%202018%20SkySat.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Frankfurt%20by%20Sentinel-2%2C%202020-07-23.jpg"
@@ -226,10 +226,10 @@ has_place_province:: [[Hessen]]
 
 ```leaflet
 id: Frankfurt~Main
-coordinates: [[Frankfurt~Main]] 
-markerFile: [[Frankfurt~Main]] 
-geojsonFolder: ./Frankfurt~Main-City////
-markerFolder: ./Frankfurt~Main-City/
+coordinates: [[Frankfurt~Main,City]] 
+markerFile: [[Frankfurt~Main,City]] 
+geojsonFolder: ./Frankfurt~Main,City////
+markerFolder: ./Frankfurt~Main,City/
 zoomFeatures: true 
 defaultZoom: 11 
 maxZoom: 18
