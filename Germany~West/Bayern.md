@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Bavaria
 anthem: '[[_Standards/WikiData/WD~Bayernhymne]]'

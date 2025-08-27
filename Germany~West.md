@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Deutschland
 - "West Germany"
