@@ -1,4 +1,4 @@
-﻿---
+---
 archives_at:
 - '[[_Standards/WikiData/WD~Stadtarchiv_Dresden,2326541]]'
 area: 328.48
@@ -208,7 +208,9 @@ WOEID: 645686
 Wolfram_Language_entity_code: "Entity[\"City\", {\"Dresden\", \"Saxony\", \"Germany\"}]"
 ---
 
-﻿
+# [[Dresden]] 
+
+
 ﻿#is_a_/Place  
 #is_a_ :: [[Place]] 
 #is_a ::[[../../../../../../../Geography/Place/Administrative_Area/City]]] 
@@ -221,6 +223,9 @@ has_place_province:: [[Sachsen]]
 [Population::] 
 [Unknown::] 
 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Dresden,1731|WD~Dresden,1731]] 
+
+## #has_/map 
 
 ```leaflet
 id: Dresden
@@ -229,6 +234,29 @@ markerFile: [[Dresden]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+## #has_/text_of_/abstract 
+
+> **Dresden** (; German: [ˈdʁeːsdn̩] ; Upper Saxon: Dräsdn; Upper Sorbian: Drježdźany, pronounced [ˈdʁʲɛʒdʒanɨ]) 
+> is the capital city of the German state of Saxony and its second most populous city after Leipzig. 
+> 
+> It is the 12th most populous city of Germany, the fourth largest by area (after Berlin, Hamburg, and Cologne), 
+> and the third-most populous city in the area of former East Germany, after Berlin and Leipzig. 
+> Dresden's urban area comprises the towns of Freital, Pirna, Radebeul, Meissen, Coswig, Radeberg, 
+> and Heidenau and has around 790,000 inhabitants. 
+> The Dresden metropolitan area has approximately over 1.3 million inhabitants.
+>
+> Dresden is the second largest city on the River Elbe after Hamburg. Most of the city's population lives in the Elbe Valley, but a large, albeit very sparsely populated, area of the city east of the Elbe lies in the West Lusatian Hill Country and Uplands (the westernmost part of the Sudetes) and thus in Lusatia. Many boroughs west of the Elbe lie in the Ore Mountain Foreland, as well as in the valleys of the rivers rising there and flowing through Dresden, the longest of which are the Weißeritz and the Lockwitzbach. The name of the city as well as the names of most of its boroughs and rivers are of Sorbian origin.
+>
+> Dresden has a long history as the capital and royal residence for the Electors and Kings of Saxony, who for centuries furnished the city with cultural and artistic splendor, and was once by personal union the family seat of Polish monarchs. The city was known as the Jewel Box, because of its Baroque and Rococo city centre. The controversial American and British bombing of Dresden towards the end of World War II killed approximately 25,000 people, most of whom were civilians, and destroyed the entire city centre. After the war, restoration work has helped to reconstruct parts of the historic inner city.
+>
+> Since German reunification in 1990, Dresden has once again become a cultural, educational and political centre of Germany. The Dresden University of Technology (TU Dresden) is one of the 10 largest universities in Germany and part of the German Universities Excellence Initiative. The economy of Dresden and its agglomeration is one of the most dynamic in Germany and ranks first in Saxony. It is dominated by high-tech branches, often called "Silicon Saxony". According to the Hamburg Institute of International Economics (HWWI) and Berenberg Bank in 2019, Dresden had the seventh best prospects for the future of all cities in Germany.
+>
+> Dresden is one of the most visited cities in Germany with 4.7 million overnight stays per year. Its most prominent building is the Frauenkirche located at the Neumarkt. Built in the 18th century, the church was destroyed during World War II. The remaining ruins were left for 50 years as a war memorial, before being rebuilt between 1994 and 2005. Other famous landmarks include the Zwinger, the Semperoper and Dresden Castle. Furthermore, the city is home to the Dresden State Art Collections, originating from the collections of the Saxon electors in the 16th century. Dresden's Striezelmarkt is one of the largest Christmas markets in Germany and is considered the first genuine Christmas market in the world. Nearby sights include the National Park of Saxon Switzerland, the Ore Mountains and the countryside around Elbe Valley, Moritzburg Castle and Meissen, home of Meissen porcelain.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Dresden) 
+
 
 
 ## Confidential Links & Embeds: 
