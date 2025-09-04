@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - DDR
 - "East Germany"
@@ -13,8 +13,13 @@ tags:
 type: Country
 ---
 
+# [[Germany~East]] 
+
+
 [ISO2::] 
 [ISO3::DDR] 
+
+## #has_/map 
 
 ```leaflet
 id: East Germany
