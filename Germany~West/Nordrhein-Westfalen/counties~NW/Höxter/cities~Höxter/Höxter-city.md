@@ -34,7 +34,7 @@ markerFile: [[Höxter-city]]
 defaultZoom: 11 
 maxZoom: 18
 ```
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Nordrhein-Westfalen/Höxter~Karolingisches-Westwerk.webp]]]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Nordrhein-Westfalen/Höxter~Karolingisches-Westwerk.webp]]]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Nordrhein-Westfalen/Höxter~Karolingisches-Westwerk.webp]]]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Nordrhein-Westfalen/Höxter~Karolingisches-Westwerk.webp]] 
 Karolingisches Westwerk und Civitas Corvey (2014) 
 
 

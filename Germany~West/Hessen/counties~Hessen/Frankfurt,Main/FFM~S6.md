@@ -30,21 +30,21 @@ type: geo-Region
 S-Bahn i[[../Frankfurt,Main]]]  
 
 # Stations: 
-[[Stations-FFM~S/S-Friedberg~Hessen]]]]  
-[[Stations-FFM~S/S-Bruchenbrücken]]]]  
-[[Stations-FFM~S/S-Nieder-Wöllstadt]]]]  
-[[Stations-FFM~S/S-Okarben]]]]  
-[[Stations-FFM~S/S-Groß_Karben]]]]  
-[[Stations-FFM~S/S-Dortelweil]]]]  
-[[Stations-FFM~S/S-Bad_Vilbel]]]]  
-[[Stations-FFM~S/S-Bad_Vilbel_Süd]]]]  
-[[Stations-FFM~S/S-Frankfurt-Berkersheim]]]]  
-[[Stations-FFM~S/S-Frankfurt-Frankfurter_Berg]]]]  
-1[[Stations-FFM~S/S-Frankfurt-Eschersheim]]]]  
-1[[Stations-FFM~S/S-Frankfurt~Main_West]]]]  
-1[[Stations-FFM~S/S-Frankfurt~Main~Messe]]]]  
-1[[Stations-FFM~S/S-Frankfurt~Main_Galluswarte]]]]  
-1[[Stations-FFM~S/S-Frankfurt~Main_Hbf_tief]]]]  
+[[Stations-FFM~S/S-Friedberg~Hessen]]  
+[[Stations-FFM~S/S-Bruchenbrücken]]  
+[[Stations-FFM~S/S-Nieder-Wöllstadt]]  
+[[Stations-FFM~S/S-Okarben]]  
+[[Stations-FFM~S/S-Groß_Karben]]  
+[[Stations-FFM~S/S-Dortelweil]]  
+[[Stations-FFM~S/S-Bad_Vilbel]]  
+[[Stations-FFM~S/S-Bad_Vilbel_Süd]]  
+[[Stations-FFM~S/S-Frankfurt-Berkersheim]]  
+[[Stations-FFM~S/S-Frankfurt-Frankfurter_Berg]]  
+1[[Stations-FFM~S/S-Frankfurt-Eschersheim]]  
+1[[Stations-FFM~S/S-Frankfurt~Main_West]]  
+1[[Stations-FFM~S/S-Frankfurt~Main~Messe]]  
+1[[Stations-FFM~S/S-Frankfurt~Main_Galluswarte]]  
+1[[Stations-FFM~S/S-Frankfurt~Main_Hbf_tief]]  
 
 ```leaflet
 id: FFM~S6
@@ -56,12 +56,12 @@ geojsonFolder: ./FFM~S6/
 markerFolder: ./Station/
 ```
 
-1[[Stations-FFM~S/S-Frankfurt_Taunusanlage]]]]  
-1[[Stations-FFM~S/S-Frankfurt_Hauptwache]]]]  
-1[[Stations-FFM~S/S-Frankfurt_Konstablerwache]]]]  
-1[[Stations-FFM~S/S-Frankfurt_Ostendstraße]]]]  
-1[[Stations-FFM~S/S-Frankfurt_Lokalbahnhof]]]]  
-2[[Stations-FFM~S/S-Frankfurt~Main~Süd]]]]  
+1[[Stations-FFM~S/S-Frankfurt_Taunusanlage]]  
+1[[Stations-FFM~S/S-Frankfurt_Hauptwache]]  
+1[[Stations-FFM~S/S-Frankfurt_Konstablerwache]]  
+1[[Stations-FFM~S/S-Frankfurt_Ostendstraße]]  
+1[[Stations-FFM~S/S-Frankfurt_Lokalbahnhof]]  
+2[[Stations-FFM~S/S-Frankfurt~Main~Süd]]  
 
 
 ## Confidential Links & Embeds: 

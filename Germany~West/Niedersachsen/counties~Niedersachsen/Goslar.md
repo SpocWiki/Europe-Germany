@@ -39,7 +39,7 @@ maxZoom: 18
 Ein zentraler Ort in Goslar (Niedersachsen) ist der Marktplatz mit dem Wappentier der ehemals freien Reichsstadt auf dem Marktbrunnen. 
 In der historischen Altstadt und ihrer Umgebung zählt der Besucher zudem über 30 Kirchengebäude. 
 Seit 1992 gehört die Altstadt von Goslar zu den Weltkulturerbestätten der Unesco.
-[[../../../../../../../../../assets/geo/Europe/Germany/Niedersachsen/Goslar.webp]]]]![[../../../../../../../../../assets/geo/Europe/Germany/Niedersachsen/Goslar.webp]]]] 
+[[../../../../../../../../../assets/geo/Europe/Germany/Niedersachsen/Goslar.webp]]]]![[../../../../../../../../../assets/geo/Europe/Germany/Niedersachsen/Goslar.webp]] 
 Bergwerk Rammelsberg, Altstadt von Goslar und Oberharzer Wasserwirtschaft ( [[Unesco]] Welterbe seit 1992) 
 
 
