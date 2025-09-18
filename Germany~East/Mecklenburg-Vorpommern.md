@@ -108,7 +108,7 @@ WOEID: 2345492
 ```leaflet
 id: Mecklenburg-Vorpommern
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Mecklenburg-Vorpommern/
 markerFolder: ./Mecklenburg-Vorpommern/

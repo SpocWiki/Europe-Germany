@@ -24,7 +24,7 @@ type: State
 ```leaflet
 id: State~Bremen
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./State~Bremen/
 markerFolder: ./State~Bremen/

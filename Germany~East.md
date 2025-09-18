@@ -24,7 +24,7 @@ type: Country
 ```leaflet
 id: East Germany
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Germany~East/
 markerFolder: ./Germany~East/

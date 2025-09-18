@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Jevenstedt
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 defaultZoom: 11
 geojsonFolder: ./boroughs~Jevenstedt/

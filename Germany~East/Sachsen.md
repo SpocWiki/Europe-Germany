@@ -166,7 +166,7 @@ X_username: SachsenDe
 ```leaflet
 id: Sachsen
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Sachsen/
 markerFolder: ./Sachsen/

@@ -142,7 +142,7 @@ X_username: sachsenanhalt
 ```leaflet
 id: Sachsen-Anhalt
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Sachsen-Anhalt/
 markerFolder: ./Sachsen-Anhalt/

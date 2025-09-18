@@ -188,7 +188,7 @@ X_username: thueringende
 ```leaflet
 id: Thüringen
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Thüringen/
 markerFolder: ./Thüringen/

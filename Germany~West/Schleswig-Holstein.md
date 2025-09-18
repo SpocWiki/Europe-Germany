@@ -173,7 +173,7 @@ U_S_National_Archives_Identifier: 10044808
 ```leaflet
 id: Schleswig-Holstein
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Schleswig-Holstein/
 markerFolder: ./Schleswig-Holstein/

@@ -7,7 +7,7 @@
 ```leaflet
 id: cities~Uelzen
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./cities~Uelzen///
 markerFolder: ./cities~Uelzen/

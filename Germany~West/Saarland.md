@@ -146,7 +146,7 @@ X_username: saarland_de
 ```leaflet
 id: Saarland
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Saarland/
 markerFolder: ./Saarland/

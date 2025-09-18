@@ -1,4 +1,4 @@
-﻿---
+---
 aerial_view:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Hamburg%20SPOT%201633L.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Hamburgfromair3.jpg"
@@ -245,18 +245,20 @@ X_username: hamburg_de
 
 [name::Hamburg] 
 
-has_place_country:: [[Germany]]  
+has_place_country :: [[Germany]]  
 
-has_place_province:: [[../../Hamburg,State]]  
+has_place_province :: [[../../Hamburg,State]]  
 
 [Population::] 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Hamburg,1055]]
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Hamburg,1055]] 
+
+## #has_/map  
 
 ```leaflet
 id: Hamburg
-coordinates: [[Hamburg]] 
-markerFile: [[Hamburg]] 
+coordinates: [[Hamburg,City]] 
+markerFile: [[Hamburg,City]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

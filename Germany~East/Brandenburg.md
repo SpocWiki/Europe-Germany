@@ -139,7 +139,7 @@ YouTube_handle: land.brandenburg
 ```leaflet
 id: Brandenburg
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Brandenburg/
 markerFolder: ./Brandenburg/

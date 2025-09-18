@@ -208,7 +208,7 @@ Check out this Repository into this Subfolder:
 ```leaflet
 id: Rheinland-Pfalz
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Rheinland-Pfalz/
 markerFolder: ./Rheinland-Pfalz/

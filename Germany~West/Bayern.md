@@ -286,7 +286,7 @@ so that this Link into the Sub-Repository works: [[Bavaria/ReadMe]]
 ```leaflet
 id: Bayern
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Bayern/
 markerFolder: ./Bayern/

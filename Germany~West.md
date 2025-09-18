@@ -38,7 +38,7 @@ type: Country
 ```leaflet
 id: West Germany
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Germany~West/
 markerFolder: ./Germany~West/

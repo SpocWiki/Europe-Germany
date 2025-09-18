@@ -30,7 +30,7 @@ type: geo-Region
 ```leaflet
 id: Lakes
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Lakes/
 markerFolder: ./Lakes/

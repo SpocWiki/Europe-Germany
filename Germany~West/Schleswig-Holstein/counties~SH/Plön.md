@@ -30,7 +30,7 @@ id: Plön
 coordinates: [[Plön]] 
 markerFile: [[Plön]] 
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 defaultZoom: 11
 geojsonFolder: ./Plön//

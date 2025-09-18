@@ -222,7 +222,7 @@ X_username: Stadt_FFM
 ```leaflet
 id: Frankfurt~Main
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Frankfurt,Main///
 markerFolder: ./Frankfurt~Main/City

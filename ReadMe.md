@@ -766,7 +766,7 @@ Check out this Repository into this Subfolder:
 ```leaflet
 id: Germany
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: .//
 markerFolder: ./

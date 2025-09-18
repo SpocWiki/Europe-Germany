@@ -155,7 +155,7 @@ X_username: landnrw
 ```leaflet
 id: NordRhein-Westfalen
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./NordRhein-Westfalen//
 markerFolder: ./NordRhein-Westfalen/City/
