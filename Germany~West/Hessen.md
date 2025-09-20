@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Hesse
 archives_at: "[[_Standards/WikiData/WD~Hessisches Hauptstaatsarchiv]]"
@@ -103,13 +103,17 @@ X_username: reghessen
 YouTube_handle: RegierungHessen
 ---
 
+# [[Hessen]] 
+
 [name::Hessen] 
 [name-abbr::HN] 
 
 ![[Coat_of_arms_of_Hesse.svg|350]] 
 
 ![[Flag_of_Hesse.svg|350]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Hesse,1199|WD~Hesse,1199]] 
 
+## #has_/map  
 
 ```leaflet
 id: Hessen
@@ -127,6 +131,25 @@ Capital :: [[Wiesbaden]]
 [has_place_longitude::8.8478] 
 [has_place_latitude::50.4897] 
 [Population::] 
+
+## #has_/text_of_/abstract 
+
+> **Hesse** or Hessen (German: Hessen [ˈhɛsn̩] ), officially the State of Hesse (German: Land Hessen), 
+> is a state in Germany. 
+> 
+> Its capital city is Wiesbaden, and the largest urban area is Frankfurt, 
+> which is also the country's principal financial centre. 
+> Two other major historic cities are Darmstadt and Kassel. 
+> 
+> With an area of 21,114.73 square kilometers and a population of over six million, 
+> it ranks seventh and fifth, respectively, among the sixteen German states. 
+> Frankfurt Rhine-Main, Germany's second-largest metropolitan area (after Rhine-Ruhr), 
+> is mainly located in Hesse.
+>
+> As a cultural region, Hesse also includes the area known as Rhenish Hesse (Rheinhessen) 
+> in the neighboring state of Rhineland-Palatinate.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Hesse) 
 
 
 ## Confidential Links & Embeds: 

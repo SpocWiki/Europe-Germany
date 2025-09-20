@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: 
 archives_at: "[[_Standards/WikiData/WD~State Archives of Schleswig-Holstein]]"
 area: 15804.28
