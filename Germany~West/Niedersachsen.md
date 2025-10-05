@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Lower Saxony"
 archives_at: "[[_Standards/WikiData/WD~Lower Saxony State Archive]]"
@@ -157,6 +157,8 @@ type: State
 
 [name::Niedersachsen] 
 [name-abbr::NS] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Lower_Saxony,1197|WD~Lower_Saxony,1197]] 
 
 ## #has_/map 
 
