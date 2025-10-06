@@ -1,28 +1,4 @@
 ---
-dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
-dv_has_place_longitude: 8.75
-dv_has_place_latitude: 51.73
-dv_name: Altenbeken
-dv_has_place_country: "[[../../../../../../../Germany]]"
-dv_has_place_province: "[[NordRhein-Westfahlen]]"
-dv_is_/same_as:
-  - "[Altenbeken](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city/Altenbeken.md)"
-  - "[Altenbeken.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city/Altenbeken.public.md)"
-  - "[Altenbeken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city/Altenbeken.internal.md)"
-  - "[Altenbeken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city/Altenbeken.protect.md)"
-  - "[Altenbeken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city/Altenbeken.private.md)"
-  - "[Altenbeken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city/Altenbeken.personal.md)"
-  - "[Altenbeken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city/Altenbeken.secret.md)"
-dv_is_same_as:
-  - "[Altenbeken](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city/Altenbeken.md)"
-  - "[Altenbeken.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city/Altenbeken.public.md)"
-  - "[Altenbeken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city/Altenbeken.internal.md)"
-  - "[Altenbeken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city/Altenbeken.protect.md)"
-  - "[Altenbeken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city/Altenbeken.private.md)"
-  - "[Altenbeken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city/Altenbeken.personal.md)"
-  - "[Altenbeken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Paderborn/cities~Paderborn/Paderborn-city/Altenbeken.secret.md)"
----
-﻿---
 confidential: public
 isDeleted: false
 location:
