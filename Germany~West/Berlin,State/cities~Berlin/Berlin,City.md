@@ -280,16 +280,18 @@ has_place_province:: [[../../Berlin,State]]
 [Unknown::] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Berlin,64|WD~Berlin,64]] 
+
 ## #has_/map 
 
 ```leaflet
 id: Berlin
 coordinates: [[Berlin,City]] 
 markerFile: [[Berlin,City]] 
+geojsonFolder: ./Berlin,City/
+markerFolder: ./Berlin,City/
 defaultZoom: 11 
 maxZoom: 18
 ```
-#is_/same_as :: [[../../../../../../WikiData/WD~Berlin,64]] 
 
 
 [[../../../../../../../../../assets/geo/Europe/Germany/Berlin/Berlin~Museumsinsel.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Berlin/Berlin~Museumsinsel.webp]]] 
