@@ -1,4 +1,4 @@
-﻿---
+---
 archives_at: '[[_Standards/WikiData/WD~Q28737515]]'
 area: 23174
 BHCL_UUID: 1f2bf35e-5d93-49e4-bdd5-a86e453d7271
@@ -104,6 +104,10 @@ WOEID: 2345492
 [name-abbr::MV] 
 ![[Coat_of_arms_of_Mecklenburg-Western_Pomerania~great.svg|350]] 
 ![[Flag_of_Mecklenburg-Western_Pomerania.svg|350]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Mecklenburg-Western_Pomerania,1196|WD~Mecklenburg-Western_Pomerania,1196]] 
+
+## #has_/map 
 
 ```leaflet
 id: Mecklenburg-Vorpommern
