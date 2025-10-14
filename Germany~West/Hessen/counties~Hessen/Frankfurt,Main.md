@@ -225,7 +225,9 @@ zoomFeatures: true
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Frankfurt,Main///
-markerFolder: ./Frankfurt~Main/City
+markerFolder: ./Frankfurt,Main/City
+coordinates: [[Frankfurt,Main]] 
+markerFile: [[Frankfurt,Main]] 
 ```
 
 
