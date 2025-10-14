@@ -9,7 +9,7 @@ member_of:
   - "[[_Standards/WikiData/WD~German_Rectors'_Conference,880981]]"
   - "[[_Standards/WikiData/WD~Verein_zur_Förderung_eines_Deutschen_Forschungsnetzes,2514863]]"
 director_manager: "[[_Standards/WikiData/WD~Karl_Heinz_Petzinka,1729950]]"
-location: "[[_Standards/WikiData/WD~Q1792391,1792391]]"
+locations: "[[_Standards/WikiData/WD~Q1792391,1792391]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Art+Feminism,24909800]]"
 has_part_s_: "[[_Standards/WikiData/WD~Q28738523,28738523]]"
 part_of: "[[_Standards/WikiData/WD~DH.NRW,105770388]]"
@@ -17,7 +17,7 @@ inception:
   - 1762-01-01T00:00:00Z
   - 1773-01-01T00:00:00Z
 coordinate_location: Point(6.77365 51.23054)
-headquarters_location: "[[_Standards/WikiData/WD~Düsseldorf,1718]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Düsseldorf,1718]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Düsseldorf,1718]]"
 country: "[[_Standards/WikiData/WD~Germany,183]]"
 count_of_students:

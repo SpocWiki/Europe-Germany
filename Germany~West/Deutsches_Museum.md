@@ -36,11 +36,11 @@ child_organization_unit:
   - "[[_Standards/WikiData/WD~Deutsches_Museum_Nürnberg,106945957]]"
 director_manager: "[[_Standards/WikiData/WD~Michael_Decker,21064686]]"
 archives_at: "[[_Standards/WikiData/WD~Archive_of_the_Deutsches_Museum,28737484]]"
-headquarters_location: "[[_Standards/WikiData/WD~München,32664319]]"
+headquarters_locations: "[[_Standards/WikiData/WD~München,32664319]]"
 legal_form: "[[_Standards/WikiData/WD~public_law_institution_(Germany),67207116]]"
 described_by_source: "[[_Standards/WikiData/WD~Open_GLAM_Survey,73357989]]"
 different_from: "[[_Standards/WikiData/WD~Deutsches_Museum,132177499]]"
-location: "[[_Standards/WikiData/WD~Deutsches_Museum,132177499]]"
+locations: "[[_Standards/WikiData/WD~Deutsches_Museum,132177499]]"
 named_after: "[[_Standards/WikiData/WD~Germany,183]]"
 country: "[[_Standards/WikiData/WD~Germany,183]]"
 social_media_followers:
