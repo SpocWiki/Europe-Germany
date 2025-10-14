@@ -221,7 +221,7 @@ Wolfram_Language_entity_code: "Entity[\"City\", {\"Dresden\", \"Saxony\", \"Germ
 has_place_country:: [[Germany]]  
 has_place_province:: [[Sachsen]]  
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Dresden,1731|WD~Dresden,1731]] 
 

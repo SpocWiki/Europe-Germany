@@ -255,7 +255,7 @@ YouTube_handle: Koeln
 has_place_country:: [[Germany]]  
 has_place_province:: [[NordRhein-Westfahlen]]  
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Cologne,365|WD~Cologne,365]] 
 

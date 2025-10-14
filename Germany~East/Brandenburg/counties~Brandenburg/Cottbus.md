@@ -23,7 +23,7 @@ aliases:
 has_place_country:: [[Germany]]  
 has_place_province:: [[Brandenburg]]  
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

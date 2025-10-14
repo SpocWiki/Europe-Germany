@@ -217,7 +217,7 @@ X_Twitter_username:
 has_place_country:: [[Germany]]  
 has_place_province:: [[Hessen]]  
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Frankfurt,1794]] 
 

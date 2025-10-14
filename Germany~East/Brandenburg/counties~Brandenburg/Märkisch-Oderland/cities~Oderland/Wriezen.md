@@ -23,7 +23,7 @@ has_place_province::
 has_place_country:: [[Poland]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

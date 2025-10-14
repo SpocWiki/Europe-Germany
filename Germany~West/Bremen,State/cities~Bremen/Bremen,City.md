@@ -103,7 +103,7 @@ X_username: bremen_de
 has_place_country:: [[Germany]]  
 has_place_province:: [[../../Bremen,State]]  
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Bremen,1209|WD~Bremen,1209]]
 

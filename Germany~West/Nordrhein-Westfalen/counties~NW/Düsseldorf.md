@@ -208,7 +208,7 @@ X_Twitter_username: Duesseldorf
 has_place_country:: [[Germany]]  
 has_place_province:: [[NordRhein-Westfahlen]]  
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Düsseldorf,1718|WD~Düsseldorf,1718]] 
 

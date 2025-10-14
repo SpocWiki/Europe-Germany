@@ -24,7 +24,7 @@ type: City
 has_place_country:: [[Germany]]  
 has_place_province:: [[../../Berlin,State]]  
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

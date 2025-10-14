@@ -24,7 +24,7 @@ type: City
 has_place_country:: [[Germany]]  
 has_place_province:: [[Sachsen]]  
 [Population::] 
-[Unknown::] 
+
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Görlitz|WD~Görlitz]] 
 
 ## #has_/map  

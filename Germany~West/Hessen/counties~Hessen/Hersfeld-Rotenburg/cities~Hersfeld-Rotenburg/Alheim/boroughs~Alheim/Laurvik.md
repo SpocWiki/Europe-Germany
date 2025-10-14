@@ -23,7 +23,7 @@ has_place_province::
 has_place_country:: [[Norway]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

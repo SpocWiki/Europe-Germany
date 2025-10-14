@@ -22,7 +22,7 @@ type: City
 has_place_country:: [[Germany]]  
 has_place_province:: [[NordRhein-Westfahlen]]  
 [Population::] 
-[Unknown::] 
+
 
 `$=dv.paragraph("[geo:"+dv.current().location[0]+","+dv.current().location[1]+"](geo:"+dv.current().location[0]+","+dv.current().location[1]+")")` 
 

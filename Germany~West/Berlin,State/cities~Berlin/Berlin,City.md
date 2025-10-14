@@ -277,7 +277,7 @@ X_username: berlin_de_news
 has_place_country:: [[Germany]]  
 has_place_province:: [[../../Berlin,State]]  
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Berlin,64|WD~Berlin,64]] 
 

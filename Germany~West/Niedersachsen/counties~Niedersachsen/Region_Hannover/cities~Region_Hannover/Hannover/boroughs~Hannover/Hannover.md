@@ -165,7 +165,7 @@ X_Twitter_username: hannover
 has_place_country:: [[Germany]]  
 has_place_province:: [[Niedersachsen]]  
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Hanover,1715|WD~Hanover,1715]] 
 

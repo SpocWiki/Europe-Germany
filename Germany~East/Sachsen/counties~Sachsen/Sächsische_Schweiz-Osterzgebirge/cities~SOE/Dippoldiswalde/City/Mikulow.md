@@ -23,7 +23,7 @@ has_place_province::
 has_place_country:: Czech_Rep.] 
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet
