@@ -166,7 +166,6 @@ has_place_country:: [[Germany]]
 has_place_province:: [[Niedersachsen]]  
 [Population::] 
 
-
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Hanover,1715|WD~Hanover,1715]] 
 
 ## #has_/map 
@@ -175,6 +174,11 @@ has_place_province:: [[Niedersachsen]]
 id: Hannover
 coordinates: [[Hannover]] 
 markerFile: [[Hannover]] 
+geojsonFolder: ./Hannover/
+markerFolder: ./Hannover/
+coordinates: [[Hannover]] 
+markerFile: [[Hannover]] 
+zoomFeatures: true 
 defaultZoom: 11 
 maxZoom: 18
 ```
