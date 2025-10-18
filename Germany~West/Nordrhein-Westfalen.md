@@ -1,121 +1,124 @@
-﻿---
+---
 aliases:
-- "North Rhine-Westphalia"
-- Nordrhein-Westfalen
+  - North Rhine-Westphalia
+  - Nordrhein-Westfalen
+has_id_wikidata: Q1198
 archives_at: "[[_Standards/WikiData/WD~State Archives of North Rhine-Westphalia]]"
 area: 34112.52
 Basisklassifikation: 15.53
-capital: '[[_Standards/WikiData/WD~Düsseldorf]]'
+capital: "[[_Standards/WikiData/WD~Düsseldorf]]"
 coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of North Rhine-Westphalia]]"
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20North%20Rhine-Westphalia.svg"
-Commons_category: "North Rhine-Westphalia"
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20North%20Rhine-Westphalia.svg
+Commons_category: North Rhine-Westphalia
 Commons_gallery: Nordrhein-Westfalen
 Confidential: public
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Detmold Government Region]]"
-- "[[_Standards/WikiData/WD~Münster Government Region]]"
-- "[[_Standards/WikiData/WD~Düsseldorf Government Region]]"
-- "[[_Standards/WikiData/WD~Cologne Government Region]]"
-- "[[_Standards/WikiData/WD~Arnsberg Government Region]]"
-coordinate_location: "Point(7.55 51.466666666)"
-country: '[[_Standards/WikiData/WD~Germany]]'
+  - "[[_Standards/WikiData/WD~Detmold Government Region]]"
+  - "[[_Standards/WikiData/WD~Münster Government Region]]"
+  - "[[_Standards/WikiData/WD~Düsseldorf Government Region]]"
+  - "[[_Standards/WikiData/WD~Cologne Government Region]]"
+  - "[[_Standards/WikiData/WD~Arnsberg Government Region]]"
+coordinate_location: Point(7.55 51.466666666)
+country: "[[_Standards/WikiData/WD~Germany]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6]]"
 Dewey_Decimal_Classification: 2--4355
 economy_of_topic: "[[_Standards/WikiData/WD~economy of North Rhine-Westphalia]]"
 elevation_above_sea_level: 45
 Facebook_username: NRW
 FIPS_10_4_countries_and_regions_: GM07
 flag: "[[_Standards/WikiData/WD~flag of North Rhine-Westphalia]]"
-flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20North%20Rhine-Westphalia.svg"
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20North%20Rhine-Westphalia.svg
 follows: "[[_Standards/WikiData/WD~North Rhine]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography of North Rhine-Westphalia]]"
-geoshape: "http://commons.wikimedia.org/data/main/Data:Nordrhein-Westfalen.map"
-German_regional_key: 05
+geoshape: http://commons.wikimedia.org/data/main/Data:Nordrhein-Westfalen.map
+German_regional_key: 5
 HASC:
-- DE.NW
+  - DE.NW
 hashtag:
-- NRW
-has_id_wikidata: Q1198
+  - NRW
 has_part_s_: "[[_Standards/WikiData/WD~Rhine-Ruhr Metropolitan Region]]"
 has_part_s_of_the_class:
-- "[[_Standards/WikiData/WD~district of Germany]]"
-- '[[_Standards/WikiData/WD~Regierungsbezirk]]'
-- "[[_Standards/WikiData/WD~independent city of Germany]]"
+  - "[[_Standards/WikiData/WD~district of Germany]]"
+  - "[[_Standards/WikiData/WD~Regierungsbezirk]]"
+  - "[[_Standards/WikiData/WD~independent city of Germany]]"
 has_time_started: 1946-08-23
 head_of_government: "[[_Standards/WikiData/WD~Hendrik Wüst]]"
 highest_judicial_authority: "[[_Standards/WikiData/WD~Constitutional Court of North Rhine-Westphalia]]"
-highest_point: '[[_Standards/WikiData/WD~Langenberg]]'
+highest_point: "[[_Standards/WikiData/WD~Langenberg]]"
 history_of_topic: "[[_Standards/WikiData/WD~history of North Rhine-Westphalia]]"
 icon: Flag_of_North_Rhine-Westphalia
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Rhine%20from%20Bonn%20to%20Cologne.jpeg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Rhine%20from%20Bonn%20to%20Cologne.jpeg
 inception: 1946-08-23
 Instagram_username: land.nrw
 instance_of:
-- "[[_Standards/WikiData/WD~federated state of Germany]]"
+  - "[[_Standards/WikiData/WD~federated state of Germany]]"
 isDeleted: false
-ISNI: 0000000109415702
+ISNI: 109415702
 ISO3166_2: DE-NW
 ISO_3166_2_code: DE-NW
 language_used:
-- '[[_Standards/WikiData/WD~Westphalian]]'
-- '[[_Standards/WikiData/WD~Ripuarian]]'
+  - "[[_Standards/WikiData/WD~Westphalian]]"
+  - "[[_Standards/WikiData/WD~Ripuarian]]"
 legislative_body:
-- "[[_Standards/WikiData/WD~Landtag of North Rhine-Westphalia]]"
+  - "[[_Standards/WikiData/WD~Landtag of North Rhine-Westphalia]]"
 Libris_URI: jgvxwsm21s1mktd
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Germany]]'
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Germany]]"
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~UTC+01:00]]"
-- "[[_Standards/WikiData/WD~UTC+02:00]]"
+  - "[[_Standards/WikiData/WD~UTC+01:00]]"
+  - "[[_Standards/WikiData/WD~UTC+02:00]]"
 location:
-- 51.4279
-- 7.6153
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20North%20Rhine-Westphalia%20in%20Germany.svg"
+  - 51.4279
+  - 7.6153
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20North%20Rhine-Westphalia%20in%20Germany.svg
 member_of:
-- "[[_Standards/WikiData/WD~Climate Alliance]]"
+  - "[[_Standards/WikiData/WD~Climate Alliance]]"
 motto_text:
-- "Germany at its best"
+  - Germany at its best
 named_after:
-- "[[_Standards/WikiData/WD~Province of Westphalia]]"
-- "[[_Standards/WikiData/WD~North Rhine]]"
+  - "[[_Standards/WikiData/WD~Province of Westphalia]]"
+  - "[[_Standards/WikiData/WD~North Rhine]]"
 native_label:
-- Nordrhein-Westfalen
+  - Nordrhein-Westfalen
 NUTS_code: DEA
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Minister-President of North Rhine-Westphalia]]"
 official_name: Nordrhein-Westfalen
-official_website: "https://www.land.nrw/"
+official_website: https://www.land.nrw/
 OmegaWiki_Defined_Meaning: 414383
 open_data_portal:
-- '[[_Standards/WikiData/WD~open.nrw]]'
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Rapsfeld%20banner.jpg"
+  - "[[_Standards/WikiData/WD~open.nrw]]"
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Rapsfeld%20banner.jpg
 population: 17932651
 replaces:
-- "[[_Standards/WikiData/WD~Province of Westphalia]]"
-- "[[_Standards/WikiData/WD~Land Lippe]]"
-- "[[_Standards/WikiData/WD~North Rhine]]"
+  - "[[_Standards/WikiData/WD~Province of Westphalia]]"
+  - "[[_Standards/WikiData/WD~Land Lippe]]"
+  - "[[_Standards/WikiData/WD~North Rhine]]"
 shares_border_with:
-- '[[_Standards/WikiData/WD~Gelderland]]'
-- '[[_Standards/WikiData/WD~Overijssel]]'
-- '[[_Standards/WikiData/WD~Limburg]]'
-- "[[_Standards/WikiData/WD~Province of Liege]]"
-- '[[_Standards/WikiData/WD~Hesse]]'
-- "[[_Standards/WikiData/WD~Lower Saxony]]"
-- '[[_Standards/WikiData/WD~Rhineland-Palatinate]]'
-- '[[_Standards/WikiData/WD~Wallonia]]'
+  - "[[_Standards/WikiData/WD~Gelderland]]"
+  - "[[_Standards/WikiData/WD~Overijssel]]"
+  - "[[_Standards/WikiData/WD~Limburg]]"
+  - "[[_Standards/WikiData/WD~Province of Liege]]"
+  - "[[_Standards/WikiData/WD~Hesse]]"
+  - "[[_Standards/WikiData/WD~Lower Saxony]]"
+  - "[[_Standards/WikiData/WD~Rhineland-Palatinate]]"
+  - "[[_Standards/WikiData/WD~Wallonia]]"
 short_name: NRW
 social_media_followers: 7960
 SpocWebEntityId: 36020
 tags:
-- geo/State
+  - geo/State
 type: State
 X_username: landnrw
 ---
 
-# [[Nord_Rhein-Westfalen]]
+# [[Nordrhein-Westfalen]]
 
 [name::NordRhein-Westfalen] 
 
 [name-abbr::NW] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~North_Rhine-Westphalia,1198|WD~North_Rhine-Westphalia,1198]] 
+
 ![[Coat_of_arms_of_North_Rhine-Westfalia.svg|350]] 
 
 ## #has_/text_of_/abstract 
