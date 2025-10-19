@@ -176,8 +176,6 @@ coordinates: [[Hannover]]
 markerFile: [[Hannover]] 
 geojsonFolder: ./Hannover/
 markerFolder: ./Hannover/
-coordinates: [[Hannover]] 
-markerFile: [[Hannover]] 
 zoomFeatures: true 
 defaultZoom: 11 
 maxZoom: 18
