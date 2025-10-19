@@ -1,22 +1,23 @@
 ---
-aliases:
+Commons_category: History of Germany
+Dewey_Decimal_Classification: '943'
+aliases: Null
+described_by_source:
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+facet_of: '[[_Standards/WikiData/WD~Germany,183]]'
 has_id_wikidata: Q122131
 has_part_s_:
-  - "[[_Standards/WikiData/WD~history_of_East_Germany,706790]]"
-  - "[[_Standards/WikiData/WD~West_Germany,713750]]"
-  - "[[_Standards/WikiData/WD~history_of_the_Weimar_Republic,104731094]]"
-described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Germany,6583378]]"
+  - '[[_Standards/WikiData/WD~history_of_East_Germany,706790]]'
+  - '[[_Standards/WikiData/WD~West_Germany,713750]]'
+  - '[[_Standards/WikiData/WD~history_of_the_Weimar_Republic,104731094]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
-facet_of: "[[_Standards/WikiData/WD~Germany,183]]"
-Dewey_Decimal_Classification: "943"
-spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20History%20of%20Germany%20%28spoken%20by%20AI%20voice%29.mp3
-Commons_category: History of Germany
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
+spoken_text_audio: >-
+  http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20History%20of%20Germany%20%28spoken%20by%20AI%20voice%29.mp3
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Germany,6583378]]'
 ---
 
 # [[History_of_Germany]] 
@@ -49,4 +50,22 @@ Commons_category: History of Germany
 > In 1989, the Berlin Wall was opened, the Eastern Bloc collapsed, and East and West Germany were reunited in 1990. The Franco-German friendship became the basis for the political integration of Western Europe in the European Union. In 1998–1999, Germany was one of the founding countries of the eurozone. Germany remains one of the economic powerhouses of Europe, contributing about 1/4 of the eurozone's annual gross domestic product. In the early 2010s, Germany played a critical role in trying to resolve the escalating euro crisis, especially concerning Greece and other Southern European nations. In 2015, Germany faced the European migrant crisis as the main receiver of asylum seekers from Syria and other troubled regions. Germany opposed Russia's 2022 invasion of Ukraine and decided to strengthen its armed forces.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Germany) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [History,Germany](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History,Germany.md) 
+
+### #is_/same_as :: [History,Germany.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/History,Germany.public.md) 
+
+### #is_/same_as :: [History,Germany.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/History,Germany.internal.md) 
+
+### #is_/same_as :: [History,Germany.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/History,Germany.protect.md) 
+
+### #is_/same_as :: [History,Germany.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/History,Germany.private.md) 
+
+### #is_/same_as :: [History,Germany.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/History,Germany.personal.md) 
+
+### #is_/same_as :: [History,Germany.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/History,Germany.secret.md)
+
 
