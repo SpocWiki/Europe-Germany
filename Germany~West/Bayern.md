@@ -288,6 +288,9 @@ id: Bayern
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
+defaultZoom: 11 
+coordinates: [[Bayern]] 
+markerFile: [[Bayern]] 
 geojsonFolder: ./Bayern/
 markerFolder: ./Bayern/
 ```
@@ -301,7 +304,25 @@ Capital ::  [[Bayern/counties~Bayern/München,County/City/München,City]]
 [has_place_latitude::48.8642] 
 [Population::] 
 
+## #has_/text_of_/abstract 
 
+> Bavaria, officially the Free State of Bavaria, is a state in the southeast of Germany. 
+> With an area of 70,550.19 km2 (27,239.58 sq mi), it is the largest German state by land area, 
+> comprising approximately 1/5 of the total land area of Germany, 
+> and with over 13.08 million inhabitants, it is the second most populous German state, 
+> behind only North Rhine-Westphalia; however, 
+> due to its large land area, its population density is below the German average. 
+> Major cities include Munich (its capital and largest city, which is also the third largest city in Germany), 
+> Nuremberg, and Augsburg.
+>
+> The history of Bavaria includes its earliest settlement by Iron Age Celtic tribes, 
+> followed by the conquests by the Roman Empire in the 1st century BC, when the territory was incorporated into the provinces of Raetia and Noricum. It became the Duchy of Bavaria (a stem duchy) in the 6th century AD following the collapse of the Western Roman Empire. It was later incorporated into the Holy Roman Empire, became the independent Kingdom of Bavaria after 1806, joined the Prussian-led German Empire in 1871 while retaining its title of kingdom, and finally became a state of the Federal Republic of Germany in 1949.
+>
+> Bavaria has a distinct culture, largely because of its Catholic heritage and conservative traditions, which includes a language, cuisine, architecture, festivals and elements of Alpine symbolism. It also has the second-largest economy among the German states by GDP figures, giving it the status of a wealthy German region.
+>
+> Contemporary Bavaria also includes parts of the historical regions of Franconia and Swabia, in addition to Alt**Bayern**.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Bavaria)
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bayern](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.md) 

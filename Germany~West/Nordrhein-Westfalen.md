@@ -155,6 +155,8 @@ X_username: landnrw
 
 ![[Flag_of_North_Rhine-Westphalia.svg|350]] 
 
+## #has_/map 
+
 ```leaflet
 id: NordRhein-Westfalen
 zoomFeatures: true 
@@ -162,6 +164,9 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./NordRhein-Westfalen//
 markerFolder: ./NordRhein-Westfalen/City/
+coordinates: [[NordRhein-Westfalen]] 
+markerFile: [[NordRhein-Westfalen]] 
+defaultZoom: 8 
 ```
 
 has_place_country:: [[Germany]]  
@@ -172,6 +177,38 @@ Capital :: [[Duesseldorf]]
 [has_place_latitude::51.4279] 
 [Population::] 
 
+## #has_/text_of_/abstract 
+
+> North Rhine-Westphalia or North-Rhine/Westphalia, commonly shortened to NRW, 
+> is a state (Land) in Western Germany. 
+> 
+> With more than 18 million inhabitants, it is the most populous state in Germany. 
+> Apart from the city-states (Berlin, Hamburg and Bremen), 
+> it is also the most densely populated state in Germany. 
+> Covering an area of 34,084 km2 (13,160 sq mi), it is the fourth-largest German state by size.
+>
+> North Rhine-Westphalia features 30 of the 81 German municipalities with over 100,000 inhabitants, 
+> including Cologne (over 1 million), the state capital Düsseldorf (630,000), 
+> Dortmund and Essen (about 590,000 inhabitants each) 
+> and other cities predominantly located in the Rhine-Ruhr metropolitan area, 
+> the largest urban area in Germany and the fourth-largest on the European continent. 
+> 
+> The location of the Rhine-Ruhr at the heart of the European Blue Banana 
+> makes it well connected to other major European cities and metropolitan areas 
+> like the Randstad, the Flemish Diamond and the Frankfurt Rhine-Main Region.
+>
+> North Rhine-Westphalia was established in 1946 after World War II 
+> from the Prussian provinces of Westphalia and the northern part of Rhine Province (North Rhine), 
+> and the Free State of Lippe by the British military administration in Allied-occupied Germany 
+> and became a state of the Federal Republic of Germany in 1949. 
+> 
+> The city of Bonn served as the federal capital until the reunification of Germany in 1990 
+> and as the seat of government until 1999.
+>
+> Culturally, North Rhine-Westphalia is not a uniform area; there are significant differences, 
+> especially in traditional customs, between the Rhineland region on the one hand and the regions of Westphalia and Lippe on the other. Its economy is the largest among German states by GRDP but is below the national average in GRDP per capita.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/North%20Rhine-Westphalia)
 
 ## Confidential Links & Embeds: 
 
