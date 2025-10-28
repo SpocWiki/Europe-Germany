@@ -149,6 +149,7 @@ markerFile: [[Darmstadt]]
 zoomFeatures: true
 defaultZoom: 11 
 maxZoom: 18
+minZoom: 6
 ```
 
 
