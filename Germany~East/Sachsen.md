@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Saxony
 - Sachsen
@@ -124,10 +124,13 @@ type: State
 X_username: SachsenDe
 ---
 
+# [[Sachsen]] 
+
 [name::Sachsen] 
 [name-abbr::SN]
+#is_/same_as :: [[../../../../../../WikiData/WD~Saxony,1202|WD~Saxony,1202]] 
 
-![[Coat_of_arms_of_Saxony.svg|350]] ] 
+![[Coat_of_arms_of_Saxony.svg|350]]  
 
 
 ## #has_/text_of_/abstract 
@@ -161,7 +164,9 @@ X_username: SachsenDe
 > [Wikipedia](https://en.wikipedia.org/wiki/Saxony)
 
 
-![[Flag_of_Saxony.svg|350]] ] 
+![[Flag_of_Saxony.svg|350]]  
+
+## #has_/map 
 
 ```leaflet
 id: Sachsen
@@ -170,6 +175,9 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Sachsen/
 markerFolder: ./Sachsen/
+coordinates: [[Sachsen]] 
+markerFile: [[Sachsen]] 
+defaultZoom: 11 
 ```
 
 has_place_country:: [[Germany]]  
