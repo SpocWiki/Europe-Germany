@@ -135,8 +135,7 @@ has_place_country:: [[Germany]]
 has_place_province:: [[Hessen]] 
 [Population::] 
 
-
-#is_/same_as :: [[_Standards/WikiData/WD~Darmstadt,2973]]
+#is_/same_as :: [[_Standards/WikiData/WD~Darmstadt,2973]] 
 
 ## #has_/map 
 
