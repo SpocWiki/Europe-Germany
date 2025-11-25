@@ -167,7 +167,7 @@ markerFolder: ./Baden-Wuerttemberg/
 ```
 
 has_place_country:: [[Germany]]  
-Capital :: [[Baden-Wuerttemberg/Stuttgart]]  
+Capital [[Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City]]]]]  
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::8.97421] 
