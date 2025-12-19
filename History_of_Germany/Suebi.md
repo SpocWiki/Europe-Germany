@@ -4,7 +4,7 @@ aliases:
 has_id_wikidata: Q155085
 described_by_source:
   - "[[_Standards/WikiData/WD~Commentarii_de_Bello_Gallico,106199]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Die_Luten,_die_Sueven_und_die_Serben_in_der_Lausitz,19177811]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"

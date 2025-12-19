@@ -85,7 +85,7 @@ military_or_police_rank:
 described_by_source:
   - "[[_Standards/WikiData/WD~Neue_Deutsche_Biographie,222784]]"
   - "[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~Gedanken_und_Erinnerungen,1497435]]"

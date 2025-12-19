@@ -24,7 +24,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~Catholic_cathedral,56242215]]"
   - "[[_Standards/WikiData/WD~church_building,16970]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Sechster_Band,130477825]]"
 Christian_liturgical_rite: "[[_Standards/WikiData/WD~Roman_Rite,730757]]"
 replaces: "[[_Standards/WikiData/WD~Hildebold_Dom,1284045]]"
