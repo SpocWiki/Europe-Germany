@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.12235
 - 8.74008
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Daimlerstraße](T-Daimlerstraße.md) 
+### #is_/same_as :: [T-Daimlerstraße](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Daimlerstraße.md) 
 
-### #is_/same_as :: [T-Daimlerstraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Daimlerstraße.public.md) 
+### #is_/same_as :: [T-Daimlerstraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Daimlerstraße.public.md) 
 
-### #is_/same_as :: [T-Daimlerstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Daimlerstraße.internal.md) 
+### #is_/same_as :: [T-Daimlerstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Daimlerstraße.internal.md) 
 
-### #is_/same_as :: [T-Daimlerstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Daimlerstraße.protect.md) 
+### #is_/same_as :: [T-Daimlerstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Daimlerstraße.protect.md) 
 
-### #is_/same_as :: [T-Daimlerstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Daimlerstraße.private.md) 
+### #is_/same_as :: [T-Daimlerstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Daimlerstraße.private.md) 
 
-### #is_/same_as :: [T-Daimlerstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Daimlerstraße.personal.md) 
+### #is_/same_as :: [T-Daimlerstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Daimlerstraße.personal.md) 
 
-### #is_/same_as :: [T-Daimlerstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Daimlerstraße.secret.md)
+### #is_/same_as :: [T-Daimlerstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Daimlerstraße.secret.md)
 

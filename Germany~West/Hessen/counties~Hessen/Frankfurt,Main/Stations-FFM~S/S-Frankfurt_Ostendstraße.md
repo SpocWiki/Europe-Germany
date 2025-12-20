@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.11139
 - 8.6975
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Frankfurt_Ostendstraße](S-Frankfurt_Ostendstraße.md) 
+### #is_/same_as :: [S-Frankfurt_Ostendstraße](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt_Ostendstraße.md) 
 
-### #is_/same_as :: [S-Frankfurt_Ostendstraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt_Ostendstraße.public.md) 
+### #is_/same_as :: [S-Frankfurt_Ostendstraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt_Ostendstraße.public.md) 
 
-### #is_/same_as :: [S-Frankfurt_Ostendstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt_Ostendstraße.internal.md) 
+### #is_/same_as :: [S-Frankfurt_Ostendstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt_Ostendstraße.internal.md) 
 
-### #is_/same_as :: [S-Frankfurt_Ostendstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt_Ostendstraße.protect.md) 
+### #is_/same_as :: [S-Frankfurt_Ostendstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt_Ostendstraße.protect.md) 
 
-### #is_/same_as :: [S-Frankfurt_Ostendstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt_Ostendstraße.private.md) 
+### #is_/same_as :: [S-Frankfurt_Ostendstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt_Ostendstraße.private.md) 
 
-### #is_/same_as :: [S-Frankfurt_Ostendstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt_Ostendstraße.personal.md) 
+### #is_/same_as :: [S-Frankfurt_Ostendstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt_Ostendstraße.personal.md) 
 
-### #is_/same_as :: [S-Frankfurt_Ostendstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt_Ostendstraße.secret.md)
+### #is_/same_as :: [S-Frankfurt_Ostendstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt_Ostendstraße.secret.md)
 

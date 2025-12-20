@@ -121,3 +121,22 @@ Kölner Dom ( [[Unesco]] 1996)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cologne%20Cathedral) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cologne_Cathedral](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City/Cologne_Cathedral.md) 
+
+### #is_/same_as :: [Cologne_Cathedral.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City/Cologne_Cathedral.public.md) 
+
+### #is_/same_as :: [Cologne_Cathedral.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City/Cologne_Cathedral.internal.md) 
+
+### #is_/same_as :: [Cologne_Cathedral.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City/Cologne_Cathedral.protect.md) 
+
+### #is_/same_as :: [Cologne_Cathedral.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City/Cologne_Cathedral.private.md) 
+
+### #is_/same_as :: [Cologne_Cathedral.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City/Cologne_Cathedral.personal.md) 
+
+### #is_/same_as :: [Cologne_Cathedral.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City/Cologne_Cathedral.secret.md)
+

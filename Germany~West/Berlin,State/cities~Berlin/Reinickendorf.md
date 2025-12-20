@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 location:
@@ -36,17 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reinickendorf](Reinickendorf.md) 
+### #is_/same_as :: [Reinickendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Reinickendorf.md) 
 
-### #is_/same_as :: [Reinickendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Reinickendorf.public.md) 
+### #is_/same_as :: [Reinickendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Reinickendorf.public.md) 
 
-### #is_/same_as :: [Reinickendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Reinickendorf.internal.md) 
+### #is_/same_as :: [Reinickendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Reinickendorf.internal.md) 
 
-### #is_/same_as :: [Reinickendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Reinickendorf.protect.md) 
+### #is_/same_as :: [Reinickendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Reinickendorf.protect.md) 
 
-### #is_/same_as :: [Reinickendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Reinickendorf.private.md) 
+### #is_/same_as :: [Reinickendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Reinickendorf.private.md) 
 
-### #is_/same_as :: [Reinickendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Reinickendorf.personal.md) 
+### #is_/same_as :: [Reinickendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Reinickendorf.personal.md) 
 
-### #is_/same_as :: [Reinickendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Reinickendorf.secret.md)
+### #is_/same_as :: [Reinickendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Reinickendorf.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.18569
 - 8.584694
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Oberursel-Stierstadt](S-Oberursel-Stierstadt.md) 
+### #is_/same_as :: [S-Oberursel-Stierstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Oberursel-Stierstadt.md) 
 
-### #is_/same_as :: [S-Oberursel-Stierstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Oberursel-Stierstadt.public.md) 
+### #is_/same_as :: [S-Oberursel-Stierstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Oberursel-Stierstadt.public.md) 
 
-### #is_/same_as :: [S-Oberursel-Stierstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Oberursel-Stierstadt.internal.md) 
+### #is_/same_as :: [S-Oberursel-Stierstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Oberursel-Stierstadt.internal.md) 
 
-### #is_/same_as :: [S-Oberursel-Stierstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Oberursel-Stierstadt.protect.md) 
+### #is_/same_as :: [S-Oberursel-Stierstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Oberursel-Stierstadt.protect.md) 
 
-### #is_/same_as :: [S-Oberursel-Stierstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Oberursel-Stierstadt.private.md) 
+### #is_/same_as :: [S-Oberursel-Stierstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Oberursel-Stierstadt.private.md) 
 
-### #is_/same_as :: [S-Oberursel-Stierstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Oberursel-Stierstadt.personal.md) 
+### #is_/same_as :: [S-Oberursel-Stierstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Oberursel-Stierstadt.personal.md) 
 
-### #is_/same_as :: [S-Oberursel-Stierstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Oberursel-Stierstadt.secret.md)
+### #is_/same_as :: [S-Oberursel-Stierstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Oberursel-Stierstadt.secret.md)
 

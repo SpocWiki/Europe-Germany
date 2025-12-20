@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.15493
 - 8.686307
@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [U-Sigmund-Freud-Straße](U-Sigmund-Freud-Straße.md) 
+### #is_/same_as :: [U-Sigmund-Freud-Straße](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Sigmund-Freud-Straße.md) 
 
-### #is_/same_as :: [U-Sigmund-Freud-Straße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Sigmund-Freud-Straße.public.md) 
+### #is_/same_as :: [U-Sigmund-Freud-Straße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Sigmund-Freud-Straße.public.md) 
 
-### #is_/same_as :: [U-Sigmund-Freud-Straße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Sigmund-Freud-Straße.internal.md) 
+### #is_/same_as :: [U-Sigmund-Freud-Straße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Sigmund-Freud-Straße.internal.md) 
 
-### #is_/same_as :: [U-Sigmund-Freud-Straße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Sigmund-Freud-Straße.protect.md) 
+### #is_/same_as :: [U-Sigmund-Freud-Straße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Sigmund-Freud-Straße.protect.md) 
 
-### #is_/same_as :: [U-Sigmund-Freud-Straße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Sigmund-Freud-Straße.private.md) 
+### #is_/same_as :: [U-Sigmund-Freud-Straße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Sigmund-Freud-Straße.private.md) 
 
-### #is_/same_as :: [U-Sigmund-Freud-Straße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Sigmund-Freud-Straße.personal.md) 
+### #is_/same_as :: [U-Sigmund-Freud-Straße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Sigmund-Freud-Straße.personal.md) 
 
-### #is_/same_as :: [U-Sigmund-Freud-Straße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Sigmund-Freud-Straße.secret.md)
+### #is_/same_as :: [U-Sigmund-Freud-Straße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Sigmund-Freud-Straße.secret.md)
 

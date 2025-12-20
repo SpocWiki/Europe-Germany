@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.10188
 - 8.699874
@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Mühlberg](T-Mühlberg.md) 
+### #is_/same_as :: [T-Mühlberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Mühlberg.md) 
 
-### #is_/same_as :: [T-Mühlberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Mühlberg.public.md) 
+### #is_/same_as :: [T-Mühlberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Mühlberg.public.md) 
 
-### #is_/same_as :: [T-Mühlberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Mühlberg.internal.md) 
+### #is_/same_as :: [T-Mühlberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Mühlberg.internal.md) 
 
-### #is_/same_as :: [T-Mühlberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Mühlberg.protect.md) 
+### #is_/same_as :: [T-Mühlberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Mühlberg.protect.md) 
 
-### #is_/same_as :: [T-Mühlberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Mühlberg.private.md) 
+### #is_/same_as :: [T-Mühlberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Mühlberg.private.md) 
 
-### #is_/same_as :: [T-Mühlberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Mühlberg.personal.md) 
+### #is_/same_as :: [T-Mühlberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Mühlberg.personal.md) 
 
-### #is_/same_as :: [T-Mühlberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Mühlberg.secret.md)
+### #is_/same_as :: [T-Mühlberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Mühlberg.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.21501
 - 8.550003
@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [U-Rosengärtchen](U-Rosengärtchen.md) 
+### #is_/same_as :: [U-Rosengärtchen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Rosengärtchen.md) 
 
-### #is_/same_as :: [U-Rosengärtchen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Rosengärtchen.public.md) 
+### #is_/same_as :: [U-Rosengärtchen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Rosengärtchen.public.md) 
 
-### #is_/same_as :: [U-Rosengärtchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Rosengärtchen.internal.md) 
+### #is_/same_as :: [U-Rosengärtchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Rosengärtchen.internal.md) 
 
-### #is_/same_as :: [U-Rosengärtchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Rosengärtchen.protect.md) 
+### #is_/same_as :: [U-Rosengärtchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Rosengärtchen.protect.md) 
 
-### #is_/same_as :: [U-Rosengärtchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Rosengärtchen.private.md) 
+### #is_/same_as :: [U-Rosengärtchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Rosengärtchen.private.md) 
 
-### #is_/same_as :: [U-Rosengärtchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Rosengärtchen.personal.md) 
+### #is_/same_as :: [U-Rosengärtchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Rosengärtchen.personal.md) 
 
-### #is_/same_as :: [U-Rosengärtchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Rosengärtchen.secret.md)
+### #is_/same_as :: [U-Rosengärtchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Rosengärtchen.secret.md)
 

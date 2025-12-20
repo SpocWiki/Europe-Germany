@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Hamburg
 Confidential: public
@@ -41,17 +41,17 @@ Capital :: [[Hamburg,State/cities~Hamburg/Hamburg,City]] ]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hamburg,State](Hamburg,State.md) 
+### #is_/same_as :: [Hamburg,State](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State.md) 
 
-### #is_/same_as :: [State~Hamburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.public.md) 
+### #is_/same_as :: [Hamburg,State.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State.public.md) 
 
-### #is_/same_as :: [State~Hamburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.internal.md) 
+### #is_/same_as :: [Hamburg,State.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State.internal.md) 
 
-### #is_/same_as :: [State~Hamburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.protect.md) 
+### #is_/same_as :: [Hamburg,State.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State.protect.md) 
 
-### #is_/same_as :: [State~Hamburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.private.md) 
+### #is_/same_as :: [Hamburg,State.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State.private.md) 
 
-### #is_/same_as :: [State~Hamburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.personal.md) 
+### #is_/same_as :: [Hamburg,State.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State.personal.md) 
 
-### #is_/same_as :: [State~Hamburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg.secret.md)
+### #is_/same_as :: [Hamburg,State.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State.secret.md)
 

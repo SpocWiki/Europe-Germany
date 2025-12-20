@@ -34,17 +34,17 @@ class S_Südkreuz,S_Tempelhof,S_Hermannstraße,S_Neukölln,S_Köllnische_Heide,S
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S45,Berlin](S45,Berlin.md) 
+### #is_/same_as :: [S45,Berlin](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin/S45,Berlin.md) 
 
-### #is_/same_as :: [S45,Berlin.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/S-Bahn,Berlin/S45,Berlin.public.md) 
+### #is_/same_as :: [S45,Berlin.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin/S45,Berlin.public.md) 
 
-### #is_/same_as :: [S45,Berlin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/S-Bahn,Berlin/S45,Berlin.internal.md) 
+### #is_/same_as :: [S45,Berlin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin/S45,Berlin.internal.md) 
 
-### #is_/same_as :: [S45,Berlin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/S-Bahn,Berlin/S45,Berlin.protect.md) 
+### #is_/same_as :: [S45,Berlin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin/S45,Berlin.protect.md) 
 
-### #is_/same_as :: [S45,Berlin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/S-Bahn,Berlin/S45,Berlin.private.md) 
+### #is_/same_as :: [S45,Berlin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin/S45,Berlin.private.md) 
 
-### #is_/same_as :: [S45,Berlin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/S-Bahn,Berlin/S45,Berlin.personal.md) 
+### #is_/same_as :: [S45,Berlin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin/S45,Berlin.personal.md) 
 
-### #is_/same_as :: [S45,Berlin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/S-Bahn,Berlin/S45,Berlin.secret.md)
+### #is_/same_as :: [S45,Berlin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin/S45,Berlin.secret.md)
 

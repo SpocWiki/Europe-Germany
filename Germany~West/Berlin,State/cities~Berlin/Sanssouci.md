@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Sanssouci
 confidential: public
@@ -52,17 +52,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sanssouci](Sanssouci.md) 
+### #is_/same_as :: [Sanssouci](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.md) 
 
-### #is_/same_as :: [Sanssouci.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Sanssouci.public.md) 
+### #is_/same_as :: [Sanssouci.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.public.md) 
 
-### #is_/same_as :: [Sanssouci.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Sanssouci.internal.md) 
+### #is_/same_as :: [Sanssouci.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.internal.md) 
 
-### #is_/same_as :: [Sanssouci.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Sanssouci.protect.md) 
+### #is_/same_as :: [Sanssouci.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.protect.md) 
 
-### #is_/same_as :: [Sanssouci.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Sanssouci.private.md) 
+### #is_/same_as :: [Sanssouci.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.private.md) 
 
-### #is_/same_as :: [Sanssouci.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Sanssouci.personal.md) 
+### #is_/same_as :: [Sanssouci.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.personal.md) 
 
-### #is_/same_as :: [Sanssouci.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Sanssouci.secret.md)
+### #is_/same_as :: [Sanssouci.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.11489
 - 8.422853
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Lorsbach](S-Lorsbach.md) 
+### #is_/same_as :: [S-Lorsbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Lorsbach.md) 
 
-### #is_/same_as :: [S-Lorsbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Lorsbach.public.md) 
+### #is_/same_as :: [S-Lorsbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Lorsbach.public.md) 
 
-### #is_/same_as :: [S-Lorsbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Lorsbach.internal.md) 
+### #is_/same_as :: [S-Lorsbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Lorsbach.internal.md) 
 
-### #is_/same_as :: [S-Lorsbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Lorsbach.protect.md) 
+### #is_/same_as :: [S-Lorsbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Lorsbach.protect.md) 
 
-### #is_/same_as :: [S-Lorsbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Lorsbach.private.md) 
+### #is_/same_as :: [S-Lorsbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Lorsbach.private.md) 
 
-### #is_/same_as :: [S-Lorsbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Lorsbach.personal.md) 
+### #is_/same_as :: [S-Lorsbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Lorsbach.personal.md) 
 
-### #is_/same_as :: [S-Lorsbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Lorsbach.secret.md)
+### #is_/same_as :: [S-Lorsbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Lorsbach.secret.md)
 

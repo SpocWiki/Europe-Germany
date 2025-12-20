@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.11389
 - 8.6789
@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [U-Hauptwache](U-Hauptwache.md) 
+### #is_/same_as :: [U-Hauptwache](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Hauptwache.md) 
 
-### #is_/same_as :: [U-Hauptwache.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Hauptwache.public.md) 
+### #is_/same_as :: [U-Hauptwache.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Hauptwache.public.md) 
 
-### #is_/same_as :: [U-Hauptwache.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Hauptwache.internal.md) 
+### #is_/same_as :: [U-Hauptwache.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Hauptwache.internal.md) 
 
-### #is_/same_as :: [U-Hauptwache.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Hauptwache.protect.md) 
+### #is_/same_as :: [U-Hauptwache.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Hauptwache.protect.md) 
 
-### #is_/same_as :: [U-Hauptwache.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Hauptwache.private.md) 
+### #is_/same_as :: [U-Hauptwache.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Hauptwache.private.md) 
 
-### #is_/same_as :: [U-Hauptwache.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Hauptwache.personal.md) 
+### #is_/same_as :: [U-Hauptwache.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Hauptwache.personal.md) 
 
-### #is_/same_as :: [U-Hauptwache.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Hauptwache.secret.md)
+### #is_/same_as :: [U-Hauptwache.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Hauptwache.secret.md)
 

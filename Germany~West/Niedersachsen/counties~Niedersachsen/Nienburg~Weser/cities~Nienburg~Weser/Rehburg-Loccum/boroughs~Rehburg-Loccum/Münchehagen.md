@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Muenchehagen
 confidential: public

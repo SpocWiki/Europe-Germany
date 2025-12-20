@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Scheessel
 confidential: public

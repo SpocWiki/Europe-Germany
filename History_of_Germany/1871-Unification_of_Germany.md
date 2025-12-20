@@ -38,3 +38,22 @@ coordinate_location: Point(2.120333333 48.803580555)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Unification%20of%20Germany) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1871-Unification_of_Germany](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.md) 
+
+### #is_/same_as :: [1871-Unification_of_Germany.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.public.md) 
+
+### #is_/same_as :: [1871-Unification_of_Germany.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.internal.md) 
+
+### #is_/same_as :: [1871-Unification_of_Germany.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.protect.md) 
+
+### #is_/same_as :: [1871-Unification_of_Germany.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.private.md) 
+
+### #is_/same_as :: [1871-Unification_of_Germany.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.personal.md) 
+
+### #is_/same_as :: [1871-Unification_of_Germany.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.secret.md)
+

@@ -74,3 +74,22 @@ coordinate_location: Point(11.5 53.5)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Suebi) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Suebi](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.md) 
+
+### #is_/same_as :: [Suebi.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.public.md) 
+
+### #is_/same_as :: [Suebi.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.internal.md) 
+
+### #is_/same_as :: [Suebi.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.protect.md) 
+
+### #is_/same_as :: [Suebi.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.private.md) 
+
+### #is_/same_as :: [Suebi.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.personal.md) 
+
+### #is_/same_as :: [Suebi.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.secret.md)
+

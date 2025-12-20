@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.11917
 - 8.639444
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Frankfurt~Main_West](S-Frankfurt~Main_West.md) 
+### #is_/same_as :: [S-Frankfurt~Main_West](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main_West.md) 
 
-### #is_/same_as :: [S-Frankfurt~Main_West.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_West.public.md) 
+### #is_/same_as :: [S-Frankfurt~Main_West.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main_West.public.md) 
 
-### #is_/same_as :: [S-Frankfurt~Main_West.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_West.internal.md) 
+### #is_/same_as :: [S-Frankfurt~Main_West.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main_West.internal.md) 
 
-### #is_/same_as :: [S-Frankfurt~Main_West.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_West.protect.md) 
+### #is_/same_as :: [S-Frankfurt~Main_West.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main_West.protect.md) 
 
-### #is_/same_as :: [S-Frankfurt~Main_West.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_West.private.md) 
+### #is_/same_as :: [S-Frankfurt~Main_West.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main_West.private.md) 
 
-### #is_/same_as :: [S-Frankfurt~Main_West.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_West.personal.md) 
+### #is_/same_as :: [S-Frankfurt~Main_West.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main_West.personal.md) 
 
-### #is_/same_as :: [S-Frankfurt~Main_West.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main_West.secret.md)
+### #is_/same_as :: [S-Frankfurt~Main_West.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main_West.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.09945
 - 8.770833
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Offenbach~Main_Ost](S-Offenbach~Main_Ost.md) 
+### #is_/same_as :: [S-Offenbach~Main_Ost](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Offenbach~Main_Ost.md) 
 
-### #is_/same_as :: [S-Offenbach~Main_Ost.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Offenbach~Main_Ost.public.md) 
+### #is_/same_as :: [S-Offenbach~Main_Ost.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Offenbach~Main_Ost.public.md) 
 
-### #is_/same_as :: [S-Offenbach~Main_Ost.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Offenbach~Main_Ost.internal.md) 
+### #is_/same_as :: [S-Offenbach~Main_Ost.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Offenbach~Main_Ost.internal.md) 
 
-### #is_/same_as :: [S-Offenbach~Main_Ost.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Offenbach~Main_Ost.protect.md) 
+### #is_/same_as :: [S-Offenbach~Main_Ost.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Offenbach~Main_Ost.protect.md) 
 
-### #is_/same_as :: [S-Offenbach~Main_Ost.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Offenbach~Main_Ost.private.md) 
+### #is_/same_as :: [S-Offenbach~Main_Ost.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Offenbach~Main_Ost.private.md) 
 
-### #is_/same_as :: [S-Offenbach~Main_Ost.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Offenbach~Main_Ost.personal.md) 
+### #is_/same_as :: [S-Offenbach~Main_Ost.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Offenbach~Main_Ost.personal.md) 
 
-### #is_/same_as :: [S-Offenbach~Main_Ost.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Offenbach~Main_Ost.secret.md)
+### #is_/same_as :: [S-Offenbach~Main_Ost.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Offenbach~Main_Ost.secret.md)
 

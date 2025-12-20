@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.15299
 - 8.661025
@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [U-Lindenbaum](U-Lindenbaum.md) 
+### #is_/same_as :: [U-Lindenbaum](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Lindenbaum.md) 
 
-### #is_/same_as :: [U-Lindenbaum.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Lindenbaum.public.md) 
+### #is_/same_as :: [U-Lindenbaum.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Lindenbaum.public.md) 
 
-### #is_/same_as :: [U-Lindenbaum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Lindenbaum.internal.md) 
+### #is_/same_as :: [U-Lindenbaum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Lindenbaum.internal.md) 
 
-### #is_/same_as :: [U-Lindenbaum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Lindenbaum.protect.md) 
+### #is_/same_as :: [U-Lindenbaum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Lindenbaum.protect.md) 
 
-### #is_/same_as :: [U-Lindenbaum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Lindenbaum.private.md) 
+### #is_/same_as :: [U-Lindenbaum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Lindenbaum.private.md) 
 
-### #is_/same_as :: [U-Lindenbaum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Lindenbaum.personal.md) 
+### #is_/same_as :: [U-Lindenbaum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Lindenbaum.personal.md) 
 
-### #is_/same_as :: [U-Lindenbaum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Lindenbaum.secret.md)
+### #is_/same_as :: [U-Lindenbaum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Lindenbaum.secret.md)
 

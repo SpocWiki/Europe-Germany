@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 location:
@@ -36,17 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dahlem](Dahlem.md) 
+### #is_/same_as :: [Dahlem](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Dahlem.md) 
 
-### #is_/same_as :: [Dahlem.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Dahlem.public.md) 
+### #is_/same_as :: [Dahlem.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Dahlem.public.md) 
 
-### #is_/same_as :: [Dahlem.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Dahlem.internal.md) 
+### #is_/same_as :: [Dahlem.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Dahlem.internal.md) 
 
-### #is_/same_as :: [Dahlem.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Dahlem.protect.md) 
+### #is_/same_as :: [Dahlem.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Dahlem.protect.md) 
 
-### #is_/same_as :: [Dahlem.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Dahlem.private.md) 
+### #is_/same_as :: [Dahlem.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Dahlem.private.md) 
 
-### #is_/same_as :: [Dahlem.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Dahlem.personal.md) 
+### #is_/same_as :: [Dahlem.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Dahlem.personal.md) 
 
-### #is_/same_as :: [Dahlem.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Dahlem.secret.md)
+### #is_/same_as :: [Dahlem.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Dahlem.secret.md)
 

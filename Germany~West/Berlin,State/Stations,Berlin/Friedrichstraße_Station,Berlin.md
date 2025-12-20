@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - T68_Köpenick
 location:
@@ -36,17 +36,17 @@ geo:52.520278,13.386944
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Friedrichstraße_Station,Berlin](Friedrichstraße_Station,Berlin.md) 
+### #is_/same_as :: [Friedrichstraße_Station,Berlin](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.md) 
 
-### #is_/same_as :: [Friedrichstraße_Station,Berlin.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/Stations,Berlin/Friedrichstraße_Station,Berlin.public.md) 
+### #is_/same_as :: [Friedrichstraße_Station,Berlin.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.public.md) 
 
-### #is_/same_as :: [Friedrichstraße_Station,Berlin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/Stations,Berlin/Friedrichstraße_Station,Berlin.internal.md) 
+### #is_/same_as :: [Friedrichstraße_Station,Berlin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.internal.md) 
 
-### #is_/same_as :: [Friedrichstraße_Station,Berlin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/Stations,Berlin/Friedrichstraße_Station,Berlin.protect.md) 
+### #is_/same_as :: [Friedrichstraße_Station,Berlin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.protect.md) 
 
-### #is_/same_as :: [Friedrichstraße_Station,Berlin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/Stations,Berlin/Friedrichstraße_Station,Berlin.private.md) 
+### #is_/same_as :: [Friedrichstraße_Station,Berlin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.private.md) 
 
-### #is_/same_as :: [Friedrichstraße_Station,Berlin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/Stations,Berlin/Friedrichstraße_Station,Berlin.personal.md) 
+### #is_/same_as :: [Friedrichstraße_Station,Berlin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.personal.md) 
 
-### #is_/same_as :: [Friedrichstraße_Station,Berlin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/Stations,Berlin/Friedrichstraße_Station,Berlin.secret.md)
+### #is_/same_as :: [Friedrichstraße_Station,Berlin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.secret.md)
 

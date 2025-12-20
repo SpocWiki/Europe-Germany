@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.12028
 - 8.69583
@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [U-Merianplatz](U-Merianplatz.md) 
+### #is_/same_as :: [U-Merianplatz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Merianplatz.md) 
 
-### #is_/same_as :: [U-Merianplatz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Merianplatz.public.md) 
+### #is_/same_as :: [U-Merianplatz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Merianplatz.public.md) 
 
-### #is_/same_as :: [U-Merianplatz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Merianplatz.internal.md) 
+### #is_/same_as :: [U-Merianplatz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Merianplatz.internal.md) 
 
-### #is_/same_as :: [U-Merianplatz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Merianplatz.protect.md) 
+### #is_/same_as :: [U-Merianplatz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Merianplatz.protect.md) 
 
-### #is_/same_as :: [U-Merianplatz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Merianplatz.private.md) 
+### #is_/same_as :: [U-Merianplatz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Merianplatz.private.md) 
 
-### #is_/same_as :: [U-Merianplatz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Merianplatz.personal.md) 
+### #is_/same_as :: [U-Merianplatz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Merianplatz.personal.md) 
 
-### #is_/same_as :: [U-Merianplatz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Merianplatz.secret.md)
+### #is_/same_as :: [U-Merianplatz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Merianplatz.secret.md)
 

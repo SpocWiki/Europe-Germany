@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.17324
 - 8.586918
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Oberursel-Weißkirchen_Steinbach](S-Oberursel-Weißkirchen_Steinbach.md) 
+### #is_/same_as :: [S-Oberursel-Weißkirchen_Steinbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Oberursel-Weißkirchen_Steinbach.md) 
 
-### #is_/same_as :: [S-Oberursel-Weißkirchen_Steinbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Oberursel-Weißkirchen_Steinbach.public.md) 
+### #is_/same_as :: [S-Oberursel-Weißkirchen_Steinbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Oberursel-Weißkirchen_Steinbach.public.md) 
 
-### #is_/same_as :: [S-Oberursel-Weißkirchen_Steinbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Oberursel-Weißkirchen_Steinbach.internal.md) 
+### #is_/same_as :: [S-Oberursel-Weißkirchen_Steinbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Oberursel-Weißkirchen_Steinbach.internal.md) 
 
-### #is_/same_as :: [S-Oberursel-Weißkirchen_Steinbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Oberursel-Weißkirchen_Steinbach.protect.md) 
+### #is_/same_as :: [S-Oberursel-Weißkirchen_Steinbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Oberursel-Weißkirchen_Steinbach.protect.md) 
 
-### #is_/same_as :: [S-Oberursel-Weißkirchen_Steinbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Oberursel-Weißkirchen_Steinbach.private.md) 
+### #is_/same_as :: [S-Oberursel-Weißkirchen_Steinbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Oberursel-Weißkirchen_Steinbach.private.md) 
 
-### #is_/same_as :: [S-Oberursel-Weißkirchen_Steinbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Oberursel-Weißkirchen_Steinbach.personal.md) 
+### #is_/same_as :: [S-Oberursel-Weißkirchen_Steinbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Oberursel-Weißkirchen_Steinbach.personal.md) 
 
-### #is_/same_as :: [S-Oberursel-Weißkirchen_Steinbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Oberursel-Weißkirchen_Steinbach.secret.md)
+### #is_/same_as :: [S-Oberursel-Weißkirchen_Steinbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Oberursel-Weißkirchen_Steinbach.secret.md)
 

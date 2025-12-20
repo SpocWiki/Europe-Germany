@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Limburg an der Lahn"
 confidential: public

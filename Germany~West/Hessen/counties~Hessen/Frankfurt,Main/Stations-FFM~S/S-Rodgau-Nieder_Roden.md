@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 49.99635
 - 8.874723
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Rodgau-Nieder_Roden](S-Rodgau-Nieder_Roden.md) 
+### #is_/same_as :: [S-Rodgau-Nieder_Roden](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rodgau-Nieder_Roden.md) 
 
-### #is_/same_as :: [S-Rodgau-Nieder_Roden.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Nieder_Roden.public.md) 
+### #is_/same_as :: [S-Rodgau-Nieder_Roden.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rodgau-Nieder_Roden.public.md) 
 
-### #is_/same_as :: [S-Rodgau-Nieder_Roden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Nieder_Roden.internal.md) 
+### #is_/same_as :: [S-Rodgau-Nieder_Roden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rodgau-Nieder_Roden.internal.md) 
 
-### #is_/same_as :: [S-Rodgau-Nieder_Roden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Nieder_Roden.protect.md) 
+### #is_/same_as :: [S-Rodgau-Nieder_Roden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rodgau-Nieder_Roden.protect.md) 
 
-### #is_/same_as :: [S-Rodgau-Nieder_Roden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Nieder_Roden.private.md) 
+### #is_/same_as :: [S-Rodgau-Nieder_Roden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rodgau-Nieder_Roden.private.md) 
 
-### #is_/same_as :: [S-Rodgau-Nieder_Roden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Nieder_Roden.personal.md) 
+### #is_/same_as :: [S-Rodgau-Nieder_Roden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rodgau-Nieder_Roden.personal.md) 
 
-### #is_/same_as :: [S-Rodgau-Nieder_Roden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Nieder_Roden.secret.md)
+### #is_/same_as :: [S-Rodgau-Nieder_Roden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rodgau-Nieder_Roden.secret.md)
 

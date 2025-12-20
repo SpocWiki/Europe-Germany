@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.12064
 - 8.65061
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Bockenheimer_Warte](T-Bockenheimer_Warte.md) 
+### #is_/same_as :: [T-Bockenheimer_Warte](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Bockenheimer_Warte.md) 
 
-### #is_/same_as :: [T-Bockenheimer_Warte.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bockenheimer_Warte.public.md) 
+### #is_/same_as :: [T-Bockenheimer_Warte.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Bockenheimer_Warte.public.md) 
 
-### #is_/same_as :: [T-Bockenheimer_Warte.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bockenheimer_Warte.internal.md) 
+### #is_/same_as :: [T-Bockenheimer_Warte.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Bockenheimer_Warte.internal.md) 
 
-### #is_/same_as :: [T-Bockenheimer_Warte.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bockenheimer_Warte.protect.md) 
+### #is_/same_as :: [T-Bockenheimer_Warte.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Bockenheimer_Warte.protect.md) 
 
-### #is_/same_as :: [T-Bockenheimer_Warte.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bockenheimer_Warte.private.md) 
+### #is_/same_as :: [T-Bockenheimer_Warte.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Bockenheimer_Warte.private.md) 
 
-### #is_/same_as :: [T-Bockenheimer_Warte.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bockenheimer_Warte.personal.md) 
+### #is_/same_as :: [T-Bockenheimer_Warte.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Bockenheimer_Warte.personal.md) 
 
-### #is_/same_as :: [T-Bockenheimer_Warte.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bockenheimer_Warte.secret.md)
+### #is_/same_as :: [T-Bockenheimer_Warte.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Bockenheimer_Warte.secret.md)
 

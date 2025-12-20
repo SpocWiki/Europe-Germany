@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.09858
 - 8.683227
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Südbahnhof_Schweizer_Str.](T-Südbahnhof_Schweizer_Str..md) 
+### #is_/same_as :: [T-Südbahnhof_Schweizer_Str.](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Südbahnhof_Schweizer_Str..md) 
 
-### #is_/same_as :: [T-Südbahnhof_Schweizer_Str..public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Südbahnhof_Schweizer_Str..public.md) 
+### #is_/same_as :: [T-Südbahnhof_Schweizer_Str..public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Südbahnhof_Schweizer_Str..public.md) 
 
-### #is_/same_as :: [T-Südbahnhof_Schweizer_Str..internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Südbahnhof_Schweizer_Str..internal.md) 
+### #is_/same_as :: [T-Südbahnhof_Schweizer_Str..internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Südbahnhof_Schweizer_Str..internal.md) 
 
-### #is_/same_as :: [T-Südbahnhof_Schweizer_Str..protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Südbahnhof_Schweizer_Str..protect.md) 
+### #is_/same_as :: [T-Südbahnhof_Schweizer_Str..protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Südbahnhof_Schweizer_Str..protect.md) 
 
-### #is_/same_as :: [T-Südbahnhof_Schweizer_Str..private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Südbahnhof_Schweizer_Str..private.md) 
+### #is_/same_as :: [T-Südbahnhof_Schweizer_Str..private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Südbahnhof_Schweizer_Str..private.md) 
 
-### #is_/same_as :: [T-Südbahnhof_Schweizer_Str..personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Südbahnhof_Schweizer_Str..personal.md) 
+### #is_/same_as :: [T-Südbahnhof_Schweizer_Str..personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Südbahnhof_Schweizer_Str..personal.md) 
 
-### #is_/same_as :: [T-Südbahnhof_Schweizer_Str..secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Südbahnhof_Schweizer_Str..secret.md)
+### #is_/same_as :: [T-Südbahnhof_Schweizer_Str..secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Südbahnhof_Schweizer_Str..secret.md)
 

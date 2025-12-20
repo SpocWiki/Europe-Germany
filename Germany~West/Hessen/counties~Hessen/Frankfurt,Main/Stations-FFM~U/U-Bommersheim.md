@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.19361
 - 8.59324
@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [U-Bommersheim](U-Bommersheim.md) 
+### #is_/same_as :: [U-Bommersheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Bommersheim.md) 
 
-### #is_/same_as :: [U-Bommersheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Bommersheim.public.md) 
+### #is_/same_as :: [U-Bommersheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Bommersheim.public.md) 
 
-### #is_/same_as :: [U-Bommersheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Bommersheim.internal.md) 
+### #is_/same_as :: [U-Bommersheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Bommersheim.internal.md) 
 
-### #is_/same_as :: [U-Bommersheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Bommersheim.protect.md) 
+### #is_/same_as :: [U-Bommersheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Bommersheim.protect.md) 
 
-### #is_/same_as :: [U-Bommersheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Bommersheim.private.md) 
+### #is_/same_as :: [U-Bommersheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Bommersheim.private.md) 
 
-### #is_/same_as :: [U-Bommersheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Bommersheim.personal.md) 
+### #is_/same_as :: [U-Bommersheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Bommersheim.personal.md) 
 
-### #is_/same_as :: [U-Bommersheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Bommersheim.secret.md)
+### #is_/same_as :: [U-Bommersheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Bommersheim.secret.md)
 

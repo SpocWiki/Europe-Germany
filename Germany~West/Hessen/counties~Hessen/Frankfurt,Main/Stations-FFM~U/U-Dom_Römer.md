@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.11083
 - 8.68333
@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [U-Dom_Römer](U-Dom_Römer.md) 
+### #is_/same_as :: [U-Dom_Römer](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Dom_Römer.md) 
 
-### #is_/same_as :: [U-Dom_Römer.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Dom_Römer.public.md) 
+### #is_/same_as :: [U-Dom_Römer.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Dom_Römer.public.md) 
 
-### #is_/same_as :: [U-Dom_Römer.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Dom_Römer.internal.md) 
+### #is_/same_as :: [U-Dom_Römer.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Dom_Römer.internal.md) 
 
-### #is_/same_as :: [U-Dom_Römer.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Dom_Römer.protect.md) 
+### #is_/same_as :: [U-Dom_Römer.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Dom_Römer.protect.md) 
 
-### #is_/same_as :: [U-Dom_Römer.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Dom_Römer.private.md) 
+### #is_/same_as :: [U-Dom_Römer.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Dom_Römer.private.md) 
 
-### #is_/same_as :: [U-Dom_Römer.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Dom_Römer.personal.md) 
+### #is_/same_as :: [U-Dom_Römer.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Dom_Römer.personal.md) 
 
-### #is_/same_as :: [U-Dom_Römer.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Dom_Römer.secret.md)
+### #is_/same_as :: [U-Dom_Römer.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Dom_Römer.secret.md)
 

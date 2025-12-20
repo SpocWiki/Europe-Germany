@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 
 confidential: public
@@ -32,17 +32,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_Station-S-Template](_Station-S-Template.md) 
+### #is_/same_as :: [_Station-S-Template](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/_Station-S-Template.md) 
 
-### #is_/same_as :: [_Station-S-Template.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/_Station-S-Template.public.md) 
+### #is_/same_as :: [_Station-S-Template.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/_Station-S-Template.public.md) 
 
-### #is_/same_as :: [_Station-S-Template.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/_Station-S-Template.internal.md) 
+### #is_/same_as :: [_Station-S-Template.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/_Station-S-Template.internal.md) 
 
-### #is_/same_as :: [_Station-S-Template.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/_Station-S-Template.protect.md) 
+### #is_/same_as :: [_Station-S-Template.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/_Station-S-Template.protect.md) 
 
-### #is_/same_as :: [_Station-S-Template.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/_Station-S-Template.private.md) 
+### #is_/same_as :: [_Station-S-Template.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/_Station-S-Template.private.md) 
 
-### #is_/same_as :: [_Station-S-Template.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/_Station-S-Template.personal.md) 
+### #is_/same_as :: [_Station-S-Template.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/_Station-S-Template.personal.md) 
 
-### #is_/same_as :: [_Station-S-Template.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/_Station-S-Template.secret.md)
+### #is_/same_as :: [_Station-S-Template.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/_Station-S-Template.secret.md)
 

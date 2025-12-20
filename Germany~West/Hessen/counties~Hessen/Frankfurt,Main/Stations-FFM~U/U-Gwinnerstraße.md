@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.13384
 - 8.74124
@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [U-Gwinnerstraße](U-Gwinnerstraße.md) 
+### #is_/same_as :: [U-Gwinnerstraße](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Gwinnerstraße.md) 
 
-### #is_/same_as :: [U-Gwinnerstraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Gwinnerstraße.public.md) 
+### #is_/same_as :: [U-Gwinnerstraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Gwinnerstraße.public.md) 
 
-### #is_/same_as :: [U-Gwinnerstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Gwinnerstraße.internal.md) 
+### #is_/same_as :: [U-Gwinnerstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Gwinnerstraße.internal.md) 
 
-### #is_/same_as :: [U-Gwinnerstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Gwinnerstraße.protect.md) 
+### #is_/same_as :: [U-Gwinnerstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Gwinnerstraße.protect.md) 
 
-### #is_/same_as :: [U-Gwinnerstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Gwinnerstraße.private.md) 
+### #is_/same_as :: [U-Gwinnerstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Gwinnerstraße.private.md) 
 
-### #is_/same_as :: [U-Gwinnerstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Gwinnerstraße.personal.md) 
+### #is_/same_as :: [U-Gwinnerstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Gwinnerstraße.personal.md) 
 
-### #is_/same_as :: [U-Gwinnerstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Gwinnerstraße.secret.md)
+### #is_/same_as :: [U-Gwinnerstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Gwinnerstraße.secret.md)
 

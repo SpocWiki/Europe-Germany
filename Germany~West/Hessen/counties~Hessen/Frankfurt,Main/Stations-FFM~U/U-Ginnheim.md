@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.1403
 - 8.6464
@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [U-Ginnheim](U-Ginnheim.md) 
+### #is_/same_as :: [U-Ginnheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ginnheim.md) 
 
-### #is_/same_as :: [U-Ginnheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Ginnheim.public.md) 
+### #is_/same_as :: [U-Ginnheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ginnheim.public.md) 
 
-### #is_/same_as :: [U-Ginnheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Ginnheim.internal.md) 
+### #is_/same_as :: [U-Ginnheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ginnheim.internal.md) 
 
-### #is_/same_as :: [U-Ginnheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Ginnheim.protect.md) 
+### #is_/same_as :: [U-Ginnheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ginnheim.protect.md) 
 
-### #is_/same_as :: [U-Ginnheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Ginnheim.private.md) 
+### #is_/same_as :: [U-Ginnheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ginnheim.private.md) 
 
-### #is_/same_as :: [U-Ginnheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Ginnheim.personal.md) 
+### #is_/same_as :: [U-Ginnheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ginnheim.personal.md) 
 
-### #is_/same_as :: [U-Ginnheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Ginnheim.secret.md)
+### #is_/same_as :: [U-Ginnheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ginnheim.secret.md)
 

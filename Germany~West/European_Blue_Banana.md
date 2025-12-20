@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "European Blue Banana"
 ---

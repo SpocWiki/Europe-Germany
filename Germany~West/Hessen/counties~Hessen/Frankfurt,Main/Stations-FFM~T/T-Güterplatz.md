@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.10781
 - 8.656629
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Güterplatz](T-Güterplatz.md) 
+### #is_/same_as :: [T-Güterplatz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Güterplatz.md) 
 
-### #is_/same_as :: [T-Güterplatz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Güterplatz.public.md) 
+### #is_/same_as :: [T-Güterplatz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Güterplatz.public.md) 
 
-### #is_/same_as :: [T-Güterplatz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Güterplatz.internal.md) 
+### #is_/same_as :: [T-Güterplatz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Güterplatz.internal.md) 
 
-### #is_/same_as :: [T-Güterplatz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Güterplatz.protect.md) 
+### #is_/same_as :: [T-Güterplatz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Güterplatz.protect.md) 
 
-### #is_/same_as :: [T-Güterplatz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Güterplatz.private.md) 
+### #is_/same_as :: [T-Güterplatz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Güterplatz.private.md) 
 
-### #is_/same_as :: [T-Güterplatz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Güterplatz.personal.md) 
+### #is_/same_as :: [T-Güterplatz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Güterplatz.personal.md) 
 
-### #is_/same_as :: [T-Güterplatz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Güterplatz.secret.md)
+### #is_/same_as :: [T-Güterplatz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Güterplatz.secret.md)
 

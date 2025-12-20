@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.1385
 - 8.745085
@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [U-Kruppstraße](U-Kruppstraße.md) 
+### #is_/same_as :: [U-Kruppstraße](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Kruppstraße.md) 
 
-### #is_/same_as :: [U-Kruppstraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Kruppstraße.public.md) 
+### #is_/same_as :: [U-Kruppstraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Kruppstraße.public.md) 
 
-### #is_/same_as :: [U-Kruppstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Kruppstraße.internal.md) 
+### #is_/same_as :: [U-Kruppstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Kruppstraße.internal.md) 
 
-### #is_/same_as :: [U-Kruppstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Kruppstraße.protect.md) 
+### #is_/same_as :: [U-Kruppstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Kruppstraße.protect.md) 
 
-### #is_/same_as :: [U-Kruppstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Kruppstraße.private.md) 
+### #is_/same_as :: [U-Kruppstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Kruppstraße.private.md) 
 
-### #is_/same_as :: [U-Kruppstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Kruppstraße.personal.md) 
+### #is_/same_as :: [U-Kruppstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Kruppstraße.personal.md) 
 
-### #is_/same_as :: [U-Kruppstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Kruppstraße.secret.md)
+### #is_/same_as :: [U-Kruppstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Kruppstraße.secret.md)
 

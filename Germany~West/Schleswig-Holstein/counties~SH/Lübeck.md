@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Lübeck
 confidential: public

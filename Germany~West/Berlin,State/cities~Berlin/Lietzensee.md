@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 location:
@@ -36,17 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lietzensee](Lietzensee.md) 
+### #is_/same_as :: [Lietzensee](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Lietzensee.md) 
 
-### #is_/same_as :: [Lietzensee.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Lietzensee.public.md) 
+### #is_/same_as :: [Lietzensee.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Lietzensee.public.md) 
 
-### #is_/same_as :: [Lietzensee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Lietzensee.internal.md) 
+### #is_/same_as :: [Lietzensee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Lietzensee.internal.md) 
 
-### #is_/same_as :: [Lietzensee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Lietzensee.protect.md) 
+### #is_/same_as :: [Lietzensee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Lietzensee.protect.md) 
 
-### #is_/same_as :: [Lietzensee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Lietzensee.private.md) 
+### #is_/same_as :: [Lietzensee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Lietzensee.private.md) 
 
-### #is_/same_as :: [Lietzensee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Lietzensee.personal.md) 
+### #is_/same_as :: [Lietzensee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Lietzensee.personal.md) 
 
-### #is_/same_as :: [Lietzensee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Lietzensee.secret.md)
+### #is_/same_as :: [Lietzensee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Lietzensee.secret.md)
 

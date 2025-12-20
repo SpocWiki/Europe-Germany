@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.17331
 - 8.529183
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Kronberg_Süd](S-Kronberg_Süd.md) 
+### #is_/same_as :: [S-Kronberg_Süd](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Kronberg_Süd.md) 
 
-### #is_/same_as :: [S-Kronberg_Süd.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Kronberg_Süd.public.md) 
+### #is_/same_as :: [S-Kronberg_Süd.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Kronberg_Süd.public.md) 
 
-### #is_/same_as :: [S-Kronberg_Süd.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Kronberg_Süd.internal.md) 
+### #is_/same_as :: [S-Kronberg_Süd.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Kronberg_Süd.internal.md) 
 
-### #is_/same_as :: [S-Kronberg_Süd.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Kronberg_Süd.protect.md) 
+### #is_/same_as :: [S-Kronberg_Süd.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Kronberg_Süd.protect.md) 
 
-### #is_/same_as :: [S-Kronberg_Süd.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Kronberg_Süd.private.md) 
+### #is_/same_as :: [S-Kronberg_Süd.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Kronberg_Süd.private.md) 
 
-### #is_/same_as :: [S-Kronberg_Süd.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Kronberg_Süd.personal.md) 
+### #is_/same_as :: [S-Kronberg_Süd.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Kronberg_Süd.personal.md) 
 
-### #is_/same_as :: [S-Kronberg_Süd.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Kronberg_Süd.secret.md)
+### #is_/same_as :: [S-Kronberg_Süd.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Kronberg_Süd.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.14648
 - 8.703264
@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Walter-Kolb-Siedlung](T-Walter-Kolb-Siedlung.md) 
+### #is_/same_as :: [T-Walter-Kolb-Siedlung](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Walter-Kolb-Siedlung.md) 
 
-### #is_/same_as :: [T-Walter-Kolb-Siedlung.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Walter-Kolb-Siedlung.public.md) 
+### #is_/same_as :: [T-Walter-Kolb-Siedlung.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Walter-Kolb-Siedlung.public.md) 
 
-### #is_/same_as :: [T-Walter-Kolb-Siedlung.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Walter-Kolb-Siedlung.internal.md) 
+### #is_/same_as :: [T-Walter-Kolb-Siedlung.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Walter-Kolb-Siedlung.internal.md) 
 
-### #is_/same_as :: [T-Walter-Kolb-Siedlung.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Walter-Kolb-Siedlung.protect.md) 
+### #is_/same_as :: [T-Walter-Kolb-Siedlung.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Walter-Kolb-Siedlung.protect.md) 
 
-### #is_/same_as :: [T-Walter-Kolb-Siedlung.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Walter-Kolb-Siedlung.private.md) 
+### #is_/same_as :: [T-Walter-Kolb-Siedlung.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Walter-Kolb-Siedlung.private.md) 
 
-### #is_/same_as :: [T-Walter-Kolb-Siedlung.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Walter-Kolb-Siedlung.personal.md) 
+### #is_/same_as :: [T-Walter-Kolb-Siedlung.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Walter-Kolb-Siedlung.personal.md) 
 
-### #is_/same_as :: [T-Walter-Kolb-Siedlung.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Walter-Kolb-Siedlung.secret.md)
+### #is_/same_as :: [T-Walter-Kolb-Siedlung.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Walter-Kolb-Siedlung.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.15355
 - 8.350836
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Niederjosbach](S-Niederjosbach.md) 
+### #is_/same_as :: [S-Niederjosbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Niederjosbach.md) 
 
-### #is_/same_as :: [S-Niederjosbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Niederjosbach.public.md) 
+### #is_/same_as :: [S-Niederjosbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Niederjosbach.public.md) 
 
-### #is_/same_as :: [S-Niederjosbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Niederjosbach.internal.md) 
+### #is_/same_as :: [S-Niederjosbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Niederjosbach.internal.md) 
 
-### #is_/same_as :: [S-Niederjosbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Niederjosbach.protect.md) 
+### #is_/same_as :: [S-Niederjosbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Niederjosbach.protect.md) 
 
-### #is_/same_as :: [S-Niederjosbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Niederjosbach.private.md) 
+### #is_/same_as :: [S-Niederjosbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Niederjosbach.private.md) 
 
-### #is_/same_as :: [S-Niederjosbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Niederjosbach.personal.md) 
+### #is_/same_as :: [S-Niederjosbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Niederjosbach.personal.md) 
 
-### #is_/same_as :: [S-Niederjosbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Niederjosbach.secret.md)
+### #is_/same_as :: [S-Niederjosbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Niederjosbach.secret.md)
 

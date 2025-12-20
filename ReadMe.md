@@ -1,4 +1,4 @@
-﻿---
+---
 age_of_majority: 18
 aliases: 
 anthem: "[[../../../../WikiData/WD~national anthem of Germany]]"
@@ -840,9 +840,6 @@ Capital :: [[Germany~West/Berlin,State/cities~Berlin/Berlin,City]]
 #is_a_ :: [[Place]] 
 [has_place_longitude::10.1207] 
 [has_place_latitude::50.8699] 
-
-
-
 
 
 ## Confidential Links & Embeds: 

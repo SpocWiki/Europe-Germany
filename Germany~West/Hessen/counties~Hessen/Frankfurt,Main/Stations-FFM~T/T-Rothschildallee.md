@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.12808
 - 8.695698
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Rothschildallee](T-Rothschildallee.md) 
+### #is_/same_as :: [T-Rothschildallee](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Rothschildallee.md) 
 
-### #is_/same_as :: [T-Rothschildallee.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Rothschildallee.public.md) 
+### #is_/same_as :: [T-Rothschildallee.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Rothschildallee.public.md) 
 
-### #is_/same_as :: [T-Rothschildallee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Rothschildallee.internal.md) 
+### #is_/same_as :: [T-Rothschildallee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Rothschildallee.internal.md) 
 
-### #is_/same_as :: [T-Rothschildallee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Rothschildallee.protect.md) 
+### #is_/same_as :: [T-Rothschildallee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Rothschildallee.protect.md) 
 
-### #is_/same_as :: [T-Rothschildallee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Rothschildallee.private.md) 
+### #is_/same_as :: [T-Rothschildallee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Rothschildallee.private.md) 
 
-### #is_/same_as :: [T-Rothschildallee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Rothschildallee.personal.md) 
+### #is_/same_as :: [T-Rothschildallee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Rothschildallee.personal.md) 
 
-### #is_/same_as :: [T-Rothschildallee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Rothschildallee.secret.md)
+### #is_/same_as :: [T-Rothschildallee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Rothschildallee.secret.md)
 

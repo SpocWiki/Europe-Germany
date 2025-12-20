@@ -56,3 +56,22 @@ Commons_category: Duchy of Holstein
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Holstein) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Holstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/Holstein.md) 
+
+### #is_/same_as :: [Holstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/Holstein.public.md) 
+
+### #is_/same_as :: [Holstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/Holstein.internal.md) 
+
+### #is_/same_as :: [Holstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/Holstein.protect.md) 
+
+### #is_/same_as :: [Holstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/Holstein.private.md) 
+
+### #is_/same_as :: [Holstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/Holstein.personal.md) 
+
+### #is_/same_as :: [Holstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/Holstein.secret.md)
+

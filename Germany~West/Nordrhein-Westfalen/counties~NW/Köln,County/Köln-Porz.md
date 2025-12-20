@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 location:
@@ -36,17 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Köln-Porz](Köln-Porz.md)) 
+### #is_/same_as :: [Köln-Porz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln-Porz.md) 
 
-### #is_/same_as :: [Köln-Porz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Porz.public.md) 
+### #is_/same_as :: [Köln-Porz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln-Porz.public.md) 
 
-### #is_/same_as :: [Köln-Porz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Porz.internal.md) 
+### #is_/same_as :: [Köln-Porz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln-Porz.internal.md) 
 
-### #is_/same_as :: [Köln-Porz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Porz.protect.md) 
+### #is_/same_as :: [Köln-Porz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln-Porz.protect.md) 
 
-### #is_/same_as :: [Köln-Porz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Porz.private.md) 
+### #is_/same_as :: [Köln-Porz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln-Porz.private.md) 
 
-### #is_/same_as :: [Köln-Porz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Porz.personal.md) 
+### #is_/same_as :: [Köln-Porz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln-Porz.personal.md) 
 
-### #is_/same_as :: [Köln-Porz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln-Porz.secret.md)
+### #is_/same_as :: [Köln-Porz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln-Porz.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.11099
 - 8.692863
@@ -37,17 +37,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Hospital_Heiligen_Geist](T-Hospital_Heiligen_Geist.md) 
+### #is_/same_as :: [T-Hospital_Heiligen_Geist](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Hospital_Heiligen_Geist.md) 
 
-### #is_/same_as :: [T-Hospital_Heiligen_Geist.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Hospital_Heiligen_Geist.public.md) 
+### #is_/same_as :: [T-Hospital_Heiligen_Geist.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Hospital_Heiligen_Geist.public.md) 
 
-### #is_/same_as :: [T-Hospital_Heiligen_Geist.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Hospital_Heiligen_Geist.internal.md) 
+### #is_/same_as :: [T-Hospital_Heiligen_Geist.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Hospital_Heiligen_Geist.internal.md) 
 
-### #is_/same_as :: [T-Hospital_Heiligen_Geist.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Hospital_Heiligen_Geist.protect.md) 
+### #is_/same_as :: [T-Hospital_Heiligen_Geist.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Hospital_Heiligen_Geist.protect.md) 
 
-### #is_/same_as :: [T-Hospital_Heiligen_Geist.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Hospital_Heiligen_Geist.private.md) 
+### #is_/same_as :: [T-Hospital_Heiligen_Geist.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Hospital_Heiligen_Geist.private.md) 
 
-### #is_/same_as :: [T-Hospital_Heiligen_Geist.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Hospital_Heiligen_Geist.personal.md) 
+### #is_/same_as :: [T-Hospital_Heiligen_Geist.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Hospital_Heiligen_Geist.personal.md) 
 
-### #is_/same_as :: [T-Hospital_Heiligen_Geist.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Hospital_Heiligen_Geist.secret.md)
+### #is_/same_as :: [T-Hospital_Heiligen_Geist.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Hospital_Heiligen_Geist.secret.md)
 

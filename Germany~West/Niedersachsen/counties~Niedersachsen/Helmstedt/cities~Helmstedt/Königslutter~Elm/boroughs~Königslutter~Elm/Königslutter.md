@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Koenigslutter
 confidential: public

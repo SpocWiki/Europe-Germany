@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Muenchehof
 confidential: public

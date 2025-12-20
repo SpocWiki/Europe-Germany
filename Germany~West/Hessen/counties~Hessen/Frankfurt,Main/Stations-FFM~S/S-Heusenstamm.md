@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.05958
 - 8.806806
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Heusenstamm](S-Heusenstamm.md) 
+### #is_/same_as :: [S-Heusenstamm](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Heusenstamm.md) 
 
-### #is_/same_as :: [S-Heusenstamm.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Heusenstamm.public.md) 
+### #is_/same_as :: [S-Heusenstamm.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Heusenstamm.public.md) 
 
-### #is_/same_as :: [S-Heusenstamm.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Heusenstamm.internal.md) 
+### #is_/same_as :: [S-Heusenstamm.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Heusenstamm.internal.md) 
 
-### #is_/same_as :: [S-Heusenstamm.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Heusenstamm.protect.md) 
+### #is_/same_as :: [S-Heusenstamm.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Heusenstamm.protect.md) 
 
-### #is_/same_as :: [S-Heusenstamm.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Heusenstamm.private.md) 
+### #is_/same_as :: [S-Heusenstamm.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Heusenstamm.private.md) 
 
-### #is_/same_as :: [S-Heusenstamm.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Heusenstamm.personal.md) 
+### #is_/same_as :: [S-Heusenstamm.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Heusenstamm.personal.md) 
 
-### #is_/same_as :: [S-Heusenstamm.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Heusenstamm.secret.md)
+### #is_/same_as :: [S-Heusenstamm.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Heusenstamm.secret.md)
 

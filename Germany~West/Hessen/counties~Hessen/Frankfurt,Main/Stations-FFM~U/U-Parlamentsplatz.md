@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.12
 - 8.714167
@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [U-Parlamentsplatz](U-Parlamentsplatz.md) 
+### #is_/same_as :: [U-Parlamentsplatz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Parlamentsplatz.md) 
 
-### #is_/same_as :: [U-Parlamentsplatz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Parlamentsplatz.public.md) 
+### #is_/same_as :: [U-Parlamentsplatz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Parlamentsplatz.public.md) 
 
-### #is_/same_as :: [U-Parlamentsplatz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Parlamentsplatz.internal.md) 
+### #is_/same_as :: [U-Parlamentsplatz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Parlamentsplatz.internal.md) 
 
-### #is_/same_as :: [U-Parlamentsplatz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Parlamentsplatz.protect.md) 
+### #is_/same_as :: [U-Parlamentsplatz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Parlamentsplatz.protect.md) 
 
-### #is_/same_as :: [U-Parlamentsplatz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Parlamentsplatz.private.md) 
+### #is_/same_as :: [U-Parlamentsplatz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Parlamentsplatz.private.md) 
 
-### #is_/same_as :: [U-Parlamentsplatz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Parlamentsplatz.personal.md) 
+### #is_/same_as :: [U-Parlamentsplatz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Parlamentsplatz.personal.md) 
 
-### #is_/same_as :: [U-Parlamentsplatz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Parlamentsplatz.secret.md)
+### #is_/same_as :: [U-Parlamentsplatz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Parlamentsplatz.secret.md)
 

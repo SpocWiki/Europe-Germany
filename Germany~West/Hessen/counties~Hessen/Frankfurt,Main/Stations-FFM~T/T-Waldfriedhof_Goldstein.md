@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.07689
 - 8.602348
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Waldfriedhof_Goldstein](T-Waldfriedhof_Goldstein.md) 
+### #is_/same_as :: [T-Waldfriedhof_Goldstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Waldfriedhof_Goldstein.md) 
 
-### #is_/same_as :: [T-Waldfriedhof_Goldstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Waldfriedhof_Goldstein.public.md) 
+### #is_/same_as :: [T-Waldfriedhof_Goldstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Waldfriedhof_Goldstein.public.md) 
 
-### #is_/same_as :: [T-Waldfriedhof_Goldstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Waldfriedhof_Goldstein.internal.md) 
+### #is_/same_as :: [T-Waldfriedhof_Goldstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Waldfriedhof_Goldstein.internal.md) 
 
-### #is_/same_as :: [T-Waldfriedhof_Goldstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Waldfriedhof_Goldstein.protect.md) 
+### #is_/same_as :: [T-Waldfriedhof_Goldstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Waldfriedhof_Goldstein.protect.md) 
 
-### #is_/same_as :: [T-Waldfriedhof_Goldstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Waldfriedhof_Goldstein.private.md) 
+### #is_/same_as :: [T-Waldfriedhof_Goldstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Waldfriedhof_Goldstein.private.md) 
 
-### #is_/same_as :: [T-Waldfriedhof_Goldstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Waldfriedhof_Goldstein.personal.md) 
+### #is_/same_as :: [T-Waldfriedhof_Goldstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Waldfriedhof_Goldstein.personal.md) 
 
-### #is_/same_as :: [T-Waldfriedhof_Goldstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Waldfriedhof_Goldstein.secret.md)
+### #is_/same_as :: [T-Waldfriedhof_Goldstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Waldfriedhof_Goldstein.secret.md)
 

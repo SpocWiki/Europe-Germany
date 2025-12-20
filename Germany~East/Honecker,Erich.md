@@ -144,3 +144,22 @@ Krugosvet_article: istoriya/HONEKKER_ERIH.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Erich%20Honecker) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Honecker,Erich](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Honecker,Erich.md) 
+
+### #is_/same_as :: [Honecker,Erich.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Honecker,Erich.public.md) 
+
+### #is_/same_as :: [Honecker,Erich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Honecker,Erich.internal.md) 
+
+### #is_/same_as :: [Honecker,Erich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Honecker,Erich.protect.md) 
+
+### #is_/same_as :: [Honecker,Erich.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Honecker,Erich.private.md) 
+
+### #is_/same_as :: [Honecker,Erich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Honecker,Erich.personal.md) 
+
+### #is_/same_as :: [Honecker,Erich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Honecker,Erich.secret.md)
+

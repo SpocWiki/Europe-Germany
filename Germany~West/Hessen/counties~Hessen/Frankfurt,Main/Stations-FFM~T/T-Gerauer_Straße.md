@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.08376
 - 8.644427
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Gerauer_Straße](T-Gerauer_Straße.md) 
+### #is_/same_as :: [T-Gerauer_Straße](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Gerauer_Straße.md) 
 
-### #is_/same_as :: [T-Gerauer_Straße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Gerauer_Straße.public.md) 
+### #is_/same_as :: [T-Gerauer_Straße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Gerauer_Straße.public.md) 
 
-### #is_/same_as :: [T-Gerauer_Straße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Gerauer_Straße.internal.md) 
+### #is_/same_as :: [T-Gerauer_Straße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Gerauer_Straße.internal.md) 
 
-### #is_/same_as :: [T-Gerauer_Straße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Gerauer_Straße.protect.md) 
+### #is_/same_as :: [T-Gerauer_Straße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Gerauer_Straße.protect.md) 
 
-### #is_/same_as :: [T-Gerauer_Straße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Gerauer_Straße.private.md) 
+### #is_/same_as :: [T-Gerauer_Straße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Gerauer_Straße.private.md) 
 
-### #is_/same_as :: [T-Gerauer_Straße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Gerauer_Straße.personal.md) 
+### #is_/same_as :: [T-Gerauer_Straße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Gerauer_Straße.personal.md) 
 
-### #is_/same_as :: [T-Gerauer_Straße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Gerauer_Straße.secret.md)
+### #is_/same_as :: [T-Gerauer_Straße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Gerauer_Straße.secret.md)
 

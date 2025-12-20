@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.19919
 - 8.587596
@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [U-Oberursel_Bahnhof](U-Oberursel_Bahnhof.md) 
+### #is_/same_as :: [U-Oberursel_Bahnhof](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Oberursel_Bahnhof.md) 
 
-### #is_/same_as :: [U-Oberursel_Bahnhof.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Oberursel_Bahnhof.public.md) 
+### #is_/same_as :: [U-Oberursel_Bahnhof.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Oberursel_Bahnhof.public.md) 
 
-### #is_/same_as :: [U-Oberursel_Bahnhof.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Oberursel_Bahnhof.internal.md) 
+### #is_/same_as :: [U-Oberursel_Bahnhof.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Oberursel_Bahnhof.internal.md) 
 
-### #is_/same_as :: [U-Oberursel_Bahnhof.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Oberursel_Bahnhof.protect.md) 
+### #is_/same_as :: [U-Oberursel_Bahnhof.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Oberursel_Bahnhof.protect.md) 
 
-### #is_/same_as :: [U-Oberursel_Bahnhof.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Oberursel_Bahnhof.private.md) 
+### #is_/same_as :: [U-Oberursel_Bahnhof.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Oberursel_Bahnhof.private.md) 
 
-### #is_/same_as :: [U-Oberursel_Bahnhof.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Oberursel_Bahnhof.personal.md) 
+### #is_/same_as :: [U-Oberursel_Bahnhof.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Oberursel_Bahnhof.personal.md) 
 
-### #is_/same_as :: [U-Oberursel_Bahnhof.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Oberursel_Bahnhof.secret.md)
+### #is_/same_as :: [U-Oberursel_Bahnhof.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Oberursel_Bahnhof.secret.md)
 

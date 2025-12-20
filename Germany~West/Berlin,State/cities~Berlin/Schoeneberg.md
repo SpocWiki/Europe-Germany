@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 location:
@@ -36,17 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schoeneberg](Schoeneberg.md) 
+### #is_/same_as :: [Schoeneberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Schoeneberg.md) 
 
-### #is_/same_as :: [Schoeneberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Schoeneberg.public.md) 
+### #is_/same_as :: [Schoeneberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Schoeneberg.public.md) 
 
-### #is_/same_as :: [Schoeneberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Schoeneberg.internal.md) 
+### #is_/same_as :: [Schoeneberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Schoeneberg.internal.md) 
 
-### #is_/same_as :: [Schoeneberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Schoeneberg.protect.md) 
+### #is_/same_as :: [Schoeneberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Schoeneberg.protect.md) 
 
-### #is_/same_as :: [Schoeneberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Schoeneberg.private.md) 
+### #is_/same_as :: [Schoeneberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Schoeneberg.private.md) 
 
-### #is_/same_as :: [Schoeneberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Schoeneberg.personal.md) 
+### #is_/same_as :: [Schoeneberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Schoeneberg.personal.md) 
 
-### #is_/same_as :: [Schoeneberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Schoeneberg.secret.md)
+### #is_/same_as :: [Schoeneberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Schoeneberg.secret.md)
 

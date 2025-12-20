@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 location:
@@ -36,17 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oberschoeneweide](Oberschoeneweide.md) 
+### #is_/same_as :: [Oberschoeneweide](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Oberschoeneweide.md) 
 
-### #is_/same_as :: [Oberschoeneweide.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Oberschoeneweide.public.md) 
+### #is_/same_as :: [Oberschoeneweide.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Oberschoeneweide.public.md) 
 
-### #is_/same_as :: [Oberschoeneweide.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Oberschoeneweide.internal.md) 
+### #is_/same_as :: [Oberschoeneweide.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Oberschoeneweide.internal.md) 
 
-### #is_/same_as :: [Oberschoeneweide.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Oberschoeneweide.protect.md) 
+### #is_/same_as :: [Oberschoeneweide.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Oberschoeneweide.protect.md) 
 
-### #is_/same_as :: [Oberschoeneweide.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Oberschoeneweide.private.md) 
+### #is_/same_as :: [Oberschoeneweide.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Oberschoeneweide.private.md) 
 
-### #is_/same_as :: [Oberschoeneweide.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Oberschoeneweide.personal.md) 
+### #is_/same_as :: [Oberschoeneweide.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Oberschoeneweide.personal.md) 
 
-### #is_/same_as :: [Oberschoeneweide.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Oberschoeneweide.secret.md)
+### #is_/same_as :: [Oberschoeneweide.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Oberschoeneweide.secret.md)
 

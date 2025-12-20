@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Muenden
 confidential: public

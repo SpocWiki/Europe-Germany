@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Lueneburg
 confidential: public

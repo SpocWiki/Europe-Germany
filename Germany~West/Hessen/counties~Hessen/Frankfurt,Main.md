@@ -233,17 +233,17 @@ markerFile: [[Frankfurt,Main]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Frankfurt,Main](Frankfurt,Main.md) 
+### #is_/same_as :: [Frankfurt,Main](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main.md) 
 
-### #is_/same_as :: [Frankfurt~Main.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main.public.md) 
+### #is_/same_as :: [Frankfurt,Main.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main.public.md) 
 
-### #is_/same_as :: [Frankfurt~Main.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main.internal.md) 
+### #is_/same_as :: [Frankfurt,Main.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main.internal.md) 
 
-### #is_/same_as :: [Frankfurt~Main.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main.protect.md) 
+### #is_/same_as :: [Frankfurt,Main.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main.protect.md) 
 
-### #is_/same_as :: [Frankfurt~Main.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main.private.md) 
+### #is_/same_as :: [Frankfurt,Main.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main.private.md) 
 
-### #is_/same_as :: [Frankfurt~Main.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main.personal.md) 
+### #is_/same_as :: [Frankfurt,Main.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main.personal.md) 
 
-### #is_/same_as :: [Frankfurt~Main.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main.secret.md)
+### #is_/same_as :: [Frankfurt,Main.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main.secret.md)
 

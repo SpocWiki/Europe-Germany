@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.09097
 - 8.673674
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Beuthener_Straße](T-Beuthener_Straße.md) 
+### #is_/same_as :: [T-Beuthener_Straße](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Beuthener_Straße.md) 
 
-### #is_/same_as :: [T-Beuthener_Straße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Beuthener_Straße.public.md) 
+### #is_/same_as :: [T-Beuthener_Straße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Beuthener_Straße.public.md) 
 
-### #is_/same_as :: [T-Beuthener_Straße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Beuthener_Straße.internal.md) 
+### #is_/same_as :: [T-Beuthener_Straße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Beuthener_Straße.internal.md) 
 
-### #is_/same_as :: [T-Beuthener_Straße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Beuthener_Straße.protect.md) 
+### #is_/same_as :: [T-Beuthener_Straße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Beuthener_Straße.protect.md) 
 
-### #is_/same_as :: [T-Beuthener_Straße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Beuthener_Straße.private.md) 
+### #is_/same_as :: [T-Beuthener_Straße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Beuthener_Straße.private.md) 
 
-### #is_/same_as :: [T-Beuthener_Straße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Beuthener_Straße.personal.md) 
+### #is_/same_as :: [T-Beuthener_Straße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Beuthener_Straße.personal.md) 
 
-### #is_/same_as :: [T-Beuthener_Straße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Beuthener_Straße.secret.md)
+### #is_/same_as :: [T-Beuthener_Straße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Beuthener_Straße.secret.md)
 

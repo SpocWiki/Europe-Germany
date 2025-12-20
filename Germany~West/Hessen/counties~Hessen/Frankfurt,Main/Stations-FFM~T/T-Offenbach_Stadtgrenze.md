@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.10189
 - 8.744951
@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Offenbach_Stadtgrenze](T-Offenbach_Stadtgrenze.md) 
+### #is_/same_as :: [T-Offenbach_Stadtgrenze](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Offenbach_Stadtgrenze.md) 
 
-### #is_/same_as :: [T-Offenbach_Stadtgrenze.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Offenbach_Stadtgrenze.public.md) 
+### #is_/same_as :: [T-Offenbach_Stadtgrenze.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Offenbach_Stadtgrenze.public.md) 
 
-### #is_/same_as :: [T-Offenbach_Stadtgrenze.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Offenbach_Stadtgrenze.internal.md) 
+### #is_/same_as :: [T-Offenbach_Stadtgrenze.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Offenbach_Stadtgrenze.internal.md) 
 
-### #is_/same_as :: [T-Offenbach_Stadtgrenze.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Offenbach_Stadtgrenze.protect.md) 
+### #is_/same_as :: [T-Offenbach_Stadtgrenze.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Offenbach_Stadtgrenze.protect.md) 
 
-### #is_/same_as :: [T-Offenbach_Stadtgrenze.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Offenbach_Stadtgrenze.private.md) 
+### #is_/same_as :: [T-Offenbach_Stadtgrenze.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Offenbach_Stadtgrenze.private.md) 
 
-### #is_/same_as :: [T-Offenbach_Stadtgrenze.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Offenbach_Stadtgrenze.personal.md) 
+### #is_/same_as :: [T-Offenbach_Stadtgrenze.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Offenbach_Stadtgrenze.personal.md) 
 
-### #is_/same_as :: [T-Offenbach_Stadtgrenze.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Offenbach_Stadtgrenze.secret.md)
+### #is_/same_as :: [T-Offenbach_Stadtgrenze.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Offenbach_Stadtgrenze.secret.md)
 

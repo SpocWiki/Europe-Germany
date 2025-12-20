@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.02598
 - 8.884023
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Rodgau-Jügesheim](S-Rodgau-Jügesheim.md) 
+### #is_/same_as :: [S-Rodgau-Jügesheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rodgau-Jügesheim.md) 
 
-### #is_/same_as :: [S-Rodgau-Jügesheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Jügesheim.public.md) 
+### #is_/same_as :: [S-Rodgau-Jügesheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rodgau-Jügesheim.public.md) 
 
-### #is_/same_as :: [S-Rodgau-Jügesheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Jügesheim.internal.md) 
+### #is_/same_as :: [S-Rodgau-Jügesheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rodgau-Jügesheim.internal.md) 
 
-### #is_/same_as :: [S-Rodgau-Jügesheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Jügesheim.protect.md) 
+### #is_/same_as :: [S-Rodgau-Jügesheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rodgau-Jügesheim.protect.md) 
 
-### #is_/same_as :: [S-Rodgau-Jügesheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Jügesheim.private.md) 
+### #is_/same_as :: [S-Rodgau-Jügesheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rodgau-Jügesheim.private.md) 
 
-### #is_/same_as :: [S-Rodgau-Jügesheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Jügesheim.personal.md) 
+### #is_/same_as :: [S-Rodgau-Jügesheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rodgau-Jügesheim.personal.md) 
 
-### #is_/same_as :: [S-Rodgau-Jügesheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Rodgau-Jügesheim.secret.md)
+### #is_/same_as :: [S-Rodgau-Jügesheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rodgau-Jügesheim.secret.md)
 

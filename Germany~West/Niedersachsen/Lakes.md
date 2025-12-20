@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Lakes
 confidential: public

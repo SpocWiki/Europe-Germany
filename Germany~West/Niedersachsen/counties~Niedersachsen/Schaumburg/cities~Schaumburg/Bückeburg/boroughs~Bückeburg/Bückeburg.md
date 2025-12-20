@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Bueckeburg
 confidential: public

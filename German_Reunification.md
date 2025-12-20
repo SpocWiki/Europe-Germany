@@ -35,3 +35,21 @@ Wolfram_Language_entity_code: Entity["HistoricalEvent", "GermanReuinification"]
 > The reunited state is not a successor state, but an enlarged continuation of the 1949–1990 West German state. The enlarged Federal Republic of Germany retained the West German seats in the governing bodies of the European Economic Community (EEC) (later the European Union) and in international organizations including the North Atlantic Treaty Organization (NATO) and the United Nations (UN), while relinquishing membership in the Warsaw Pact (WP) and other international organizations to which only East Germany belonged.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/German%20reunification)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [German_Reunification](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.md) 
+
+### #is_/same_as :: [German_Reunification.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.public.md) 
+
+### #is_/same_as :: [German_Reunification.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.internal.md) 
+
+### #is_/same_as :: [German_Reunification.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.protect.md) 
+
+### #is_/same_as :: [German_Reunification.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.private.md) 
+
+### #is_/same_as :: [German_Reunification.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.personal.md) 
+
+### #is_/same_as :: [German_Reunification.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.secret.md)
+

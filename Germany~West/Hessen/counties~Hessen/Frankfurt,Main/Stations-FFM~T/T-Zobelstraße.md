@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.11294
 - 8.700042
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Zobelstraße](T-Zobelstraße.md) 
+### #is_/same_as :: [T-Zobelstraße](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Zobelstraße.md) 
 
-### #is_/same_as :: [T-Zobelstraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Zobelstraße.public.md) 
+### #is_/same_as :: [T-Zobelstraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Zobelstraße.public.md) 
 
-### #is_/same_as :: [T-Zobelstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Zobelstraße.internal.md) 
+### #is_/same_as :: [T-Zobelstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Zobelstraße.internal.md) 
 
-### #is_/same_as :: [T-Zobelstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Zobelstraße.protect.md) 
+### #is_/same_as :: [T-Zobelstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Zobelstraße.protect.md) 
 
-### #is_/same_as :: [T-Zobelstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Zobelstraße.private.md) 
+### #is_/same_as :: [T-Zobelstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Zobelstraße.private.md) 
 
-### #is_/same_as :: [T-Zobelstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Zobelstraße.personal.md) 
+### #is_/same_as :: [T-Zobelstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Zobelstraße.personal.md) 
 
-### #is_/same_as :: [T-Zobelstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Zobelstraße.secret.md)
+### #is_/same_as :: [T-Zobelstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Zobelstraße.secret.md)
 

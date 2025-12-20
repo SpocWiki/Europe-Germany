@@ -114,3 +114,22 @@ ISNI: "0000000072659681"
 > [Wikipedia](https://en.wikipedia.org/wiki/Olaf%20Scholz) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Scholz,Olaf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.md) 
+
+### #is_/same_as :: [Scholz,Olaf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.public.md) 
+
+### #is_/same_as :: [Scholz,Olaf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.internal.md) 
+
+### #is_/same_as :: [Scholz,Olaf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.protect.md) 
+
+### #is_/same_as :: [Scholz,Olaf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.private.md) 
+
+### #is_/same_as :: [Scholz,Olaf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.personal.md) 
+
+### #is_/same_as :: [Scholz,Olaf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.secret.md)
+

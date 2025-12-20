@@ -1,4 +1,4 @@
-﻿---
+---
 FoodWasteArray:
 - - Source
   - Tons

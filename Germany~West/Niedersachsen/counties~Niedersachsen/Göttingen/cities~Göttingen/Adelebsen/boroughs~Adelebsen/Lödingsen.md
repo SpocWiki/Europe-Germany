@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Loedingsen
 confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.13581
 - 8.696754
@@ -37,17 +37,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Wasserpark](T-Wasserpark.md) 
+### #is_/same_as :: [T-Wasserpark](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Wasserpark.md) 
 
-### #is_/same_as :: [T-Wasserpark.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Wasserpark.public.md) 
+### #is_/same_as :: [T-Wasserpark.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Wasserpark.public.md) 
 
-### #is_/same_as :: [T-Wasserpark.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Wasserpark.internal.md) 
+### #is_/same_as :: [T-Wasserpark.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Wasserpark.internal.md) 
 
-### #is_/same_as :: [T-Wasserpark.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Wasserpark.protect.md) 
+### #is_/same_as :: [T-Wasserpark.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Wasserpark.protect.md) 
 
-### #is_/same_as :: [T-Wasserpark.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Wasserpark.private.md) 
+### #is_/same_as :: [T-Wasserpark.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Wasserpark.private.md) 
 
-### #is_/same_as :: [T-Wasserpark.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Wasserpark.personal.md) 
+### #is_/same_as :: [T-Wasserpark.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Wasserpark.personal.md) 
 
-### #is_/same_as :: [T-Wasserpark.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Wasserpark.secret.md)
+### #is_/same_as :: [T-Wasserpark.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Wasserpark.secret.md)
 

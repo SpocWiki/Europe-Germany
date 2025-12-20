@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.11195
 - 8.643333
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Frankfurt~Main~Messe](S-Frankfurt~Main~Messe.md) 
+### #is_/same_as :: [S-Frankfurt~Main~Messe](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main~Messe.md) 
 
-### #is_/same_as :: [S-Frankfurt~Main~Messe.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main~Messe.public.md) 
+### #is_/same_as :: [S-Frankfurt~Main~Messe.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main~Messe.public.md) 
 
-### #is_/same_as :: [S-Frankfurt~Main~Messe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main~Messe.internal.md) 
+### #is_/same_as :: [S-Frankfurt~Main~Messe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main~Messe.internal.md) 
 
-### #is_/same_as :: [S-Frankfurt~Main~Messe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main~Messe.protect.md) 
+### #is_/same_as :: [S-Frankfurt~Main~Messe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main~Messe.protect.md) 
 
-### #is_/same_as :: [S-Frankfurt~Main~Messe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main~Messe.private.md) 
+### #is_/same_as :: [S-Frankfurt~Main~Messe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main~Messe.private.md) 
 
-### #is_/same_as :: [S-Frankfurt~Main~Messe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main~Messe.personal.md) 
+### #is_/same_as :: [S-Frankfurt~Main~Messe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main~Messe.personal.md) 
 
-### #is_/same_as :: [S-Frankfurt~Main~Messe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt~Main~Messe.secret.md)
+### #is_/same_as :: [S-Frankfurt~Main~Messe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main~Messe.secret.md)
 

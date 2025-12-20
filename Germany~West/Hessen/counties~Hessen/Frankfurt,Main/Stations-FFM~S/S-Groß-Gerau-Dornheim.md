@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 49.87778
 - 8.483889
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Groß-Gerau-Dornheim](S-Groß-Gerau-Dornheim.md) 
+### #is_/same_as :: [S-Groß-Gerau-Dornheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Groß-Gerau-Dornheim.md) 
 
-### #is_/same_as :: [S-Groß-Gerau-Dornheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Groß-Gerau-Dornheim.public.md) 
+### #is_/same_as :: [S-Groß-Gerau-Dornheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Groß-Gerau-Dornheim.public.md) 
 
-### #is_/same_as :: [S-Groß-Gerau-Dornheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Groß-Gerau-Dornheim.internal.md) 
+### #is_/same_as :: [S-Groß-Gerau-Dornheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Groß-Gerau-Dornheim.internal.md) 
 
-### #is_/same_as :: [S-Groß-Gerau-Dornheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Groß-Gerau-Dornheim.protect.md) 
+### #is_/same_as :: [S-Groß-Gerau-Dornheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Groß-Gerau-Dornheim.protect.md) 
 
-### #is_/same_as :: [S-Groß-Gerau-Dornheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Groß-Gerau-Dornheim.private.md) 
+### #is_/same_as :: [S-Groß-Gerau-Dornheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Groß-Gerau-Dornheim.private.md) 
 
-### #is_/same_as :: [S-Groß-Gerau-Dornheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Groß-Gerau-Dornheim.personal.md) 
+### #is_/same_as :: [S-Groß-Gerau-Dornheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Groß-Gerau-Dornheim.personal.md) 
 
-### #is_/same_as :: [S-Groß-Gerau-Dornheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Groß-Gerau-Dornheim.secret.md)
+### #is_/same_as :: [S-Groß-Gerau-Dornheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Groß-Gerau-Dornheim.secret.md)
 

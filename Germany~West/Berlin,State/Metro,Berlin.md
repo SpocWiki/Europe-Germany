@@ -361,17 +361,17 @@ class U9_Osloer_Straße,U9_Leopoldplatz,U9_Amrumer_Straße,U9_Westhafen,U9_Birke
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Metro,Berlin](Metro,Berlin.md) 
+### #is_/same_as :: [Metro,Berlin](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.md) 
 
-### #is_/same_as :: [Metro,Berlin.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/Metro,Berlin.public.md) 
+### #is_/same_as :: [Metro,Berlin.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.public.md) 
 
-### #is_/same_as :: [Metro,Berlin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/Metro,Berlin.internal.md) 
+### #is_/same_as :: [Metro,Berlin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.internal.md) 
 
-### #is_/same_as :: [Metro,Berlin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/Metro,Berlin.protect.md) 
+### #is_/same_as :: [Metro,Berlin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.protect.md) 
 
-### #is_/same_as :: [Metro,Berlin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/Metro,Berlin.private.md) 
+### #is_/same_as :: [Metro,Berlin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.private.md) 
 
-### #is_/same_as :: [Metro,Berlin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/Metro,Berlin.personal.md) 
+### #is_/same_as :: [Metro,Berlin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.personal.md) 
 
-### #is_/same_as :: [Metro,Berlin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/Metro,Berlin.secret.md)
+### #is_/same_as :: [Metro,Berlin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.secret.md)
 

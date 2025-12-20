@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.12626
 - 8.716659
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Ernst-May-Platz](T-Ernst-May-Platz.md) 
+### #is_/same_as :: [T-Ernst-May-Platz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ernst-May-Platz.md) 
 
-### #is_/same_as :: [T-Ernst-May-Platz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Ernst-May-Platz.public.md) 
+### #is_/same_as :: [T-Ernst-May-Platz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ernst-May-Platz.public.md) 
 
-### #is_/same_as :: [T-Ernst-May-Platz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Ernst-May-Platz.internal.md) 
+### #is_/same_as :: [T-Ernst-May-Platz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ernst-May-Platz.internal.md) 
 
-### #is_/same_as :: [T-Ernst-May-Platz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Ernst-May-Platz.protect.md) 
+### #is_/same_as :: [T-Ernst-May-Platz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ernst-May-Platz.protect.md) 
 
-### #is_/same_as :: [T-Ernst-May-Platz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Ernst-May-Platz.private.md) 
+### #is_/same_as :: [T-Ernst-May-Platz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ernst-May-Platz.private.md) 
 
-### #is_/same_as :: [T-Ernst-May-Platz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Ernst-May-Platz.personal.md) 
+### #is_/same_as :: [T-Ernst-May-Platz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ernst-May-Platz.personal.md) 
 
-### #is_/same_as :: [T-Ernst-May-Platz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Ernst-May-Platz.secret.md)
+### #is_/same_as :: [T-Ernst-May-Platz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ernst-May-Platz.secret.md)
 

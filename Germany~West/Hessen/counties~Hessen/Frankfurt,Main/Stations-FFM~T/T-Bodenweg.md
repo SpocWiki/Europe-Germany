@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.14219
 - 8.701574
@@ -37,17 +37,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Bodenweg](T-Bodenweg.md) 
+### #is_/same_as :: [T-Bodenweg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Bodenweg.md) 
 
-### #is_/same_as :: [T-Bodenweg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bodenweg.public.md) 
+### #is_/same_as :: [T-Bodenweg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Bodenweg.public.md) 
 
-### #is_/same_as :: [T-Bodenweg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bodenweg.internal.md) 
+### #is_/same_as :: [T-Bodenweg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Bodenweg.internal.md) 
 
-### #is_/same_as :: [T-Bodenweg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bodenweg.protect.md) 
+### #is_/same_as :: [T-Bodenweg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Bodenweg.protect.md) 
 
-### #is_/same_as :: [T-Bodenweg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bodenweg.private.md) 
+### #is_/same_as :: [T-Bodenweg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Bodenweg.private.md) 
 
-### #is_/same_as :: [T-Bodenweg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bodenweg.personal.md) 
+### #is_/same_as :: [T-Bodenweg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Bodenweg.personal.md) 
 
-### #is_/same_as :: [T-Bodenweg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Bodenweg.secret.md)
+### #is_/same_as :: [T-Bodenweg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Bodenweg.secret.md)
 

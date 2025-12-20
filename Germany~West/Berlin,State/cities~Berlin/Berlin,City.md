@@ -302,17 +302,17 @@ Siedlungen der Berliner Moderne ([[Unesco]] Welterbe seit 2008)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Berlin,City](Berlin,City.md) 
+### #is_/same_as :: [Berlin,City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City.md) 
 
-### #is_/same_as :: [Berlin.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Berlin.public.md) 
+### #is_/same_as :: [Berlin,City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City.public.md) 
 
-### #is_/same_as :: [Berlin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Berlin.internal.md) 
+### #is_/same_as :: [Berlin,City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City.internal.md) 
 
-### #is_/same_as :: [Berlin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Berlin.protect.md) 
+### #is_/same_as :: [Berlin,City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City.protect.md) 
 
-### #is_/same_as :: [Berlin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Berlin.private.md) 
+### #is_/same_as :: [Berlin,City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City.private.md) 
 
-### #is_/same_as :: [Berlin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Berlin.personal.md) 
+### #is_/same_as :: [Berlin,City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City.personal.md) 
 
-### #is_/same_as :: [Berlin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Berlin.secret.md)
+### #is_/same_as :: [Berlin,City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City.secret.md)
 

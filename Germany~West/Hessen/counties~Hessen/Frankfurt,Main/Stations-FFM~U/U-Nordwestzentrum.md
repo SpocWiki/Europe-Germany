@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.15805
 - 8.634167
@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [U-Nordwestzentrum](U-Nordwestzentrum.md) 
+### #is_/same_as :: [U-Nordwestzentrum](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Nordwestzentrum.md) 
 
-### #is_/same_as :: [U-Nordwestzentrum.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Nordwestzentrum.public.md) 
+### #is_/same_as :: [U-Nordwestzentrum.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Nordwestzentrum.public.md) 
 
-### #is_/same_as :: [U-Nordwestzentrum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Nordwestzentrum.internal.md) 
+### #is_/same_as :: [U-Nordwestzentrum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Nordwestzentrum.internal.md) 
 
-### #is_/same_as :: [U-Nordwestzentrum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Nordwestzentrum.protect.md) 
+### #is_/same_as :: [U-Nordwestzentrum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Nordwestzentrum.protect.md) 
 
-### #is_/same_as :: [U-Nordwestzentrum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Nordwestzentrum.private.md) 
+### #is_/same_as :: [U-Nordwestzentrum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Nordwestzentrum.private.md) 
 
-### #is_/same_as :: [U-Nordwestzentrum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Nordwestzentrum.personal.md) 
+### #is_/same_as :: [U-Nordwestzentrum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Nordwestzentrum.personal.md) 
 
-### #is_/same_as :: [U-Nordwestzentrum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Nordwestzentrum.secret.md)
+### #is_/same_as :: [U-Nordwestzentrum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Nordwestzentrum.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.07431
 - 8.652657
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Stadion_Straßenbahn](T-Stadion_Straßenbahn.md) 
+### #is_/same_as :: [T-Stadion_Straßenbahn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stadion_Straßenbahn.md) 
 
-### #is_/same_as :: [T-Stadion_Straßenbahn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Stadion_Straßenbahn.public.md) 
+### #is_/same_as :: [T-Stadion_Straßenbahn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stadion_Straßenbahn.public.md) 
 
-### #is_/same_as :: [T-Stadion_Straßenbahn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Stadion_Straßenbahn.internal.md) 
+### #is_/same_as :: [T-Stadion_Straßenbahn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stadion_Straßenbahn.internal.md) 
 
-### #is_/same_as :: [T-Stadion_Straßenbahn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Stadion_Straßenbahn.protect.md) 
+### #is_/same_as :: [T-Stadion_Straßenbahn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stadion_Straßenbahn.protect.md) 
 
-### #is_/same_as :: [T-Stadion_Straßenbahn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Stadion_Straßenbahn.private.md) 
+### #is_/same_as :: [T-Stadion_Straßenbahn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stadion_Straßenbahn.private.md) 
 
-### #is_/same_as :: [T-Stadion_Straßenbahn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Stadion_Straßenbahn.personal.md) 
+### #is_/same_as :: [T-Stadion_Straßenbahn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stadion_Straßenbahn.personal.md) 
 
-### #is_/same_as :: [T-Stadion_Straßenbahn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Stadion_Straßenbahn.secret.md)
+### #is_/same_as :: [T-Stadion_Straßenbahn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stadion_Straßenbahn.secret.md)
 

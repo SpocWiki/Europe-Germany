@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 location:
@@ -36,17 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eissendorf](Eissendorf.md) 
+### #is_/same_as :: [Eissendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Eissendorf.md) 
 
-### #is_/same_as :: [Eissendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Eissendorf.public.md) 
+### #is_/same_as :: [Eissendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Eissendorf.public.md) 
 
-### #is_/same_as :: [Eissendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Eissendorf.internal.md) 
+### #is_/same_as :: [Eissendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Eissendorf.internal.md) 
 
-### #is_/same_as :: [Eissendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Eissendorf.protect.md) 
+### #is_/same_as :: [Eissendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Eissendorf.protect.md) 
 
-### #is_/same_as :: [Eissendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Eissendorf.private.md) 
+### #is_/same_as :: [Eissendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Eissendorf.private.md) 
 
-### #is_/same_as :: [Eissendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Eissendorf.personal.md) 
+### #is_/same_as :: [Eissendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Eissendorf.personal.md) 
 
-### #is_/same_as :: [Eissendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Eissendorf.secret.md)
+### #is_/same_as :: [Eissendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Eissendorf.secret.md)
 

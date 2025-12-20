@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.10567
 - 8.663985
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Hauptbahnhof_Südseite](S-Hauptbahnhof_Südseite.md) 
+### #is_/same_as :: [S-Hauptbahnhof_Südseite](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Hauptbahnhof_Südseite.md) 
 
-### #is_/same_as :: [S-Hauptbahnhof_Südseite.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Hauptbahnhof_Südseite.public.md) 
+### #is_/same_as :: [S-Hauptbahnhof_Südseite.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Hauptbahnhof_Südseite.public.md) 
 
-### #is_/same_as :: [S-Hauptbahnhof_Südseite.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Hauptbahnhof_Südseite.internal.md) 
+### #is_/same_as :: [S-Hauptbahnhof_Südseite.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Hauptbahnhof_Südseite.internal.md) 
 
-### #is_/same_as :: [S-Hauptbahnhof_Südseite.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Hauptbahnhof_Südseite.protect.md) 
+### #is_/same_as :: [S-Hauptbahnhof_Südseite.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Hauptbahnhof_Südseite.protect.md) 
 
-### #is_/same_as :: [S-Hauptbahnhof_Südseite.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Hauptbahnhof_Südseite.private.md) 
+### #is_/same_as :: [S-Hauptbahnhof_Südseite.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Hauptbahnhof_Südseite.private.md) 
 
-### #is_/same_as :: [S-Hauptbahnhof_Südseite.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Hauptbahnhof_Südseite.personal.md) 
+### #is_/same_as :: [S-Hauptbahnhof_Südseite.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Hauptbahnhof_Südseite.personal.md) 
 
-### #is_/same_as :: [S-Hauptbahnhof_Südseite.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Hauptbahnhof_Südseite.secret.md)
+### #is_/same_as :: [S-Hauptbahnhof_Südseite.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Hauptbahnhof_Südseite.secret.md)
 

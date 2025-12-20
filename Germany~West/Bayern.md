@@ -323,6 +323,8 @@ Capital ::  [[Bayern/counties~Bayern/München,County/City/München,City]]
 > Contemporary Bavaria also includes parts of the historical regions of Franconia and Swabia, in addition to Alt**Bayern**.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bavaria)
+
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bayern](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.md) 

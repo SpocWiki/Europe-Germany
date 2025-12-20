@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 location:
@@ -36,17 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heinersdorf](Heinersdorf.md) 
+### #is_/same_as :: [Heinersdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Heinersdorf.md) 
 
-### #is_/same_as :: [Heinersdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Heinersdorf.public.md) 
+### #is_/same_as :: [Heinersdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Heinersdorf.public.md) 
 
-### #is_/same_as :: [Heinersdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Heinersdorf.internal.md) 
+### #is_/same_as :: [Heinersdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Heinersdorf.internal.md) 
 
-### #is_/same_as :: [Heinersdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Heinersdorf.protect.md) 
+### #is_/same_as :: [Heinersdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Heinersdorf.protect.md) 
 
-### #is_/same_as :: [Heinersdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Heinersdorf.private.md) 
+### #is_/same_as :: [Heinersdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Heinersdorf.private.md) 
 
-### #is_/same_as :: [Heinersdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Heinersdorf.personal.md) 
+### #is_/same_as :: [Heinersdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Heinersdorf.personal.md) 
 
-### #is_/same_as :: [Heinersdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Heinersdorf.secret.md)
+### #is_/same_as :: [Heinersdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Heinersdorf.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 location:
@@ -36,17 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tegel](Tegel.md) 
+### #is_/same_as :: [Tegel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Tegel.md) 
 
-### #is_/same_as :: [Tegel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Tegel.public.md) 
+### #is_/same_as :: [Tegel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Tegel.public.md) 
 
-### #is_/same_as :: [Tegel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Tegel.internal.md) 
+### #is_/same_as :: [Tegel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Tegel.internal.md) 
 
-### #is_/same_as :: [Tegel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Tegel.protect.md) 
+### #is_/same_as :: [Tegel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Tegel.protect.md) 
 
-### #is_/same_as :: [Tegel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Tegel.private.md) 
+### #is_/same_as :: [Tegel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Tegel.private.md) 
 
-### #is_/same_as :: [Tegel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Tegel.personal.md) 
+### #is_/same_as :: [Tegel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Tegel.personal.md) 
 
-### #is_/same_as :: [Tegel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Tegel.secret.md)
+### #is_/same_as :: [Tegel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Tegel.secret.md)
 

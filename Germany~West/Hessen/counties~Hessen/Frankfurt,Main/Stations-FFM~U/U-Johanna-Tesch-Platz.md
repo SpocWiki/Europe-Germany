@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.12786
 - 8.726299
@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [U-Johanna-Tesch-Platz](U-Johanna-Tesch-Platz.md) 
+### #is_/same_as :: [U-Johanna-Tesch-Platz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Johanna-Tesch-Platz.md) 
 
-### #is_/same_as :: [U-Johanna-Tesch-Platz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Johanna-Tesch-Platz.public.md) 
+### #is_/same_as :: [U-Johanna-Tesch-Platz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Johanna-Tesch-Platz.public.md) 
 
-### #is_/same_as :: [U-Johanna-Tesch-Platz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Johanna-Tesch-Platz.internal.md) 
+### #is_/same_as :: [U-Johanna-Tesch-Platz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Johanna-Tesch-Platz.internal.md) 
 
-### #is_/same_as :: [U-Johanna-Tesch-Platz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Johanna-Tesch-Platz.protect.md) 
+### #is_/same_as :: [U-Johanna-Tesch-Platz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Johanna-Tesch-Platz.protect.md) 
 
-### #is_/same_as :: [U-Johanna-Tesch-Platz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Johanna-Tesch-Platz.private.md) 
+### #is_/same_as :: [U-Johanna-Tesch-Platz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Johanna-Tesch-Platz.private.md) 
 
-### #is_/same_as :: [U-Johanna-Tesch-Platz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Johanna-Tesch-Platz.personal.md) 
+### #is_/same_as :: [U-Johanna-Tesch-Platz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Johanna-Tesch-Platz.personal.md) 
 
-### #is_/same_as :: [U-Johanna-Tesch-Platz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Johanna-Tesch-Platz.secret.md)
+### #is_/same_as :: [U-Johanna-Tesch-Platz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Johanna-Tesch-Platz.secret.md)
 

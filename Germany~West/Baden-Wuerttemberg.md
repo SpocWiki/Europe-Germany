@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Baden-Württemberg
 archives_at: "[[_Standards/WikiData/WD~State Archive Baden-Württemberg]]"

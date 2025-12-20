@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Bremervoerde
 confidential: public

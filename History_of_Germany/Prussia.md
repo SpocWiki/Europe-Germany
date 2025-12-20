@@ -146,3 +146,22 @@ inception: 1525-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Prussia) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Prussia](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.md) 
+
+### #is_/same_as :: [Prussia.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.public.md) 
+
+### #is_/same_as :: [Prussia.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.internal.md) 
+
+### #is_/same_as :: [Prussia.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.protect.md) 
+
+### #is_/same_as :: [Prussia.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.private.md) 
+
+### #is_/same_as :: [Prussia.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.personal.md) 
+
+### #is_/same_as :: [Prussia.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.secret.md)
+

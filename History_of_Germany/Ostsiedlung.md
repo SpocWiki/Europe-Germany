@@ -80,3 +80,22 @@ Commons_category: Ostsiedlung
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ostsiedlung) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ostsiedlung](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.md) 
+
+### #is_/same_as :: [Ostsiedlung.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.public.md) 
+
+### #is_/same_as :: [Ostsiedlung.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.internal.md) 
+
+### #is_/same_as :: [Ostsiedlung.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.protect.md) 
+
+### #is_/same_as :: [Ostsiedlung.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.private.md) 
+
+### #is_/same_as :: [Ostsiedlung.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.personal.md) 
+
+### #is_/same_as :: [Ostsiedlung.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.secret.md)
+

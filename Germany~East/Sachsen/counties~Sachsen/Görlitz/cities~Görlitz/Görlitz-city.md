@@ -67,6 +67,7 @@ der Dicke sowie der Reichenbacher Turm.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/G%C3%B6rlitz)
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Görlitz-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.md) 

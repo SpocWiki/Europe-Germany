@@ -258,7 +258,6 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Dresden) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Dresden](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden.md) 

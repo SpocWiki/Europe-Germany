@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.04111
 - 8.256592
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Wiesbaden_Ost](S-Wiesbaden_Ost.md) 
+### #is_/same_as :: [S-Wiesbaden_Ost](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Wiesbaden_Ost.md) 
 
-### #is_/same_as :: [S-Wiesbaden_Ost.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Wiesbaden_Ost.public.md) 
+### #is_/same_as :: [S-Wiesbaden_Ost.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Wiesbaden_Ost.public.md) 
 
-### #is_/same_as :: [S-Wiesbaden_Ost.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Wiesbaden_Ost.internal.md) 
+### #is_/same_as :: [S-Wiesbaden_Ost.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Wiesbaden_Ost.internal.md) 
 
-### #is_/same_as :: [S-Wiesbaden_Ost.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Wiesbaden_Ost.protect.md) 
+### #is_/same_as :: [S-Wiesbaden_Ost.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Wiesbaden_Ost.protect.md) 
 
-### #is_/same_as :: [S-Wiesbaden_Ost.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Wiesbaden_Ost.private.md) 
+### #is_/same_as :: [S-Wiesbaden_Ost.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Wiesbaden_Ost.private.md) 
 
-### #is_/same_as :: [S-Wiesbaden_Ost.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Wiesbaden_Ost.personal.md) 
+### #is_/same_as :: [S-Wiesbaden_Ost.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Wiesbaden_Ost.personal.md) 
 
-### #is_/same_as :: [S-Wiesbaden_Ost.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Wiesbaden_Ost.secret.md)
+### #is_/same_as :: [S-Wiesbaden_Ost.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Wiesbaden_Ost.secret.md)
 

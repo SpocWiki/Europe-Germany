@@ -229,17 +229,17 @@ graph TD
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tram,Berlin](Tram,Berlin.md) 
+### #is_/same_as :: [Tram,Berlin](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.md) 
 
-### #is_/same_as :: [Tram,Berlin.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/Tram,Berlin.public.md) 
+### #is_/same_as :: [Tram,Berlin.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.public.md) 
 
-### #is_/same_as :: [Tram,Berlin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/Tram,Berlin.internal.md) 
+### #is_/same_as :: [Tram,Berlin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.internal.md) 
 
-### #is_/same_as :: [Tram,Berlin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/Tram,Berlin.protect.md) 
+### #is_/same_as :: [Tram,Berlin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.protect.md) 
 
-### #is_/same_as :: [Tram,Berlin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/Tram,Berlin.private.md) 
+### #is_/same_as :: [Tram,Berlin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.private.md) 
 
-### #is_/same_as :: [Tram,Berlin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/Tram,Berlin.personal.md) 
+### #is_/same_as :: [Tram,Berlin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.personal.md) 
 
-### #is_/same_as :: [Tram,Berlin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/cities~Berlin/Berlin-city/Tram,Berlin.secret.md)
+### #is_/same_as :: [Tram,Berlin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.secret.md)
 

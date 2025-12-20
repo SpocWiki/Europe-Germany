@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 location:
@@ -36,17 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lichterfelde](Lichterfelde.md) 
+### #is_/same_as :: [Lichterfelde](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Lichterfelde.md) 
 
-### #is_/same_as :: [Lichterfelde.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Lichterfelde.public.md) 
+### #is_/same_as :: [Lichterfelde.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Lichterfelde.public.md) 
 
-### #is_/same_as :: [Lichterfelde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Lichterfelde.internal.md) 
+### #is_/same_as :: [Lichterfelde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Lichterfelde.internal.md) 
 
-### #is_/same_as :: [Lichterfelde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Lichterfelde.protect.md) 
+### #is_/same_as :: [Lichterfelde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Lichterfelde.protect.md) 
 
-### #is_/same_as :: [Lichterfelde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Lichterfelde.private.md) 
+### #is_/same_as :: [Lichterfelde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Lichterfelde.private.md) 
 
-### #is_/same_as :: [Lichterfelde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Lichterfelde.personal.md) 
+### #is_/same_as :: [Lichterfelde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Lichterfelde.personal.md) 
 
-### #is_/same_as :: [Lichterfelde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Lichterfelde.secret.md)
+### #is_/same_as :: [Lichterfelde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Lichterfelde.secret.md)
 

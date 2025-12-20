@@ -90,3 +90,22 @@ X_Twitter_username: goetheuni
 > [Wikipedia](https://en.wikipedia.org/wiki/Goethe%20University%20Frankfurt) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Goethe_University,Frankfurt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Goethe_University,Frankfurt.md) 
+
+### #is_/same_as :: [Goethe_University,Frankfurt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Goethe_University,Frankfurt.public.md) 
+
+### #is_/same_as :: [Goethe_University,Frankfurt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Goethe_University,Frankfurt.internal.md) 
+
+### #is_/same_as :: [Goethe_University,Frankfurt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Goethe_University,Frankfurt.protect.md) 
+
+### #is_/same_as :: [Goethe_University,Frankfurt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Goethe_University,Frankfurt.private.md) 
+
+### #is_/same_as :: [Goethe_University,Frankfurt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Goethe_University,Frankfurt.personal.md) 
+
+### #is_/same_as :: [Goethe_University,Frankfurt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Goethe_University,Frankfurt.secret.md)
+

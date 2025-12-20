@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 49.99441
 - 8.314038
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Mainz-Gustavsburg](S-Mainz-Gustavsburg.md) 
+### #is_/same_as :: [S-Mainz-Gustavsburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Mainz-Gustavsburg.md) 
 
-### #is_/same_as :: [S-Mainz-Gustavsburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mainz-Gustavsburg.public.md) 
+### #is_/same_as :: [S-Mainz-Gustavsburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Mainz-Gustavsburg.public.md) 
 
-### #is_/same_as :: [S-Mainz-Gustavsburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mainz-Gustavsburg.internal.md) 
+### #is_/same_as :: [S-Mainz-Gustavsburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Mainz-Gustavsburg.internal.md) 
 
-### #is_/same_as :: [S-Mainz-Gustavsburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mainz-Gustavsburg.protect.md) 
+### #is_/same_as :: [S-Mainz-Gustavsburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Mainz-Gustavsburg.protect.md) 
 
-### #is_/same_as :: [S-Mainz-Gustavsburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mainz-Gustavsburg.private.md) 
+### #is_/same_as :: [S-Mainz-Gustavsburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Mainz-Gustavsburg.private.md) 
 
-### #is_/same_as :: [S-Mainz-Gustavsburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mainz-Gustavsburg.personal.md) 
+### #is_/same_as :: [S-Mainz-Gustavsburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Mainz-Gustavsburg.personal.md) 
 
-### #is_/same_as :: [S-Mainz-Gustavsburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Mainz-Gustavsburg.secret.md)
+### #is_/same_as :: [S-Mainz-Gustavsburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Mainz-Gustavsburg.secret.md)
 

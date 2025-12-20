@@ -97,3 +97,22 @@ Libris_URI: hftx3h110k18p9k
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Deutsches%20Museum) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Deutsches_Museum](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.md) 
+
+### #is_/same_as :: [Deutsches_Museum.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.public.md) 
+
+### #is_/same_as :: [Deutsches_Museum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.internal.md) 
+
+### #is_/same_as :: [Deutsches_Museum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.protect.md) 
+
+### #is_/same_as :: [Deutsches_Museum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.private.md) 
+
+### #is_/same_as :: [Deutsches_Museum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.personal.md) 
+
+### #is_/same_as :: [Deutsches_Museum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.secret.md)
+

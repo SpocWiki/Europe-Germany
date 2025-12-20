@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.11367
 - 8.627744
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Leonardo-da-Vinci-Allee](T-Leonardo-da-Vinci-Allee.md) 
+### #is_/same_as :: [T-Leonardo-da-Vinci-Allee](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Leonardo-da-Vinci-Allee.md) 
 
-### #is_/same_as :: [T-Leonardo-da-Vinci-Allee.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Leonardo-da-Vinci-Allee.public.md) 
+### #is_/same_as :: [T-Leonardo-da-Vinci-Allee.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Leonardo-da-Vinci-Allee.public.md) 
 
-### #is_/same_as :: [T-Leonardo-da-Vinci-Allee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Leonardo-da-Vinci-Allee.internal.md) 
+### #is_/same_as :: [T-Leonardo-da-Vinci-Allee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Leonardo-da-Vinci-Allee.internal.md) 
 
-### #is_/same_as :: [T-Leonardo-da-Vinci-Allee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Leonardo-da-Vinci-Allee.protect.md) 
+### #is_/same_as :: [T-Leonardo-da-Vinci-Allee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Leonardo-da-Vinci-Allee.protect.md) 
 
-### #is_/same_as :: [T-Leonardo-da-Vinci-Allee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Leonardo-da-Vinci-Allee.private.md) 
+### #is_/same_as :: [T-Leonardo-da-Vinci-Allee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Leonardo-da-Vinci-Allee.private.md) 
 
-### #is_/same_as :: [T-Leonardo-da-Vinci-Allee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Leonardo-da-Vinci-Allee.personal.md) 
+### #is_/same_as :: [T-Leonardo-da-Vinci-Allee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Leonardo-da-Vinci-Allee.personal.md) 
 
-### #is_/same_as :: [T-Leonardo-da-Vinci-Allee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Leonardo-da-Vinci-Allee.secret.md)
+### #is_/same_as :: [T-Leonardo-da-Vinci-Allee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Leonardo-da-Vinci-Allee.secret.md)
 

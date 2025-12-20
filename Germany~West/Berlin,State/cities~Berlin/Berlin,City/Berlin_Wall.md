@@ -123,3 +123,22 @@ Krugosvet_article: istoriya/BERLINSKAYA_STENA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Berlin%20Wall) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Berlin_Wall](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.md) 
+
+### #is_/same_as :: [Berlin_Wall.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.public.md) 
+
+### #is_/same_as :: [Berlin_Wall.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.internal.md) 
+
+### #is_/same_as :: [Berlin_Wall.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.protect.md) 
+
+### #is_/same_as :: [Berlin_Wall.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.private.md) 
+
+### #is_/same_as :: [Berlin_Wall.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.personal.md) 
+
+### #is_/same_as :: [Berlin_Wall.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.secret.md)
+

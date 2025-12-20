@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Luebberstedt
 confidential: public

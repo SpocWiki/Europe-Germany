@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 49.91083
 - 8.657222
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Darmstadt-Arheilgen](S-Darmstadt-Arheilgen.md) 
+### #is_/same_as :: [S-Darmstadt-Arheilgen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Darmstadt-Arheilgen.md) 
 
-### #is_/same_as :: [S-Darmstadt-Arheilgen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Darmstadt-Arheilgen.public.md) 
+### #is_/same_as :: [S-Darmstadt-Arheilgen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Darmstadt-Arheilgen.public.md) 
 
-### #is_/same_as :: [S-Darmstadt-Arheilgen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Darmstadt-Arheilgen.internal.md) 
+### #is_/same_as :: [S-Darmstadt-Arheilgen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Darmstadt-Arheilgen.internal.md) 
 
-### #is_/same_as :: [S-Darmstadt-Arheilgen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Darmstadt-Arheilgen.protect.md) 
+### #is_/same_as :: [S-Darmstadt-Arheilgen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Darmstadt-Arheilgen.protect.md) 
 
-### #is_/same_as :: [S-Darmstadt-Arheilgen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Darmstadt-Arheilgen.private.md) 
+### #is_/same_as :: [S-Darmstadt-Arheilgen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Darmstadt-Arheilgen.private.md) 
 
-### #is_/same_as :: [S-Darmstadt-Arheilgen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Darmstadt-Arheilgen.personal.md) 
+### #is_/same_as :: [S-Darmstadt-Arheilgen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Darmstadt-Arheilgen.personal.md) 
 
-### #is_/same_as :: [S-Darmstadt-Arheilgen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Darmstadt-Arheilgen.secret.md)
+### #is_/same_as :: [S-Darmstadt-Arheilgen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Darmstadt-Arheilgen.secret.md)
 

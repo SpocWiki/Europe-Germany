@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - FFM~S7
 confidential: public
@@ -54,17 +54,17 @@ markerFolder: ./Station/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FFM~S7](FFM~S7.md) 
+### #is_/same_as :: [FFM~S7](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/FFM~S7.md) 
 
-### #is_/same_as :: [FFM~S7.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~S7.public.md) 
+### #is_/same_as :: [FFM~S7.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/FFM~S7.public.md) 
 
-### #is_/same_as :: [FFM~S7.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~S7.internal.md) 
+### #is_/same_as :: [FFM~S7.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/FFM~S7.internal.md) 
 
-### #is_/same_as :: [FFM~S7.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~S7.protect.md) 
+### #is_/same_as :: [FFM~S7.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/FFM~S7.protect.md) 
 
-### #is_/same_as :: [FFM~S7.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~S7.private.md) 
+### #is_/same_as :: [FFM~S7.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/FFM~S7.private.md) 
 
-### #is_/same_as :: [FFM~S7.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~S7.personal.md) 
+### #is_/same_as :: [FFM~S7.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/FFM~S7.personal.md) 
 
-### #is_/same_as :: [FFM~S7.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/FFM~S7.secret.md)
+### #is_/same_as :: [FFM~S7.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/FFM~S7.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 location:
@@ -36,17 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Koepenick](Koepenick.md) 
+### #is_/same_as :: [Koepenick](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Koepenick.md) 
 
-### #is_/same_as :: [Koepenick.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Koepenick.public.md) 
+### #is_/same_as :: [Koepenick.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Koepenick.public.md) 
 
-### #is_/same_as :: [Koepenick.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Koepenick.internal.md) 
+### #is_/same_as :: [Koepenick.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Koepenick.internal.md) 
 
-### #is_/same_as :: [Koepenick.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Koepenick.protect.md) 
+### #is_/same_as :: [Koepenick.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Koepenick.protect.md) 
 
-### #is_/same_as :: [Koepenick.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Koepenick.private.md) 
+### #is_/same_as :: [Koepenick.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Koepenick.private.md) 
 
-### #is_/same_as :: [Koepenick.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Koepenick.personal.md) 
+### #is_/same_as :: [Koepenick.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Koepenick.personal.md) 
 
-### #is_/same_as :: [Koepenick.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Koepenick.secret.md)
+### #is_/same_as :: [Koepenick.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Koepenick.secret.md)
 

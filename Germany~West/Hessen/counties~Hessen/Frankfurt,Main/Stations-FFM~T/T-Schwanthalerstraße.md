@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.10097
 - 8.681355
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Schwanthalerstraße](T-Schwanthalerstraße.md) 
+### #is_/same_as :: [T-Schwanthalerstraße](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwanthalerstraße.md) 
 
-### #is_/same_as :: [T-Schwanthalerstraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Schwanthalerstraße.public.md) 
+### #is_/same_as :: [T-Schwanthalerstraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwanthalerstraße.public.md) 
 
-### #is_/same_as :: [T-Schwanthalerstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Schwanthalerstraße.internal.md) 
+### #is_/same_as :: [T-Schwanthalerstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwanthalerstraße.internal.md) 
 
-### #is_/same_as :: [T-Schwanthalerstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Schwanthalerstraße.protect.md) 
+### #is_/same_as :: [T-Schwanthalerstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwanthalerstraße.protect.md) 
 
-### #is_/same_as :: [T-Schwanthalerstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Schwanthalerstraße.private.md) 
+### #is_/same_as :: [T-Schwanthalerstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwanthalerstraße.private.md) 
 
-### #is_/same_as :: [T-Schwanthalerstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Schwanthalerstraße.personal.md) 
+### #is_/same_as :: [T-Schwanthalerstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwanthalerstraße.personal.md) 
 
-### #is_/same_as :: [T-Schwanthalerstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Schwanthalerstraße.secret.md)
+### #is_/same_as :: [T-Schwanthalerstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwanthalerstraße.secret.md)
 

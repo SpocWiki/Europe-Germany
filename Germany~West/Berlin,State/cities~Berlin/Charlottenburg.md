@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 location:
@@ -36,17 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Charlottenburg](Charlottenburg.md) 
+### #is_/same_as :: [Charlottenburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Charlottenburg.md) 
 
-### #is_/same_as :: [Charlottenburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Charlottenburg.public.md) 
+### #is_/same_as :: [Charlottenburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Charlottenburg.public.md) 
 
-### #is_/same_as :: [Charlottenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Charlottenburg.internal.md) 
+### #is_/same_as :: [Charlottenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Charlottenburg.internal.md) 
 
-### #is_/same_as :: [Charlottenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Charlottenburg.protect.md) 
+### #is_/same_as :: [Charlottenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Charlottenburg.protect.md) 
 
-### #is_/same_as :: [Charlottenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Charlottenburg.private.md) 
+### #is_/same_as :: [Charlottenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Charlottenburg.private.md) 
 
-### #is_/same_as :: [Charlottenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Charlottenburg.personal.md) 
+### #is_/same_as :: [Charlottenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Charlottenburg.personal.md) 
 
-### #is_/same_as :: [Charlottenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Charlottenburg.secret.md)
+### #is_/same_as :: [Charlottenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Charlottenburg.secret.md)
 

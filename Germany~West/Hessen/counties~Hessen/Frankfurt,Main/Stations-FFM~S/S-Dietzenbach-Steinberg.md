@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.00861
 - 8.775556
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Dietzenbach-Steinberg](S-Dietzenbach-Steinberg.md) 
+### #is_/same_as :: [S-Dietzenbach-Steinberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dietzenbach-Steinberg.md) 
 
-### #is_/same_as :: [S-Dietzenbach-Steinberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Dietzenbach-Steinberg.public.md) 
+### #is_/same_as :: [S-Dietzenbach-Steinberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dietzenbach-Steinberg.public.md) 
 
-### #is_/same_as :: [S-Dietzenbach-Steinberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Dietzenbach-Steinberg.internal.md) 
+### #is_/same_as :: [S-Dietzenbach-Steinberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dietzenbach-Steinberg.internal.md) 
 
-### #is_/same_as :: [S-Dietzenbach-Steinberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Dietzenbach-Steinberg.protect.md) 
+### #is_/same_as :: [S-Dietzenbach-Steinberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dietzenbach-Steinberg.protect.md) 
 
-### #is_/same_as :: [S-Dietzenbach-Steinberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Dietzenbach-Steinberg.private.md) 
+### #is_/same_as :: [S-Dietzenbach-Steinberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dietzenbach-Steinberg.private.md) 
 
-### #is_/same_as :: [S-Dietzenbach-Steinberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Dietzenbach-Steinberg.personal.md) 
+### #is_/same_as :: [S-Dietzenbach-Steinberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dietzenbach-Steinberg.personal.md) 
 
-### #is_/same_as :: [S-Dietzenbach-Steinberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Dietzenbach-Steinberg.secret.md)
+### #is_/same_as :: [S-Dietzenbach-Steinberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dietzenbach-Steinberg.secret.md)
 

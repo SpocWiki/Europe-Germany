@@ -53,18 +53,17 @@ topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Germany,658337
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History,Germany](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History,Germany.md) 
+### #is_/same_as :: [History_of_Germany](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.md) 
 
-### #is_/same_as :: [History,Germany.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/History,Germany.public.md) 
+### #is_/same_as :: [History_of_Germany.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.public.md) 
 
-### #is_/same_as :: [History,Germany.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/History,Germany.internal.md) 
+### #is_/same_as :: [History_of_Germany.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.internal.md) 
 
-### #is_/same_as :: [History,Germany.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/History,Germany.protect.md) 
+### #is_/same_as :: [History_of_Germany.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.protect.md) 
 
-### #is_/same_as :: [History,Germany.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/History,Germany.private.md) 
+### #is_/same_as :: [History_of_Germany.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.private.md) 
 
-### #is_/same_as :: [History,Germany.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/History,Germany.personal.md) 
+### #is_/same_as :: [History_of_Germany.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.personal.md) 
 
-### #is_/same_as :: [History,Germany.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/History,Germany.secret.md)
-
+### #is_/same_as :: [History_of_Germany.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.secret.md)
 

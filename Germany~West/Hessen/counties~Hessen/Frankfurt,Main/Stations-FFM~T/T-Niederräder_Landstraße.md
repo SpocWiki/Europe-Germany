@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.08898
 - 8.651926
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Niederräder_Landstraße](T-Niederräder_Landstraße.md) 
+### #is_/same_as :: [T-Niederräder_Landstraße](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Niederräder_Landstraße.md) 
 
-### #is_/same_as :: [T-Niederräder_Landstraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Niederräder_Landstraße.public.md) 
+### #is_/same_as :: [T-Niederräder_Landstraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Niederräder_Landstraße.public.md) 
 
-### #is_/same_as :: [T-Niederräder_Landstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Niederräder_Landstraße.internal.md) 
+### #is_/same_as :: [T-Niederräder_Landstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Niederräder_Landstraße.internal.md) 
 
-### #is_/same_as :: [T-Niederräder_Landstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Niederräder_Landstraße.protect.md) 
+### #is_/same_as :: [T-Niederräder_Landstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Niederräder_Landstraße.protect.md) 
 
-### #is_/same_as :: [T-Niederräder_Landstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Niederräder_Landstraße.private.md) 
+### #is_/same_as :: [T-Niederräder_Landstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Niederräder_Landstraße.private.md) 
 
-### #is_/same_as :: [T-Niederräder_Landstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Niederräder_Landstraße.personal.md) 
+### #is_/same_as :: [T-Niederräder_Landstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Niederräder_Landstraße.personal.md) 
 
-### #is_/same_as :: [T-Niederräder_Landstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Niederräder_Landstraße.secret.md)
+### #is_/same_as :: [T-Niederräder_Landstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Niederräder_Landstraße.secret.md)
 

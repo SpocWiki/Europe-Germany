@@ -293,19 +293,20 @@ maxZoom: 18
 
 ![[../../../../../../../../../../assets/geo/Europe/Germany/Nordrhein-Westfalen/Kölner_Dom.webp]]] 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Köln,City](Köln,City.md) 
+### #is_/same_as :: [Köln,City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City.md) 
 
-### #is_/same_as :: [Köln.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.public.md) 
+### #is_/same_as :: [Köln,City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City.public.md) 
 
-### #is_/same_as :: [Köln.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.internal.md) 
+### #is_/same_as :: [Köln,City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City.internal.md) 
 
-### #is_/same_as :: [Köln.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.protect.md) 
+### #is_/same_as :: [Köln,City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City.protect.md) 
 
-### #is_/same_as :: [Köln.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.private.md) 
+### #is_/same_as :: [Köln,City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City.private.md) 
 
-### #is_/same_as :: [Köln.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.personal.md) 
+### #is_/same_as :: [Köln,City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City.personal.md) 
 
-### #is_/same_as :: [Köln.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln/Köln.secret.md)
+### #is_/same_as :: [Köln,City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City.secret.md)
 

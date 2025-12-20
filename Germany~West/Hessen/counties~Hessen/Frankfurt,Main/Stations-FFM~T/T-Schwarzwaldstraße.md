@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.0868
 - 8.646634
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Schwarzwaldstraße](T-Schwarzwaldstraße.md) 
+### #is_/same_as :: [T-Schwarzwaldstraße](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwarzwaldstraße.md) 
 
-### #is_/same_as :: [T-Schwarzwaldstraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Schwarzwaldstraße.public.md) 
+### #is_/same_as :: [T-Schwarzwaldstraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwarzwaldstraße.public.md) 
 
-### #is_/same_as :: [T-Schwarzwaldstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Schwarzwaldstraße.internal.md) 
+### #is_/same_as :: [T-Schwarzwaldstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwarzwaldstraße.internal.md) 
 
-### #is_/same_as :: [T-Schwarzwaldstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Schwarzwaldstraße.protect.md) 
+### #is_/same_as :: [T-Schwarzwaldstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwarzwaldstraße.protect.md) 
 
-### #is_/same_as :: [T-Schwarzwaldstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Schwarzwaldstraße.private.md) 
+### #is_/same_as :: [T-Schwarzwaldstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwarzwaldstraße.private.md) 
 
-### #is_/same_as :: [T-Schwarzwaldstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Schwarzwaldstraße.personal.md) 
+### #is_/same_as :: [T-Schwarzwaldstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwarzwaldstraße.personal.md) 
 
-### #is_/same_as :: [T-Schwarzwaldstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Schwarzwaldstraße.secret.md)
+### #is_/same_as :: [T-Schwarzwaldstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwarzwaldstraße.secret.md)
 

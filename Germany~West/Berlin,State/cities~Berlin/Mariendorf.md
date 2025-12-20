@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 location:
@@ -36,17 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mariendorf](Mariendorf.md) 
+### #is_/same_as :: [Mariendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Mariendorf.md) 
 
-### #is_/same_as :: [Mariendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Mariendorf.public.md) 
+### #is_/same_as :: [Mariendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Mariendorf.public.md) 
 
-### #is_/same_as :: [Mariendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Mariendorf.internal.md) 
+### #is_/same_as :: [Mariendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Mariendorf.internal.md) 
 
-### #is_/same_as :: [Mariendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Mariendorf.protect.md) 
+### #is_/same_as :: [Mariendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Mariendorf.protect.md) 
 
-### #is_/same_as :: [Mariendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Mariendorf.private.md) 
+### #is_/same_as :: [Mariendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Mariendorf.private.md) 
 
-### #is_/same_as :: [Mariendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Mariendorf.personal.md) 
+### #is_/same_as :: [Mariendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Mariendorf.personal.md) 
 
-### #is_/same_as :: [Mariendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Mariendorf.secret.md)
+### #is_/same_as :: [Mariendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Mariendorf.secret.md)
 

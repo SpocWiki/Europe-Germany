@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.10051
 - 8.72426
@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Buchrainstraße](T-Buchrainstraße.md) 
+### #is_/same_as :: [T-Buchrainstraße](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Buchrainstraße.md) 
 
-### #is_/same_as :: [T-Buchrainstraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Buchrainstraße.public.md) 
+### #is_/same_as :: [T-Buchrainstraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Buchrainstraße.public.md) 
 
-### #is_/same_as :: [T-Buchrainstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Buchrainstraße.internal.md) 
+### #is_/same_as :: [T-Buchrainstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Buchrainstraße.internal.md) 
 
-### #is_/same_as :: [T-Buchrainstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Buchrainstraße.protect.md) 
+### #is_/same_as :: [T-Buchrainstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Buchrainstraße.protect.md) 
 
-### #is_/same_as :: [T-Buchrainstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Buchrainstraße.private.md) 
+### #is_/same_as :: [T-Buchrainstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Buchrainstraße.private.md) 
 
-### #is_/same_as :: [T-Buchrainstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Buchrainstraße.personal.md) 
+### #is_/same_as :: [T-Buchrainstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Buchrainstraße.personal.md) 
 
-### #is_/same_as :: [T-Buchrainstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Buchrainstraße.secret.md)
+### #is_/same_as :: [T-Buchrainstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Buchrainstraße.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.05194
 - 8.577778
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Frankfurt-Flughafen](S-Frankfurt-Flughafen.md) 
+### #is_/same_as :: [S-Frankfurt-Flughafen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Flughafen.md) 
 
-### #is_/same_as :: [S-Frankfurt-Flughafen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Flughafen.public.md) 
+### #is_/same_as :: [S-Frankfurt-Flughafen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Flughafen.public.md) 
 
-### #is_/same_as :: [S-Frankfurt-Flughafen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Flughafen.internal.md) 
+### #is_/same_as :: [S-Frankfurt-Flughafen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Flughafen.internal.md) 
 
-### #is_/same_as :: [S-Frankfurt-Flughafen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Flughafen.protect.md) 
+### #is_/same_as :: [S-Frankfurt-Flughafen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Flughafen.protect.md) 
 
-### #is_/same_as :: [S-Frankfurt-Flughafen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Flughafen.private.md) 
+### #is_/same_as :: [S-Frankfurt-Flughafen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Flughafen.private.md) 
 
-### #is_/same_as :: [S-Frankfurt-Flughafen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Flughafen.personal.md) 
+### #is_/same_as :: [S-Frankfurt-Flughafen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Flughafen.personal.md) 
 
-### #is_/same_as :: [S-Frankfurt-Flughafen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Flughafen.secret.md)
+### #is_/same_as :: [S-Frankfurt-Flughafen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Flughafen.secret.md)
 

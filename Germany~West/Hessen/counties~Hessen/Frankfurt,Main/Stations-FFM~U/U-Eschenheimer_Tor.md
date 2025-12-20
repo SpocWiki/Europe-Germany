@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.1175
 - 8.679306
@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [U-Eschenheimer_Tor](U-Eschenheimer_Tor.md) 
+### #is_/same_as :: [U-Eschenheimer_Tor](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Eschenheimer_Tor.md) 
 
-### #is_/same_as :: [U-Eschenheimer_Tor.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Eschenheimer_Tor.public.md) 
+### #is_/same_as :: [U-Eschenheimer_Tor.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Eschenheimer_Tor.public.md) 
 
-### #is_/same_as :: [U-Eschenheimer_Tor.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Eschenheimer_Tor.internal.md) 
+### #is_/same_as :: [U-Eschenheimer_Tor.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Eschenheimer_Tor.internal.md) 
 
-### #is_/same_as :: [U-Eschenheimer_Tor.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Eschenheimer_Tor.protect.md) 
+### #is_/same_as :: [U-Eschenheimer_Tor.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Eschenheimer_Tor.protect.md) 
 
-### #is_/same_as :: [U-Eschenheimer_Tor.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Eschenheimer_Tor.private.md) 
+### #is_/same_as :: [U-Eschenheimer_Tor.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Eschenheimer_Tor.private.md) 
 
-### #is_/same_as :: [U-Eschenheimer_Tor.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Eschenheimer_Tor.personal.md) 
+### #is_/same_as :: [U-Eschenheimer_Tor.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Eschenheimer_Tor.personal.md) 
 
-### #is_/same_as :: [U-Eschenheimer_Tor.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Eschenheimer_Tor.secret.md)
+### #is_/same_as :: [U-Eschenheimer_Tor.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Eschenheimer_Tor.secret.md)
 

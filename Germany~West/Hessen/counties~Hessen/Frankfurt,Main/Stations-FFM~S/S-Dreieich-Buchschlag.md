@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.01889
 - 8.696111
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Dreieich-Buchschlag](S-Dreieich-Buchschlag.md) 
+### #is_/same_as :: [S-Dreieich-Buchschlag](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dreieich-Buchschlag.md) 
 
-### #is_/same_as :: [S-Dreieich-Buchschlag.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Dreieich-Buchschlag.public.md) 
+### #is_/same_as :: [S-Dreieich-Buchschlag.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dreieich-Buchschlag.public.md) 
 
-### #is_/same_as :: [S-Dreieich-Buchschlag.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Dreieich-Buchschlag.internal.md) 
+### #is_/same_as :: [S-Dreieich-Buchschlag.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dreieich-Buchschlag.internal.md) 
 
-### #is_/same_as :: [S-Dreieich-Buchschlag.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Dreieich-Buchschlag.protect.md) 
+### #is_/same_as :: [S-Dreieich-Buchschlag.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dreieich-Buchschlag.protect.md) 
 
-### #is_/same_as :: [S-Dreieich-Buchschlag.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Dreieich-Buchschlag.private.md) 
+### #is_/same_as :: [S-Dreieich-Buchschlag.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dreieich-Buchschlag.private.md) 
 
-### #is_/same_as :: [S-Dreieich-Buchschlag.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Dreieich-Buchschlag.personal.md) 
+### #is_/same_as :: [S-Dreieich-Buchschlag.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dreieich-Buchschlag.personal.md) 
 
-### #is_/same_as :: [S-Dreieich-Buchschlag.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Dreieich-Buchschlag.secret.md)
+### #is_/same_as :: [S-Dreieich-Buchschlag.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dreieich-Buchschlag.secret.md)
 

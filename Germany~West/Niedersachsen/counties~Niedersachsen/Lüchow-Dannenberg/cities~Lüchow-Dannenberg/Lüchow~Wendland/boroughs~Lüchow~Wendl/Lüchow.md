@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Luechow
 confidential: public

@@ -426,3 +426,22 @@ Czech_hydrological_order_number: 1-01-01-001
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Elbe) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Elbe](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Elbe.md) 
+
+### #is_/same_as :: [Elbe.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Elbe.public.md) 
+
+### #is_/same_as :: [Elbe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Elbe.internal.md) 
+
+### #is_/same_as :: [Elbe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Elbe.protect.md) 
+
+### #is_/same_as :: [Elbe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Elbe.private.md) 
+
+### #is_/same_as :: [Elbe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Elbe.personal.md) 
+
+### #is_/same_as :: [Elbe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Elbe.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 location:
@@ -36,17 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Moorfleth](Moorfleth.md) 
+### #is_/same_as :: [Moorfleth](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Moorfleth.md) 
 
-### #is_/same_as :: [Moorfleth.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Moorfleth.public.md) 
+### #is_/same_as :: [Moorfleth.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Moorfleth.public.md) 
 
-### #is_/same_as :: [Moorfleth.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Moorfleth.internal.md) 
+### #is_/same_as :: [Moorfleth.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Moorfleth.internal.md) 
 
-### #is_/same_as :: [Moorfleth.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Moorfleth.protect.md) 
+### #is_/same_as :: [Moorfleth.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Moorfleth.protect.md) 
 
-### #is_/same_as :: [Moorfleth.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Moorfleth.private.md) 
+### #is_/same_as :: [Moorfleth.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Moorfleth.private.md) 
 
-### #is_/same_as :: [Moorfleth.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Moorfleth.personal.md) 
+### #is_/same_as :: [Moorfleth.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Moorfleth.personal.md) 
 
-### #is_/same_as :: [Moorfleth.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Moorfleth.secret.md)
+### #is_/same_as :: [Moorfleth.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Moorfleth.secret.md)
 

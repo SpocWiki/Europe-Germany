@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.12847
 - 8.646508
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Frauenfriedenskirche](T-Frauenfriedenskirche.md) 
+### #is_/same_as :: [T-Frauenfriedenskirche](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Frauenfriedenskirche.md) 
 
-### #is_/same_as :: [T-Frauenfriedenskirche.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Frauenfriedenskirche.public.md) 
+### #is_/same_as :: [T-Frauenfriedenskirche.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Frauenfriedenskirche.public.md) 
 
-### #is_/same_as :: [T-Frauenfriedenskirche.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Frauenfriedenskirche.internal.md) 
+### #is_/same_as :: [T-Frauenfriedenskirche.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Frauenfriedenskirche.internal.md) 
 
-### #is_/same_as :: [T-Frauenfriedenskirche.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Frauenfriedenskirche.protect.md) 
+### #is_/same_as :: [T-Frauenfriedenskirche.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Frauenfriedenskirche.protect.md) 
 
-### #is_/same_as :: [T-Frauenfriedenskirche.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Frauenfriedenskirche.private.md) 
+### #is_/same_as :: [T-Frauenfriedenskirche.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Frauenfriedenskirche.private.md) 
 
-### #is_/same_as :: [T-Frauenfriedenskirche.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Frauenfriedenskirche.personal.md) 
+### #is_/same_as :: [T-Frauenfriedenskirche.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Frauenfriedenskirche.personal.md) 
 
-### #is_/same_as :: [T-Frauenfriedenskirche.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Frauenfriedenskirche.secret.md)
+### #is_/same_as :: [T-Frauenfriedenskirche.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Frauenfriedenskirche.secret.md)
 

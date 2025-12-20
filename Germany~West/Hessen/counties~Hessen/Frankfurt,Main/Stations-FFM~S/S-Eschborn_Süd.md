@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.13356
 - 8.578487
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Eschborn_Süd](S-Eschborn_Süd.md) 
+### #is_/same_as :: [S-Eschborn_Süd](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Eschborn_Süd.md) 
 
-### #is_/same_as :: [S-Eschborn_Süd.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Eschborn_Süd.public.md) 
+### #is_/same_as :: [S-Eschborn_Süd.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Eschborn_Süd.public.md) 
 
-### #is_/same_as :: [S-Eschborn_Süd.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Eschborn_Süd.internal.md) 
+### #is_/same_as :: [S-Eschborn_Süd.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Eschborn_Süd.internal.md) 
 
-### #is_/same_as :: [S-Eschborn_Süd.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Eschborn_Süd.protect.md) 
+### #is_/same_as :: [S-Eschborn_Süd.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Eschborn_Süd.protect.md) 
 
-### #is_/same_as :: [S-Eschborn_Süd.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Eschborn_Süd.private.md) 
+### #is_/same_as :: [S-Eschborn_Süd.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Eschborn_Süd.private.md) 
 
-### #is_/same_as :: [S-Eschborn_Süd.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Eschborn_Süd.personal.md) 
+### #is_/same_as :: [S-Eschborn_Süd.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Eschborn_Süd.personal.md) 
 
-### #is_/same_as :: [S-Eschborn_Süd.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Eschborn_Süd.secret.md)
+### #is_/same_as :: [S-Eschborn_Süd.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Eschborn_Süd.secret.md)
 

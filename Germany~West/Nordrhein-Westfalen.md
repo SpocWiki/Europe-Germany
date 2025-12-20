@@ -210,6 +210,7 @@ Capital :: [[Duesseldorf]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/North%20Rhine-Westphalia)
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Nordrhein-Westfalen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.md) 

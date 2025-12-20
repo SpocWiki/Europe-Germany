@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.17222
 - 8.6975
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Frankfurt-Berkersheim](S-Frankfurt-Berkersheim.md) 
+### #is_/same_as :: [S-Frankfurt-Berkersheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Berkersheim.md) 
 
-### #is_/same_as :: [S-Frankfurt-Berkersheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Berkersheim.public.md) 
+### #is_/same_as :: [S-Frankfurt-Berkersheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Berkersheim.public.md) 
 
-### #is_/same_as :: [S-Frankfurt-Berkersheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Berkersheim.internal.md) 
+### #is_/same_as :: [S-Frankfurt-Berkersheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Berkersheim.internal.md) 
 
-### #is_/same_as :: [S-Frankfurt-Berkersheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Berkersheim.protect.md) 
+### #is_/same_as :: [S-Frankfurt-Berkersheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Berkersheim.protect.md) 
 
-### #is_/same_as :: [S-Frankfurt-Berkersheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Berkersheim.private.md) 
+### #is_/same_as :: [S-Frankfurt-Berkersheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Berkersheim.private.md) 
 
-### #is_/same_as :: [S-Frankfurt-Berkersheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Berkersheim.personal.md) 
+### #is_/same_as :: [S-Frankfurt-Berkersheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Berkersheim.personal.md) 
 
-### #is_/same_as :: [S-Frankfurt-Berkersheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Frankfurt-Berkersheim.secret.md)
+### #is_/same_as :: [S-Frankfurt-Berkersheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Berkersheim.secret.md)
 

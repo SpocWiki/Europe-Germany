@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.22924
 - 8.610486
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Bad_Homburg](S-Bad_Homburg.md) 
+### #is_/same_as :: [S-Bad_Homburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Bad_Homburg.md) 
 
-### #is_/same_as :: [S-Bad_Homburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Bad_Homburg.public.md) 
+### #is_/same_as :: [S-Bad_Homburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Bad_Homburg.public.md) 
 
-### #is_/same_as :: [S-Bad_Homburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Bad_Homburg.internal.md) 
+### #is_/same_as :: [S-Bad_Homburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Bad_Homburg.internal.md) 
 
-### #is_/same_as :: [S-Bad_Homburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Bad_Homburg.protect.md) 
+### #is_/same_as :: [S-Bad_Homburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Bad_Homburg.protect.md) 
 
-### #is_/same_as :: [S-Bad_Homburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Bad_Homburg.private.md) 
+### #is_/same_as :: [S-Bad_Homburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Bad_Homburg.private.md) 
 
-### #is_/same_as :: [S-Bad_Homburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Bad_Homburg.personal.md) 
+### #is_/same_as :: [S-Bad_Homburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Bad_Homburg.personal.md) 
 
-### #is_/same_as :: [S-Bad_Homburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~S/S-Bad_Homburg.secret.md)
+### #is_/same_as :: [S-Bad_Homburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Bad_Homburg.secret.md)
 

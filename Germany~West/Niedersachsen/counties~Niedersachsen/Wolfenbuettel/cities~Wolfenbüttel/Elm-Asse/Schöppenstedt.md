@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Schoeppenstedt
 confidential: public

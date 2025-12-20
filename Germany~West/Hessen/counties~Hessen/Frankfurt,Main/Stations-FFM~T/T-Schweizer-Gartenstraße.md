@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.10333
 - 8.679585
@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Schweizer-Gartenstraße](T-Schweizer-Gartenstraße.md) 
+### #is_/same_as :: [T-Schweizer-Gartenstraße](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schweizer-Gartenstraße.md) 
 
-### #is_/same_as :: [T-Schweizer-Gartenstraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Schweizer-Gartenstraße.public.md) 
+### #is_/same_as :: [T-Schweizer-Gartenstraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schweizer-Gartenstraße.public.md) 
 
-### #is_/same_as :: [T-Schweizer-Gartenstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Schweizer-Gartenstraße.internal.md) 
+### #is_/same_as :: [T-Schweizer-Gartenstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schweizer-Gartenstraße.internal.md) 
 
-### #is_/same_as :: [T-Schweizer-Gartenstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Schweizer-Gartenstraße.protect.md) 
+### #is_/same_as :: [T-Schweizer-Gartenstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schweizer-Gartenstraße.protect.md) 
 
-### #is_/same_as :: [T-Schweizer-Gartenstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Schweizer-Gartenstraße.private.md) 
+### #is_/same_as :: [T-Schweizer-Gartenstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schweizer-Gartenstraße.private.md) 
 
-### #is_/same_as :: [T-Schweizer-Gartenstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Schweizer-Gartenstraße.personal.md) 
+### #is_/same_as :: [T-Schweizer-Gartenstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schweizer-Gartenstraße.personal.md) 
 
-### #is_/same_as :: [T-Schweizer-Gartenstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~T/T-Schweizer-Gartenstraße.secret.md)
+### #is_/same_as :: [T-Schweizer-Gartenstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schweizer-Gartenstraße.secret.md)
 

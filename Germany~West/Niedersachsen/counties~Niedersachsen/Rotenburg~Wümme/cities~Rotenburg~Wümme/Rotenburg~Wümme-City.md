@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Rotenburg~Wuemme
 confidential: public

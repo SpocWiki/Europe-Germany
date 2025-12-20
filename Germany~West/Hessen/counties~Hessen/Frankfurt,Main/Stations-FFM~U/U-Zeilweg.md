@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 50.1644
 - 8.642743
@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [U-Zeilweg](U-Zeilweg.md) 
+### #is_/same_as :: [U-Zeilweg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Zeilweg.md) 
 
-### #is_/same_as :: [U-Zeilweg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Zeilweg.public.md) 
+### #is_/same_as :: [U-Zeilweg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Zeilweg.public.md) 
 
-### #is_/same_as :: [U-Zeilweg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Zeilweg.internal.md) 
+### #is_/same_as :: [U-Zeilweg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Zeilweg.internal.md) 
 
-### #is_/same_as :: [U-Zeilweg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Zeilweg.protect.md) 
+### #is_/same_as :: [U-Zeilweg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Zeilweg.protect.md) 
 
-### #is_/same_as :: [U-Zeilweg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Zeilweg.private.md) 
+### #is_/same_as :: [U-Zeilweg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Zeilweg.private.md) 
 
-### #is_/same_as :: [U-Zeilweg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Zeilweg.personal.md) 
+### #is_/same_as :: [U-Zeilweg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Zeilweg.personal.md) 
 
-### #is_/same_as :: [U-Zeilweg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt~Main/Stations-FFM~U/U-Zeilweg.secret.md)
+### #is_/same_as :: [U-Zeilweg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Zeilweg.secret.md)
 

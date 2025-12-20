@@ -130,17 +130,17 @@ wie Perlen an einer Schnur auf.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bremen,City](Bremen,City.md) 
+### #is_/same_as :: [Bremen,City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremen,City.md) 
 
-### #is_/same_as :: [Bremen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremen.public.md) 
+### #is_/same_as :: [Bremen,City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremen,City.public.md) 
 
-### #is_/same_as :: [Bremen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremen.internal.md) 
+### #is_/same_as :: [Bremen,City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremen,City.internal.md) 
 
-### #is_/same_as :: [Bremen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremen.protect.md) 
+### #is_/same_as :: [Bremen,City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremen,City.protect.md) 
 
-### #is_/same_as :: [Bremen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremen.private.md) 
+### #is_/same_as :: [Bremen,City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremen,City.private.md) 
 
-### #is_/same_as :: [Bremen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremen.personal.md) 
+### #is_/same_as :: [Bremen,City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremen,City.personal.md) 
 
-### #is_/same_as :: [Bremen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Bremen/cities~Bremen/Bremen.secret.md)
+### #is_/same_as :: [Bremen,City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremen,City.secret.md)
 

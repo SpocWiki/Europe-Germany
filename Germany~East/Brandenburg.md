@@ -1,4 +1,4 @@
-﻿---
+---
 archives_at: "[[_Standards/WikiData/WD~Brandenburgisches Landeshauptarchiv]]"
 area: 29478.63
 BHCL_UUID:

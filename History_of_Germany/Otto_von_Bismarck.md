@@ -251,3 +251,22 @@ ISNI: "0000000121010812"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Otto%20von%20Bismarck) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Otto_von_Bismarck](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Otto_von_Bismarck.md) 
+
+### #is_/same_as :: [Otto_von_Bismarck.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Otto_von_Bismarck.public.md) 
+
+### #is_/same_as :: [Otto_von_Bismarck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Otto_von_Bismarck.internal.md) 
+
+### #is_/same_as :: [Otto_von_Bismarck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Otto_von_Bismarck.protect.md) 
+
+### #is_/same_as :: [Otto_von_Bismarck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Otto_von_Bismarck.private.md) 
+
+### #is_/same_as :: [Otto_von_Bismarck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Otto_von_Bismarck.personal.md) 
+
+### #is_/same_as :: [Otto_von_Bismarck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Otto_von_Bismarck.secret.md)
+

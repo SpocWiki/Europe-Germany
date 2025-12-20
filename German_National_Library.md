@@ -91,3 +91,22 @@ Commons_category: Deutsche Nationalbibliothek
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/German%20National%20Library) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [German_National_Library](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.md) 
+
+### #is_/same_as :: [German_National_Library.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.public.md) 
+
+### #is_/same_as :: [German_National_Library.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.internal.md) 
+
+### #is_/same_as :: [German_National_Library.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.protect.md) 
+
+### #is_/same_as :: [German_National_Library.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.private.md) 
+
+### #is_/same_as :: [German_National_Library.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.personal.md) 
+
+### #is_/same_as :: [German_National_Library.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.secret.md)
+
