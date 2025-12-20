@@ -39,8 +39,6 @@ coordinate_location: Point(2.120333333 48.803580555)
 > [Wikipedia](https://en.wikipedia.org/wiki/Unification%20of%20Germany) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1871-Unification_of_Germany](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.md) 

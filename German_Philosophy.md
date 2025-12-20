@@ -21,8 +21,6 @@ Commons_category: Philosophy in Germany
 > [Wikipedia](https://en.wikipedia.org/wiki/German%20philosophy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [German_Philosophy](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.md) 

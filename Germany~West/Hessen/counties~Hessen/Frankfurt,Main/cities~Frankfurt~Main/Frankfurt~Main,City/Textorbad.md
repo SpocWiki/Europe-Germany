@@ -3,8 +3,6 @@
 #is_a_/public_swimming_pool 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Textorbad](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Textorbad.md) 

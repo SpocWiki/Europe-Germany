@@ -252,8 +252,6 @@ ISNI: "0000000121010812"
 > [Wikipedia](https://en.wikipedia.org/wiki/Otto%20von%20Bismarck) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Otto_von_Bismarck](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Otto_von_Bismarck.md) 

@@ -122,8 +122,6 @@ Kölner Dom ( [[Unesco]] 1996)
 > [Wikipedia](https://en.wikipedia.org/wiki/Cologne%20Cathedral) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cologne_Cathedral](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City/Cologne_Cathedral.md) 

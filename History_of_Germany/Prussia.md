@@ -147,8 +147,6 @@ inception: 1525-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Prussia) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Prussia](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.md) 

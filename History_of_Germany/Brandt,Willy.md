@@ -172,8 +172,6 @@ ISNI:
 > [Wikipedia](https://en.wikipedia.org/wiki/Willy%20Brandt) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Brandt,Willy](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Brandt,Willy.md) 

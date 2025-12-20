@@ -126,8 +126,6 @@ Commons_gallery: Wilhelm I., Deutscher Kaiser
 > [Wikipedia](https://en.wikipedia.org/wiki/Wilhelm%20I) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [William_I,German_Emperor](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.md) 

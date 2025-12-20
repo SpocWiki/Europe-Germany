@@ -114,9 +114,6 @@ ISNI: "0000000072659681"
 > [Wikipedia](https://en.wikipedia.org/wiki/Olaf%20Scholz) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Scholz,Olaf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.md) 

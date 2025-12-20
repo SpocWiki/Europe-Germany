@@ -47,9 +47,6 @@ The Train Connection reduced the Travel Time from 10 days to 2.
 |Dresdner Bank|1872|Banking|N/A (Merged)|N/A|Dresden / Frankfurt|Top 3 German bank pre-WWI|
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [1871-Gründerzeit+1873](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.md) 

@@ -29,8 +29,6 @@ described_at_URL:
 > [Wikipedia](https://en.wikipedia.org/wiki/D%C3%BCsseldorf%20School%20of%20painting) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Düsseldorf_School_of_Painting](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.md) 

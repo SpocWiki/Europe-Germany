@@ -144,9 +144,6 @@ Krugosvet_article: istoriya/HONEKKER_ERIH.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Erich%20Honecker) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Honecker,Erich](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Honecker,Erich.md) 

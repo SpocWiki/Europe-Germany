@@ -90,9 +90,6 @@ Commons_category: Kunstakademie Düsseldorf
 > [Wikipedia](https://en.wikipedia.org/wiki/Kunstakademie%20D%C3%BCsseldorf) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kunstakademie_Düsseldorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf.md) 

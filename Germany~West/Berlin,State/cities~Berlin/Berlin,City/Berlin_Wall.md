@@ -124,8 +124,6 @@ Krugosvet_article: istoriya/BERLINSKAYA_STENA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Berlin%20Wall) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Berlin_Wall](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.md) 

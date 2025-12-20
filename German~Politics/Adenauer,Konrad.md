@@ -223,8 +223,6 @@ birth_name: Conrad Hermann Joseph Adenauer
 > [Wikipedia](https://en.wikipedia.org/wiki/Konrad%20Adenauer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Adenauer,Konrad](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Adenauer,Konrad.md) 

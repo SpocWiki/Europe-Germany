@@ -24,8 +24,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Humboldt%20University%20of%20Berlin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Humboldt_University_of_Berlin](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Humboldt_University_of_Berlin.md) 

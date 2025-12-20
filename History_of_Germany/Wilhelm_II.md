@@ -208,8 +208,6 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/31679
 > [Wikipedia](https://en.wikipedia.org/wiki/Wilhelm%20II) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Wilhelm_II](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.md) 

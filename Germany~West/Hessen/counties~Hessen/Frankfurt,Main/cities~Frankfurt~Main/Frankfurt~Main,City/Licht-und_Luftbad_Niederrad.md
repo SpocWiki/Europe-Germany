@@ -30,9 +30,6 @@ maxZoom: 18
 > [Wikipedia](https://de.wikipedia.org/wiki/Licht-%20und%20Luftbad%20Niederrad) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Licht-und_Luftbad_Niederrad](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Licht-und_Luftbad_Niederrad.md) 

@@ -15,8 +15,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Cologne%20(region)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Köln,County](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County.md) 

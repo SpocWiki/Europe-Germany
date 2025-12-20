@@ -90,9 +90,6 @@ X_Twitter_username: goetheuni
 > [Wikipedia](https://en.wikipedia.org/wiki/Goethe%20University%20Frankfurt) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Goethe_University,Frankfurt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Goethe_University,Frankfurt.md) 
