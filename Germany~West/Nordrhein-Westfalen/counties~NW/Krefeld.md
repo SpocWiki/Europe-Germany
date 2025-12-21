@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Krefeld
 confidential: public
 isDeleted: false
 location:
-- 51.33
-- 6.56
+  - 51.33
+  - 6.56
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31628
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wermelskirchen
 confidential: public
 isDeleted: false
 location:
-- 51.13
-- 7.22
+  - 51.13
+  - 7.22
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35550
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

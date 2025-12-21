@@ -1,14 +1,16 @@
 ---
+aliases:
+  - T-Mühlberg
 location:
-- 50.10188
-- 8.699874
+  - 50.10188
+  - 8.699874
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
-- 
+  - geo/station/tram
+  - ''
 type: Station
 ---
 

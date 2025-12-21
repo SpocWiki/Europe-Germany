@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Frankfurt-Rödelheim
 location:
-- 50.12439
-- 8.607265
+  - 50.12439
+  - 8.607265
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Mützenich,Monschau
 confidential: public
 isDeleted: false
 location:
-- 50.57
-- 6.22
+  - 50.57
+  - 6.22
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32686
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

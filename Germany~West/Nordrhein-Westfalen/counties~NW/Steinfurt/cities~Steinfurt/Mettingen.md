@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Mettingen
 confidential: public
 isDeleted: false
 location:
-- 52.32
-- 7.78
+  - 52.32
+  - 7.78
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32444
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

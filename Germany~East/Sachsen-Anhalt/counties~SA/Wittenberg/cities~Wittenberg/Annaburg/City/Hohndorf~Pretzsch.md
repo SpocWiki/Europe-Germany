@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hohndorf~Pretzsch
 confidential: public
 isDeleted: false
 location:
-- 51.7
-- 12.92
+  - 51.7
+  - 12.92
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30994
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

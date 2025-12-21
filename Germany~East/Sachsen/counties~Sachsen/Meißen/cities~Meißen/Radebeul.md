@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Radebeul
 confidential: public
 isDeleted: false
 location:
-- 51.1
-- 13.67
+  - 51.1
+  - 13.67
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33600
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

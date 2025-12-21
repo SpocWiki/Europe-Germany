@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Bergen~Vogtland
 confidential: public
 isDeleted: false
 location:
-- 50.45
-- 12.28
+  - 50.45
+  - 12.28
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29120
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

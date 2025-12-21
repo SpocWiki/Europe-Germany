@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Sonnenberg
 confidential: public
 isDeleted: false
 location:
-- 51.77
-- 10.52
+  - 51.77
+  - 10.52
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34370
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

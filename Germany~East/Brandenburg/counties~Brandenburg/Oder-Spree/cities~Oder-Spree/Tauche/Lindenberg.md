@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lindenberg
 confidential: public
 isDeleted: false
 location:
-- 52.22
-- 14.13
+  - 52.22
+  - 14.13
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32027
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

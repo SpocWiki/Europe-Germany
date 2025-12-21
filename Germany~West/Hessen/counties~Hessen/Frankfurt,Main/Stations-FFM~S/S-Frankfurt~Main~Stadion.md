@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Frankfurt~Main~Stadion
 location:
-- 50.06805
-- 8.633056
+  - 50.06805
+  - 8.633056
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

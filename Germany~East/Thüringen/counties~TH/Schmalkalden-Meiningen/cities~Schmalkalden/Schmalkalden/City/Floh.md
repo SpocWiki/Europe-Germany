@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Floh
 confidential: public
 isDeleted: false
 location:
-- 50.75
-- 10.47
+  - 50.75
+  - 10.47
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30192
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

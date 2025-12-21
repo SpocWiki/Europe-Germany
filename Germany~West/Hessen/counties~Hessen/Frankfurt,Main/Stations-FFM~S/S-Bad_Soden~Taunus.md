@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Bad_Soden~Taunus
+  - S-Bad Soden~Taunus
 location:
-- 50.14243
-- 8.499722
+  - 50.14243
+  - 8.499722
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station
+  - geo/station
 type: Station
 ---
 

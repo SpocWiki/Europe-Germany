@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Darmstadt-Arheilgen
 location:
-- 49.91083
-- 8.657222
+  - 49.91083
+  - 8.657222
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

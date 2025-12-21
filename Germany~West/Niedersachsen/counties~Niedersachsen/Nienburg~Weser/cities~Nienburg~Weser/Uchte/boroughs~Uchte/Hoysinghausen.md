@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hoysinghausen
 confidential: public
 isDeleted: false
 location:
-- 52.53
-- 8.9
+  - 52.53
+  - 8.9
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31042
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

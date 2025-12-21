@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Grossbreitenbach
 confidential: public
 isDeleted: false
 location:
-- 50.58
-- 11.02
+  - 50.58
+  - 11.02
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30611
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

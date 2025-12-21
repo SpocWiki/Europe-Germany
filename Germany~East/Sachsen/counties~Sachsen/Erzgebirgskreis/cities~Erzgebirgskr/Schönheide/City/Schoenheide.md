@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Schoenheide
 confidential: public
 isDeleted: false
 location:
-- 50.5
-- 12.52
+  - 50.5
+  - 12.52
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34145
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

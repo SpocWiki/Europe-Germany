@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Eschenheimer_Tor
+  - U-Eschenheimer Tor
 location:
-- 50.1175
-- 8.679306
+  - 50.1175
+  - 8.679306
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

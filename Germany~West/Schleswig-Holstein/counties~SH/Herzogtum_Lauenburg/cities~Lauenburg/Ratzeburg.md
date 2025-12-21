@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Ratzeburg
 confidential: public
 isDeleted: false
 location:
-- 53.7
-- 10.77
+  - 53.7
+  - 10.77
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33649
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

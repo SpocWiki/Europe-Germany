@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Tillystraße
 location:
-- 50.10189
-- 8.559573
+  - 50.10189
+  - 8.559573
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

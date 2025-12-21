@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Renwertshausen
 confidential: public
 isDeleted: false
 location:
-- 50.45
-- 10.43
+  - 50.45
+  - 10.43
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33713
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

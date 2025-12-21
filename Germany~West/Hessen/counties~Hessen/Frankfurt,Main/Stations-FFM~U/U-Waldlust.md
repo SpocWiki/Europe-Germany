@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Waldlust
 location:
-- 50.21511
-- 8.544188
+  - 50.21511
+  - 8.544188
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

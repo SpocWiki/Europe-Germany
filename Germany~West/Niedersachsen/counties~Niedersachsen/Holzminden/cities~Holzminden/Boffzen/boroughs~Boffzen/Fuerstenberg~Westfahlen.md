@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Fuerstenberg~Westfahlen
 confidential: public
 isDeleted: false
 location:
-- 51.73
-- 9.4
+  - 51.73
+  - 9.4
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30320
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

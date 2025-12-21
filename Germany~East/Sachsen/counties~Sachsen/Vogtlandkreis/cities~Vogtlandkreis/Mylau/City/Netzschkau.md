@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Netzschkau
 confidential: public
 isDeleted: false
 location:
-- 50.62
-- 12.27
+  - 50.62
+  - 12.27
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32788
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

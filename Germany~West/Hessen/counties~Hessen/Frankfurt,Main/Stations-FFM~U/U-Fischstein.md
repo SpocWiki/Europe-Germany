@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Fischstein
 location:
-- 50.12946
-- 8.624064
+  - 50.12946
+  - 8.624064
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

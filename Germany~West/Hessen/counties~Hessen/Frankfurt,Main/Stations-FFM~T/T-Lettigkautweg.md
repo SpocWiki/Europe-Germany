@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Lettigkautweg
 location:
-- 50.09977
-- 8.703457
+  - 50.09977
+  - 8.703457
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

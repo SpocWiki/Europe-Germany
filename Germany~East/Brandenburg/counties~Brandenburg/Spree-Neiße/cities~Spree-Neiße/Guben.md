@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Guben
 confidential: public
 isDeleted: false
 location:
-- 51.95
-- 14.73
+  - 51.95
+  - 14.73
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30631
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Arnsberg
 confidential: public
 isDeleted: false
 location:
-- 51.4
-- 8.07
+  - 51.4
+  - 8.07
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 28878
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

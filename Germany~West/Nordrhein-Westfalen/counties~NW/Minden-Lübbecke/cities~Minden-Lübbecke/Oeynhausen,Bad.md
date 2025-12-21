@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Oeynhausen,Bad
 confidential: public
 isDeleted: false
 location:
-- 52.22
-- 8.82
+  - 52.22
+  - 8.82
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33069
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

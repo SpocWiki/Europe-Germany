@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Oldenburg-Nieders
 confidential: public
 isDeleted: false
 location:
-- 53.13
-- 8.22
+  - 53.13
+  - 8.22
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33089
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

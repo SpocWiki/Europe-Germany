@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Willy-Brandt-Platz
 location:
-- 50.1088
-- 8.673368
+  - 50.1088
+  - 8.673368
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

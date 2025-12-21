@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Harthweg
 location:
-- 50.08102
-- 8.594564
+  - 50.08102
+  - 8.594564
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Voigtstedt
 confidential: public
 isDeleted: false
 location:
-- 51.4
-- 11.32
+  - 51.4
+  - 11.32
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35341
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

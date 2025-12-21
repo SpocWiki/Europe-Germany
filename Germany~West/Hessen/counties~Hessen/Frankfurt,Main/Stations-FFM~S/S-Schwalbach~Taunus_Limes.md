@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Schwalbach~Taunus_Limes
+  - S-Schwalbach~Taunus Limes
 location:
-- 50.15435
-- 8.52797
+  - 50.15435
+  - 8.52797
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hadamar
 confidential: public
 isDeleted: false
 location:
-- 50.45
-- 8.05
+  - 50.45
+  - 8.05
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30691
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

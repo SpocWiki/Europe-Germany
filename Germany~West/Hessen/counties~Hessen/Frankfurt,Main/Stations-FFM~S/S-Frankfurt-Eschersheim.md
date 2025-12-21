@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Frankfurt-Eschersheim
 location:
-- 50.15821
-- 8.655016
+  - 50.15821
+  - 8.655016
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

@@ -2,8 +2,9 @@
 aliases:
   - Preußen
   - Preussen
+  - Prussia
 has_id_wikidata: Q38872
-U_S_National_Archives_Identifier: "10046237"
+U_S_National_Archives_Identifier: 10046237
 Provenio_UUID: a00b5aa1-9bb4-4bfa-9e21-05f3ed202320
 UMLS_CUI: C2350568
 MeSH_tree_code: Z01.586.772
@@ -26,59 +27,59 @@ demonym:
   - Prusinja
   - porosz
   - Preusse
-named_after: "[[_Standards/WikiData/WD~Old_Prussians,109073]]"
+named_after: '[[_Standards/WikiData/WD~Old_Prussians,109073]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Duchy_of_Prussia,153091]]"
-  - "[[_Standards/WikiData/WD~Free_State_of_Prussia,161036]]"
-  - "[[_Standards/WikiData/WD~Prusy,394368]]"
-  - "[[_Standards/WikiData/WD~Prusia,766573]]"
-  - "[[_Standards/WikiData/WD~Prussia,918723]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]"
+  - '[[_Standards/WikiData/WD~Duchy_of_Prussia,153091]]'
+  - '[[_Standards/WikiData/WD~Free_State_of_Prussia,161036]]'
+  - '[[_Standards/WikiData/WD~Prusy,394368]]'
+  - '[[_Standards/WikiData/WD~Prusia,766573]]'
+  - '[[_Standards/WikiData/WD~Prussia,918723]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
 anthem:
-  - "[[_Standards/WikiData/WD~Heil_dir_im_Siegerkranz,163797]]"
-  - "[[_Standards/WikiData/WD~Borussia,894272]]"
-  - "[[_Standards/WikiData/WD~Preußenlied,1928655]]"
-patron_saint: "[[_Standards/WikiData/WD~Jutta_of_Kulmsee,273705]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Prussia,573426]]"
-motto: "[[_Standards/WikiData/WD~Gott_mit_uns,641033]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Prussia,687378]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
+  - '[[_Standards/WikiData/WD~Heil_dir_im_Siegerkranz,163797]]'
+  - '[[_Standards/WikiData/WD~Borussia,894272]]'
+  - '[[_Standards/WikiData/WD~Preußenlied,1928655]]'
+patron_saint: '[[_Standards/WikiData/WD~Jutta_of_Kulmsee,273705]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Prussia,573426]]'
+motto: '[[_Standards/WikiData/WD~Gott_mit_uns,641033]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Prussia,687378]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
 capital:
-  - "[[_Standards/WikiData/WD~Königsberg,4120832]]"
-  - "[[_Standards/WikiData/WD~Berlin,64]]"
+  - '[[_Standards/WikiData/WD~Königsberg,4120832]]'
+  - '[[_Standards/WikiData/WD~Berlin,64]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Germany,6871603]]"
-  - "[[_Standards/WikiData/WD~WikiProject_European_history,8486525]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Military_history,8486702]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Former_countries,15304996]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Lutheranism,21830311]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Prussia,21830668]]"
-has_list: "[[_Standards/WikiData/WD~Q11335969,11335969]]"
-category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q32641757,32641757]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Prussia,106020346]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Germany,6871603]]'
+  - '[[_Standards/WikiData/WD~WikiProject_European_history,8486525]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Military_history,8486702]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Former_countries,15304996]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Lutheranism,21830311]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Prussia,21830668]]'
+has_list: '[[_Standards/WikiData/WD~Q11335969,11335969]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q32641757,32641757]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Prussia,106020346]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Polish,809]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
-  - "[[_Standards/WikiData/WD~Old_Prussian,35501]]"
+  - '[[_Standards/WikiData/WD~Polish,809]]'
+  - '[[_Standards/WikiData/WD~French,150]]'
+  - '[[_Standards/WikiData/WD~German,188]]'
+  - '[[_Standards/WikiData/WD~Old_Prussian,35501]]'
 basic_form_of_government:
-  - "[[_Standards/WikiData/WD~republic,7270]]"
-  - "[[_Standards/WikiData/WD~monarchy,7269]]"
+  - '[[_Standards/WikiData/WD~republic,7270]]'
+  - '[[_Standards/WikiData/WD~monarchy,7269]]'
 replaced_by:
-  - "[[_Standards/WikiData/WD~Nazi_Germany,7318]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Protestantism,23540]]"
+  - '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
+  - '[[_Standards/WikiData/WD~Germany,183]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Protestantism,23540]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Austria_Hungary,28513]]"
-  - "[[_Standards/WikiData/WD~Belgium,31]]"
-  - "[[_Standards/WikiData/WD~Poland,36]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-official_language: "[[_Standards/WikiData/WD~German,188]]"
-country: "[[_Standards/WikiData/WD~Prussia,38872]]"
-OmegaWiki_Defined_Meaning: "991716"
+  - '[[_Standards/WikiData/WD~Austria_Hungary,28513]]'
+  - '[[_Standards/WikiData/WD~Belgium,31]]'
+  - '[[_Standards/WikiData/WD~Poland,36]]'
+  - '[[_Standards/WikiData/WD~France,142]]'
+  - '[[_Standards/WikiData/WD~Russia,159]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+official_language: '[[_Standards/WikiData/WD~German,188]]'
+country: '[[_Standards/WikiData/WD~Prussia,38872]]'
+OmegaWiki_Defined_Meaning: 991716
 area: 297007
 BHCL_UUID:
   - 9b72e42f-c4e5-40b1-852b-056b1dcccd54
@@ -89,7 +90,7 @@ population: 41915040
 Commons_category: Prussia
 Commons_gallery: Prussia
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20the%20Kingdom%20of%20Prussia%201873-1918.svg
-ISNI: "0000000111988585"
+ISNI: 0000000111988585
 dissolved_abolished_or_demolished_date:
   - 1947-02-25T00:00:00Z
   - 1933-01-01T00:00:00Z

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Heidersbach
 confidential: public
 isDeleted: false
 location:
-- 50.63
-- 10.75
+  - 50.63
+  - 10.75
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30836
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

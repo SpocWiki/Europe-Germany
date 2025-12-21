@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Hauptbahnhof_Südseite
+  - S-Hauptbahnhof Südseite
 location:
-- 50.10567
-- 8.663985
+  - 50.10567
+  - 8.663985
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

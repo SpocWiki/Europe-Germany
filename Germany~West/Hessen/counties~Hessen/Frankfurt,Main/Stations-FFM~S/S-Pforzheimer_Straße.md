@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Pforzheimer_Straße
+  - S-Pforzheimer Straße
 location:
-- 50.10435
-- 8.662929
+  - 50.10435
+  - 8.662929
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station
+  - geo/station
 type: Station
 ---
 

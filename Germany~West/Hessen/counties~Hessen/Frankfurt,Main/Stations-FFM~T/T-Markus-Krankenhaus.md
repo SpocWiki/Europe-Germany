@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Markus-Krankenhaus
 location:
-- 50.13662
-- 8.645873
+  - 50.13662
+  - 8.645873
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

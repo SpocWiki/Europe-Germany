@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wengern,Ruhr
 confidential: public
 isDeleted: false
 location:
-- 51.4
-- 7.33
+  - 51.4
+  - 7.33
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35540
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Frielendorf
 confidential: public
 isDeleted: false
 location:
-- 50.97
-- 9.33
+  - 50.97
+  - 9.33
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30291
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Frankfurt~Main~Süd
 location:
-- 50.09945
-- 8.686111
+  - 50.09945
+  - 8.686111
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

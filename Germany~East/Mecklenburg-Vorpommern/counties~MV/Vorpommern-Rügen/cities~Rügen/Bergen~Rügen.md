@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Bergen~Rügen
 confidential: public
 isDeleted: false
 location:
-- 54.42
-- 13.43
+  - 54.42
+  - 13.43
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29119
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

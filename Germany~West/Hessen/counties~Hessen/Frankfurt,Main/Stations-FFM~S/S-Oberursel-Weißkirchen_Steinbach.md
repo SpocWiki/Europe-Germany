@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Oberursel-Weißkirchen_Steinbach
+  - S-Oberursel-Weißkirchen Steinbach
 location:
-- 50.17324
-- 8.586918
+  - 50.17324
+  - 8.586918
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

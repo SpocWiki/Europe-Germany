@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Freiburg~Hamburg
 confidential: public
 isDeleted: false
 location:
-- 53.83
-- 9.3
+  - 53.83
+  - 9.3
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30251
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

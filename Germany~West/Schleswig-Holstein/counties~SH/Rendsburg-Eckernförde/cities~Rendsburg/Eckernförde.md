@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Eckernförde
 confidential: public
 isDeleted: false
 location:
-- 54.47
-- 9.83
+  - 54.47
+  - 9.83
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29963
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

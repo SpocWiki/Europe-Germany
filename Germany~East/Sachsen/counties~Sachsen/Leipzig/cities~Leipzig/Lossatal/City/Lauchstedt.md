@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lauchstedt
 confidential: public
 isDeleted: false
 location:
-- 51.38
-- 12.87
+  - 51.38
+  - 12.87
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31869
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

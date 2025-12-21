@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Neuer_jüdischer_Friedhof
+  - U-Neuer jüdischer Friedhof
 location:
-- 50.13881
-- 8.684864
+  - 50.13881
+  - 8.684864
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

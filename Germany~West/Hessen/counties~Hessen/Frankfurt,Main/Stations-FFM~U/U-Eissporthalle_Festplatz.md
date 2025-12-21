@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Eissporthalle_Festplatz
+  - U-Eissporthalle Festplatz
 location:
-- 50.1236
-- 8.71685
+  - 50.1236
+  - 8.71685
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

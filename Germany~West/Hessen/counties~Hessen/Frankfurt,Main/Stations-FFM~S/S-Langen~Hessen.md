@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Langen~Hessen
 location:
-- 49.99345
-- 8.656905
+  - 49.99345
+  - 8.656905
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

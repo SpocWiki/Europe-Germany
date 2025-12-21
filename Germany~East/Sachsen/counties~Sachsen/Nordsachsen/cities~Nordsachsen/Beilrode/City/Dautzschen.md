@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Dautzschen
 confidential: public
 isDeleted: false
 location:
-- 51.63
-- 13.02
+  - 51.63
+  - 13.02
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29726
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

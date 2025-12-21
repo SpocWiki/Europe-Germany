@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lüdinghausen
 confidential: public
 isDeleted: false
 location:
-- 51.78
-- 7.45
+  - 51.78
+  - 7.45
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32175
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Frankfurt-Berkersheim
 location:
-- 50.17222
-- 8.6975
+  - 50.17222
+  - 8.6975
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

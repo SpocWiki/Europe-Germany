@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Cranzahl
 confidential: public
 isDeleted: false
 location:
-- 50.5
-- 13.03
+  - 50.5
+  - 13.03
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29670
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Kriftel
 location:
-- 50.08278
-- 8.466666
+  - 50.08278
+  - 8.466666
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

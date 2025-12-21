@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hattingen
 confidential: public
 isDeleted: false
 location:
-- 51.4
-- 7.18
+  - 51.4
+  - 7.18
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30801
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

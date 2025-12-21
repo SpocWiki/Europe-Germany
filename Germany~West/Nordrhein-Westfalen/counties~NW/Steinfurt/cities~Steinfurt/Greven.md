@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Greven
 confidential: public
 isDeleted: false
 location:
-- 52.1
-- 7.62
+  - 52.1
+  - 7.62
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30572
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

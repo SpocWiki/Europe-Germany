@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Gütersloh-city
 confidential: public
 isDeleted: false
 location:
-- 51.9
-- 8.38
+  - 51.9
+  - 8.38
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30667
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

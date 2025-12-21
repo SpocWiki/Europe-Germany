@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Weissensee
 confidential: public
 isDeleted: false
 location:
-- 51.2
-- 11.07
+  - 51.2
+  - 11.07
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35516
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Bad_Vilbel
+  - S-Bad Vilbel
 location:
-- 50.1775
-- 8.735278
+  - 50.1775
+  - 8.735278
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

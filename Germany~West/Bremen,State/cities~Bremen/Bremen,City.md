@@ -1,92 +1,93 @@
 ---
 aliases:
-- Bremen
+  - Bremen
+  - Bremen,City
+has_id_wikidata: Q1209
 archives_at:
-- "[[_Standards/WikiData/WD~State Archives of Bremen]]"
+  - '[[_Standards/WikiData/WD~State Archives of Bremen]]'
 area: 419.38
 capital: '[[_Standards/WikiData/WD~Bremen]]'
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Bremen]]"
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Bremen%20greater%20coat%20of%20arms.svg"
-Commons_category: "Bremen (state)"
+coat_of_arms: '[[_Standards/WikiData/WD~coat of arms of Bremen]]'
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Bremen%20greater%20coat%20of%20arms.svg
+Commons_category: Bremen (state)
 confidential: public
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Bremerhaven]]'
-- '[[_Standards/WikiData/WD~Bremen]]'
-coordinate_location: "Point(8.733333333 53.133333333)"
+  - '[[_Standards/WikiData/WD~Bremerhaven]]'
+  - '[[_Standards/WikiData/WD~Bremen]]'
+coordinate_location: Point(8.733333333 53.133333333)
 country: '[[_Standards/WikiData/WD~Germany]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890)]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition]]'
+  - '[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890)]]'
 Dewey_Decimal_Classification: 2--4352
 different_from:
-- '[[_Standards/WikiData/WD~Brema]]'
-- '[[_Standards/WikiData/WD~Bremen]]'
-economy_of_topic: "[[_Standards/WikiData/WD~economy of the Free Hanseatic City of Bremen]]"
-enclave_within: "[[_Standards/WikiData/WD~Lower Saxony]]"
+  - '[[_Standards/WikiData/WD~Brema]]'
+  - '[[_Standards/WikiData/WD~Bremen]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy of the Free Hanseatic City of Bremen]]'
+enclave_within: '[[_Standards/WikiData/WD~Lower Saxony]]'
 Facebook_username: Bremen
 FIPS_10_4_countries_and_regions_: GM03
-flag: "[[_Standards/WikiData/WD~flag of Bremen]]"
-flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bremen.svg"
-geoshape: "http://commons.wikimedia.org/data/main/Data:Bremen.map"
+flag: '[[_Standards/WikiData/WD~flag of Bremen]]'
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bremen.svg
+geoshape: http://commons.wikimedia.org/data/main/Data:Bremen.map
 German_regional_key: 4
 HASC: DE.HB
-has_id_wikidata: Q1209
 has_time_started: 1646-01-01
-head_of_government: "[[_Standards/WikiData/WD~Andreas Bovenschulte]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Constitutional Court of the Free Hanseatic City of Bremen]]"
-highest_point: "[[_Standards/WikiData/WD~Friedehorst Park]]"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Bremen%20aerial%20view%209.JPG"
-impressum_URL: "https://www.bremen.de/impressum-und-kontakt"
+head_of_government: '[[_Standards/WikiData/WD~Andreas Bovenschulte]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Constitutional Court of the Free Hanseatic City of Bremen]]'
+highest_point: '[[_Standards/WikiData/WD~Friedehorst Park]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Bremen%20aerial%20view%209.JPG
+impressum_URL: https://www.bremen.de/impressum-und-kontakt
 inception: 1646-01-01
 Instagram_username: bremermoment
 instance_of:
-- '[[_Standards/WikiData/WD~city-state]]'
-- "[[_Standards/WikiData/WD~federated state of Germany]]"
+  - '[[_Standards/WikiData/WD~city-state]]'
+  - '[[_Standards/WikiData/WD~federated state of Germany]]'
 isDeleted: false
 ISNI:
-- 115440576
-- 417994056
+  - 115440576
+  - 417994056
 ISO_3166_2_code: DE-HB
-legislative_body: "[[_Standards/WikiData/WD~Bürgerschaft of Bremen]]"
+legislative_body: '[[_Standards/WikiData/WD~Bürgerschaft of Bremen]]'
 licence_plate_code: HB
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Bremen/Oldenburg Metropolitan Region]]"
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Bremen/Oldenburg Metropolitan Region]]'
 located_in_or_next_to_body_of_water:
-- '[[_Standards/WikiData/WD~Weser]]'
-- "[[_Standards/WikiData/WD~North Sea]]"
+  - '[[_Standards/WikiData/WD~Weser]]'
+  - '[[_Standards/WikiData/WD~North Sea]]'
 located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Germany]]'
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~UTC+01:00]]"
-- "[[_Standards/WikiData/WD~UTC+02:00]]"
+  - '[[_Standards/WikiData/WD~UTC+01:00]]'
+  - '[[_Standards/WikiData/WD~UTC+02:00]]'
 location:
-- 53.08
-- 8.81
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Bremen%20in%20Germany.svg"
+  - 53.08
+  - 8.81
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Bremen%20in%20Germany.svg
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 native_label:
-- "Freie Hansestadt Bremen"
+  - Freie Hansestadt Bremen
 NUTS_code:
-- DE5
-- DE50
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~mayor of Bremen]]"
+  - DE5
+  - DE50
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~mayor of Bremen]]'
 official_name:
-- "Freie Hansestadt Bremen"
-official_website: "https://www.bremen.de/"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Vegesack%20banner%20Waterfront.jpg"
+  - Freie Hansestadt Bremen
+official_website: https://www.bremen.de/
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Vegesack%20banner%20Waterfront.jpg
 Pinterest_username: bremen_de
 PM20_geo_code: A10(1)
 population: 661000
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Bremen.ogg"
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Bremen.ogg
 shares_border_with:
-- "[[_Standards/WikiData/WD~Lower Saxony]]"
+  - '[[_Standards/WikiData/WD~Lower Saxony]]'
 SpocWebEntityId: 29332
 tags:
-- geo/City
+  - geo/City
 TikTok_username:
-- visitbremen
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal:Bremen]]"
+  - visitbremen
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal:Bremen]]'
 type: City
 unemployment_rate: 11.1
 U_S_National_Archives_Identifier: 10044975

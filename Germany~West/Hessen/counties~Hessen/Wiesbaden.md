@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wiesbaden
 confidential: public
 isDeleted: false
 location:
-- 50.08
-- 8.24
+  - 50.08
+  - 8.24
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35599
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Groß_Karben
+  - S-Groß Karben
 location:
-- 50.23755
-- 8.771467
+  - 50.23755
+  - 8.771467
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Gwinnerstraße
 location:
-- 50.13384
-- 8.74124
+  - 50.13384
+  - 8.74124
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

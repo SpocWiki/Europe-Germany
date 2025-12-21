@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Michelstadt
 confidential: public
 isDeleted: false
 location:
-- 49.67
-- 9.03
+  - 49.67
+  - 9.03
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32462
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

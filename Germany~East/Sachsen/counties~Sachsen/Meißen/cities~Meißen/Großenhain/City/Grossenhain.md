@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Grossenhain
 confidential: public
 isDeleted: false
 location:
-- 51.3
-- 13.55
+  - 51.3
+  - 13.55
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30595
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

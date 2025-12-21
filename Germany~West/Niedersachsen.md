@@ -1,155 +1,156 @@
 ---
 aliases:
-- "Lower Saxony"
-archives_at: "[[_Standards/WikiData/WD~Lower Saxony State Archive]]"
+  - Lower Saxony
+  - Niedersachsen
+has_id_wikidata: Q1197
+archives_at: '[[_Standards/WikiData/WD~Lower Saxony State Archive]]'
 area: 47614.07
 award_received: '[[_Standards/WikiData/WD~BigBrotherAwards]]'
 BHCL_UUID:
-- 11229295-4449-4948-ba31-6a29878bb56e
+  - 11229295-4449-4948-ba31-6a29878bb56e
 capital: '[[_Standards/WikiData/WD~Hanover]]'
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Lower Saxony]]"
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Lower%20Saxony.svg"
-Commons_category: "Lower Saxony"
+coat_of_arms: '[[_Standards/WikiData/WD~coat of arms of Lower Saxony]]'
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Lower%20Saxony.svg
+Commons_category: Lower Saxony
 Commons_gallery: Niedersachsen
 Confidential: public
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Brunswick]]'
-- '[[_Standards/WikiData/WD~Osnabrück]]'
-- '[[_Standards/WikiData/WD~Oldenburg]]'
-- '[[_Standards/WikiData/WD~Wolfsburg]]'
-- '[[_Standards/WikiData/WD~Salzgitter]]'
-- '[[_Standards/WikiData/WD~Wilhelmshaven]]'
-- '[[_Standards/WikiData/WD~Delmenhorst]]'
-- '[[_Standards/WikiData/WD~Emden]]'
-- '[[_Standards/WikiData/WD~Cuxhaven]]'
-- '[[_Standards/WikiData/WD~Stade]]'
-- '[[_Standards/WikiData/WD~Harburg]]'
-- '[[_Standards/WikiData/WD~Lüneburg]]'
-- "[[_Standards/WikiData/WD~Uelzen District]]"
-- "[[_Standards/WikiData/WD~Lüchow-Dannenberg District]]"
-- '[[_Standards/WikiData/WD~Celle]]'
-- '[[_Standards/WikiData/WD~Heidekreis]]'
-- "[[_Standards/WikiData/WD~Rotenburg (Wümme)]]"
-- '[[_Standards/WikiData/WD~Osterholz]]'
-- '[[_Standards/WikiData/WD~Verden]]'
-- '[[_Standards/WikiData/WD~Wittmund]]'
-- '[[_Standards/WikiData/WD~Aurich]]'
-- '[[_Standards/WikiData/WD~Leer]]'
-- '[[_Standards/WikiData/WD~Friesland]]'
-- "[[_Standards/WikiData/WD~County of Bentheim]]"
-- '[[_Standards/WikiData/WD~Emsland]]'
-- '[[_Standards/WikiData/WD~Osnabrück]]'
-- '[[_Standards/WikiData/WD~Vechta]]'
-- '[[_Standards/WikiData/WD~Ammerland]]'
-- '[[_Standards/WikiData/WD~Cloppenburg]]'
-- '[[_Standards/WikiData/WD~Wesermarsch]]'
-- '[[_Standards/WikiData/WD~Oldenburg]]'
-- "[[_Standards/WikiData/WD~Nienburg an der Weser]]"
-- '[[_Standards/WikiData/WD~Diepholz]]'
-- "[[_Standards/WikiData/WD~Hanover region]]"
-- '[[_Standards/WikiData/WD~Schaumburg]]'
-- '[[_Standards/WikiData/WD~Hamelin-Pyrmont]]'
-- '[[_Standards/WikiData/WD~Holzminden]]'
-- '[[_Standards/WikiData/WD~Hildesheim]]'
-- '[[_Standards/WikiData/WD~Northeim]]'
-- "[[_Standards/WikiData/WD~Göttingen district]]"
-- '[[_Standards/WikiData/WD~Goslar]]'
-- '[[_Standards/WikiData/WD~Wolfenbüttel]]'
-- "[[_Standards/WikiData/WD~Helmstedt District]]"
-- '[[_Standards/WikiData/WD~Peine]]'
-- '[[_Standards/WikiData/WD~Gifhorn]]'
-coordinates_of_easternmost_point: "Point(11.598166666 53.034555555)"
-coordinates_of_northernmost_point: "Point(8.67875 53.892277777)"
-coordinates_of_southernmost_point: "Point(9.732444444 51.293472222)"
-coordinates_of_westernmost_point: "Point(6.638638888 53.591944444)"
-coordinate_location: "Point(9.393055555 52.756111111)"
+  - '[[_Standards/WikiData/WD~Brunswick]]'
+  - '[[_Standards/WikiData/WD~Osnabrück]]'
+  - '[[_Standards/WikiData/WD~Oldenburg]]'
+  - '[[_Standards/WikiData/WD~Wolfsburg]]'
+  - '[[_Standards/WikiData/WD~Salzgitter]]'
+  - '[[_Standards/WikiData/WD~Wilhelmshaven]]'
+  - '[[_Standards/WikiData/WD~Delmenhorst]]'
+  - '[[_Standards/WikiData/WD~Emden]]'
+  - '[[_Standards/WikiData/WD~Cuxhaven]]'
+  - '[[_Standards/WikiData/WD~Stade]]'
+  - '[[_Standards/WikiData/WD~Harburg]]'
+  - '[[_Standards/WikiData/WD~Lüneburg]]'
+  - '[[_Standards/WikiData/WD~Uelzen District]]'
+  - '[[_Standards/WikiData/WD~Lüchow-Dannenberg District]]'
+  - '[[_Standards/WikiData/WD~Celle]]'
+  - '[[_Standards/WikiData/WD~Heidekreis]]'
+  - '[[_Standards/WikiData/WD~Rotenburg (Wümme)]]'
+  - '[[_Standards/WikiData/WD~Osterholz]]'
+  - '[[_Standards/WikiData/WD~Verden]]'
+  - '[[_Standards/WikiData/WD~Wittmund]]'
+  - '[[_Standards/WikiData/WD~Aurich]]'
+  - '[[_Standards/WikiData/WD~Leer]]'
+  - '[[_Standards/WikiData/WD~Friesland]]'
+  - '[[_Standards/WikiData/WD~County of Bentheim]]'
+  - '[[_Standards/WikiData/WD~Emsland]]'
+  - '[[_Standards/WikiData/WD~Osnabrück]]'
+  - '[[_Standards/WikiData/WD~Vechta]]'
+  - '[[_Standards/WikiData/WD~Ammerland]]'
+  - '[[_Standards/WikiData/WD~Cloppenburg]]'
+  - '[[_Standards/WikiData/WD~Wesermarsch]]'
+  - '[[_Standards/WikiData/WD~Oldenburg]]'
+  - '[[_Standards/WikiData/WD~Nienburg an der Weser]]'
+  - '[[_Standards/WikiData/WD~Diepholz]]'
+  - '[[_Standards/WikiData/WD~Hanover region]]'
+  - '[[_Standards/WikiData/WD~Schaumburg]]'
+  - '[[_Standards/WikiData/WD~Hamelin-Pyrmont]]'
+  - '[[_Standards/WikiData/WD~Holzminden]]'
+  - '[[_Standards/WikiData/WD~Hildesheim]]'
+  - '[[_Standards/WikiData/WD~Northeim]]'
+  - '[[_Standards/WikiData/WD~Göttingen district]]'
+  - '[[_Standards/WikiData/WD~Goslar]]'
+  - '[[_Standards/WikiData/WD~Wolfenbüttel]]'
+  - '[[_Standards/WikiData/WD~Helmstedt District]]'
+  - '[[_Standards/WikiData/WD~Peine]]'
+  - '[[_Standards/WikiData/WD~Gifhorn]]'
+coordinates_of_easternmost_point: Point(11.598166666 53.034555555)
+coordinates_of_northernmost_point: Point(8.67875 53.892277777)
+coordinates_of_southernmost_point: Point(9.732444444 51.293472222)
+coordinates_of_westernmost_point: Point(6.638638888 53.591944444)
+coordinate_location: Point(9.393055555 52.756111111)
 country: '[[_Standards/WikiData/WD~Germany]]'
 detail_map:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Lower%20Saxony%2C%20administrative%20divisions%20-%20de%20-%20colored.svg"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lower%20Saxony%2C%20administrative%20divisions%20-%20de%20-%20colored.svg
 Dewey_Decimal_Classification: 2--4359
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Lower Saxony]]"
+economy_of_topic: '[[_Standards/WikiData/WD~economy of Lower Saxony]]'
 elevation_above_sea_level: 13
 Facebook_username: Niedersachsen
 FIPS_10_4_countries_and_regions_: GM06
-flag: "[[_Standards/WikiData/WD~flag of Lower Saxony]]"
-flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lower%20Saxony.svg"
-geoshape: "http://commons.wikimedia.org/data/main/Data:Niedersachsen.map"
+flag: '[[_Standards/WikiData/WD~flag of Lower Saxony]]'
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lower%20Saxony.svg
+geoshape: http://commons.wikimedia.org/data/main/Data:Niedersachsen.map
 German_regional_key: 03
 HASC:
-- DE.NI
-has_id_wikidata: Q1197
-has_part_s_: "[[_Standards/WikiData/WD~Brunswick Land]]"
+  - DE.NI
+has_part_s_: '[[_Standards/WikiData/WD~Brunswick Land]]'
 has_time_started: 1946-11-01
-head_of_government: "[[_Standards/WikiData/WD~Stephan Weil]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Constitutional Court of Lower Saxony]]"
+head_of_government: '[[_Standards/WikiData/WD~Stephan Weil]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Constitutional Court of Lower Saxony]]'
 highest_point: '[[_Standards/WikiData/WD~Wurmberg]]'
 icon: Flag_of_Lower_Saxony
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/NASA%20World%20Wind%20-%20Ostfriesland.png"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/NASA%20World%20Wind%20-%20Ostfriesland.png
 Image_Archive_Herder_Institute: Q1197
 inception: 1946-11-01
 Instagram_username: niedersachsen.de
 instance_of:
-- "[[_Standards/WikiData/WD~federated state of Germany]]"
+  - '[[_Standards/WikiData/WD~federated state of Germany]]'
 isDeleted: false
 ISO3166_2: DE-NI
 ISO_3166_2_code: DE-NI
 language_used:
-- "[[_Standards/WikiData/WD~East Frisian Low Saxon]]"
-- "[[_Standards/WikiData/WD~Standard High German]]"
-- "[[_Standards/WikiData/WD~Low German]]"
-- "[[_Standards/WikiData/WD~Saterland Frisian]]"
+  - '[[_Standards/WikiData/WD~East Frisian Low Saxon]]'
+  - '[[_Standards/WikiData/WD~Standard High German]]'
+  - '[[_Standards/WikiData/WD~Low German]]'
+  - '[[_Standards/WikiData/WD~Saterland Frisian]]'
 legislative_body:
-- "[[_Standards/WikiData/WD~Landtag of Lower Saxony]]"
+  - '[[_Standards/WikiData/WD~Landtag of Lower Saxony]]'
 Libris_URI: b8nqpl8v3k887x4
 located_in_or_next_to_body_of_water:
-- "[[_Standards/WikiData/WD~German Bight]]"
-- "[[_Standards/WikiData/WD~North Sea]]"
+  - '[[_Standards/WikiData/WD~German Bight]]'
+  - '[[_Standards/WikiData/WD~North Sea]]'
 located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Germany]]'
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~UTC+01:00]]"
-- "[[_Standards/WikiData/WD~UTC+02:00]]"
+  - '[[_Standards/WikiData/WD~UTC+01:00]]'
+  - '[[_Standards/WikiData/WD~UTC+02:00]]'
 location:
-- 52.7796
-- 9.02868
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Lower-Saxony%20in%20Germany.svg"
+  - 52.7796
+  - 9.02868
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Lower-Saxony%20in%20Germany.svg
 member_of:
-- "[[_Standards/WikiData/WD~Common Library Network]]"
+  - '[[_Standards/WikiData/WD~Common Library Network]]'
 motto_text:
-- "Niedersachsen. Klar."
+  - Niedersachsen. Klar.
 named_after: '[[_Standards/WikiData/WD~Saxons]]'
 native_label:
-- Niedersachsen
+  - Niedersachsen
 NUTS_code: DE9
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Minister-President of Lower Saxony]]"
-official_website: "https://www.niedersachsen.de/"
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Minister-President of Lower Saxony]]'
+official_website: https://www.niedersachsen.de/
 OmegaWiki_Defined_Meaning: 416994
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Wremen%20banner.jpg"
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wremen%20banner.jpg
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q25929971]]'
+  - '[[_Standards/WikiData/WD~Q25929971]]'
 population: 8003421
 replaces:
-- "[[_Standards/WikiData/WD~Free State of Schaumburg-Lippe]]"
-- "[[_Standards/WikiData/WD~substate of Hanover]]"
-- "[[_Standards/WikiData/WD~Free State of Oldenburg]]"
-- "[[_Standards/WikiData/WD~State of Brunswick]]"
+  - '[[_Standards/WikiData/WD~Free State of Schaumburg-Lippe]]'
+  - '[[_Standards/WikiData/WD~substate of Hanover]]'
+  - '[[_Standards/WikiData/WD~Free State of Oldenburg]]'
+  - '[[_Standards/WikiData/WD~State of Brunswick]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Groningen]]'
-- '[[_Standards/WikiData/WD~Drenthe]]'
-- '[[_Standards/WikiData/WD~Overijssel]]'
-- '[[_Standards/WikiData/WD~Hamburg]]'
-- '[[_Standards/WikiData/WD~Schleswig-Holstein]]'
-- "[[_Standards/WikiData/WD~North Rhine-Westphalia]]"
-- '[[_Standards/WikiData/WD~Hesse]]'
-- "[[_Standards/WikiData/WD~Mecklenburg-Western Pomerania]]"
-- '[[_Standards/WikiData/WD~Saxony-Anhalt]]'
-- '[[_Standards/WikiData/WD~Thuringia]]'
-- '[[_Standards/WikiData/WD~Brandenburg]]'
-- '[[_Standards/WikiData/WD~Bremen]]'
+  - '[[_Standards/WikiData/WD~Groningen]]'
+  - '[[_Standards/WikiData/WD~Drenthe]]'
+  - '[[_Standards/WikiData/WD~Overijssel]]'
+  - '[[_Standards/WikiData/WD~Hamburg]]'
+  - '[[_Standards/WikiData/WD~Schleswig-Holstein]]'
+  - '[[_Standards/WikiData/WD~North Rhine-Westphalia]]'
+  - '[[_Standards/WikiData/WD~Hesse]]'
+  - '[[_Standards/WikiData/WD~Mecklenburg-Western Pomerania]]'
+  - '[[_Standards/WikiData/WD~Saxony-Anhalt]]'
+  - '[[_Standards/WikiData/WD~Thuringia]]'
+  - '[[_Standards/WikiData/WD~Brandenburg]]'
+  - '[[_Standards/WikiData/WD~Bremen]]'
 SpocWebEntityId: 36019
 tags:
-- geo/State
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal:Lower Saxony]]"
-twinned_administrative_body: "[[_Standards/WikiData/WD~Tokushima Prefecture]]"
+  - geo/State
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal:Lower Saxony]]'
+twinned_administrative_body: '[[_Standards/WikiData/WD~Tokushima Prefecture]]'
 type: State
 ---
 

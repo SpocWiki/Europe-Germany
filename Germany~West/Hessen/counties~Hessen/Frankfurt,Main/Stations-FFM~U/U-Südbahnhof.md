@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Südbahnhof
 location:
-- 50.0994
-- 8.6861
+  - 50.0994
+  - 8.6861
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

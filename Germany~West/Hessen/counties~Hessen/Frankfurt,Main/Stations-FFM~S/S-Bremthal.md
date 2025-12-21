@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Bremthal
 location:
-- 50.14029
-- 8.358789
+  - 50.14029
+  - 8.358789
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

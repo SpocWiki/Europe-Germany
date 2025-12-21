@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Aschendorf
 confidential: public
 isDeleted: false
 location:
-- 53.05
-- 7.25
+  - 53.05
+  - 7.25
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 28893
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

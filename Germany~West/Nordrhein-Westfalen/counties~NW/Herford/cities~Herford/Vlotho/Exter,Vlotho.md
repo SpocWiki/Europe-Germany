@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Exter,Vlotho
 confidential: public
 isDeleted: false
 location:
-- 52.13
-- 8.83
+  - 52.13
+  - 8.83
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30105
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

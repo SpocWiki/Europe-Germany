@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Groß_Gerau-Dornberg
+  - S-Groß Gerau-Dornberg
 location:
-- 49.90724
-- 8.486341
+  - 49.90724
+  - 8.486341
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

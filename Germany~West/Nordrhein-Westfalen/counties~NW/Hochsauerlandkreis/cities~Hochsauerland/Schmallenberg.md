@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Schmallenberg
 confidential: public
 isDeleted: false
 location:
-- 51.15
-- 8.3
+  - 51.15
+  - 8.3
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34045
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

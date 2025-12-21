@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Kluse
 confidential: public
 isDeleted: false
 location:
-- 52.92
-- 7.37
+  - 52.92
+  - 7.37
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31506
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

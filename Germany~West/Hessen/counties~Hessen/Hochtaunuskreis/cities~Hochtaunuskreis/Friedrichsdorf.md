@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Friedrichsdorf
 confidential: public
 isDeleted: false
 location:
-- 50.27
-- 8.63
+  - 50.27
+  - 8.63
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30286
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

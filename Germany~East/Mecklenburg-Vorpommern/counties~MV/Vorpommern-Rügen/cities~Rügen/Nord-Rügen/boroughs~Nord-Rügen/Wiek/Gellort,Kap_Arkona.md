@@ -1,16 +1,19 @@
 ---
+aliases:
+  - Gellort,Kap_Arkona
+  - Gellort,Kap Arkona
 confidential: public
 isDeleted: false
 location:
-- 54.47
-- 13.22
+  - 54.47
+  - 13.22
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30403
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

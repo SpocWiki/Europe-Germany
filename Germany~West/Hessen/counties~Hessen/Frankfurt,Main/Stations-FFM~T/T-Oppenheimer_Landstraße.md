@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Oppenheimer_Landstraße
+  - T-Oppenheimer Landstraße
 location:
-- 50.09516
-- 8.681072
+  - 50.09516
+  - 8.681072
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

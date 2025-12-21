@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Seidingstadt
 confidential: public
 isDeleted: false
 location:
-- 50.33
-- 10.7
+  - 50.33
+  - 10.7
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34181
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

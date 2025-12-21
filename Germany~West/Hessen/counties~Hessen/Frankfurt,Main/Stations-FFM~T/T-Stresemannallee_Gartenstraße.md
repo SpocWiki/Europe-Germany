@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Stresemannallee_Gartenstraße
+  - T-Stresemannallee Gartenstraße
 location:
-- 50.09955
-- 8.669487
+  - 50.09955
+  - 8.669487
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Glaubitz
 confidential: public
 isDeleted: false
 location:
-- 51.33
-- 13.38
+  - 51.33
+  - 13.38
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30469
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

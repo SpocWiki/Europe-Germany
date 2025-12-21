@@ -1,18 +1,19 @@
 ---
 aliases:
-- Muenchehof
+  - Muenchehof
+  - Münchehof
 confidential: public
 isDeleted: false
 location:
-- 51.85
-- 10.17
+  - 51.85
+  - 10.17
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32671
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

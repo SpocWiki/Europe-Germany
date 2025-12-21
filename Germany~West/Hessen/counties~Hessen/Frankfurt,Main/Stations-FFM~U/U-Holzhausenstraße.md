@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Holzhausenstraße
 location:
-- 50.1267
-- 8.673756
+  - 50.1267
+  - 8.673756
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

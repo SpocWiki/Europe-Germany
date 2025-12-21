@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Dahlem
 confidential: public
 isDeleted: false
 location:
-- 52.45
-- 13.28
+  - 52.45
+  - 13.28
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29701
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

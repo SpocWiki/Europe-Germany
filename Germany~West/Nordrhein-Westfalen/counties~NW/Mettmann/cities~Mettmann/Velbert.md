@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Velbert
 confidential: public
 isDeleted: false
 location:
-- 51.35
-- 7.05
+  - 51.35
+  - 7.05
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35234
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

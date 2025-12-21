@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Höhenstraße
 location:
-- 50.12278
-- 8.701389
+  - 50.12278
+  - 8.701389
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station
+  - geo/station
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Brandenburg~Havel
 confidential: public
 isDeleted: false
 location:
-- 52.41
-- 12.56
+  - 52.41
+  - 12.56
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 36127
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

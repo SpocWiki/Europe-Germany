@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Linnegraben
 location:
-- 50.10022
-- 8.597239
+  - 50.10022
+  - 8.597239
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Demmin~Pommern
 confidential: public
 isDeleted: false
 location:
-- 53.9
-- 13.03
+  - 53.9
+  - 13.03
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29746
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

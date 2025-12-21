@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Theobald-Ziegler-Straße
 location:
-- 50.14792
-- 8.690057
+  - 50.14792
+  - 8.690057
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

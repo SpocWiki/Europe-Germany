@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Weißer_Stein
+  - U-Weißer Stein
 location:
-- 50.1567
-- 8.6561
+  - 50.1567
+  - 8.6561
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

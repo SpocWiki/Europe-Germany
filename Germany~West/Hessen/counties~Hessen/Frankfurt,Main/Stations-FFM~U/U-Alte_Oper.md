@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Alte_Oper
+  - U-Alte Oper
 location:
-- 50.115
-- 8.672222
+  - 50.115
+  - 8.672222
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Nennhausen
 confidential: public
 isDeleted: false
 location:
-- 52.62
-- 12.5
+  - 52.62
+  - 12.5
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32775
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

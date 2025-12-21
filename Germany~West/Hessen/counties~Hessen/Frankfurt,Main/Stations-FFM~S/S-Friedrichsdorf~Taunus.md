@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Friedrichsdorf~Taunus
 location:
-- 50.25249
-- 8.644776
+  - 50.25249
+  - 8.644776
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

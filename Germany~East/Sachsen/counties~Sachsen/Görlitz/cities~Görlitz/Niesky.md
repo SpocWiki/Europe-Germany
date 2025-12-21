@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Niesky
 confidential: public
 isDeleted: false
 location:
-- 51.3
-- 14.82
+  - 51.3
+  - 14.82
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32913
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

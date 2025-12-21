@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Dabrun
 confidential: public
 isDeleted: false
 location:
-- 51.83
-- 12.75
+  - 51.83
+  - 12.75
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29698
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

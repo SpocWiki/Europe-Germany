@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Nordhorn
 confidential: public
 isDeleted: false
 location:
-- 52.45
-- 7.08
+  - 52.45
+  - 7.08
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32951
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

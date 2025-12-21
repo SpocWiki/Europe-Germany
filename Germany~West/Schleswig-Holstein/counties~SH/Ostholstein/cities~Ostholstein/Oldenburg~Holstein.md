@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Oldenburg~Holstein
 confidential: public
 isDeleted: false
 location:
-- 54.29
-- 10.88
+  - 54.29
+  - 10.88
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33088
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

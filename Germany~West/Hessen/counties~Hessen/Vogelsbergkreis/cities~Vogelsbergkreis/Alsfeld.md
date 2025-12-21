@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Alsfeld
 confidential: public
 isDeleted: false
 location:
-- 50.75
-- 9.28
+  - 50.75
+  - 9.28
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 28758
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

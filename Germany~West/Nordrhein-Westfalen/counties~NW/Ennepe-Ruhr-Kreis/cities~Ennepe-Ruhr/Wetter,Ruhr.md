@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wetter,Ruhr
 confidential: public
 isDeleted: false
 location:
-- 51.39
-- 7.39
+  - 51.39
+  - 7.39
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35580
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

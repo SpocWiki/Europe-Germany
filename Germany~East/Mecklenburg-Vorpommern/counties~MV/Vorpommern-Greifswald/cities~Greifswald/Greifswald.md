@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Greifswald
 confidential: public
 isDeleted: false
 location:
-- 54.08
-- 13.38
+  - 54.08
+  - 13.38
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30566
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

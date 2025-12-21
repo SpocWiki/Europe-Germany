@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Boritz
 confidential: public
 isDeleted: false
 location:
-- 51.28
-- 13.5
+  - 51.28
+  - 13.5
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29280
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Dom_Römer
+  - U-Dom Römer
 location:
-- 50.11083
-- 8.68333
+  - 50.11083
+  - 8.68333
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

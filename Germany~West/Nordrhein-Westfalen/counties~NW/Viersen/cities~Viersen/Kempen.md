@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Kempen
 confidential: public
 isDeleted: false
 location:
-- 51.36
-- 6.42
+  - 51.36
+  - 6.42
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31384
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

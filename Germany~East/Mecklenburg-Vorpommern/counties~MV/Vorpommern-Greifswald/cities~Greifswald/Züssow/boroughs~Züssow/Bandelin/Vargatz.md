@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Vargatz
 confidential: public
 isDeleted: false
 location:
-- 53.97
-- 13.4
+  - 53.97
+  - 13.4
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35212
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

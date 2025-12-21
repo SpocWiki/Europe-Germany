@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Schermbeck
 confidential: public
 isDeleted: false
 location:
-- 51.7
-- 6.88
+  - 51.7
+  - 6.88
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34009
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

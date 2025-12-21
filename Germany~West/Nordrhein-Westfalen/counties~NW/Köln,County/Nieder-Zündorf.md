@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Nieder-Zündorf
 confidential: public
 isDeleted: false
 location:
-- 50.85
-- 7.07
+  - 50.85
+  - 7.07
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32903
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

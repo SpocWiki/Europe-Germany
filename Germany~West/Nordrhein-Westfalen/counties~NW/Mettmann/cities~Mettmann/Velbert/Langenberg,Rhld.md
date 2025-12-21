@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Langenberg,Rhld
 confidential: public
 isDeleted: false
 location:
-- 51.35
-- 7.12
+  - 51.35
+  - 7.12
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31823
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

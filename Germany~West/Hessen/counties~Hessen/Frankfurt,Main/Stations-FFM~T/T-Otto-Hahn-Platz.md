@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Otto-Hahn-Platz
 location:
-- 50.10174
-- 8.675359
+  - 50.10174
+  - 8.675359
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

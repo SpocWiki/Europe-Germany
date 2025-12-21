@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wilster
 confidential: public
 isDeleted: false
 location:
-- 53.92
-- 9.4
+  - 53.92
+  - 9.4
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35627
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

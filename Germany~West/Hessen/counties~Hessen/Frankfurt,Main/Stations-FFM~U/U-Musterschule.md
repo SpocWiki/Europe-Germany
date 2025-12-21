@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Musterschule
 location:
-- 50.12182
-- 8.686205
+  - 50.12182
+  - 8.686205
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

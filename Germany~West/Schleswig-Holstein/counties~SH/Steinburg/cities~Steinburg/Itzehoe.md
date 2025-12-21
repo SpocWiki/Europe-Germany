@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Itzehoe
 confidential: public
 isDeleted: false
 location:
-- 53.92
-- 9.51
+  - 53.92
+  - 9.51
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31144
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

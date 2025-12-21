@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Siek
 confidential: public
 isDeleted: false
 location:
-- 53.63
-- 10.3
+  - 53.63
+  - 10.3
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34251
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

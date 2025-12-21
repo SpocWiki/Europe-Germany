@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Hofheim~Taunus
 location:
-- 50.08757
-- 8.444722
+  - 50.08757
+  - 8.444722
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

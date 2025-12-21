@@ -3,6 +3,8 @@ aliases:
   - Kölner Dom
   - Hohe Domkirche zu Köln
   - High Cathedral Church at Cologne
+  - Cologne_Cathedral
+  - Cologne Cathedral
 has_id_wikidata: Q4176
 Instagram_username: koelnerdomofficial
 Commons_Institution_page: Kölner Dom
@@ -15,52 +17,52 @@ native_label:
   - Hohe Domkirche St. Petrus
 inception: 1248-01-01T00:00:00Z
 architectural_style:
-  - "[[_Standards/WikiData/WD~Gothic_architecture,176483]]"
+  - '[[_Standards/WikiData/WD~Gothic_architecture,176483]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~list_of_World_Heritage_in_Danger,222384]]"
-  - "[[_Standards/WikiData/WD~UNESCO_World_Heritage_Site_record_modification,29778318]]"
+  - '[[_Standards/WikiData/WD~list_of_World_Heritage_in_Danger,222384]]'
+  - '[[_Standards/WikiData/WD~UNESCO_World_Heritage_Site_record_modification,29778318]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~Catholic_cathedral,56242215]]"
-  - "[[_Standards/WikiData/WD~church_building,16970]]"
+  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+  - '[[_Standards/WikiData/WD~Catholic_cathedral,56242215]]'
+  - '[[_Standards/WikiData/WD~church_building,16970]]'
 described_by_source:
-  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Sechster_Band,130477825]]"
-Christian_liturgical_rite: "[[_Standards/WikiData/WD~Roman_Rite,730757]]"
-replaces: "[[_Standards/WikiData/WD~Hildebold_Dom,1284045]]"
+  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Sechster_Band,130477825]]'
+Christian_liturgical_rite: '[[_Standards/WikiData/WD~Roman_Rite,730757]]'
+replaces: '[[_Standards/WikiData/WD~Hildebold_Dom,1284045]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Q1463219,1463219]]"
-  - "[[_Standards/WikiData/WD~Bells_of_Cologne_Cathedral,1795814]]"
-  - "[[_Standards/WikiData/WD~Stained_glass_windows_of_Cologne_Cathedral,1795813]]"
-  - "[[_Standards/WikiData/WD~Organs_of_Cologne_Cathedral,7102106]]"
-  - "[[_Standards/WikiData/WD~Judensau_at_the_choir_stalls_of_Cologne_Cathedral,42780471]]"
-  - "[[_Standards/WikiData/WD~Choir_stalls_in_Cologne_Cathedral,65553460]]"
-  - "[[_Standards/WikiData/WD~Q113958198,113958198]]"
-  - "[[_Standards/WikiData/WD~Q125267225,125267225]]"
+  - '[[_Standards/WikiData/WD~Q1463219,1463219]]'
+  - '[[_Standards/WikiData/WD~Bells_of_Cologne_Cathedral,1795814]]'
+  - '[[_Standards/WikiData/WD~Stained_glass_windows_of_Cologne_Cathedral,1795813]]'
+  - '[[_Standards/WikiData/WD~Organs_of_Cologne_Cathedral,7102106]]'
+  - '[[_Standards/WikiData/WD~Judensau_at_the_choir_stalls_of_Cologne_Cathedral,42780471]]'
+  - '[[_Standards/WikiData/WD~Choir_stalls_in_Cologne_Cathedral,65553460]]'
+  - '[[_Standards/WikiData/WD~Q113958198,113958198]]'
+  - '[[_Standards/WikiData/WD~Q125267225,125267225]]'
 heritage_designation:
-  - "[[_Standards/WikiData/WD~architectural_heritage_monument_in_North_Rhine_Westphalia,15632117]]"
-  - "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
+  - '[[_Standards/WikiData/WD~architectural_heritage_monument_in_North_Rhine_Westphalia,15632117]]'
+  - '[[_Standards/WikiData/WD~World_Heritage_Site,9259]]'
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(i),23038972]]"
-  - "[[_Standards/WikiData/WD~(iv),23038978]]"
-  - "[[_Standards/WikiData/WD~(ii),23038976]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Cologne_Cathedral,63985838]]"
+  - '[[_Standards/WikiData/WD~(i),23038972]]'
+  - '[[_Standards/WikiData/WD~(iv),23038978]]'
+  - '[[_Standards/WikiData/WD~(ii),23038976]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Cologne_Cathedral,63985838]]'
 located_on_street:
-  - "[[_Standards/WikiData/WD~Domkloster,74192339]]"
+  - '[[_Standards/WikiData/WD~Domkloster,74192339]]'
 date_of_official_opening: 1880-10-15T00:00:00Z
 coordinate_location: Point(6.958333333 50.941388888)
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Cologne,365]]"
-  - "[[_Standards/WikiData/WD~Altstadt_Nord,3005]]"
+  - '[[_Standards/WikiData/WD~Cologne,365]]'
+  - '[[_Standards/WikiData/WD~Altstadt_Nord,3005]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Catholicism,1841]]"
-diocese: "[[_Standards/WikiData/WD~Roman_Catholic_Archdiocese_of_Cologne,11805]]"
-country: "[[_Standards/WikiData/WD~Germany,183]]"
+  - '[[_Standards/WikiData/WD~Catholicism,1841]]'
+diocese: '[[_Standards/WikiData/WD~Roman_Catholic_Archdiocese_of_Cologne,11805]]'
+country: '[[_Standards/WikiData/WD~Germany,183]]'
 visitors_per_year:
   - 5000000
   - 6000000
-named_after: "[[_Standards/WikiData/WD~Saint_Peter,33923]]"
-dedicated_to: "[[_Standards/WikiData/WD~Saint_Peter,33923]]"
+named_after: '[[_Standards/WikiData/WD~Saint_Peter,33923]]'
+dedicated_to: '[[_Standards/WikiData/WD~Saint_Peter,33923]]'
 height: 157
 length: 144.5
 width: 86.25
@@ -80,8 +82,8 @@ image_of_entrance: http://commons.wikimedia.org/wiki/Special:FilePath/West%20por
 official_website: http://www.koelner-dom.de/
 IPA_transcription: ˌkœlnɐ ˈdoːm
 ISNI:
-  - "0000000108312859"
-P8189: "987007264057505171"
+  - 0000000108312859
+P8189: 987007264057505171
 Krugosvet_article: arhitektura/kelnskiy-sobor
 Commons_category: Cologne Cathedral
 Facebook_username: KoelnerDom

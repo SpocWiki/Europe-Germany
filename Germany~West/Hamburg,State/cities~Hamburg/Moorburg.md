@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Moorburg
 confidential: public
 isDeleted: false
 location:
-- 53.48
-- 9.92
+  - 53.48
+  - 9.92
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32596
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Liblar
 confidential: public
 isDeleted: false
 location:
-- 50.82
-- 6.82
+  - 50.82
+  - 6.82
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31975
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

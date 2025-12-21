@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Witzenhausen
 confidential: public
 isDeleted: false
 location:
-- 51.35
-- 9.87
+  - 51.35
+  - 9.87
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35666
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

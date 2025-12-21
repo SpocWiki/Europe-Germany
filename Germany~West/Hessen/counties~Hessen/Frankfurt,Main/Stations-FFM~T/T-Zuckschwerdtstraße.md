@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Zuckschwerdtstraße
 location:
-- 50.10302
-- 8.551961
+  - 50.10302
+  - 8.551961
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

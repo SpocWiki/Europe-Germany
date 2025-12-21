@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Bubenheim,Nörvenich
 confidential: public
 isDeleted: false
 location:
-- 50.72
-- 6.55
+  - 50.72
+  - 6.55
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29388
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

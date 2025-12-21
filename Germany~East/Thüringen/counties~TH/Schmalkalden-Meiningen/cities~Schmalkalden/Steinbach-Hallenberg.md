@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Steinbach-Hallenberg
 confidential: public
 isDeleted: false
 location:
-- 50.7
-- 10.57
+  - 50.7
+  - 10.57
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34548
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

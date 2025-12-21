@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Usedom
 confidential: public
 isDeleted: false
 location:
-- 53.88
-- 13.92
+  - 53.88
+  - 13.92
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35129
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

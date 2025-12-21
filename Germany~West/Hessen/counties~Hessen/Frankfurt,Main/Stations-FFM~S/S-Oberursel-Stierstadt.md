@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Oberursel-Stierstadt
 location:
-- 50.18569
-- 8.584694
+  - 50.18569
+  - 8.584694
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

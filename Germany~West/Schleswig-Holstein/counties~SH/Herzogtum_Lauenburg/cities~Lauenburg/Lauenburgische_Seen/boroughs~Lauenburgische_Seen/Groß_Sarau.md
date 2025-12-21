@@ -1,16 +1,19 @@
 ---
+aliases:
+  - Groß_Sarau
+  - Groß Sarau
 confidential: public
 isDeleted: false
 location:
-- 53.77
-- 10.72
+  - 53.77
+  - 10.72
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33954
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

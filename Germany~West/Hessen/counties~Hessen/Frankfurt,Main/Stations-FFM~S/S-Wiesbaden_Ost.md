@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Wiesbaden_Ost
+  - S-Wiesbaden Ost
 location:
-- 50.04111
-- 8.256592
+  - 50.04111
+  - 8.256592
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

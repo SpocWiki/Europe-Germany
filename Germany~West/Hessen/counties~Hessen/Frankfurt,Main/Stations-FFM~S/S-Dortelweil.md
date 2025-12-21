@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Dortelweil
 location:
-- 50.2075
-- 8.754723
+  - 50.2075
+  - 8.754723
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

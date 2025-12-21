@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Zwenkau
 confidential: public
 isDeleted: false
 location:
-- 51.23
-- 12.33
+  - 51.23
+  - 12.33
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35859
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Villmar
 confidential: public
 isDeleted: false
 location:
-- 50.4
-- 8.2
+  - 50.4
+  - 8.2
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35305
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

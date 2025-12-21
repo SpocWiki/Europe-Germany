@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Neusalza
 confidential: public
 isDeleted: false
 location:
-- 51.03
-- 14.52
+  - 51.03
+  - 14.52
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32849
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Cunewald
 confidential: public
 isDeleted: false
 location:
-- 51.1
-- 14.55
+  - 51.1
+  - 14.55
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29688
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

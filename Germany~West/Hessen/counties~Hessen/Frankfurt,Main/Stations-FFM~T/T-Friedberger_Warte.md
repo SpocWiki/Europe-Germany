@@ -1,14 +1,17 @@
 ---
+aliases:
+  - T-Friedberger_Warte
+  - T-Friedberger Warte
 location:
-- 50.13954
-- 8.698304
+  - 50.13954
+  - 8.698304
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram-Station
-- 
+  - geo/station/tram-Station
+  - ''
 type: Station
 ---
 

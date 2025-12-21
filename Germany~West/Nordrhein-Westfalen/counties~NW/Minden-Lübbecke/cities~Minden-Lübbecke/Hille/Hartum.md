@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hartum
 confidential: public
 isDeleted: false
 location:
-- 52.32
-- 8.75
+  - 52.32
+  - 8.75
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30783
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

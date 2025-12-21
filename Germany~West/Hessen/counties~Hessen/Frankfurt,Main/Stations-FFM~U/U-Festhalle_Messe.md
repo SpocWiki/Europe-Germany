@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Festhalle_Messe
+  - U-Festhalle Messe
 location:
-- 50.11194
-- 8.655
+  - 50.11194
+  - 8.655
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station
+  - geo/station
 type: Station
 ---
 

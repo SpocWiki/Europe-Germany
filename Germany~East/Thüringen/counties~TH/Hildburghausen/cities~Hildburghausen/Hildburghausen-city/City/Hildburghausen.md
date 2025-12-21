@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hildburghausen
 confidential: public
 isDeleted: false
 location:
-- 50.43
-- 10.73
+  - 50.43
+  - 10.73
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30938
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

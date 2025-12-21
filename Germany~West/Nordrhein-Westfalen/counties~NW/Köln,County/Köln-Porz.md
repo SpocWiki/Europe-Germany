@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Köln-Porz
 confidential: public
 isDeleted: false
 location:
-- 50.88
-- 7.07
+  - 50.88
+  - 7.07
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33489
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

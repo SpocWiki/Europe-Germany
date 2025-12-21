@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hagenburg
 confidential: public
 isDeleted: false
 location:
-- 52.43
-- 9.33
+  - 52.43
+  - 9.33
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30700
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

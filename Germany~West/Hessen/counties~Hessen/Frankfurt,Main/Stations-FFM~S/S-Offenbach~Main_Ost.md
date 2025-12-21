@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Offenbach~Main_Ost
+  - S-Offenbach~Main Ost
 location:
-- 50.09945
-- 8.770833
+  - 50.09945
+  - 8.770833
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

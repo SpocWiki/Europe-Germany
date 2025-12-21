@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Bad_Vilbel_Süd
+  - S-Bad Vilbel Süd
 location:
-- 50.1787
-- 8.733477
+  - 50.1787
+  - 8.733477
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station
+  - geo/station
 type: Station
 ---
 

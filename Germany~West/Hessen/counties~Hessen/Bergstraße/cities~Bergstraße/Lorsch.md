@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lorsch
 confidential: public
 isDeleted: false
 location:
-- 49.65
-- 8.57
+  - 49.65
+  - 8.57
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32099
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

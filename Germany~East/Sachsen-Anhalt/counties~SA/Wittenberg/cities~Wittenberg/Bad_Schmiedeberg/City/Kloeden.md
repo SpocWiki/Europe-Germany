@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Kloeden
 confidential: public
 isDeleted: false
 location:
-- 51.72
-- 12.75
+  - 51.72
+  - 12.75
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31509
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

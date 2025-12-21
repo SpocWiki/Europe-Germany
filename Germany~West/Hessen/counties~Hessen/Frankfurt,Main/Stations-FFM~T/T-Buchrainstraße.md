@@ -1,15 +1,17 @@
 ---
+aliases:
+  - T-Buchrainstraße
 location:
-- 50.10051
-- 8.72426
+  - 50.10051
+  - 8.72426
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station
-- transport/tram
-- 
+  - geo/station
+  - transport/tram
+  - ''
 type: Station
 ---
 

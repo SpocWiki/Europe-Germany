@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Wickerer_Straße
+  - T-Wickerer Straße
 location:
-- 50.10096
-- 8.622586
+  - 50.10096
+  - 8.622586
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

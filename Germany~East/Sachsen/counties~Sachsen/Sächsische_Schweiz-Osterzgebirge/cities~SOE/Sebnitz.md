@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Sebnitz
 confidential: public
 isDeleted: false
 location:
-- 50.93
-- 14.21
+  - 50.93
+  - 14.21
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34159
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

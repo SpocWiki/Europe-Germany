@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Elbingerode
 confidential: public
 isDeleted: false
 location:
-- 51.78
-- 10.8
+  - 51.78
+  - 10.8
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30021
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

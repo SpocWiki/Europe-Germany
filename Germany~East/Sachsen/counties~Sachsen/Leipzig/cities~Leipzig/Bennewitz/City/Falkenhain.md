@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Falkenhain
 confidential: public
 isDeleted: false
 location:
-- 51.4
-- 12.68
+  - 51.4
+  - 12.68
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30122
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

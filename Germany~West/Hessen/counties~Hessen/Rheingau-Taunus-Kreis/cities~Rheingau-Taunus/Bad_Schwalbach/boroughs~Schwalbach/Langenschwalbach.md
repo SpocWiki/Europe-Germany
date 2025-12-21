@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Langenschwalbach
 confidential: public
 isDeleted: false
 location:
-- 50.15
-- 8.08
+  - 50.15
+  - 8.08
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31831
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

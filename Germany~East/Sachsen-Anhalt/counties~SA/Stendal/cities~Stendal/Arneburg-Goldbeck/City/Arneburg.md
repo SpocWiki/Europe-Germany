@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Arneburg
 confidential: public
 isDeleted: false
 location:
-- 52.68
-- 12
+  - 52.68
+  - 12
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 28876
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

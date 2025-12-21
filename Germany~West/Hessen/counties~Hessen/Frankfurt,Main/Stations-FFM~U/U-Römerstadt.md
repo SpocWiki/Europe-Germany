@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Römerstadt
 location:
-- 50.153
-- 8.635
+  - 50.153
+  - 8.635
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

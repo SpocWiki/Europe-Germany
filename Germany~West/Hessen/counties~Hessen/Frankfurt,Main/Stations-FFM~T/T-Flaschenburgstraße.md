@@ -1,15 +1,17 @@
 ---
+aliases:
+  - T-Flaschenburgstraße
 location:
-- 50.10045
-- 8.731064
+  - 50.10045
+  - 8.731064
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station
-- transport/tram
-- 
+  - geo/station
+  - transport/tram
+  - ''
 type: Station
 ---
 

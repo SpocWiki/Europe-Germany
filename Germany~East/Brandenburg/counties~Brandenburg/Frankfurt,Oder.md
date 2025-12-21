@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Frankfurt,Oder
 confidential: public
 isDeleted: false
 location:
-- 52.34
-- 14.55
+  - 52.34
+  - 14.55
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30231
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

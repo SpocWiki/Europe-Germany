@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Jerichow
 confidential: public
 isDeleted: false
 location:
-- 52.5
-- 12.02
+  - 52.5
+  - 12.02
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31189
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

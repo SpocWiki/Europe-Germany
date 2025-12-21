@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Siebenlehn
 confidential: public
 isDeleted: false
 location:
-- 51.03
-- 13.3
+  - 51.03
+  - 13.3
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34245
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Mühlheim~Main
 location:
-- 50.12569
-- 8.83
+  - 50.12569
+  - 8.83
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

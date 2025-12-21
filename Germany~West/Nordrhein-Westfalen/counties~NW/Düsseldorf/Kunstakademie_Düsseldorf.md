@@ -1,25 +1,27 @@
 ---
 aliases:
   - Düsseldorf State Art Academy
+  - Kunstakademie_Düsseldorf
+  - Kunstakademie Düsseldorf
 has_id_wikidata: Q662355
 instance_of:
-  - "[[_Standards/WikiData/WD~art_academy,383092]]"
-  - "[[_Standards/WikiData/WD~public_university,875538]]"
+  - '[[_Standards/WikiData/WD~art_academy,383092]]'
+  - '[[_Standards/WikiData/WD~public_university,875538]]'
 member_of:
   - "[[_Standards/WikiData/WD~German_Rectors'_Conference,880981]]"
-  - "[[_Standards/WikiData/WD~Verein_zur_Förderung_eines_Deutschen_Forschungsnetzes,2514863]]"
-director_manager: "[[_Standards/WikiData/WD~Karl_Heinz_Petzinka,1729950]]"
-locations: "[[_Standards/WikiData/WD~Q1792391,1792391]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Art+Feminism,24909800]]"
-has_part_s_: "[[_Standards/WikiData/WD~Q28738523,28738523]]"
-part_of: "[[_Standards/WikiData/WD~DH.NRW,105770388]]"
+  - '[[_Standards/WikiData/WD~Verein_zur_Förderung_eines_Deutschen_Forschungsnetzes,2514863]]'
+director_manager: '[[_Standards/WikiData/WD~Karl_Heinz_Petzinka,1729950]]'
+locations: '[[_Standards/WikiData/WD~Q1792391,1792391]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+has_part_s_: '[[_Standards/WikiData/WD~Q28738523,28738523]]'
+part_of: '[[_Standards/WikiData/WD~DH.NRW,105770388]]'
 inception:
   - 1762-01-01T00:00:00Z
   - 1773-01-01T00:00:00Z
 coordinate_location: Point(6.77365 51.23054)
-headquarters_locations: "[[_Standards/WikiData/WD~Düsseldorf,1718]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Düsseldorf,1718]]"
-country: "[[_Standards/WikiData/WD~Germany,183]]"
+headquarters_locations: '[[_Standards/WikiData/WD~Düsseldorf,1718]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Düsseldorf,1718]]'
+country: '[[_Standards/WikiData/WD~Germany,183]]'
 count_of_students:
   - 370
   - 380
@@ -47,7 +49,7 @@ count_of_students:
 employees: 148
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kunstakademie%20in%20Duesseldorf-Altstadt%2C%20von%20Nordwesten.jpg
 official_website: http://www.kunstakademie-duesseldorf.de/
-ISNI: "0000000121499021"
+ISNI: 0000000121499021
 Wolfram_Language_entity_code: Entity["University", "KunstakademieDusseldorf::hcw3n"]
 Commons_category: Kunstakademie Düsseldorf
 ---

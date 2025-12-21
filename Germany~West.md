@@ -1,35 +1,36 @@
 ---
 aliases:
-- Deutschland
-- "West Germany"
-- Alemania
-- Allemagne
-- "Federal Republic of Germany"
-- "Republica Federal de Alemania"
-- "Bundesrepublik Deutschland"
-- BRD
+  - Deutschland
+  - West Germany
+  - Alemania
+  - Allemagne
+  - Federal Republic of Germany
+  - Republica Federal de Alemania
+  - Bundesrepublik Deutschland
+  - BRD
+  - Germany~West
 confidential: public
 cssclasses: Country
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords: 
+keywords: ''
 Languages:
-- de
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+  - de
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: ''
 location:
-- 50.8699
-- 10.1207
+  - 50.8699
+  - 10.1207
 publish: true
-publishDate: 
-source: "https://datahub.io/core/country-codes"
+publishDate: ''
+source: https://datahub.io/core/country-codes
 SpocWebEntityId: 59064
 tags:
-- geo/Country
-title: "Deutschland (Germany)"
+  - geo/Country
+title: Deutschland (Germany)
 type: Country
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wieren
 confidential: public
 isDeleted: false
 location:
-- 52.88
-- 10.65
+  - 52.88
+  - 10.65
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35597
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Triangel
 confidential: public
 isDeleted: false
 location:
-- 52.52
-- 10.6
+  - 52.52
+  - 10.6
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34974
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

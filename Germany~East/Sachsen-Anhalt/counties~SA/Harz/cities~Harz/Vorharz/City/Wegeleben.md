@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wegeleben
 confidential: public
 isDeleted: false
 location:
-- 51.88
-- 11.18
+  - 51.88
+  - 11.18
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35481
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

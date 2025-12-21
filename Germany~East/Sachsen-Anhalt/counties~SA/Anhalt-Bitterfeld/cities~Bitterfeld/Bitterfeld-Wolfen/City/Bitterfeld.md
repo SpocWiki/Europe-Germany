@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Bitterfeld
 confidential: public
 isDeleted: false
 location:
-- 51.62
-- 12.32
+  - 51.62
+  - 12.32
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29210
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

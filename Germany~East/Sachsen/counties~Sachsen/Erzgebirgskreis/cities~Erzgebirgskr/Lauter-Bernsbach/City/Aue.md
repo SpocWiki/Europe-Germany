@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Aue
 confidential: public
 isDeleted: false
 location:
-- 50.57
-- 12.75
+  - 50.57
+  - 12.75
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 28922
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

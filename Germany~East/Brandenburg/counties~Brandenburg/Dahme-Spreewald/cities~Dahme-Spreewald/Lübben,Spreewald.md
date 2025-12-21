@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lübben,Spreewald
 confidential: public
 isDeleted: false
 location:
-- 51.95
-- 13.88
+  - 51.95
+  - 13.88
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32162
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

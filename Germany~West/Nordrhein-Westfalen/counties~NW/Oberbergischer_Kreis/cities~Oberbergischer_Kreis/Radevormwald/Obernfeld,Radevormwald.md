@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Obernfeld,Radevormwald
 confidential: public
 isDeleted: false
 location:
-- 51.2
-- 7.32
+  - 51.2
+  - 7.32
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33040
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

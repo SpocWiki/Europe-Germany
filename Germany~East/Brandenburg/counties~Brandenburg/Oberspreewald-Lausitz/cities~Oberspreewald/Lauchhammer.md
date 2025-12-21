@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lauchhammer
 confidential: public
 isDeleted: false
 location:
-- 51.5
-- 13.8
+  - 51.5
+  - 13.8
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31868
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

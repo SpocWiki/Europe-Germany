@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hagenow-City
 confidential: public
 isDeleted: false
 location:
-- 53.45
-- 11.2
+  - 53.45
+  - 11.2
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30701
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

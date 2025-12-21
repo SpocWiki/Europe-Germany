@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Willershausen
 confidential: public
 isDeleted: false
 location:
-- 51.78
-- 10.1
+  - 51.78
+  - 10.1
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35621
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

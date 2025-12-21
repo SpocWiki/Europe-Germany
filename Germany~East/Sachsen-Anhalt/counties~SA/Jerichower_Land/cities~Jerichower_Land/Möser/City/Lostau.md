@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lostau
 confidential: public
 isDeleted: false
 location:
-- 52.22
-- 11.73
+  - 52.22
+  - 11.73
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32102
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

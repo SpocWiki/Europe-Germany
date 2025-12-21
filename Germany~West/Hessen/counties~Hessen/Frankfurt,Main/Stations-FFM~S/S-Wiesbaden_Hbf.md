@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Wiesbaden_Hbf
+  - S-Wiesbaden Hbf
 location:
-- 50.07083
-- 8.243889
+  - 50.07083
+  - 8.243889
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

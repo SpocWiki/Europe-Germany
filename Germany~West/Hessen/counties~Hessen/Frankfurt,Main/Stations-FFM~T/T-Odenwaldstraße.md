@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Odenwaldstraße
 location:
-- 50.08648
-- 8.642111
+  - 50.08648
+  - 8.642111
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Vorst
 confidential: public
 isDeleted: false
 location:
-- 51.21
-- 6.5833
+  - 51.21
+  - 6.5833
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35356
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

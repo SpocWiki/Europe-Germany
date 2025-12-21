@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Marbeck
 confidential: public
 isDeleted: false
 location:
-- 51.82
-- 6.9
+  - 51.82
+  - 6.9
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32269
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

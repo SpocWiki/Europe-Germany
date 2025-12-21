@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Schenklengsfeld
 confidential: public
 isDeleted: false
 location:
-- 50.82
-- 9.85
+  - 50.82
+  - 9.85
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34008
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Waldfriedhof_Goldstein
+  - T-Waldfriedhof Goldstein
 location:
-- 50.07689
-- 8.602348
+  - 50.07689
+  - 8.602348
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

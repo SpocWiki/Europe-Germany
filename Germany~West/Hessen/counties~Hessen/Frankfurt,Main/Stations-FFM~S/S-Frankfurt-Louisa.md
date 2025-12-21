@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Frankfurt-Louisa
 location:
-- 50.08318
-- 8.670337
+  - 50.08318
+  - 8.670337
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station
+  - geo/station
 type: Station
 ---
 

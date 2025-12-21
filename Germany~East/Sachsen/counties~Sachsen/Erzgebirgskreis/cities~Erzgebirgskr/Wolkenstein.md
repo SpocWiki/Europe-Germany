@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wolkenstein
 confidential: public
 isDeleted: false
 location:
-- 50.65
-- 13.07
+  - 50.65
+  - 13.07
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35690
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

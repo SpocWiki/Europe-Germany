@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Niederrad_Haardtwaldplatz
+  - T-Niederrad Haardtwaldplatz
 location:
-- 50.0863
-- 8.636102
+  - 50.0863
+  - 8.636102
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

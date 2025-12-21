@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Bruchenbrücken
 location:
-- 50.30264
-- 8.793222
+  - 50.30264
+  - 8.793222
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

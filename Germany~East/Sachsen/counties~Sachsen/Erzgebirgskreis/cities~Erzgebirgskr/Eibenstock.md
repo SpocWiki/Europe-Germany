@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Eibenstock
 confidential: public
 isDeleted: false
 location:
-- 50.48
-- 12.55
+  - 50.48
+  - 12.55
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29992
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

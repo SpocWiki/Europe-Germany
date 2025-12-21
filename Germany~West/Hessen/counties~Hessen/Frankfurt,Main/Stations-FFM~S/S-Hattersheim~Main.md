@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Hattersheim~Main
 location:
-- 50.06972
-- 8.48618
+  - 50.06972
+  - 8.48618
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

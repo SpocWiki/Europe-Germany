@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Ifta
 confidential: public
 isDeleted: false
 location:
-- 51.07
-- 10.2
+  - 51.07
+  - 10.2
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31089
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Erzhausen
 location:
-- 49.95333
-- 8.629653
+  - 49.95333
+  - 8.629653
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

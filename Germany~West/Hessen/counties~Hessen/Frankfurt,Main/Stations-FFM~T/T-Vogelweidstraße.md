@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Vogelweidstraße
 location:
-- 50.09731
-- 8.667011
+  - 50.09731
+  - 8.667011
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

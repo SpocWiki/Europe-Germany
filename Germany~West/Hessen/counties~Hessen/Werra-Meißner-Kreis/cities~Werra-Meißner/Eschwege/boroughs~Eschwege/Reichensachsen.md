@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Reichensachsen
 confidential: public
 isDeleted: false
 location:
-- 51.17
-- 10
+  - 51.17
+  - 10
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33690
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

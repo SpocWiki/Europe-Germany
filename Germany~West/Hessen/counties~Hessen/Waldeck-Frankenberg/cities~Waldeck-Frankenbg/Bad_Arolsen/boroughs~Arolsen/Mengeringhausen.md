@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Mengeringhausen
 confidential: public
 isDeleted: false
 location:
-- 51.37
-- 8.98
+  - 51.37
+  - 8.98
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32411
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

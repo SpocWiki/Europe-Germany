@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Loburg
 confidential: public
 isDeleted: false
 location:
-- 52.12
-- 12.08
+  - 52.12
+  - 12.08
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32061
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

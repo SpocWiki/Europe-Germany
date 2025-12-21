@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Offenbach_Kaiserlei
+  - S-Offenbach Kaiserlei
 location:
-- 50.10533
-- 8.738377
+  - 50.10533
+  - 8.738377
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Saarbrücken
 confidential: public
 isDeleted: false
 location:
-- 49.22
-- 6.99
+  - 49.22
+  - 6.99
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33855
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

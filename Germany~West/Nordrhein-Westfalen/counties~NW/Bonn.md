@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Bonn
 confidential: public
 isDeleted: false
 location:
-- 50.72
-- 7.09
+  - 50.72
+  - 7.09
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29267
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

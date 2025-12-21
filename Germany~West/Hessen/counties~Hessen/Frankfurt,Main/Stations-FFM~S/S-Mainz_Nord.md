@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Mainz_Nord
+  - S-Mainz Nord
 location:
-- 50.01944
-- 8.227777
+  - 50.01944
+  - 8.227777
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

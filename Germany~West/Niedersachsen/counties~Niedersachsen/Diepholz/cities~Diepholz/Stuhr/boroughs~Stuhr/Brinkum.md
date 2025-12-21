@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Brinkum
 confidential: public
 isDeleted: false
 location:
-- 53.02
-- 8.75
+  - 53.02
+  - 8.75
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29356
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

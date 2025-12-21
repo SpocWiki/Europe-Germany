@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wald-Michelbach
 confidential: public
 isDeleted: false
 location:
-- 49.57
-- 8.82
+  - 49.57
+  - 8.82
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35413
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Flamersheim
 confidential: public
 isDeleted: false
 location:
-- 50.57
-- 6.85
+  - 50.57
+  - 6.85
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30180
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

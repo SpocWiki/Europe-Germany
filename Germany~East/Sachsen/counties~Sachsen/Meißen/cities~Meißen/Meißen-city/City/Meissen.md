@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Meissen
 confidential: public
 isDeleted: false
 location:
-- 51.17
-- 13.47
+  - 51.17
+  - 13.47
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32386
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

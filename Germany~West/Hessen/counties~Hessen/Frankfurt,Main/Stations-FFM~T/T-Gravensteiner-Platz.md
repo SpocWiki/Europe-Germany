@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Gravensteiner-Platz
 location:
-- 50.15539
-- 8.698527
+  - 50.15539
+  - 8.698527
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

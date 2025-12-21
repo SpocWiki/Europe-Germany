@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Bonames_Mitte
+  - U-Bonames Mitte
 location:
-- 50.18527
-- 8.664844
+  - 50.18527
+  - 8.664844
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

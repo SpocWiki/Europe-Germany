@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lanz,Prignitz
 confidential: public
 isDeleted: false
 location:
-- 53.07
-- 11.6
+  - 53.07
+  - 11.6
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31846
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

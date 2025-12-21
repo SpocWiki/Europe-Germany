@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Cleverns
 confidential: public
 isDeleted: false
 location:
-- 53.55
-- 7.8667
+  - 53.55
+  - 7.8667
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29628
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

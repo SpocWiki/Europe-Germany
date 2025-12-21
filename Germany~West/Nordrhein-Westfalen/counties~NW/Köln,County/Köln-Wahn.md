@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Köln-Wahn
 confidential: public
 isDeleted: false
 location:
-- 50.87
-- 7.12
+  - 50.87
+  - 7.12
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35389
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

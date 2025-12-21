@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Waltershausen
 confidential: public
 isDeleted: false
 location:
-- 50.9
-- 10.55
+  - 50.9
+  - 10.55
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35430
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

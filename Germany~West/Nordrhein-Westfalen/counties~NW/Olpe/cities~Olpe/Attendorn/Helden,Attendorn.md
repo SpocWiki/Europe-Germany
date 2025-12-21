@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Helden,Attendorn
 confidential: public
 isDeleted: false
 location:
-- 51.12
-- 7.93
+  - 51.12
+  - 7.93
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30866
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

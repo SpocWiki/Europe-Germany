@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Frankfurt_Konstablerwache
+  - S-Frankfurt Konstablerwache
 location:
-- 50.11472
-- 8.686389
+  - 50.11472
+  - 8.686389
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

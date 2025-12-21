@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Brücken-Textorstraße
 location:
-- 50.1014
-- 8.686291
+  - 50.1014
+  - 8.686291
 mapmarker: tram
 mapzoom:
-- 8
-- 19
+  - 8
+  - 19
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

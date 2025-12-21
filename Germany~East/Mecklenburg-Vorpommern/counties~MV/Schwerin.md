@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Schwerin
 confidential: public
 isDeleted: false
 location:
-- 53.63
-- 11.42
+  - 53.63
+  - 11.42
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34113
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

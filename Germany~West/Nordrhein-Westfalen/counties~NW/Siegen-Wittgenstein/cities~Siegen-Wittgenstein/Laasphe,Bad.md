@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Laasphe,Bad
 confidential: public
 isDeleted: false
 location:
-- 50.93
-- 8.43
+  - 50.93
+  - 8.43
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31772
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

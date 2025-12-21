@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Seligenstadt
 confidential: public
 isDeleted: false
 location:
-- 50.07
-- 8.98
+  - 50.07
+  - 8.98
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34192
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

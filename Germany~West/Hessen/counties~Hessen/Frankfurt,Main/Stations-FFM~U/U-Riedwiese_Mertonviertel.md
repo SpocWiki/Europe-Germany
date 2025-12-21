@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Riedwiese_Mertonviertel
+  - U-Riedwiese Mertonviertel
 location:
-- 50.17131
-- 8.642829
+  - 50.17131
+  - 8.642829
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Dömitz
 confidential: public
 isDeleted: false
 location:
-- 53.15
-- 11.25
+  - 53.15
+  - 11.25
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29946
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

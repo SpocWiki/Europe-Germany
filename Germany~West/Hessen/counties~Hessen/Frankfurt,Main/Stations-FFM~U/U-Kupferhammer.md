@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Kupferhammer
 location:
-- 50.21415
-- 8.557963
+  - 50.21415
+  - 8.557963
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

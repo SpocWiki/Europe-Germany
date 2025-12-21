@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lemgo
 confidential: public
 isDeleted: false
 location:
-- 52.03
-- 8.93
+  - 52.03
+  - 8.93
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31932
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

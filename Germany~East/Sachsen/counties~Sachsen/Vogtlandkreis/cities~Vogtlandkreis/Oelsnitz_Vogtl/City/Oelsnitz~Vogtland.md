@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Oelsnitz~Vogtland
 confidential: public
 isDeleted: false
 location:
-- 50.42
-- 12.17
+  - 50.42
+  - 12.17
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35889
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

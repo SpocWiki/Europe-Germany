@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hirschberg
 confidential: public
 isDeleted: false
 location:
-- 50.4
-- 11.82
+  - 50.4
+  - 11.82
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30951
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

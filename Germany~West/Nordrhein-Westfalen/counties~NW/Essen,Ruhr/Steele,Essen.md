@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Steele,Essen
 confidential: public
 isDeleted: false
 location:
-- 51.45
-- 7.08
+  - 51.45
+  - 7.08
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34540
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

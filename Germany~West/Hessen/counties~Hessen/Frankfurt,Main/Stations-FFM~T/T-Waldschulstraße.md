@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Waldschulstraße
 location:
-- 50.10028
-- 8.603362
+  - 50.10028
+  - 8.603362
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

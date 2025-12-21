@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Hauptbf._Münchener_Straße
+  - T-Hauptbf. Münchener Straße
 location:
-- 50.10675
-- 8.665919
+  - 50.10675
+  - 8.665919
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

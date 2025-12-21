@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Treuen
 confidential: public
 isDeleted: false
 location:
-- 50.53
-- 12.3
+  - 50.53
+  - 12.3
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34969
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

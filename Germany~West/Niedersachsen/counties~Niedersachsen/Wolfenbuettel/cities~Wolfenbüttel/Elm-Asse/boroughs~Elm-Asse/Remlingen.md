@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Remlingen
 confidential: public
 isDeleted: false
 location:
-- 52.12
-- 10.68
+  - 52.12
+  - 10.68
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33703
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

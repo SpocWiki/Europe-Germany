@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Eutin
 confidential: public
 isDeleted: false
 location:
-- 54.13
-- 10.62
+  - 54.13
+  - 10.62
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30097
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

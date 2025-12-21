@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Universitätsklinikum
 location:
-- 50.0965
-- 8.660521
+  - 50.0965
+  - 8.660521
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

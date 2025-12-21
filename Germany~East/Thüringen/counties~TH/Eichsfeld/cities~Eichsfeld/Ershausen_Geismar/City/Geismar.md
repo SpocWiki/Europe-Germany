@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Geismar
 confidential: public
 isDeleted: false
 location:
-- 51.22
-- 10.18
+  - 51.22
+  - 10.18
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30396
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

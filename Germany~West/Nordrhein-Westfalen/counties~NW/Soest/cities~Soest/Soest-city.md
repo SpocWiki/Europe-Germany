@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Soest-city
 confidential: public
 isDeleted: false
 location:
-- 51.57
-- 8.1
+  - 51.57
+  - 8.1
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34339
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

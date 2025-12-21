@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Havert
 confidential: public
 isDeleted: false
 location:
-- 51.03
-- 5.9
+  - 51.03
+  - 5.9
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30816
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

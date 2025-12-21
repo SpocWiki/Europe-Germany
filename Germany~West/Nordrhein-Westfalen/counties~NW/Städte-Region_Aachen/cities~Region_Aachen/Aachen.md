@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Aachen
 confidential: public
 isDeleted: false
 location:
-- 50.78
-- 6.07
+  - 50.78
+  - 6.07
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 28633
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

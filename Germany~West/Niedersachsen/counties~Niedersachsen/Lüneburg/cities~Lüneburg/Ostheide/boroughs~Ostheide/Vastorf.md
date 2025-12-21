@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Vastorf
 confidential: public
 isDeleted: false
 location:
-- 53.2
-- 10.55
+  - 53.2
+  - 10.55
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35222
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

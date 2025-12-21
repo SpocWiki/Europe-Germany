@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hanerau
 confidential: public
 isDeleted: false
 location:
-- 54.12
-- 9.42
+  - 54.12
+  - 9.42
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30756
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

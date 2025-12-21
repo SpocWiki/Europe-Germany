@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Anklam
 confidential: public
 isDeleted: false
 location:
-- 53.85
-- 13.68
+  - 53.85
+  - 13.68
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 28832
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

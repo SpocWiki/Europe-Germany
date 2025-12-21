@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Doernthal
 confidential: public
 isDeleted: false
 location:
-- 50.73
-- 13.35
+  - 50.73
+  - 13.35
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29947
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

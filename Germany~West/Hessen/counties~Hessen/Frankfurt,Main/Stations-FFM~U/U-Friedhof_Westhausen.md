@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Friedhof_Westhausen
+  - U-Friedhof Westhausen
 location:
-- 50.13905
-- 8.612863
+  - 50.13905
+  - 8.612863
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

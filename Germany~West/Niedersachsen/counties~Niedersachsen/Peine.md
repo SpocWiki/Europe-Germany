@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Peine
 confidential: public
 isDeleted: false
 location:
-- 52.33
-- 10.23
+  - 52.33
+  - 10.23
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33277
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

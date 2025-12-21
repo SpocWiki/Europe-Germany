@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Dedesdorf
 confidential: public
 isDeleted: false
 location:
-- 53.45
-- 8.5033
+  - 53.45
+  - 8.5033
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29733
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

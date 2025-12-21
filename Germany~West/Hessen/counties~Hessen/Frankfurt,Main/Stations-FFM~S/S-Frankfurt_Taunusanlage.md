@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Frankfurt_Taunusanlage
+  - S-Frankfurt Taunusanlage
 location:
-- 50.11389
-- 8.669723
+  - 50.11389
+  - 8.669723
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station
+  - geo/station
 type: Station
 ---
 

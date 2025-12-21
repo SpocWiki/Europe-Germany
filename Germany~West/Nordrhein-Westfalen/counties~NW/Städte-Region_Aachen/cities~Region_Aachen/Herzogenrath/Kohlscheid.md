@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Kohlscheid
 confidential: public
 isDeleted: false
 location:
-- 50.83
-- 6.08
+  - 50.83
+  - 6.08
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31534
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

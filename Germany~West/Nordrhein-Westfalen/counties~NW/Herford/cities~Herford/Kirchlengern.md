@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Kirchlengern
 confidential: public
 isDeleted: false
 location:
-- 52.2
-- 8.65
+  - 52.2
+  - 8.65
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31450
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Finsterwalde
 confidential: public
 isDeleted: false
 location:
-- 51.62
-- 13.68
+  - 51.62
+  - 13.68
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30171
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

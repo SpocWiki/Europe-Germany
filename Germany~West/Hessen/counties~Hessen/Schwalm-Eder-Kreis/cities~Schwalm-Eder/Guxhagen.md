@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Guxhagen
 confidential: public
 isDeleted: false
 location:
-- 51.2
-- 9.52
+  - 51.2
+  - 9.52
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30650
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

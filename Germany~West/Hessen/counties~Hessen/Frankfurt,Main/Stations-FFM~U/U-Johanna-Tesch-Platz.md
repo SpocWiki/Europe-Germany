@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Johanna-Tesch-Platz
 location:
-- 50.12786
-- 8.726299
+  - 50.12786
+  - 8.726299
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

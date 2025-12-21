@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Bensheim
 confidential: public
 isDeleted: false
 location:
-- 49.67
-- 8.62
+  - 49.67
+  - 8.62
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29102
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

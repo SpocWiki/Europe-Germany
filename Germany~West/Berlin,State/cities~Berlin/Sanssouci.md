@@ -1,18 +1,18 @@
 ---
 aliases:
-- Sanssouci
+  - Sanssouci
 confidential: public
 isDeleted: false
 location:
-- 52.403261
-- 13.038631
+  - 52.403261
+  - 13.038631
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33940
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

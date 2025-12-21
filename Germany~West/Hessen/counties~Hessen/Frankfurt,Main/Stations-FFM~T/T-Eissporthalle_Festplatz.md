@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Eissporthalle_Festplatz
+  - T-Eissporthalle Festplatz
 location:
-- 50.1236
-- 8.716852
+  - 50.1236
+  - 8.716852
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

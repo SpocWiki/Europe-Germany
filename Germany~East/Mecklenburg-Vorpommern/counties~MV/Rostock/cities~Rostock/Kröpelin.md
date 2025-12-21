@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Kröpelin
 confidential: public
 isDeleted: false
 location:
-- 54.08
-- 11.8
+  - 54.08
+  - 11.8
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31675
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Frauenfriedenskirche
 location:
-- 50.12847
-- 8.646508
+  - 50.12847
+  - 8.646508
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

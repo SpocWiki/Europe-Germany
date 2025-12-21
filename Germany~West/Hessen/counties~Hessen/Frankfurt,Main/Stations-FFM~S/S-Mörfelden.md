@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Mörfelden
 location:
-- 49.979
-- 8.565384
+  - 49.979
+  - 8.565384
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

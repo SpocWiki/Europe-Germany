@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lindern~Oldnbg
 confidential: public
 isDeleted: false
 location:
-- 52.85
-- 7.78
+  - 52.85
+  - 7.78
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32028
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

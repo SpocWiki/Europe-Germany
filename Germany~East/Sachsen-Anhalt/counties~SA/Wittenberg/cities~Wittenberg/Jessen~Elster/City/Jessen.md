@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Jessen
 confidential: public
 isDeleted: false
 location:
-- 51.78
-- 12.95
+  - 51.78
+  - 12.95
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31195
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

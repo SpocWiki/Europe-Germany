@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Sarstedt
 confidential: public
 isDeleted: false
 location:
-- 52.23
-- 9.88
+  - 52.23
+  - 9.88
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33963
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

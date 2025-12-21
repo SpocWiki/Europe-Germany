@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Sulingen
 confidential: public
 isDeleted: false
 location:
-- 52.68
-- 8.8
+  - 52.68
+  - 8.8
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34657
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

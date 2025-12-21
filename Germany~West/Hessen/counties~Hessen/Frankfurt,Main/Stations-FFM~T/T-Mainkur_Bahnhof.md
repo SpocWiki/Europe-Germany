@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Mainkur_Bahnhof
+  - T-Mainkur Bahnhof
 location:
-- 50.13249
-- 8.766127
+  - 50.13249
+  - 8.766127
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

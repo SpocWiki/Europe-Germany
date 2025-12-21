@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Freyenstein
 confidential: public
 isDeleted: false
 location:
-- 53.3
-- 12.35
+  - 53.3
+  - 12.35
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30268
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

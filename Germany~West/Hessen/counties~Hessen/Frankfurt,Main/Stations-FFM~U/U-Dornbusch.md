@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Dornbusch
 location:
-- 50.13694
-- 8.67111
+  - 50.13694
+  - 8.67111
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

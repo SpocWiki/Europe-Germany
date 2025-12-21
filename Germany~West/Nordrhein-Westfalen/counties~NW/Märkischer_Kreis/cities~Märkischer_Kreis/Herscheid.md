@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Herscheid
 confidential: public
 isDeleted: false
 location:
-- 51.18
-- 7.75
+  - 51.18
+  - 7.75
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30916
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

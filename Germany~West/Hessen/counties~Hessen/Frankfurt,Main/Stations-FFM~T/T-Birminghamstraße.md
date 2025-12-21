@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Birminghamstraße
 location:
-- 50.1001
-- 8.5801
+  - 50.1001
+  - 8.5801
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

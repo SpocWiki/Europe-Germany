@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Woldegk
 confidential: public
 isDeleted: false
 location:
-- 53.45
-- 13.6
+  - 53.45
+  - 13.6
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35675
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

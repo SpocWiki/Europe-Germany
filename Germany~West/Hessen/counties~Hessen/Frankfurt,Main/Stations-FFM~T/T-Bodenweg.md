@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Bodenweg
 location:
-- 50.14219
-- 8.701574
+  - 50.14219
+  - 8.701574
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

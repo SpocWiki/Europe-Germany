@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Stephan-Heise-Straße
 location:
-- 50.13502
-- 8.616024
+  - 50.13502
+  - 8.616024
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

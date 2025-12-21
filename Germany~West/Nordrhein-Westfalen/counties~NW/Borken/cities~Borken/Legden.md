@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Legden
 confidential: public
 isDeleted: false
 location:
-- 52.03
-- 7.12
+  - 52.03
+  - 7.12
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31913
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

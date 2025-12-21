@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Frankfurt-Höchst_Farbwerke
+  - S-Frankfurt-Höchst Farbwerke
 location:
-- 50.09836
-- 8.528183
+  - 50.09836
+  - 8.528183
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

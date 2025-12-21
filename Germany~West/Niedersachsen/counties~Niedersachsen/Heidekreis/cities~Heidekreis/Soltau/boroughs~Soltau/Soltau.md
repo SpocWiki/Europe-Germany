@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Soltau
 confidential: public
 isDeleted: false
 location:
-- 53
-- 9.82
+  - 53
+  - 9.82
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34356
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

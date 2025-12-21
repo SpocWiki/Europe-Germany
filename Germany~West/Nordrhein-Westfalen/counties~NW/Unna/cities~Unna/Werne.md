@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Werne
 confidential: public
 isDeleted: false
 location:
-- 51.67
-- 7.65
+  - 51.67
+  - 7.65
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35553
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

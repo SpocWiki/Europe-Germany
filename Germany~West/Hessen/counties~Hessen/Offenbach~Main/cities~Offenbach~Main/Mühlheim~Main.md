@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Mühlheim~Main
 confidential: public
 isDeleted: false
 location:
-- 50.13
-- 8.83
+  - 50.13
+  - 8.83
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32659
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Vechelde
 confidential: public
 isDeleted: false
 location:
-- 52.27
-- 10.37
+  - 52.27
+  - 10.37
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35226
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

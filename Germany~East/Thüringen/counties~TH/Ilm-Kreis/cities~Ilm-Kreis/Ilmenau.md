@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Ilmenau
 confidential: public
 isDeleted: false
 location:
-- 50.68
-- 10.9
+  - 50.68
+  - 10.9
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31100
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

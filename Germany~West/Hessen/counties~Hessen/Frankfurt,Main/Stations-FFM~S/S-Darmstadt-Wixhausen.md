@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Darmstadt-Wixhausen
 location:
-- 49.93111
-- 8.649722
+  - 49.93111
+  - 8.649722
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

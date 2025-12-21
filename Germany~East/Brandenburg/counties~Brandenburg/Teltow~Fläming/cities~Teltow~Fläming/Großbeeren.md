@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Großbeeren
 confidential: public
 isDeleted: false
 location:
-- 52.35
-- 13.32
+  - 52.35
+  - 13.32
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30609
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

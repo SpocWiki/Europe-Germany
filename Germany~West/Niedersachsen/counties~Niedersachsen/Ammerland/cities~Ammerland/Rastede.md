@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Rastede
 confidential: public
 isDeleted: false
 location:
-- 53.25
-- 8.12
+  - 53.25
+  - 8.12
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33638
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

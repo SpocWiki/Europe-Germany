@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Köln-Muelheim
 confidential: public
 isDeleted: false
 location:
-- 50.97
-- 7
+  - 50.97
+  - 7
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31739
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

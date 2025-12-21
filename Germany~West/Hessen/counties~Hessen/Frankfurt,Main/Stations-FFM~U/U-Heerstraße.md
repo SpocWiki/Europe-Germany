@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Heerstraße
 location:
-- 50.14469
-- 8.607256
+  - 50.14469
+  - 8.607256
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

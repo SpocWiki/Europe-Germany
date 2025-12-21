@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Reinfeld,Holstein
 confidential: public
 isDeleted: false
 location:
-- 53.83
-- 10.48
+  - 53.83
+  - 10.48
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33697
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Kruppstraße
 location:
-- 50.1385
-- 8.745085
+  - 50.1385
+  - 8.745085
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

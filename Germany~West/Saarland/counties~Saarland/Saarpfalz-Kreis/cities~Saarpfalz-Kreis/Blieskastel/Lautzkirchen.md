@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lautzkirchen
 confidential: public
 isDeleted: false
 location:
-- 49.25
-- 7.25
+  - 49.25
+  - 7.25
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31887
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

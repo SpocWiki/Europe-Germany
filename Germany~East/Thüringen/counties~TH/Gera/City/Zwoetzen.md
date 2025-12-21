@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Zwoetzen
 confidential: public
 isDeleted: false
 location:
-- 50.85
-- 12.08
+  - 50.85
+  - 12.08
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35867
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

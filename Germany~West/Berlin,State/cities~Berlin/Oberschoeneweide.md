@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Oberschoeneweide
 confidential: public
 isDeleted: false
 location:
-- 52.47
-- 13.52
+  - 52.47
+  - 13.52
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33044
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

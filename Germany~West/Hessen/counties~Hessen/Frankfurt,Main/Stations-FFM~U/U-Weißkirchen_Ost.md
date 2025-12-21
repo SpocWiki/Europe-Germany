@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Weißkirchen_Ost
+  - U-Weißkirchen Ost
 location:
-- 50.186
-- 8.602746
+  - 50.186
+  - 8.602746
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

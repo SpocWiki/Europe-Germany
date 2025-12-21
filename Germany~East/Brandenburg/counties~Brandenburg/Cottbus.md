@@ -1,18 +1,20 @@
 ---
-location: [51.77,14.33] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Cottbus
+  - Kottbus
+location:
+  - 51.77
+  - 14.33
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31596
 isDeleted: false
 confidential: public
-aliases:
-- Cottbus
-- Kottbus
 ---
 
 #is_a_/Place  

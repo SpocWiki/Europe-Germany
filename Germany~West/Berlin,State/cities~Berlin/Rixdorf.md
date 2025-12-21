@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Rixdorf
 confidential: public
 isDeleted: false
 location:
-- 52.47
-- 13.45
+  - 52.47
+  - 13.45
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33744
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

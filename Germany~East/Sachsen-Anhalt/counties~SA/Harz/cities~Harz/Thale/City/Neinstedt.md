@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Neinstedt
 confidential: public
 isDeleted: false
 location:
-- 51.75
-- 11.08
+  - 51.75
+  - 11.08
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32772
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

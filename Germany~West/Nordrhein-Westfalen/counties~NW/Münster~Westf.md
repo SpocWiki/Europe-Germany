@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Münster~Westf
 confidential: public
 isDeleted: false
 location:
-- 51.97
-- 7.62
+  - 51.97
+  - 7.62
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32679
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

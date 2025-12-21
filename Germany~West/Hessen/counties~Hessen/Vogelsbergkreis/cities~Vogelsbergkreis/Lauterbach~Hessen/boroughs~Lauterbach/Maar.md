@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Maar
 confidential: public
 isDeleted: false
 location:
-- 50.67
-- 9.4
+  - 50.67
+  - 9.4
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32199
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

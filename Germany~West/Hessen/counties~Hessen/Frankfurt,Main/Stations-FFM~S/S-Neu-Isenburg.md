@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Neu-Isenburg
 location:
-- 50.05278
-- 8.665833
+  - 50.05278
+  - 8.665833
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

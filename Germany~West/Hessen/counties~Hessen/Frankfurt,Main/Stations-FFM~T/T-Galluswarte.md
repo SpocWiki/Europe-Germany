@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Galluswarte
 location:
-- 50.1031
-- 8.644609
+  - 50.1031
+  - 8.644609
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

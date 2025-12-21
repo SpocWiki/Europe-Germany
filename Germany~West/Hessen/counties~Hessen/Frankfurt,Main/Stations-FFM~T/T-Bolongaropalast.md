@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Bolongaropalast
 location:
-- 50.10157
-- 8.553355
+  - 50.10157
+  - 8.553355
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

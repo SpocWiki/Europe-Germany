@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Worbis
 confidential: public
 isDeleted: false
 location:
-- 51.42
-- 10.37
+  - 51.42
+  - 10.37
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35700
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

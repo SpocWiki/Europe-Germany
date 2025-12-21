@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Willy-Brandt-Platz
 location:
-- 50.10917
-- 8.67472
+  - 50.10917
+  - 8.67472
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

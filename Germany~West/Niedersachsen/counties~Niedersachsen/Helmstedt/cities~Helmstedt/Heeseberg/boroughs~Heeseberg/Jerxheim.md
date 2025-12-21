@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Jerxheim
 confidential: public
 isDeleted: false
 location:
-- 52.07
-- 10.88
+  - 52.07
+  - 10.88
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31192
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

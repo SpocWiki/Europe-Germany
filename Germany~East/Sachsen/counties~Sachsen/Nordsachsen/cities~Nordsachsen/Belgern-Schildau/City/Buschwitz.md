@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Buschwitz
 confidential: public
 isDeleted: false
 location:
-- 51.47
-- 13.12
+  - 51.47
+  - 13.12
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29423
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

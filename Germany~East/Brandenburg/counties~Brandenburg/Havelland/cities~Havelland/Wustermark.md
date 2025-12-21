@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wustermark
 confidential: public
 isDeleted: false
 location:
-- 52.55
-- 12.95
+  - 52.55
+  - 12.95
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35725
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

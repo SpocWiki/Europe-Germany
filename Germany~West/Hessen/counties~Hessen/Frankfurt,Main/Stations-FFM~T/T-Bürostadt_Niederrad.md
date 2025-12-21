@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Bürostadt_Niederrad
+  - T-Bürostadt Niederrad
 location:
-- 50.07814
-- 8.627926
+  - 50.07814
+  - 8.627926
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

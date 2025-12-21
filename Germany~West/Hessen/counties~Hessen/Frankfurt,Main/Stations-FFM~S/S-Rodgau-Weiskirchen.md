@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Rodgau-Weiskirchen
 location:
-- 50.05318
-- 8.891466
+  - 50.05318
+  - 8.891466
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

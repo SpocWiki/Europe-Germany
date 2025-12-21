@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Gehren~Brandenburg
 confidential: public
 isDeleted: false
 location:
-- 51.07
-- 13.67
+  - 51.07
+  - 13.67
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30390
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Klotzsche
 confidential: public
 isDeleted: false
 location:
-- 51.12
-- 13.77
+  - 51.12
+  - 13.77
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31501
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

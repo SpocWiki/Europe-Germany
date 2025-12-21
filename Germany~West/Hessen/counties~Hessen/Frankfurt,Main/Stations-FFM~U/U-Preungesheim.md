@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Preungesheim
 location:
-- 50.15848
-- 8.687869
+  - 50.15848
+  - 8.687869
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

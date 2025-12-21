@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Habsburgerallee
 location:
-- 50.11694
-- 8.7078
+  - 50.11694
+  - 8.7078
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Schweizer_Str._Mörfelder_Ldstr.
+  - T-Schweizer Str. Mörfelder Ldstr.
 location:
-- 50.09686
-- 8.684231
+  - 50.09686
+  - 8.684231
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

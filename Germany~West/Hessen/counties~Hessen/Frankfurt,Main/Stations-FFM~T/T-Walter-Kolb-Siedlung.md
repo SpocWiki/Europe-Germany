@@ -1,14 +1,16 @@
 ---
+aliases:
+  - T-Walter-Kolb-Siedlung
 location:
-- 50.14648
-- 8.703264
+  - 50.14648
+  - 8.703264
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
-- 
+  - geo/station/tram
+  - ''
 type: Station
 ---
 

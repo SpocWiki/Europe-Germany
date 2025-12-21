@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Frankfurt_Ostendstraße
+  - S-Frankfurt Ostendstraße
 location:
-- 50.11139
-- 8.6975
+  - 50.11139
+  - 8.6975
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

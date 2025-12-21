@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Station_Ostendstraße
+  - S-Station Ostendstraße
 location:
-- 50.11315
-- 8.697785
+  - 50.11315
+  - 8.697785
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

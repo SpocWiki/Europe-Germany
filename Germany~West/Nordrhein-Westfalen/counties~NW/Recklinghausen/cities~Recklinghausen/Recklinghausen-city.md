@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Recklinghausen-city
 confidential: public
 isDeleted: false
 location:
-- 51.61
-- 7.19
+  - 51.61
+  - 7.19
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33667
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

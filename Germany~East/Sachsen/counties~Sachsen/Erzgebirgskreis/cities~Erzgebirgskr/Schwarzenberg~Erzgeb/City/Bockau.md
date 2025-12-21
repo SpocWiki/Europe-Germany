@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Bockau
 confidential: public
 isDeleted: false
 location:
-- 50.53
-- 12.75
+  - 50.53
+  - 12.75
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29244
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

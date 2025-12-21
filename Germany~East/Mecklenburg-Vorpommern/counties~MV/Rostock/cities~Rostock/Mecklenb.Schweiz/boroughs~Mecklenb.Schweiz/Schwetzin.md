@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Schwetzin
 confidential: public
 isDeleted: false
 location:
-- 53.85
-- 12.58
+  - 53.85
+  - 12.58
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34117
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Mehlbergen
 confidential: public
 isDeleted: false
 location:
-- 52.7
-- 9.17
+  - 52.7
+  - 9.17
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32377
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

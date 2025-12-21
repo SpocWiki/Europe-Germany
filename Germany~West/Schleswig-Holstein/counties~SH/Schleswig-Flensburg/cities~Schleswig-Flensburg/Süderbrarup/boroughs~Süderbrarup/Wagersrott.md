@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wagersrott
 confidential: public
 isDeleted: false
 location:
-- 54.63
-- 9.78
+  - 54.63
+  - 9.78
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35385
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Zschooau
 confidential: public
 isDeleted: false
 location:
-- 50.77
-- 13.07
+  - 50.77
+  - 13.07
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35852
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

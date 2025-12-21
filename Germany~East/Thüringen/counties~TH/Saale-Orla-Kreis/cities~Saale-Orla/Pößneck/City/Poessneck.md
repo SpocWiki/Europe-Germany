@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Poessneck
 confidential: public
 isDeleted: false
 location:
-- 50.7
-- 11.58
+  - 50.7
+  - 11.58
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33573
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

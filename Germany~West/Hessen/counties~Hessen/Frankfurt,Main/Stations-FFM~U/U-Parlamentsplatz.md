@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Parlamentsplatz
 location:
-- 50.12
-- 8.714167
+  - 50.12
+  - 8.714167
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Altona
 confidential: public
 isDeleted: false
 location:
-- 53.55
-- 9.95
+  - 53.55
+  - 9.95
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 28787
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

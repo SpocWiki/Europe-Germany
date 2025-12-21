@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Perleberg
 confidential: public
 isDeleted: false
 location:
-- 53.08
-- 11.87
+  - 53.08
+  - 11.87
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33307
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

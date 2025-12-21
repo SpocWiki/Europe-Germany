@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Königswinter
 confidential: public
 isDeleted: false
 location:
-- 50.68
-- 7.2
+  - 50.68
+  - 7.2
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31533
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

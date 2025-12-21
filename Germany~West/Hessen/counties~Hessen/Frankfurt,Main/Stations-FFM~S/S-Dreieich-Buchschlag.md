@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Dreieich-Buchschlag
 location:
-- 50.01889
-- 8.696111
+  - 50.01889
+  - 8.696111
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Holtwick,Rosendahl
 confidential: public
 isDeleted: false
 location:
-- 52
-- 7.13
+  - 52
+  - 7.13
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31004
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

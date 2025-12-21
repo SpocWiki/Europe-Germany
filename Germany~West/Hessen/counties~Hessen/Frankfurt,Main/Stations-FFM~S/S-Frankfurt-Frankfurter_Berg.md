@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Frankfurt-Frankfurter_Berg
+  - S-Frankfurt-Frankfurter Berg
 location:
-- 50.17012
-- 8.677203
+  - 50.17012
+  - 8.677203
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

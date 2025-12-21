@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Textorstraße
 location:
-- 50.10258
-- 8.689552
+  - 50.10258
+  - 8.689552
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

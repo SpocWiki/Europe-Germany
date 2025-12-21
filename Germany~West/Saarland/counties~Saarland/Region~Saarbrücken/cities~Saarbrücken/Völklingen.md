@@ -1,18 +1,19 @@
 ---
 aliases:
-- Voelklingen
+  - Voelklingen
+  - Völklingen
 confidential: public
 isDeleted: false
 location:
-- 49.25
-- 6.85
+  - 49.25
+  - 6.85
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35338
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

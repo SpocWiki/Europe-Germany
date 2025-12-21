@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Konstablerwache
 location:
-- 50.1141
-- 8.688
+  - 50.1141
+  - 8.688
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

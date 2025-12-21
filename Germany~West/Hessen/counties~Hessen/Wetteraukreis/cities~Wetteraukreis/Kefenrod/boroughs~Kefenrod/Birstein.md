@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Birstein
 confidential: public
 isDeleted: false
 location:
-- 50.35
-- 9.25
+  - 50.35
+  - 9.25
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29196
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

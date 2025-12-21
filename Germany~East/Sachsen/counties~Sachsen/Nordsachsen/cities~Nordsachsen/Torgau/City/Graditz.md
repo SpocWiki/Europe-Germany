@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Graditz
 confidential: public
 isDeleted: false
 location:
-- 51.55
-- 13.07
+  - 51.55
+  - 13.07
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30534
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

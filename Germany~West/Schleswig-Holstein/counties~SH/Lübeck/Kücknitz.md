@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Kücknitz
 confidential: public
 isDeleted: false
 location:
-- 53.92
-- 10.8
+  - 53.92
+  - 10.8
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31728
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

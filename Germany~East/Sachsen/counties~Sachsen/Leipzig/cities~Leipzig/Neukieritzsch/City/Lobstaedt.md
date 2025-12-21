@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lobstaedt
 confidential: public
 isDeleted: false
 location:
-- 51.13
-- 12.45
+  - 51.13
+  - 12.45
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32060
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

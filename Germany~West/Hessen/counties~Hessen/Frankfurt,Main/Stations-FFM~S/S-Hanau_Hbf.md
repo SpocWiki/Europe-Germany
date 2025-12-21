@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Hanau_Hbf
+  - S-Hanau Hbf
 location:
-- 50.12139
-- 8.929722
+  - 50.12139
+  - 8.929722
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

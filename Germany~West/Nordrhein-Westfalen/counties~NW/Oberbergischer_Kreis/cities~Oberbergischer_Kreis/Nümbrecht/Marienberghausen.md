@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Marienberghausen
 confidential: public
 isDeleted: false
 location:
-- 50.92
-- 7.5
+  - 50.92
+  - 7.5
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32290
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

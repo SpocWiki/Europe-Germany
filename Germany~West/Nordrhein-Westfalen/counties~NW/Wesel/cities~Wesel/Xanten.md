@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Xanten
 confidential: public
 isDeleted: false
 location:
-- 51.66
-- 6.45
+  - 51.66
+  - 6.45
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35737
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Osthafenplatz
 location:
-- 50.11143
-- 8.711917
+  - 50.11143
+  - 8.711917
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

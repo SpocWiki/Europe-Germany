@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hollerath
 confidential: public
 isDeleted: false
 location:
-- 50.47
-- 6.4
+  - 50.47
+  - 6.4
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30999
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

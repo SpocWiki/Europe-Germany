@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Garz,Prignitz
 confidential: public
 isDeleted: false
 location:
-- 53.07
-- 12.12
+  - 53.07
+  - 12.12
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30368
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

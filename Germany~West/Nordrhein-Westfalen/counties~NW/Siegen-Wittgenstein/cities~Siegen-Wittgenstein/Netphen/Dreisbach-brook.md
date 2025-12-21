@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Dreisbach-brook
 confidential: public
 isDeleted: false
 location:
-- 50.92
-- 8.08
+  - 50.92
+  - 8.08
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29877
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

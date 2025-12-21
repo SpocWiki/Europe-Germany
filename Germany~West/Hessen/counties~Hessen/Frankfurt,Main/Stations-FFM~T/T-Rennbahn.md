@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Rennbahn
 location:
-- 50.08323
-- 8.651384
+  - 50.08323
+  - 8.651384
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

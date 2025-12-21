@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Sulzbach~Taunus_Nord
+  - S-Sulzbach~Taunus Nord
 location:
-- 50.13306
-- 8.528889
+  - 50.13306
+  - 8.528889
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

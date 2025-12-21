@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Siemersdorf
 confidential: public
 isDeleted: false
 location:
-- 54.08
-- 12.83
+  - 54.08
+  - 12.83
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34253
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

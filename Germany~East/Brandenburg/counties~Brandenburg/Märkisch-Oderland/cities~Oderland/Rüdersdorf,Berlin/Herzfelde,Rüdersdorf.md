@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Herzfelde,Rüdersdorf
 confidential: public
 isDeleted: false
 location:
-- 52.48
-- 13.85
+  - 52.48
+  - 13.85
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30925
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

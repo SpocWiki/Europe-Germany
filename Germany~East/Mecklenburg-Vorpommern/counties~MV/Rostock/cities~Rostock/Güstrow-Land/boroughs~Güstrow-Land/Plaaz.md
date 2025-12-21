@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Plaaz
 confidential: public
 isDeleted: false
 location:
-- 53.85
-- 12.35
+  - 53.85
+  - 12.35
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33397
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

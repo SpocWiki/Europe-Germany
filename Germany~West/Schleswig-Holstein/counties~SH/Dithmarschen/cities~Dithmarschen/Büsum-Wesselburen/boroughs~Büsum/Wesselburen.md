@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wesselburen
 confidential: public
 isDeleted: false
 location:
-- 54.22
-- 8.93
+  - 54.22
+  - 8.93
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35565
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

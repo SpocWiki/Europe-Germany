@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Oderberg
 confidential: public
 isDeleted: false
 location:
-- 51.72
-- 10.53
+  - 51.72
+  - 10.53
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33061
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

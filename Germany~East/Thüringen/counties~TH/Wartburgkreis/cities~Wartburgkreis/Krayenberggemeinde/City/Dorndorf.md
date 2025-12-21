@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Dorndorf
 confidential: public
 isDeleted: false
 location:
-- 50.83
-- 10.08
+  - 50.83
+  - 10.08
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29851
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

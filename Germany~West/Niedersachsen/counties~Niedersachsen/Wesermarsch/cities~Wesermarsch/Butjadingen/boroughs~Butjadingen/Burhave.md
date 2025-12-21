@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Burhave
 confidential: public
 isDeleted: false
 location:
-- 53.58
-- 8.37
+  - 53.58
+  - 8.37
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29417
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

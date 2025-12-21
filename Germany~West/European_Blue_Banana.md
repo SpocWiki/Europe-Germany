@@ -1,6 +1,7 @@
 ---
 aliases:
-- "European Blue Banana"
+  - European Blue Banana
+  - European_Blue_Banana
 ---
 
 ﻿

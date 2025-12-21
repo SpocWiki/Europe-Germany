@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Nordwestzentrum
 location:
-- 50.15805
-- 8.634167
+  - 50.15805
+  - 8.634167
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

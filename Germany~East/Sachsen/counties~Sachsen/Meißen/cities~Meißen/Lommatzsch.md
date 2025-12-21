@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lommatzsch
 confidential: public
 isDeleted: false
 location:
-- 51.2
-- 13.32
+  - 51.2
+  - 13.32
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32080
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

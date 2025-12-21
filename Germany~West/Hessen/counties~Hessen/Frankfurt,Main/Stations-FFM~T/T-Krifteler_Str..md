@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Krifteler_Str.
+  - T-Krifteler Str.
 location:
-- 50.09896
-- 8.634068
+  - 50.09896
+  - 8.634068
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

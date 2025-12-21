@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Allendorf
 confidential: public
 isDeleted: false
 location:
-- 50.66
-- 11.15
+  - 50.66
+  - 11.15
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 28746
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Strücklingen
 confidential: public
 isDeleted: false
 location:
-- 53.12
-- 7.68
+  - 53.12
+  - 7.68
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34631
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,9 +1,11 @@
 ---
 aliases:
-- T68_Köpenick
+  - T68_Köpenick
+  - Friedrichstraße_Station,Berlin
+  - Friedrichstraße Station,Berlin
 location:
-- 52.520278
-- 13.386944
+  - 52.520278
+  - 13.386944
 ---
 
 #has_/place_/latitude :: 52.520278 

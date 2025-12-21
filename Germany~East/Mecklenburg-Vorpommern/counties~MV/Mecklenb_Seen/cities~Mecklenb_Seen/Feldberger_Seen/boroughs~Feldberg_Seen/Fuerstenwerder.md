@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Fuerstenwerder
 confidential: public
 isDeleted: false
 location:
-- 53.38
-- 13.45
+  - 53.38
+  - 13.45
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30325
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

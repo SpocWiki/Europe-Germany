@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Markranstaedt
 confidential: public
 isDeleted: false
 location:
-- 51.3
-- 12.23
+  - 51.3
+  - 12.23
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32314
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

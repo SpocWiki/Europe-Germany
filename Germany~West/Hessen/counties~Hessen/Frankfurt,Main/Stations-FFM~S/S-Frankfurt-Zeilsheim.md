@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Frankfurt-Zeilsheim
 location:
-- 50.09028
-- 8.506667
+  - 50.09028
+  - 8.506667
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

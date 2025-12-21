@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Malchow
 confidential: public
 isDeleted: false
 location:
-- 53.48
-- 12.43
+  - 53.48
+  - 12.43
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32232
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

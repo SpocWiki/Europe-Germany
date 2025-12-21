@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Hügelstraße
 location:
-- 50.14798
-- 8.666282
+  - 50.14798
+  - 8.666282
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

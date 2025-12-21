@@ -1,15 +1,16 @@
 ---
 aliases:
-- Bremen
+  - Bremen
+  - Bremen,State
 Confidential: public
 icon: Flag_of_Bremen
 isDeleted: false
 location:
-- 53.222
-- 8.682
+  - 53.222
+  - 8.682
 SpocWebEntityId: 29332
 tags:
-- geo/State
+  - geo/State
 type: State
 ---
 

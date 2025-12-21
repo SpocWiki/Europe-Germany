@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Saarlouis-city
 confidential: public
 isDeleted: false
 location:
-- 49.32
-- 6.75
+  - 49.32
+  - 6.75
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33860
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

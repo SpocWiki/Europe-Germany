@@ -1,15 +1,16 @@
 ---
 aliases:
-- DDR
-- "East Germany"
-- "Deutsche Demokratische Republik"
-- "German Democratic Republic"
-- GDR
+  - DDR
+  - East Germany
+  - Deutsche Demokratische Republik
+  - German Democratic Republic
+  - GDR
+  - Germany~East
 confidential: public
 isDeleted: false
 SpocWebEntityId: 59063
 tags:
-- geo/Country
+  - geo/Country
 type: Country
 ---
 

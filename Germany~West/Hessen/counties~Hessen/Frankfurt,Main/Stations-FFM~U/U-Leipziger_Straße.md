@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Leipziger_Straße
+  - U-Leipziger Straße
 location:
-- 50.12262
-- 8.645867
+  - 50.12262
+  - 8.645867
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

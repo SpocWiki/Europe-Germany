@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Dudenhofen
 confidential: public
 isDeleted: false
 location:
-- 50.03
-- 8.9
+  - 50.03
+  - 8.9
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29898
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

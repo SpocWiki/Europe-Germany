@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Stedesand
 confidential: public
 isDeleted: false
 location:
-- 54.75
-- 8.93
+  - 54.75
+  - 8.93
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34538
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

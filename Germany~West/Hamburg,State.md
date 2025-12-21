@@ -1,16 +1,17 @@
 ---
 aliases:
-- Hamburg
+  - Hamburg
+  - Hamburg,State
 Confidential: public
 icon: Flag_of_Hamburg
 isDeleted: false
 ISO3166_2: DE-HH
 location:
-- 53.54
-- 9.93222
+  - 53.54
+  - 9.93222
 SpocWebEntityId: 30742
 tags:
-- geo/State
+  - geo/State
 type: State
 ---
 

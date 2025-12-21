@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Twistringen
 confidential: public
 isDeleted: false
 location:
-- 52.8
-- 8.63
+  - 52.8
+  - 8.63
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35069
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

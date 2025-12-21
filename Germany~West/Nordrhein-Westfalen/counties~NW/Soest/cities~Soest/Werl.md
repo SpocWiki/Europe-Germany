@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Werl
 confidential: public
 isDeleted: false
 location:
-- 51.55
-- 7.92
+  - 51.55
+  - 7.92
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35549
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

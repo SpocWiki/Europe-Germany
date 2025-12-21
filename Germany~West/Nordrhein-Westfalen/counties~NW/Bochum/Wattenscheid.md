@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wattenscheid
 confidential: public
 isDeleted: false
 location:
-- 51.48
-- 7.13
+  - 51.48
+  - 7.13
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35473
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

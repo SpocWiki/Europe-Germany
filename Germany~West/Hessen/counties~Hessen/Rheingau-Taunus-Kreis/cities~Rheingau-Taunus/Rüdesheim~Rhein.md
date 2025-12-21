@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Rüdesheim~Rhein
 confidential: public
 isDeleted: false
 location:
-- 49.98
-- 7.93
+  - 49.98
+  - 7.93
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33842
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

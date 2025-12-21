@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Beverungen
 confidential: public
 isDeleted: false
 location:
-- 51.67
-- 9.25
+  - 51.67
+  - 9.25
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29164
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

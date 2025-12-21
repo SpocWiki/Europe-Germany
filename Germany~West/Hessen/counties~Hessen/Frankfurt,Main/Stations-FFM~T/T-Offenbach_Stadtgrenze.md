@@ -1,15 +1,18 @@
 ---
+aliases:
+  - T-Offenbach_Stadtgrenze
+  - T-Offenbach Stadtgrenze
 location:
-- 50.10189
-- 8.744951
+  - 50.10189
+  - 8.744951
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station
-- transport/tram
-- 
+  - geo/station
+  - transport/tram
+  - ''
 type: Station
 ---
 

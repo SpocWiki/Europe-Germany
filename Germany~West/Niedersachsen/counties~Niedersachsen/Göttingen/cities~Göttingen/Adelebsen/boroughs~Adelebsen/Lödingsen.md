@@ -1,18 +1,19 @@
 ---
 aliases:
-- Loedingsen
+  - Loedingsen
+  - Lödingsen
 confidential: public
 isDeleted: false
 location:
-- 51.58
-- 9.78
+  - 51.58
+  - 9.78
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32188
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

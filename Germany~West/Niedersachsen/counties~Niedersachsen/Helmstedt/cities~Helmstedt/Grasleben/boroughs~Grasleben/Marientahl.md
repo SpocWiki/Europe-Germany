@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Marientahl
 confidential: public
 isDeleted: false
 location:
-- 52.27
-- 10.98
+  - 52.27
+  - 10.98
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32297
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

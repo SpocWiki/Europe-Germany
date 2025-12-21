@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Eslohe,Sauerland
 confidential: public
 isDeleted: false
 location:
-- 51.27
-- 8.17
+  - 51.27
+  - 8.17
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30070
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

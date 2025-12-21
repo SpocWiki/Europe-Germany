@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Adalbert-Schloßstraße
 location:
-- 50.11899
-- 8.644135
+  - 50.11899
+  - 8.644135
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

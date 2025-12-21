@@ -1,26 +1,26 @@
 ---
 aliases:
-- FFM~U5
+  - FFM~U5
 confidential: public
 cssclasses: geo-Region
 draft: false
-expiryDate: 
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords: 
+keywords: ''
 Languages:
-- de
-layout: 
-license: "CC BY-SA 4.0"
-linkTitle: 
+  - de
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: ''
 location:
-- 50.1316
-- 8.683598
+  - 50.1316
+  - 8.683598
 publish: true
-publishDate: 
-source: "https://datahub.io/core/country-codes"
+publishDate: ''
+source: https://datahub.io/core/country-codes
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 title: FFM~U5
 type: geo-Region
 ---

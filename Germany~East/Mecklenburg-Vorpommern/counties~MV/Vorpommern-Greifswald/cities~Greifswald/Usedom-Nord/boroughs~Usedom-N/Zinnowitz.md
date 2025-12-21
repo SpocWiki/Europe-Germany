@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Zinnowitz
 confidential: public
 isDeleted: false
 location:
-- 54.08
-- 13.92
+  - 54.08
+  - 13.92
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35837
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

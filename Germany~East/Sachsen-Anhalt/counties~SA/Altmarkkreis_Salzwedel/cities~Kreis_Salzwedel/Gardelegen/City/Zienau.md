@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Zienau
 confidential: public
 isDeleted: false
 location:
-- 52.52
-- 11.43
+  - 52.52
+  - 11.43
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35827
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

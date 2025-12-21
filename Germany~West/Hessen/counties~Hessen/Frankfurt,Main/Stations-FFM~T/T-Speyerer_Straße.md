@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Speyerer_Straße
+  - T-Speyerer Straße
 location:
-- 50.10542
-- 8.650518
+  - 50.10542
+  - 8.650518
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

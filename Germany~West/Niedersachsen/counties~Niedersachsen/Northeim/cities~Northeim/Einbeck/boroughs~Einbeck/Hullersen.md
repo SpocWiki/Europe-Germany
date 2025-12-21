@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hullersen
 confidential: public
 isDeleted: false
 location:
-- 51.82
-- 9.83
+  - 51.82
+  - 9.83
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31054
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

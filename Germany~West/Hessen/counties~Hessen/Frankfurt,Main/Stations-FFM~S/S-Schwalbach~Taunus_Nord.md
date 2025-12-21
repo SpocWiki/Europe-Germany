@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Schwalbach~Taunus_Nord
+  - S-Schwalbach~Taunus Nord
 location:
-- 50.15986
-- 8.534777
+  - 50.15986
+  - 8.534777
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

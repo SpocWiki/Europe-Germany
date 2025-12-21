@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Scheibe
 confidential: public
 isDeleted: false
 location:
-- 50.48
-- 11.07
+  - 50.48
+  - 11.07
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34001
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

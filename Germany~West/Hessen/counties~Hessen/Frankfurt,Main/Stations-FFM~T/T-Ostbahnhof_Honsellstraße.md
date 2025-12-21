@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Ostbahnhof_Honsellstraße
+  - T-Ostbahnhof Honsellstraße
 location:
-- 50.11137
-- 8.708612
+  - 50.11137
+  - 8.708612
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

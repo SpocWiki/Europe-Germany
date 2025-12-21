@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Lindenbaum
 location:
-- 50.15299
-- 8.661025
+  - 50.15299
+  - 8.661025
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

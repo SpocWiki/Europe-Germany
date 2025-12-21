@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Wiesenau
 location:
-- 50.16677
-- 8.62989
+  - 50.16677
+  - 8.62989
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

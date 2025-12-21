@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Ochtmissen
 confidential: public
 isDeleted: false
 location:
-- 53.27
-- 10.38
+  - 53.27
+  - 10.38
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33056
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Honnef,Bad
 confidential: public
 isDeleted: false
 location:
-- 50.65
-- 7.23
+  - 50.65
+  - 7.23
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31018
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

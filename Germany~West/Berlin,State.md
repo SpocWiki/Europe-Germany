@@ -1,16 +1,17 @@
 ---
 aliases:
-- Berlin
+  - Berlin
+  - Berlin,State
 Confidential: public
 icon: Flag_of_Berlin
 isDeleted: false
 ISO3166_2: DE-BE
 location:
-- 52.4926
-- 13.3689
+  - 52.4926
+  - 13.3689
 SpocWebEntityId: 29130
 tags:
-- geo/State
+  - geo/State
 type: State
 ---
 

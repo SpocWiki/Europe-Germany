@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Groß-Gerau-city
 confidential: public
 isDeleted: false
 location:
-- 49.92
-- 8.48
+  - 49.92
+  - 8.48
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30613
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

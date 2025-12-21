@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Essen,Bad
 confidential: public
 isDeleted: false
 location:
-- 52.32
-- 8.34
+  - 52.32
+  - 8.34
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 28961
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

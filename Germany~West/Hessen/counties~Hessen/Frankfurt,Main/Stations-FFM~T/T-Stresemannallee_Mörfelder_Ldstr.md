@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Stresemannallee_Mörfelder_Ldstr
+  - T-Stresemannallee Mörfelder Ldstr
 location:
-- 50.08909
-- 8.671614
+  - 50.08909
+  - 8.671614
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

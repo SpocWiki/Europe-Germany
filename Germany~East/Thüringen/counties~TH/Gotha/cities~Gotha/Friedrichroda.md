@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Friedrichroda
 confidential: public
 isDeleted: false
 location:
-- 50.87
-- 10.62
+  - 50.87
+  - 10.62
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30285
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Rüsselsheim_Opelwerk
+  - S-Rüsselsheim Opelwerk
 location:
-- 49.995
-- 8.411944
+  - 49.995
+  - 8.411944
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

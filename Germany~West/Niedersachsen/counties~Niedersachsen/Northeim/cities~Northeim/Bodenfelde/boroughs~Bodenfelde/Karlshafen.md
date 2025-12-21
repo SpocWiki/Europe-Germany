@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Karlshafen
 confidential: public
 isDeleted: false
 location:
-- 51.63
-- 9.5
+  - 51.63
+  - 9.5
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31315
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

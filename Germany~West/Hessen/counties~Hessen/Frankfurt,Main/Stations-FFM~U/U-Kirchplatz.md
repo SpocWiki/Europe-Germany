@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Kirchplatz
 location:
-- 50.12508
-- 8.63721
+  - 50.12508
+  - 8.63721
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

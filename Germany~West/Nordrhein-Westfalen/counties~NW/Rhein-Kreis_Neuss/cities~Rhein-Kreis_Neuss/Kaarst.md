@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Kaarst
 confidential: public
 isDeleted: false
 location:
-- 51.23
-- 6.63
+  - 51.23
+  - 6.63
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31241
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Braunschweig
 confidential: public
 isDeleted: false
 location:
-- 52.27
-- 10.52
+  - 52.27
+  - 10.52
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29324
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

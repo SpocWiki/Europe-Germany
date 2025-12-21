@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Feudingen
 confidential: public
 isDeleted: false
 location:
-- 50.95
-- 8.33
+  - 50.95
+  - 8.33
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30159
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

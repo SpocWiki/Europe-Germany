@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Dietzenbach-Steinberg
 location:
-- 50.00861
-- 8.775556
+  - 50.00861
+  - 8.775556
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station
+  - geo/station
 type: Station
 ---
 

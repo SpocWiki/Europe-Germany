@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Eddersheim
 location:
-- 50.03953
-- 8.471677
+  - 50.03953
+  - 8.471677
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

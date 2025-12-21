@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Oberschweinstiege
 location:
-- 50.07059
-- 8.678148
+  - 50.07059
+  - 8.678148
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

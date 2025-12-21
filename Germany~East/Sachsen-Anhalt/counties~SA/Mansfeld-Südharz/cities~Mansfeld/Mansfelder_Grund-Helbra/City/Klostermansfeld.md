@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Klostermansfeld
 confidential: public
 isDeleted: false
 location:
-- 51.58
-- 11.48
+  - 51.58
+  - 11.48
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31498
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

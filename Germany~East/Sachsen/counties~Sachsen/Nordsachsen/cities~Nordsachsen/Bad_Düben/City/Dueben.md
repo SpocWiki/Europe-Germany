@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Dueben
 confidential: public
 isDeleted: false
 location:
-- 51.58
-- 12.58
+  - 51.58
+  - 12.58
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29929
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

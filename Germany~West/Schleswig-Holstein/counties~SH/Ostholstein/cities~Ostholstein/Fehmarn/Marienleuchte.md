@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Marienleuchte
 confidential: public
 isDeleted: false
 location:
-- 54.5
-- 11.25
+  - 54.5
+  - 11.25
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32295
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

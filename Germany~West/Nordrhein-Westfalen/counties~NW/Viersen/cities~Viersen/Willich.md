@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Willich
 confidential: public
 isDeleted: false
 location:
-- 51.27
-- 6.55
+  - 51.27
+  - 6.55
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35622
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

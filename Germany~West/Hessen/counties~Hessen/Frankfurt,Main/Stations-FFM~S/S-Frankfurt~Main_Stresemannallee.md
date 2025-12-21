@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Frankfurt~Main_Stresemannallee
+  - S-Frankfurt~Main Stresemannallee
 location:
-- 50.0942
-- 8.6715
+  - 50.0942
+  - 8.6715
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

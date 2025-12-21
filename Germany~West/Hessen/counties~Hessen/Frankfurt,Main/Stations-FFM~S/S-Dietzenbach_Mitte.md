@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Dietzenbach_Mitte
+  - S-Dietzenbach Mitte
 location:
-- 50.01766
-- 8.78923
+  - 50.01766
+  - 8.78923
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train/train
+  - geo/station/train/train
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hornburg
 confidential: public
 isDeleted: false
 location:
-- 52.03
-- 10.6
+  - 52.03
+  - 10.6
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31029
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

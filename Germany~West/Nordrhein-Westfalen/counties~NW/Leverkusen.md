@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Leverkusen
 confidential: public
 isDeleted: false
 location:
-- 51.03
-- 6.98
+  - 51.03
+  - 6.98
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31967
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

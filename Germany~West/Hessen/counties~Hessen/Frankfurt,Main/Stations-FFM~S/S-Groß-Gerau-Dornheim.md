@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Groß-Gerau-Dornheim
 location:
-- 49.87778
-- 8.483889
+  - 49.87778
+  - 8.483889
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

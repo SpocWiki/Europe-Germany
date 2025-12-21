@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Sandfoerde
 confidential: public
 isDeleted: false
 location:
-- 53.57
-- 14
+  - 53.57
+  - 14
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33929
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

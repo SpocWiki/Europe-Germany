@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Marbachweg_Sozialzentrum
+  - U-Marbachweg Sozialzentrum
 location:
-- 50.14209
-- 8.684
+  - 50.14209
+  - 8.684
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station
+  - geo/station
 type: Station
 ---
 

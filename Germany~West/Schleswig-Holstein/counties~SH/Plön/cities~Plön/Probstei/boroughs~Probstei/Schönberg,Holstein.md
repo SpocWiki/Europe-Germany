@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Schönberg,Holstein
 confidential: public
 isDeleted: false
 location:
-- 54.4
-- 10.37
+  - 54.4
+  - 10.37
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34135
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

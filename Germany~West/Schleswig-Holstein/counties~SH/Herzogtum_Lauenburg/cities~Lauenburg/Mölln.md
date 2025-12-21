@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Mölln
 confidential: public
 isDeleted: false
 location:
-- 53.62
-- 10.68
+  - 53.62
+  - 10.68
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32695
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

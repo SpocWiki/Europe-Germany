@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Frankfurt_Hauptwache
+  - S-Frankfurt Hauptwache
 location:
-- 50.11389
-- 8.678889
+  - 50.11389
+  - 8.678889
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station
+  - geo/station
 type: Station
 ---
 

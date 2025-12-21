@@ -1,18 +1,19 @@
 ---
 aliases:
-- Bersenbrueck
+  - Bersenbrueck
+  - Bersenbrück
 confidential: public
 isDeleted: false
 location:
-- 52.88
-- 8
+  - 52.88
+  - 8
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29146
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Fraulautern
 confidential: public
 isDeleted: false
 location:
-- 49.32
-- 6.8
+  - 49.32
+  - 6.8
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30241
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

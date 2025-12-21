@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Ballie
 confidential: public
 isDeleted: false
 location:
-- 53.83
-- 9
+  - 53.83
+  - 9
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 28996
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

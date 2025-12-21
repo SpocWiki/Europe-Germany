@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Cunnersdorf
 confidential: public
 isDeleted: false
 location:
-- 51.3
-- 13.95
+  - 51.3
+  - 13.95
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29689
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

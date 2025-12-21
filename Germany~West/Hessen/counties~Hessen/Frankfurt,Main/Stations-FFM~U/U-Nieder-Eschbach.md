@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Nieder-Eschbach
 location:
-- 50.19913
-- 8.670487
+  - 50.19913
+  - 8.670487
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

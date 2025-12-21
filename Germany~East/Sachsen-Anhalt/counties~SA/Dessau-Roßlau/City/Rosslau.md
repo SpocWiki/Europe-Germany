@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Rosslau
 confidential: public
 isDeleted: false
 location:
-- 51.88
-- 12.25
+  - 51.88
+  - 12.25
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33814
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

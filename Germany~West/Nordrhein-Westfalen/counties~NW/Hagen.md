@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hagen
 confidential: public
 isDeleted: false
 location:
-- 51.36
-- 7.46
+  - 51.36
+  - 7.46
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30697
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

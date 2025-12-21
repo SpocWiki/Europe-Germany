@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hatzfeld~Eder
 confidential: public
 isDeleted: false
 location:
-- 50.98
-- 8.55
+  - 50.98
+  - 8.55
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30806
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Sondershausen
 confidential: public
 isDeleted: false
 location:
-- 51.37
-- 10.87
+  - 51.37
+  - 10.87
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34367
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

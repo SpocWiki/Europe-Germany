@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Frauenberg
 confidential: public
 isDeleted: false
 location:
-- 51.08
-- 9.62
+  - 51.08
+  - 9.62
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30235
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

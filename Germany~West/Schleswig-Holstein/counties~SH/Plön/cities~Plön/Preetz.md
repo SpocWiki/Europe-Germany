@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Preetz
 confidential: public
 isDeleted: false
 location:
-- 54.25
-- 10.28
+  - 54.25
+  - 10.28
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33509
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,9 +1,11 @@
 ---
 aliases:
-- T68_Köpenick
+  - T68_Köpenick
+  - Köpenick_Station,Berlin
+  - Köpenick Station,Berlin
 location:
-- 52.458611
-- 13.580833
+  - 52.458611
+  - 13.580833
 ---
 
 #has_/place_/latitude :: 52.458611 

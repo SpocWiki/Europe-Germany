@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Delve
 confidential: public
 isDeleted: false
 location:
-- 54.33
-- 9.25
+  - 54.33
+  - 9.25
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29743
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

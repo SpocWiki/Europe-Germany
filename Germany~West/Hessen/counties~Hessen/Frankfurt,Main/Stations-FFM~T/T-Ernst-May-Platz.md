@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Ernst-May-Platz
 location:
-- 50.12626
-- 8.716659
+  - 50.12626
+  - 8.716659
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

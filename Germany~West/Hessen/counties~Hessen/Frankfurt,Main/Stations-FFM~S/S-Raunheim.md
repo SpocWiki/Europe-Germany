@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Raunheim
 location:
-- 50.00972
-- 8.45
+  - 50.00972
+  - 8.45
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

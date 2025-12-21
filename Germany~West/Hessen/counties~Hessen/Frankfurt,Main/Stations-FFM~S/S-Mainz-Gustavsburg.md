@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Mainz-Gustavsburg
 location:
-- 49.99441
-- 8.314038
+  - 49.99441
+  - 8.314038
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

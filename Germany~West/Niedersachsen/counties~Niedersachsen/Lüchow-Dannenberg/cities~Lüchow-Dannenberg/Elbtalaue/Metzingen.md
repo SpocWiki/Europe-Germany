@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Metzingen
 confidential: public
 isDeleted: false
 location:
-- 53.13
-- 10.97
+  - 53.13
+  - 10.97
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32450
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

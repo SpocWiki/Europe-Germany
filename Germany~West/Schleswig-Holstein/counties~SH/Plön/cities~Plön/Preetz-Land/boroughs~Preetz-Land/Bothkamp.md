@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Bothkamp
 confidential: public
 isDeleted: false
 location:
-- 54.2
-- 10.13
+  - 54.2
+  - 10.13
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29292
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

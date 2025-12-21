@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Dreileben
 confidential: public
 isDeleted: false
 location:
-- 52.17
-- 11.35
+  - 52.17
+  - 11.35
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29876
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

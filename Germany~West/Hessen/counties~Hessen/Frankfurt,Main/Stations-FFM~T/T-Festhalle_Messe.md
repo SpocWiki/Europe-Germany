@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Festhalle_Messe
+  - T-Festhalle Messe
 location:
-- 50.11203
-- 8.654609
+  - 50.11203
+  - 8.654609
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

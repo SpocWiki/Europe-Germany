@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Burkhardsdorf
 confidential: public
 isDeleted: false
 location:
-- 50.73
-- 12.75
+  - 50.73
+  - 12.75
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29418
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

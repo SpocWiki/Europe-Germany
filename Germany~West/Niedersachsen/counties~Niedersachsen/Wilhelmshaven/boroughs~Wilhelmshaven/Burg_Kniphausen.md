@@ -1,16 +1,19 @@
 ---
+aliases:
+  - Burg_Kniphausen
+  - Burg Kniphausen
 confidential: public
 isDeleted: false
 location:
-- 53.55
-- 8.05
+  - 53.55
+  - 8.05
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31514
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

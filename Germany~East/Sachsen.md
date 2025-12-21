@@ -1,125 +1,125 @@
 ---
 aliases:
-- Saxony
-- Sachsen
-archives_at: "[[_Standards/WikiData/WD~Saxony State Archives]]"
+  - Saxony
+  - Sachsen
+has_id_wikidata: Q1202
+archives_at: '[[_Standards/WikiData/WD~Saxony State Archives]]'
 area: 18415.66
 BHCL_UUID:
-- f223d3c4-5af5-4af3-b2e1-c44aa7f8ebd0
-- b69c8df2-b7e4-4ede-8e67-764adaf34ec2
-- d30f286c-485e-4aba-ad40-07e9a424799f
+  - f223d3c4-5af5-4af3-b2e1-c44aa7f8ebd0
+  - b69c8df2-b7e4-4ede-8e67-764adaf34ec2
+  - d30f286c-485e-4aba-ad40-07e9a424799f
 budget: 25083152600
 capital: '[[_Standards/WikiData/WD~Dresden]]'
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Saxony]]"
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Saxony.svg"
+coat_of_arms: '[[_Standards/WikiData/WD~coat of arms of Saxony]]'
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Saxony.svg
 Commons_category: Saxony
 Commons_gallery: Sachsen
 Confidential: public
-contact_page_URL: "https://www.sachsen.de/kontakt.html"
+contact_page_URL: https://www.sachsen.de/kontakt.html
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Bautzen District]]"
-- '[[_Standards/WikiData/WD~Dresden]]'
-- '[[_Standards/WikiData/WD~Leipzig]]'
-- '[[_Standards/WikiData/WD~Chemnitz]]'
-- '[[_Standards/WikiData/WD~Nordsachsen]]'
-- "[[_Standards/WikiData/WD~Landkreis Leipzig]]"
-- "[[_Standards/WikiData/WD~Meissen District]]"
-- '[[_Standards/WikiData/WD~Görlitz]]'
-- "[[_Standards/WikiData/WD~Sächsische Schweiz-Osterzgebirge]]"
-- '[[_Standards/WikiData/WD~Zwickau]]'
-- '[[_Standards/WikiData/WD~Mittelsachsen]]'
-- '[[_Standards/WikiData/WD~Erzgebirgskreis]]'
-- '[[_Standards/WikiData/WD~Vogtlandkreis]]'
-- "[[_Standards/WikiData/WD~Chemnitz Government Region]]"
+  - '[[_Standards/WikiData/WD~Bautzen District]]'
+  - '[[_Standards/WikiData/WD~Dresden]]'
+  - '[[_Standards/WikiData/WD~Leipzig]]'
+  - '[[_Standards/WikiData/WD~Chemnitz]]'
+  - '[[_Standards/WikiData/WD~Nordsachsen]]'
+  - '[[_Standards/WikiData/WD~Landkreis Leipzig]]'
+  - '[[_Standards/WikiData/WD~Meissen District]]'
+  - '[[_Standards/WikiData/WD~Görlitz]]'
+  - '[[_Standards/WikiData/WD~Sächsische Schweiz-Osterzgebirge]]'
+  - '[[_Standards/WikiData/WD~Zwickau]]'
+  - '[[_Standards/WikiData/WD~Mittelsachsen]]'
+  - '[[_Standards/WikiData/WD~Erzgebirgskreis]]'
+  - '[[_Standards/WikiData/WD~Vogtlandkreis]]'
+  - '[[_Standards/WikiData/WD~Chemnitz Government Region]]'
 continent: '[[_Standards/WikiData/WD~Europe]]'
-coordinate_location: "Point(13.358888888 51.026944444)"
+coordinate_location: Point(13.358888888 51.026944444)
 country: '[[_Standards/WikiData/WD~Germany]]'
 demonym:
-- Saščan
-- Saščanka
+  - Saščan
+  - Saščanka
 Dewey_Decimal_Classification: 2--4321
 different_from:
-- '[[_Standards/WikiData/WD~Sachsen]]'
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Saxony]]"
+  - '[[_Standards/WikiData/WD~Sachsen]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy of Saxony]]'
 elevation_above_sea_level: 342
-email_address: "mailto:info@sk.sachsen.de"
+email_address: mailto:info@sk.sachsen.de
 Facebook_username: Freistaat.Sachsen
 FIPS_10_4_countries_and_regions_: GM13
-flag: "[[_Standards/WikiData/WD~flag of Saxony]]"
-flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saxony.svg"
+flag: '[[_Standards/WikiData/WD~flag of Saxony]]'
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saxony.svg
 follows: '[[_Standards/WikiData/WD~Saxony]]'
-geoshape: "http://commons.wikimedia.org/data/main/Data:Sachsen.map"
+geoshape: http://commons.wikimedia.org/data/main/Data:Sachsen.map
 German_regional_key: 14
 HASC:
-- DE.SN
-has_id_wikidata: Q1202
+  - DE.SN
 has_time_started: 1990-10-03
-head_of_government: "[[_Standards/WikiData/WD~Michael Kretschmer]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Constitutional Court of the Free State of Saxony]]"
+head_of_government: '[[_Standards/WikiData/WD~Michael Kretschmer]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Constitutional Court of the Free State of Saxony]]'
 highest_point: '[[_Standards/WikiData/WD~Fichtelberg]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of Saxony]]"
+history_of_topic: '[[_Standards/WikiData/WD~history of Saxony]]'
 icon: Flag_of_Saxony
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Dresden-Semperoper.04.JPG"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Dresden-Semperoper.04.JPG
 Image_Archive_Herder_Institute: Q1202
-impressum_URL: "https://www.sachsen.de/impressum.html"
+impressum_URL: https://www.sachsen.de/impressum.html
 inception: 1990-10-03
 instance_of:
-- "[[_Standards/WikiData/WD~federated state of Germany]]"
+  - '[[_Standards/WikiData/WD~federated state of Germany]]'
 isDeleted: false
 ISNI: 0000000405556964
 ISO3166_2: DE-SN
 ISO_3166_2_code: DE-SN
 language_used:
-- "[[_Standards/WikiData/WD~East Frisian Low Saxon]]"
-- "[[_Standards/WikiData/WD~Upper Saxon]]"
-- "[[_Standards/WikiData/WD~Upper Sorbian]]"
-legal_form: "[[_Standards/WikiData/WD~Körperschaft des öffentlichen Rechts]]"
+  - '[[_Standards/WikiData/WD~East Frisian Low Saxon]]'
+  - '[[_Standards/WikiData/WD~Upper Saxon]]'
+  - '[[_Standards/WikiData/WD~Upper Sorbian]]'
+legal_form: '[[_Standards/WikiData/WD~Körperschaft des öffentlichen Rechts]]'
 legislative_body:
-- "[[_Standards/WikiData/WD~Landtag of Saxony]]"
+  - '[[_Standards/WikiData/WD~Landtag of Saxony]]'
 list_of_monuments: '[[_Standards/WikiData/WD~Q13409562]]'
 located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Germany]]'
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~UTC+01:00]]"
-- "[[_Standards/WikiData/WD~UTC+02:00]]"
+  - '[[_Standards/WikiData/WD~UTC+01:00]]'
+  - '[[_Standards/WikiData/WD~UTC+02:00]]'
 location:
-- 50.968
-- 13.2481
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Saxony%20in%20Germany.svg"
-main_regulatory_text: "[[_Standards/WikiData/WD~Constitution of the Free State of Saxony]]"
-Mastodon_instance_URL: "https://social.sachsen.de"
+  - 50.968
+  - 13.2481
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Saxony%20in%20Germany.svg
+main_regulatory_text: '[[_Standards/WikiData/WD~Constitution of the Free State of Saxony]]'
+Mastodon_instance_URL: https://social.sachsen.de
 native_label:
-- "Freistaat Sachsen"
+  - Freistaat Sachsen
 NUTS_code: DED
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Minister-President of Saxony]]"
-official_name: "Freistaat Sachsen"
-official_website: "https://www.sachsen.de/"
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Minister-President of Saxony]]'
+official_name: Freistaat Sachsen
+official_website: https://www.sachsen.de/
 OmegaWiki_Defined_Meaning: 387298
-owner_of: "[[_Standards/WikiData/WD~Mitteldeutsche Flughafen AG]]"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Sachsen%20Wikivoyage%20banner.png"
+owner_of: '[[_Standards/WikiData/WD~Mitteldeutsche Flughafen AG]]'
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Sachsen%20Wikivoyage%20banner.png
 phone_number: +49-351-5640
 population: 4086218
-privacy_policy_URL: "https://www.sachsen.de/datenschutz.html"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Michael%20Schoenitzer%20%28MichaelSchoenitzer%29-Sachsen.wav"
+privacy_policy_URL: https://www.sachsen.de/datenschutz.html
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Michael%20Schoenitzer%20%28MichaelSchoenitzer%29-Sachsen.wav
 replaces:
-- "[[_Standards/WikiData/WD~Cottbus District]]"
-- "[[_Standards/WikiData/WD~Dresden District]]"
-- "[[_Standards/WikiData/WD~Karl-Marx-Stadt District]]"
-- "[[_Standards/WikiData/WD~Leipzig District]]"
+  - '[[_Standards/WikiData/WD~Cottbus District]]'
+  - '[[_Standards/WikiData/WD~Dresden District]]'
+  - '[[_Standards/WikiData/WD~Karl-Marx-Stadt District]]'
+  - '[[_Standards/WikiData/WD~Leipzig District]]'
 shares_border_with:
-- "[[_Standards/WikiData/WD~Karlovy Vary Region]]"
-- "[[_Standards/WikiData/WD~Ústí nad Labem Region]]"
-- "[[_Standards/WikiData/WD~Liberec Region]]"
-- '[[_Standards/WikiData/WD~Bavaria]]'
-- '[[_Standards/WikiData/WD~Saxony-Anhalt]]'
-- '[[_Standards/WikiData/WD~Thuringia]]'
-- '[[_Standards/WikiData/WD~Brandenburg]]'
-- "[[_Standards/WikiData/WD~Lower Silesian Voivodeship]]"
-- "[[_Standards/WikiData/WD~Lubusz Voivodeship]]"
+  - '[[_Standards/WikiData/WD~Karlovy Vary Region]]'
+  - '[[_Standards/WikiData/WD~Ústí nad Labem Region]]'
+  - '[[_Standards/WikiData/WD~Liberec Region]]'
+  - '[[_Standards/WikiData/WD~Bavaria]]'
+  - '[[_Standards/WikiData/WD~Saxony-Anhalt]]'
+  - '[[_Standards/WikiData/WD~Thuringia]]'
+  - '[[_Standards/WikiData/WD~Brandenburg]]'
+  - '[[_Standards/WikiData/WD~Lower Silesian Voivodeship]]'
+  - '[[_Standards/WikiData/WD~Lubusz Voivodeship]]'
 social_media_followers: 13002
 SpocWebEntityId: 36023
 tags:
-- geo/State
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal:Saxony]]"
+  - geo/State
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal:Saxony]]'
 type: State
 X_username: SachsenDe
 ---

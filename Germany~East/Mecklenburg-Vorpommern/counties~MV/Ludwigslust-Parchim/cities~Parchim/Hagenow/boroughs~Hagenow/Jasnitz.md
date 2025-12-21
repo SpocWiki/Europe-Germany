@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Jasnitz
 confidential: public
 isDeleted: false
 location:
-- 53.4
-- 11.37
+  - 53.4
+  - 11.37
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31168
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

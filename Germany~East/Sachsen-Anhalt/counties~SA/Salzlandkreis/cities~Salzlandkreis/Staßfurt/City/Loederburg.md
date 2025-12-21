@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Loederburg
 confidential: public
 isDeleted: false
 location:
-- 51.88
-- 11.55
+  - 51.88
+  - 11.55
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32187
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

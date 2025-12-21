@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Bergen~Dumme
 confidential: public
 isDeleted: false
 location:
-- 52.9
-- 11.1
+  - 52.9
+  - 11.1
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29117
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

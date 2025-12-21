@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Büchen
 confidential: public
 isDeleted: false
 location:
-- 53.52
-- 10.5
+  - 53.52
+  - 10.5
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29429
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

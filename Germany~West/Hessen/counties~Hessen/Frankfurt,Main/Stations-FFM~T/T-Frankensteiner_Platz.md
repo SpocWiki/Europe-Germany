@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Frankensteiner_Platz
+  - T-Frankensteiner Platz
 location:
-- 50.1069
-- 8.692476
+  - 50.1069
+  - 8.692476
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

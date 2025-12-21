@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Baerenstein
 confidential: public
 isDeleted: false
 location:
-- 50.8
-- 13.75
+  - 50.8
+  - 13.75
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29437
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

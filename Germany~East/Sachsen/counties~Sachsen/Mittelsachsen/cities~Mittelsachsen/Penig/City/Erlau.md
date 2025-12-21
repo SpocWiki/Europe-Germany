@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Erlau
 confidential: public
 isDeleted: false
 location:
-- 51
-- 12.73
+  - 51
+  - 12.73
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30054
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

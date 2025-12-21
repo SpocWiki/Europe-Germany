@@ -1,16 +1,18 @@
 ---
+aliases:
+  - St.Ingbert
 confidential: public
 isDeleted: false
 location:
-- 49.28
-- 7.13
+  - 49.28
+  - 7.13
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34461
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

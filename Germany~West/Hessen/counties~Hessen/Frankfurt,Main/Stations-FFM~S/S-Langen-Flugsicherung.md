@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Langen-Flugsicherung
 location:
-- 50.00523
-- 8.658671
+  - 50.00523
+  - 8.658671
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

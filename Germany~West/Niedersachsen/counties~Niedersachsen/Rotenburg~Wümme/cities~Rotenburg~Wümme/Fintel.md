@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Fintel
 confidential: public
 isDeleted: false
 location:
-- 53.18
-- 9.65
+  - 53.18
+  - 9.65
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30172
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

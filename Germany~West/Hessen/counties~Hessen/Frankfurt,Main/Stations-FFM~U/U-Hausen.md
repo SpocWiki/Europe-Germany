@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Hausen
 location:
-- 50.13795
-- 8.624487
+  - 50.13795
+  - 8.624487
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

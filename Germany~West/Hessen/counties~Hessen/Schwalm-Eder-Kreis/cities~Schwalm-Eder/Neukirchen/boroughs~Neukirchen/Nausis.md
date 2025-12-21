@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Nausis
 confidential: public
 isDeleted: false
 location:
-- 50.83
-- 9.38
+  - 50.83
+  - 9.38
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32757
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

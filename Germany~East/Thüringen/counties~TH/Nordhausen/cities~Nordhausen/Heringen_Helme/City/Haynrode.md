@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Haynrode
 confidential: public
 isDeleted: false
 location:
-- 51.43
-- 10.9
+  - 51.43
+  - 10.9
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30820
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

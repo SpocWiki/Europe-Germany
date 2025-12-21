@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Franzburg
 confidential: public
 isDeleted: false
 location:
-- 54.18
-- 12.88
+  - 54.18
+  - 12.88
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30232
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

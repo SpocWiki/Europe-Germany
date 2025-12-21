@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lichte
 confidential: public
 isDeleted: false
 location:
-- 50.52
-- 11.1
+  - 50.52
+  - 11.1
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31979
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Muenchenbernsdorf
 confidential: public
 isDeleted: false
 location:
-- 50.82
-- 11.93
+  - 50.82
+  - 11.93
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32673
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

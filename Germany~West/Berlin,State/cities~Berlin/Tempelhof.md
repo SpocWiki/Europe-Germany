@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Tempelhof
 confidential: public
 isDeleted: false
 location:
-- 52.45
-- 13.38
+  - 52.45
+  - 13.38
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34805
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Gemuend
 confidential: public
 isDeleted: false
 location:
-- 50.58
-- 6.52
+  - 50.58
+  - 6.52
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30406
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

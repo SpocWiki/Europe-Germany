@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lennep
 confidential: public
 isDeleted: false
 location:
-- 51.2
-- 7.27
+  - 51.2
+  - 7.27
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31941
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

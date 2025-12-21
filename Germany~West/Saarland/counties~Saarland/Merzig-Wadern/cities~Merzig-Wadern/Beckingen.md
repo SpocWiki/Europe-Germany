@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Beckingen
 confidential: public
 isDeleted: false
 location:
-- 49.4
-- 6.7
+  - 49.4
+  - 6.7
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29062
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Rathenow
 confidential: public
 isDeleted: false
 location:
-- 52.62
-- 12.35
+  - 52.62
+  - 12.35
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33642
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

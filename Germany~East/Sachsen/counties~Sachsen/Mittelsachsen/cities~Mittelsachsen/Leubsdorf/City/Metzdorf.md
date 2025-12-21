@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Metzdorf
 confidential: public
 isDeleted: false
 location:
-- 50.82
-- 13.15
+  - 50.82
+  - 13.15
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32448
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hückeswagen
 confidential: public
 isDeleted: false
 location:
-- 51.15
-- 7.35
+  - 51.15
+  - 7.35
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31062
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

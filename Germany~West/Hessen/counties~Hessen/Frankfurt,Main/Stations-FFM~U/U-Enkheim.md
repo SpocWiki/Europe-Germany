@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Enkheim
 location:
-- 50.14222
-- 8.752692
+  - 50.14222
+  - 8.752692
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

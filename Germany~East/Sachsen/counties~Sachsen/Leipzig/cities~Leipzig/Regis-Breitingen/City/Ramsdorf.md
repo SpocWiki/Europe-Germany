@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Ramsdorf
 confidential: public
 isDeleted: false
 location:
-- 51.08
-- 12.37
+  - 51.08
+  - 12.37
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33627
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

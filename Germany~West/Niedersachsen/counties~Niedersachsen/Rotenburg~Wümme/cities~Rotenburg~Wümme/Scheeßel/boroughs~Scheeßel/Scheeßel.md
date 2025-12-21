@@ -1,18 +1,19 @@
 ---
 aliases:
-- Scheessel
+  - Scheessel
+  - Scheeßel
 confidential: public
 isDeleted: false
 location:
-- 53.17
-- 9.47
+  - 53.17
+  - 9.47
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33999
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

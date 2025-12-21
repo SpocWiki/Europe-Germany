@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Rotenburg~Fulda
 confidential: public
 isDeleted: false
 location:
-- 50.98
-- 9.73
+  - 50.98
+  - 9.73
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33782
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

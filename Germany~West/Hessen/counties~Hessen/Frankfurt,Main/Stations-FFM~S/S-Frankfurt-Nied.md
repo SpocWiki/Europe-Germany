@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Frankfurt-Nied
 location:
-- 50.10276
-- 8.569982
+  - 50.10276
+  - 8.569982
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

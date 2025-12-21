@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Langstadt
 confidential: public
 isDeleted: false
 location:
-- 49.93
-- 8.97
+  - 49.93
+  - 8.97
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31841
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

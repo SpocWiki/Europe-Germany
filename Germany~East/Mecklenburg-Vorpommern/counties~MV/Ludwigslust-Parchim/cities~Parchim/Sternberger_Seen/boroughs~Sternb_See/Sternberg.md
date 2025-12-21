@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Sternberg
 confidential: public
 isDeleted: false
 location:
-- 53.72
-- 11.83
+  - 53.72
+  - 11.83
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34564
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

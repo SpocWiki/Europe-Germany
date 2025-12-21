@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Weser-Münchener_Straße
+  - T-Weser-Münchener Straße
 location:
-- 50.1079
-- 8.67047
+  - 50.1079
+  - 8.67047
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

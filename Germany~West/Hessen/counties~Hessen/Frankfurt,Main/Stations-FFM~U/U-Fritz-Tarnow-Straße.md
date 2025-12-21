@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Fritz-Tarnow-Straße
 location:
-- 50.14251
-- 8.668814
+  - 50.14251
+  - 8.668814
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

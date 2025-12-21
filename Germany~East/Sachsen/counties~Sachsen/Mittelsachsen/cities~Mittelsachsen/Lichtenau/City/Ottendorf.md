@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Ottendorf
 confidential: public
 isDeleted: false
 location:
-- 50.92
-- 12.97
+  - 50.92
+  - 12.97
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33187
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

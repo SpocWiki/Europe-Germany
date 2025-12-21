@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Vacha
 confidential: public
 isDeleted: false
 location:
-- 50.83
-- 10.02
+  - 50.83
+  - 10.02
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35159
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

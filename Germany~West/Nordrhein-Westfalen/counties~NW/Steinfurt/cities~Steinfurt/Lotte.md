@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lotte
 confidential: public
 isDeleted: false
 location:
-- 52.28
-- 7.9
+  - 52.28
+  - 7.9
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32103
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

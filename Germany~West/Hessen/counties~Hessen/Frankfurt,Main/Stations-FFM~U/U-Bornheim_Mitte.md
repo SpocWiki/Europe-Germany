@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Bornheim_Mitte
+  - U-Bornheim Mitte
 location:
-- 50.12528
-- 8.706944
+  - 50.12528
+  - 8.706944
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station
+  - geo/station
 type: Station
 ---
 

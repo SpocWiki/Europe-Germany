@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Kaltenweide
 confidential: public
 isDeleted: false
 location:
-- 52.48
-- 9.75
+  - 52.48
+  - 9.75
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31275
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

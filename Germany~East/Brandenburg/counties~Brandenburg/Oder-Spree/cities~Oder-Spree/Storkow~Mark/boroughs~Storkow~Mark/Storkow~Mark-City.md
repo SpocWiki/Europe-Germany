@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Storkow~Mark-City
 confidential: public
 isDeleted: false
 location:
-- 52.25
-- 13.93
+  - 52.25
+  - 13.93
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34597
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

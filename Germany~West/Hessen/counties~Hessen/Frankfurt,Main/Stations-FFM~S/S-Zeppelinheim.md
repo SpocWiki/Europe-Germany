@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Zeppelinheim
 location:
-- 50.03521
-- 8.614166
+  - 50.03521
+  - 8.614166
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

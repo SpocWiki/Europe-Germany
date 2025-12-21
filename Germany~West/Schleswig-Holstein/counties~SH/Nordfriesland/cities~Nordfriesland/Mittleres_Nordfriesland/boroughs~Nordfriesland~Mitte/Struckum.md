@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Struckum
 confidential: public
 isDeleted: false
 location:
-- 54.58
-- 9
+  - 54.58
+  - 9
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34625
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

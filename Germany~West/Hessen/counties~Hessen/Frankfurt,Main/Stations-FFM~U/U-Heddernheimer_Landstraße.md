@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Heddernheimer_Landstraße
+  - U-Heddernheimer Landstraße
 location:
-- 50.16386
-- 8.634782
+  - 50.16386
+  - 8.634782
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

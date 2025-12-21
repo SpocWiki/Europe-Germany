@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Waldheim
 confidential: public
 isDeleted: false
 location:
-- 51.08
-- 13.03
+  - 51.08
+  - 13.03
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35409
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

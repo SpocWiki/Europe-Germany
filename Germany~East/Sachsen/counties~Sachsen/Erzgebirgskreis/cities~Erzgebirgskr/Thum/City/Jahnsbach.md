@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Jahnsbach
 confidential: public
 isDeleted: false
 location:
-- 50.67
-- 12.93
+  - 50.67
+  - 12.93
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31152
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

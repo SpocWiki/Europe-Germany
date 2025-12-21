@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Rheinberg
 confidential: public
 isDeleted: false
 location:
-- 51.547
-- 6.6
+  - 51.547
+  - 6.6
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33730
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Bremerhaven
 confidential: public
 isDeleted: false
 location:
-- 53.55
-- 8.58
+  - 53.55
+  - 8.58
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29333
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

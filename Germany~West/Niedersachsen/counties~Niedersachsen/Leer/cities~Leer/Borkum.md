@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Borkum
 confidential: public
 isDeleted: false
 location:
-- 53.58
-- 6.71
+  - 53.58
+  - 6.71
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29283
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

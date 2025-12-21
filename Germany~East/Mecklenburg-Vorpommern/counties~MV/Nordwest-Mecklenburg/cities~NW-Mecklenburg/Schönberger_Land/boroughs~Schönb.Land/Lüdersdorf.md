@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lüdersdorf
 confidential: public
 isDeleted: false
 location:
-- 53.83
-- 10.82
+  - 53.83
+  - 10.82
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32173
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

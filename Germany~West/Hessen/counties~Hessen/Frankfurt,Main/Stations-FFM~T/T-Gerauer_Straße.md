@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Gerauer_Straße
+  - T-Gerauer Straße
 location:
-- 50.08376
-- 8.644427
+  - 50.08376
+  - 8.644427
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

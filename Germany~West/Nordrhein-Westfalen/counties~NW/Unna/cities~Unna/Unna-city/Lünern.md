@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lünern
 confidential: public
 isDeleted: false
 location:
-- 51.55
-- 7.77
+  - 51.55
+  - 7.77
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32180
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

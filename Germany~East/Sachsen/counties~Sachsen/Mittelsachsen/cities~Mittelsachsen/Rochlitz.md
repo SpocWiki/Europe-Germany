@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Rochlitz
 confidential: public
 isDeleted: false
 location:
-- 51.05
-- 12.78
+  - 51.05
+  - 12.78
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33746
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

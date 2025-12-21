@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Uni-Campus_Riedberg
+  - U-Uni-Campus Riedberg
 location:
-- 50.17669
-- 8.630118
+  - 50.17669
+  - 8.630118
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

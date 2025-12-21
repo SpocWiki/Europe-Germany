@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Daimlerstraße
 location:
-- 50.12235
-- 8.74008
+  - 50.12235
+  - 8.74008
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

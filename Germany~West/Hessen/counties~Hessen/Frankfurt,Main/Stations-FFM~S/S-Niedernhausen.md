@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Niedernhausen
 location:
-- 50.16167
-- 8.317639
+  - 50.16167
+  - 8.317639
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Püttlingen
 confidential: public
 isDeleted: false
 location:
-- 49.28
-- 6.88
+  - 49.28
+  - 6.88
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33567
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Kyritz
 confidential: public
 isDeleted: false
 location:
-- 52.95
-- 12.4
+  - 52.95
+  - 12.4
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31724
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

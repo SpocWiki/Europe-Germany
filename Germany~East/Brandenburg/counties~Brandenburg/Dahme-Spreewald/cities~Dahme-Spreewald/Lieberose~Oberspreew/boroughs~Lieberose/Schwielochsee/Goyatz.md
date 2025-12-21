@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Goyatz
 confidential: public
 isDeleted: false
 location:
-- 52.02
-- 14.17
+  - 52.02
+  - 14.17
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30529
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Große_Nelkenstraße
+  - U-Große Nelkenstraße
 location:
-- 50.13306
-- 8.628382
+  - 50.13306
+  - 8.628382
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Güterplatz
 location:
-- 50.10781
-- 8.656629
+  - 50.10781
+  - 8.656629
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

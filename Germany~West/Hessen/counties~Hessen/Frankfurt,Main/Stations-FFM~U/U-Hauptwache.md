@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Hauptwache
 location:
-- 50.11389
-- 8.6789
+  - 50.11389
+  - 8.6789
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

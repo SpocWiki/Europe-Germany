@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Westerberg
 confidential: public
 isDeleted: false
 location:
-- 52.28
-- 8.02
+  - 52.28
+  - 8.02
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35570
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

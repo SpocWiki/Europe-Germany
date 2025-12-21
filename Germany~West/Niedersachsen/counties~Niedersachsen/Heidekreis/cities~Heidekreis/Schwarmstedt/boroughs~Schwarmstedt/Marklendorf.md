@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Marklendorf
 confidential: public
 isDeleted: false
 location:
-- 52.67
-- 9.68
+  - 52.67
+  - 9.68
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32310
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

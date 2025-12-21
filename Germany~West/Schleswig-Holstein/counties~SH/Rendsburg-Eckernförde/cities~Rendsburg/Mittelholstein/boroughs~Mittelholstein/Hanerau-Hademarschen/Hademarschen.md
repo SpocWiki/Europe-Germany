@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hademarschen
 confidential: public
 isDeleted: false
 location:
-- 54.13
-- 9.42
+  - 54.13
+  - 9.42
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30692
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Ruhla
 confidential: public
 isDeleted: false
 location:
-- 50.88
-- 10.37
+  - 50.88
+  - 10.37
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33824
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

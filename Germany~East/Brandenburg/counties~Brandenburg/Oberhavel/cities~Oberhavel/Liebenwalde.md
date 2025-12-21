@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Liebenwalde
 confidential: public
 isDeleted: false
 location:
-- 52.88
-- 13.4
+  - 52.88
+  - 13.4
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31994
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

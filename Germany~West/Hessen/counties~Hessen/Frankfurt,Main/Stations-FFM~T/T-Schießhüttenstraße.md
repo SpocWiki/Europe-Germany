@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Schießhüttenstraße
 location:
-- 50.12149
-- 8.773484
+  - 50.12149
+  - 8.773484
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Tegel
 confidential: public
 isDeleted: false
 location:
-- 52.56
-- 13.3
+  - 52.56
+  - 13.3
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34790
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

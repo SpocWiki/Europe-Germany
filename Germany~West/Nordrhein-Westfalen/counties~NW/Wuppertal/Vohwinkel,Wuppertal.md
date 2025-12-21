@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Vohwinkel,Wuppertal
 confidential: public
 isDeleted: false
 location:
-- 51.23
-- 7.07
+  - 51.23
+  - 7.07
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35340
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

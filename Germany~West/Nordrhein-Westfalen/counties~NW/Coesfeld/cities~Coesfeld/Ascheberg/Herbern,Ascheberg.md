@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Herbern,Ascheberg
 confidential: public
 isDeleted: false
 location:
-- 51.77
-- 7.67
+  - 51.77
+  - 7.67
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30893
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

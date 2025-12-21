@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Nienburg~Weser
 confidential: public
 isDeleted: false
 location:
-- 52.63
-- 9.25
+  - 52.63
+  - 9.25
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32911
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

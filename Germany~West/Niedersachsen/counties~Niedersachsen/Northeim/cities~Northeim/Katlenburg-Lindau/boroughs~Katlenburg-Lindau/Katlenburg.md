@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Katlenburg
 confidential: public
 isDeleted: false
 location:
-- 51.7
-- 10
+  - 51.7
+  - 10
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31345
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

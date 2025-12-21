@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Tönning
 confidential: public
 isDeleted: false
 location:
-- 54.32
-- 8.95
+  - 54.32
+  - 8.95
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35085
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

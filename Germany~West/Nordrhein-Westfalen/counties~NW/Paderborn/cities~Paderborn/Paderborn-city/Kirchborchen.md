@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Kirchborchen
 confidential: public
 isDeleted: false
 location:
-- 51.68
-- 8.77
+  - 51.68
+  - 8.77
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31436
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

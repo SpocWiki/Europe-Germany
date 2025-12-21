@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Fürth~Odenwald
 confidential: public
 isDeleted: false
 location:
-- 49.65
-- 8.8
+  - 49.65
+  - 8.8
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30327
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Schwedlerstraße
 location:
-- 50.11392
-- 8.719403
+  - 50.11392
+  - 8.719403
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

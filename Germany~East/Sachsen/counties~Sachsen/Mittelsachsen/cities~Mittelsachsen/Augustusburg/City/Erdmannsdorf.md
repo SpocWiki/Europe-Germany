@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Erdmannsdorf
 confidential: public
 isDeleted: false
 location:
-- 50.82
-- 13.07
+  - 50.82
+  - 13.07
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30046
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

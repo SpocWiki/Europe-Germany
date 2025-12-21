@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Thurow,Züssow
 confidential: public
 isDeleted: false
 location:
-- 53.97
-- 13.55
+  - 53.97
+  - 13.55
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34859
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

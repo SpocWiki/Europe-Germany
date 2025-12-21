@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hohlacker
 confidential: public
 isDeleted: false
 location:
-- 54.48
-- 9.1
+  - 54.48
+  - 9.1
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30992
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

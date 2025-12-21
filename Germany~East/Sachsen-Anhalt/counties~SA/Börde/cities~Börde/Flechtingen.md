@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Flechtingen
 confidential: public
 isDeleted: false
 location:
-- 52.33
-- 11.23
+  - 52.33
+  - 11.23
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30183
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

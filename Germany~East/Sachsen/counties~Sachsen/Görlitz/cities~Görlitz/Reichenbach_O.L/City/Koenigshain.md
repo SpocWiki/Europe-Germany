@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Koenigshain
 confidential: public
 isDeleted: false
 location:
-- 51.18
-- 14.88
+  - 51.18
+  - 14.88
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31750
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Stavenhagen
 confidential: public
 isDeleted: false
 location:
-- 53.7
-- 12.92
+  - 53.7
+  - 12.92
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34534
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

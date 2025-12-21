@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lage
 confidential: public
 isDeleted: false
 location:
-- 51.98
-- 8.77
+  - 51.98
+  - 8.77
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31782
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Altenbruch
 confidential: public
 isDeleted: false
 location:
-- 53.83
-- 8.75
+  - 53.83
+  - 8.75
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 28772
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

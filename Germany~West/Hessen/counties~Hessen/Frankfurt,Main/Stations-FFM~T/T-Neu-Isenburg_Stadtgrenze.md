@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Neu-Isenburg_Stadtgrenze
+  - T-Neu-Isenburg Stadtgrenze
 location:
-- 50.05944
-- 8.694654
+  - 50.05944
+  - 8.694654
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

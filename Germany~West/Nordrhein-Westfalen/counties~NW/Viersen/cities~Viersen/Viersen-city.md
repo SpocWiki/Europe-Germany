@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Viersen-city
 confidential: public
 isDeleted: false
 location:
-- 51.25
-- 6.39
+  - 51.25
+  - 6.39
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35279
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Biene
 confidential: public
 isDeleted: false
 location:
-- 52.6
-- 7.33
+  - 52.6
+  - 7.33
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29183
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Eschborn_Süd
+  - S-Eschborn Süd
 location:
-- 50.13356
-- 8.578487
+  - 50.13356
+  - 8.578487
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

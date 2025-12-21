@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Frankfurt~Main_West
+  - S-Frankfurt~Main West
 location:
-- 50.11917
-- 8.639444
+  - 50.11917
+  - 8.639444
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Gehren
 confidential: public
 isDeleted: false
 location:
-- 50.62
-- 11
+  - 50.62
+  - 11
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30389
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

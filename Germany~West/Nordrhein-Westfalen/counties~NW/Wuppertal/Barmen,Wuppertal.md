@@ -1,18 +1,20 @@
 ---
+aliases:
+  - Barmen,Wuppertal
 confidential: public
 isDeleted: false
 location:
-- 51.27
-- 7.2
+  - 51.27
+  - 7.2
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId:
-- 29025
-- 35716
+  - 29025
+  - 35716
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

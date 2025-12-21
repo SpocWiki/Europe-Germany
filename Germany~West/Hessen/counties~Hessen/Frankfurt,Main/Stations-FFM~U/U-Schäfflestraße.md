@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Schäfflestraße
 location:
-- 50.13101
-- 8.732849
+  - 50.13101
+  - 8.732849
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

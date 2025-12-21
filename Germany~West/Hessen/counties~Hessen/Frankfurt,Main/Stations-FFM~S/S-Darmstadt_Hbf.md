@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Darmstadt_Hbf
+  - S-Darmstadt Hbf
 location:
-- 49.8725
-- 8.628889
+  - 49.8725
+  - 8.628889
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

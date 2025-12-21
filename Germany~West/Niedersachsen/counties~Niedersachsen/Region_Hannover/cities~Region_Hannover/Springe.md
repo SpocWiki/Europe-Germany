@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Springe
 confidential: public
 isDeleted: false
 location:
-- 52.2
-- 9.54
+  - 52.2
+  - 9.54
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34423
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

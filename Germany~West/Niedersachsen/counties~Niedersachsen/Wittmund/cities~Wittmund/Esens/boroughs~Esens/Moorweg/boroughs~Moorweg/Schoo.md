@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Schoo
 confidential: public
 isDeleted: false
 location:
-- 53.6
-- 7.57
+  - 53.6
+  - 7.57
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34063
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

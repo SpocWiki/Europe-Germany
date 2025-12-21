@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Ronneburgstraße
 location:
-- 50.15076
-- 8.688578
+  - 50.15076
+  - 8.688578
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

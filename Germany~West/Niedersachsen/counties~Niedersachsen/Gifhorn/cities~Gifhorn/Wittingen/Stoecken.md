@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Stoecken
 confidential: public
 isDeleted: false
 location:
-- 52.75
-- 10.7
+  - 52.75
+  - 10.7
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34642
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

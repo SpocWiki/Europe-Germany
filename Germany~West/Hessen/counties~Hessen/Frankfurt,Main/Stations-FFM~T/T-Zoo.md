@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Zoo
 location:
-- 50.11547
-- 8.698488
+  - 50.11547
+  - 8.698488
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

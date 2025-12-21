@@ -1,16 +1,19 @@
 ---
+aliases:
+  - Harburg_bei_Hamburg
+  - Harburg bei Hamburg
 confidential: public
 isDeleted: false
 location:
-- 53.47
-- 9.98
+  - 53.47
+  - 9.98
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30768
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

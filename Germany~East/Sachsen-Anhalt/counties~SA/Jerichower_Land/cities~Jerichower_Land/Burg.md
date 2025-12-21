@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Burg
 confidential: public
 isDeleted: false
 location:
-- 52.27
-- 11.83
+  - 52.27
+  - 11.83
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29408
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

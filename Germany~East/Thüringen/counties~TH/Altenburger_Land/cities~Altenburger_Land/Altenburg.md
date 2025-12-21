@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Altenburg
 confidential: public
 isDeleted: false
 location:
-- 50.97
-- 12.43
+  - 50.97
+  - 12.43
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 28773
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

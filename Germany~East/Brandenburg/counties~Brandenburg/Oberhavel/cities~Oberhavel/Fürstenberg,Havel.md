@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Fürstenberg,Havel
 confidential: public
 isDeleted: false
 location:
-- 53.18
-- 13.17
+  - 53.18
+  - 13.17
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30319
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

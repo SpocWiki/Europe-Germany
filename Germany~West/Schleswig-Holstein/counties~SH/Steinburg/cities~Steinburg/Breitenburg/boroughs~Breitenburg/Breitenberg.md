@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Breitenberg
 confidential: public
 isDeleted: false
 location:
-- 53.93
-- 9.75
+  - 53.93
+  - 9.75
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29330
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

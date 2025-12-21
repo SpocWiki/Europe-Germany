@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Waldniel
 confidential: public
 isDeleted: false
 location:
-- 51.22
-- 6.23
+  - 51.22
+  - 6.23
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35415
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

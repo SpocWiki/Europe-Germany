@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Heister-Seehofstraße
 location:
-- 50.10347
-- 8.697395
+  - 50.10347
+  - 8.697395
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

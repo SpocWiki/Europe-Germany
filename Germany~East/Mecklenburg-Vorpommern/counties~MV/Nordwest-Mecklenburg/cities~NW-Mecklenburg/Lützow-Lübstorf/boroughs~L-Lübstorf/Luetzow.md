@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Luetzow
 confidential: public
 isDeleted: false
 location:
-- 53.65
-- 11.18
+  - 53.65
+  - 11.18
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32183
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

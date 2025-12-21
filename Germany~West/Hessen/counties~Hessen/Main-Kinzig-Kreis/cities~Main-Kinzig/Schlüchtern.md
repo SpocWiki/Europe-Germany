@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Schlüchtern
 confidential: public
 isDeleted: false
 location:
-- 50.35
-- 9.53
+  - 50.35
+  - 9.53
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34041
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

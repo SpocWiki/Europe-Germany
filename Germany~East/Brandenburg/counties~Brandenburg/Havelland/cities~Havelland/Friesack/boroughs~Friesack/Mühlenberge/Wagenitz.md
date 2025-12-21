@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wagenitz
 confidential: public
 isDeleted: false
 location:
-- 52.67
-- 12.65
+  - 52.67
+  - 12.65
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35384
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

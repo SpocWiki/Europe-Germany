@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Osterburg
 confidential: public
 isDeleted: false
 location:
-- 52.8
-- 11.75
+  - 52.8
+  - 11.75
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33168
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

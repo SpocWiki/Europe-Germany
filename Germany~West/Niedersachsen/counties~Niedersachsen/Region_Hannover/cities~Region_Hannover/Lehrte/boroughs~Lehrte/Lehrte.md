@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lehrte
 confidential: public
 isDeleted: false
 location:
-- 52.37
-- 10
+  - 52.37
+  - 10
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31916
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

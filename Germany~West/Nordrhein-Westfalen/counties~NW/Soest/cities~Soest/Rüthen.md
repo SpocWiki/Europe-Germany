@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Rüthen
 confidential: public
 isDeleted: false
 location:
-- 51.5
-- 8.43
+  - 51.5
+  - 8.43
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33848
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

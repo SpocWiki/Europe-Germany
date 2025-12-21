@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Grunow
 confidential: public
 isDeleted: false
 location:
-- 52.17
-- 14.38
+  - 52.17
+  - 14.38
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30615
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

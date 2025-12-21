@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Riederhöfe
 location:
-- 50.11742
-- 8.728906
+  - 50.11742
+  - 8.728906
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Heiligendamm
 confidential: public
 isDeleted: false
 location:
-- 54.15
-- 11.83
+  - 54.15
+  - 11.83
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30845
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

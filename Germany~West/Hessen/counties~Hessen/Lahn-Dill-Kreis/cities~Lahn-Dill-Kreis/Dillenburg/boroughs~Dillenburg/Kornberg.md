@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Kornberg
 confidential: public
 isDeleted: false
 location:
-- 50.73
-- 8.23
+  - 50.73
+  - 8.23
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31576
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Doberan,Bad
 confidential: public
 isDeleted: false
 location:
-- 54.1
-- 11.9
+  - 54.1
+  - 11.9
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29824
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

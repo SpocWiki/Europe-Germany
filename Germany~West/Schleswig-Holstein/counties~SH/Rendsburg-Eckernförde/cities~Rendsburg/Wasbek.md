@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wasbek
 confidential: public
 isDeleted: false
 location:
-- 54.08
-- 9.9
+  - 54.08
+  - 9.9
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35462
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

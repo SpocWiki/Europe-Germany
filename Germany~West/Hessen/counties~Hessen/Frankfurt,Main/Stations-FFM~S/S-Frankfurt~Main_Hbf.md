@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Frankfurt~Main_Hbf
+  - S-Frankfurt~Main Hbf
 location:
-- 50.10695
-- 8.6625
+  - 50.10695
+  - 8.6625
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station
+  - geo/station
 type: Station
 ---
 

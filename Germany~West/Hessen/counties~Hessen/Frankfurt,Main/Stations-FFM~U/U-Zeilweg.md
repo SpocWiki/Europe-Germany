@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Zeilweg
 location:
-- 50.1644
-- 8.642743
+  - 50.1644
+  - 8.642743
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

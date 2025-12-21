@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Herdecke
 confidential: public
 isDeleted: false
 location:
-- 51.48
-- 7.43
+  - 51.48
+  - 7.43
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30895
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

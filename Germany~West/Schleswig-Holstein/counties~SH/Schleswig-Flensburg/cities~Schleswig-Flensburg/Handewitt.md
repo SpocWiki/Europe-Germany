@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Handewitt
 confidential: public
 isDeleted: false
 location:
-- 54.77
-- 9.33
+  - 54.77
+  - 9.33
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30755
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

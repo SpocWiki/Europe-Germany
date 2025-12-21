@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Offenbach_Ledermuseum
+  - S-Offenbach Ledermuseum
 location:
-- 50.10599
-- 8.750485
+  - 50.10599
+  - 8.750485
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

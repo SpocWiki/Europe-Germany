@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Castrop
 confidential: public
 isDeleted: false
 location:
-- 51.55
-- 7.3
+  - 51.55
+  - 7.3
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31343
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

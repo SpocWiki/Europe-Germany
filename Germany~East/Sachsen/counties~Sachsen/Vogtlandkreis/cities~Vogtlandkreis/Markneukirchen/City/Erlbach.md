@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Erlbach
 confidential: public
 isDeleted: false
 location:
-- 50.32
-- 12.37
+  - 50.32
+  - 12.37
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30055
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

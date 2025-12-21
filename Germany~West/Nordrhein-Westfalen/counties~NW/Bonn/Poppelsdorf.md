@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Poppelsdorf
 confidential: public
 isDeleted: false
 location:
-- 50.73
-- 7.08
+  - 50.73
+  - 7.08
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33458
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

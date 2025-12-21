@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Gittelde
 confidential: public
 isDeleted: false
 location:
-- 51.8
-- 10.18
+  - 51.8
+  - 10.18
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30461
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

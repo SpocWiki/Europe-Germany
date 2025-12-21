@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Bad_Homburg
+  - S-Bad Homburg
 location:
-- 50.22924
-- 8.610486
+  - 50.22924
+  - 8.610486
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

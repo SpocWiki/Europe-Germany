@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Hugo-Junkers-Straße
 location:
-- 50.1272
-- 8.752482
+  - 50.1272
+  - 8.752482
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Friedberg~Hessen
 confidential: public
 isDeleted: false
 location:
-- 50.33
-- 8.75
+  - 50.33
+  - 8.75
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30277
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

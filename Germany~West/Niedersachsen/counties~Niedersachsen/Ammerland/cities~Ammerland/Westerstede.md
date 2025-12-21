@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Westerstede
 confidential: public
 isDeleted: false
 location:
-- 53.27
-- 7.93
+  - 53.27
+  - 7.93
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35574
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

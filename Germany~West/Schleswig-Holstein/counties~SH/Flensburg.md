@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Flensburg
 confidential: public
 isDeleted: false
 location:
-- 54.78
-- 9.44
+  - 54.78
+  - 9.44
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30187
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

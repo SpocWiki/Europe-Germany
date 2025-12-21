@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Rebstockbad
 location:
-- 50.11374
-- 8.618389
+  - 50.11374
+  - 8.618389
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

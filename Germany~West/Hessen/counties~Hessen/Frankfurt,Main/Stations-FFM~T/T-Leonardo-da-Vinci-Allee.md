@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Leonardo-da-Vinci-Allee
 location:
-- 50.11367
-- 8.627744
+  - 50.11367
+  - 8.627744
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

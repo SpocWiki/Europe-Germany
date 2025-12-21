@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Plaue
 confidential: public
 isDeleted: false
 location:
-- 50.76
-- 10.93
+  - 50.76
+  - 10.93
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33405
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

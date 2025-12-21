@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lastrup
 confidential: public
 isDeleted: false
 location:
-- 52.8
-- 7.87
+  - 52.8
+  - 7.87
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31861
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

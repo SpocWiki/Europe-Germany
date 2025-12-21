@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Torgelow
 confidential: public
 isDeleted: false
 location:
-- 53.63
-- 14.03
+  - 53.63
+  - 14.03
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34910
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

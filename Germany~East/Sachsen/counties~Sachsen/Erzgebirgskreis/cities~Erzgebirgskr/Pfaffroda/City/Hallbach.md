@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hallbach
 confidential: public
 isDeleted: false
 location:
-- 50.7
-- 13.32
+  - 50.7
+  - 13.32
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30724
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

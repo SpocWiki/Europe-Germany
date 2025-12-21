@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wächtersbach
 confidential: public
 isDeleted: false
 location:
-- 50.25
-- 9.3
+  - 50.25
+  - 9.3
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35732
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

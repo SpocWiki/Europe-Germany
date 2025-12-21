@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Tecklenburg
 confidential: public
 isDeleted: false
 location:
-- 52.22
-- 7.82
+  - 52.22
+  - 7.82
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34788
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

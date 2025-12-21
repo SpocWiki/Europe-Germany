@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Heiligenstadt
 confidential: public
 isDeleted: false
 location:
-- 51.38
-- 10.13
+  - 51.38
+  - 10.13
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30850
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

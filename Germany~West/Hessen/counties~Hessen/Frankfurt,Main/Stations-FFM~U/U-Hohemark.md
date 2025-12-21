@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Hohemark
 location:
-- 50.2152
-- 8.536722
+  - 50.2152
+  - 8.536722
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

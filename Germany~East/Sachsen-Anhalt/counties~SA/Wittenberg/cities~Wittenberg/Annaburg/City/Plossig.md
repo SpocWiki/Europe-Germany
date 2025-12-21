@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Plossig
 confidential: public
 isDeleted: false
 location:
-- 51.7
-- 12.93
+  - 51.7
+  - 12.93
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33414
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hattstedt
 confidential: public
 isDeleted: false
 location:
-- 54.52
-- 9.03
+  - 54.52
+  - 9.03
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30803
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

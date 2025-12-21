@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lich
 confidential: public
 isDeleted: false
 location:
-- 50.52
-- 8.83
+  - 50.52
+  - 8.83
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31978
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

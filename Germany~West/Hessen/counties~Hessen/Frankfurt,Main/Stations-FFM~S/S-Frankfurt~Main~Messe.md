@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Frankfurt~Main~Messe
 location:
-- 50.11195
-- 8.643333
+  - 50.11195
+  - 8.643333
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

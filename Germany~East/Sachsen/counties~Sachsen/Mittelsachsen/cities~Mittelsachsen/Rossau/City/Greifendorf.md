@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Greifendorf
 confidential: public
 isDeleted: false
 location:
-- 51.03
-- 13.12
+  - 51.03
+  - 13.12
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30562
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

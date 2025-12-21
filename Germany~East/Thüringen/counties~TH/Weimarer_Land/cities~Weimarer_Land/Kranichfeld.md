@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Kranichfeld
 confidential: public
 isDeleted: false
 location:
-- 50.87
-- 11.2
+  - 50.87
+  - 11.2
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31614
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

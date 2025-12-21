@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Waren,Müritz
 confidential: public
 isDeleted: false
 location:
-- 53.53
-- 12.48
+  - 53.53
+  - 12.48
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35450
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

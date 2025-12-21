@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Grevenbroich
 confidential: public
 isDeleted: false
 location:
-- 51.1
-- 6.6
+  - 51.1
+  - 6.6
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30573
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

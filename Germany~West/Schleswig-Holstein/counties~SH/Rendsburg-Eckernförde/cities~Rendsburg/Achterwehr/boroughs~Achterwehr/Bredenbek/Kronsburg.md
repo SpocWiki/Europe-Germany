@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Kronsburg
 confidential: public
 isDeleted: false
 location:
-- 54.32
-- 9.83
+  - 54.32
+  - 9.83
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31661
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

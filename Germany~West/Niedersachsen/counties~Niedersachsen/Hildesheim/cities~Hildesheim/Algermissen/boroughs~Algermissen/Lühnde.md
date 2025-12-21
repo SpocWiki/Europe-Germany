@@ -1,18 +1,19 @@
 ---
 aliases:
-- Luehnde
+  - Luehnde
+  - Lühnde
 confidential: public
 isDeleted: false
 location:
-- 52.28
-- 9.95
+  - 52.28
+  - 9.95
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32177
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

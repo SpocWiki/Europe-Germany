@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Neumark
 confidential: public
 isDeleted: false
 location:
-- 50.65
-- 12.35
+  - 50.65
+  - 12.35
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32838
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

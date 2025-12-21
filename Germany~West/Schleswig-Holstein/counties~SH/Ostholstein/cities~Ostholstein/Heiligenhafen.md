@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Heiligenhafen
 confidential: public
 isDeleted: false
 location:
-- 54.37
-- 10.98
+  - 54.37
+  - 10.98
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30846
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Siegburg
 confidential: public
 isDeleted: false
 location:
-- 50.78
-- 7.2
+  - 50.78
+  - 7.2
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34247
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

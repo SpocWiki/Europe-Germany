@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Salzwedel
 confidential: public
 isDeleted: false
 location:
-- 52.85
-- 11.15
+  - 52.85
+  - 11.15
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33903
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Saarhölzbach
 confidential: public
 isDeleted: false
 location:
-- 49.52
-- 6.62
+  - 49.52
+  - 6.62
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33857
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

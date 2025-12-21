@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Walsum
 confidential: public
 isDeleted: false
 location:
-- 51.53
-- 6.72
+  - 51.53
+  - 6.72
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35428
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

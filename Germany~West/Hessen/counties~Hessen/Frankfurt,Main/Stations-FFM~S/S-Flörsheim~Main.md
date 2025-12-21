@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Flörsheim~Main
 location:
-- 50.01167
-- 8.428056
+  - 50.01167
+  - 8.428056
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station
+  - geo/station
 type: Station
 ---
 

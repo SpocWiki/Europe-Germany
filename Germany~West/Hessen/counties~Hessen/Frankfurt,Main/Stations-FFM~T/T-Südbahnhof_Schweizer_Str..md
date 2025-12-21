@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Südbahnhof_Schweizer_Str.
+  - T-Südbahnhof Schweizer Str.
 location:
-- 50.09858
-- 8.683227
+  - 50.09858
+  - 8.683227
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

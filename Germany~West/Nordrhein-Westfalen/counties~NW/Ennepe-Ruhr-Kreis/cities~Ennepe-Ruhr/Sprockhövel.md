@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Sprockhövel
 confidential: public
 isDeleted: false
 location:
-- 51.37
-- 7.25
+  - 51.37
+  - 7.25
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34424
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

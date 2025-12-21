@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Gießener_Straße
+  - U-Gießener Straße
 location:
-- 50.14383
-- 8.692198
+  - 50.14383
+  - 8.692198
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

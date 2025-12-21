@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Neu-Isenburg
 confidential: public
 isDeleted: false
 location:
-- 50.07
-- 8.7
+  - 50.07
+  - 8.7
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32792
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

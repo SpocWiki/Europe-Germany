@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Joehstadt
 confidential: public
 isDeleted: false
 location:
-- 50.52
-- 13.08
+  - 50.52
+  - 13.08
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31237
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

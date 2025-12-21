@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Bevergen
 confidential: public
 isDeleted: false
 location:
-- 52.28
-- 7.5
+  - 52.28
+  - 7.5
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29162
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

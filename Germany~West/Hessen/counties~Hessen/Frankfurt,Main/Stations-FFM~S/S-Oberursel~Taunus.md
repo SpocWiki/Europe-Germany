@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Oberursel~Taunus
 location:
-- 50.19889
-- 8.588284
+  - 50.19889
+  - 8.588284
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

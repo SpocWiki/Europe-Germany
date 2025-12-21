@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Beuthener_Straße
+  - T-Beuthener Straße
 location:
-- 50.09097
-- 8.673674
+  - 50.09097
+  - 8.673674
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

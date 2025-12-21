@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wusterhausen-City
 confidential: public
 isDeleted: false
 location:
-- 52.9
-- 12.48
+  - 52.9
+  - 12.48
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35724
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

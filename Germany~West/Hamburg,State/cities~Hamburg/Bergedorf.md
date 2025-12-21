@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Bergedorf
 confidential: public
 isDeleted: false
 location:
-- 53.47
-- 10.23
+  - 53.47
+  - 10.23
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29115
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

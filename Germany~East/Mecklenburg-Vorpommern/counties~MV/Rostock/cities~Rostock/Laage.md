@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Laage
 confidential: public
 isDeleted: false
 location:
-- 53.93
-- 12.35
+  - 53.93
+  - 12.35
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31771
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

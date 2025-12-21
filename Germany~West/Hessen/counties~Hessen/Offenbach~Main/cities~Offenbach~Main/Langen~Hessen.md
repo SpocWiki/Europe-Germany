@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Langen~Hessen
 confidential: public
 isDeleted: false
 location:
-- 50
-- 8.68
+  - 50
+  - 8.68
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31818
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

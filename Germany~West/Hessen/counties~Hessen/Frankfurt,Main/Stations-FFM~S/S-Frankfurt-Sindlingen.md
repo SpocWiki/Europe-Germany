@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Frankfurt-Sindlingen
 location:
-- 50.08746
-- 8.512283
+  - 50.08746
+  - 8.512283
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station
+  - geo/station
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Sohland
 confidential: public
 isDeleted: false
 location:
-- 51.05
-- 14.43
+  - 51.05
+  - 14.43
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34343
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

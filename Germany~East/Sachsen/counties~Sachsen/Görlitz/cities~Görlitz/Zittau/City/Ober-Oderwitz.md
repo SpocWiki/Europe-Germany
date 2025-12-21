@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Ober-Oderwitz
 confidential: public
 isDeleted: false
 location:
-- 50.98
-- 14.87
+  - 50.98
+  - 14.87
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33015
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

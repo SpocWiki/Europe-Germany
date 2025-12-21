@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Jürgensgaard
 confidential: public
 isDeleted: false
 location:
-- 54.8
-- 9.45
+  - 54.8
+  - 9.45
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31232
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

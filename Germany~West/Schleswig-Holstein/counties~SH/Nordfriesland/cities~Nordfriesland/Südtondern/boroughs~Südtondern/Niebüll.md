@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Niebüll
 confidential: public
 isDeleted: false
 location:
-- 54.8
-- 8.82
+  - 54.8
+  - 8.82
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32895
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

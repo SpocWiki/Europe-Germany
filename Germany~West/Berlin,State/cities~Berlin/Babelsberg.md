@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Babelsberg
 confidential: public
 isDeleted: false
 location:
-- 52.41
-- 13.11
+  - 52.41
+  - 13.11
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 28955
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hartenstein
 confidential: public
 isDeleted: false
 location:
-- 50.67
-- 12.67
+  - 50.67
+  - 12.67
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30777
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

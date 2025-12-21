@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Aylsdorf
 confidential: public
 isDeleted: false
 location:
-- 51.08
-- 12.13
+  - 51.08
+  - 12.13
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 28953
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

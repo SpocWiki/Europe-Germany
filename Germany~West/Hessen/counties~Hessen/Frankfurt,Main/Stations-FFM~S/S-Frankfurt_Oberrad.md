@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Frankfurt_Oberrad
+  - S-Frankfurt Oberrad
 location:
-- 50.10444
-- 8.724167
+  - 50.10444
+  - 8.724167
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

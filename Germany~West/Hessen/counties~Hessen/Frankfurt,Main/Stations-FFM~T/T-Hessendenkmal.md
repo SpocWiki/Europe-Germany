@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Hessendenkmal
 location:
-- 50.119
-- 8.689571
+  - 50.119
+  - 8.689571
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

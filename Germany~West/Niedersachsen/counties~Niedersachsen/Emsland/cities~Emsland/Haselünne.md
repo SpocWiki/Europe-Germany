@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Haselünne
 confidential: public
 isDeleted: false
 location:
-- 52.67
-- 7.48
+  - 52.67
+  - 7.48
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30790
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

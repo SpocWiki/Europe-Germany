@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Olpe-city
 confidential: public
 isDeleted: false
 location:
-- 51.03
-- 7.85
+  - 51.03
+  - 7.85
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33104
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

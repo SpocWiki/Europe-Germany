@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Heinitz,Neunkirchen
 confidential: public
 isDeleted: false
 location:
-- 49.33
-- 7.13
+  - 49.33
+  - 7.13
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30856
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

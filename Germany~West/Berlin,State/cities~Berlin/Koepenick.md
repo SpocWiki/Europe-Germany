@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Koepenick
 confidential: public
 isDeleted: false
 location:
-- 52.43
-- 13.58
+  - 52.43
+  - 13.58
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31758
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

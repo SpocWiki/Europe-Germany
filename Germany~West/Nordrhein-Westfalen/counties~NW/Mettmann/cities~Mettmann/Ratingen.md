@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Ratingen
 confidential: public
 isDeleted: false
 location:
-- 51.29
-- 6.86
+  - 51.29
+  - 6.86
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33646
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

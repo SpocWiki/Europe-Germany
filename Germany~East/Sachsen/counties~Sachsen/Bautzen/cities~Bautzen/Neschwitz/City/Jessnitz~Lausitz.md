@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Jessnitz~Lausitz
 confidential: public
 isDeleted: false
 location:
-- 51.25
-- 14.275
+  - 51.25
+  - 14.275
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31201
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

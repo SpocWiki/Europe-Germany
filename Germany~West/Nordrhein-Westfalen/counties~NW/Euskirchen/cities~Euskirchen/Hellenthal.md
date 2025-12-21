@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hellenthal
 confidential: public
 isDeleted: false
 location:
-- 50.5
-- 6.43
+  - 50.5
+  - 6.43
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30874
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

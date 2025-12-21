@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Mieste
 confidential: public
 isDeleted: false
 location:
-- 52.47
-- 11.22
+  - 52.47
+  - 11.22
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32471
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

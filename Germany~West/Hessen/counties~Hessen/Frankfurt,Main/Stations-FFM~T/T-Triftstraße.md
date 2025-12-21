@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Triftstraße
 location:
-- 50.0863
-- 8.650082
+  - 50.0863
+  - 8.650082
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

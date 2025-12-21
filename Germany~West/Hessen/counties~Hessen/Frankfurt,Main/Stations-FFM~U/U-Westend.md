@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Westend
 location:
-- 50.1183
-- 8.66194
+  - 50.1183
+  - 8.66194
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Gera
 confidential: public
 isDeleted: false
 location:
-- 50.87
-- 12.083
+  - 50.87
+  - 12.083
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30419
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

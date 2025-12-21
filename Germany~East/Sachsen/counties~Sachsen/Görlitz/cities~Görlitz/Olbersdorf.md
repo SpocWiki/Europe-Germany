@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Olbersdorf
 confidential: public
 isDeleted: false
 location:
-- 50.88
-- 14.78
+  - 50.88
+  - 14.78
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33085
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

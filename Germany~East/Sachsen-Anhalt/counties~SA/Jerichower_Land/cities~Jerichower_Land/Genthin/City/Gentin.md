@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Gentin
 confidential: public
 isDeleted: false
 location:
-- 52.4
-- 12.15
+  - 52.4
+  - 12.15
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30414
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

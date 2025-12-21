@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Schweizer-Gartenstraße
 location:
-- 50.10333
-- 8.679585
+  - 50.10333
+  - 8.679585
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Oberursel_Bahnhof
+  - U-Oberursel Bahnhof
 location:
-- 50.19919
-- 8.587596
+  - 50.19919
+  - 8.587596
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

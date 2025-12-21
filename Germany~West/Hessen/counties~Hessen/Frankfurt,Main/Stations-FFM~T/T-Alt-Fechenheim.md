@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Alt-Fechenheim
 location:
-- 50.12785
-- 8.767938
+  - 50.12785
+  - 8.767938
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

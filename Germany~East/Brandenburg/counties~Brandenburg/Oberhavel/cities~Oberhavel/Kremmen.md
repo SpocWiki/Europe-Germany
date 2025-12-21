@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Kremmen
 confidential: public
 isDeleted: false
 location:
-- 52.77
-- 13.03
+  - 52.77
+  - 13.03
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31631
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

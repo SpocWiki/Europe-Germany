@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Müllrose
 confidential: public
 isDeleted: false
 location:
-- 52.25
-- 14.42
+  - 52.25
+  - 14.42
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32666
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

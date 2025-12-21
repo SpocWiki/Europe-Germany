@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Axien
 confidential: public
 isDeleted: false
 location:
-- 51.7
-- 13
+  - 51.7
+  - 13
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 28951
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

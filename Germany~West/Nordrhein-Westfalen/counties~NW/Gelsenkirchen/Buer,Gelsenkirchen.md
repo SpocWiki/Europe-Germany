@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Buer,Gelsenkirchen
 confidential: public
 isDeleted: false
 location:
-- 51.58
-- 7.05
+  - 51.58
+  - 7.05
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29403
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Schweizer_Platz
+  - U-Schweizer Platz
 location:
-- 50.1025
-- 8.67972
+  - 50.1025
+  - 8.67972
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

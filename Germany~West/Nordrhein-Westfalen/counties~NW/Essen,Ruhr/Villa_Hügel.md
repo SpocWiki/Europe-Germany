@@ -1,16 +1,19 @@
 ---
+aliases:
+  - Villa_Hügel
+  - Villa Hügel
 confidential: public
 isDeleted: false
 location:
-- 51.42
-- 7.02
+  - 51.42
+  - 7.02
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31063
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

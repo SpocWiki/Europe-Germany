@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Oberursel_Stadtmitte
+  - U-Oberursel Stadtmitte
 location:
-- 50.2025
-- 8.585354
+  - 50.2025
+  - 8.585354
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

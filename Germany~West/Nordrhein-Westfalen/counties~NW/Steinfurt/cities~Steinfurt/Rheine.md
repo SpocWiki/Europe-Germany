@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Rheine
 confidential: public
 isDeleted: false
 location:
-- 52.28
-- 7.43
+  - 52.28
+  - 7.43
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33732
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

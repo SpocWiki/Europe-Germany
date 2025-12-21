@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Rostock-City
 confidential: public
 isDeleted: false
 location:
-- 54.09
-- 12.14
+  - 54.09
+  - 12.14
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33779
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

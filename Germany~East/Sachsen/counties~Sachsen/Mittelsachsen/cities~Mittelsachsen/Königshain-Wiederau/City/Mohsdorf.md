@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Mohsdorf
 confidential: public
 isDeleted: false
 location:
-- 50.95
-- 12.83
+  - 50.95
+  - 12.83
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32533
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

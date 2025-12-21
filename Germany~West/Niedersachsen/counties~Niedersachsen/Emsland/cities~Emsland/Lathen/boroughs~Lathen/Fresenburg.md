@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Fresenburg
 confidential: public
 isDeleted: false
 location:
-- 52.88
-- 7.32
+  - 52.88
+  - 7.32
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30264
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

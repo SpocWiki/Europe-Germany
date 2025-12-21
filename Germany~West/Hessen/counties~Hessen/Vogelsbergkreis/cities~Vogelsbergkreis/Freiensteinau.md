@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Freiensteinau
 confidential: public
 isDeleted: false
 location:
-- 50.43
-- 9.4
+  - 50.43
+  - 9.4
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30255
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

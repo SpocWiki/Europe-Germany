@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Brockwitz
 confidential: public
 isDeleted: false
 location:
-- 51.13
-- 13.5
+  - 51.13
+  - 13.5
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29363
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

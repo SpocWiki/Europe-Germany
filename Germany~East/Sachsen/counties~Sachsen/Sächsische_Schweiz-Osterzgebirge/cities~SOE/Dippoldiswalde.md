@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Dippoldiswalde
 confidential: public
 isDeleted: false
 location:
-- 50.87
-- 13.67
+  - 50.87
+  - 13.67
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29807
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Otterndorf
 confidential: public
 isDeleted: false
 location:
-- 53.82
-- 8.92
+  - 53.82
+  - 8.92
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33190
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

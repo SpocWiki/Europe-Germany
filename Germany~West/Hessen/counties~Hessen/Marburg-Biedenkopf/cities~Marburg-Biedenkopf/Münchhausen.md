@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Münchhausen
 confidential: public
 isDeleted: false
 location:
-- 50.95
-- 8.7
+  - 50.95
+  - 8.7
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32674
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

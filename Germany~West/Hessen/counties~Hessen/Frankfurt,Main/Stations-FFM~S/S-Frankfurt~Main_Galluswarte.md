@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Frankfurt~Main_Galluswarte
+  - S-Frankfurt~Main Galluswarte
 location:
-- 50.10389
-- 8.645
+  - 50.10389
+  - 8.645
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

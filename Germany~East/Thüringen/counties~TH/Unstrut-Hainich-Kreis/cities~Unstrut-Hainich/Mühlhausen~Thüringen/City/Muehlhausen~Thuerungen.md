@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Muehlhausen~Thuerungen
 confidential: public
 isDeleted: false
 location:
-- 51.22
-- 10.45
+  - 51.22
+  - 10.45
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32656
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Heppenheim~Bergstraße
 confidential: public
 isDeleted: false
 location:
-- 49.64
-- 8.64
+  - 49.64
+  - 8.64
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30891
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

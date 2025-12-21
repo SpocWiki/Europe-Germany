@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Frankfurt~Main_Lokalbahnhof
+  - S-Frankfurt~Main Lokalbahnhof
 location:
-- 50.10305
-- 8.692223
+  - 50.10305
+  - 8.692223
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

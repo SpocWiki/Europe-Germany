@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Kiesschneise
 location:
-- 50.07645
-- 8.617742
+  - 50.07645
+  - 8.617742
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

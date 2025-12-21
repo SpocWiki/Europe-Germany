@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Zobelstraße
 location:
-- 50.11294
-- 8.700042
+  - 50.11294
+  - 8.700042
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

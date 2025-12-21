@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Habsburger-Wittelsbacherallee
 location:
-- 50.12001
-- 8.704516
+  - 50.12001
+  - 8.704516
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

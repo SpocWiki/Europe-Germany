@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Schwarzenborn
 confidential: public
 isDeleted: false
 location:
-- 50.92
-- 9.45
+  - 50.92
+  - 9.45
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34100
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-An_der_Dammheide
+  - T-An der Dammheide
 location:
-- 50.11734
-- 8.630308
+  - 50.11734
+  - 8.630308
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

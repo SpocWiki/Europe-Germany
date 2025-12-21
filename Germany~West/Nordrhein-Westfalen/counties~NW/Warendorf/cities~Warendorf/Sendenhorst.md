@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Sendenhorst
 confidential: public
 isDeleted: false
 location:
-- 51.85
-- 7.82
+  - 51.85
+  - 7.82
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34196
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

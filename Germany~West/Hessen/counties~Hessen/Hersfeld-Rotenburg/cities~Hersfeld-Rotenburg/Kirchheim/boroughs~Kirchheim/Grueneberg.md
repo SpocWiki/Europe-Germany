@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Grueneberg
 confidential: public
 isDeleted: false
 location:
-- 50.87
-- 9.5
+  - 50.87
+  - 9.5
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30619
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

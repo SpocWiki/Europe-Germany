@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Gottleuba
 confidential: public
 isDeleted: false
 location:
-- 50.85
-- 13.93
+  - 50.85
+  - 13.93
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30521
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

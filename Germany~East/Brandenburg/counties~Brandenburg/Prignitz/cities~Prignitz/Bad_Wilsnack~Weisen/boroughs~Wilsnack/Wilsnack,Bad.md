@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wilsnack,Bad
 confidential: public
 isDeleted: false
 location:
-- 52.95
-- 11.95
+  - 52.95
+  - 11.95
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35626
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

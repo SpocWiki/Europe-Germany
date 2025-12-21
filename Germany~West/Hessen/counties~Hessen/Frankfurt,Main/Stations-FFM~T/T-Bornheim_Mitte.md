@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Bornheim_Mitte
+  - T-Bornheim Mitte
 location:
-- 50.12669
-- 8.707432
+  - 50.12669
+  - 8.707432
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

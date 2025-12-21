@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Leun
 confidential: public
 isDeleted: false
 location:
-- 50.57
-- 8.38
+  - 50.57
+  - 8.38
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31965
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

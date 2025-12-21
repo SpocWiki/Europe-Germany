@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Rüsselsheim
 location:
-- 49.99164
-- 8.413583
+  - 49.99164
+  - 8.413583
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

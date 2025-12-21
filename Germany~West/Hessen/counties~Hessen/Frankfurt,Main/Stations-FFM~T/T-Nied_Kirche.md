@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Nied_Kirche
+  - T-Nied Kirche
 location:
-- 50.09824
-- 8.566985
+  - 50.09824
+  - 8.566985
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

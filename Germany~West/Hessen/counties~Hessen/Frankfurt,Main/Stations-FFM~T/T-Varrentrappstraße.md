@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Varrentrappstraße
 location:
-- 50.11562
-- 8.646917
+  - 50.11562
+  - 8.646917
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Grimmen
 confidential: public
 isDeleted: false
 location:
-- 54.12
-- 13.05
+  - 54.12
+  - 13.05
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30581
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

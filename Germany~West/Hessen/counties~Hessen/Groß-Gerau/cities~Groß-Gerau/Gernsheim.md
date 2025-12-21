@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Gernsheim
 confidential: public
 isDeleted: false
 location:
-- 49.75
-- 8.48
+  - 49.75
+  - 8.48
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30431
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

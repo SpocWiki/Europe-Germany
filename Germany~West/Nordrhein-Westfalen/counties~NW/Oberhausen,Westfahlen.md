@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Oberhausen,Westfahlen
 confidential: public
 isDeleted: false
 location:
-- 51.48
-- 6.87
+  - 51.48
+  - 6.87
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33030
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

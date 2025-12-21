@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Neustadt~Orla
 confidential: public
 isDeleted: false
 location:
-- 50.73
-- 11.75
+  - 50.73
+  - 11.75
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32858
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

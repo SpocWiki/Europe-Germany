@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Holzminden
 confidential: public
 isDeleted: false
 location:
-- 51.83
-- 9.45
+  - 51.83
+  - 9.45
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31007
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

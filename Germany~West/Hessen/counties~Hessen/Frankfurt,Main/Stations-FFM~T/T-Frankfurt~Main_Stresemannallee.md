@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Frankfurt~Main_Stresemannallee
+  - T-Frankfurt~Main Stresemannallee
 location:
-- 50.0942
-- 8.6715
+  - 50.0942
+  - 8.6715
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

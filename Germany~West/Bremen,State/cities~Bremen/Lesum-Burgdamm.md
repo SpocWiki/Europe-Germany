@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lesum-Burgdamm
 confidential: public
 isDeleted: false
 location:
-- 53.17
-- 8.68
+  - 53.17
+  - 8.68
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31960
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

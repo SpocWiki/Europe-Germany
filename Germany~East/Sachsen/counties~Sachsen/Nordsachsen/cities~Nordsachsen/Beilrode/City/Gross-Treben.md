@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Gross-Treben
 confidential: public
 isDeleted: false
 location:
-- 51.65
-- 12.98
+  - 51.65
+  - 12.98
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30607
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

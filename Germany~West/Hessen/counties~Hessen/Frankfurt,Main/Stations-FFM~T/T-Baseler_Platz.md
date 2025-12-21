@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Baseler_Platz
+  - T-Baseler Platz
 location:
-- 50.10444
-- 8.664855
+  - 50.10444
+  - 8.664855
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

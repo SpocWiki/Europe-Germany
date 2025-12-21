@@ -1,16 +1,19 @@
 ---
+aliases:
+  - Wittstock_Dosse-City
+  - Wittstock Dosse-City
 confidential: public
 isDeleted: false
 location:
-- 53.17
-- 12.48
+  - 53.17
+  - 12.48
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35665
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

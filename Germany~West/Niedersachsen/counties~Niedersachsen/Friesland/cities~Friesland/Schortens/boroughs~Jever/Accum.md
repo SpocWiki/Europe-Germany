@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Accum
 confidential: public
 isDeleted: false
 location:
-- 53.55
-- 8
+  - 53.55
+  - 8
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 28661
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

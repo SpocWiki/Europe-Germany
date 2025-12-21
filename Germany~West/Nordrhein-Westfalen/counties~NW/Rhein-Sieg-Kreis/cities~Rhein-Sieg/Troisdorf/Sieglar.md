@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Sieglar
 confidential: public
 isDeleted: false
 location:
-- 50.8
-- 7.13
+  - 50.8
+  - 7.13
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34250
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

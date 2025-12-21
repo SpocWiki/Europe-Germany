@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Groefenthal
 confidential: public
 isDeleted: false
 location:
-- 50.53
-- 11.32
+  - 50.53
+  - 11.32
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30627
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

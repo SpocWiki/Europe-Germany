@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Mittel-Stiepel
 confidential: public
 isDeleted: false
 location:
-- 51.43
-- 7.23
+  - 51.43
+  - 7.23
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32512
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Frankfurt-Niederrad
 location:
-- 50.08833
-- 8.643611
+  - 50.08833
+  - 8.643611
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Goldenstedt~Oldenburg
 confidential: public
 isDeleted: false
 location:
-- 52.8
-- 8.45
+  - 52.8
+  - 8.45
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30493
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

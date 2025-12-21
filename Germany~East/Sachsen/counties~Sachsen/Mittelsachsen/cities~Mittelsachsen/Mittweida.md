@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Mittweida
 confidential: public
 isDeleted: false
 location:
-- 50.98
-- 12.98
+  - 50.98
+  - 12.98
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32518
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

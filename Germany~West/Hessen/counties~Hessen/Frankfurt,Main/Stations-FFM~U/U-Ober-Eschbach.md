@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Ober-Eschbach
 location:
-- 50.21477
-- 8.649699
+  - 50.21477
+  - 8.649699
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

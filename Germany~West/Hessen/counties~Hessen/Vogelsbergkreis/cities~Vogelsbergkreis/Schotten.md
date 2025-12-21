@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Schotten
 confidential: public
 isDeleted: false
 location:
-- 50.5
-- 9.12
+  - 50.5
+  - 9.12
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34069
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

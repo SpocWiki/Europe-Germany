@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Römer_Paulskirche
+  - T-Römer Paulskirche
 location:
-- 50.11159
-- 8.681671
+  - 50.11159
+  - 8.681671
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

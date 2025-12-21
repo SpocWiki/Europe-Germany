@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Petershagen
 confidential: public
 isDeleted: false
 location:
-- 52.38
-- 8.97
+  - 52.38
+  - 8.97
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33324
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

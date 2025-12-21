@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Schwalbacher_Straße
+  - T-Schwalbacher Straße
 location:
-- 50.10236
-- 8.636512
+  - 50.10236
+  - 8.636512
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

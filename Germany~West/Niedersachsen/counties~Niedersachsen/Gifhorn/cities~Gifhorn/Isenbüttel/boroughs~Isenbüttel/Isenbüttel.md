@@ -1,18 +1,19 @@
 ---
 aliases:
-- Isenbuettel
+  - Isenbuettel
+  - Isenbüttel
 confidential: public
 isDeleted: false
 location:
-- 52.43
-- 10.55
+  - 52.43
+  - 10.55
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31129
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

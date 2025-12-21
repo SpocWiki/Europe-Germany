@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Herzfeld
 confidential: public
 isDeleted: false
 location:
-- 53.33
-- 11.76
+  - 53.33
+  - 11.76
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30924
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

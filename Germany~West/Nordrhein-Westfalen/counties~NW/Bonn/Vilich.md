@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Vilich
 confidential: public
 isDeleted: false
 location:
-- 50.77
-- 7.13
+  - 50.77
+  - 7.13
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35292
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

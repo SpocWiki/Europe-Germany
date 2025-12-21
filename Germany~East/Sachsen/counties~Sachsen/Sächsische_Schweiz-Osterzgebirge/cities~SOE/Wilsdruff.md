@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wilsdruff
 confidential: public
 isDeleted: false
 location:
-- 51.05
-- 13.55
+  - 51.05
+  - 13.55
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35625
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

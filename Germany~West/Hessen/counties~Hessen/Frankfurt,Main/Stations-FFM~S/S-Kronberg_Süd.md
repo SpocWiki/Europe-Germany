@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Kronberg_Süd
+  - S-Kronberg Süd
 location:
-- 50.17331
-- 8.529183
+  - 50.17331
+  - 8.529183
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

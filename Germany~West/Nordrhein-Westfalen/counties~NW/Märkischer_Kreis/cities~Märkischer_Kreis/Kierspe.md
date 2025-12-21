@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Kierspe
 confidential: public
 isDeleted: false
 location:
-- 51.13
-- 7.6
+  - 51.13
+  - 7.6
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31421
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

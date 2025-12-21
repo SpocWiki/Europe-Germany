@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lensahn
 confidential: public
 isDeleted: false
 location:
-- 54.22
-- 10.88
+  - 54.22
+  - 10.88
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31942
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

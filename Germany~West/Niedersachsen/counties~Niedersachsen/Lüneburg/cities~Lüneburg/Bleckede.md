@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Bleckede
 confidential: public
 isDeleted: false
 location:
-- 53.28
-- 10.73
+  - 53.28
+  - 10.73
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29227
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

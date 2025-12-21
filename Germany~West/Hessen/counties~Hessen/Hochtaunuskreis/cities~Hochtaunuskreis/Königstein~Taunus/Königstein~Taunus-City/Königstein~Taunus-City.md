@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Königstein~Taunus-City
 confidential: public
 isDeleted: false
 location:
-- 50.18
-- 8.47
+  - 50.18
+  - 8.47
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31532
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

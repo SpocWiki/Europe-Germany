@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Nahe
 confidential: public
 isDeleted: false
 location:
-- 53.79
-- 10.14
+  - 53.79
+  - 10.14
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32718
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

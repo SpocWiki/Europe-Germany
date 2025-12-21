@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Chemnitz
 confidential: public
 isDeleted: false
 location:
-- 50.83
-- 12.92
+  - 50.83
+  - 12.92
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29572
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

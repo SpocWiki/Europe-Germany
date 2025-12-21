@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Langenfeld,Rhld
 confidential: public
 isDeleted: false
 location:
-- 51.1
-- 6.97
+  - 51.1
+  - 6.97
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31828
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

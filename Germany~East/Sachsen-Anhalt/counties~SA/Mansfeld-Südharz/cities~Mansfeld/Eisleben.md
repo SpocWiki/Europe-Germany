@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Eisleben
 confidential: public
 isDeleted: false
 location:
-- 51.53
-- 11.53
+  - 51.53
+  - 11.53
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30010
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Hch.Hoffmann-Str_Blutsp.Dienst
+  - T-Hch.Hoffmann-Str Blutsp.Dienst
 location:
-- 50.09259
-- 8.652849
+  - 50.09259
+  - 8.652849
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

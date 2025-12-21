@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Börneplatz
 location:
-- 50.1124
-- 8.687428
+  - 50.1124
+  - 8.687428
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station
+  - geo/station
 type: Station
 ---
 

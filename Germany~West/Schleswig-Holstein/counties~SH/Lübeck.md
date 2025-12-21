@@ -1,18 +1,18 @@
 ---
 aliases:
-- Lübeck
+  - Lübeck
 confidential: public
 isDeleted: false
 location:
-- 53.87
-- 10.68
+  - 53.87
+  - 10.68
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32165
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

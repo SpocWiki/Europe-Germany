@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Riesa
 confidential: public
 isDeleted: false
 location:
-- 51.3
-- 13.3
+  - 51.3
+  - 13.3
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33738
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

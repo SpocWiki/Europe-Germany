@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Friedland,Mecklenburg
 confidential: public
 isDeleted: false
 location:
-- 53.67
-- 13.55
+  - 53.67
+  - 13.55
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30282
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

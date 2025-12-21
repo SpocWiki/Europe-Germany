@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Kalbach
 location:
-- 50.18362
-- 8.658256
+  - 50.18362
+  - 8.658256
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

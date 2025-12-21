@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Osterode~Harz
 confidential: public
 isDeleted: false
 location:
-- 51.72
-- 10.25
+  - 51.72
+  - 10.25
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33174
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,19 @@
 ---
+aliases:
+  - Bad_Homburg~Höhe
+  - Bad Homburg~Höhe
 confidential: public
 isDeleted: false
 location:
-- 50.23
-- 8.62
+  - 50.23
+  - 8.62
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 28964
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

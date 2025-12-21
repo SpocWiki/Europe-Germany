@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Schwarzwaldstraße
 location:
-- 50.0868
-- 8.646634
+  - 50.0868
+  - 8.646634
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

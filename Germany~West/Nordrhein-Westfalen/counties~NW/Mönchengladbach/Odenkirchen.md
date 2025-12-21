@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Odenkirchen
 confidential: public
 isDeleted: false
 location:
-- 51.13
-- 6.47
+  - 51.13
+  - 6.47
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33059
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

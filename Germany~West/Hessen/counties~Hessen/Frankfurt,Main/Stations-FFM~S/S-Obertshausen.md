@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Obertshausen
 location:
-- 50.07153
-- 8.848194
+  - 50.07153
+  - 8.848194
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Muskau,Bad
 confidential: public
 isDeleted: false
 location:
-- 51.55
-- 14.72
+  - 51.55
+  - 14.72
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32640
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Schwanheim_Rheinlandstr.
+  - T-Schwanheim Rheinlandstr.
 location:
-- 50.08217
-- 8.581546
+  - 50.08217
+  - 8.581546
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

@@ -1,16 +1,19 @@
 ---
+aliases:
+  - Bad_Oldesloe
+  - Bad Oldesloe
 confidential: public
 isDeleted: false
 location:
-- 53.82
-- 10.38
+  - 53.82
+  - 10.38
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33093
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

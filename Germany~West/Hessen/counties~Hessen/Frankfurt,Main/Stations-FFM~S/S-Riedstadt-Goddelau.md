@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Riedstadt-Goddelau
 location:
-- 49.83528
-- 8.497778
+  - 49.83528
+  - 8.497778
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Nibelungenplatz_FH
+  - T-Nibelungenplatz FH
 location:
-- 50.12904
-- 8.693141
+  - 50.12904
+  - 8.693141
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

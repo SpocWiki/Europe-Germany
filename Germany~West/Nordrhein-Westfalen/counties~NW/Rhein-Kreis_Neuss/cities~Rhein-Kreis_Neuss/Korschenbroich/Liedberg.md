@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Liedberg
 confidential: public
 isDeleted: false
 location:
-- 51.17
-- 6.53
+  - 51.17
+  - 6.53
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31998
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Melibocusstraße
 location:
-- 50.08163
-- 8.639213
+  - 50.08163
+  - 8.639213
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

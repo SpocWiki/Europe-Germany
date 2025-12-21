@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Schweinsberg
 confidential: public
 isDeleted: false
 location:
-- 50.77
-- 8.98
+  - 50.77
+  - 8.98
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34109
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

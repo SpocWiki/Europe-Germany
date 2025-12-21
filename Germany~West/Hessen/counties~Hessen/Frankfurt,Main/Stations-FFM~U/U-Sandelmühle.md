@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Sandelmühle
 location:
-- 50.16546
-- 8.645339
+  - 50.16546
+  - 8.645339
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

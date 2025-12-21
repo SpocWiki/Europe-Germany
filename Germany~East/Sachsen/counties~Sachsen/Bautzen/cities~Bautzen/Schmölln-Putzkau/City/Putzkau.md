@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Putzkau
 confidential: public
 isDeleted: false
 location:
-- 51.1
-- 14.25
+  - 51.1
+  - 14.25
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33557
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

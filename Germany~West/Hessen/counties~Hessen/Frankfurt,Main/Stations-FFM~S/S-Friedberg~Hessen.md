@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Friedberg~Hessen
 location:
-- 50.33528
-- 8.755
+  - 50.33528
+  - 8.755
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

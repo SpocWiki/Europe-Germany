@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Rebstöcker_Straße
+  - T-Rebstöcker Straße
 location:
-- 50.10157
-- 8.628664
+  - 50.10157
+  - 8.628664
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

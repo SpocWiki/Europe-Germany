@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Ludwigslust-City
 confidential: public
 isDeleted: false
 location:
-- 53.32
-- 11.5
+  - 53.32
+  - 11.5
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32130
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

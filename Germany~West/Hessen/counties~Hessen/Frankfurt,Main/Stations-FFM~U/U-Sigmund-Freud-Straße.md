@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Sigmund-Freud-Straße
 location:
-- 50.15493
-- 8.686307
+  - 50.15493
+  - 8.686307
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

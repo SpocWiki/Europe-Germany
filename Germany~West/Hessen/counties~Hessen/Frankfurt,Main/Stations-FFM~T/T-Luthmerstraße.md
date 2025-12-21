@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Luthmerstraße
 location:
-- 50.09928
-- 8.573319
+  - 50.09928
+  - 8.573319
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

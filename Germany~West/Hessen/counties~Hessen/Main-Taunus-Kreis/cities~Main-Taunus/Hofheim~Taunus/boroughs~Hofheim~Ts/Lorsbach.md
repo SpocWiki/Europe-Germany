@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lorsbach
 confidential: public
 isDeleted: false
 location:
-- 50.12
-- 8.42
+  - 50.12
+  - 8.42
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32098
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

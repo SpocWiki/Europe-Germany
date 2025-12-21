@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Verden
 confidential: public
 isDeleted: false
 location:
-- 52.92
-- 9.23
+  - 52.92
+  - 9.23
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35246
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

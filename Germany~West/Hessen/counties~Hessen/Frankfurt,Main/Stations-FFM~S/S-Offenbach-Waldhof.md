@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Offenbach-Waldhof
 location:
-- 50.08169
-- 8.828938
+  - 50.08169
+  - 8.828938
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

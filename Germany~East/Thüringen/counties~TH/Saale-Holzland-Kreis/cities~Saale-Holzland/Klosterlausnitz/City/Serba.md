@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Serba
 confidential: public
 isDeleted: false
 location:
-- 50.95
-- 11.82
+  - 50.95
+  - 11.82
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34207
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

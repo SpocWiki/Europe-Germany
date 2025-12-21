@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Mainz_Hbf
+  - S-Mainz Hbf
 location:
-- 50.0013
-- 8.25865
+  - 50.0013
+  - 8.25865
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

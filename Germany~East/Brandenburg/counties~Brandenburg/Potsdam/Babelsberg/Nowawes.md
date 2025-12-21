@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Nowawes
 confidential: public
 isDeleted: false
 location:
-- 52.4
-- 13.1
+  - 52.4
+  - 13.1
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32977
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

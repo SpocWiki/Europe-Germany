@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Rheinbach
 confidential: public
 isDeleted: false
 location:
-- 50.63
-- 6.95
+  - 50.63
+  - 6.95
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33729
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

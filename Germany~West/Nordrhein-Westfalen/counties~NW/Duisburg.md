@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Duisburg
 confidential: public
 isDeleted: false
 location:
-- 51.43
-- 6.76
+  - 51.43
+  - 6.76
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29905
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

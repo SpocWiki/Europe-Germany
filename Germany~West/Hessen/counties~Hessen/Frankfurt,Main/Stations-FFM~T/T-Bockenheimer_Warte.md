@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Bockenheimer_Warte
+  - T-Bockenheimer Warte
 location:
-- 50.12064
-- 8.65061
+  - 50.12064
+  - 8.65061
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

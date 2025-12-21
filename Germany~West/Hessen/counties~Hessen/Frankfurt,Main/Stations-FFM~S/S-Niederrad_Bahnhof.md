@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Niederrad_Bahnhof
+  - S-Niederrad Bahnhof
 location:
-- 50.08093
-- 8.637694
+  - 50.08093
+  - 8.637694
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

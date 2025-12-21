@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Offenbach-Bieber
 location:
-- 50.09053
-- 8.808406
+  - 50.09053
+  - 8.808406
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

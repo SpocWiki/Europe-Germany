@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Mainz-Bischofsheim
 location:
-- 49.99031
-- 8.362575
+  - 49.99031
+  - 8.362575
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

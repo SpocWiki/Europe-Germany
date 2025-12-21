@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Münzenberger_Straße
+  - T-Münzenberger Straße
 location:
-- 50.13278
-- 8.695279
+  - 50.13278
+  - 8.695279
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

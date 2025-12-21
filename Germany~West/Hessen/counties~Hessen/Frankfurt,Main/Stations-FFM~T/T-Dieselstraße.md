@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Dieselstraße
 location:
-- 50.12413
-- 8.744345
+  - 50.12413
+  - 8.744345
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

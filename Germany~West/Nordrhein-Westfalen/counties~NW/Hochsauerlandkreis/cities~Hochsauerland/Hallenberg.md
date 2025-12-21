@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hallenberg
 confidential: public
 isDeleted: false
 location:
-- 51.12
-- 8.63
+  - 51.12
+  - 8.63
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30727
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

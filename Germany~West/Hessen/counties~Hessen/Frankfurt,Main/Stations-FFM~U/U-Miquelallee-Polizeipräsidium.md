@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Miquelallee-Polizeipräsidium
 location:
-- 50.13169
-- 8.672183
+  - 50.13169
+  - 8.672183
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Wasserpark
 location:
-- 50.13581
-- 8.696754
+  - 50.13581
+  - 8.696754
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

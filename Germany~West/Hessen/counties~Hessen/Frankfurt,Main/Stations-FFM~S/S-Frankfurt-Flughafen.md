@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Frankfurt-Flughafen
 location:
-- 50.05194
-- 8.577778
+  - 50.05194
+  - 8.577778
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Dhünn,Wipperfürth
 confidential: public
 isDeleted: false
 location:
-- 51.12
-- 7.28
+  - 51.12
+  - 7.28
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29779
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

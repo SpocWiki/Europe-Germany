@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Schmalkalden
 confidential: public
 isDeleted: false
 location:
-- 50.72
-- 10.45
+  - 50.72
+  - 10.45
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34044
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,15 @@
 ---
 aliases:
-- 
+  - ''
+  - _Station-U-Template
+  - ' Station-U-Template'
 confidential: public
 isDeleted: false
 isReadOnly: false
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 publish: true
 tags:
-- geo/station
+  - geo/station
 type: Station
 ---
 

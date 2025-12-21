@@ -1,32 +1,35 @@
 ---
+aliases:
+  - Berlin_Wall
+  - Berlin Wall
 has_id_wikidata: Q5086
-part_of: "[[_Standards/WikiData/WD~Iron_Curtain,124425]]"
-made_from_material: "[[_Standards/WikiData/WD~reinforced_concrete,184190]]"
-different_from: "[[_Standards/WikiData/WD~Berlin_Customs_Wall,532578]]"
+part_of: '[[_Standards/WikiData/WD~Iron_Curtain,124425]]'
+made_from_material: '[[_Standards/WikiData/WD~reinforced_concrete,184190]]'
+different_from: '[[_Standards/WikiData/WD~Berlin_Customs_Wall,532578]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~cordon,1784293]]"
-  - "[[_Standards/WikiData/WD~fortified_line,2973801]]"
-  - "[[_Standards/WikiData/WD~destroyed_building_or_structure,19860854]]"
-  - "[[_Standards/WikiData/WD~separation_barrier,27627826]]"
+  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+  - '[[_Standards/WikiData/WD~cordon,1784293]]'
+  - '[[_Standards/WikiData/WD~fortified_line,2973801]]'
+  - '[[_Standards/WikiData/WD~destroyed_building_or_structure,19860854]]'
+  - '[[_Standards/WikiData/WD~separation_barrier,27627826]]'
 country:
-  - "[[_Standards/WikiData/WD~West_Germany,713750]]"
-  - "[[_Standards/WikiData/WD~German_Democratic_Republic,16957]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-has_characteristic: "[[_Standards/WikiData/WD~Fighting_mission_of_the_FDJ,1723301]]"
+  - '[[_Standards/WikiData/WD~West_Germany,713750]]'
+  - '[[_Standards/WikiData/WD~German_Democratic_Republic,16957]]'
+  - '[[_Standards/WikiData/WD~Germany,183]]'
+has_characteristic: '[[_Standards/WikiData/WD~Fighting_mission_of_the_FDJ,1723301]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Anti_Fascist_Protection_Rampart,15783635]]"
+  - '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+  - '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Anti_Fascist_Protection_Rampart,15783635]]'
 IMDb_keyword: berlin-wall
-state_of_conservation: "[[_Standards/WikiData/WD~partially_destroyed,60539160]]"
-heritage_designation: "[[_Standards/WikiData/WD~Heritage_monument_in_Berlin,85171142]]"
-state_of_use: "[[_Standards/WikiData/WD~permanently_closed,104664889]]"
-commissioned_by: "[[_Standards/WikiData/WD~German_Democratic_Republic,16957]]"
-named_after: "[[_Standards/WikiData/WD~Berlin,64]]"
+state_of_conservation: '[[_Standards/WikiData/WD~partially_destroyed,60539160]]'
+heritage_designation: '[[_Standards/WikiData/WD~Heritage_monument_in_Berlin,85171142]]'
+state_of_use: '[[_Standards/WikiData/WD~permanently_closed,104664889]]'
+commissioned_by: '[[_Standards/WikiData/WD~German_Democratic_Republic,16957]]'
+named_after: '[[_Standards/WikiData/WD~Berlin,64]]'
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Berlin,64]]"
-  - "[[_Standards/WikiData/WD~East_Berlin,56037]]"
+  - '[[_Standards/WikiData/WD~Berlin,64]]'
+  - '[[_Standards/WikiData/WD~East_Berlin,56037]]'
 capital_cost: 100000000
 height: 3.6
 length: 155
@@ -40,7 +43,7 @@ route_map: http://commons.wikimedia.org/wiki/Special:FilePath/CornballExpressIB.
 dissolved_abolished_or_demolished_date: 1989-11-09T00:00:00Z
 coordinate_location: Point(13.441111111 52.504444444)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Berlin%20Wall%20Potsdamer%20Platz%20November%201975%20looking%20east%20crop.jpg
-U_S_National_Archives_Identifier: "10637994"
+U_S_National_Archives_Identifier: 10637994
 nickname: Schandmauer
 geoshape: http://commons.wikimedia.org/data/main/Data:Berlin+Wall.map
 schematic:
@@ -59,7 +62,7 @@ schematic:
 video: http://commons.wikimedia.org/wiki/Special:FilePath/So%20wurde%20die%20Berliner%20Mauer%20gebaut%20%28CC%20BY%204.0%29.webm
 sectional_view: http://commons.wikimedia.org/wiki/Special:FilePath/Structure%20of%20Berlin%20Wall.svg
 official_website: https://www.berlin.de/mauer/
-P8189: "987007283267105171"
+P8189: 987007283267105171
 Krugosvet_article: istoriya/BERLINSKAYA_STENA.html
 ---
 

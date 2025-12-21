@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Limbach~Sachsen
 confidential: public
 isDeleted: false
 location:
-- 50.87
-- 12.75
+  - 50.87
+  - 12.75
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32015
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

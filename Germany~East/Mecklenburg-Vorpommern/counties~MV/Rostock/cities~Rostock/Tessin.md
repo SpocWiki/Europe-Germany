@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Tessin
 confidential: public
 isDeleted: false
 location:
-- 54.03
-- 12.46
+  - 54.03
+  - 12.46
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34828
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

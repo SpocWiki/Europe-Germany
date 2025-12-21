@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Hospital_Heiligen_Geist
+  - T-Hospital Heiligen Geist
 location:
-- 50.11099
-- 8.692863
+  - 50.11099
+  - 8.692863
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

@@ -1,16 +1,19 @@
 ---
+aliases:
+  - Bad_Zwischenahn
+  - Bad Zwischenahn
 confidential: public
 isDeleted: false
 location:
-- 53.2
-- 8
+  - 53.2
+  - 8
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35864
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

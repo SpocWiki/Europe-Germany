@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Kamen
 confidential: public
 isDeleted: false
 location:
-- 51.6
-- 7.67
+  - 51.6
+  - 7.67
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31278
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

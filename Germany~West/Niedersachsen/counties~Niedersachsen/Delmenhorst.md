@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Delmenhorst
 confidential: public
 isDeleted: false
 location:
-- 53.05
-- 8.63
+  - 53.05
+  - 8.63
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29742
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

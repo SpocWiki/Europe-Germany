@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Ladbergen
 confidential: public
 isDeleted: false
 location:
-- 52.15
-- 7.75
+  - 52.15
+  - 7.75
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31779
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

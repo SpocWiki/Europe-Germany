@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Seckbacher_Landstraße
+  - U-Seckbacher Landstraße
 location:
-- 50.13453
-- 8.71202
+  - 50.13453
+  - 8.71202
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station
+  - geo/station
 type: Station
 ---
 

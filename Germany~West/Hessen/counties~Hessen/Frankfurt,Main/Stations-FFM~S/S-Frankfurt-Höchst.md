@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Frankfurt-Höchst
 location:
-- 50.1025
-- 8.5425
+  - 50.1025
+  - 8.5425
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

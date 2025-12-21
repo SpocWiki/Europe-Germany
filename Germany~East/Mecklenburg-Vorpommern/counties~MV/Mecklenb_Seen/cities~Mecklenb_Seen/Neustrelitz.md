@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Neustrelitz
 confidential: public
 isDeleted: false
 location:
-- 53.35
-- 13.07
+  - 53.35
+  - 13.07
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32868
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

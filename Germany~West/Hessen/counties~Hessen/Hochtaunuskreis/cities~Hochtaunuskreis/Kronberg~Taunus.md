@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Kronberg~Taunus
 confidential: public
 isDeleted: false
 location:
-- 50.18
-- 8.52
+  - 50.18
+  - 8.52
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31659
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

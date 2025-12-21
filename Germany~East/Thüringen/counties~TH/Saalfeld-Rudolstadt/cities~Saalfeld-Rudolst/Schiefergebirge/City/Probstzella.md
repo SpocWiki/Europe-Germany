@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Probstzella
 confidential: public
 isDeleted: false
 location:
-- 50.53
-- 11.4
+  - 50.53
+  - 11.4
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33531
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Neumünster
 confidential: public
 isDeleted: false
 location:
-- 54.07
-- 9.98
+  - 54.07
+  - 9.98
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32842
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

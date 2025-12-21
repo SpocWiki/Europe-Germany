@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Zoerbig
 confidential: public
 isDeleted: false
 location:
-- 51.62
-- 12.12
+  - 51.62
+  - 12.12
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35876
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

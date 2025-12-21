@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Dietzenbach_Bhf
+  - S-Dietzenbach Bhf
 location:
-- 50.00861
-- 8.775556
+  - 50.00861
+  - 8.775556
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

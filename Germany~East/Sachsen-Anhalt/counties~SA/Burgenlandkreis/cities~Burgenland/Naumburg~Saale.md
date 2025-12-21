@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Naumburg~Saale
 confidential: public
 isDeleted: false
 location:
-- 51.15
-- 11.82
+  - 51.15
+  - 11.82
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32751
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

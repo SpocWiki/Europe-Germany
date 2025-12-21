@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Geraberg
 confidential: public
 isDeleted: false
 location:
-- 50.7
-- 10.82
+  - 50.7
+  - 10.82
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30420
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

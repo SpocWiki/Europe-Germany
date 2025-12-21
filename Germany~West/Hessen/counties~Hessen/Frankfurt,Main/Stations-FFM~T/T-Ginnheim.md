@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Ginnheim
 location:
-- 50.13862
-- 8.646436
+  - 50.13862
+  - 8.646436
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

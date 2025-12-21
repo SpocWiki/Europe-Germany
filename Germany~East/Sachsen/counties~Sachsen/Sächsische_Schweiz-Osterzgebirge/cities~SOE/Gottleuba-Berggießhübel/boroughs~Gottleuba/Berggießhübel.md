@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Berggießhübel
 confidential: public
 isDeleted: false
 location:
-- 50.88
-- 14
+  - 50.88
+  - 14
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29123
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

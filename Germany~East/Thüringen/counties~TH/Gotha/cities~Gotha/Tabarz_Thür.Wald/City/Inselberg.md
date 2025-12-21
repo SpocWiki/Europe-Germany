@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Inselberg
 confidential: public
 isDeleted: false
 location:
-- 50.85
-- 10.47
+  - 50.85
+  - 10.47
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31115
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Homburg,Saar
 confidential: public
 isDeleted: false
 location:
-- 49.33
-- 7.33
+  - 49.33
+  - 7.33
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31013
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

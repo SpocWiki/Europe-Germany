@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lechenich
 confidential: public
 isDeleted: false
 location:
-- 50.8
-- 6.77
+  - 50.8
+  - 6.77
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31903
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Beckum
 confidential: public
 isDeleted: false
 location:
-- 51.75
-- 8.05
+  - 51.75
+  - 8.05
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29063
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Haltern,See
 confidential: public
 isDeleted: false
 location:
-- 51.75
-- 7.18
+  - 51.75
+  - 7.18
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30736
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

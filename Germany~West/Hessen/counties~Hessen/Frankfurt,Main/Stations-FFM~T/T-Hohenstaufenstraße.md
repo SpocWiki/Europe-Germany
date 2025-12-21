@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Hohenstaufenstraße
 location:
-- 50.11089
-- 8.657535
+  - 50.11089
+  - 8.657535
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

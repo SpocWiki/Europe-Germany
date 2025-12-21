@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Oberursel_Altstadt
+  - U-Oberursel Altstadt
 location:
-- 50.20632
-- 8.577747
+  - 50.20632
+  - 8.577747
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

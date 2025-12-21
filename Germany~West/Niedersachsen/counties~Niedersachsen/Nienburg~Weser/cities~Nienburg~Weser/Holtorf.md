@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Holtorf
 confidential: public
 isDeleted: false
 location:
-- 52.67
-- 9.22
+  - 52.67
+  - 9.22
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31003
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

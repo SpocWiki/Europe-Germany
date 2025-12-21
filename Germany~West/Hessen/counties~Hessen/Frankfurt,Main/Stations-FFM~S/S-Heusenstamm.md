@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Heusenstamm
 location:
-- 50.05958
-- 8.806806
+  - 50.05958
+  - 8.806806
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

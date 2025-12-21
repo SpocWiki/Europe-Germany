@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Heddernheim
 location:
-- 50.16139
-- 8.649709
+  - 50.16139
+  - 8.649709
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Hausener_Weg
+  - U-Hausener Weg
 location:
-- 50.13187
-- 8.619142
+  - 50.13187
+  - 8.619142
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

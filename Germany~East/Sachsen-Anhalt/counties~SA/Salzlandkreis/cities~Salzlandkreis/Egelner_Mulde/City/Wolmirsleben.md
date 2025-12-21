@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wolmirsleben
 confidential: public
 isDeleted: false
 location:
-- 51.95
-- 11.48
+  - 51.95
+  - 11.48
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35692
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Lorsbach
 location:
-- 50.11489
-- 8.422853
+  - 50.11489
+  - 8.422853
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

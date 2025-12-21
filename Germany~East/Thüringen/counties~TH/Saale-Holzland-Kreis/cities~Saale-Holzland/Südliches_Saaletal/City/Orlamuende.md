@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Orlamuende
 confidential: public
 isDeleted: false
 location:
-- 50.78
-- 11.55
+  - 50.78
+  - 11.55
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33135
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

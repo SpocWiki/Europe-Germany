@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Rodgau-Jügesheim
 location:
-- 50.02598
-- 8.884023
+  - 50.02598
+  - 8.884023
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Falkenau
 confidential: public
 isDeleted: false
 location:
-- 50.87
-- 13.1
+  - 50.87
+  - 13.1
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30118
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

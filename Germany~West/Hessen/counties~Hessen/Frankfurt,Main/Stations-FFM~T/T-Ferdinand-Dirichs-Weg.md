@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Ferdinand-Dirichs-Weg
 location:
-- 50.0826
-- 8.588766
+  - 50.0826
+  - 8.588766
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

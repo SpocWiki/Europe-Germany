@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Grabowsee,Oranienburg
 confidential: public
 isDeleted: false
 location:
-- 52.78
-- 13.3
+  - 52.78
+  - 13.3
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30530
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Seitschen
 confidential: public
 isDeleted: false
 location:
-- 51.17
-- 14.33
+  - 51.17
+  - 14.33
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34186
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

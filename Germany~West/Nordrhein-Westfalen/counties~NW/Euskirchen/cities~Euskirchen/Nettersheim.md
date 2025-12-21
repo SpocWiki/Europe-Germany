@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Nettersheim
 confidential: public
 isDeleted: false
 location:
-- 50.5
-- 6.63
+  - 50.5
+  - 6.63
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32786
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

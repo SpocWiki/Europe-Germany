@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Rodgau-Rollwald
 location:
-- 49.98798
-- 8.846545
+  - 49.98798
+  - 8.846545
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

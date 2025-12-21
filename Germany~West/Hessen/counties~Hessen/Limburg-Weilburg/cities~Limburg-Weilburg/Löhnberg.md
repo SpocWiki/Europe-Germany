@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Löhnberg
 confidential: public
 isDeleted: false
 location:
-- 50.52
-- 8.27
+  - 50.52
+  - 8.27
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32190
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,18 +1,19 @@
 ---
 aliases:
-- Hoexter
+  - Hoexter
+  - Höxter-city
 confidential: public
 isDeleted: false
 location:
-- 51.78
-- 9.38
+  - 51.78
+  - 9.38
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31082
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Rodgau-Nieder_Roden
+  - S-Rodgau-Nieder Roden
 location:
-- 49.99635
-- 8.874723
+  - 49.99635
+  - 8.874723
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

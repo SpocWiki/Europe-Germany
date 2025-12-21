@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Neiden
 confidential: public
 isDeleted: false
 location:
-- 51.6
-- 12.95
+  - 51.6
+  - 12.95
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32770
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -3,6 +3,7 @@ aliases:
   - Olaf_Scholz
   - Olaf Scholz
   - Scholz
+  - Scholz,Olaf
 has_id_wikidata: Q61053
 TikTok_username:
   - olaf_scholz.kanzler
@@ -17,59 +18,59 @@ YouTube_handle: OlafScholz
 affiliation_string: Vice-Chancellor and Federal Minister of Finance of Germany
 nickname: Scholzomat
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~lawyer,40348]]"
-educated_at: "[[_Standards/WikiData/WD~University_of_Hamburg,156725]]"
-employer: "[[_Standards/WikiData/WD~Zentralverband_der_deutschen_Konsumgenossenschaften,190848]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~lawyer,40348]]'
+educated_at: '[[_Standards/WikiData/WD~University_of_Hamburg,156725]]'
+employer: '[[_Standards/WikiData/WD~Zentralverband_der_deutschen_Konsumgenossenschaften,190848]]'
 part_of:
-  - "[[_Standards/WikiData/WD~First_Merkel_cabinet,315863]]"
-  - "[[_Standards/WikiData/WD~Scholz_cabinet,109712556]]"
+  - '[[_Standards/WikiData/WD~First_Merkel_cabinet,315863]]'
+  - '[[_Standards/WikiData/WD~Scholz_cabinet,109712556]]'
 position_held:
-  - "[[_Standards/WikiData/WD~Vice_Chancellor_of_Germany,504272]]"
-  - "[[_Standards/WikiData/WD~First_Mayor_of_Hamburg,1362118]]"
-  - "[[_Standards/WikiData/WD~Senator_of_the_Interior,1663929]]"
-  - "[[_Standards/WikiData/WD~member_of_the_German_Bundestag,1939555]]"
-  - "[[_Standards/WikiData/WD~Federal_Chancellor_of_Germany,4970706]]"
-  - "[[_Standards/WikiData/WD~member_of_the_Hamburg_Parliament,19360355]]"
-  - "[[_Standards/WikiData/WD~Federal_Minister_of_Finance,22575092]]"
-  - "[[_Standards/WikiData/WD~Commissioner_for_Franco_German_Cooperation,26822284]]"
-  - "[[_Standards/WikiData/WD~Secretary_General_of_the_SPD,29552004]]"
-  - "[[_Standards/WikiData/WD~Federal_Minister_of_Labour_and_Social_Affairs,30533351]]"
-spouse: "[[_Standards/WikiData/WD~Britta_Ernst,920705]]"
-different_from: "[[_Standards/WikiData/WD~Olaf_Scholz,2018082]]"
-affiliation: "[[_Standards/WikiData/WD~SPD_Bundestag_fraction,2207512]]"
-given_name: "[[_Standards/WikiData/WD~Olaf,3881452]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~Vice_Chancellor_of_Germany,504272]]'
+  - '[[_Standards/WikiData/WD~First_Mayor_of_Hamburg,1362118]]'
+  - '[[_Standards/WikiData/WD~Senator_of_the_Interior,1663929]]'
+  - '[[_Standards/WikiData/WD~member_of_the_German_Bundestag,1939555]]'
+  - '[[_Standards/WikiData/WD~Federal_Chancellor_of_Germany,4970706]]'
+  - '[[_Standards/WikiData/WD~member_of_the_Hamburg_Parliament,19360355]]'
+  - '[[_Standards/WikiData/WD~Federal_Minister_of_Finance,22575092]]'
+  - '[[_Standards/WikiData/WD~Commissioner_for_Franco_German_Cooperation,26822284]]'
+  - '[[_Standards/WikiData/WD~Secretary_General_of_the_SPD,29552004]]'
+  - '[[_Standards/WikiData/WD~Federal_Minister_of_Labour_and_Social_Affairs,30533351]]'
+spouse: '[[_Standards/WikiData/WD~Britta_Ernst,920705]]'
+different_from: '[[_Standards/WikiData/WD~Olaf_Scholz,2018082]]'
+affiliation: '[[_Standards/WikiData/WD~SPD_Bundestag_fraction,2207512]]'
+given_name: '[[_Standards/WikiData/WD~Olaf,3881452]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~political_activity,12142141]]"
-  - "[[_Standards/WikiData/WD~politics,7163]]"
-participant_in: "[[_Standards/WikiData/WD~list_of_participants_in_the_coalition_talks_between_the_CDU_CSU_and_SPD_in_2013,15829617]]"
-family_name: "[[_Standards/WikiData/WD~Scholz,22058820]]"
-award_received: "[[_Standards/WikiData/WD~Global_Citizen_Awards,48965436]]"
+  - '[[_Standards/WikiData/WD~political_activity,12142141]]'
+  - '[[_Standards/WikiData/WD~politics,7163]]'
+participant_in: '[[_Standards/WikiData/WD~list_of_participants_in_the_coalition_talks_between_the_CDU_CSU_and_SPD_in_2013,15829617]]'
+family_name: '[[_Standards/WikiData/WD~Scholz,22058820]]'
+award_received: '[[_Standards/WikiData/WD~Global_Citizen_Awards,48965436]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Jens_Scholz,61982601]]"
-  - "[[_Standards/WikiData/WD~Ingo_Scholz,108701226]]"
-professional_partner: "[[_Standards/WikiData/WD~Werner_Rätz,87188723]]"
-father: "[[_Standards/WikiData/WD~Gerhard_Scholz,110157327]]"
-mother: "[[_Standards/WikiData/WD~Christel_Scholz,110157334]]"
+  - '[[_Standards/WikiData/WD~Jens_Scholz,61982601]]'
+  - '[[_Standards/WikiData/WD~Ingo_Scholz,108701226]]'
+professional_partner: '[[_Standards/WikiData/WD~Werner_Rätz,87188723]]'
+father: '[[_Standards/WikiData/WD~Gerhard_Scholz,110157327]]'
+mother: '[[_Standards/WikiData/WD~Christel_Scholz,110157334]]'
 work_location:
-  - "[[_Standards/WikiData/WD~Bonn,586]]"
-  - "[[_Standards/WikiData/WD~Hamburg,1055]]"
-  - "[[_Standards/WikiData/WD~Berlin,64]]"
+  - '[[_Standards/WikiData/WD~Bonn,586]]'
+  - '[[_Standards/WikiData/WD~Hamburg,1055]]'
+  - '[[_Standards/WikiData/WD~Berlin,64]]'
 residence:
-  - "[[_Standards/WikiData/WD~Potsdam,1711]]"
-  - "[[_Standards/WikiData/WD~Rahlstedt,1820]]"
+  - '[[_Standards/WikiData/WD~Potsdam,1711]]'
+  - '[[_Standards/WikiData/WD~Rahlstedt,1820]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
-place_of_birth: "[[_Standards/WikiData/WD~Osnabrück,2916]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~German,188]]'
+place_of_birth: '[[_Standards/WikiData/WD~Osnabrück,2916]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 number_of_children: 0
-country_of_citizenship: "[[_Standards/WikiData/WD~Germany,183]]"
-native_language: "[[_Standards/WikiData/WD~German,188]]"
+country_of_citizenship: '[[_Standards/WikiData/WD~Germany,183]]'
+native_language: '[[_Standards/WikiData/WD~German,188]]'
 height: 170
-member_of_political_party: "[[_Standards/WikiData/WD~Social_Democratic_Party_of_Germany,49768]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~irreligion,58721]]"
+member_of_political_party: '[[_Standards/WikiData/WD~Social_Democratic_Party_of_Germany,49768]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~irreligion,58721]]'
 name_in_native_language: Olaf Scholz
 social_media_followers: 398574
 Commons_gallery: Olaf Scholz
@@ -77,7 +78,7 @@ Commons_category: Olaf Scholz
 biography_at_the_Bundestag_of_Germany_URL:
   - https://www.bundestag.de/abgeordnete/biografien/S/scholz_olaf-860468
   - http://webarchiv.bundestag.de/archive/2013/1212/bundestag/abgeordnete17/biografien/S/scholz_olaf.html
-catalog_code: "11003231"
+catalog_code: 11003231
 date_of_birth: 1958-06-14T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Olaf%20Scholz%202025.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Olaf%20Scholz%20Signature.svg
@@ -85,7 +86,7 @@ described_at_URL: https://baike.sogou.com/v171139641.htm
 official_website:
   - https://olaf-scholz.spd.de
   - https://olaf-scholz.spd.de/start
-ISNI: "0000000072659681"
+ISNI: 0000000072659681
 ---
 
 # [[Scholz,Olaf]] 

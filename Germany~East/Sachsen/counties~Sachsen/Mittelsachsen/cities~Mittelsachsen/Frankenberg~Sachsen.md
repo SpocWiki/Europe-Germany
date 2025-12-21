@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Frankenberg~Sachsen
 confidential: public
 isDeleted: false
 location:
-- 50.95
-- 13.07
+  - 50.95
+  - 13.07
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30227
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

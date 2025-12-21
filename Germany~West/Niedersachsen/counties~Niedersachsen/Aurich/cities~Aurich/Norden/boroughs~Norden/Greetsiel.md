@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Greetsiel
 confidential: public
 isDeleted: false
 location:
-- 53.5
-- 7.12
+  - 53.5
+  - 7.12
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30559
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

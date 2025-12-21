@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Eckenheimer_Landstraße_Marbachweg
+  - U-Eckenheimer Landstraße Marbachweg
 location:
-- 50.14186
-- 8.683684
+  - 50.14186
+  - 8.683684
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

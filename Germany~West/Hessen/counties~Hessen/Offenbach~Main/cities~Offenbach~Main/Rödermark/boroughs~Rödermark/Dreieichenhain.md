@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Dreieichenhain
 confidential: public
 isDeleted: false
 location:
-- 50
-- 8.82
+  - 50
+  - 8.82
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29873
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

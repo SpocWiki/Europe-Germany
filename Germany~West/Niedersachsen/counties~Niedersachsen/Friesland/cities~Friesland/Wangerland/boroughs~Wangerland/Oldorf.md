@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Oldorf
 confidential: public
 isDeleted: false
 location:
-- 53.63
-- 7.93
+  - 53.63
+  - 7.93
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33096
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

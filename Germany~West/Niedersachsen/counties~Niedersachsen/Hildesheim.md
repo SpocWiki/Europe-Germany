@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hildesheim
 confidential: public
 isDeleted: false
 location:
-- 52.15
-- 9.94
+  - 52.15
+  - 9.94
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30940
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

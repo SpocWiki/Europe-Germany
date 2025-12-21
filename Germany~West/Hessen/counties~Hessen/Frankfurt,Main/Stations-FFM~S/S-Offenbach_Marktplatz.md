@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Offenbach_Marktplatz
+  - S-Offenbach Marktplatz
 location:
-- 50.10585
-- 8.763633
+  - 50.10585
+  - 8.763633
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

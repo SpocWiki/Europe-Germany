@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hadmersleben
 confidential: public
 isDeleted: false
 location:
-- 52.02
-- 11.32
+  - 52.02
+  - 11.32
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30694
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

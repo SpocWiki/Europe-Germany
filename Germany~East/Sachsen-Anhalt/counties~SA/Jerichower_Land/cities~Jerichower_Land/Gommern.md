@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Gommern
 confidential: public
 isDeleted: false
 location:
-- 52.07
-- 11.83
+  - 52.07
+  - 11.83
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30503
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Mönchhofstraße
 location:
-- 50.10037
-- 8.616296
+  - 50.10037
+  - 8.616296
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

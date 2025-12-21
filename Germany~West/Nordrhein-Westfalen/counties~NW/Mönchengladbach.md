@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Mönchengladbach
 confidential: public
 isDeleted: false
 location:
-- 51.19
-- 6.43
+  - 51.19
+  - 6.43
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32696
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

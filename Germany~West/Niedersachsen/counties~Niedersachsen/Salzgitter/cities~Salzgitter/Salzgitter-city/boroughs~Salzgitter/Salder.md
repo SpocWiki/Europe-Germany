@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Salder
 confidential: public
 isDeleted: false
 location:
-- 52.15
-- 10.32
+  - 52.15
+  - 10.32
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33881
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

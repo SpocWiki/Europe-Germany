@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Schwanthalerstraße
 location:
-- 50.10097
-- 8.681355
+  - 50.10097
+  - 8.681355
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

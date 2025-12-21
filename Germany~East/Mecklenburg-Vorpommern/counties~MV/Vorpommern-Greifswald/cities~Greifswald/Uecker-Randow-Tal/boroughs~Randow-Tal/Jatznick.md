@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Jatznick
 confidential: public
 isDeleted: false
 location:
-- 53.57
-- 13.95
+  - 53.57
+  - 13.95
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31173
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

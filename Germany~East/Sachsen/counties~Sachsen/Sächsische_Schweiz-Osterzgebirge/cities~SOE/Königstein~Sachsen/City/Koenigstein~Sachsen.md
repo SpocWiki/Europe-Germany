@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Koenigstein~Sachsen
 confidential: public
 isDeleted: false
 location:
-- 50.9
-- 14.07
+  - 50.9
+  - 14.07
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31753
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

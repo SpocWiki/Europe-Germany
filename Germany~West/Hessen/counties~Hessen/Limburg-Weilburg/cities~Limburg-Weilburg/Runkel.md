@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Runkel
 confidential: public
 isDeleted: false
 location:
-- 50.42
-- 8.17
+  - 50.42
+  - 8.17
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33830
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

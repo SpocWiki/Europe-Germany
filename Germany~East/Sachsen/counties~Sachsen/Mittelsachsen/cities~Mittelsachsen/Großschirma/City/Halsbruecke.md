@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Halsbruecke
 confidential: public
 isDeleted: false
 location:
-- 50.97
-- 13.33
+  - 50.97
+  - 13.33
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30734
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Merianplatz
 location:
-- 50.12028
-- 8.69583
+  - 50.12028
+  - 8.69583
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station
+  - geo/station
 type: Station
 ---
 

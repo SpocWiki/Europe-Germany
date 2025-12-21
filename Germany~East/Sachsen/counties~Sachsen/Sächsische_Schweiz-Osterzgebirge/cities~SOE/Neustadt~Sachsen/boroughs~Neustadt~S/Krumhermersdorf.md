@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Krumhermersdorf
 confidential: public
 isDeleted: false
 location:
-- 51
-- 14.2
+  - 51
+  - 14.2
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31670
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

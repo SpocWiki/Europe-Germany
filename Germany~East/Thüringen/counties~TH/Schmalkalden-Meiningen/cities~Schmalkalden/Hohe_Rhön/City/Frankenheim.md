@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Frankenheim
 confidential: public
 isDeleted: false
 location:
-- 50.55
-- 10.08
+  - 50.55
+  - 10.08
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30228
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

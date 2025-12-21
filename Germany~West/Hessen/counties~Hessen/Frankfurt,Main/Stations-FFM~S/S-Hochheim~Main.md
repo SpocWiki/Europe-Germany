@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Hochheim~Main
 location:
-- 50.01083
-- 8.350764
+  - 50.01083
+  - 8.350764
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station
+  - geo/station
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wechselburg
 confidential: public
 isDeleted: false
 location:
-- 51
-- 12.78
+  - 51
+  - 12.78
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35474
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

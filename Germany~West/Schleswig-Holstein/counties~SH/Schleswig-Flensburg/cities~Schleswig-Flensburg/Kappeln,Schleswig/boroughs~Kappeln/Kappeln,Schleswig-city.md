@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Kappeln,Schleswig-city
 confidential: public
 isDeleted: false
 location:
-- 54.67
-- 9.93
+  - 54.67
+  - 9.93
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31300
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

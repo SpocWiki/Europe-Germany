@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Nieder-Wöllstadt
 location:
-- 50.28722
-- 8.757222
+  - 50.28722
+  - 8.757222
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

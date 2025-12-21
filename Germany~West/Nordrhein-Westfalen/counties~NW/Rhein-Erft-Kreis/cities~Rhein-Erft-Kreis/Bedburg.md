@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Bedburg
 confidential: public
 isDeleted: false
 location:
-- 51
-- 6.58
+  - 51
+  - 6.58
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29064
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

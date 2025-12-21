@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Bommersheim
 location:
-- 50.19361
-- 8.59324
+  - 50.19361
+  - 8.59324
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

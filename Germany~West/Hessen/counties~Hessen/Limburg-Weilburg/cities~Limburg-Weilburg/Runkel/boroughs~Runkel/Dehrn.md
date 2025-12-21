@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Dehrn
 confidential: public
 isDeleted: false
 location:
-- 50.42
-- 8.1
+  - 50.42
+  - 8.1
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29735
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

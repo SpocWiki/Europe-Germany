@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hirschhorn~Neckar
 confidential: public
 isDeleted: false
 location:
-- 49.45
-- 8.92
+  - 49.45
+  - 8.92
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30955
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

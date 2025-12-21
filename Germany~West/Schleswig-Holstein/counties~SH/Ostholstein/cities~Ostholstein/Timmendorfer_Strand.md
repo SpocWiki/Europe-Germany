@@ -1,16 +1,19 @@
 ---
+aliases:
+  - Timmendorfer_Strand
+  - Timmendorfer Strand
 confidential: public
 isDeleted: false
 location:
-- 54
-- 10.77
+  - 54
+  - 10.77
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34875
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

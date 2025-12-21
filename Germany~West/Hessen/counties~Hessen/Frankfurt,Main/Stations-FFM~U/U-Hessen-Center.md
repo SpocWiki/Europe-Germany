@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Hessen-Center
 location:
-- 50.14041
-- 8.748982
+  - 50.14041
+  - 8.748982
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Heiligenstedten
 confidential: public
 isDeleted: false
 location:
-- 53.43
-- 9.45
+  - 53.43
+  - 9.45
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30851
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

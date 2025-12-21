@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Luckenwalde
 confidential: public
 isDeleted: false
 location:
-- 52.08
-- 13.18
+  - 52.08
+  - 13.18
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32124
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Schmiedefeld
 confidential: public
 isDeleted: false
 location:
-- 50.62
-- 10.8
+  - 50.62
+  - 10.8
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34049
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Dinslaken
 confidential: public
 isDeleted: false
 location:
-- 51.57
-- 6.73
+  - 51.57
+  - 6.73
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29806
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

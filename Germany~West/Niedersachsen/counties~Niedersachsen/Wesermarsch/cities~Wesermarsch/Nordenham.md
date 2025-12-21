@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Nordenham
 confidential: public
 isDeleted: false
 location:
-- 53.48
-- 8.45
+  - 53.48
+  - 8.45
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32946
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

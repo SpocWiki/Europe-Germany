@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Stadtrode
 confidential: public
 isDeleted: false
 location:
-- 50.85
-- 11.72
+  - 50.85
+  - 11.72
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34506
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

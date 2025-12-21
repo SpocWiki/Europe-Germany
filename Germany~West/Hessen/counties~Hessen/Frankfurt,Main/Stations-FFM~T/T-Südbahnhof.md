@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Südbahnhof
 location:
-- 50.09966
-- 8.682983
+  - 50.09966
+  - 8.682983
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

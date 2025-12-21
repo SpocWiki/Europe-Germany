@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Werdau
 confidential: public
 isDeleted: false
 location:
-- 50.73
-- 12.37
+  - 50.73
+  - 12.37
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35545
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

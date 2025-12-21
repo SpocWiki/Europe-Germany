@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Balduinstraße
 location:
-- 50.09936
-- 8.714561
+  - 50.09936
+  - 8.714561
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

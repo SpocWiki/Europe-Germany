@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Ostbahnhof
 location:
-- 50.11278
-- 8.708056
+  - 50.11278
+  - 8.708056
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

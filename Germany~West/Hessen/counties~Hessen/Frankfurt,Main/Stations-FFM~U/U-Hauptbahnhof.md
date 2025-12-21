@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Hauptbahnhof
 location:
-- 50.1078
-- 8.664167
+  - 50.1078
+  - 8.664167
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

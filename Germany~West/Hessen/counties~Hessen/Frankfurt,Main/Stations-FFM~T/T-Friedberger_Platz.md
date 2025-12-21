@@ -1,14 +1,17 @@
 ---
+aliases:
+  - T-Friedberger_Platz
+  - T-Friedberger Platz
 location:
-- 50.12311
-- 8.691623
+  - 50.12311
+  - 8.691623
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
-- 
+  - geo/station/tram
+  - ''
 type: Station
 ---
 

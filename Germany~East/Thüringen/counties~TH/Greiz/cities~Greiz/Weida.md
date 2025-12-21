@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Weida
 confidential: public
 isDeleted: false
 location:
-- 50.78
-- 12.07
+  - 50.78
+  - 12.07
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35489
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

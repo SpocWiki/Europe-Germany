@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lindholm
 confidential: public
 isDeleted: false
 location:
-- 54.77
-- 8.87
+  - 54.77
+  - 8.87
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32031
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

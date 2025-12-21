@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Volmarstein
 confidential: public
 isDeleted: false
 location:
-- 51.37
-- 7.38
+  - 51.37
+  - 7.38
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35346
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

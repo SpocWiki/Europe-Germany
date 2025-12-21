@@ -1,18 +1,19 @@
 ---
 aliases:
-- Rotenburg~Wuemme
+  - Rotenburg~Wuemme
+  - Rotenburg~Wümme-City
 confidential: public
 isDeleted: false
 location:
-- 53.12
-- 9.4
+  - 53.12
+  - 9.4
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33783
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

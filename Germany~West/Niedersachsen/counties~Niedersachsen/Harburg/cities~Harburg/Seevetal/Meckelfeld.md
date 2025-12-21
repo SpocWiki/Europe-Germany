@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Meckelfeld
 confidential: public
 isDeleted: false
 location:
-- 53.42
-- 10.03
+  - 53.42
+  - 10.03
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32367
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Maumke
 confidential: public
 isDeleted: false
 location:
-- 51.12
-- 8.07
+  - 51.12
+  - 8.07
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32353
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

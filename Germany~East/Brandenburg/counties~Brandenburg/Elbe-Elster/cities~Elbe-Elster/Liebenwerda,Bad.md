@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Liebenwerda,Bad
 confidential: public
 isDeleted: false
 location:
-- 51.52
-- 13.4
+  - 51.52
+  - 13.4
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31995
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

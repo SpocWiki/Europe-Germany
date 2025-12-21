@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Eppendorf
 confidential: public
 isDeleted: false
 location:
-- 50.8
-- 13.22
+  - 50.8
+  - 13.22
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30039
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

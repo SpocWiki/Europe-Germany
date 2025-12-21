@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Ravolzhausen
 confidential: public
 isDeleted: false
 location:
-- 50.2
-- 8.98
+  - 50.2
+  - 8.98
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33659
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

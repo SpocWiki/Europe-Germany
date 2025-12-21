@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Kriegkstraße
 location:
-- 50.10113
-- 8.639523
+  - 50.10113
+  - 8.639523
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

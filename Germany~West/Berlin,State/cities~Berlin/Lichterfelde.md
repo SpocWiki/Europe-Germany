@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lichterfelde
 confidential: public
 isDeleted: false
 location:
-- 52.42
-- 13.3
+  - 52.42
+  - 13.3
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31985
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

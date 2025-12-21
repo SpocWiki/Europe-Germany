@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wakendorf
 confidential: public
 isDeleted: false
 location:
-- 53.53
-- 10.37
+  - 53.53
+  - 10.37
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35395
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

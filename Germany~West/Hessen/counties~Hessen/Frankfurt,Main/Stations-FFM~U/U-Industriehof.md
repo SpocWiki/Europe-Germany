@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Industriehof
 location:
-- 50.12895
-- 8.629471
+  - 50.12895
+  - 8.629471
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

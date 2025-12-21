@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Glöcknerwiese
 location:
-- 50.21313
-- 8.562534
+  - 50.21313
+  - 8.562534
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Frankfurt~Main_Mühlberg
+  - S-Frankfurt~Main Mühlberg
 location:
-- 50.10167
-- 8.700277
+  - 50.10167
+  - 8.700277
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

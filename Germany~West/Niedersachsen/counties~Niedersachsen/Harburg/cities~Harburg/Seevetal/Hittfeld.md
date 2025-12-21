@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hittfeld
 confidential: public
 isDeleted: false
 location:
-- 53.4
-- 9.95
+  - 53.4
+  - 9.95
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30956
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

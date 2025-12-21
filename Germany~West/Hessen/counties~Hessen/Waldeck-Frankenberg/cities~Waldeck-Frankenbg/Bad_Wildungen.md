@@ -1,16 +1,19 @@
 ---
+aliases:
+  - Bad_Wildungen
+  - Bad Wildungen
 confidential: public
 isDeleted: false
 location:
-- 51.12
-- 9.13
+  - 51.12
+  - 9.13
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35611
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

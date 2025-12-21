@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Offenbach~Main
 confidential: public
 isDeleted: false
 location:
-- 50.1
-- 8.77
+  - 50.1
+  - 8.77
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33070
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

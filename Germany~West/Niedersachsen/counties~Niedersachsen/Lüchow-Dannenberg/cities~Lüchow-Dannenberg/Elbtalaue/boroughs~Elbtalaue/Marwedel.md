@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Marwedel
 confidential: public
 isDeleted: false
 location:
-- 53.15
-- 11.03
+  - 53.15
+  - 11.03
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32337
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

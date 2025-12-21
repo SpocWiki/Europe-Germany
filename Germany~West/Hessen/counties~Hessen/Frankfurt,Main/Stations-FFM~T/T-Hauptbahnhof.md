@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Hauptbahnhof
 location:
-- 50.10773
-- 8.664614
+  - 50.10773
+  - 8.664614
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

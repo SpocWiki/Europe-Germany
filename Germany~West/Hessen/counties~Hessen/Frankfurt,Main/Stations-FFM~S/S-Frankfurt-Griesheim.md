@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Frankfurt-Griesheim
 location:
-- 50.09417
-- 8.60611
+  - 50.09417
+  - 8.60611
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

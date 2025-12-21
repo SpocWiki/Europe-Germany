@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Friedrichshain,Felixsee
 confidential: public
 isDeleted: false
 location:
-- 51.6
-- 14.57
+  - 51.6
+  - 14.57
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30289
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

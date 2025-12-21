@@ -1,16 +1,19 @@
 ---
+aliases:
+  - Stollberg_Erzgeb-City
+  - Stollberg Erzgeb-City
 confidential: public
 isDeleted: false
 location:
-- 50.69
-- 12.81
+  - 50.69
+  - 12.81
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34582
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

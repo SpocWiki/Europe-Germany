@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Scheiplitz
 confidential: public
 isDeleted: false
 location:
-- 51.15
-- 11.92
+  - 51.15
+  - 11.92
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34004
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Hettstedt
 confidential: public
 isDeleted: false
 location:
-- 51.65
-- 11.5
+  - 51.65
+  - 11.5
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30930
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

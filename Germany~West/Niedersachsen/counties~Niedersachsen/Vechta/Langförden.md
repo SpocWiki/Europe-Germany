@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Langförden
 confidential: public
 isDeleted: false
 location:
-- 52.82
-- 8.25
+  - 52.82
+  - 8.25
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31838
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

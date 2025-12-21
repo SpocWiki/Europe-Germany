@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Deutzen
 confidential: public
 isDeleted: false
 location:
-- 51.13
-- 12.47
+  - 51.13
+  - 12.47
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29773
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Bockendorf
 confidential: public
 isDeleted: false
 location:
-- 50.93
-- 13.25
+  - 50.93
+  - 13.25
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29245
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

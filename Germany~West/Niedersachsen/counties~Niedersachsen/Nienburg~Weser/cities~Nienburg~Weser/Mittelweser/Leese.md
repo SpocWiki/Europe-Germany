@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Leese
 confidential: public
 isDeleted: false
 location:
-- 52.5
-- 9.08
+  - 52.5
+  - 9.08
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31910
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

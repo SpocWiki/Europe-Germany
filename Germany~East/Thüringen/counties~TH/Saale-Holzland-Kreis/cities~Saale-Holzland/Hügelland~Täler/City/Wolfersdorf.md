@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wolfersdorf
 confidential: public
 isDeleted: false
 location:
-- 50.78
-- 11.7
+  - 50.78
+  - 11.7
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35681
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

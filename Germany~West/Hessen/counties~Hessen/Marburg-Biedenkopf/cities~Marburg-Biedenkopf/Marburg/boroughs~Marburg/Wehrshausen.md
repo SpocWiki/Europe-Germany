@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wehrshausen
 confidential: public
 isDeleted: false
 location:
-- 50.82
-- 8.73
+  - 50.82
+  - 8.73
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35485
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

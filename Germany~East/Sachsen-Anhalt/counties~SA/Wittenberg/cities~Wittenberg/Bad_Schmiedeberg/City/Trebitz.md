@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Trebitz
 confidential: public
 isDeleted: false
 location:
-- 51.75
-- 12.77
+  - 51.75
+  - 12.77
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34955
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

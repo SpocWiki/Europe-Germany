@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Haßleben,Boitzenburg
 confidential: public
 isDeleted: false
 location:
-- 53.23
-- 13.58
+  - 53.23
+  - 13.58
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30796
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

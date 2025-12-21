@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Glückstadt
 confidential: public
 isDeleted: false
 location:
-- 53.78
-- 9.43
+  - 53.78
+  - 9.43
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30479
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

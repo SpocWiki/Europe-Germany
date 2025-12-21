@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Neukirchen,Holstein
 confidential: public
 isDeleted: false
 location:
-- 54.33
-- 11.03
+  - 54.33
+  - 11.03
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32836
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

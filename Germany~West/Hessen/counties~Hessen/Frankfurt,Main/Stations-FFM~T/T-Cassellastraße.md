@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Cassellastraße
 location:
-- 50.12964
-- 8.75968
+  - 50.12964
+  - 8.75968
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

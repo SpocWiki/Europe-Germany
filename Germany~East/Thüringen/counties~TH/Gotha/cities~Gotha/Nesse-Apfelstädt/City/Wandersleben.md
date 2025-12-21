@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wandersleben
 confidential: public
 isDeleted: false
 location:
-- 50.92
-- 10.87
+  - 50.92
+  - 10.87
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35435
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

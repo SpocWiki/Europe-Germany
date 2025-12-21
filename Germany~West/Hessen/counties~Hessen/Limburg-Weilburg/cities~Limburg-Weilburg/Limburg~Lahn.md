@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Limburg an der Lahn"
+  - Limburg an der Lahn
+  - Limburg~Lahn
 confidential: public
 isDeleted: false
 location:
-- 50.38
-- 8.06
+  - 50.38
+  - 8.06
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32017
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

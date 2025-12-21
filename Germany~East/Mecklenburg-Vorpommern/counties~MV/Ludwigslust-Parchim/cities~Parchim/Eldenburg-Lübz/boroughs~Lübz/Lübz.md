@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lübz
 confidential: public
 isDeleted: false
 location:
-- 53.47
-- 12.03
+  - 53.47
+  - 12.03
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32169
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

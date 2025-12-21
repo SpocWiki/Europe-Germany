@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Rothschildallee
 location:
-- 50.12808
-- 8.695698
+  - 50.12808
+  - 8.695698
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

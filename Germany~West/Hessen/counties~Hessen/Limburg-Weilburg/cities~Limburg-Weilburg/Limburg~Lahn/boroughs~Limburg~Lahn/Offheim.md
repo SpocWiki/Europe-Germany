@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Offheim
 confidential: public
 isDeleted: false
 location:
-- 50.42
-- 8.07
+  - 50.42
+  - 8.07
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33072
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

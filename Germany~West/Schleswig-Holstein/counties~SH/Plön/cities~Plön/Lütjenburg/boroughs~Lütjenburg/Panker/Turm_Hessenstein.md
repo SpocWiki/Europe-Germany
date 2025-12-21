@@ -1,16 +1,19 @@
 ---
+aliases:
+  - Turm_Hessenstein
+  - Turm Hessenstein
 confidential: public
 isDeleted: false
 location:
-- 54.33
-- 10.55
+  - 54.33
+  - 10.55
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30928
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

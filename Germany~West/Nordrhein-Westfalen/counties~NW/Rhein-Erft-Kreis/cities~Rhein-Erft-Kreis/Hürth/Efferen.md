@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Efferen
 confidential: public
 isDeleted: false
 location:
-- 50.9
-- 6.9
+  - 50.9
+  - 6.9
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29977
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Menden,Sauerland
 confidential: public
 isDeleted: false
 location:
-- 51.45
-- 7.8
+  - 51.45
+  - 7.8
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32408
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

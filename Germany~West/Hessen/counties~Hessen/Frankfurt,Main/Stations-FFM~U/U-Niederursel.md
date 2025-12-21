@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Niederursel
 location:
-- 50.16935
-- 8.62268
+  - 50.16935
+  - 8.62268
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

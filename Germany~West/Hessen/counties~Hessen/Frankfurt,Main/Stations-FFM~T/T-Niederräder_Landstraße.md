@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Niederräder_Landstraße
+  - T-Niederräder Landstraße
 location:
-- 50.08898
-- 8.651926
+  - 50.08898
+  - 8.651926
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

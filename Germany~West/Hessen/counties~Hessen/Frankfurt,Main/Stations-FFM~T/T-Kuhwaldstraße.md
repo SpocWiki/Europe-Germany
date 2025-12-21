@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Kuhwaldstraße
 location:
-- 50.11685
-- 8.640929
+  - 50.11685
+  - 8.640929
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

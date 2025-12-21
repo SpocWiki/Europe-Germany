@@ -1,20 +1,21 @@
 ---
 aliases:
   - Sueben
+  - Suebi
 has_id_wikidata: Q155085
 described_by_source:
-  - "[[_Standards/WikiData/WD~Commentarii_de_Bello_Gallico,106199]]"
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Die_Luten,_die_Sueven_und_die_Serben_in_der_Lausitz,19177811]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Commentarii_de_Bello_Gallico,106199]]'
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Die_Luten,_die_Sueven_und_die_Serben_in_der_Lausitz,19177811]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
   - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
-subclass_of: "[[_Standards/WikiData/WD~tribe,133311]]"
-country: "[[_Standards/WikiData/WD~Kingdom_of_the_Suebi,1048918]]"
-instance_of: "[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Suebian,134600275]]"
-native_language: "[[_Standards/WikiData/WD~Suebian,134600275]]"
+subclass_of: '[[_Standards/WikiData/WD~tribe,133311]]'
+country: '[[_Standards/WikiData/WD~Kingdom_of_the_Suebi,1048918]]'
+instance_of: '[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Suebian,134600275]]'
+native_language: '[[_Standards/WikiData/WD~Suebian,134600275]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bronze%20figure%20of%20a%20German%20Biblioth%C3%A8que%20Nationale.jpg
 Commons_category: Suebi
 coordinate_location: Point(11.5 53.5)

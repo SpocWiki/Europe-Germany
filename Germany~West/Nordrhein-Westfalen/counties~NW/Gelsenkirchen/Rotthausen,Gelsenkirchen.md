@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Rotthausen,Gelsenkirchen
 confidential: public
 isDeleted: false
 location:
-- 51.48
-- 7.08
+  - 51.48
+  - 7.08
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33799
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Kelsterbach
 confidential: public
 isDeleted: false
 location:
-- 50.08
-- 8.53
+  - 50.08
+  - 8.53
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31377
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

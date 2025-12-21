@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Minden
 confidential: public
 isDeleted: false
 location:
-- 52.29
-- 8.92
+  - 52.29
+  - 8.92
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32492
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

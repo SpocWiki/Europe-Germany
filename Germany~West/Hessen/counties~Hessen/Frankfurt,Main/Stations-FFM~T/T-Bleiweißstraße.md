@@ -1,15 +1,17 @@
 ---
+aliases:
+  - T-Bleiweißstraße
 location:
-- 50.10014
-- 8.720151
+  - 50.10014
+  - 8.720151
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
-- transport/tram
-- 
+  - geo/station/tram
+  - transport/tram
+  - ''
 type: Station
 ---
 

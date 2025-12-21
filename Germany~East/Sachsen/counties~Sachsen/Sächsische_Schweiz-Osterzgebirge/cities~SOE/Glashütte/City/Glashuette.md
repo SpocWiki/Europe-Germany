@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Glashuette
 confidential: public
 isDeleted: false
 location:
-- 50.85
-- 13.77
+  - 50.85
+  - 13.77
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30465
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

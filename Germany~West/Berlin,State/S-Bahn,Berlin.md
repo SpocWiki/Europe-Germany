@@ -1,6 +1,7 @@
 ---
 aliases:
-- Berlin_S-Bahn
+  - Berlin_S-Bahn
+  - S-Bahn,Berlin
 ---
 
 ## #has_/text_of_/abstract  

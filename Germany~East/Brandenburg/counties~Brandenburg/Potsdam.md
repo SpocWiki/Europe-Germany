@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Potsdam
 confidential: public
 isDeleted: false
 location:
-- 52.39
-- 13.06
+  - 52.39
+  - 13.06
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33493
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

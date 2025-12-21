@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Langelsheim
 confidential: public
 isDeleted: false
 location:
-- 51.95
-- 10.35
+  - 51.95
+  - 10.35
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31817
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

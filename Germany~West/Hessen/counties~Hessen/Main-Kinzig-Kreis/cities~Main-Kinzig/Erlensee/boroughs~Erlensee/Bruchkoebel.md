@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Bruchkoebel
 confidential: public
 isDeleted: false
 location:
-- 50.18
-- 9
+  - 50.18
+  - 9
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29367
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

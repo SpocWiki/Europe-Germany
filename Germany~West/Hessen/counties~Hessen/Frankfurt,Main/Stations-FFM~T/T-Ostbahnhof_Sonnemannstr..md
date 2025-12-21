@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Ostbahnhof_Sonnemannstr.
+  - T-Ostbahnhof Sonnemannstr.
 location:
-- 50.11153
-- 8.705698
+  - 50.11153
+  - 8.705698
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

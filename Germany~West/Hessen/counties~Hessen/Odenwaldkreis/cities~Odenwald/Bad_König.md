@@ -1,16 +1,19 @@
 ---
+aliases:
+  - Bad_König
+  - Bad König
 confidential: public
 isDeleted: false
 location:
-- 49.75
-- 9.03
+  - 49.75
+  - 9.03
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31741
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

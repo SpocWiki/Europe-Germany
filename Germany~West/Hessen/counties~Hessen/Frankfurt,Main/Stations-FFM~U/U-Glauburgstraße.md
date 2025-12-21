@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Glauburgstraße
 location:
-- 50.12654
-- 8.685753
+  - 50.12654
+  - 8.685753
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

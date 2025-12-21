@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Grimlinghausen,Neuss
 confidential: public
 isDeleted: false
 location:
-- 51.18
-- 6.73
+  - 51.18
+  - 6.73
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30579
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

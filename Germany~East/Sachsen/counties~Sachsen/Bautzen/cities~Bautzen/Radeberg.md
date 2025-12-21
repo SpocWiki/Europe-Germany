@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Radeberg
 confidential: public
 isDeleted: false
 location:
-- 51.12
-- 13.92
+  - 51.12
+  - 13.92
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33599
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

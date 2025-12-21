@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lippstadt
 confidential: public
 isDeleted: false
 location:
-- 51.67
-- 8.34
+  - 51.67
+  - 8.34
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32041
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Eppstein
 location:
-- 50.14014
-- 8.392014
+  - 50.14014
+  - 8.392014
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

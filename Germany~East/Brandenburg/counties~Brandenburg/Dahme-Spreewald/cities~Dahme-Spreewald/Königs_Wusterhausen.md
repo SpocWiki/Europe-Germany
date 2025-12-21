@@ -1,16 +1,19 @@
 ---
+aliases:
+  - Königs_Wusterhausen
+  - Königs Wusterhausen
 confidential: public
 isDeleted: false
 location:
-- 52.3
-- 13.62
+  - 52.3
+  - 13.62
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31742
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

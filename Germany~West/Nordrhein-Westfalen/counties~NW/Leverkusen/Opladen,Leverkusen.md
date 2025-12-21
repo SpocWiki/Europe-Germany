@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Opladen,Leverkusen
 confidential: public
 isDeleted: false
 location:
-- 51.07
-- 7
+  - 51.07
+  - 7
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33113
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

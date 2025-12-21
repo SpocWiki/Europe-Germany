@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Rosbach~Höhe
 confidential: public
 isDeleted: false
 location:
-- 50.3
-- 8.73
+  - 50.3
+  - 8.73
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33762
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

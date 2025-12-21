@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Varel
 confidential: public
 isDeleted: false
 location:
-- 53.39
-- 8.13
+  - 53.39
+  - 8.13
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35210
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

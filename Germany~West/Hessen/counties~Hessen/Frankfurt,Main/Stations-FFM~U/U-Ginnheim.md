@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Ginnheim
 location:
-- 50.1403
-- 8.6464
+  - 50.1403
+  - 8.6464
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

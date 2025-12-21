@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Riedberg
 location:
-- 50.17915
-- 8.634558
+  - 50.17915
+  - 8.634558
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

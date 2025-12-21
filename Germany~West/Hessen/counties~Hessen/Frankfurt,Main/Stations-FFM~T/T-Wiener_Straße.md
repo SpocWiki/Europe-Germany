@@ -1,15 +1,18 @@
 ---
+aliases:
+  - T-Wiener_Straße
+  - T-Wiener Straße
 location:
-- 50.10036
-- 8.736727
+  - 50.10036
+  - 8.736727
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station
-- transport/tram
-- 
+  - geo/station
+  - transport/tram
+  - ''
 type: Station
 ---
 

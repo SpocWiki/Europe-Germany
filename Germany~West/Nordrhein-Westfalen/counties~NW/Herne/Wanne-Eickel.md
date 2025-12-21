@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wanne-Eickel
 confidential: public
 isDeleted: false
 location:
-- 51.53
-- 7.16
+  - 51.53
+  - 7.16
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35442
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

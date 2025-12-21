@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Kelsterbach
 location:
-- 50.06882
-- 8.530139
+  - 50.06882
+  - 8.530139
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

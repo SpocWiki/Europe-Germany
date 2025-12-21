@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Garz,Usedom
 confidential: public
 isDeleted: false
 location:
-- 53.88
-- 14.18
+  - 53.88
+  - 14.18
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30371
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

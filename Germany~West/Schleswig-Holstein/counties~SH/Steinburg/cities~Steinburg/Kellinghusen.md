@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Kellinghusen
 confidential: public
 isDeleted: false
 location:
-- 53.95
-- 9.7
+  - 53.95
+  - 9.7
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31376
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Jülich
 confidential: public
 isDeleted: false
 location:
-- 50.92
-- 6.37
+  - 50.92
+  - 6.37
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31231
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

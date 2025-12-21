@@ -1,6 +1,7 @@
 ---
 aliases:
-- "German Timber-Frame Road"
+  - German Timber-Frame Road
+  - German_Timber-Frame_Road
 ---
 
 ﻿

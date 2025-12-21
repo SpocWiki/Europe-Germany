@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Kronberg_im_Taunus
+  - S-Kronberg im Taunus
 location:
-- 50.18
-- 8.516935
+  - 50.18
+  - 8.516935
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

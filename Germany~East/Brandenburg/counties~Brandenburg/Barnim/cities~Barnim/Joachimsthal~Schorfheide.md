@@ -1,19 +1,20 @@
 ---
 aliases:
-- Joachimsthal
-- Jachymov
+  - Joachimsthal
+  - Jachymov
+  - Joachimsthal~Schorfheide
 confidential: public
 isDeleted: false
 location:
-- 52.97
-- 13.75
+  - 52.97
+  - 13.75
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31203
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

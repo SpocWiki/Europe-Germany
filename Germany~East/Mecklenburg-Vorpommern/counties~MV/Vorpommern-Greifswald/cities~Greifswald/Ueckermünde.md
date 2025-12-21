@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Ueckermünde
 confidential: public
 isDeleted: false
 location:
-- 53.75
-- 14.08
+  - 53.75
+  - 14.08
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35896
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

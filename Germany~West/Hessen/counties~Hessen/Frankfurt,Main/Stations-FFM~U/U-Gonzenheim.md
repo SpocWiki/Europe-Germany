@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Gonzenheim
 location:
-- 50.219
-- 8.640438
+  - 50.219
+  - 8.640438
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

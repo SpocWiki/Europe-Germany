@@ -1,13 +1,15 @@
 ---
+aliases:
+  - T-Galluspark
 location:
-- 50.09941
-- 8.635369
+  - 50.09941
+  - 8.635369
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

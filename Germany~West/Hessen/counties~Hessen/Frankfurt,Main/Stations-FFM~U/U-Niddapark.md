@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Niddapark
 location:
-- 50.14331
-- 8.642485
+  - 50.14331
+  - 8.642485
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

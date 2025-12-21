@@ -1,13 +1,16 @@
 ---
+aliases:
+  - U-Bockenheimer_Warte
+  - U-Bockenheimer Warte
 location:
-- 50.11972
-- 8.653611
+  - 50.11972
+  - 8.653611
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

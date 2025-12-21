@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Reichenbach~Oberlausitz
 confidential: public
 isDeleted: false
 location:
-- 51.13
-- 14.82
+  - 51.13
+  - 14.82
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33685
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Neuhaldensleben
 confidential: public
 isDeleted: false
 location:
-- 52.3
-- 11.42
+  - 52.3
+  - 11.42
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32826
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

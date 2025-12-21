@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Muehltroff
 confidential: public
 isDeleted: false
 location:
-- 50.53
-- 11.92
+  - 50.53
+  - 11.92
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32662
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

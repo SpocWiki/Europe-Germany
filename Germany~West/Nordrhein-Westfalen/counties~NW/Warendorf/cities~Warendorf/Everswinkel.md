@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Everswinkel
 confidential: public
 isDeleted: false
 location:
-- 51.95
-- 7.85
+  - 51.95
+  - 7.85
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30100
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

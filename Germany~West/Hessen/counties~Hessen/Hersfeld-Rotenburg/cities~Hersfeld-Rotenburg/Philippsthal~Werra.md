@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Philippsthal~Werra
 confidential: public
 isDeleted: false
 location:
-- 50.85
-- 10
+  - 50.85
+  - 10
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 33355
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

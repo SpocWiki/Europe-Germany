@@ -1,13 +1,15 @@
 ---
+aliases:
+  - U-Grüneburgweg
 location:
-- 50.1218
-- 8.675717
+  - 50.1218
+  - 8.675717
 mapmarker: subway
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/subway
+  - geo/station/subway
 type: Station
 ---
 

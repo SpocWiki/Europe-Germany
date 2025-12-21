@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Neustadt~Sachsen
 confidential: public
 isDeleted: false
 location:
-- 51.03
-- 14.22
+  - 51.03
+  - 14.22
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32860
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Börneplatz_Stolzestraße
+  - T-Börneplatz Stolzestraße
 location:
-- 50.11247
-- 8.688642
+  - 50.11247
+  - 8.688642
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

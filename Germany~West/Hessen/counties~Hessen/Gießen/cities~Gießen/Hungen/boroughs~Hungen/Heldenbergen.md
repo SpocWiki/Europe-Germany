@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Heldenbergen
 confidential: public
 isDeleted: false
 location:
-- 50.48
-- 8.88
+  - 50.48
+  - 8.88
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 30867
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

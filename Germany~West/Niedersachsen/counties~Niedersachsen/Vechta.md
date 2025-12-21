@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Vechta
 confidential: public
 isDeleted: false
 location:
-- 52.73
-- 8.28
+  - 52.73
+  - 8.28
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35227
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

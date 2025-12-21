@@ -1,13 +1,16 @@
 ---
+aliases:
+  - S-Rödermark-Ober_Roden
+  - S-Rödermark-Ober Roden
 location:
-- 49.97702
-- 8.828543
+  - 49.97702
+  - 8.828543
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

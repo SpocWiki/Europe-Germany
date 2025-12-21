@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Nieder-Marschacht
 confidential: public
 isDeleted: false
 location:
-- 53.42
-- 10.37
+  - 53.42
+  - 10.37
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32898
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

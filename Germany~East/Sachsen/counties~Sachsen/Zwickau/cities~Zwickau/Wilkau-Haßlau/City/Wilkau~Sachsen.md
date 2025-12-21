@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Wilkau~Sachsen
 confidential: public
 isDeleted: false
 location:
-- 50.67
-- 12.52
+  - 50.67
+  - 12.52
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35614
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

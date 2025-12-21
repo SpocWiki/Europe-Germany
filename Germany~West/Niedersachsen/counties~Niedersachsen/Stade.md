@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Stade
 confidential: public
 isDeleted: false
 location:
-- 53.6
-- 9.48
+  - 53.6
+  - 9.48
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 34501
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

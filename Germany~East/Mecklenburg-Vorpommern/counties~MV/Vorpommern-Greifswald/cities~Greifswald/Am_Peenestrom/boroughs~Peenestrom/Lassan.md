@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Lassan
 confidential: public
 isDeleted: false
 location:
-- 53.95
-- 13.85
+  - 53.95
+  - 13.85
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 31859
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

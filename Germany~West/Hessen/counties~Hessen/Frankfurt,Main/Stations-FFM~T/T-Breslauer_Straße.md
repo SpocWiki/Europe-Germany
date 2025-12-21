@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Breslauer_Straße
+  - T-Breslauer Straße
 location:
-- 50.09332
-- 8.677882
+  - 50.09332
+  - 8.677882
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

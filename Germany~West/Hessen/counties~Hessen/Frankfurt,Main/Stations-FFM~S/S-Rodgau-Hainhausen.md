@@ -1,13 +1,15 @@
 ---
+aliases:
+  - S-Rodgau-Hainhausen
 location:
-- 50.04322
-- 8.880816
+  - 50.04322
+  - 8.880816
 mapmarker: train
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/train
+  - geo/station/train
 type: Station
 ---
 

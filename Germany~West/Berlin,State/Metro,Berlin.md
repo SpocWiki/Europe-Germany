@@ -1,6 +1,7 @@
 ---
 aliases:
-- Berlin_Metro
+  - Berlin_Metro
+  - Metro,Berlin
 ---
 
 ## #has_/text_of_/abstract 

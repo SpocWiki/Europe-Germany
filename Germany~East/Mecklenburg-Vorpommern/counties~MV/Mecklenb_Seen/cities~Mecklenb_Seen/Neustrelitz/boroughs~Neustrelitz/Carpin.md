@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Carpin
 confidential: public
 isDeleted: false
 location:
-- 53.37
-- 13.25
+  - 53.37
+  - 13.25
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 29493
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

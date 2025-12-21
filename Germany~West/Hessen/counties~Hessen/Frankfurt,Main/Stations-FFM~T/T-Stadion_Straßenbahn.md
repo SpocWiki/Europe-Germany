@@ -1,13 +1,16 @@
 ---
+aliases:
+  - T-Stadion_Straßenbahn
+  - T-Stadion Straßenbahn
 location:
-- 50.07431
-- 8.652657
+  - 50.07431
+  - 8.652657
 mapmarker: tram
 mapzoom:
-- 8
-- 18
+  - 8
+  - 18
 tags:
-- geo/station/tram
+  - geo/station/tram
 type: Station
 ---
 

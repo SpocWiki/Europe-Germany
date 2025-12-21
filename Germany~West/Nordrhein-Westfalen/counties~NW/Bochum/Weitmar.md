@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Weitmar
 confidential: public
 isDeleted: false
 location:
-- 51.45
-- 7.2
+  - 51.45
+  - 7.2
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 35522
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 

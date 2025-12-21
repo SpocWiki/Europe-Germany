@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Nortorf
 confidential: public
 isDeleted: false
 location:
-- 54.18
-- 9.92
+  - 54.18
+  - 9.92
 mapmarker: city
 mapzoom:
-- 7
-- 12
+  - 7
+  - 12
 SpocWebEntityId: 32962
 tags:
-- geo/City
+  - geo/City
 type: City
 ---
 
