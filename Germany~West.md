@@ -36,6 +36,9 @@ type: Country
 
 [ISO2::] 
 [ISO3::BRD] 
+
+## #has_/map 
+
 ```leaflet
 id: West Germany
 zoomFeatures: true 
@@ -43,6 +46,8 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Germany~West/
 markerFolder: ./Germany~West/
+coordinates: [[Germany~West]] 
+markerFile: [[Germany~West]] 
 ```
 
 [name-en::West Germany] 

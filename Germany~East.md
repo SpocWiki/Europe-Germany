@@ -29,6 +29,9 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Germany~East/
 markerFolder: ./Germany~East/
+coordinates: [[Germany~East]] 
+markerFile: [[Germany~East]] 
+defaultZoom: 7 
 ```
 
 [name-en::East Germany] 
