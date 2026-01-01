@@ -156,7 +156,7 @@ WOEID: 657169
 X_Twitter_username: hannover
 ---
 
-# [[Hannover]] 
+# [[Hannover,City]] 
 ﻿
  #is_a_/Place  
 #is_a_ :: [[Place]] 
@@ -185,7 +185,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hannover](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover.md) 
+### #is_/same_as :: [Hannover,City](Hannover,City.md) 
 
 ### #is_/same_as :: [Hannover.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover.public.md) 
 
