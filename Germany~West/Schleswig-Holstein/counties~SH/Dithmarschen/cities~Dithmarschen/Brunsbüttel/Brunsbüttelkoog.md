@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brunsbüttelkoog](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog|Brunsbüttelkoog]] 
 
-### #is_/same_as :: [Brunsbüttelkoog.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.public|Brunsbüttelkoog.public]] 
 
-### #is_/same_as :: [Brunsbüttelkoog.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.internal|Brunsbüttelkoog.internal]] 
 
-### #is_/same_as :: [Brunsbüttelkoog.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.protect|Brunsbüttelkoog.protect]] 
 
-### #is_/same_as :: [Brunsbüttelkoog.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.private|Brunsbüttelkoog.private]] 
 
-### #is_/same_as :: [Brunsbüttelkoog.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.personal|Brunsbüttelkoog.personal]] 
 
-### #is_/same_as :: [Brunsbüttelkoog.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog.secret|Brunsbüttelkoog.secret]] 
 

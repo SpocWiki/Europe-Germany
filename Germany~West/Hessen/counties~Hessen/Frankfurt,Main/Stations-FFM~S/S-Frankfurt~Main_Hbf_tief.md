@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Frankfurt~Main_Hbf_tief](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main_Hbf_tief.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main_Hbf_tief|S-Frankfurt~Main_Hbf_tief]] 
 
-### #is_/same_as :: [S-Frankfurt~Main_Hbf_tief.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main_Hbf_tief.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main_Hbf_tief.public|S-Frankfurt~Main_Hbf_tief.public]] 
 
-### #is_/same_as :: [S-Frankfurt~Main_Hbf_tief.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main_Hbf_tief.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main_Hbf_tief.internal|S-Frankfurt~Main_Hbf_tief.internal]] 
 
-### #is_/same_as :: [S-Frankfurt~Main_Hbf_tief.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main_Hbf_tief.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main_Hbf_tief.protect|S-Frankfurt~Main_Hbf_tief.protect]] 
 
-### #is_/same_as :: [S-Frankfurt~Main_Hbf_tief.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main_Hbf_tief.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main_Hbf_tief.private|S-Frankfurt~Main_Hbf_tief.private]] 
 
-### #is_/same_as :: [S-Frankfurt~Main_Hbf_tief.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main_Hbf_tief.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main_Hbf_tief.personal|S-Frankfurt~Main_Hbf_tief.personal]] 
 
-### #is_/same_as :: [S-Frankfurt~Main_Hbf_tief.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main_Hbf_tief.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main_Hbf_tief.secret|S-Frankfurt~Main_Hbf_tief.secret]] 
 

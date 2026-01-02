@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vegesack](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Vegesack.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Vegesack|Vegesack]] 
 
-### #is_/same_as :: [Vegesack.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Vegesack.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Vegesack.public|Vegesack.public]] 
 
-### #is_/same_as :: [Vegesack.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Vegesack.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Vegesack.internal|Vegesack.internal]] 
 
-### #is_/same_as :: [Vegesack.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Vegesack.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Vegesack.protect|Vegesack.protect]] 
 
-### #is_/same_as :: [Vegesack.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Vegesack.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Vegesack.private|Vegesack.private]] 
 
-### #is_/same_as :: [Vegesack.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Vegesack.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Vegesack.personal|Vegesack.personal]] 
 
-### #is_/same_as :: [Vegesack.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Vegesack.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Vegesack.secret|Vegesack.secret]] 
 

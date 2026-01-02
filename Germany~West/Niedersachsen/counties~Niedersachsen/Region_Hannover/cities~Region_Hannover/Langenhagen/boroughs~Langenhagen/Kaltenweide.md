@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kaltenweide](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Langenhagen/boroughs~Langenhagen/Kaltenweide.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Langenhagen/boroughs~Langenhagen/Kaltenweide|Kaltenweide]] 
 
-### #is_/same_as :: [Kaltenweide.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Langenhagen/boroughs~Langenhagen/Kaltenweide.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Langenhagen/boroughs~Langenhagen/Kaltenweide.public|Kaltenweide.public]] 
 
-### #is_/same_as :: [Kaltenweide.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Langenhagen/boroughs~Langenhagen/Kaltenweide.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Langenhagen/boroughs~Langenhagen/Kaltenweide.internal|Kaltenweide.internal]] 
 
-### #is_/same_as :: [Kaltenweide.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Langenhagen/boroughs~Langenhagen/Kaltenweide.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Langenhagen/boroughs~Langenhagen/Kaltenweide.protect|Kaltenweide.protect]] 
 
-### #is_/same_as :: [Kaltenweide.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Langenhagen/boroughs~Langenhagen/Kaltenweide.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Langenhagen/boroughs~Langenhagen/Kaltenweide.private|Kaltenweide.private]] 
 
-### #is_/same_as :: [Kaltenweide.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Langenhagen/boroughs~Langenhagen/Kaltenweide.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Langenhagen/boroughs~Langenhagen/Kaltenweide.personal|Kaltenweide.personal]] 
 
-### #is_/same_as :: [Kaltenweide.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Langenhagen/boroughs~Langenhagen/Kaltenweide.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Langenhagen/boroughs~Langenhagen/Kaltenweide.secret|Kaltenweide.secret]] 
 

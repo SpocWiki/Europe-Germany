@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Mainz_Römisches_Theater](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Mainz_Römisches_Theater.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Mainz_Römisches_Theater|S-Mainz_Römisches_Theater]] 
 
-### #is_/same_as :: [S-Mainz_Römisches_Theater.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Mainz_Römisches_Theater.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Mainz_Römisches_Theater.public|S-Mainz_Römisches_Theater.public]] 
 
-### #is_/same_as :: [S-Mainz_Römisches_Theater.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Mainz_Römisches_Theater.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Mainz_Römisches_Theater.internal|S-Mainz_Römisches_Theater.internal]] 
 
-### #is_/same_as :: [S-Mainz_Römisches_Theater.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Mainz_Römisches_Theater.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Mainz_Römisches_Theater.protect|S-Mainz_Römisches_Theater.protect]] 
 
-### #is_/same_as :: [S-Mainz_Römisches_Theater.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Mainz_Römisches_Theater.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Mainz_Römisches_Theater.private|S-Mainz_Römisches_Theater.private]] 
 
-### #is_/same_as :: [S-Mainz_Römisches_Theater.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Mainz_Römisches_Theater.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Mainz_Römisches_Theater.personal|S-Mainz_Römisches_Theater.personal]] 
 
-### #is_/same_as :: [S-Mainz_Römisches_Theater.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Mainz_Römisches_Theater.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Mainz_Römisches_Theater.secret|S-Mainz_Römisches_Theater.secret]] 
 

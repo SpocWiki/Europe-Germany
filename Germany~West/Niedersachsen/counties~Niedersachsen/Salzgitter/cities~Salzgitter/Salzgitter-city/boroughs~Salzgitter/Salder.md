@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Salder](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter/cities~Salzgitter/Salzgitter-city/boroughs~Salzgitter/Salder.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter/cities~Salzgitter/Salzgitter-city/boroughs~Salzgitter/Salder|Salder]] 
 
-### #is_/same_as :: [Salder.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter/cities~Salzgitter/Salzgitter-city/boroughs~Salzgitter/Salder.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter/cities~Salzgitter/Salzgitter-city/boroughs~Salzgitter/Salder.public|Salder.public]] 
 
-### #is_/same_as :: [Salder.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter/cities~Salzgitter/Salzgitter-city/boroughs~Salzgitter/Salder.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter/cities~Salzgitter/Salzgitter-city/boroughs~Salzgitter/Salder.internal|Salder.internal]] 
 
-### #is_/same_as :: [Salder.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter/cities~Salzgitter/Salzgitter-city/boroughs~Salzgitter/Salder.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter/cities~Salzgitter/Salzgitter-city/boroughs~Salzgitter/Salder.protect|Salder.protect]] 
 
-### #is_/same_as :: [Salder.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter/cities~Salzgitter/Salzgitter-city/boroughs~Salzgitter/Salder.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter/cities~Salzgitter/Salzgitter-city/boroughs~Salzgitter/Salder.private|Salder.private]] 
 
-### #is_/same_as :: [Salder.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter/cities~Salzgitter/Salzgitter-city/boroughs~Salzgitter/Salder.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter/cities~Salzgitter/Salzgitter-city/boroughs~Salzgitter/Salder.personal|Salder.personal]] 
 
-### #is_/same_as :: [Salder.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter/cities~Salzgitter/Salzgitter-city/boroughs~Salzgitter/Salder.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Salzgitter/cities~Salzgitter/Salzgitter-city/boroughs~Salzgitter/Salder.secret|Salder.secret]] 
 

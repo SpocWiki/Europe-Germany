@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aschendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Rhede~Ems/boroughs~Rhede~Ems/Aschendorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Rhede~Ems/boroughs~Rhede~Ems/Aschendorf|Aschendorf]] 
 
-### #is_/same_as :: [Aschendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Rhede~Ems/boroughs~Rhede~Ems/Aschendorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Rhede~Ems/boroughs~Rhede~Ems/Aschendorf.public|Aschendorf.public]] 
 
-### #is_/same_as :: [Aschendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Rhede~Ems/boroughs~Rhede~Ems/Aschendorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Rhede~Ems/boroughs~Rhede~Ems/Aschendorf.internal|Aschendorf.internal]] 
 
-### #is_/same_as :: [Aschendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Rhede~Ems/boroughs~Rhede~Ems/Aschendorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Rhede~Ems/boroughs~Rhede~Ems/Aschendorf.protect|Aschendorf.protect]] 
 
-### #is_/same_as :: [Aschendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Rhede~Ems/boroughs~Rhede~Ems/Aschendorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Rhede~Ems/boroughs~Rhede~Ems/Aschendorf.private|Aschendorf.private]] 
 
-### #is_/same_as :: [Aschendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Rhede~Ems/boroughs~Rhede~Ems/Aschendorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Rhede~Ems/boroughs~Rhede~Ems/Aschendorf.personal|Aschendorf.personal]] 
 
-### #is_/same_as :: [Aschendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Rhede~Ems/boroughs~Rhede~Ems/Aschendorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Emsland/cities~Emsland/Rhede~Ems/boroughs~Rhede~Ems/Aschendorf.secret|Aschendorf.secret]] 
 

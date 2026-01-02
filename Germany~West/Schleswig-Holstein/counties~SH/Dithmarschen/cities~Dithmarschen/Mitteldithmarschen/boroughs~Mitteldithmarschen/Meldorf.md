@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Meldorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf|Meldorf]] 
 
-### #is_/same_as :: [Meldorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf.public|Meldorf.public]] 
 
-### #is_/same_as :: [Meldorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf.internal|Meldorf.internal]] 
 
-### #is_/same_as :: [Meldorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf.protect|Meldorf.protect]] 
 
-### #is_/same_as :: [Meldorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf.private|Meldorf.private]] 
 
-### #is_/same_as :: [Meldorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf.personal|Meldorf.personal]] 
 
-### #is_/same_as :: [Meldorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Mitteldithmarschen/boroughs~Mitteldithmarschen/Meldorf.secret|Meldorf.secret]] 
 

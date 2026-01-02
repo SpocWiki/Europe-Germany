@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Halle~Westf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Halle~Westf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Halle~Westf|Halle~Westf]] 
 
-### #is_/same_as :: [Halle~Westf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Halle~Westf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Halle~Westf.public|Halle~Westf.public]] 
 
-### #is_/same_as :: [Halle~Westf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Halle~Westf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Halle~Westf.internal|Halle~Westf.internal]] 
 
-### #is_/same_as :: [Halle~Westf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Halle~Westf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Halle~Westf.protect|Halle~Westf.protect]] 
 
-### #is_/same_as :: [Halle~Westf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Halle~Westf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Halle~Westf.private|Halle~Westf.private]] 
 
-### #is_/same_as :: [Halle~Westf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Halle~Westf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Halle~Westf.personal|Halle~Westf.personal]] 
 
-### #is_/same_as :: [Halle~Westf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Halle~Westf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Halle~Westf.secret|Halle~Westf.secret]] 
 

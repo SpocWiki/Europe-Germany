@@ -94,17 +94,17 @@ Commons_category: Deutsche Nationalbibliothek
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [German_National_Library](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library|German_National_Library]] 
 
-### #is_/same_as :: [German_National_Library.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.public|German_National_Library.public]] 
 
-### #is_/same_as :: [German_National_Library.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.internal|German_National_Library.internal]] 
 
-### #is_/same_as :: [German_National_Library.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.protect|German_National_Library.protect]] 
 
-### #is_/same_as :: [German_National_Library.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.private|German_National_Library.private]] 
 
-### #is_/same_as :: [German_National_Library.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.personal|German_National_Library.personal]] 
 
-### #is_/same_as :: [German_National_Library.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.secret|German_National_Library.secret]] 
 

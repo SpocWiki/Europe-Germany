@@ -49,17 +49,17 @@ The Train Connection reduced the Travel Time from 10 days to 2.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1871-Gründerzeit+1873](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873|1871-Gründerzeit+1873]] 
 
-### #is_/same_as :: [1871-Gründerzeit+1873.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.public|1871-Gründerzeit+1873.public]] 
 
-### #is_/same_as :: [1871-Gründerzeit+1873.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.internal|1871-Gründerzeit+1873.internal]] 
 
-### #is_/same_as :: [1871-Gründerzeit+1873.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.protect|1871-Gründerzeit+1873.protect]] 
 
-### #is_/same_as :: [1871-Gründerzeit+1873.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.private|1871-Gründerzeit+1873.private]] 
 
-### #is_/same_as :: [1871-Gründerzeit+1873.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.personal|1871-Gründerzeit+1873.personal]] 
 
-### #is_/same_as :: [1871-Gründerzeit+1873.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.secret|1871-Gründerzeit+1873.secret]] 
 

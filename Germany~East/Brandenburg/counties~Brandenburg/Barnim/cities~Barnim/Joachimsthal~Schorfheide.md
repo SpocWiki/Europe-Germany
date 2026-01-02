@@ -41,17 +41,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Joachimsthal~Schorfheide](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide|Joachimsthal~Schorfheide]] 
 
-### #is_/same_as :: [Joachimsthal~Schorfheide.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide.public|Joachimsthal~Schorfheide.public]] 
 
-### #is_/same_as :: [Joachimsthal~Schorfheide.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide.internal|Joachimsthal~Schorfheide.internal]] 
 
-### #is_/same_as :: [Joachimsthal~Schorfheide.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide.protect|Joachimsthal~Schorfheide.protect]] 
 
-### #is_/same_as :: [Joachimsthal~Schorfheide.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide.private|Joachimsthal~Schorfheide.private]] 
 
-### #is_/same_as :: [Joachimsthal~Schorfheide.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide.personal|Joachimsthal~Schorfheide.personal]] 
 
-### #is_/same_as :: [Joachimsthal~Schorfheide.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Barnim/cities~Barnim/Joachimsthal~Schorfheide.secret|Joachimsthal~Schorfheide.secret]] 
 

@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stadthagen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen|Stadthagen]] 
 
-### #is_/same_as :: [Stadthagen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen.public|Stadthagen.public]] 
 
-### #is_/same_as :: [Stadthagen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen.internal|Stadthagen.internal]] 
 
-### #is_/same_as :: [Stadthagen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen.protect|Stadthagen.protect]] 
 
-### #is_/same_as :: [Stadthagen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen.private|Stadthagen.private]] 
 
-### #is_/same_as :: [Stadthagen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen.personal|Stadthagen.personal]] 
 
-### #is_/same_as :: [Stadthagen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Stadthagen/boroughs~Stadthagen/Stadthagen.secret|Stadthagen.secret]] 
 

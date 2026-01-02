@@ -150,17 +150,17 @@ inception: 1525-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prussia](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia|Prussia]] 
 
-### #is_/same_as :: [Prussia.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.public|Prussia.public]] 
 
-### #is_/same_as :: [Prussia.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.internal|Prussia.internal]] 
 
-### #is_/same_as :: [Prussia.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.protect|Prussia.protect]] 
 
-### #is_/same_as :: [Prussia.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.private|Prussia.private]] 
 
-### #is_/same_as :: [Prussia.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.personal|Prussia.personal]] 
 
-### #is_/same_as :: [Prussia.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.secret|Prussia.secret]] 
 

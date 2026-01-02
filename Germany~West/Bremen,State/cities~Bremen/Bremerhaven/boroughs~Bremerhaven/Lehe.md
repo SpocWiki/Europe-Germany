@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lehe](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Lehe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Lehe|Lehe]] 
 
-### #is_/same_as :: [Lehe.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Lehe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Lehe.public|Lehe.public]] 
 
-### #is_/same_as :: [Lehe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Lehe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Lehe.internal|Lehe.internal]] 
 
-### #is_/same_as :: [Lehe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Lehe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Lehe.protect|Lehe.protect]] 
 
-### #is_/same_as :: [Lehe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Lehe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Lehe.private|Lehe.private]] 
 
-### #is_/same_as :: [Lehe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Lehe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Lehe.personal|Lehe.personal]] 
 
-### #is_/same_as :: [Lehe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Lehe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Lehe.secret|Lehe.secret]] 
 

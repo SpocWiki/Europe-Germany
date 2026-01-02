@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lühnde](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde|Lühnde]] 
 
-### #is_/same_as :: [Lühnde.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde.public|Lühnde.public]] 
 
-### #is_/same_as :: [Lühnde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde.internal|Lühnde.internal]] 
 
-### #is_/same_as :: [Lühnde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde.protect|Lühnde.protect]] 
 
-### #is_/same_as :: [Lühnde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde.private|Lühnde.private]] 
 
-### #is_/same_as :: [Lühnde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde.personal|Lühnde.personal]] 
 
-### #is_/same_as :: [Lühnde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim/cities~Hildesheim/Algermissen/boroughs~Algermissen/Lühnde.secret|Lühnde.secret]] 
 

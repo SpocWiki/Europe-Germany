@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Herzberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Herzberg~Harz/boroughs~Herzberg~Harz/Herzberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Herzberg~Harz/boroughs~Herzberg~Harz/Herzberg|Herzberg]] 
 
-### #is_/same_as :: [Herzberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Herzberg~Harz/boroughs~Herzberg~Harz/Herzberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Herzberg~Harz/boroughs~Herzberg~Harz/Herzberg.public|Herzberg.public]] 
 
-### #is_/same_as :: [Herzberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Herzberg~Harz/boroughs~Herzberg~Harz/Herzberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Herzberg~Harz/boroughs~Herzberg~Harz/Herzberg.internal|Herzberg.internal]] 
 
-### #is_/same_as :: [Herzberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Herzberg~Harz/boroughs~Herzberg~Harz/Herzberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Herzberg~Harz/boroughs~Herzberg~Harz/Herzberg.protect|Herzberg.protect]] 
 
-### #is_/same_as :: [Herzberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Herzberg~Harz/boroughs~Herzberg~Harz/Herzberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Herzberg~Harz/boroughs~Herzberg~Harz/Herzberg.private|Herzberg.private]] 
 
-### #is_/same_as :: [Herzberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Herzberg~Harz/boroughs~Herzberg~Harz/Herzberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Herzberg~Harz/boroughs~Herzberg~Harz/Herzberg.personal|Herzberg.personal]] 
 
-### #is_/same_as :: [Herzberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Herzberg~Harz/boroughs~Herzberg~Harz/Herzberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Herzberg~Harz/boroughs~Herzberg~Harz/Herzberg.secret|Herzberg.secret]] 
 

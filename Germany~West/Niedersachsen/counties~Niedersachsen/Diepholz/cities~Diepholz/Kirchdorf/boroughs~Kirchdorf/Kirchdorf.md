@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kirchdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Kirchdorf/boroughs~Kirchdorf/Kirchdorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Kirchdorf/boroughs~Kirchdorf/Kirchdorf|Kirchdorf]] 
 
-### #is_/same_as :: [Kirchdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Kirchdorf/boroughs~Kirchdorf/Kirchdorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Kirchdorf/boroughs~Kirchdorf/Kirchdorf.public|Kirchdorf.public]] 
 
-### #is_/same_as :: [Kirchdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Kirchdorf/boroughs~Kirchdorf/Kirchdorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Kirchdorf/boroughs~Kirchdorf/Kirchdorf.internal|Kirchdorf.internal]] 
 
-### #is_/same_as :: [Kirchdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Kirchdorf/boroughs~Kirchdorf/Kirchdorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Kirchdorf/boroughs~Kirchdorf/Kirchdorf.protect|Kirchdorf.protect]] 
 
-### #is_/same_as :: [Kirchdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Kirchdorf/boroughs~Kirchdorf/Kirchdorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Kirchdorf/boroughs~Kirchdorf/Kirchdorf.private|Kirchdorf.private]] 
 
-### #is_/same_as :: [Kirchdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Kirchdorf/boroughs~Kirchdorf/Kirchdorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Kirchdorf/boroughs~Kirchdorf/Kirchdorf.personal|Kirchdorf.personal]] 
 
-### #is_/same_as :: [Kirchdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Kirchdorf/boroughs~Kirchdorf/Kirchdorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Kirchdorf/boroughs~Kirchdorf/Kirchdorf.secret|Kirchdorf.secret]] 
 

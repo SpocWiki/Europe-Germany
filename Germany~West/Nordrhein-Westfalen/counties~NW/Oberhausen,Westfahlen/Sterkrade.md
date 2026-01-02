@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sterkrade](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen/Sterkrade.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen/Sterkrade|Sterkrade]] 
 
-### #is_/same_as :: [Sterkrade.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen/Sterkrade.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen/Sterkrade.public|Sterkrade.public]] 
 
-### #is_/same_as :: [Sterkrade.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen/Sterkrade.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen/Sterkrade.internal|Sterkrade.internal]] 
 
-### #is_/same_as :: [Sterkrade.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen/Sterkrade.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen/Sterkrade.protect|Sterkrade.protect]] 
 
-### #is_/same_as :: [Sterkrade.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen/Sterkrade.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen/Sterkrade.private|Sterkrade.private]] 
 
-### #is_/same_as :: [Sterkrade.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen/Sterkrade.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen/Sterkrade.personal|Sterkrade.personal]] 
 
-### #is_/same_as :: [Sterkrade.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen/Sterkrade.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Oberhausen,Westfahlen/Sterkrade.secret|Sterkrade.secret]] 
 

@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Moorburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Moorburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Moorburg|Moorburg]] 
 
-### #is_/same_as :: [Moorburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Moorburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Moorburg.public|Moorburg.public]] 
 
-### #is_/same_as :: [Moorburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Moorburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Moorburg.internal|Moorburg.internal]] 
 
-### #is_/same_as :: [Moorburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Moorburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Moorburg.protect|Moorburg.protect]] 
 
-### #is_/same_as :: [Moorburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Moorburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Moorburg.private|Moorburg.private]] 
 
-### #is_/same_as :: [Moorburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Moorburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Moorburg.personal|Moorburg.personal]] 
 
-### #is_/same_as :: [Moorburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Moorburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Moorburg.secret|Moorburg.secret]] 
 

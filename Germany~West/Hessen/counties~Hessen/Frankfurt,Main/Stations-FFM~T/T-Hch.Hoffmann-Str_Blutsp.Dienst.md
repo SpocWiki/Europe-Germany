@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Hch.Hoffmann-Str_Blutsp.Dienst](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Hch.Hoffmann-Str_Blutsp.Dienst.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Hch.Hoffmann-Str_Blutsp.Dienst|T-Hch.Hoffmann-Str_Blutsp.Dienst]] 
 
-### #is_/same_as :: [T-Hch.Hoffmann-Str_Blutsp.Dienst.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Hch.Hoffmann-Str_Blutsp.Dienst.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Hch.Hoffmann-Str_Blutsp.Dienst.public|T-Hch.Hoffmann-Str_Blutsp.Dienst.public]] 
 
-### #is_/same_as :: [T-Hch.Hoffmann-Str_Blutsp.Dienst.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Hch.Hoffmann-Str_Blutsp.Dienst.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Hch.Hoffmann-Str_Blutsp.Dienst.internal|T-Hch.Hoffmann-Str_Blutsp.Dienst.internal]] 
 
-### #is_/same_as :: [T-Hch.Hoffmann-Str_Blutsp.Dienst.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Hch.Hoffmann-Str_Blutsp.Dienst.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Hch.Hoffmann-Str_Blutsp.Dienst.protect|T-Hch.Hoffmann-Str_Blutsp.Dienst.protect]] 
 
-### #is_/same_as :: [T-Hch.Hoffmann-Str_Blutsp.Dienst.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Hch.Hoffmann-Str_Blutsp.Dienst.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Hch.Hoffmann-Str_Blutsp.Dienst.private|T-Hch.Hoffmann-Str_Blutsp.Dienst.private]] 
 
-### #is_/same_as :: [T-Hch.Hoffmann-Str_Blutsp.Dienst.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Hch.Hoffmann-Str_Blutsp.Dienst.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Hch.Hoffmann-Str_Blutsp.Dienst.personal|T-Hch.Hoffmann-Str_Blutsp.Dienst.personal]] 
 
-### #is_/same_as :: [T-Hch.Hoffmann-Str_Blutsp.Dienst.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Hch.Hoffmann-Str_Blutsp.Dienst.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Hch.Hoffmann-Str_Blutsp.Dienst.secret|T-Hch.Hoffmann-Str_Blutsp.Dienst.secret]] 
 

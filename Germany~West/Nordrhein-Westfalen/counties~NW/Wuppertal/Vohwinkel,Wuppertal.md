@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vohwinkel,Wuppertal](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Vohwinkel,Wuppertal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Vohwinkel,Wuppertal|Vohwinkel,Wuppertal]] 
 
-### #is_/same_as :: [Vohwinkel,Wuppertal.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Vohwinkel,Wuppertal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Vohwinkel,Wuppertal.public|Vohwinkel,Wuppertal.public]] 
 
-### #is_/same_as :: [Vohwinkel,Wuppertal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Vohwinkel,Wuppertal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Vohwinkel,Wuppertal.internal|Vohwinkel,Wuppertal.internal]] 
 
-### #is_/same_as :: [Vohwinkel,Wuppertal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Vohwinkel,Wuppertal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Vohwinkel,Wuppertal.protect|Vohwinkel,Wuppertal.protect]] 
 
-### #is_/same_as :: [Vohwinkel,Wuppertal.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Vohwinkel,Wuppertal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Vohwinkel,Wuppertal.private|Vohwinkel,Wuppertal.private]] 
 
-### #is_/same_as :: [Vohwinkel,Wuppertal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Vohwinkel,Wuppertal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Vohwinkel,Wuppertal.personal|Vohwinkel,Wuppertal.personal]] 
 
-### #is_/same_as :: [Vohwinkel,Wuppertal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Vohwinkel,Wuppertal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wuppertal/Vohwinkel,Wuppertal.secret|Vohwinkel,Wuppertal.secret]] 
 

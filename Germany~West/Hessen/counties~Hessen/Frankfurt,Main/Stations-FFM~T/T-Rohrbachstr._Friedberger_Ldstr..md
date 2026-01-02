@@ -40,17 +40,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Rohrbachstr._Friedberger_Ldstr.](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Rohrbachstr._Friedberger_Ldstr..md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Rohrbachstr._Friedberger_Ldstr.|T-Rohrbachstr._Friedberger_Ldstr.]] 
 
-### #is_/same_as :: [T-Rohrbachstr._Friedberger_Ldstr..public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Rohrbachstr._Friedberger_Ldstr..public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Rohrbachstr._Friedberger_Ldstr..public|T-Rohrbachstr._Friedberger_Ldstr..public]] 
 
-### #is_/same_as :: [T-Rohrbachstr._Friedberger_Ldstr..internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Rohrbachstr._Friedberger_Ldstr..internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Rohrbachstr._Friedberger_Ldstr..internal|T-Rohrbachstr._Friedberger_Ldstr..internal]] 
 
-### #is_/same_as :: [T-Rohrbachstr._Friedberger_Ldstr..protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Rohrbachstr._Friedberger_Ldstr..protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Rohrbachstr._Friedberger_Ldstr..protect|T-Rohrbachstr._Friedberger_Ldstr..protect]] 
 
-### #is_/same_as :: [T-Rohrbachstr._Friedberger_Ldstr..private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Rohrbachstr._Friedberger_Ldstr..private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Rohrbachstr._Friedberger_Ldstr..private|T-Rohrbachstr._Friedberger_Ldstr..private]] 
 
-### #is_/same_as :: [T-Rohrbachstr._Friedberger_Ldstr..personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Rohrbachstr._Friedberger_Ldstr..personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Rohrbachstr._Friedberger_Ldstr..personal|T-Rohrbachstr._Friedberger_Ldstr..personal]] 
 
-### #is_/same_as :: [T-Rohrbachstr._Friedberger_Ldstr..secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Rohrbachstr._Friedberger_Ldstr..secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Rohrbachstr._Friedberger_Ldstr..secret|T-Rohrbachstr._Friedberger_Ldstr..secret]] 
 

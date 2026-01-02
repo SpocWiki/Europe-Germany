@@ -37,17 +37,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Frankfurt~Main~Stadion](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main~Stadion.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main~Stadion|S-Frankfurt~Main~Stadion]] 
 
-### #is_/same_as :: [S-Frankfurt~Main~Stadion.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main~Stadion.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main~Stadion.public|S-Frankfurt~Main~Stadion.public]] 
 
-### #is_/same_as :: [S-Frankfurt~Main~Stadion.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main~Stadion.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main~Stadion.internal|S-Frankfurt~Main~Stadion.internal]] 
 
-### #is_/same_as :: [S-Frankfurt~Main~Stadion.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main~Stadion.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main~Stadion.protect|S-Frankfurt~Main~Stadion.protect]] 
 
-### #is_/same_as :: [S-Frankfurt~Main~Stadion.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main~Stadion.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main~Stadion.private|S-Frankfurt~Main~Stadion.private]] 
 
-### #is_/same_as :: [S-Frankfurt~Main~Stadion.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main~Stadion.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main~Stadion.personal|S-Frankfurt~Main~Stadion.personal]] 
 
-### #is_/same_as :: [S-Frankfurt~Main~Stadion.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main~Stadion.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt~Main~Stadion.secret|S-Frankfurt~Main~Stadion.secret]] 
 

@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wesermünde](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/Wesermünde.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/Wesermünde|Wesermünde]] 
 
-### #is_/same_as :: [Wesermünde.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/Wesermünde.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/Wesermünde.public|Wesermünde.public]] 
 
-### #is_/same_as :: [Wesermünde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/Wesermünde.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/Wesermünde.internal|Wesermünde.internal]] 
 
-### #is_/same_as :: [Wesermünde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/Wesermünde.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/Wesermünde.protect|Wesermünde.protect]] 
 
-### #is_/same_as :: [Wesermünde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/Wesermünde.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/Wesermünde.private|Wesermünde.private]] 
 
-### #is_/same_as :: [Wesermünde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/Wesermünde.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/Wesermünde.personal|Wesermünde.personal]] 
 
-### #is_/same_as :: [Wesermünde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/Wesermünde.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/Wesermünde.secret|Wesermünde.secret]] 
 

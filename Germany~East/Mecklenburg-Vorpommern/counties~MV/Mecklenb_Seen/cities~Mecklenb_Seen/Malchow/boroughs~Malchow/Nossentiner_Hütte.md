@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nossentiner_Hütte](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Malchow/boroughs~Malchow/Nossentiner_Hütte.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Malchow/boroughs~Malchow/Nossentiner_Hütte|Nossentiner_Hütte]] 
 
-### #is_/same_as :: [Nossentiner_Hütte.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Malchow/boroughs~Malchow/Nossentiner_Hütte.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Malchow/boroughs~Malchow/Nossentiner_Hütte.public|Nossentiner_Hütte.public]] 
 
-### #is_/same_as :: [Nossentiner_Hütte.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Malchow/boroughs~Malchow/Nossentiner_Hütte.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Malchow/boroughs~Malchow/Nossentiner_Hütte.internal|Nossentiner_Hütte.internal]] 
 
-### #is_/same_as :: [Nossentiner_Hütte.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Malchow/boroughs~Malchow/Nossentiner_Hütte.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Malchow/boroughs~Malchow/Nossentiner_Hütte.protect|Nossentiner_Hütte.protect]] 
 
-### #is_/same_as :: [Nossentiner_Hütte.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Malchow/boroughs~Malchow/Nossentiner_Hütte.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Malchow/boroughs~Malchow/Nossentiner_Hütte.private|Nossentiner_Hütte.private]] 
 
-### #is_/same_as :: [Nossentiner_Hütte.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Malchow/boroughs~Malchow/Nossentiner_Hütte.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Malchow/boroughs~Malchow/Nossentiner_Hütte.personal|Nossentiner_Hütte.personal]] 
 
-### #is_/same_as :: [Nossentiner_Hütte.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Malchow/boroughs~Malchow/Nossentiner_Hütte.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Malchow/boroughs~Malchow/Nossentiner_Hütte.secret|Nossentiner_Hütte.secret]] 
 

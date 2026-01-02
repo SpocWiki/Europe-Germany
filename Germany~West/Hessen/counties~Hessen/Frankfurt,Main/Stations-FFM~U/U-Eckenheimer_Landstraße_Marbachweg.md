@@ -42,17 +42,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [U-Eckenheimer_Landstraße_Marbachweg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Eckenheimer_Landstraße_Marbachweg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Eckenheimer_Landstraße_Marbachweg|U-Eckenheimer_Landstraße_Marbachweg]] 
 
-### #is_/same_as :: [U-Eckenheimer_Landstraße_Marbachweg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Eckenheimer_Landstraße_Marbachweg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Eckenheimer_Landstraße_Marbachweg.public|U-Eckenheimer_Landstraße_Marbachweg.public]] 
 
-### #is_/same_as :: [U-Eckenheimer_Landstraße_Marbachweg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Eckenheimer_Landstraße_Marbachweg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Eckenheimer_Landstraße_Marbachweg.internal|U-Eckenheimer_Landstraße_Marbachweg.internal]] 
 
-### #is_/same_as :: [U-Eckenheimer_Landstraße_Marbachweg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Eckenheimer_Landstraße_Marbachweg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Eckenheimer_Landstraße_Marbachweg.protect|U-Eckenheimer_Landstraße_Marbachweg.protect]] 
 
-### #is_/same_as :: [U-Eckenheimer_Landstraße_Marbachweg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Eckenheimer_Landstraße_Marbachweg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Eckenheimer_Landstraße_Marbachweg.private|U-Eckenheimer_Landstraße_Marbachweg.private]] 
 
-### #is_/same_as :: [U-Eckenheimer_Landstraße_Marbachweg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Eckenheimer_Landstraße_Marbachweg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Eckenheimer_Landstraße_Marbachweg.personal|U-Eckenheimer_Landstraße_Marbachweg.personal]] 
 
-### #is_/same_as :: [U-Eckenheimer_Landstraße_Marbachweg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Eckenheimer_Landstraße_Marbachweg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Eckenheimer_Landstraße_Marbachweg.secret|U-Eckenheimer_Landstraße_Marbachweg.secret]] 
 

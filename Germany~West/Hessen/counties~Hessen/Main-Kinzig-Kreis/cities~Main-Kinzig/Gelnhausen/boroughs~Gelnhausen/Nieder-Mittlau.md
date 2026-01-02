@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nieder-Mittlau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Nieder-Mittlau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Nieder-Mittlau|Nieder-Mittlau]] 
 
-### #is_/same_as :: [Nieder-Mittlau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Nieder-Mittlau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Nieder-Mittlau.public|Nieder-Mittlau.public]] 
 
-### #is_/same_as :: [Nieder-Mittlau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Nieder-Mittlau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Nieder-Mittlau.internal|Nieder-Mittlau.internal]] 
 
-### #is_/same_as :: [Nieder-Mittlau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Nieder-Mittlau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Nieder-Mittlau.protect|Nieder-Mittlau.protect]] 
 
-### #is_/same_as :: [Nieder-Mittlau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Nieder-Mittlau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Nieder-Mittlau.private|Nieder-Mittlau.private]] 
 
-### #is_/same_as :: [Nieder-Mittlau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Nieder-Mittlau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Nieder-Mittlau.personal|Nieder-Mittlau.personal]] 
 
-### #is_/same_as :: [Nieder-Mittlau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Nieder-Mittlau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Gelnhausen/boroughs~Gelnhausen/Nieder-Mittlau.secret|Nieder-Mittlau.secret]] 
 

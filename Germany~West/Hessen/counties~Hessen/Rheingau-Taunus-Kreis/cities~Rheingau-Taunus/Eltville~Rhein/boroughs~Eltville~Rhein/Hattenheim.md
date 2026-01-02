@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hattenheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Eltville~Rhein/boroughs~Eltville~Rhein/Hattenheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Eltville~Rhein/boroughs~Eltville~Rhein/Hattenheim|Hattenheim]] 
 
-### #is_/same_as :: [Hattenheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Eltville~Rhein/boroughs~Eltville~Rhein/Hattenheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Eltville~Rhein/boroughs~Eltville~Rhein/Hattenheim.public|Hattenheim.public]] 
 
-### #is_/same_as :: [Hattenheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Eltville~Rhein/boroughs~Eltville~Rhein/Hattenheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Eltville~Rhein/boroughs~Eltville~Rhein/Hattenheim.internal|Hattenheim.internal]] 
 
-### #is_/same_as :: [Hattenheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Eltville~Rhein/boroughs~Eltville~Rhein/Hattenheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Eltville~Rhein/boroughs~Eltville~Rhein/Hattenheim.protect|Hattenheim.protect]] 
 
-### #is_/same_as :: [Hattenheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Eltville~Rhein/boroughs~Eltville~Rhein/Hattenheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Eltville~Rhein/boroughs~Eltville~Rhein/Hattenheim.private|Hattenheim.private]] 
 
-### #is_/same_as :: [Hattenheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Eltville~Rhein/boroughs~Eltville~Rhein/Hattenheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Eltville~Rhein/boroughs~Eltville~Rhein/Hattenheim.personal|Hattenheim.personal]] 
 
-### #is_/same_as :: [Hattenheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Eltville~Rhein/boroughs~Eltville~Rhein/Hattenheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Rheingau-Taunus-Kreis/cities~Rheingau-Taunus/Eltville~Rhein/boroughs~Eltville~Rhein/Hattenheim.secret|Hattenheim.secret]] 
 

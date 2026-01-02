@@ -81,17 +81,17 @@ class S1_Oranienburg,S1_Lehnitz,S1_Borgsdorf,S1_Birkenwerder,S1_Hohen_Neuendorf,
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S1,Berlin](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin/S1,Berlin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin/S1,Berlin|S1,Berlin]] 
 
-### #is_/same_as :: [S1,Berlin.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin/S1,Berlin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin/S1,Berlin.public|S1,Berlin.public]] 
 
-### #is_/same_as :: [S1,Berlin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin/S1,Berlin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin/S1,Berlin.internal|S1,Berlin.internal]] 
 
-### #is_/same_as :: [S1,Berlin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin/S1,Berlin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin/S1,Berlin.protect|S1,Berlin.protect]] 
 
-### #is_/same_as :: [S1,Berlin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin/S1,Berlin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin/S1,Berlin.private|S1,Berlin.private]] 
 
-### #is_/same_as :: [S1,Berlin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin/S1,Berlin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin/S1,Berlin.personal|S1,Berlin.personal]] 
 
-### #is_/same_as :: [S1,Berlin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin/S1,Berlin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin/S1,Berlin.secret|S1,Berlin.secret]] 
 

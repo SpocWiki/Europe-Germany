@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bremerhaven](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven|Bremerhaven]] 
 
-### #is_/same_as :: [Bremerhaven.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven.public|Bremerhaven.public]] 
 
-### #is_/same_as :: [Bremerhaven.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven.internal|Bremerhaven.internal]] 
 
-### #is_/same_as :: [Bremerhaven.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven.protect|Bremerhaven.protect]] 
 
-### #is_/same_as :: [Bremerhaven.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven.private|Bremerhaven.private]] 
 
-### #is_/same_as :: [Bremerhaven.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven.personal|Bremerhaven.personal]] 
 
-### #is_/same_as :: [Bremerhaven.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven.secret|Bremerhaven.secret]] 
 

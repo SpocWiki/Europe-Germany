@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hohenweststedt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Mittelholstein/boroughs~Mittelholstein/Hohenweststedt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Mittelholstein/boroughs~Mittelholstein/Hohenweststedt|Hohenweststedt]] 
 
-### #is_/same_as :: [Hohenweststedt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Mittelholstein/boroughs~Mittelholstein/Hohenweststedt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Mittelholstein/boroughs~Mittelholstein/Hohenweststedt.public|Hohenweststedt.public]] 
 
-### #is_/same_as :: [Hohenweststedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Mittelholstein/boroughs~Mittelholstein/Hohenweststedt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Mittelholstein/boroughs~Mittelholstein/Hohenweststedt.internal|Hohenweststedt.internal]] 
 
-### #is_/same_as :: [Hohenweststedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Mittelholstein/boroughs~Mittelholstein/Hohenweststedt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Mittelholstein/boroughs~Mittelholstein/Hohenweststedt.protect|Hohenweststedt.protect]] 
 
-### #is_/same_as :: [Hohenweststedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Mittelholstein/boroughs~Mittelholstein/Hohenweststedt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Mittelholstein/boroughs~Mittelholstein/Hohenweststedt.private|Hohenweststedt.private]] 
 
-### #is_/same_as :: [Hohenweststedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Mittelholstein/boroughs~Mittelholstein/Hohenweststedt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Mittelholstein/boroughs~Mittelholstein/Hohenweststedt.personal|Hohenweststedt.personal]] 
 
-### #is_/same_as :: [Hohenweststedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Mittelholstein/boroughs~Mittelholstein/Hohenweststedt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Mittelholstein/boroughs~Mittelholstein/Hohenweststedt.secret|Hohenweststedt.secret]] 
 

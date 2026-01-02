@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schalke,Gelsenkirchen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Schalke,Gelsenkirchen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Schalke,Gelsenkirchen|Schalke,Gelsenkirchen]] 
 
-### #is_/same_as :: [Schalke,Gelsenkirchen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Schalke,Gelsenkirchen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Schalke,Gelsenkirchen.public|Schalke,Gelsenkirchen.public]] 
 
-### #is_/same_as :: [Schalke,Gelsenkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Schalke,Gelsenkirchen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Schalke,Gelsenkirchen.internal|Schalke,Gelsenkirchen.internal]] 
 
-### #is_/same_as :: [Schalke,Gelsenkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Schalke,Gelsenkirchen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Schalke,Gelsenkirchen.protect|Schalke,Gelsenkirchen.protect]] 
 
-### #is_/same_as :: [Schalke,Gelsenkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Schalke,Gelsenkirchen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Schalke,Gelsenkirchen.private|Schalke,Gelsenkirchen.private]] 
 
-### #is_/same_as :: [Schalke,Gelsenkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Schalke,Gelsenkirchen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Schalke,Gelsenkirchen.personal|Schalke,Gelsenkirchen.personal]] 
 
-### #is_/same_as :: [Schalke,Gelsenkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Schalke,Gelsenkirchen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gelsenkirchen/Schalke,Gelsenkirchen.secret|Schalke,Gelsenkirchen.secret]] 
 

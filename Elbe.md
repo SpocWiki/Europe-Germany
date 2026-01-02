@@ -430,17 +430,17 @@ Czech_hydrological_order_number: 1-01-01-001
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Elbe](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Elbe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Elbe|Elbe]] 
 
-### #is_/same_as :: [Elbe.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Elbe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Elbe.public|Elbe.public]] 
 
-### #is_/same_as :: [Elbe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Elbe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Elbe.internal|Elbe.internal]] 
 
-### #is_/same_as :: [Elbe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Elbe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Elbe.protect|Elbe.protect]] 
 
-### #is_/same_as :: [Elbe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Elbe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Elbe.private|Elbe.private]] 
 
-### #is_/same_as :: [Elbe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Elbe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Elbe.personal|Elbe.personal]] 
 
-### #is_/same_as :: [Elbe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Elbe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Elbe.secret|Elbe.secret]] 
 

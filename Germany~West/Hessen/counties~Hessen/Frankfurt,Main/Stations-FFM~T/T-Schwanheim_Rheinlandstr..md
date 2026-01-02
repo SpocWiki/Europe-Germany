@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Schwanheim_Rheinlandstr.](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwanheim_Rheinlandstr..md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwanheim_Rheinlandstr.|T-Schwanheim_Rheinlandstr.]] 
 
-### #is_/same_as :: [T-Schwanheim_Rheinlandstr..public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwanheim_Rheinlandstr..public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwanheim_Rheinlandstr..public|T-Schwanheim_Rheinlandstr..public]] 
 
-### #is_/same_as :: [T-Schwanheim_Rheinlandstr..internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwanheim_Rheinlandstr..internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwanheim_Rheinlandstr..internal|T-Schwanheim_Rheinlandstr..internal]] 
 
-### #is_/same_as :: [T-Schwanheim_Rheinlandstr..protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwanheim_Rheinlandstr..protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwanheim_Rheinlandstr..protect|T-Schwanheim_Rheinlandstr..protect]] 
 
-### #is_/same_as :: [T-Schwanheim_Rheinlandstr..private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwanheim_Rheinlandstr..private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwanheim_Rheinlandstr..private|T-Schwanheim_Rheinlandstr..private]] 
 
-### #is_/same_as :: [T-Schwanheim_Rheinlandstr..personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwanheim_Rheinlandstr..personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwanheim_Rheinlandstr..personal|T-Schwanheim_Rheinlandstr..personal]] 
 
-### #is_/same_as :: [T-Schwanheim_Rheinlandstr..secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwanheim_Rheinlandstr..secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Schwanheim_Rheinlandstr..secret|T-Schwanheim_Rheinlandstr..secret]] 
 

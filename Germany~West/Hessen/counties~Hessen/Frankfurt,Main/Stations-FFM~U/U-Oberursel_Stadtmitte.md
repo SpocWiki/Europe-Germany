@@ -42,17 +42,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [U-Oberursel_Stadtmitte](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Oberursel_Stadtmitte.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Oberursel_Stadtmitte|U-Oberursel_Stadtmitte]] 
 
-### #is_/same_as :: [U-Oberursel_Stadtmitte.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Oberursel_Stadtmitte.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Oberursel_Stadtmitte.public|U-Oberursel_Stadtmitte.public]] 
 
-### #is_/same_as :: [U-Oberursel_Stadtmitte.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Oberursel_Stadtmitte.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Oberursel_Stadtmitte.internal|U-Oberursel_Stadtmitte.internal]] 
 
-### #is_/same_as :: [U-Oberursel_Stadtmitte.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Oberursel_Stadtmitte.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Oberursel_Stadtmitte.protect|U-Oberursel_Stadtmitte.protect]] 
 
-### #is_/same_as :: [U-Oberursel_Stadtmitte.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Oberursel_Stadtmitte.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Oberursel_Stadtmitte.private|U-Oberursel_Stadtmitte.private]] 
 
-### #is_/same_as :: [U-Oberursel_Stadtmitte.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Oberursel_Stadtmitte.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Oberursel_Stadtmitte.personal|U-Oberursel_Stadtmitte.personal]] 
 
-### #is_/same_as :: [U-Oberursel_Stadtmitte.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Oberursel_Stadtmitte.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Oberursel_Stadtmitte.secret|U-Oberursel_Stadtmitte.secret]] 
 

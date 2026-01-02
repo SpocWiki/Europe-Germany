@@ -155,17 +155,17 @@ Capital :: [[Wiesbaden]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hessen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen|Hessen]] 
 
-### #is_/same_as :: [Hessen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.public|Hessen.public]] 
 
-### #is_/same_as :: [Hessen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.internal|Hessen.internal]] 
 
-### #is_/same_as :: [Hessen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.protect|Hessen.protect]] 
 
-### #is_/same_as :: [Hessen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.private|Hessen.private]] 
 
-### #is_/same_as :: [Hessen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.personal|Hessen.personal]] 
 
-### #is_/same_as :: [Hessen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.secret|Hessen.secret]] 
 

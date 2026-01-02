@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Langenau~Sachsen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Langenau~Sachsen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Langenau~Sachsen|Langenau~Sachsen]] 
 
-### #is_/same_as :: [Langenau~Sachsen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Langenau~Sachsen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Langenau~Sachsen.public|Langenau~Sachsen.public]] 
 
-### #is_/same_as :: [Langenau~Sachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Langenau~Sachsen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Langenau~Sachsen.internal|Langenau~Sachsen.internal]] 
 
-### #is_/same_as :: [Langenau~Sachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Langenau~Sachsen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Langenau~Sachsen.protect|Langenau~Sachsen.protect]] 
 
-### #is_/same_as :: [Langenau~Sachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Langenau~Sachsen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Langenau~Sachsen.private|Langenau~Sachsen.private]] 
 
-### #is_/same_as :: [Langenau~Sachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Langenau~Sachsen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Langenau~Sachsen.personal|Langenau~Sachsen.personal]] 
 
-### #is_/same_as :: [Langenau~Sachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Langenau~Sachsen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Langenau~Sachsen.secret|Langenau~Sachsen.secret]] 
 

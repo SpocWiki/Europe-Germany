@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kailbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Hesseneck/boroughs~Hesseneck/Kailbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Hesseneck/boroughs~Hesseneck/Kailbach|Kailbach]] 
 
-### #is_/same_as :: [Kailbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Hesseneck/boroughs~Hesseneck/Kailbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Hesseneck/boroughs~Hesseneck/Kailbach.public|Kailbach.public]] 
 
-### #is_/same_as :: [Kailbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Hesseneck/boroughs~Hesseneck/Kailbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Hesseneck/boroughs~Hesseneck/Kailbach.internal|Kailbach.internal]] 
 
-### #is_/same_as :: [Kailbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Hesseneck/boroughs~Hesseneck/Kailbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Hesseneck/boroughs~Hesseneck/Kailbach.protect|Kailbach.protect]] 
 
-### #is_/same_as :: [Kailbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Hesseneck/boroughs~Hesseneck/Kailbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Hesseneck/boroughs~Hesseneck/Kailbach.private|Kailbach.private]] 
 
-### #is_/same_as :: [Kailbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Hesseneck/boroughs~Hesseneck/Kailbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Hesseneck/boroughs~Hesseneck/Kailbach.personal|Kailbach.personal]] 
 
-### #is_/same_as :: [Kailbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Hesseneck/boroughs~Hesseneck/Kailbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Hesseneck/boroughs~Hesseneck/Kailbach.secret|Kailbach.secret]] 
 

@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kirchbrack](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Bodenwerder-Polle/boroughs~Bodenwerder-Polle/Heinsen/Kirchbrack.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Bodenwerder-Polle/boroughs~Bodenwerder-Polle/Heinsen/Kirchbrack|Kirchbrack]] 
 
-### #is_/same_as :: [Kirchbrack.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Bodenwerder-Polle/boroughs~Bodenwerder-Polle/Heinsen/Kirchbrack.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Bodenwerder-Polle/boroughs~Bodenwerder-Polle/Heinsen/Kirchbrack.public|Kirchbrack.public]] 
 
-### #is_/same_as :: [Kirchbrack.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Bodenwerder-Polle/boroughs~Bodenwerder-Polle/Heinsen/Kirchbrack.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Bodenwerder-Polle/boroughs~Bodenwerder-Polle/Heinsen/Kirchbrack.internal|Kirchbrack.internal]] 
 
-### #is_/same_as :: [Kirchbrack.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Bodenwerder-Polle/boroughs~Bodenwerder-Polle/Heinsen/Kirchbrack.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Bodenwerder-Polle/boroughs~Bodenwerder-Polle/Heinsen/Kirchbrack.protect|Kirchbrack.protect]] 
 
-### #is_/same_as :: [Kirchbrack.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Bodenwerder-Polle/boroughs~Bodenwerder-Polle/Heinsen/Kirchbrack.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Bodenwerder-Polle/boroughs~Bodenwerder-Polle/Heinsen/Kirchbrack.private|Kirchbrack.private]] 
 
-### #is_/same_as :: [Kirchbrack.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Bodenwerder-Polle/boroughs~Bodenwerder-Polle/Heinsen/Kirchbrack.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Bodenwerder-Polle/boroughs~Bodenwerder-Polle/Heinsen/Kirchbrack.personal|Kirchbrack.personal]] 
 
-### #is_/same_as :: [Kirchbrack.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Bodenwerder-Polle/boroughs~Bodenwerder-Polle/Heinsen/Kirchbrack.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Bodenwerder-Polle/boroughs~Bodenwerder-Polle/Heinsen/Kirchbrack.secret|Kirchbrack.secret]] 
 

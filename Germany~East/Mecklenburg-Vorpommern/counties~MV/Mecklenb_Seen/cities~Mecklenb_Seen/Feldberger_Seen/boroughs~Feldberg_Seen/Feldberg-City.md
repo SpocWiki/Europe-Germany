@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Feldberg-City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Feldberger_Seen/boroughs~Feldberg_Seen/Feldberg-City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Feldberger_Seen/boroughs~Feldberg_Seen/Feldberg-City|Feldberg-City]] 
 
-### #is_/same_as :: [Feldberg-City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Feldberger_Seen/boroughs~Feldberg_Seen/Feldberg-City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Feldberger_Seen/boroughs~Feldberg_Seen/Feldberg-City.public|Feldberg-City.public]] 
 
-### #is_/same_as :: [Feldberg-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Feldberger_Seen/boroughs~Feldberg_Seen/Feldberg-City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Feldberger_Seen/boroughs~Feldberg_Seen/Feldberg-City.internal|Feldberg-City.internal]] 
 
-### #is_/same_as :: [Feldberg-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Feldberger_Seen/boroughs~Feldberg_Seen/Feldberg-City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Feldberger_Seen/boroughs~Feldberg_Seen/Feldberg-City.protect|Feldberg-City.protect]] 
 
-### #is_/same_as :: [Feldberg-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Feldberger_Seen/boroughs~Feldberg_Seen/Feldberg-City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Feldberger_Seen/boroughs~Feldberg_Seen/Feldberg-City.private|Feldberg-City.private]] 
 
-### #is_/same_as :: [Feldberg-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Feldberger_Seen/boroughs~Feldberg_Seen/Feldberg-City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Feldberger_Seen/boroughs~Feldberg_Seen/Feldberg-City.personal|Feldberg-City.personal]] 
 
-### #is_/same_as :: [Feldberg-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Feldberger_Seen/boroughs~Feldberg_Seen/Feldberg-City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Mecklenb_Seen/cities~Mecklenb_Seen/Feldberger_Seen/boroughs~Feldberg_Seen/Feldberg-City.secret|Feldberg-City.secret]] 
 

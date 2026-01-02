@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Greffen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen|Greffen]] 
 
-### #is_/same_as :: [Greffen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.public|Greffen.public]] 
 
-### #is_/same_as :: [Greffen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.internal|Greffen.internal]] 
 
-### #is_/same_as :: [Greffen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.protect|Greffen.protect]] 
 
-### #is_/same_as :: [Greffen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.private|Greffen.private]] 
 
-### #is_/same_as :: [Greffen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.personal|Greffen.personal]] 
 
-### #is_/same_as :: [Greffen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Gütersloh/cities~Gütersloh/Harsewinkel/Greffen.secret|Greffen.secret]] 
 

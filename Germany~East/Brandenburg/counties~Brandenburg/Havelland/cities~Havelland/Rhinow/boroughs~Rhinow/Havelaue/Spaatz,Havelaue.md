@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spaatz,Havelaue](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rhinow/boroughs~Rhinow/Havelaue/Spaatz,Havelaue.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rhinow/boroughs~Rhinow/Havelaue/Spaatz,Havelaue|Spaatz,Havelaue]] 
 
-### #is_/same_as :: [Spaatz,Havelaue.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rhinow/boroughs~Rhinow/Havelaue/Spaatz,Havelaue.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rhinow/boroughs~Rhinow/Havelaue/Spaatz,Havelaue.public|Spaatz,Havelaue.public]] 
 
-### #is_/same_as :: [Spaatz,Havelaue.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rhinow/boroughs~Rhinow/Havelaue/Spaatz,Havelaue.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rhinow/boroughs~Rhinow/Havelaue/Spaatz,Havelaue.internal|Spaatz,Havelaue.internal]] 
 
-### #is_/same_as :: [Spaatz,Havelaue.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rhinow/boroughs~Rhinow/Havelaue/Spaatz,Havelaue.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rhinow/boroughs~Rhinow/Havelaue/Spaatz,Havelaue.protect|Spaatz,Havelaue.protect]] 
 
-### #is_/same_as :: [Spaatz,Havelaue.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rhinow/boroughs~Rhinow/Havelaue/Spaatz,Havelaue.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rhinow/boroughs~Rhinow/Havelaue/Spaatz,Havelaue.private|Spaatz,Havelaue.private]] 
 
-### #is_/same_as :: [Spaatz,Havelaue.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rhinow/boroughs~Rhinow/Havelaue/Spaatz,Havelaue.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rhinow/boroughs~Rhinow/Havelaue/Spaatz,Havelaue.personal|Spaatz,Havelaue.personal]] 
 
-### #is_/same_as :: [Spaatz,Havelaue.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rhinow/boroughs~Rhinow/Havelaue/Spaatz,Havelaue.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Havelland/cities~Havelland/Rhinow/boroughs~Rhinow/Havelaue/Spaatz,Havelaue.secret|Spaatz,Havelaue.secret]] 
 

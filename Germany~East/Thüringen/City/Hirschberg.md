@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hirschberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/City/Hirschberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/City/Hirschberg|Hirschberg]] 
 
-### #is_/same_as :: [Hirschberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/City/Hirschberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/City/Hirschberg.public|Hirschberg.public]] 
 
-### #is_/same_as :: [Hirschberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/City/Hirschberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/City/Hirschberg.internal|Hirschberg.internal]] 
 
-### #is_/same_as :: [Hirschberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/City/Hirschberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/City/Hirschberg.protect|Hirschberg.protect]] 
 
-### #is_/same_as :: [Hirschberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/City/Hirschberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/City/Hirschberg.private|Hirschberg.private]] 
 
-### #is_/same_as :: [Hirschberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/City/Hirschberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/City/Hirschberg.personal|Hirschberg.personal]] 
 
-### #is_/same_as :: [Hirschberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/City/Hirschberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/City/Hirschberg.secret|Hirschberg.secret]] 
 

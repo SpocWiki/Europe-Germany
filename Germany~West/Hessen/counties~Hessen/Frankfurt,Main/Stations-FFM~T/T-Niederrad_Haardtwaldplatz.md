@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Niederrad_Haardtwaldplatz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Niederrad_Haardtwaldplatz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Niederrad_Haardtwaldplatz|T-Niederrad_Haardtwaldplatz]] 
 
-### #is_/same_as :: [T-Niederrad_Haardtwaldplatz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Niederrad_Haardtwaldplatz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Niederrad_Haardtwaldplatz.public|T-Niederrad_Haardtwaldplatz.public]] 
 
-### #is_/same_as :: [T-Niederrad_Haardtwaldplatz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Niederrad_Haardtwaldplatz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Niederrad_Haardtwaldplatz.internal|T-Niederrad_Haardtwaldplatz.internal]] 
 
-### #is_/same_as :: [T-Niederrad_Haardtwaldplatz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Niederrad_Haardtwaldplatz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Niederrad_Haardtwaldplatz.protect|T-Niederrad_Haardtwaldplatz.protect]] 
 
-### #is_/same_as :: [T-Niederrad_Haardtwaldplatz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Niederrad_Haardtwaldplatz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Niederrad_Haardtwaldplatz.private|T-Niederrad_Haardtwaldplatz.private]] 
 
-### #is_/same_as :: [T-Niederrad_Haardtwaldplatz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Niederrad_Haardtwaldplatz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Niederrad_Haardtwaldplatz.personal|T-Niederrad_Haardtwaldplatz.personal]] 
 
-### #is_/same_as :: [T-Niederrad_Haardtwaldplatz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Niederrad_Haardtwaldplatz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Niederrad_Haardtwaldplatz.secret|T-Niederrad_Haardtwaldplatz.secret]] 
 

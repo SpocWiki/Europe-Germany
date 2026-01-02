@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ballie](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie|Ballie]] 
 
-### #is_/same_as :: [Ballie.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie.public|Ballie.public]] 
 
-### #is_/same_as :: [Ballie.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie.internal|Ballie.internal]] 
 
-### #is_/same_as :: [Ballie.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie.protect|Ballie.protect]] 
 
-### #is_/same_as :: [Ballie.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie.private|Ballie.private]] 
 
-### #is_/same_as :: [Ballie.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie.personal|Ballie.personal]] 
 
-### #is_/same_as :: [Ballie.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Am_Dobrock/boroughs~Am_Dobrock/Ballie.secret|Ballie.secret]] 
 

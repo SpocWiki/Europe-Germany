@@ -117,17 +117,17 @@ ISNI: 0000000072659681
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scholz,Olaf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf|Scholz,Olaf]] 
 
-### #is_/same_as :: [Scholz,Olaf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.public|Scholz,Olaf.public]] 
 
-### #is_/same_as :: [Scholz,Olaf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.internal|Scholz,Olaf.internal]] 
 
-### #is_/same_as :: [Scholz,Olaf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.protect|Scholz,Olaf.protect]] 
 
-### #is_/same_as :: [Scholz,Olaf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.private|Scholz,Olaf.private]] 
 
-### #is_/same_as :: [Scholz,Olaf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.personal|Scholz,Olaf.personal]] 
 
-### #is_/same_as :: [Scholz,Olaf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.secret|Scholz,Olaf.secret]] 
 

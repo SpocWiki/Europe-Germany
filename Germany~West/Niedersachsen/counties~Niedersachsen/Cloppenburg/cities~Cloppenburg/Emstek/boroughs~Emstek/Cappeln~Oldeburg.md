@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cappeln~Oldeburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Emstek/boroughs~Emstek/Cappeln~Oldeburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Emstek/boroughs~Emstek/Cappeln~Oldeburg|Cappeln~Oldeburg]] 
 
-### #is_/same_as :: [Cappeln~Oldeburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Emstek/boroughs~Emstek/Cappeln~Oldeburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Emstek/boroughs~Emstek/Cappeln~Oldeburg.public|Cappeln~Oldeburg.public]] 
 
-### #is_/same_as :: [Cappeln~Oldeburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Emstek/boroughs~Emstek/Cappeln~Oldeburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Emstek/boroughs~Emstek/Cappeln~Oldeburg.internal|Cappeln~Oldeburg.internal]] 
 
-### #is_/same_as :: [Cappeln~Oldeburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Emstek/boroughs~Emstek/Cappeln~Oldeburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Emstek/boroughs~Emstek/Cappeln~Oldeburg.protect|Cappeln~Oldeburg.protect]] 
 
-### #is_/same_as :: [Cappeln~Oldeburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Emstek/boroughs~Emstek/Cappeln~Oldeburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Emstek/boroughs~Emstek/Cappeln~Oldeburg.private|Cappeln~Oldeburg.private]] 
 
-### #is_/same_as :: [Cappeln~Oldeburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Emstek/boroughs~Emstek/Cappeln~Oldeburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Emstek/boroughs~Emstek/Cappeln~Oldeburg.personal|Cappeln~Oldeburg.personal]] 
 
-### #is_/same_as :: [Cappeln~Oldeburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Emstek/boroughs~Emstek/Cappeln~Oldeburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cloppenburg/cities~Cloppenburg/Emstek/boroughs~Emstek/Cappeln~Oldeburg.secret|Cappeln~Oldeburg.secret]] 
 

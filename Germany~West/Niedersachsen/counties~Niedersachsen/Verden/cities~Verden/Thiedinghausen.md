@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thiedinghausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Thiedinghausen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Thiedinghausen|Thiedinghausen]] 
 
-### #is_/same_as :: [Thiedinghausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Thiedinghausen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Thiedinghausen.public|Thiedinghausen.public]] 
 
-### #is_/same_as :: [Thiedinghausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Thiedinghausen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Thiedinghausen.internal|Thiedinghausen.internal]] 
 
-### #is_/same_as :: [Thiedinghausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Thiedinghausen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Thiedinghausen.protect|Thiedinghausen.protect]] 
 
-### #is_/same_as :: [Thiedinghausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Thiedinghausen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Thiedinghausen.private|Thiedinghausen.private]] 
 
-### #is_/same_as :: [Thiedinghausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Thiedinghausen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Thiedinghausen.personal|Thiedinghausen.personal]] 
 
-### #is_/same_as :: [Thiedinghausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Thiedinghausen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Verden/cities~Verden/Thiedinghausen.secret|Thiedinghausen.secret]] 
 

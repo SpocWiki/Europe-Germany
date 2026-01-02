@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neukirchen,Holstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg-Land/boroughs~Oldenburg-Land/Neukirchen,Holstein.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg-Land/boroughs~Oldenburg-Land/Neukirchen,Holstein|Neukirchen,Holstein]] 
 
-### #is_/same_as :: [Neukirchen,Holstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg-Land/boroughs~Oldenburg-Land/Neukirchen,Holstein.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg-Land/boroughs~Oldenburg-Land/Neukirchen,Holstein.public|Neukirchen,Holstein.public]] 
 
-### #is_/same_as :: [Neukirchen,Holstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg-Land/boroughs~Oldenburg-Land/Neukirchen,Holstein.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg-Land/boroughs~Oldenburg-Land/Neukirchen,Holstein.internal|Neukirchen,Holstein.internal]] 
 
-### #is_/same_as :: [Neukirchen,Holstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg-Land/boroughs~Oldenburg-Land/Neukirchen,Holstein.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg-Land/boroughs~Oldenburg-Land/Neukirchen,Holstein.protect|Neukirchen,Holstein.protect]] 
 
-### #is_/same_as :: [Neukirchen,Holstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg-Land/boroughs~Oldenburg-Land/Neukirchen,Holstein.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg-Land/boroughs~Oldenburg-Land/Neukirchen,Holstein.private|Neukirchen,Holstein.private]] 
 
-### #is_/same_as :: [Neukirchen,Holstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg-Land/boroughs~Oldenburg-Land/Neukirchen,Holstein.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg-Land/boroughs~Oldenburg-Land/Neukirchen,Holstein.personal|Neukirchen,Holstein.personal]] 
 
-### #is_/same_as :: [Neukirchen,Holstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg-Land/boroughs~Oldenburg-Land/Neukirchen,Holstein.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Oldenburg-Land/boroughs~Oldenburg-Land/Neukirchen,Holstein.secret|Neukirchen,Holstein.secret]] 
 

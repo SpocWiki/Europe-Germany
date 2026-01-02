@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Frimmersdorf,Grevenbroich](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Grevenbroich/Frimmersdorf,Grevenbroich.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Grevenbroich/Frimmersdorf,Grevenbroich|Frimmersdorf,Grevenbroich]] 
 
-### #is_/same_as :: [Frimmersdorf,Grevenbroich.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Grevenbroich/Frimmersdorf,Grevenbroich.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Grevenbroich/Frimmersdorf,Grevenbroich.public|Frimmersdorf,Grevenbroich.public]] 
 
-### #is_/same_as :: [Frimmersdorf,Grevenbroich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Grevenbroich/Frimmersdorf,Grevenbroich.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Grevenbroich/Frimmersdorf,Grevenbroich.internal|Frimmersdorf,Grevenbroich.internal]] 
 
-### #is_/same_as :: [Frimmersdorf,Grevenbroich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Grevenbroich/Frimmersdorf,Grevenbroich.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Grevenbroich/Frimmersdorf,Grevenbroich.protect|Frimmersdorf,Grevenbroich.protect]] 
 
-### #is_/same_as :: [Frimmersdorf,Grevenbroich.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Grevenbroich/Frimmersdorf,Grevenbroich.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Grevenbroich/Frimmersdorf,Grevenbroich.private|Frimmersdorf,Grevenbroich.private]] 
 
-### #is_/same_as :: [Frimmersdorf,Grevenbroich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Grevenbroich/Frimmersdorf,Grevenbroich.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Grevenbroich/Frimmersdorf,Grevenbroich.personal|Frimmersdorf,Grevenbroich.personal]] 
 
-### #is_/same_as :: [Frimmersdorf,Grevenbroich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Grevenbroich/Frimmersdorf,Grevenbroich.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Kreis_Neuss/cities~Rhein-Kreis_Neuss/Grevenbroich/Frimmersdorf,Grevenbroich.secret|Frimmersdorf,Grevenbroich.secret]] 
 

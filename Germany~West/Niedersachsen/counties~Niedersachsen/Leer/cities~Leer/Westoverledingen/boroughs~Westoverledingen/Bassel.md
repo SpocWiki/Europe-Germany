@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bassel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Westoverledingen/boroughs~Westoverledingen/Bassel.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Westoverledingen/boroughs~Westoverledingen/Bassel|Bassel]] 
 
-### #is_/same_as :: [Bassel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Westoverledingen/boroughs~Westoverledingen/Bassel.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Westoverledingen/boroughs~Westoverledingen/Bassel.public|Bassel.public]] 
 
-### #is_/same_as :: [Bassel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Westoverledingen/boroughs~Westoverledingen/Bassel.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Westoverledingen/boroughs~Westoverledingen/Bassel.internal|Bassel.internal]] 
 
-### #is_/same_as :: [Bassel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Westoverledingen/boroughs~Westoverledingen/Bassel.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Westoverledingen/boroughs~Westoverledingen/Bassel.protect|Bassel.protect]] 
 
-### #is_/same_as :: [Bassel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Westoverledingen/boroughs~Westoverledingen/Bassel.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Westoverledingen/boroughs~Westoverledingen/Bassel.private|Bassel.private]] 
 
-### #is_/same_as :: [Bassel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Westoverledingen/boroughs~Westoverledingen/Bassel.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Westoverledingen/boroughs~Westoverledingen/Bassel.personal|Bassel.personal]] 
 
-### #is_/same_as :: [Bassel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Westoverledingen/boroughs~Westoverledingen/Bassel.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Leer/cities~Leer/Westoverledingen/boroughs~Westoverledingen/Bassel.secret|Bassel.secret]] 
 

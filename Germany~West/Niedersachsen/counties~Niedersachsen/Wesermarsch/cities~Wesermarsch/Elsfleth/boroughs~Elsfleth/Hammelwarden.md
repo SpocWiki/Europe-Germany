@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hammelwarden](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Elsfleth/boroughs~Elsfleth/Hammelwarden.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Elsfleth/boroughs~Elsfleth/Hammelwarden|Hammelwarden]] 
 
-### #is_/same_as :: [Hammelwarden.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Elsfleth/boroughs~Elsfleth/Hammelwarden.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Elsfleth/boroughs~Elsfleth/Hammelwarden.public|Hammelwarden.public]] 
 
-### #is_/same_as :: [Hammelwarden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Elsfleth/boroughs~Elsfleth/Hammelwarden.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Elsfleth/boroughs~Elsfleth/Hammelwarden.internal|Hammelwarden.internal]] 
 
-### #is_/same_as :: [Hammelwarden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Elsfleth/boroughs~Elsfleth/Hammelwarden.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Elsfleth/boroughs~Elsfleth/Hammelwarden.protect|Hammelwarden.protect]] 
 
-### #is_/same_as :: [Hammelwarden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Elsfleth/boroughs~Elsfleth/Hammelwarden.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Elsfleth/boroughs~Elsfleth/Hammelwarden.private|Hammelwarden.private]] 
 
-### #is_/same_as :: [Hammelwarden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Elsfleth/boroughs~Elsfleth/Hammelwarden.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Elsfleth/boroughs~Elsfleth/Hammelwarden.personal|Hammelwarden.personal]] 
 
-### #is_/same_as :: [Hammelwarden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Elsfleth/boroughs~Elsfleth/Hammelwarden.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wesermarsch/cities~Wesermarsch/Elsfleth/boroughs~Elsfleth/Hammelwarden.secret|Hammelwarden.secret]] 
 

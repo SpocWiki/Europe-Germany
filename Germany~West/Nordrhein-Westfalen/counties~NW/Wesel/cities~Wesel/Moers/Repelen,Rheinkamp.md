@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Repelen,Rheinkamp](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers/Repelen,Rheinkamp.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers/Repelen,Rheinkamp|Repelen,Rheinkamp]] 
 
-### #is_/same_as :: [Repelen,Rheinkamp.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers/Repelen,Rheinkamp.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers/Repelen,Rheinkamp.public|Repelen,Rheinkamp.public]] 
 
-### #is_/same_as :: [Repelen,Rheinkamp.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers/Repelen,Rheinkamp.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers/Repelen,Rheinkamp.internal|Repelen,Rheinkamp.internal]] 
 
-### #is_/same_as :: [Repelen,Rheinkamp.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers/Repelen,Rheinkamp.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers/Repelen,Rheinkamp.protect|Repelen,Rheinkamp.protect]] 
 
-### #is_/same_as :: [Repelen,Rheinkamp.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers/Repelen,Rheinkamp.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers/Repelen,Rheinkamp.private|Repelen,Rheinkamp.private]] 
 
-### #is_/same_as :: [Repelen,Rheinkamp.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers/Repelen,Rheinkamp.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers/Repelen,Rheinkamp.personal|Repelen,Rheinkamp.personal]] 
 
-### #is_/same_as :: [Repelen,Rheinkamp.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers/Repelen,Rheinkamp.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Wesel/cities~Wesel/Moers/Repelen,Rheinkamp.secret|Repelen,Rheinkamp.secret]] 
 

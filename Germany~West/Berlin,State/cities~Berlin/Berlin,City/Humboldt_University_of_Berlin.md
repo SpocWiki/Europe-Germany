@@ -26,17 +26,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Humboldt_University_of_Berlin](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Humboldt_University_of_Berlin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Humboldt_University_of_Berlin|Humboldt_University_of_Berlin]] 
 
-### #is_/same_as :: [Humboldt_University_of_Berlin.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Humboldt_University_of_Berlin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Humboldt_University_of_Berlin.public|Humboldt_University_of_Berlin.public]] 
 
-### #is_/same_as :: [Humboldt_University_of_Berlin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Humboldt_University_of_Berlin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Humboldt_University_of_Berlin.internal|Humboldt_University_of_Berlin.internal]] 
 
-### #is_/same_as :: [Humboldt_University_of_Berlin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Humboldt_University_of_Berlin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Humboldt_University_of_Berlin.protect|Humboldt_University_of_Berlin.protect]] 
 
-### #is_/same_as :: [Humboldt_University_of_Berlin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Humboldt_University_of_Berlin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Humboldt_University_of_Berlin.private|Humboldt_University_of_Berlin.private]] 
 
-### #is_/same_as :: [Humboldt_University_of_Berlin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Humboldt_University_of_Berlin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Humboldt_University_of_Berlin.personal|Humboldt_University_of_Berlin.personal]] 
 
-### #is_/same_as :: [Humboldt_University_of_Berlin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Humboldt_University_of_Berlin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Humboldt_University_of_Berlin.secret|Humboldt_University_of_Berlin.secret]] 
 

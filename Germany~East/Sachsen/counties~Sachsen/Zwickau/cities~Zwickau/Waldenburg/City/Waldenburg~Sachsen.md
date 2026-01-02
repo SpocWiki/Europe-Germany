@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Waldenburg~Sachsen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen|Waldenburg~Sachsen]] 
 
-### #is_/same_as :: [Waldenburg~Sachsen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.public|Waldenburg~Sachsen.public]] 
 
-### #is_/same_as :: [Waldenburg~Sachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.internal|Waldenburg~Sachsen.internal]] 
 
-### #is_/same_as :: [Waldenburg~Sachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.protect|Waldenburg~Sachsen.protect]] 
 
-### #is_/same_as :: [Waldenburg~Sachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.private|Waldenburg~Sachsen.private]] 
 
-### #is_/same_as :: [Waldenburg~Sachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.personal|Waldenburg~Sachsen.personal]] 
 
-### #is_/same_as :: [Waldenburg~Sachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Waldenburg/City/Waldenburg~Sachsen.secret|Waldenburg~Sachsen.secret]] 
 

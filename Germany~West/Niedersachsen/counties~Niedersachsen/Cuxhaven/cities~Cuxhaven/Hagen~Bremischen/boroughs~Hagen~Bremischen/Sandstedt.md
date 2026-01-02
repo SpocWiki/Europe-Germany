@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sandstedt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt|Sandstedt]] 
 
-### #is_/same_as :: [Sandstedt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.public|Sandstedt.public]] 
 
-### #is_/same_as :: [Sandstedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.internal|Sandstedt.internal]] 
 
-### #is_/same_as :: [Sandstedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.protect|Sandstedt.protect]] 
 
-### #is_/same_as :: [Sandstedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.private|Sandstedt.private]] 
 
-### #is_/same_as :: [Sandstedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.personal|Sandstedt.personal]] 
 
-### #is_/same_as :: [Sandstedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Hagen~Bremischen/boroughs~Hagen~Bremischen/Sandstedt.secret|Sandstedt.secret]] 
 

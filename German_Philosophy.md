@@ -23,17 +23,17 @@ Commons_category: Philosophy in Germany
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [German_Philosophy](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy|German_Philosophy]] 
 
-### #is_/same_as :: [German_Philosophy.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.public|German_Philosophy.public]] 
 
-### #is_/same_as :: [German_Philosophy.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.internal|German_Philosophy.internal]] 
 
-### #is_/same_as :: [German_Philosophy.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.protect|German_Philosophy.protect]] 
 
-### #is_/same_as :: [German_Philosophy.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.private|German_Philosophy.private]] 
 
-### #is_/same_as :: [German_Philosophy.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.personal|German_Philosophy.personal]] 
 
-### #is_/same_as :: [German_Philosophy.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.secret|German_Philosophy.secret]] 
 

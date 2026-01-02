@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Garz,Ruegen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen|Garz,Ruegen]] 
 
-### #is_/same_as :: [Garz,Ruegen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen.public|Garz,Ruegen.public]] 
 
-### #is_/same_as :: [Garz,Ruegen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen.internal|Garz,Ruegen.internal]] 
 
-### #is_/same_as :: [Garz,Ruegen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen.protect|Garz,Ruegen.protect]] 
 
-### #is_/same_as :: [Garz,Ruegen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen.private|Garz,Ruegen.private]] 
 
-### #is_/same_as :: [Garz,Ruegen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen.personal|Garz,Ruegen.personal]] 
 
-### #is_/same_as :: [Garz,Ruegen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen.secret|Garz,Ruegen.secret]] 
 

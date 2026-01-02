@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hohlacker](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Viöl/boroughs~Viöl/Schwesing/Hohlacker.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Viöl/boroughs~Viöl/Schwesing/Hohlacker|Hohlacker]] 
 
-### #is_/same_as :: [Hohlacker.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Viöl/boroughs~Viöl/Schwesing/Hohlacker.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Viöl/boroughs~Viöl/Schwesing/Hohlacker.public|Hohlacker.public]] 
 
-### #is_/same_as :: [Hohlacker.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Viöl/boroughs~Viöl/Schwesing/Hohlacker.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Viöl/boroughs~Viöl/Schwesing/Hohlacker.internal|Hohlacker.internal]] 
 
-### #is_/same_as :: [Hohlacker.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Viöl/boroughs~Viöl/Schwesing/Hohlacker.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Viöl/boroughs~Viöl/Schwesing/Hohlacker.protect|Hohlacker.protect]] 
 
-### #is_/same_as :: [Hohlacker.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Viöl/boroughs~Viöl/Schwesing/Hohlacker.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Viöl/boroughs~Viöl/Schwesing/Hohlacker.private|Hohlacker.private]] 
 
-### #is_/same_as :: [Hohlacker.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Viöl/boroughs~Viöl/Schwesing/Hohlacker.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Viöl/boroughs~Viöl/Schwesing/Hohlacker.personal|Hohlacker.personal]] 
 
-### #is_/same_as :: [Hohlacker.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Viöl/boroughs~Viöl/Schwesing/Hohlacker.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Viöl/boroughs~Viöl/Schwesing/Hohlacker.secret|Hohlacker.secret]] 
 

@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Isenbüttel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel|Isenbüttel]] 
 
-### #is_/same_as :: [Isenbüttel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel.public|Isenbüttel.public]] 
 
-### #is_/same_as :: [Isenbüttel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel.internal|Isenbüttel.internal]] 
 
-### #is_/same_as :: [Isenbüttel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel.protect|Isenbüttel.protect]] 
 
-### #is_/same_as :: [Isenbüttel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel.private|Isenbüttel.private]] 
 
-### #is_/same_as :: [Isenbüttel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel.personal|Isenbüttel.personal]] 
 
-### #is_/same_as :: [Isenbüttel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Gifhorn/cities~Gifhorn/Isenbüttel/boroughs~Isenbüttel/Isenbüttel.secret|Isenbüttel.secret]] 
 

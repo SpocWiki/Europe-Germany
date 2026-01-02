@@ -37,17 +37,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Ferdinand-Dirichs-Weg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ferdinand-Dirichs-Weg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ferdinand-Dirichs-Weg|T-Ferdinand-Dirichs-Weg]] 
 
-### #is_/same_as :: [T-Ferdinand-Dirichs-Weg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ferdinand-Dirichs-Weg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ferdinand-Dirichs-Weg.public|T-Ferdinand-Dirichs-Weg.public]] 
 
-### #is_/same_as :: [T-Ferdinand-Dirichs-Weg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ferdinand-Dirichs-Weg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ferdinand-Dirichs-Weg.internal|T-Ferdinand-Dirichs-Weg.internal]] 
 
-### #is_/same_as :: [T-Ferdinand-Dirichs-Weg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ferdinand-Dirichs-Weg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ferdinand-Dirichs-Weg.protect|T-Ferdinand-Dirichs-Weg.protect]] 
 
-### #is_/same_as :: [T-Ferdinand-Dirichs-Weg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ferdinand-Dirichs-Weg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ferdinand-Dirichs-Weg.private|T-Ferdinand-Dirichs-Weg.private]] 
 
-### #is_/same_as :: [T-Ferdinand-Dirichs-Weg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ferdinand-Dirichs-Weg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ferdinand-Dirichs-Weg.personal|T-Ferdinand-Dirichs-Weg.personal]] 
 
-### #is_/same_as :: [T-Ferdinand-Dirichs-Weg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ferdinand-Dirichs-Weg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ferdinand-Dirichs-Weg.secret|T-Ferdinand-Dirichs-Weg.secret]] 
 

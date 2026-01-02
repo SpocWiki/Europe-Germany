@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Offenbach_Kaiserlei](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Offenbach_Kaiserlei.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Offenbach_Kaiserlei|S-Offenbach_Kaiserlei]] 
 
-### #is_/same_as :: [S-Offenbach_Kaiserlei.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Offenbach_Kaiserlei.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Offenbach_Kaiserlei.public|S-Offenbach_Kaiserlei.public]] 
 
-### #is_/same_as :: [S-Offenbach_Kaiserlei.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Offenbach_Kaiserlei.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Offenbach_Kaiserlei.internal|S-Offenbach_Kaiserlei.internal]] 
 
-### #is_/same_as :: [S-Offenbach_Kaiserlei.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Offenbach_Kaiserlei.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Offenbach_Kaiserlei.protect|S-Offenbach_Kaiserlei.protect]] 
 
-### #is_/same_as :: [S-Offenbach_Kaiserlei.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Offenbach_Kaiserlei.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Offenbach_Kaiserlei.private|S-Offenbach_Kaiserlei.private]] 
 
-### #is_/same_as :: [S-Offenbach_Kaiserlei.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Offenbach_Kaiserlei.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Offenbach_Kaiserlei.personal|S-Offenbach_Kaiserlei.personal]] 
 
-### #is_/same_as :: [S-Offenbach_Kaiserlei.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Offenbach_Kaiserlei.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Offenbach_Kaiserlei.secret|S-Offenbach_Kaiserlei.secret]] 
 

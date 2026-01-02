@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schwarmstedt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Schwarmstedt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Schwarmstedt|Schwarmstedt]] 
 
-### #is_/same_as :: [Schwarmstedt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Schwarmstedt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Schwarmstedt.public|Schwarmstedt.public]] 
 
-### #is_/same_as :: [Schwarmstedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Schwarmstedt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Schwarmstedt.internal|Schwarmstedt.internal]] 
 
-### #is_/same_as :: [Schwarmstedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Schwarmstedt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Schwarmstedt.protect|Schwarmstedt.protect]] 
 
-### #is_/same_as :: [Schwarmstedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Schwarmstedt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Schwarmstedt.private|Schwarmstedt.private]] 
 
-### #is_/same_as :: [Schwarmstedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Schwarmstedt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Schwarmstedt.personal|Schwarmstedt.personal]] 
 
-### #is_/same_as :: [Schwarmstedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Schwarmstedt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Heidekreis/cities~Heidekreis/Schwarmstedt/boroughs~Schwarmstedt/Schwarmstedt.secret|Schwarmstedt.secret]] 
 

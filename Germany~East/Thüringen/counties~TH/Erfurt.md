@@ -47,17 +47,17 @@ Jüdisch-Mittelalterliches Erbe in Erfurt ( [[Unesco]] Welterbe seit 2023)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Erfurt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Erfurt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Erfurt|Erfurt]] 
 
-### #is_/same_as :: [Erfurt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Erfurt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Erfurt.public|Erfurt.public]] 
 
-### #is_/same_as :: [Erfurt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Erfurt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Erfurt.internal|Erfurt.internal]] 
 
-### #is_/same_as :: [Erfurt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Erfurt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Erfurt.protect|Erfurt.protect]] 
 
-### #is_/same_as :: [Erfurt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Erfurt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Erfurt.private|Erfurt.private]] 
 
-### #is_/same_as :: [Erfurt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Erfurt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Erfurt.personal|Erfurt.personal]] 
 
-### #is_/same_as :: [Erfurt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Erfurt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Erfurt.secret|Erfurt.secret]] 
 

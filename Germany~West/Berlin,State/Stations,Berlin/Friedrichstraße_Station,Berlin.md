@@ -38,17 +38,17 @@ geo:52.520278,13.386944
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Friedrichstraße_Station,Berlin](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin|Friedrichstraße_Station,Berlin]] 
 
-### #is_/same_as :: [Friedrichstraße_Station,Berlin.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.public|Friedrichstraße_Station,Berlin.public]] 
 
-### #is_/same_as :: [Friedrichstraße_Station,Berlin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.internal|Friedrichstraße_Station,Berlin.internal]] 
 
-### #is_/same_as :: [Friedrichstraße_Station,Berlin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.protect|Friedrichstraße_Station,Berlin.protect]] 
 
-### #is_/same_as :: [Friedrichstraße_Station,Berlin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.private|Friedrichstraße_Station,Berlin.private]] 
 
-### #is_/same_as :: [Friedrichstraße_Station,Berlin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.personal|Friedrichstraße_Station,Berlin.personal]] 
 
-### #is_/same_as :: [Friedrichstraße_Station,Berlin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.secret|Friedrichstraße_Station,Berlin.secret]] 
 

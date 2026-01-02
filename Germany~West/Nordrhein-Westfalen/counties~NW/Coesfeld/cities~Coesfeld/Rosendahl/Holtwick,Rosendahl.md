@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Holtwick,Rosendahl](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Rosendahl/Holtwick,Rosendahl.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Rosendahl/Holtwick,Rosendahl|Holtwick,Rosendahl]] 
 
-### #is_/same_as :: [Holtwick,Rosendahl.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Rosendahl/Holtwick,Rosendahl.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Rosendahl/Holtwick,Rosendahl.public|Holtwick,Rosendahl.public]] 
 
-### #is_/same_as :: [Holtwick,Rosendahl.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Rosendahl/Holtwick,Rosendahl.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Rosendahl/Holtwick,Rosendahl.internal|Holtwick,Rosendahl.internal]] 
 
-### #is_/same_as :: [Holtwick,Rosendahl.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Rosendahl/Holtwick,Rosendahl.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Rosendahl/Holtwick,Rosendahl.protect|Holtwick,Rosendahl.protect]] 
 
-### #is_/same_as :: [Holtwick,Rosendahl.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Rosendahl/Holtwick,Rosendahl.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Rosendahl/Holtwick,Rosendahl.private|Holtwick,Rosendahl.private]] 
 
-### #is_/same_as :: [Holtwick,Rosendahl.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Rosendahl/Holtwick,Rosendahl.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Rosendahl/Holtwick,Rosendahl.personal|Holtwick,Rosendahl.personal]] 
 
-### #is_/same_as :: [Holtwick,Rosendahl.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Rosendahl/Holtwick,Rosendahl.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Coesfeld/cities~Coesfeld/Rosendahl/Holtwick,Rosendahl.secret|Holtwick,Rosendahl.secret]] 
 

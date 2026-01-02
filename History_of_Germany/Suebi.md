@@ -78,17 +78,17 @@ coordinate_location: Point(11.5 53.5)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Suebi](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi|Suebi]] 
 
-### #is_/same_as :: [Suebi.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.public|Suebi.public]] 
 
-### #is_/same_as :: [Suebi.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.internal|Suebi.internal]] 
 
-### #is_/same_as :: [Suebi.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.protect|Suebi.protect]] 
 
-### #is_/same_as :: [Suebi.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.private|Suebi.private]] 
 
-### #is_/same_as :: [Suebi.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.personal|Suebi.personal]] 
 
-### #is_/same_as :: [Suebi.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.secret|Suebi.secret]] 
 

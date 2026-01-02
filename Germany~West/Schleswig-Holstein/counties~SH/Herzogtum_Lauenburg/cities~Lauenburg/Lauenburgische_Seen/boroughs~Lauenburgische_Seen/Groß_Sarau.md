@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Groß_Sarau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau|Groß_Sarau]] 
 
-### #is_/same_as :: [Groß_Sarau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau.public|Groß_Sarau.public]] 
 
-### #is_/same_as :: [Groß_Sarau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau.internal|Groß_Sarau.internal]] 
 
-### #is_/same_as :: [Groß_Sarau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau.protect|Groß_Sarau.protect]] 
 
-### #is_/same_as :: [Groß_Sarau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau.private|Groß_Sarau.private]] 
 
-### #is_/same_as :: [Groß_Sarau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau.personal|Groß_Sarau.personal]] 
 
-### #is_/same_as :: [Groß_Sarau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau.secret|Groß_Sarau.secret]] 
 

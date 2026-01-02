@@ -101,17 +101,17 @@ Libris_URI: hftx3h110k18p9k
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Deutsches_Museum](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum|Deutsches_Museum]] 
 
-### #is_/same_as :: [Deutsches_Museum.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.public|Deutsches_Museum.public]] 
 
-### #is_/same_as :: [Deutsches_Museum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.internal|Deutsches_Museum.internal]] 
 
-### #is_/same_as :: [Deutsches_Museum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.protect|Deutsches_Museum.protect]] 
 
-### #is_/same_as :: [Deutsches_Museum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.private|Deutsches_Museum.private]] 
 
-### #is_/same_as :: [Deutsches_Museum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.personal|Deutsches_Museum.personal]] 
 
-### #is_/same_as :: [Deutsches_Museum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.secret|Deutsches_Museum.secret]] 
 

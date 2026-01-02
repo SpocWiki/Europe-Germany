@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hinsbeck,Nettetal](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal|Hinsbeck,Nettetal]] 
 
-### #is_/same_as :: [Hinsbeck,Nettetal.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal.public|Hinsbeck,Nettetal.public]] 
 
-### #is_/same_as :: [Hinsbeck,Nettetal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal.internal|Hinsbeck,Nettetal.internal]] 
 
-### #is_/same_as :: [Hinsbeck,Nettetal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal.protect|Hinsbeck,Nettetal.protect]] 
 
-### #is_/same_as :: [Hinsbeck,Nettetal.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal.private|Hinsbeck,Nettetal.private]] 
 
-### #is_/same_as :: [Hinsbeck,Nettetal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal.personal|Hinsbeck,Nettetal.personal]] 
 
-### #is_/same_as :: [Hinsbeck,Nettetal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Viersen/cities~Viersen/Nettetal/Hinsbeck,Nettetal.secret|Hinsbeck,Nettetal.secret]] 
 

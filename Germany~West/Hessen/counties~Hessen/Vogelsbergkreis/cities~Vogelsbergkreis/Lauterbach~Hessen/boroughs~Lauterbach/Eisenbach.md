@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eisenbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Eisenbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Eisenbach|Eisenbach]] 
 
-### #is_/same_as :: [Eisenbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Eisenbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Eisenbach.public|Eisenbach.public]] 
 
-### #is_/same_as :: [Eisenbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Eisenbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Eisenbach.internal|Eisenbach.internal]] 
 
-### #is_/same_as :: [Eisenbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Eisenbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Eisenbach.protect|Eisenbach.protect]] 
 
-### #is_/same_as :: [Eisenbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Eisenbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Eisenbach.private|Eisenbach.private]] 
 
-### #is_/same_as :: [Eisenbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Eisenbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Eisenbach.personal|Eisenbach.personal]] 
 
-### #is_/same_as :: [Eisenbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Eisenbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Lauterbach~Hessen/boroughs~Lauterbach/Eisenbach.secret|Eisenbach.secret]] 
 

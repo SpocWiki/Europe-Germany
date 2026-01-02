@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weetzen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen|Weetzen]] 
 
-### #is_/same_as :: [Weetzen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.public|Weetzen.public]] 
 
-### #is_/same_as :: [Weetzen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.internal|Weetzen.internal]] 
 
-### #is_/same_as :: [Weetzen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.protect|Weetzen.protect]] 
 
-### #is_/same_as :: [Weetzen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.private|Weetzen.private]] 
 
-### #is_/same_as :: [Weetzen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.personal|Weetzen.personal]] 
 
-### #is_/same_as :: [Weetzen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Ronnenberg/boroughs~Ronnenberg/Weetzen.secret|Weetzen.secret]] 
 

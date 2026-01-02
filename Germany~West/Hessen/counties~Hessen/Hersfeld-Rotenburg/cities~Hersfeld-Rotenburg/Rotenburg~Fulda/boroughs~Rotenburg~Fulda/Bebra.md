@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bebra](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Rotenburg~Fulda/boroughs~Rotenburg~Fulda/Bebra.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Rotenburg~Fulda/boroughs~Rotenburg~Fulda/Bebra|Bebra]] 
 
-### #is_/same_as :: [Bebra.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Rotenburg~Fulda/boroughs~Rotenburg~Fulda/Bebra.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Rotenburg~Fulda/boroughs~Rotenburg~Fulda/Bebra.public|Bebra.public]] 
 
-### #is_/same_as :: [Bebra.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Rotenburg~Fulda/boroughs~Rotenburg~Fulda/Bebra.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Rotenburg~Fulda/boroughs~Rotenburg~Fulda/Bebra.internal|Bebra.internal]] 
 
-### #is_/same_as :: [Bebra.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Rotenburg~Fulda/boroughs~Rotenburg~Fulda/Bebra.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Rotenburg~Fulda/boroughs~Rotenburg~Fulda/Bebra.protect|Bebra.protect]] 
 
-### #is_/same_as :: [Bebra.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Rotenburg~Fulda/boroughs~Rotenburg~Fulda/Bebra.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Rotenburg~Fulda/boroughs~Rotenburg~Fulda/Bebra.private|Bebra.private]] 
 
-### #is_/same_as :: [Bebra.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Rotenburg~Fulda/boroughs~Rotenburg~Fulda/Bebra.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Rotenburg~Fulda/boroughs~Rotenburg~Fulda/Bebra.personal|Bebra.personal]] 
 
-### #is_/same_as :: [Bebra.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Rotenburg~Fulda/boroughs~Rotenburg~Fulda/Bebra.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Rotenburg~Fulda/boroughs~Rotenburg~Fulda/Bebra.secret|Bebra.secret]] 
 

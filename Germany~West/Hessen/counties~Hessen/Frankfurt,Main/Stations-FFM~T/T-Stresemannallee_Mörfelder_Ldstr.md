@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Stresemannallee_Mörfelder_Ldstr](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Mörfelder_Ldstr.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Mörfelder_Ldstr|T-Stresemannallee_Mörfelder_Ldstr]] 
 
-### #is_/same_as :: [T-Stresemannallee_Mörfelder_Ldstr.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Mörfelder_Ldstr.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Mörfelder_Ldstr.public|T-Stresemannallee_Mörfelder_Ldstr.public]] 
 
-### #is_/same_as :: [T-Stresemannallee_Mörfelder_Ldstr.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Mörfelder_Ldstr.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Mörfelder_Ldstr.internal|T-Stresemannallee_Mörfelder_Ldstr.internal]] 
 
-### #is_/same_as :: [T-Stresemannallee_Mörfelder_Ldstr.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Mörfelder_Ldstr.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Mörfelder_Ldstr.protect|T-Stresemannallee_Mörfelder_Ldstr.protect]] 
 
-### #is_/same_as :: [T-Stresemannallee_Mörfelder_Ldstr.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Mörfelder_Ldstr.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Mörfelder_Ldstr.private|T-Stresemannallee_Mörfelder_Ldstr.private]] 
 
-### #is_/same_as :: [T-Stresemannallee_Mörfelder_Ldstr.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Mörfelder_Ldstr.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Mörfelder_Ldstr.personal|T-Stresemannallee_Mörfelder_Ldstr.personal]] 
 
-### #is_/same_as :: [T-Stresemannallee_Mörfelder_Ldstr.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Mörfelder_Ldstr.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Mörfelder_Ldstr.secret|T-Stresemannallee_Mörfelder_Ldstr.secret]] 
 

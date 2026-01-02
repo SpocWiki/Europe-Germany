@@ -30,17 +30,17 @@ City :: [[../Frankfurt,Main]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_Station-U-Template](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/_Station-U-Template.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/_Station-U-Template|_Station-U-Template]] 
 
-### #is_/same_as :: [_Station-U-Template.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/_Station-U-Template.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/_Station-U-Template.public|_Station-U-Template.public]] 
 
-### #is_/same_as :: [_Station-U-Template.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/_Station-U-Template.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/_Station-U-Template.internal|_Station-U-Template.internal]] 
 
-### #is_/same_as :: [_Station-U-Template.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/_Station-U-Template.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/_Station-U-Template.protect|_Station-U-Template.protect]] 
 
-### #is_/same_as :: [_Station-U-Template.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/_Station-U-Template.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/_Station-U-Template.private|_Station-U-Template.private]] 
 
-### #is_/same_as :: [_Station-U-Template.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/_Station-U-Template.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/_Station-U-Template.personal|_Station-U-Template.personal]] 
 
-### #is_/same_as :: [_Station-U-Template.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/_Station-U-Template.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/_Station-U-Template.secret|_Station-U-Template.secret]] 
 

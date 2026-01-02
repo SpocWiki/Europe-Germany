@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fallersleben](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben|Fallersleben]] 
 
-### #is_/same_as :: [Fallersleben.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.public|Fallersleben.public]] 
 
-### #is_/same_as :: [Fallersleben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.internal|Fallersleben.internal]] 
 
-### #is_/same_as :: [Fallersleben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.protect|Fallersleben.protect]] 
 
-### #is_/same_as :: [Fallersleben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.private|Fallersleben.private]] 
 
-### #is_/same_as :: [Fallersleben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.personal|Fallersleben.personal]] 
 
-### #is_/same_as :: [Fallersleben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Fallersleben.secret|Fallersleben.secret]] 
 

@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Harburg_bei_Hamburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Harburg_bei_Hamburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Harburg_bei_Hamburg|Harburg_bei_Hamburg]] 
 
-### #is_/same_as :: [Harburg_bei_Hamburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Harburg_bei_Hamburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Harburg_bei_Hamburg.public|Harburg_bei_Hamburg.public]] 
 
-### #is_/same_as :: [Harburg_bei_Hamburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Harburg_bei_Hamburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Harburg_bei_Hamburg.internal|Harburg_bei_Hamburg.internal]] 
 
-### #is_/same_as :: [Harburg_bei_Hamburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Harburg_bei_Hamburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Harburg_bei_Hamburg.protect|Harburg_bei_Hamburg.protect]] 
 
-### #is_/same_as :: [Harburg_bei_Hamburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Harburg_bei_Hamburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Harburg_bei_Hamburg.private|Harburg_bei_Hamburg.private]] 
 
-### #is_/same_as :: [Harburg_bei_Hamburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Harburg_bei_Hamburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Harburg_bei_Hamburg.personal|Harburg_bei_Hamburg.personal]] 
 
-### #is_/same_as :: [Harburg_bei_Hamburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Harburg_bei_Hamburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Harburg_bei_Hamburg.secret|Harburg_bei_Hamburg.secret]] 
 

@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alte_Sternwarte](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Alte_Sternwarte.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Alte_Sternwarte|Alte_Sternwarte]] 
 
-### #is_/same_as :: [Alte_Sternwarte.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Alte_Sternwarte.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Alte_Sternwarte.public|Alte_Sternwarte.public]] 
 
-### #is_/same_as :: [Alte_Sternwarte.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Alte_Sternwarte.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Alte_Sternwarte.internal|Alte_Sternwarte.internal]] 
 
-### #is_/same_as :: [Alte_Sternwarte.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Alte_Sternwarte.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Alte_Sternwarte.protect|Alte_Sternwarte.protect]] 
 
-### #is_/same_as :: [Alte_Sternwarte.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Alte_Sternwarte.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Alte_Sternwarte.private|Alte_Sternwarte.private]] 
 
-### #is_/same_as :: [Alte_Sternwarte.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Alte_Sternwarte.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Alte_Sternwarte.personal|Alte_Sternwarte.personal]] 
 
-### #is_/same_as :: [Alte_Sternwarte.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Alte_Sternwarte.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Alte_Sternwarte.secret|Alte_Sternwarte.secret]] 
 

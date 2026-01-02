@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rosdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf|Rosdorf]] 
 
-### #is_/same_as :: [Rosdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf.public|Rosdorf.public]] 
 
-### #is_/same_as :: [Rosdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf.internal|Rosdorf.internal]] 
 
-### #is_/same_as :: [Rosdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf.protect|Rosdorf.protect]] 
 
-### #is_/same_as :: [Rosdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf.private|Rosdorf.private]] 
 
-### #is_/same_as :: [Rosdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf.personal|Rosdorf.personal]] 
 
-### #is_/same_as :: [Rosdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Rosdorf/boroughs~Rosdorf/Rosdorf.secret|Rosdorf.secret]] 
 

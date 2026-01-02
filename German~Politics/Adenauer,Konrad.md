@@ -226,17 +226,17 @@ birth_name: Conrad Hermann Joseph Adenauer
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Adenauer,Konrad](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Adenauer,Konrad.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Adenauer,Konrad|Adenauer,Konrad]] 
 
-### #is_/same_as :: [Adenauer,Konrad.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Adenauer,Konrad.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Adenauer,Konrad.public|Adenauer,Konrad.public]] 
 
-### #is_/same_as :: [Adenauer,Konrad.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Adenauer,Konrad.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Adenauer,Konrad.internal|Adenauer,Konrad.internal]] 
 
-### #is_/same_as :: [Adenauer,Konrad.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Adenauer,Konrad.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Adenauer,Konrad.protect|Adenauer,Konrad.protect]] 
 
-### #is_/same_as :: [Adenauer,Konrad.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Adenauer,Konrad.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Adenauer,Konrad.private|Adenauer,Konrad.private]] 
 
-### #is_/same_as :: [Adenauer,Konrad.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Adenauer,Konrad.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Adenauer,Konrad.personal|Adenauer,Konrad.personal]] 
 
-### #is_/same_as :: [Adenauer,Konrad.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Adenauer,Konrad.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Adenauer,Konrad.secret|Adenauer,Konrad.secret]] 
 

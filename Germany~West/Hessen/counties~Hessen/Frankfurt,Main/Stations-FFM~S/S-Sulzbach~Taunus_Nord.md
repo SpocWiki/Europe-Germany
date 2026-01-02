@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Sulzbach~Taunus_Nord](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Sulzbach~Taunus_Nord.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Sulzbach~Taunus_Nord|S-Sulzbach~Taunus_Nord]] 
 
-### #is_/same_as :: [S-Sulzbach~Taunus_Nord.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Sulzbach~Taunus_Nord.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Sulzbach~Taunus_Nord.public|S-Sulzbach~Taunus_Nord.public]] 
 
-### #is_/same_as :: [S-Sulzbach~Taunus_Nord.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Sulzbach~Taunus_Nord.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Sulzbach~Taunus_Nord.internal|S-Sulzbach~Taunus_Nord.internal]] 
 
-### #is_/same_as :: [S-Sulzbach~Taunus_Nord.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Sulzbach~Taunus_Nord.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Sulzbach~Taunus_Nord.protect|S-Sulzbach~Taunus_Nord.protect]] 
 
-### #is_/same_as :: [S-Sulzbach~Taunus_Nord.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Sulzbach~Taunus_Nord.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Sulzbach~Taunus_Nord.private|S-Sulzbach~Taunus_Nord.private]] 
 
-### #is_/same_as :: [S-Sulzbach~Taunus_Nord.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Sulzbach~Taunus_Nord.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Sulzbach~Taunus_Nord.personal|S-Sulzbach~Taunus_Nord.personal]] 
 
-### #is_/same_as :: [S-Sulzbach~Taunus_Nord.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Sulzbach~Taunus_Nord.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Sulzbach~Taunus_Nord.secret|S-Sulzbach~Taunus_Nord.secret]] 
 

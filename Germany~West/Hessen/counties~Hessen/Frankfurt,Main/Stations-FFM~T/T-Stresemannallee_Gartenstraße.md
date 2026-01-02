@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Stresemannallee_Gartenstraße](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Gartenstraße.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Gartenstraße|T-Stresemannallee_Gartenstraße]] 
 
-### #is_/same_as :: [T-Stresemannallee_Gartenstraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Gartenstraße.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Gartenstraße.public|T-Stresemannallee_Gartenstraße.public]] 
 
-### #is_/same_as :: [T-Stresemannallee_Gartenstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Gartenstraße.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Gartenstraße.internal|T-Stresemannallee_Gartenstraße.internal]] 
 
-### #is_/same_as :: [T-Stresemannallee_Gartenstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Gartenstraße.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Gartenstraße.protect|T-Stresemannallee_Gartenstraße.protect]] 
 
-### #is_/same_as :: [T-Stresemannallee_Gartenstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Gartenstraße.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Gartenstraße.private|T-Stresemannallee_Gartenstraße.private]] 
 
-### #is_/same_as :: [T-Stresemannallee_Gartenstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Gartenstraße.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Gartenstraße.personal|T-Stresemannallee_Gartenstraße.personal]] 
 
-### #is_/same_as :: [T-Stresemannallee_Gartenstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Gartenstraße.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Stresemannallee_Gartenstraße.secret|T-Stresemannallee_Gartenstraße.secret]] 
 

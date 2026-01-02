@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Obernkirchen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen|Obernkirchen]] 
 
-### #is_/same_as :: [Obernkirchen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.public|Obernkirchen.public]] 
 
-### #is_/same_as :: [Obernkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.internal|Obernkirchen.internal]] 
 
-### #is_/same_as :: [Obernkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.protect|Obernkirchen.protect]] 
 
-### #is_/same_as :: [Obernkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.private|Obernkirchen.private]] 
 
-### #is_/same_as :: [Obernkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.personal|Obernkirchen.personal]] 
 
-### #is_/same_as :: [Obernkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Schaumburg/cities~Schaumburg/Obernkirchen/boroughs~Obernkirchen/Obernkirchen.secret|Obernkirchen.secret]] 
 

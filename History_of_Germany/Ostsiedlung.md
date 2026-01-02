@@ -83,17 +83,17 @@ Commons_category: Ostsiedlung
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ostsiedlung](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung|Ostsiedlung]] 
 
-### #is_/same_as :: [Ostsiedlung.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.public|Ostsiedlung.public]] 
 
-### #is_/same_as :: [Ostsiedlung.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.internal|Ostsiedlung.internal]] 
 
-### #is_/same_as :: [Ostsiedlung.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.protect|Ostsiedlung.protect]] 
 
-### #is_/same_as :: [Ostsiedlung.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.private|Ostsiedlung.private]] 
 
-### #is_/same_as :: [Ostsiedlung.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.personal|Ostsiedlung.personal]] 
 
-### #is_/same_as :: [Ostsiedlung.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.secret|Ostsiedlung.secret]] 
 

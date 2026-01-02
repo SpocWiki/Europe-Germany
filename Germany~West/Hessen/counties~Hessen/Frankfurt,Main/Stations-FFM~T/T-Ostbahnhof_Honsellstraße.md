@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Ostbahnhof_Honsellstraße](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Honsellstraße.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Honsellstraße|T-Ostbahnhof_Honsellstraße]] 
 
-### #is_/same_as :: [T-Ostbahnhof_Honsellstraße.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Honsellstraße.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Honsellstraße.public|T-Ostbahnhof_Honsellstraße.public]] 
 
-### #is_/same_as :: [T-Ostbahnhof_Honsellstraße.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Honsellstraße.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Honsellstraße.internal|T-Ostbahnhof_Honsellstraße.internal]] 
 
-### #is_/same_as :: [T-Ostbahnhof_Honsellstraße.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Honsellstraße.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Honsellstraße.protect|T-Ostbahnhof_Honsellstraße.protect]] 
 
-### #is_/same_as :: [T-Ostbahnhof_Honsellstraße.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Honsellstraße.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Honsellstraße.private|T-Ostbahnhof_Honsellstraße.private]] 
 
-### #is_/same_as :: [T-Ostbahnhof_Honsellstraße.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Honsellstraße.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Honsellstraße.personal|T-Ostbahnhof_Honsellstraße.personal]] 
 
-### #is_/same_as :: [T-Ostbahnhof_Honsellstraße.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Honsellstraße.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Honsellstraße.secret|T-Ostbahnhof_Honsellstraße.secret]] 
 

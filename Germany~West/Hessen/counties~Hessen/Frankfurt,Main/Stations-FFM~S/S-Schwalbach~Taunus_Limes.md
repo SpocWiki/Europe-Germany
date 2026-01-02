@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Schwalbach~Taunus_Limes](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Schwalbach~Taunus_Limes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Schwalbach~Taunus_Limes|S-Schwalbach~Taunus_Limes]] 
 
-### #is_/same_as :: [S-Schwalbach~Taunus_Limes.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Schwalbach~Taunus_Limes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Schwalbach~Taunus_Limes.public|S-Schwalbach~Taunus_Limes.public]] 
 
-### #is_/same_as :: [S-Schwalbach~Taunus_Limes.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Schwalbach~Taunus_Limes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Schwalbach~Taunus_Limes.internal|S-Schwalbach~Taunus_Limes.internal]] 
 
-### #is_/same_as :: [S-Schwalbach~Taunus_Limes.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Schwalbach~Taunus_Limes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Schwalbach~Taunus_Limes.protect|S-Schwalbach~Taunus_Limes.protect]] 
 
-### #is_/same_as :: [S-Schwalbach~Taunus_Limes.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Schwalbach~Taunus_Limes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Schwalbach~Taunus_Limes.private|S-Schwalbach~Taunus_Limes.private]] 
 
-### #is_/same_as :: [S-Schwalbach~Taunus_Limes.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Schwalbach~Taunus_Limes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Schwalbach~Taunus_Limes.personal|S-Schwalbach~Taunus_Limes.personal]] 
 
-### #is_/same_as :: [S-Schwalbach~Taunus_Limes.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Schwalbach~Taunus_Limes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Schwalbach~Taunus_Limes.secret|S-Schwalbach~Taunus_Limes.secret]] 
 

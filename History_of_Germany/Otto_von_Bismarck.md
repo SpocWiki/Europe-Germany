@@ -254,17 +254,17 @@ ISNI: 0000000121010812
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Otto_von_Bismarck](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Otto_von_Bismarck.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Otto_von_Bismarck|Otto_von_Bismarck]] 
 
-### #is_/same_as :: [Otto_von_Bismarck.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Otto_von_Bismarck.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Otto_von_Bismarck.public|Otto_von_Bismarck.public]] 
 
-### #is_/same_as :: [Otto_von_Bismarck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Otto_von_Bismarck.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Otto_von_Bismarck.internal|Otto_von_Bismarck.internal]] 
 
-### #is_/same_as :: [Otto_von_Bismarck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Otto_von_Bismarck.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Otto_von_Bismarck.protect|Otto_von_Bismarck.protect]] 
 
-### #is_/same_as :: [Otto_von_Bismarck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Otto_von_Bismarck.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Otto_von_Bismarck.private|Otto_von_Bismarck.private]] 
 
-### #is_/same_as :: [Otto_von_Bismarck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Otto_von_Bismarck.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Otto_von_Bismarck.personal|Otto_von_Bismarck.personal]] 
 
-### #is_/same_as :: [Otto_von_Bismarck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Otto_von_Bismarck.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Otto_von_Bismarck.secret|Otto_von_Bismarck.secret]] 
 

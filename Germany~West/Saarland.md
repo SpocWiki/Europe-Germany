@@ -168,17 +168,17 @@ Capital :: [[Saarbruecken]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saarland](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland|Saarland]] 
 
-### #is_/same_as :: [Saarland.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland.public|Saarland.public]] 
 
-### #is_/same_as :: [Saarland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland.internal|Saarland.internal]] 
 
-### #is_/same_as :: [Saarland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland.protect|Saarland.protect]] 
 
-### #is_/same_as :: [Saarland.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland.private|Saarland.private]] 
 
-### #is_/same_as :: [Saarland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland.personal|Saarland.personal]] 
 
-### #is_/same_as :: [Saarland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland.secret|Saarland.secret]] 
 

@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neustadt~Rübenberge](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Neustadt~Rübenbg/boroughs~Neustadt~Rübenbg/Neustadt~Rübenberge.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Neustadt~Rübenbg/boroughs~Neustadt~Rübenbg/Neustadt~Rübenberge|Neustadt~Rübenberge]] 
 
-### #is_/same_as :: [Neustadt~Rübenberge.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Neustadt~Rübenbg/boroughs~Neustadt~Rübenbg/Neustadt~Rübenberge.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Neustadt~Rübenbg/boroughs~Neustadt~Rübenbg/Neustadt~Rübenberge.public|Neustadt~Rübenberge.public]] 
 
-### #is_/same_as :: [Neustadt~Rübenberge.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Neustadt~Rübenbg/boroughs~Neustadt~Rübenbg/Neustadt~Rübenberge.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Neustadt~Rübenbg/boroughs~Neustadt~Rübenbg/Neustadt~Rübenberge.internal|Neustadt~Rübenberge.internal]] 
 
-### #is_/same_as :: [Neustadt~Rübenberge.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Neustadt~Rübenbg/boroughs~Neustadt~Rübenbg/Neustadt~Rübenberge.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Neustadt~Rübenbg/boroughs~Neustadt~Rübenbg/Neustadt~Rübenberge.protect|Neustadt~Rübenberge.protect]] 
 
-### #is_/same_as :: [Neustadt~Rübenberge.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Neustadt~Rübenbg/boroughs~Neustadt~Rübenbg/Neustadt~Rübenberge.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Neustadt~Rübenbg/boroughs~Neustadt~Rübenbg/Neustadt~Rübenberge.private|Neustadt~Rübenberge.private]] 
 
-### #is_/same_as :: [Neustadt~Rübenberge.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Neustadt~Rübenbg/boroughs~Neustadt~Rübenbg/Neustadt~Rübenberge.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Neustadt~Rübenbg/boroughs~Neustadt~Rübenbg/Neustadt~Rübenberge.personal|Neustadt~Rübenberge.personal]] 
 
-### #is_/same_as :: [Neustadt~Rübenberge.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Neustadt~Rübenbg/boroughs~Neustadt~Rübenbg/Neustadt~Rübenberge.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Neustadt~Rübenbg/boroughs~Neustadt~Rübenbg/Neustadt~Rübenberge.secret|Neustadt~Rübenberge.secret]] 
 

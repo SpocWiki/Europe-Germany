@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lorsbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach|Lorsbach]] 
 
-### #is_/same_as :: [Lorsbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach.public|Lorsbach.public]] 
 
-### #is_/same_as :: [Lorsbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach.internal|Lorsbach.internal]] 
 
-### #is_/same_as :: [Lorsbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach.protect|Lorsbach.protect]] 
 
-### #is_/same_as :: [Lorsbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach.private|Lorsbach.private]] 
 
-### #is_/same_as :: [Lorsbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach.personal|Lorsbach.personal]] 
 
-### #is_/same_as :: [Lorsbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach.secret|Lorsbach.secret]] 
 

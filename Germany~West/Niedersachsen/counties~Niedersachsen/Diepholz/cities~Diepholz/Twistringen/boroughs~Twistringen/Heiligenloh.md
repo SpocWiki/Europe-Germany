@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heiligenloh](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Twistringen/boroughs~Twistringen/Heiligenloh.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Twistringen/boroughs~Twistringen/Heiligenloh|Heiligenloh]] 
 
-### #is_/same_as :: [Heiligenloh.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Twistringen/boroughs~Twistringen/Heiligenloh.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Twistringen/boroughs~Twistringen/Heiligenloh.public|Heiligenloh.public]] 
 
-### #is_/same_as :: [Heiligenloh.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Twistringen/boroughs~Twistringen/Heiligenloh.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Twistringen/boroughs~Twistringen/Heiligenloh.internal|Heiligenloh.internal]] 
 
-### #is_/same_as :: [Heiligenloh.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Twistringen/boroughs~Twistringen/Heiligenloh.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Twistringen/boroughs~Twistringen/Heiligenloh.protect|Heiligenloh.protect]] 
 
-### #is_/same_as :: [Heiligenloh.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Twistringen/boroughs~Twistringen/Heiligenloh.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Twistringen/boroughs~Twistringen/Heiligenloh.private|Heiligenloh.private]] 
 
-### #is_/same_as :: [Heiligenloh.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Twistringen/boroughs~Twistringen/Heiligenloh.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Twistringen/boroughs~Twistringen/Heiligenloh.personal|Heiligenloh.personal]] 
 
-### #is_/same_as :: [Heiligenloh.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Twistringen/boroughs~Twistringen/Heiligenloh.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Twistringen/boroughs~Twistringen/Heiligenloh.secret|Heiligenloh.secret]] 
 

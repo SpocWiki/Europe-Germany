@@ -41,17 +41,17 @@ Gartenreich Dessau-Wörlitz (2000)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dessau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Dessau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Dessau|Dessau]] 
 
-### #is_/same_as :: [Dessau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Dessau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Dessau.public|Dessau.public]] 
 
-### #is_/same_as :: [Dessau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Dessau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Dessau.internal|Dessau.internal]] 
 
-### #is_/same_as :: [Dessau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Dessau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Dessau.protect|Dessau.protect]] 
 
-### #is_/same_as :: [Dessau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Dessau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Dessau.private|Dessau.private]] 
 
-### #is_/same_as :: [Dessau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Dessau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Dessau.personal|Dessau.personal]] 
 
-### #is_/same_as :: [Dessau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Dessau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Dessau.secret|Dessau.secret]] 
 

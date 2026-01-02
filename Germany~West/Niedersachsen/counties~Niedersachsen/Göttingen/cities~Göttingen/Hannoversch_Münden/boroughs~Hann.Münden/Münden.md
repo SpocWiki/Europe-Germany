@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Münden](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden/boroughs~Hann.Münden/Münden.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden/boroughs~Hann.Münden/Münden|Münden]] 
 
-### #is_/same_as :: [Münden.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden/boroughs~Hann.Münden/Münden.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden/boroughs~Hann.Münden/Münden.public|Münden.public]] 
 
-### #is_/same_as :: [Münden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden/boroughs~Hann.Münden/Münden.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden/boroughs~Hann.Münden/Münden.internal|Münden.internal]] 
 
-### #is_/same_as :: [Münden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden/boroughs~Hann.Münden/Münden.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden/boroughs~Hann.Münden/Münden.protect|Münden.protect]] 
 
-### #is_/same_as :: [Münden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden/boroughs~Hann.Münden/Münden.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden/boroughs~Hann.Münden/Münden.private|Münden.private]] 
 
-### #is_/same_as :: [Münden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden/boroughs~Hann.Münden/Münden.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden/boroughs~Hann.Münden/Münden.personal|Münden.personal]] 
 
-### #is_/same_as :: [Münden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden/boroughs~Hann.Münden/Münden.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Hannoversch_Münden/boroughs~Hann.Münden/Münden.secret|Münden.secret]] 
 

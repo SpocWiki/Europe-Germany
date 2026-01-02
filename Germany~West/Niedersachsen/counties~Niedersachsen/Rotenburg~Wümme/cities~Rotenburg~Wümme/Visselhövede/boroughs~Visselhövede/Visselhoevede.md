@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Visselhoevede](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Visselhövede/boroughs~Visselhövede/Visselhoevede.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Visselhövede/boroughs~Visselhövede/Visselhoevede|Visselhoevede]] 
 
-### #is_/same_as :: [Visselhoevede.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Visselhövede/boroughs~Visselhövede/Visselhoevede.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Visselhövede/boroughs~Visselhövede/Visselhoevede.public|Visselhoevede.public]] 
 
-### #is_/same_as :: [Visselhoevede.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Visselhövede/boroughs~Visselhövede/Visselhoevede.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Visselhövede/boroughs~Visselhövede/Visselhoevede.internal|Visselhoevede.internal]] 
 
-### #is_/same_as :: [Visselhoevede.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Visselhövede/boroughs~Visselhövede/Visselhoevede.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Visselhövede/boroughs~Visselhövede/Visselhoevede.protect|Visselhoevede.protect]] 
 
-### #is_/same_as :: [Visselhoevede.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Visselhövede/boroughs~Visselhövede/Visselhoevede.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Visselhövede/boroughs~Visselhövede/Visselhoevede.private|Visselhoevede.private]] 
 
-### #is_/same_as :: [Visselhoevede.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Visselhövede/boroughs~Visselhövede/Visselhoevede.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Visselhövede/boroughs~Visselhövede/Visselhoevede.personal|Visselhoevede.personal]] 
 
-### #is_/same_as :: [Visselhoevede.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Visselhövede/boroughs~Visselhövede/Visselhoevede.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Rotenburg~Wümme/cities~Rotenburg~Wümme/Visselhövede/boroughs~Visselhövede/Visselhoevede.secret|Visselhoevede.secret]] 
 

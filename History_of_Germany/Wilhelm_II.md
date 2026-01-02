@@ -212,17 +212,17 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/31679
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wilhelm_II](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II|Wilhelm_II]] 
 
-### #is_/same_as :: [Wilhelm_II.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.public|Wilhelm_II.public]] 
 
-### #is_/same_as :: [Wilhelm_II.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.internal|Wilhelm_II.internal]] 
 
-### #is_/same_as :: [Wilhelm_II.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.protect|Wilhelm_II.protect]] 
 
-### #is_/same_as :: [Wilhelm_II.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.private|Wilhelm_II.private]] 
 
-### #is_/same_as :: [Wilhelm_II.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.personal|Wilhelm_II.personal]] 
 
-### #is_/same_as :: [Wilhelm_II.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.secret|Wilhelm_II.secret]] 
 

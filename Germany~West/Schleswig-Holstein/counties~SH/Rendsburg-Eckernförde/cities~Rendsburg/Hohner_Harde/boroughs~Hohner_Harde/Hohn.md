@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hohn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Hohner_Harde/boroughs~Hohner_Harde/Hohn.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Hohner_Harde/boroughs~Hohner_Harde/Hohn|Hohn]] 
 
-### #is_/same_as :: [Hohn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Hohner_Harde/boroughs~Hohner_Harde/Hohn.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Hohner_Harde/boroughs~Hohner_Harde/Hohn.public|Hohn.public]] 
 
-### #is_/same_as :: [Hohn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Hohner_Harde/boroughs~Hohner_Harde/Hohn.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Hohner_Harde/boroughs~Hohner_Harde/Hohn.internal|Hohn.internal]] 
 
-### #is_/same_as :: [Hohn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Hohner_Harde/boroughs~Hohner_Harde/Hohn.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Hohner_Harde/boroughs~Hohner_Harde/Hohn.protect|Hohn.protect]] 
 
-### #is_/same_as :: [Hohn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Hohner_Harde/boroughs~Hohner_Harde/Hohn.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Hohner_Harde/boroughs~Hohner_Harde/Hohn.private|Hohn.private]] 
 
-### #is_/same_as :: [Hohn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Hohner_Harde/boroughs~Hohner_Harde/Hohn.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Hohner_Harde/boroughs~Hohner_Harde/Hohn.personal|Hohn.personal]] 
 
-### #is_/same_as :: [Hohn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Hohner_Harde/boroughs~Hohner_Harde/Hohn.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Rendsburg-Eckernförde/cities~Rendsburg/Hohner_Harde/boroughs~Hohner_Harde/Hohn.secret|Hohn.secret]] 
 

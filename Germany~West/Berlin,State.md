@@ -44,17 +44,17 @@ Capital :: [[Berlin,State/cities~Berlin/Berlin,City]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Berlin,State](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State|Berlin,State]] 
 
-### #is_/same_as :: [Berlin,State.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State.public|Berlin,State.public]] 
 
-### #is_/same_as :: [Berlin,State.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State.internal|Berlin,State.internal]] 
 
-### #is_/same_as :: [Berlin,State.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State.protect|Berlin,State.protect]] 
 
-### #is_/same_as :: [Berlin,State.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State.private|Berlin,State.private]] 
 
-### #is_/same_as :: [Berlin,State.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State.personal|Berlin,State.personal]] 
 
-### #is_/same_as :: [Berlin,State.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State.secret|Berlin,State.secret]] 
 

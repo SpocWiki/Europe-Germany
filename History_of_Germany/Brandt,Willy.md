@@ -175,17 +175,17 @@ ISNI:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brandt,Willy](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Brandt,Willy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Brandt,Willy|Brandt,Willy]] 
 
-### #is_/same_as :: [Brandt,Willy.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Brandt,Willy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Brandt,Willy.public|Brandt,Willy.public]] 
 
-### #is_/same_as :: [Brandt,Willy.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Brandt,Willy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Brandt,Willy.internal|Brandt,Willy.internal]] 
 
-### #is_/same_as :: [Brandt,Willy.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Brandt,Willy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Brandt,Willy.protect|Brandt,Willy.protect]] 
 
-### #is_/same_as :: [Brandt,Willy.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Brandt,Willy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Brandt,Willy.private|Brandt,Willy.private]] 
 
-### #is_/same_as :: [Brandt,Willy.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Brandt,Willy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Brandt,Willy.personal|Brandt,Willy.personal]] 
 
-### #is_/same_as :: [Brandt,Willy.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Brandt,Willy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Brandt,Willy.secret|Brandt,Willy.secret]] 
 

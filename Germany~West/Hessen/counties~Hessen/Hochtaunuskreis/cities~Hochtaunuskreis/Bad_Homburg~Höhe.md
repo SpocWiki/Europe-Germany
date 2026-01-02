@@ -43,17 +43,17 @@ Saalburg, Limes des Römischen Reiches ( [[Unesco]] Welterbe seit 2005)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bad_Homburg~Höhe](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Bad_Homburg~Höhe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Bad_Homburg~Höhe|Bad_Homburg~Höhe]] 
 
-### #is_/same_as :: [Bad_Homburg~Höhe.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Bad_Homburg~Höhe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Bad_Homburg~Höhe.public|Bad_Homburg~Höhe.public]] 
 
-### #is_/same_as :: [Bad_Homburg~Höhe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Bad_Homburg~Höhe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Bad_Homburg~Höhe.internal|Bad_Homburg~Höhe.internal]] 
 
-### #is_/same_as :: [Bad_Homburg~Höhe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Bad_Homburg~Höhe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Bad_Homburg~Höhe.protect|Bad_Homburg~Höhe.protect]] 
 
-### #is_/same_as :: [Bad_Homburg~Höhe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Bad_Homburg~Höhe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Bad_Homburg~Höhe.private|Bad_Homburg~Höhe.private]] 
 
-### #is_/same_as :: [Bad_Homburg~Höhe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Bad_Homburg~Höhe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Bad_Homburg~Höhe.personal|Bad_Homburg~Höhe.personal]] 
 
-### #is_/same_as :: [Bad_Homburg~Höhe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Bad_Homburg~Höhe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Bad_Homburg~Höhe.secret|Bad_Homburg~Höhe.secret]] 
 

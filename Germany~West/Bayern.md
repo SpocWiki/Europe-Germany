@@ -328,17 +328,17 @@ Capital ::  [[Bayern/counties~Bayern/München,County/City/München,City]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bayern](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern|Bayern]] 
 
-### #is_/same_as :: [Bayern.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.public|Bayern.public]] 
 
-### #is_/same_as :: [Bayern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.internal|Bayern.internal]] 
 
-### #is_/same_as :: [Bayern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.protect|Bayern.protect]] 
 
-### #is_/same_as :: [Bayern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.private|Bayern.private]] 
 
-### #is_/same_as :: [Bayern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.personal|Bayern.personal]] 
 
-### #is_/same_as :: [Bayern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.secret|Bayern.secret]] 
 

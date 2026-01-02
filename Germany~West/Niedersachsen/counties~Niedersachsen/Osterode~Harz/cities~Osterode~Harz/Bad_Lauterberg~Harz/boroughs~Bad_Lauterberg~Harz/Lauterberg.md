@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lauterberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Lauterberg~Harz/boroughs~Bad_Lauterberg~Harz/Lauterberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Lauterberg~Harz/boroughs~Bad_Lauterberg~Harz/Lauterberg|Lauterberg]] 
 
-### #is_/same_as :: [Lauterberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Lauterberg~Harz/boroughs~Bad_Lauterberg~Harz/Lauterberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Lauterberg~Harz/boroughs~Bad_Lauterberg~Harz/Lauterberg.public|Lauterberg.public]] 
 
-### #is_/same_as :: [Lauterberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Lauterberg~Harz/boroughs~Bad_Lauterberg~Harz/Lauterberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Lauterberg~Harz/boroughs~Bad_Lauterberg~Harz/Lauterberg.internal|Lauterberg.internal]] 
 
-### #is_/same_as :: [Lauterberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Lauterberg~Harz/boroughs~Bad_Lauterberg~Harz/Lauterberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Lauterberg~Harz/boroughs~Bad_Lauterberg~Harz/Lauterberg.protect|Lauterberg.protect]] 
 
-### #is_/same_as :: [Lauterberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Lauterberg~Harz/boroughs~Bad_Lauterberg~Harz/Lauterberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Lauterberg~Harz/boroughs~Bad_Lauterberg~Harz/Lauterberg.private|Lauterberg.private]] 
 
-### #is_/same_as :: [Lauterberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Lauterberg~Harz/boroughs~Bad_Lauterberg~Harz/Lauterberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Lauterberg~Harz/boroughs~Bad_Lauterberg~Harz/Lauterberg.personal|Lauterberg.personal]] 
 
-### #is_/same_as :: [Lauterberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Lauterberg~Harz/boroughs~Bad_Lauterberg~Harz/Lauterberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Lauterberg~Harz/boroughs~Bad_Lauterberg~Harz/Lauterberg.secret|Lauterberg.secret]] 
 

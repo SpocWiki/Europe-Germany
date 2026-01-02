@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Neu-Isenburg_Stadtgrenze](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Neu-Isenburg_Stadtgrenze.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Neu-Isenburg_Stadtgrenze|T-Neu-Isenburg_Stadtgrenze]] 
 
-### #is_/same_as :: [T-Neu-Isenburg_Stadtgrenze.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Neu-Isenburg_Stadtgrenze.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Neu-Isenburg_Stadtgrenze.public|T-Neu-Isenburg_Stadtgrenze.public]] 
 
-### #is_/same_as :: [T-Neu-Isenburg_Stadtgrenze.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Neu-Isenburg_Stadtgrenze.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Neu-Isenburg_Stadtgrenze.internal|T-Neu-Isenburg_Stadtgrenze.internal]] 
 
-### #is_/same_as :: [T-Neu-Isenburg_Stadtgrenze.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Neu-Isenburg_Stadtgrenze.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Neu-Isenburg_Stadtgrenze.protect|T-Neu-Isenburg_Stadtgrenze.protect]] 
 
-### #is_/same_as :: [T-Neu-Isenburg_Stadtgrenze.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Neu-Isenburg_Stadtgrenze.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Neu-Isenburg_Stadtgrenze.private|T-Neu-Isenburg_Stadtgrenze.private]] 
 
-### #is_/same_as :: [T-Neu-Isenburg_Stadtgrenze.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Neu-Isenburg_Stadtgrenze.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Neu-Isenburg_Stadtgrenze.personal|T-Neu-Isenburg_Stadtgrenze.personal]] 
 
-### #is_/same_as :: [T-Neu-Isenburg_Stadtgrenze.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Neu-Isenburg_Stadtgrenze.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Neu-Isenburg_Stadtgrenze.secret|T-Neu-Isenburg_Stadtgrenze.secret]] 
 

@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ober-Kaufungen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Kaufungen/boroughs~Kaufungen/Ober-Kaufungen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Kaufungen/boroughs~Kaufungen/Ober-Kaufungen|Ober-Kaufungen]] 
 
-### #is_/same_as :: [Ober-Kaufungen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Kaufungen/boroughs~Kaufungen/Ober-Kaufungen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Kaufungen/boroughs~Kaufungen/Ober-Kaufungen.public|Ober-Kaufungen.public]] 
 
-### #is_/same_as :: [Ober-Kaufungen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Kaufungen/boroughs~Kaufungen/Ober-Kaufungen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Kaufungen/boroughs~Kaufungen/Ober-Kaufungen.internal|Ober-Kaufungen.internal]] 
 
-### #is_/same_as :: [Ober-Kaufungen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Kaufungen/boroughs~Kaufungen/Ober-Kaufungen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Kaufungen/boroughs~Kaufungen/Ober-Kaufungen.protect|Ober-Kaufungen.protect]] 
 
-### #is_/same_as :: [Ober-Kaufungen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Kaufungen/boroughs~Kaufungen/Ober-Kaufungen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Kaufungen/boroughs~Kaufungen/Ober-Kaufungen.private|Ober-Kaufungen.private]] 
 
-### #is_/same_as :: [Ober-Kaufungen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Kaufungen/boroughs~Kaufungen/Ober-Kaufungen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Kaufungen/boroughs~Kaufungen/Ober-Kaufungen.personal|Ober-Kaufungen.personal]] 
 
-### #is_/same_as :: [Ober-Kaufungen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Kaufungen/boroughs~Kaufungen/Ober-Kaufungen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-Kreis/cities~Kassel/Kaufungen/boroughs~Kaufungen/Ober-Kaufungen.secret|Ober-Kaufungen.secret]] 
 

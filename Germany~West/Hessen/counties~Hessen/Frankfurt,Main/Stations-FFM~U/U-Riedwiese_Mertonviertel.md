@@ -42,17 +42,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [U-Riedwiese_Mertonviertel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Riedwiese_Mertonviertel.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Riedwiese_Mertonviertel|U-Riedwiese_Mertonviertel]] 
 
-### #is_/same_as :: [U-Riedwiese_Mertonviertel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Riedwiese_Mertonviertel.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Riedwiese_Mertonviertel.public|U-Riedwiese_Mertonviertel.public]] 
 
-### #is_/same_as :: [U-Riedwiese_Mertonviertel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Riedwiese_Mertonviertel.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Riedwiese_Mertonviertel.internal|U-Riedwiese_Mertonviertel.internal]] 
 
-### #is_/same_as :: [U-Riedwiese_Mertonviertel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Riedwiese_Mertonviertel.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Riedwiese_Mertonviertel.protect|U-Riedwiese_Mertonviertel.protect]] 
 
-### #is_/same_as :: [U-Riedwiese_Mertonviertel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Riedwiese_Mertonviertel.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Riedwiese_Mertonviertel.private|U-Riedwiese_Mertonviertel.private]] 
 
-### #is_/same_as :: [U-Riedwiese_Mertonviertel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Riedwiese_Mertonviertel.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Riedwiese_Mertonviertel.personal|U-Riedwiese_Mertonviertel.personal]] 
 
-### #is_/same_as :: [U-Riedwiese_Mertonviertel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Riedwiese_Mertonviertel.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Riedwiese_Mertonviertel.secret|U-Riedwiese_Mertonviertel.secret]] 
 

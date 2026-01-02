@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neu_Isenburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Neu_Isenburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Neu_Isenburg|Neu_Isenburg]] 
 
-### #is_/same_as :: [Neu_Isenburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Neu_Isenburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Neu_Isenburg.public|Neu_Isenburg.public]] 
 
-### #is_/same_as :: [Neu_Isenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Neu_Isenburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Neu_Isenburg.internal|Neu_Isenburg.internal]] 
 
-### #is_/same_as :: [Neu_Isenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Neu_Isenburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Neu_Isenburg.protect|Neu_Isenburg.protect]] 
 
-### #is_/same_as :: [Neu_Isenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Neu_Isenburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Neu_Isenburg.private|Neu_Isenburg.private]] 
 
-### #is_/same_as :: [Neu_Isenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Neu_Isenburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Neu_Isenburg.personal|Neu_Isenburg.personal]] 
 
-### #is_/same_as :: [Neu_Isenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Neu_Isenburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Neu_Isenburg.secret|Neu_Isenburg.secret]] 
 

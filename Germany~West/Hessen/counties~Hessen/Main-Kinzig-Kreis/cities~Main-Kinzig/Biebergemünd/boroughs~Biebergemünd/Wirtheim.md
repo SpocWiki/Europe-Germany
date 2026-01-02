@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wirtheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Biebergemünd/boroughs~Biebergemünd/Wirtheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Biebergemünd/boroughs~Biebergemünd/Wirtheim|Wirtheim]] 
 
-### #is_/same_as :: [Wirtheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Biebergemünd/boroughs~Biebergemünd/Wirtheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Biebergemünd/boroughs~Biebergemünd/Wirtheim.public|Wirtheim.public]] 
 
-### #is_/same_as :: [Wirtheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Biebergemünd/boroughs~Biebergemünd/Wirtheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Biebergemünd/boroughs~Biebergemünd/Wirtheim.internal|Wirtheim.internal]] 
 
-### #is_/same_as :: [Wirtheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Biebergemünd/boroughs~Biebergemünd/Wirtheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Biebergemünd/boroughs~Biebergemünd/Wirtheim.protect|Wirtheim.protect]] 
 
-### #is_/same_as :: [Wirtheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Biebergemünd/boroughs~Biebergemünd/Wirtheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Biebergemünd/boroughs~Biebergemünd/Wirtheim.private|Wirtheim.private]] 
 
-### #is_/same_as :: [Wirtheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Biebergemünd/boroughs~Biebergemünd/Wirtheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Biebergemünd/boroughs~Biebergemünd/Wirtheim.personal|Wirtheim.personal]] 
 
-### #is_/same_as :: [Wirtheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Biebergemünd/boroughs~Biebergemünd/Wirtheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Kinzig-Kreis/cities~Main-Kinzig/Biebergemünd/boroughs~Biebergemünd/Wirtheim.secret|Wirtheim.secret]] 
 

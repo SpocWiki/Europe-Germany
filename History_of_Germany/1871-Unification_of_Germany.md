@@ -41,17 +41,17 @@ coordinate_location: Point(2.120333333 48.803580555)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1871-Unification_of_Germany](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany|1871-Unification_of_Germany]] 
 
-### #is_/same_as :: [1871-Unification_of_Germany.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.public|1871-Unification_of_Germany.public]] 
 
-### #is_/same_as :: [1871-Unification_of_Germany.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.internal|1871-Unification_of_Germany.internal]] 
 
-### #is_/same_as :: [1871-Unification_of_Germany.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.protect|1871-Unification_of_Germany.protect]] 
 
-### #is_/same_as :: [1871-Unification_of_Germany.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.private|1871-Unification_of_Germany.private]] 
 
-### #is_/same_as :: [1871-Unification_of_Germany.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.personal|1871-Unification_of_Germany.personal]] 
 
-### #is_/same_as :: [1871-Unification_of_Germany.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.secret|1871-Unification_of_Germany.secret]] 
 

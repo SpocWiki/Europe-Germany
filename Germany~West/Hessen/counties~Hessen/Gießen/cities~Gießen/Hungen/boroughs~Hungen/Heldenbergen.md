@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heldenbergen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Hungen/boroughs~Hungen/Heldenbergen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Hungen/boroughs~Hungen/Heldenbergen|Heldenbergen]] 
 
-### #is_/same_as :: [Heldenbergen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Hungen/boroughs~Hungen/Heldenbergen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Hungen/boroughs~Hungen/Heldenbergen.public|Heldenbergen.public]] 
 
-### #is_/same_as :: [Heldenbergen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Hungen/boroughs~Hungen/Heldenbergen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Hungen/boroughs~Hungen/Heldenbergen.internal|Heldenbergen.internal]] 
 
-### #is_/same_as :: [Heldenbergen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Hungen/boroughs~Hungen/Heldenbergen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Hungen/boroughs~Hungen/Heldenbergen.protect|Heldenbergen.protect]] 
 
-### #is_/same_as :: [Heldenbergen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Hungen/boroughs~Hungen/Heldenbergen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Hungen/boroughs~Hungen/Heldenbergen.private|Heldenbergen.private]] 
 
-### #is_/same_as :: [Heldenbergen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Hungen/boroughs~Hungen/Heldenbergen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Hungen/boroughs~Hungen/Heldenbergen.personal|Heldenbergen.personal]] 
 
-### #is_/same_as :: [Heldenbergen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Hungen/boroughs~Hungen/Heldenbergen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Gießen/cities~Gießen/Hungen/boroughs~Hungen/Heldenbergen.secret|Heldenbergen.secret]] 
 

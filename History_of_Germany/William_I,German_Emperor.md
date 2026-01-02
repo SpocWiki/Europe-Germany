@@ -130,17 +130,17 @@ Commons_gallery: Wilhelm I., Deutscher Kaiser
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [William_I,German_Emperor](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor|William_I,German_Emperor]] 
 
-### #is_/same_as :: [William_I,German_Emperor.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.public|William_I,German_Emperor.public]] 
 
-### #is_/same_as :: [William_I,German_Emperor.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.internal|William_I,German_Emperor.internal]] 
 
-### #is_/same_as :: [William_I,German_Emperor.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.protect|William_I,German_Emperor.protect]] 
 
-### #is_/same_as :: [William_I,German_Emperor.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.private|William_I,German_Emperor.private]] 
 
-### #is_/same_as :: [William_I,German_Emperor.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.personal|William_I,German_Emperor.personal]] 
 
-### #is_/same_as :: [William_I,German_Emperor.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.secret|William_I,German_Emperor.secret]] 
 

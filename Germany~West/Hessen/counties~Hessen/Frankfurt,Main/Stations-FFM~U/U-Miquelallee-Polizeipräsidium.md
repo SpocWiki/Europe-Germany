@@ -41,17 +41,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [U-Miquelallee-Polizeipräsidium](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Miquelallee-Polizeipräsidium.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Miquelallee-Polizeipräsidium|U-Miquelallee-Polizeipräsidium]] 
 
-### #is_/same_as :: [U-Miquelallee-Polizeipräsidium.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Miquelallee-Polizeipräsidium.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Miquelallee-Polizeipräsidium.public|U-Miquelallee-Polizeipräsidium.public]] 
 
-### #is_/same_as :: [U-Miquelallee-Polizeipräsidium.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Miquelallee-Polizeipräsidium.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Miquelallee-Polizeipräsidium.internal|U-Miquelallee-Polizeipräsidium.internal]] 
 
-### #is_/same_as :: [U-Miquelallee-Polizeipräsidium.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Miquelallee-Polizeipräsidium.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Miquelallee-Polizeipräsidium.protect|U-Miquelallee-Polizeipräsidium.protect]] 
 
-### #is_/same_as :: [U-Miquelallee-Polizeipräsidium.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Miquelallee-Polizeipräsidium.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Miquelallee-Polizeipräsidium.private|U-Miquelallee-Polizeipräsidium.private]] 
 
-### #is_/same_as :: [U-Miquelallee-Polizeipräsidium.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Miquelallee-Polizeipräsidium.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Miquelallee-Polizeipräsidium.personal|U-Miquelallee-Polizeipräsidium.personal]] 
 
-### #is_/same_as :: [U-Miquelallee-Polizeipräsidium.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Miquelallee-Polizeipräsidium.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Miquelallee-Polizeipräsidium.secret|U-Miquelallee-Polizeipräsidium.secret]] 
 

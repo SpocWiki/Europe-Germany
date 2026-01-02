@@ -41,17 +41,17 @@ Wolfram_Language_entity_code: Entity["HistoricalEvent", "GermanReuinification"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [German_Reunification](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification|German_Reunification]] 
 
-### #is_/same_as :: [German_Reunification.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.public|German_Reunification.public]] 
 
-### #is_/same_as :: [German_Reunification.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.internal|German_Reunification.internal]] 
 
-### #is_/same_as :: [German_Reunification.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.protect|German_Reunification.protect]] 
 
-### #is_/same_as :: [German_Reunification.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.private|German_Reunification.private]] 
 
-### #is_/same_as :: [German_Reunification.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.personal|German_Reunification.personal]] 
 
-### #is_/same_as :: [German_Reunification.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.secret|German_Reunification.secret]] 
 

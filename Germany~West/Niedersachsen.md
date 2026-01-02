@@ -234,17 +234,17 @@ Capital ::  [[Niedersachsen/counties~Niedersachsen/RegionHannover/cities~RegionH
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Niedersachsen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen|Niedersachsen]] 
 
-### #is_/same_as :: [Niedersachsen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.public|Niedersachsen.public]] 
 
-### #is_/same_as :: [Niedersachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.internal|Niedersachsen.internal]] 
 
-### #is_/same_as :: [Niedersachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.protect|Niedersachsen.protect]] 
 
-### #is_/same_as :: [Niedersachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.private|Niedersachsen.private]] 
 
-### #is_/same_as :: [Niedersachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.personal|Niedersachsen.personal]] 
 
-### #is_/same_as :: [Niedersachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.secret|Niedersachsen.secret]] 
 

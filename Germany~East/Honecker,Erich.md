@@ -147,17 +147,17 @@ Krugosvet_article: istoriya/HONEKKER_ERIH.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Honecker,Erich](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Honecker,Erich.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Honecker,Erich|Honecker,Erich]] 
 
-### #is_/same_as :: [Honecker,Erich.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Honecker,Erich.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Honecker,Erich.public|Honecker,Erich.public]] 
 
-### #is_/same_as :: [Honecker,Erich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Honecker,Erich.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Honecker,Erich.internal|Honecker,Erich.internal]] 
 
-### #is_/same_as :: [Honecker,Erich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Honecker,Erich.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Honecker,Erich.protect|Honecker,Erich.protect]] 
 
-### #is_/same_as :: [Honecker,Erich.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Honecker,Erich.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Honecker,Erich.private|Honecker,Erich.private]] 
 
-### #is_/same_as :: [Honecker,Erich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Honecker,Erich.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Honecker,Erich.personal|Honecker,Erich.personal]] 
 
-### #is_/same_as :: [Honecker,Erich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Honecker,Erich.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Honecker,Erich.secret|Honecker,Erich.secret]] 
 

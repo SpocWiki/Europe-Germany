@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heiligenstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Heilbad_Heiligenstadt/City/Heiligenstadt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Heilbad_Heiligenstadt/City/Heiligenstadt|Heiligenstadt]] 
 
-### #is_/same_as :: [Heiligenstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Heilbad_Heiligenstadt/City/Heiligenstadt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Heilbad_Heiligenstadt/City/Heiligenstadt.public|Heiligenstadt.public]] 
 
-### #is_/same_as :: [Heiligenstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Heilbad_Heiligenstadt/City/Heiligenstadt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Heilbad_Heiligenstadt/City/Heiligenstadt.internal|Heiligenstadt.internal]] 
 
-### #is_/same_as :: [Heiligenstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Heilbad_Heiligenstadt/City/Heiligenstadt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Heilbad_Heiligenstadt/City/Heiligenstadt.protect|Heiligenstadt.protect]] 
 
-### #is_/same_as :: [Heiligenstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Heilbad_Heiligenstadt/City/Heiligenstadt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Heilbad_Heiligenstadt/City/Heiligenstadt.private|Heiligenstadt.private]] 
 
-### #is_/same_as :: [Heiligenstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Heilbad_Heiligenstadt/City/Heiligenstadt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Heilbad_Heiligenstadt/City/Heiligenstadt.personal|Heiligenstadt.personal]] 
 
-### #is_/same_as :: [Heiligenstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Heilbad_Heiligenstadt/City/Heiligenstadt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Eichsfeld/cities~Eichsfeld/Heilbad_Heiligenstadt/City/Heiligenstadt.secret|Heiligenstadt.secret]] 
 

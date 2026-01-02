@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lübberstedt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Lübberstedt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Lübberstedt|Lübberstedt]] 
 
-### #is_/same_as :: [Lübberstedt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Lübberstedt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Lübberstedt.public|Lübberstedt.public]] 
 
-### #is_/same_as :: [Lübberstedt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Lübberstedt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Lübberstedt.internal|Lübberstedt.internal]] 
 
-### #is_/same_as :: [Lübberstedt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Lübberstedt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Lübberstedt.protect|Lübberstedt.protect]] 
 
-### #is_/same_as :: [Lübberstedt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Lübberstedt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Lübberstedt.private|Lübberstedt.private]] 
 
-### #is_/same_as :: [Lübberstedt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Lübberstedt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Lübberstedt.personal|Lübberstedt.personal]] 
 
-### #is_/same_as :: [Lübberstedt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Lübberstedt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterholz/cities~Osterholz/Hambergen/boroughs~Hambergen/Lübberstedt.secret|Lübberstedt.secret]] 
 

@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Falkenhagen,Mark](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Seelow-Land/boroughs~Seelow-Land/Falkenhagen,Mark.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Seelow-Land/boroughs~Seelow-Land/Falkenhagen,Mark|Falkenhagen,Mark]] 
 
-### #is_/same_as :: [Falkenhagen,Mark.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Seelow-Land/boroughs~Seelow-Land/Falkenhagen,Mark.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Seelow-Land/boroughs~Seelow-Land/Falkenhagen,Mark.public|Falkenhagen,Mark.public]] 
 
-### #is_/same_as :: [Falkenhagen,Mark.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Seelow-Land/boroughs~Seelow-Land/Falkenhagen,Mark.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Seelow-Land/boroughs~Seelow-Land/Falkenhagen,Mark.internal|Falkenhagen,Mark.internal]] 
 
-### #is_/same_as :: [Falkenhagen,Mark.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Seelow-Land/boroughs~Seelow-Land/Falkenhagen,Mark.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Seelow-Land/boroughs~Seelow-Land/Falkenhagen,Mark.protect|Falkenhagen,Mark.protect]] 
 
-### #is_/same_as :: [Falkenhagen,Mark.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Seelow-Land/boroughs~Seelow-Land/Falkenhagen,Mark.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Seelow-Land/boroughs~Seelow-Land/Falkenhagen,Mark.private|Falkenhagen,Mark.private]] 
 
-### #is_/same_as :: [Falkenhagen,Mark.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Seelow-Land/boroughs~Seelow-Land/Falkenhagen,Mark.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Seelow-Land/boroughs~Seelow-Land/Falkenhagen,Mark.personal|Falkenhagen,Mark.personal]] 
 
-### #is_/same_as :: [Falkenhagen,Mark.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Seelow-Land/boroughs~Seelow-Land/Falkenhagen,Mark.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Seelow-Land/boroughs~Seelow-Land/Falkenhagen,Mark.secret|Falkenhagen,Mark.secret]] 
 

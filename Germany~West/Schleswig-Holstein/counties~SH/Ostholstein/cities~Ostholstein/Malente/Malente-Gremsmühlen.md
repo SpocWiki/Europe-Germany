@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Malente-Gremsmühlen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Malente/Malente-Gremsmühlen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Malente/Malente-Gremsmühlen|Malente-Gremsmühlen]] 
 
-### #is_/same_as :: [Malente-Gremsmühlen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Malente/Malente-Gremsmühlen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Malente/Malente-Gremsmühlen.public|Malente-Gremsmühlen.public]] 
 
-### #is_/same_as :: [Malente-Gremsmühlen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Malente/Malente-Gremsmühlen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Malente/Malente-Gremsmühlen.internal|Malente-Gremsmühlen.internal]] 
 
-### #is_/same_as :: [Malente-Gremsmühlen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Malente/Malente-Gremsmühlen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Malente/Malente-Gremsmühlen.protect|Malente-Gremsmühlen.protect]] 
 
-### #is_/same_as :: [Malente-Gremsmühlen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Malente/Malente-Gremsmühlen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Malente/Malente-Gremsmühlen.private|Malente-Gremsmühlen.private]] 
 
-### #is_/same_as :: [Malente-Gremsmühlen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Malente/Malente-Gremsmühlen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Malente/Malente-Gremsmühlen.personal|Malente-Gremsmühlen.personal]] 
 
-### #is_/same_as :: [Malente-Gremsmühlen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Malente/Malente-Gremsmühlen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Malente/Malente-Gremsmühlen.secret|Malente-Gremsmühlen.secret]] 
 

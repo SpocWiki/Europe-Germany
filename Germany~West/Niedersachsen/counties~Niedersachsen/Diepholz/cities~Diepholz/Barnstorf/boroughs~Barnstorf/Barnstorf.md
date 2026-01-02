@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Barnstorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf|Barnstorf]] 
 
-### #is_/same_as :: [Barnstorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.public|Barnstorf.public]] 
 
-### #is_/same_as :: [Barnstorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.internal|Barnstorf.internal]] 
 
-### #is_/same_as :: [Barnstorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.protect|Barnstorf.protect]] 
 
-### #is_/same_as :: [Barnstorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.private|Barnstorf.private]] 
 
-### #is_/same_as :: [Barnstorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.personal|Barnstorf.personal]] 
 
-### #is_/same_as :: [Barnstorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Barnstorf/boroughs~Barnstorf/Barnstorf.secret|Barnstorf.secret]] 
 

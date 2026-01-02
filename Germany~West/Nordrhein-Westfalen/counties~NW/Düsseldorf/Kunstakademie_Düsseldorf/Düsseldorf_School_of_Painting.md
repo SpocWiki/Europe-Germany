@@ -31,17 +31,17 @@ described_at_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Düsseldorf_School_of_Painting](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting|Düsseldorf_School_of_Painting]] 
 
-### #is_/same_as :: [Düsseldorf_School_of_Painting.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.public|Düsseldorf_School_of_Painting.public]] 
 
-### #is_/same_as :: [Düsseldorf_School_of_Painting.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.internal|Düsseldorf_School_of_Painting.internal]] 
 
-### #is_/same_as :: [Düsseldorf_School_of_Painting.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.protect|Düsseldorf_School_of_Painting.protect]] 
 
-### #is_/same_as :: [Düsseldorf_School_of_Painting.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.private|Düsseldorf_School_of_Painting.private]] 
 
-### #is_/same_as :: [Düsseldorf_School_of_Painting.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.personal|Düsseldorf_School_of_Painting.personal]] 
 
-### #is_/same_as :: [Düsseldorf_School_of_Painting.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.secret|Düsseldorf_School_of_Painting.secret]] 
 

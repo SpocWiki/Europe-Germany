@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gornsdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Burkhardtsdorf/boroughs~Burkhardtsdorf/Gornsdorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Burkhardtsdorf/boroughs~Burkhardtsdorf/Gornsdorf|Gornsdorf]] 
 
-### #is_/same_as :: [Gornsdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Burkhardtsdorf/boroughs~Burkhardtsdorf/Gornsdorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Burkhardtsdorf/boroughs~Burkhardtsdorf/Gornsdorf.public|Gornsdorf.public]] 
 
-### #is_/same_as :: [Gornsdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Burkhardtsdorf/boroughs~Burkhardtsdorf/Gornsdorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Burkhardtsdorf/boroughs~Burkhardtsdorf/Gornsdorf.internal|Gornsdorf.internal]] 
 
-### #is_/same_as :: [Gornsdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Burkhardtsdorf/boroughs~Burkhardtsdorf/Gornsdorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Burkhardtsdorf/boroughs~Burkhardtsdorf/Gornsdorf.protect|Gornsdorf.protect]] 
 
-### #is_/same_as :: [Gornsdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Burkhardtsdorf/boroughs~Burkhardtsdorf/Gornsdorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Burkhardtsdorf/boroughs~Burkhardtsdorf/Gornsdorf.private|Gornsdorf.private]] 
 
-### #is_/same_as :: [Gornsdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Burkhardtsdorf/boroughs~Burkhardtsdorf/Gornsdorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Burkhardtsdorf/boroughs~Burkhardtsdorf/Gornsdorf.personal|Gornsdorf.personal]] 
 
-### #is_/same_as :: [Gornsdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Burkhardtsdorf/boroughs~Burkhardtsdorf/Gornsdorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Erzgebirgskreis/cities~Erzgebirgskr/Burkhardtsdorf/boroughs~Burkhardtsdorf/Gornsdorf.secret|Gornsdorf.secret]] 
 

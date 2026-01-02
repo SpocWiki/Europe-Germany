@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [St_Hülfe](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Diepholz-city/boroughs~Diepholz/St_Hülfe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Diepholz-city/boroughs~Diepholz/St_Hülfe|St_Hülfe]] 
 
-### #is_/same_as :: [St_Hülfe.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Diepholz-city/boroughs~Diepholz/St_Hülfe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Diepholz-city/boroughs~Diepholz/St_Hülfe.public|St_Hülfe.public]] 
 
-### #is_/same_as :: [St_Hülfe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Diepholz-city/boroughs~Diepholz/St_Hülfe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Diepholz-city/boroughs~Diepholz/St_Hülfe.internal|St_Hülfe.internal]] 
 
-### #is_/same_as :: [St_Hülfe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Diepholz-city/boroughs~Diepholz/St_Hülfe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Diepholz-city/boroughs~Diepholz/St_Hülfe.protect|St_Hülfe.protect]] 
 
-### #is_/same_as :: [St_Hülfe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Diepholz-city/boroughs~Diepholz/St_Hülfe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Diepholz-city/boroughs~Diepholz/St_Hülfe.private|St_Hülfe.private]] 
 
-### #is_/same_as :: [St_Hülfe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Diepholz-city/boroughs~Diepholz/St_Hülfe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Diepholz-city/boroughs~Diepholz/St_Hülfe.personal|St_Hülfe.personal]] 
 
-### #is_/same_as :: [St_Hülfe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Diepholz-city/boroughs~Diepholz/St_Hülfe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Diepholz-city/boroughs~Diepholz/St_Hülfe.secret|St_Hülfe.secret]] 
 

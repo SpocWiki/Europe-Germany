@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Inselberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Tabarz_Thür.Wald/City/Inselberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Tabarz_Thür.Wald/City/Inselberg|Inselberg]] 
 
-### #is_/same_as :: [Inselberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Tabarz_Thür.Wald/City/Inselberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Tabarz_Thür.Wald/City/Inselberg.public|Inselberg.public]] 
 
-### #is_/same_as :: [Inselberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Tabarz_Thür.Wald/City/Inselberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Tabarz_Thür.Wald/City/Inselberg.internal|Inselberg.internal]] 
 
-### #is_/same_as :: [Inselberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Tabarz_Thür.Wald/City/Inselberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Tabarz_Thür.Wald/City/Inselberg.protect|Inselberg.protect]] 
 
-### #is_/same_as :: [Inselberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Tabarz_Thür.Wald/City/Inselberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Tabarz_Thür.Wald/City/Inselberg.private|Inselberg.private]] 
 
-### #is_/same_as :: [Inselberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Tabarz_Thür.Wald/City/Inselberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Tabarz_Thür.Wald/City/Inselberg.personal|Inselberg.personal]] 
 
-### #is_/same_as :: [Inselberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Tabarz_Thür.Wald/City/Inselberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Gotha/cities~Gotha/Tabarz_Thür.Wald/City/Inselberg.secret|Inselberg.secret]] 
 

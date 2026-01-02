@@ -42,17 +42,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [U-Neuer_jüdischer_Friedhof](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Neuer_jüdischer_Friedhof.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Neuer_jüdischer_Friedhof|U-Neuer_jüdischer_Friedhof]] 
 
-### #is_/same_as :: [U-Neuer_jüdischer_Friedhof.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Neuer_jüdischer_Friedhof.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Neuer_jüdischer_Friedhof.public|U-Neuer_jüdischer_Friedhof.public]] 
 
-### #is_/same_as :: [U-Neuer_jüdischer_Friedhof.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Neuer_jüdischer_Friedhof.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Neuer_jüdischer_Friedhof.internal|U-Neuer_jüdischer_Friedhof.internal]] 
 
-### #is_/same_as :: [U-Neuer_jüdischer_Friedhof.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Neuer_jüdischer_Friedhof.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Neuer_jüdischer_Friedhof.protect|U-Neuer_jüdischer_Friedhof.protect]] 
 
-### #is_/same_as :: [U-Neuer_jüdischer_Friedhof.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Neuer_jüdischer_Friedhof.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Neuer_jüdischer_Friedhof.private|U-Neuer_jüdischer_Friedhof.private]] 
 
-### #is_/same_as :: [U-Neuer_jüdischer_Friedhof.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Neuer_jüdischer_Friedhof.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Neuer_jüdischer_Friedhof.personal|U-Neuer_jüdischer_Friedhof.personal]] 
 
-### #is_/same_as :: [U-Neuer_jüdischer_Friedhof.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Neuer_jüdischer_Friedhof.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Neuer_jüdischer_Friedhof.secret|U-Neuer_jüdischer_Friedhof.secret]] 
 

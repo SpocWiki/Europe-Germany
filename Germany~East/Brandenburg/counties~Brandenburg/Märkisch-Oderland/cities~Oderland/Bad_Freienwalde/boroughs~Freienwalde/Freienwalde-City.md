@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Freienwalde-City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Bad_Freienwalde/boroughs~Freienwalde/Freienwalde-City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Bad_Freienwalde/boroughs~Freienwalde/Freienwalde-City|Freienwalde-City]] 
 
-### #is_/same_as :: [Freienwalde-City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Bad_Freienwalde/boroughs~Freienwalde/Freienwalde-City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Bad_Freienwalde/boroughs~Freienwalde/Freienwalde-City.public|Freienwalde-City.public]] 
 
-### #is_/same_as :: [Freienwalde-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Bad_Freienwalde/boroughs~Freienwalde/Freienwalde-City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Bad_Freienwalde/boroughs~Freienwalde/Freienwalde-City.internal|Freienwalde-City.internal]] 
 
-### #is_/same_as :: [Freienwalde-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Bad_Freienwalde/boroughs~Freienwalde/Freienwalde-City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Bad_Freienwalde/boroughs~Freienwalde/Freienwalde-City.protect|Freienwalde-City.protect]] 
 
-### #is_/same_as :: [Freienwalde-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Bad_Freienwalde/boroughs~Freienwalde/Freienwalde-City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Bad_Freienwalde/boroughs~Freienwalde/Freienwalde-City.private|Freienwalde-City.private]] 
 
-### #is_/same_as :: [Freienwalde-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Bad_Freienwalde/boroughs~Freienwalde/Freienwalde-City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Bad_Freienwalde/boroughs~Freienwalde/Freienwalde-City.personal|Freienwalde-City.personal]] 
 
-### #is_/same_as :: [Freienwalde-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Bad_Freienwalde/boroughs~Freienwalde/Freienwalde-City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Bad_Freienwalde/boroughs~Freienwalde/Freienwalde-City.secret|Freienwalde-City.secret]] 
 

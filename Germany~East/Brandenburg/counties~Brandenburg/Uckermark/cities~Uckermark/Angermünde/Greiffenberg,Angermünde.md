@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Greiffenberg,Angermünde](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Angermünde/Greiffenberg,Angermünde.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Angermünde/Greiffenberg,Angermünde|Greiffenberg,Angermünde]] 
 
-### #is_/same_as :: [Greiffenberg,Angermünde.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Angermünde/Greiffenberg,Angermünde.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Angermünde/Greiffenberg,Angermünde.public|Greiffenberg,Angermünde.public]] 
 
-### #is_/same_as :: [Greiffenberg,Angermünde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Angermünde/Greiffenberg,Angermünde.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Angermünde/Greiffenberg,Angermünde.internal|Greiffenberg,Angermünde.internal]] 
 
-### #is_/same_as :: [Greiffenberg,Angermünde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Angermünde/Greiffenberg,Angermünde.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Angermünde/Greiffenberg,Angermünde.protect|Greiffenberg,Angermünde.protect]] 
 
-### #is_/same_as :: [Greiffenberg,Angermünde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Angermünde/Greiffenberg,Angermünde.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Angermünde/Greiffenberg,Angermünde.private|Greiffenberg,Angermünde.private]] 
 
-### #is_/same_as :: [Greiffenberg,Angermünde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Angermünde/Greiffenberg,Angermünde.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Angermünde/Greiffenberg,Angermünde.personal|Greiffenberg,Angermünde.personal]] 
 
-### #is_/same_as :: [Greiffenberg,Angermünde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Angermünde/Greiffenberg,Angermünde.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Uckermark/cities~Uckermark/Angermünde/Greiffenberg,Angermünde.secret|Greiffenberg,Angermünde.secret]] 
 

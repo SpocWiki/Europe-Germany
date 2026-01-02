@@ -129,17 +129,17 @@ Krugosvet_article: istoriya/BERLINSKAYA_STENA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Berlin_Wall](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall|Berlin_Wall]] 
 
-### #is_/same_as :: [Berlin_Wall.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.public|Berlin_Wall.public]] 
 
-### #is_/same_as :: [Berlin_Wall.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.internal|Berlin_Wall.internal]] 
 
-### #is_/same_as :: [Berlin_Wall.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.protect|Berlin_Wall.protect]] 
 
-### #is_/same_as :: [Berlin_Wall.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.private|Berlin_Wall.private]] 
 
-### #is_/same_as :: [Berlin_Wall.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.personal|Berlin_Wall.personal]] 
 
-### #is_/same_as :: [Berlin_Wall.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.secret|Berlin_Wall.secret]] 
 

@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gittelde](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Grund~Harz/boroughs~Bad_Grund~Harz/Gittelde.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Grund~Harz/boroughs~Bad_Grund~Harz/Gittelde|Gittelde]] 
 
-### #is_/same_as :: [Gittelde.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Grund~Harz/boroughs~Bad_Grund~Harz/Gittelde.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Grund~Harz/boroughs~Bad_Grund~Harz/Gittelde.public|Gittelde.public]] 
 
-### #is_/same_as :: [Gittelde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Grund~Harz/boroughs~Bad_Grund~Harz/Gittelde.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Grund~Harz/boroughs~Bad_Grund~Harz/Gittelde.internal|Gittelde.internal]] 
 
-### #is_/same_as :: [Gittelde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Grund~Harz/boroughs~Bad_Grund~Harz/Gittelde.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Grund~Harz/boroughs~Bad_Grund~Harz/Gittelde.protect|Gittelde.protect]] 
 
-### #is_/same_as :: [Gittelde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Grund~Harz/boroughs~Bad_Grund~Harz/Gittelde.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Grund~Harz/boroughs~Bad_Grund~Harz/Gittelde.private|Gittelde.private]] 
 
-### #is_/same_as :: [Gittelde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Grund~Harz/boroughs~Bad_Grund~Harz/Gittelde.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Grund~Harz/boroughs~Bad_Grund~Harz/Gittelde.personal|Gittelde.personal]] 
 
-### #is_/same_as :: [Gittelde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Grund~Harz/boroughs~Bad_Grund~Harz/Gittelde.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Osterode~Harz/cities~Osterode~Harz/Bad_Grund~Harz/boroughs~Bad_Grund~Harz/Gittelde.secret|Gittelde.secret]] 
 

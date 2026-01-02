@@ -83,17 +83,17 @@ has_place_continent:: [[Europe]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Germany~West](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West|Germany~West]] 
 
-### #is_/same_as :: [Germany~West.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West.public|Germany~West.public]] 
 
-### #is_/same_as :: [Germany~West.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West.internal|Germany~West.internal]] 
 
-### #is_/same_as :: [Germany~West.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West.protect|Germany~West.protect]] 
 
-### #is_/same_as :: [Germany~West.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West.private|Germany~West.private]] 
 
-### #is_/same_as :: [Germany~West.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West.personal|Germany~West.personal]] 
 
-### #is_/same_as :: [Germany~West.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West.secret|Germany~West.secret]] 
 

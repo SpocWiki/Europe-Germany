@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neukirch~Sachsen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neukirch_Lausitz/City/Neukirch~Sachsen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neukirch_Lausitz/City/Neukirch~Sachsen|Neukirch~Sachsen]] 
 
-### #is_/same_as :: [Neukirch~Sachsen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neukirch_Lausitz/City/Neukirch~Sachsen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neukirch_Lausitz/City/Neukirch~Sachsen.public|Neukirch~Sachsen.public]] 
 
-### #is_/same_as :: [Neukirch~Sachsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neukirch_Lausitz/City/Neukirch~Sachsen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neukirch_Lausitz/City/Neukirch~Sachsen.internal|Neukirch~Sachsen.internal]] 
 
-### #is_/same_as :: [Neukirch~Sachsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neukirch_Lausitz/City/Neukirch~Sachsen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neukirch_Lausitz/City/Neukirch~Sachsen.protect|Neukirch~Sachsen.protect]] 
 
-### #is_/same_as :: [Neukirch~Sachsen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neukirch_Lausitz/City/Neukirch~Sachsen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neukirch_Lausitz/City/Neukirch~Sachsen.private|Neukirch~Sachsen.private]] 
 
-### #is_/same_as :: [Neukirch~Sachsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neukirch_Lausitz/City/Neukirch~Sachsen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neukirch_Lausitz/City/Neukirch~Sachsen.personal|Neukirch~Sachsen.personal]] 
 
-### #is_/same_as :: [Neukirch~Sachsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neukirch_Lausitz/City/Neukirch~Sachsen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Neukirch_Lausitz/City/Neukirch~Sachsen.secret|Neukirch~Sachsen.secret]] 
 

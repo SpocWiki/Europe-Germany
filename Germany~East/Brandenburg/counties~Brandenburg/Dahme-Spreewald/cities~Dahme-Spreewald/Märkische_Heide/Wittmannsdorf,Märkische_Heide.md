@@ -39,17 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wittmannsdorf,Märkische_Heide](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Märkische_Heide/Wittmannsdorf,Märkische_Heide.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Märkische_Heide/Wittmannsdorf,Märkische_Heide|Wittmannsdorf,Märkische_Heide]] 
 
-### #is_/same_as :: [Wittmannsdorf,Märkische_Heide.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Märkische_Heide/Wittmannsdorf,Märkische_Heide.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Märkische_Heide/Wittmannsdorf,Märkische_Heide.public|Wittmannsdorf,Märkische_Heide.public]] 
 
-### #is_/same_as :: [Wittmannsdorf,Märkische_Heide.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Märkische_Heide/Wittmannsdorf,Märkische_Heide.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Märkische_Heide/Wittmannsdorf,Märkische_Heide.internal|Wittmannsdorf,Märkische_Heide.internal]] 
 
-### #is_/same_as :: [Wittmannsdorf,Märkische_Heide.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Märkische_Heide/Wittmannsdorf,Märkische_Heide.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Märkische_Heide/Wittmannsdorf,Märkische_Heide.protect|Wittmannsdorf,Märkische_Heide.protect]] 
 
-### #is_/same_as :: [Wittmannsdorf,Märkische_Heide.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Märkische_Heide/Wittmannsdorf,Märkische_Heide.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Märkische_Heide/Wittmannsdorf,Märkische_Heide.private|Wittmannsdorf,Märkische_Heide.private]] 
 
-### #is_/same_as :: [Wittmannsdorf,Märkische_Heide.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Märkische_Heide/Wittmannsdorf,Märkische_Heide.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Märkische_Heide/Wittmannsdorf,Märkische_Heide.personal|Wittmannsdorf,Märkische_Heide.personal]] 
 
-### #is_/same_as :: [Wittmannsdorf,Märkische_Heide.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Märkische_Heide/Wittmannsdorf,Märkische_Heide.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Dahme-Spreewald/cities~Dahme-Spreewald/Märkische_Heide/Wittmannsdorf,Märkische_Heide.secret|Wittmannsdorf,Märkische_Heide.secret]] 
 

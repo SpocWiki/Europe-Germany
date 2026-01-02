@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Ostbahnhof_Sonnemannstr.](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Sonnemannstr..md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Sonnemannstr.|T-Ostbahnhof_Sonnemannstr.]] 
 
-### #is_/same_as :: [T-Ostbahnhof_Sonnemannstr..public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Sonnemannstr..public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Sonnemannstr..public|T-Ostbahnhof_Sonnemannstr..public]] 
 
-### #is_/same_as :: [T-Ostbahnhof_Sonnemannstr..internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Sonnemannstr..internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Sonnemannstr..internal|T-Ostbahnhof_Sonnemannstr..internal]] 
 
-### #is_/same_as :: [T-Ostbahnhof_Sonnemannstr..protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Sonnemannstr..protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Sonnemannstr..protect|T-Ostbahnhof_Sonnemannstr..protect]] 
 
-### #is_/same_as :: [T-Ostbahnhof_Sonnemannstr..private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Sonnemannstr..private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Sonnemannstr..private|T-Ostbahnhof_Sonnemannstr..private]] 
 
-### #is_/same_as :: [T-Ostbahnhof_Sonnemannstr..personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Sonnemannstr..personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Sonnemannstr..personal|T-Ostbahnhof_Sonnemannstr..personal]] 
 
-### #is_/same_as :: [T-Ostbahnhof_Sonnemannstr..secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Sonnemannstr..secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Ostbahnhof_Sonnemannstr..secret|T-Ostbahnhof_Sonnemannstr..secret]] 
 

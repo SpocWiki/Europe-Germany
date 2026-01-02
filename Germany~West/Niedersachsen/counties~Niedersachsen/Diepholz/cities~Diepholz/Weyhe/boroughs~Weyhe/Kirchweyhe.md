@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kirchweyhe](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Weyhe/boroughs~Weyhe/Kirchweyhe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Weyhe/boroughs~Weyhe/Kirchweyhe|Kirchweyhe]] 
 
-### #is_/same_as :: [Kirchweyhe.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Weyhe/boroughs~Weyhe/Kirchweyhe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Weyhe/boroughs~Weyhe/Kirchweyhe.public|Kirchweyhe.public]] 
 
-### #is_/same_as :: [Kirchweyhe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Weyhe/boroughs~Weyhe/Kirchweyhe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Weyhe/boroughs~Weyhe/Kirchweyhe.internal|Kirchweyhe.internal]] 
 
-### #is_/same_as :: [Kirchweyhe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Weyhe/boroughs~Weyhe/Kirchweyhe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Weyhe/boroughs~Weyhe/Kirchweyhe.protect|Kirchweyhe.protect]] 
 
-### #is_/same_as :: [Kirchweyhe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Weyhe/boroughs~Weyhe/Kirchweyhe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Weyhe/boroughs~Weyhe/Kirchweyhe.private|Kirchweyhe.private]] 
 
-### #is_/same_as :: [Kirchweyhe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Weyhe/boroughs~Weyhe/Kirchweyhe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Weyhe/boroughs~Weyhe/Kirchweyhe.personal|Kirchweyhe.personal]] 
 
-### #is_/same_as :: [Kirchweyhe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Weyhe/boroughs~Weyhe/Kirchweyhe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Diepholz/cities~Diepholz/Weyhe/boroughs~Weyhe/Kirchweyhe.secret|Kirchweyhe.secret]] 
 

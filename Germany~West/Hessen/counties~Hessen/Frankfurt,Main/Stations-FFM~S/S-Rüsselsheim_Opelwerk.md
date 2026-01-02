@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [S-Rüsselsheim_Opelwerk](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rüsselsheim_Opelwerk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rüsselsheim_Opelwerk|S-Rüsselsheim_Opelwerk]] 
 
-### #is_/same_as :: [S-Rüsselsheim_Opelwerk.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rüsselsheim_Opelwerk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rüsselsheim_Opelwerk.public|S-Rüsselsheim_Opelwerk.public]] 
 
-### #is_/same_as :: [S-Rüsselsheim_Opelwerk.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rüsselsheim_Opelwerk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rüsselsheim_Opelwerk.internal|S-Rüsselsheim_Opelwerk.internal]] 
 
-### #is_/same_as :: [S-Rüsselsheim_Opelwerk.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rüsselsheim_Opelwerk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rüsselsheim_Opelwerk.protect|S-Rüsselsheim_Opelwerk.protect]] 
 
-### #is_/same_as :: [S-Rüsselsheim_Opelwerk.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rüsselsheim_Opelwerk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rüsselsheim_Opelwerk.private|S-Rüsselsheim_Opelwerk.private]] 
 
-### #is_/same_as :: [S-Rüsselsheim_Opelwerk.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rüsselsheim_Opelwerk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rüsselsheim_Opelwerk.personal|S-Rüsselsheim_Opelwerk.personal]] 
 
-### #is_/same_as :: [S-Rüsselsheim_Opelwerk.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rüsselsheim_Opelwerk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Rüsselsheim_Opelwerk.secret|S-Rüsselsheim_Opelwerk.secret]] 
 

@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geestemünde](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde|Geestemünde]] 
 
-### #is_/same_as :: [Geestemünde.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde.public|Geestemünde.public]] 
 
-### #is_/same_as :: [Geestemünde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde.internal|Geestemünde.internal]] 
 
-### #is_/same_as :: [Geestemünde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde.protect|Geestemünde.protect]] 
 
-### #is_/same_as :: [Geestemünde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde.private|Geestemünde.private]] 
 
-### #is_/same_as :: [Geestemünde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde.personal|Geestemünde.personal]] 
 
-### #is_/same_as :: [Geestemünde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State/cities~Bremen/Bremerhaven/boroughs~Bremerhaven/Geestemünde.secret|Geestemünde.secret]] 
 

@@ -94,17 +94,17 @@ Commons_category: Kunstakademie Düsseldorf
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kunstakademie_Düsseldorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf|Kunstakademie_Düsseldorf]] 
 
-### #is_/same_as :: [Kunstakademie_Düsseldorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf.public|Kunstakademie_Düsseldorf.public]] 
 
-### #is_/same_as :: [Kunstakademie_Düsseldorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf.internal|Kunstakademie_Düsseldorf.internal]] 
 
-### #is_/same_as :: [Kunstakademie_Düsseldorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf.protect|Kunstakademie_Düsseldorf.protect]] 
 
-### #is_/same_as :: [Kunstakademie_Düsseldorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf.private|Kunstakademie_Düsseldorf.private]] 
 
-### #is_/same_as :: [Kunstakademie_Düsseldorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf.personal|Kunstakademie_Düsseldorf.personal]] 
 
-### #is_/same_as :: [Kunstakademie_Düsseldorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf.secret|Kunstakademie_Düsseldorf.secret]] 
 

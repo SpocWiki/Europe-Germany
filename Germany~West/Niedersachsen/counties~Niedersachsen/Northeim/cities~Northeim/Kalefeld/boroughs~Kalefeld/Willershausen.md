@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Willershausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Kalefeld/boroughs~Kalefeld/Willershausen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Kalefeld/boroughs~Kalefeld/Willershausen|Willershausen]] 
 
-### #is_/same_as :: [Willershausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Kalefeld/boroughs~Kalefeld/Willershausen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Kalefeld/boroughs~Kalefeld/Willershausen.public|Willershausen.public]] 
 
-### #is_/same_as :: [Willershausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Kalefeld/boroughs~Kalefeld/Willershausen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Kalefeld/boroughs~Kalefeld/Willershausen.internal|Willershausen.internal]] 
 
-### #is_/same_as :: [Willershausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Kalefeld/boroughs~Kalefeld/Willershausen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Kalefeld/boroughs~Kalefeld/Willershausen.protect|Willershausen.protect]] 
 
-### #is_/same_as :: [Willershausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Kalefeld/boroughs~Kalefeld/Willershausen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Kalefeld/boroughs~Kalefeld/Willershausen.private|Willershausen.private]] 
 
-### #is_/same_as :: [Willershausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Kalefeld/boroughs~Kalefeld/Willershausen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Kalefeld/boroughs~Kalefeld/Willershausen.personal|Willershausen.personal]] 
 
-### #is_/same_as :: [Willershausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Kalefeld/boroughs~Kalefeld/Willershausen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Northeim/cities~Northeim/Kalefeld/boroughs~Kalefeld/Willershausen.secret|Willershausen.secret]] 
 

@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rehfelde](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Märkische_Schweiz/boroughs~Märk_Schweiz/Rehfelde.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Märkische_Schweiz/boroughs~Märk_Schweiz/Rehfelde|Rehfelde]] 
 
-### #is_/same_as :: [Rehfelde.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Märkische_Schweiz/boroughs~Märk_Schweiz/Rehfelde.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Märkische_Schweiz/boroughs~Märk_Schweiz/Rehfelde.public|Rehfelde.public]] 
 
-### #is_/same_as :: [Rehfelde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Märkische_Schweiz/boroughs~Märk_Schweiz/Rehfelde.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Märkische_Schweiz/boroughs~Märk_Schweiz/Rehfelde.internal|Rehfelde.internal]] 
 
-### #is_/same_as :: [Rehfelde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Märkische_Schweiz/boroughs~Märk_Schweiz/Rehfelde.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Märkische_Schweiz/boroughs~Märk_Schweiz/Rehfelde.protect|Rehfelde.protect]] 
 
-### #is_/same_as :: [Rehfelde.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Märkische_Schweiz/boroughs~Märk_Schweiz/Rehfelde.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Märkische_Schweiz/boroughs~Märk_Schweiz/Rehfelde.private|Rehfelde.private]] 
 
-### #is_/same_as :: [Rehfelde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Märkische_Schweiz/boroughs~Märk_Schweiz/Rehfelde.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Märkische_Schweiz/boroughs~Märk_Schweiz/Rehfelde.personal|Rehfelde.personal]] 
 
-### #is_/same_as :: [Rehfelde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Märkische_Schweiz/boroughs~Märk_Schweiz/Rehfelde.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Märkische_Schweiz/boroughs~Märk_Schweiz/Rehfelde.secret|Rehfelde.secret]] 
 

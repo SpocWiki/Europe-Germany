@@ -213,17 +213,17 @@ Capital :: [[Duesseldorf]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nordrhein-Westfalen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen|Nordrhein-Westfalen]] 
 
-### #is_/same_as :: [Nordrhein-Westfalen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.public|Nordrhein-Westfalen.public]] 
 
-### #is_/same_as :: [Nordrhein-Westfalen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.internal|Nordrhein-Westfalen.internal]] 
 
-### #is_/same_as :: [Nordrhein-Westfalen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.protect|Nordrhein-Westfalen.protect]] 
 
-### #is_/same_as :: [Nordrhein-Westfalen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.private|Nordrhein-Westfalen.private]] 
 
-### #is_/same_as :: [Nordrhein-Westfalen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.personal|Nordrhein-Westfalen.personal]] 
 
-### #is_/same_as :: [Nordrhein-Westfalen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.secret|Nordrhein-Westfalen.secret]] 
 

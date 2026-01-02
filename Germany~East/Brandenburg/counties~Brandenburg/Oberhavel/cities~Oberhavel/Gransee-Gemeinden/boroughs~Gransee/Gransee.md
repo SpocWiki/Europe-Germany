@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gransee](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Gransee-Gemeinden/boroughs~Gransee/Gransee.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Gransee-Gemeinden/boroughs~Gransee/Gransee|Gransee]] 
 
-### #is_/same_as :: [Gransee.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Gransee-Gemeinden/boroughs~Gransee/Gransee.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Gransee-Gemeinden/boroughs~Gransee/Gransee.public|Gransee.public]] 
 
-### #is_/same_as :: [Gransee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Gransee-Gemeinden/boroughs~Gransee/Gransee.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Gransee-Gemeinden/boroughs~Gransee/Gransee.internal|Gransee.internal]] 
 
-### #is_/same_as :: [Gransee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Gransee-Gemeinden/boroughs~Gransee/Gransee.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Gransee-Gemeinden/boroughs~Gransee/Gransee.protect|Gransee.protect]] 
 
-### #is_/same_as :: [Gransee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Gransee-Gemeinden/boroughs~Gransee/Gransee.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Gransee-Gemeinden/boroughs~Gransee/Gransee.private|Gransee.private]] 
 
-### #is_/same_as :: [Gransee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Gransee-Gemeinden/boroughs~Gransee/Gransee.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Gransee-Gemeinden/boroughs~Gransee/Gransee.personal|Gransee.personal]] 
 
-### #is_/same_as :: [Gransee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Gransee-Gemeinden/boroughs~Gransee/Gransee.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Gransee-Gemeinden/boroughs~Gransee/Gransee.secret|Gransee.secret]] 
 

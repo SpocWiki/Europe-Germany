@@ -208,17 +208,17 @@ Capital :: [[Erfurt]] ]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thüringen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen|Thüringen]] 
 
-### #is_/same_as :: [Thüringen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.public|Thüringen.public]] 
 
-### #is_/same_as :: [Thüringen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.internal|Thüringen.internal]] 
 
-### #is_/same_as :: [Thüringen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.protect|Thüringen.protect]] 
 
-### #is_/same_as :: [Thüringen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.private|Thüringen.private]] 
 
-### #is_/same_as :: [Thüringen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.personal|Thüringen.personal]] 
 
-### #is_/same_as :: [Thüringen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.secret|Thüringen.secret]] 
 

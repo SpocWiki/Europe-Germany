@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schönfließ,Mühlenbeck](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Mühlenbecker_Land/Schönfließ,Mühlenbeck.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Mühlenbecker_Land/Schönfließ,Mühlenbeck|Schönfließ,Mühlenbeck]] 
 
-### #is_/same_as :: [Schönfließ,Mühlenbeck.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Mühlenbecker_Land/Schönfließ,Mühlenbeck.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Mühlenbecker_Land/Schönfließ,Mühlenbeck.public|Schönfließ,Mühlenbeck.public]] 
 
-### #is_/same_as :: [Schönfließ,Mühlenbeck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Mühlenbecker_Land/Schönfließ,Mühlenbeck.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Mühlenbecker_Land/Schönfließ,Mühlenbeck.internal|Schönfließ,Mühlenbeck.internal]] 
 
-### #is_/same_as :: [Schönfließ,Mühlenbeck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Mühlenbecker_Land/Schönfließ,Mühlenbeck.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Mühlenbecker_Land/Schönfließ,Mühlenbeck.protect|Schönfließ,Mühlenbeck.protect]] 
 
-### #is_/same_as :: [Schönfließ,Mühlenbeck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Mühlenbecker_Land/Schönfließ,Mühlenbeck.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Mühlenbecker_Land/Schönfließ,Mühlenbeck.private|Schönfließ,Mühlenbeck.private]] 
 
-### #is_/same_as :: [Schönfließ,Mühlenbeck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Mühlenbecker_Land/Schönfließ,Mühlenbeck.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Mühlenbecker_Land/Schönfließ,Mühlenbeck.personal|Schönfließ,Mühlenbeck.personal]] 
 
-### #is_/same_as :: [Schönfließ,Mühlenbeck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Mühlenbecker_Land/Schönfließ,Mühlenbeck.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oberhavel/cities~Oberhavel/Mühlenbecker_Land/Schönfließ,Mühlenbeck.secret|Schönfließ,Mühlenbeck.secret]] 
 

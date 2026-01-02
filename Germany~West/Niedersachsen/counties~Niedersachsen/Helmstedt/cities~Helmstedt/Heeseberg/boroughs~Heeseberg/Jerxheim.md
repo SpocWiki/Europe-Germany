@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jerxheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Heeseberg/boroughs~Heeseberg/Jerxheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Heeseberg/boroughs~Heeseberg/Jerxheim|Jerxheim]] 
 
-### #is_/same_as :: [Jerxheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Heeseberg/boroughs~Heeseberg/Jerxheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Heeseberg/boroughs~Heeseberg/Jerxheim.public|Jerxheim.public]] 
 
-### #is_/same_as :: [Jerxheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Heeseberg/boroughs~Heeseberg/Jerxheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Heeseberg/boroughs~Heeseberg/Jerxheim.internal|Jerxheim.internal]] 
 
-### #is_/same_as :: [Jerxheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Heeseberg/boroughs~Heeseberg/Jerxheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Heeseberg/boroughs~Heeseberg/Jerxheim.protect|Jerxheim.protect]] 
 
-### #is_/same_as :: [Jerxheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Heeseberg/boroughs~Heeseberg/Jerxheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Heeseberg/boroughs~Heeseberg/Jerxheim.private|Jerxheim.private]] 
 
-### #is_/same_as :: [Jerxheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Heeseberg/boroughs~Heeseberg/Jerxheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Heeseberg/boroughs~Heeseberg/Jerxheim.personal|Jerxheim.personal]] 
 
-### #is_/same_as :: [Jerxheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Heeseberg/boroughs~Heeseberg/Jerxheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Helmstedt/cities~Helmstedt/Heeseberg/boroughs~Heeseberg/Jerxheim.secret|Jerxheim.secret]] 
 

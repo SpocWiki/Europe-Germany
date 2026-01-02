@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Otterndorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Land_Hadeln/boroughs~Land_Hadeln/Otterndorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Land_Hadeln/boroughs~Land_Hadeln/Otterndorf|Otterndorf]] 
 
-### #is_/same_as :: [Otterndorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Land_Hadeln/boroughs~Land_Hadeln/Otterndorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Land_Hadeln/boroughs~Land_Hadeln/Otterndorf.public|Otterndorf.public]] 
 
-### #is_/same_as :: [Otterndorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Land_Hadeln/boroughs~Land_Hadeln/Otterndorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Land_Hadeln/boroughs~Land_Hadeln/Otterndorf.internal|Otterndorf.internal]] 
 
-### #is_/same_as :: [Otterndorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Land_Hadeln/boroughs~Land_Hadeln/Otterndorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Land_Hadeln/boroughs~Land_Hadeln/Otterndorf.protect|Otterndorf.protect]] 
 
-### #is_/same_as :: [Otterndorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Land_Hadeln/boroughs~Land_Hadeln/Otterndorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Land_Hadeln/boroughs~Land_Hadeln/Otterndorf.private|Otterndorf.private]] 
 
-### #is_/same_as :: [Otterndorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Land_Hadeln/boroughs~Land_Hadeln/Otterndorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Land_Hadeln/boroughs~Land_Hadeln/Otterndorf.personal|Otterndorf.personal]] 
 
-### #is_/same_as :: [Otterndorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Land_Hadeln/boroughs~Land_Hadeln/Otterndorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Cuxhaven/cities~Cuxhaven/Land_Hadeln/boroughs~Land_Hadeln/Otterndorf.secret|Otterndorf.secret]] 
 

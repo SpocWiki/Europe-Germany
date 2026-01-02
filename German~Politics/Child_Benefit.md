@@ -18,17 +18,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Child_Benefit](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit|Child_Benefit]] 
 
-### #is_/same_as :: [Child_Benefit.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.public|Child_Benefit.public]] 
 
-### #is_/same_as :: [Child_Benefit.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.internal|Child_Benefit.internal]] 
 
-### #is_/same_as :: [Child_Benefit.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.protect|Child_Benefit.protect]] 
 
-### #is_/same_as :: [Child_Benefit.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.private|Child_Benefit.private]] 
 
-### #is_/same_as :: [Child_Benefit.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.personal|Child_Benefit.personal]] 
 
-### #is_/same_as :: [Child_Benefit.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.secret|Child_Benefit.secret]] 
 

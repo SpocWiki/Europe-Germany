@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plau,See-borough](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Plau,See/boroughs~Plau,See/Plau,See-borough.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Plau,See/boroughs~Plau,See/Plau,See-borough|Plau,See-borough]] 
 
-### #is_/same_as :: [Plau,See-borough.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Plau,See/boroughs~Plau,See/Plau,See-borough.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Plau,See/boroughs~Plau,See/Plau,See-borough.public|Plau,See-borough.public]] 
 
-### #is_/same_as :: [Plau,See-borough.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Plau,See/boroughs~Plau,See/Plau,See-borough.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Plau,See/boroughs~Plau,See/Plau,See-borough.internal|Plau,See-borough.internal]] 
 
-### #is_/same_as :: [Plau,See-borough.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Plau,See/boroughs~Plau,See/Plau,See-borough.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Plau,See/boroughs~Plau,See/Plau,See-borough.protect|Plau,See-borough.protect]] 
 
-### #is_/same_as :: [Plau,See-borough.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Plau,See/boroughs~Plau,See/Plau,See-borough.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Plau,See/boroughs~Plau,See/Plau,See-borough.private|Plau,See-borough.private]] 
 
-### #is_/same_as :: [Plau,See-borough.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Plau,See/boroughs~Plau,See/Plau,See-borough.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Plau,See/boroughs~Plau,See/Plau,See-borough.personal|Plau,See-borough.personal]] 
 
-### #is_/same_as :: [Plau,See-borough.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Plau,See/boroughs~Plau,See/Plau,See-borough.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Ludwigslust-Parchim/cities~Parchim/Plau,See/boroughs~Plau,See/Plau,See-borough.secret|Plau,See-borough.secret]] 
 

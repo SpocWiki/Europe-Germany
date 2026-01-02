@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nieder-Marschacht](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Elbmarsch/Nieder-Marschacht.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Elbmarsch/Nieder-Marschacht|Nieder-Marschacht]] 
 
-### #is_/same_as :: [Nieder-Marschacht.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Elbmarsch/Nieder-Marschacht.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Elbmarsch/Nieder-Marschacht.public|Nieder-Marschacht.public]] 
 
-### #is_/same_as :: [Nieder-Marschacht.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Elbmarsch/Nieder-Marschacht.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Elbmarsch/Nieder-Marschacht.internal|Nieder-Marschacht.internal]] 
 
-### #is_/same_as :: [Nieder-Marschacht.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Elbmarsch/Nieder-Marschacht.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Elbmarsch/Nieder-Marschacht.protect|Nieder-Marschacht.protect]] 
 
-### #is_/same_as :: [Nieder-Marschacht.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Elbmarsch/Nieder-Marschacht.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Elbmarsch/Nieder-Marschacht.private|Nieder-Marschacht.private]] 
 
-### #is_/same_as :: [Nieder-Marschacht.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Elbmarsch/Nieder-Marschacht.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Elbmarsch/Nieder-Marschacht.personal|Nieder-Marschacht.personal]] 
 
-### #is_/same_as :: [Nieder-Marschacht.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Elbmarsch/Nieder-Marschacht.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Harburg/cities~Harburg/Elbmarsch/Nieder-Marschacht.secret|Nieder-Marschacht.secret]] 
 

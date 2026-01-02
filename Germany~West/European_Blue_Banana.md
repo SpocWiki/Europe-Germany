@@ -55,17 +55,17 @@ to describe this zone of intense economic activity, industrial concentration, an
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [European_Blue_Banana](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana|European_Blue_Banana]] 
 
-### #is_/same_as :: [European_Blue_Banana.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.public|European_Blue_Banana.public]] 
 
-### #is_/same_as :: [European_Blue_Banana.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.internal|European_Blue_Banana.internal]] 
 
-### #is_/same_as :: [European_Blue_Banana.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.protect|European_Blue_Banana.protect]] 
 
-### #is_/same_as :: [European_Blue_Banana.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.private|European_Blue_Banana.private]] 
 
-### #is_/same_as :: [European_Blue_Banana.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.personal|European_Blue_Banana.personal]] 
 
-### #is_/same_as :: [European_Blue_Banana.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.secret|European_Blue_Banana.secret]] 
 

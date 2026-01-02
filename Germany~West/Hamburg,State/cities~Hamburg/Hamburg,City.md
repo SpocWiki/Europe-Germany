@@ -274,17 +274,17 @@ mit ihren detailgetreu nachgebauten Wohnhäusern aus dem 17. Jahrhundert.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hamburg,City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Hamburg,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Hamburg,City|Hamburg,City]] 
 
-### #is_/same_as :: [Hamburg,City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Hamburg,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Hamburg,City.public|Hamburg,City.public]] 
 
-### #is_/same_as :: [Hamburg,City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Hamburg,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Hamburg,City.internal|Hamburg,City.internal]] 
 
-### #is_/same_as :: [Hamburg,City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Hamburg,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Hamburg,City.protect|Hamburg,City.protect]] 
 
-### #is_/same_as :: [Hamburg,City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Hamburg,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Hamburg,City.private|Hamburg,City.private]] 
 
-### #is_/same_as :: [Hamburg,City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Hamburg,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Hamburg,City.personal|Hamburg,City.personal]] 
 
-### #is_/same_as :: [Hamburg,City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Hamburg,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Hamburg,City.secret|Hamburg,City.secret]] 
 

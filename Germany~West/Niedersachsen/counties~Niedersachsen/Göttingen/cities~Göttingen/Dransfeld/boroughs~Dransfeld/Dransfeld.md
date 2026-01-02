@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dransfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Dransfeld/boroughs~Dransfeld/Dransfeld.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Dransfeld/boroughs~Dransfeld/Dransfeld|Dransfeld]] 
 
-### #is_/same_as :: [Dransfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Dransfeld/boroughs~Dransfeld/Dransfeld.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Dransfeld/boroughs~Dransfeld/Dransfeld.public|Dransfeld.public]] 
 
-### #is_/same_as :: [Dransfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Dransfeld/boroughs~Dransfeld/Dransfeld.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Dransfeld/boroughs~Dransfeld/Dransfeld.internal|Dransfeld.internal]] 
 
-### #is_/same_as :: [Dransfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Dransfeld/boroughs~Dransfeld/Dransfeld.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Dransfeld/boroughs~Dransfeld/Dransfeld.protect|Dransfeld.protect]] 
 
-### #is_/same_as :: [Dransfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Dransfeld/boroughs~Dransfeld/Dransfeld.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Dransfeld/boroughs~Dransfeld/Dransfeld.private|Dransfeld.private]] 
 
-### #is_/same_as :: [Dransfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Dransfeld/boroughs~Dransfeld/Dransfeld.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Dransfeld/boroughs~Dransfeld/Dransfeld.personal|Dransfeld.personal]] 
 
-### #is_/same_as :: [Dransfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Dransfeld/boroughs~Dransfeld/Dransfeld.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Göttingen/cities~Göttingen/Dransfeld/boroughs~Dransfeld/Dransfeld.secret|Dransfeld.secret]] 
 
