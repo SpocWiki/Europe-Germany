@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1914-10-16 
 aliases:
   - Goethe_University,Frankfurt
   - Goethe University,Frankfurt

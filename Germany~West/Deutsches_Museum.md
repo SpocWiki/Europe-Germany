@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1903-06-28 
 aliases:
   - Deutsches Museum von Meisterwerken der Naturwissenschaft und Technik
   - Deutsches Museum

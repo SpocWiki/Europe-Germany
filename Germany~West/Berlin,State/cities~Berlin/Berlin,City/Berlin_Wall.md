@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1961-08-13 
+has_time_stopped: 1989-11-09 
 aliases:
   - Berlin_Wall
   - Berlin Wall
