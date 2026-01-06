@@ -22,6 +22,7 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gr%C3%BCnderzeit) 
 
+
 ## Developments 
 
 ### Emigration to USA 

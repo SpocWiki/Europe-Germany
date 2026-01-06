@@ -161,7 +161,7 @@ X_username: SachsenDe
 > The state is also home to a minority of Sorbs, 
 > a West Slavic ethnic group native to the area, numbering an estimated 80,000 people.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Saxony)
+> [Wikipedia](https://en.wikipedia.org/wiki/Saxony) 
 
 
 ![[Flag_of_Saxony.svg|350]]  

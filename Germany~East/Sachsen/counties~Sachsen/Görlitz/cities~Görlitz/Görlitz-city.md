@@ -67,7 +67,7 @@ der Dicke sowie der Reichenbacher Turm.
 >
 > Görlitz is culturally diverse. Immediately to the west of Görlitz lie Sorbian-speaking parts of Lusatia, and Görlitz was founded and first settled by the Sorbs, a Slavic people. This is evidenced by the name of the town and the etymology of some of its surrounding villages and geographical features being of Slavic origin. Görlitz itself speaks the East Lusatian dialect of German (Ostlausitzer Mundart), which is related to Silesian German dialects and differs from the Upper Saxon dialects spoken in most parts of Saxony. It is home to the Schlesisches Himmelreich and Liegnitzer Bombe, a Silesian Museum (Schlesisches Museum zu Görlitz), and the Silesian Christmas Market (Schlesischer Christkindelmarkt).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/G%C3%B6rlitz)
+> [Wikipedia](https://en.wikipedia.org/wiki/G%C3%B6rlitz) 
 
 
 ## Confidential Links & Embeds: 

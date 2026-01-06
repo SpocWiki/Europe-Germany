@@ -165,7 +165,8 @@ U_S_National_Archives_Identifier: 10044808
 >
 > Today, Schleswig-Holstein's economy is known for its agriculture, such as its Holstein cows. Its position on the Atlantic Ocean makes it a major trade point and shipbuilding site; it is also the location of the Kiel Canal. Its offshore oil wells and wind farms produce significant amounts of energy. Fishing is a major industry, and the basis of its distinctive unique local cuisine. It is a popular tourist destination for Germans and tourists across the globe.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Schleswig-Holstein)
+> [Wikipedia](https://en.wikipedia.org/wiki/Schleswig-Holstein) 
+
 
 ![[Flag_of_Schleswig-Holstein.svg|350]] 
 

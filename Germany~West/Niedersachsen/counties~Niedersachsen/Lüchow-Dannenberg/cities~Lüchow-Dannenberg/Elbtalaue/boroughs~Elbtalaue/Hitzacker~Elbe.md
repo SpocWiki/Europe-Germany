@@ -47,7 +47,7 @@ maxZoom: 18
 > The famous library now in Wolfenbüttel was founded here by Augustus the Younger, 
 > Duke of Brunswick-Lüneburg (who died in 1666) and was moved to its present location in 1643.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Hitzacker)
+> [Wikipedia](https://en.wikipedia.org/wiki/Hitzacker) 
 
 
 ## Confidential Links & Embeds: 

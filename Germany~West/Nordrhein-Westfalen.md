@@ -151,7 +151,8 @@ X_username: landnrw
 > and the regions of Westphalia and Lippe on the other. 
 > Its economy is the largest among German states by GRDP but is below the national average in GRDP per capita.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/North%20Rhine-Westphalia)
+> [Wikipedia](https://en.wikipedia.org/wiki/North%20Rhine-Westphalia) 
+
 
 ![[Flag_of_North_Rhine-Westphalia.svg|350]] 
 
@@ -208,7 +209,7 @@ Capital :: [[Duesseldorf]]
 > Culturally, North Rhine-Westphalia is not a uniform area; there are significant differences, 
 > especially in traditional customs, between the Rhineland region on the one hand and the regions of Westphalia and Lippe on the other. Its economy is the largest among German states by GRDP but is below the national average in GRDP per capita.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/North%20Rhine-Westphalia)
+> [Wikipedia](https://en.wikipedia.org/wiki/North%20Rhine-Westphalia) 
 
 
 ## Confidential Links & Embeds: 
