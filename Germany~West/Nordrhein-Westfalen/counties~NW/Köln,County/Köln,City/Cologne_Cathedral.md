@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1248-01-01 
 aliases:
   - Kölner Dom
   - Hohe Domkirche zu Köln
