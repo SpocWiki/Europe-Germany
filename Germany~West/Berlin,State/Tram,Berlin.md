@@ -23,8 +23,7 @@
 > that are not part of the main system; 
 > the Potsdam tram system, with its own network of lines, is just to the south-west of Berlin.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Trams%20in%20Berlin)
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Trams%20in%20Berlin) 
 
 
 ## #has_/parts 

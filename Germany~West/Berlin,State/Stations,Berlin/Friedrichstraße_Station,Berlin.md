@@ -33,7 +33,7 @@ geo:52.520278,13.386944
 > as well as long-distance trains from countries west of the Iron Curtain. 
 > The station was also a __major border crossing between East and West Berlin__.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Berlin%20Friedrichstra%C3%9Fe%20station)
+> [Wikipedia](https://en.wikipedia.org/wiki/Berlin%20Friedrichstra%C3%9Fe%20station) 
 
 
 ## Confidential Links & Embeds: 

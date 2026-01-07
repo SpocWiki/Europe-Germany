@@ -1,7 +1,6 @@
 
 ## #has_/text_of_/abstract 
 
-
 > S2 is a line on the Berlin S-Bahn. It operates from Bernau to Blankenfelde over:
 > - the Berlin-Szczecin railway, opened on 1 August 1842 and electrified on 8 August 1924,
 > - the Nord-Süd-Tunnel, opened on 28 May 1936 from Humboldthain to Unter den Linden and on 6 November 1939 to Anhalter Bahnhof and Priesterweg

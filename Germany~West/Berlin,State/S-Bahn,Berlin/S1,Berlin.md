@@ -1,9 +1,7 @@
 
 > The S1 is a railway service of the Berlin S-Bahn that operates between Wannsee and Oranienburg.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/S1%20(Berlin))
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/S1%20(Berlin)) 
 
 
 ## #has_/diagram 

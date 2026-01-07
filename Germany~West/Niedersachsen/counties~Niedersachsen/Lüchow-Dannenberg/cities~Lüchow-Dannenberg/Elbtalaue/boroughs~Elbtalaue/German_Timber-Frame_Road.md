@@ -22,7 +22,7 @@ aliases:
 > - [[../../../../../../Bayern|Bavaria]], and 
 > - [[../../../../../../Baden-Wuerttemberg|Baden-Württemberg]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/German%20Timber-Frame%20Road)
+> [Wikipedia](https://en.wikipedia.org/wiki/German%20Timber-Frame%20Road) 
 
 
 ## Confidential Links & Embeds: 

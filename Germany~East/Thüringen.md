@@ -184,7 +184,8 @@ X_username: thueringende
 > Thuringia was re-established in 1990 following German reunification, 
 > slightly re-drawn, and became one of the new states of the Federal Republic of Germany.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Thuringia)
+> [Wikipedia](https://en.wikipedia.org/wiki/Thuringia) 
+
 
 ![[Flag_of_Thuringia.svg|350]] 
 

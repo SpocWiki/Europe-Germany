@@ -270,7 +270,8 @@ so that this Link into the Sub-Repository works: [[Bavaria/ReadMe]]
 > Contemporary Bavaria also includes parts of the historical regions of Franconia and Swabia, 
 > in addition to Altbayern.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bavaria)
+> [Wikipedia](https://en.wikipedia.org/wiki/Bavaria) 
+
 
 ## Maps and Flags 
 
@@ -323,7 +324,7 @@ Capital ::  [[Bayern/counties~Bayern/München,County/City/München,City]]
 >
 > Contemporary Bavaria also includes parts of the historical regions of Franconia and Swabia, in addition to Alt**Bayern**.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bavaria)
+> [Wikipedia](https://en.wikipedia.org/wiki/Bavaria) 
 
 
 ## Confidential Links & Embeds: 

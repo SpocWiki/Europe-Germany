@@ -37,7 +37,7 @@ aliases:
 > the regional tariff zone for all kinds of public transit in and around Berlin 
 > and the federal state (Bundesland) of Brandenburg.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Berlin%20S-Bahn)
+> [Wikipedia](https://en.wikipedia.org/wiki/Berlin%20S-Bahn) 
 
 
 ## #has_/parts 

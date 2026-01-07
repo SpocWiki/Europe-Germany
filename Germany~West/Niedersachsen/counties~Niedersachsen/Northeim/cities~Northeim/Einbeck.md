@@ -6,6 +6,7 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Einbeck) 
 
+
 Timber framed houses. 
 Between 1540-1600 AD. In Tiedexer Strasse[[../../../../../../../../../../../assets/geo/Europe/Germany/Niedersachsen/Einbeck-Tiedexer.Str.Haeuserzeile.03.png]]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Niedersachsen/Einbeck-Tiedexer.Str.Haeuserzeile.03.png]]]
 Die historische Altstadt Einbecks (Niedersachsen) zeugt von dem Reichtum, der durch den Bierhandel erzielt wurde. 

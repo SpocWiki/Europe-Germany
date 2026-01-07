@@ -47,7 +47,7 @@ maxZoom: 18
 >
 > After World War II, the palace became a tourist attraction in East Germany. Following German reunification in 1990, Frederick's body was returned to the palace and buried in a new tomb overlooking the gardens he had created. Sanssouci and its extensive gardens became a World Heritage Site in 1990 under the protection of UNESCO; in 1995, the Prussian Palaces and Gardens Foundation Berlin-Brandenburg was established to care for Sanssouci and the other former imperial palaces in and around Berlin. These palaces are now visited by more than two million people each year from all over the world.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sanssouci)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sanssouci) 
 
 
 ## Confidential Links & Embeds: 
