@@ -14,15 +14,38 @@ SpocWebEntityId: 29998
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.63
+dv_has_place_latitude: 51.47
+dv_name: Eilenburg
+dv_has_place_country: "[[../../../../../../Germany]]"
+dv_has_place_province: "[[../../../../Sachsen]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Eilenburg|Eilenburg]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Eilenburg.public|Eilenburg.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Eilenburg.internal|Eilenburg.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Eilenburg.protect|Eilenburg.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Eilenburg.private|Eilenburg.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Eilenburg.personal|Eilenburg.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Eilenburg.secret|Eilenburg.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Eilenburg|Eilenburg]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Eilenburg.public|Eilenburg.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Eilenburg.internal|Eilenburg.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Eilenburg.protect|Eilenburg.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Eilenburg.private|Eilenburg.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Eilenburg.personal|Eilenburg.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Nordsachsen/cities~Nordsachsen/Eilenburg.secret|Eilenburg.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.63] 
-[has_place_latitude::51.47] 
-[name::Eilenburg] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[Sachsen]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
 

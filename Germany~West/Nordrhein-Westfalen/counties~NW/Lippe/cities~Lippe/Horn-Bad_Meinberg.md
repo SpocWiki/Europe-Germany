@@ -15,15 +15,38 @@ SpocWebEntityId: 31027
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.93
+dv_has_place_latitude: 51.87
+dv_name: Horn-Meinberg
+dv_has_place_country: "[[../../../../../../Germany]]"
+dv_has_place_province: "[[NordRhein-Westfahlen]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Horn-Bad_Meinberg|Horn-Bad_Meinberg]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Horn-Bad_Meinberg.public|Horn-Bad_Meinberg.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Horn-Bad_Meinberg.internal|Horn-Bad_Meinberg.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Horn-Bad_Meinberg.protect|Horn-Bad_Meinberg.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Horn-Bad_Meinberg.private|Horn-Bad_Meinberg.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Horn-Bad_Meinberg.personal|Horn-Bad_Meinberg.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Horn-Bad_Meinberg.secret|Horn-Bad_Meinberg.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Horn-Bad_Meinberg|Horn-Bad_Meinberg]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Horn-Bad_Meinberg.public|Horn-Bad_Meinberg.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Horn-Bad_Meinberg.internal|Horn-Bad_Meinberg.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Horn-Bad_Meinberg.protect|Horn-Bad_Meinberg.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Horn-Bad_Meinberg.private|Horn-Bad_Meinberg.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Horn-Bad_Meinberg.personal|Horn-Bad_Meinberg.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Lippe/cities~Lippe/Horn-Bad_Meinberg.secret|Horn-Bad_Meinberg.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.93] 
-[has_place_latitude::51.87] 
-[name::Horn-Meinberg] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[NordRhein-Westfahlen]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
 

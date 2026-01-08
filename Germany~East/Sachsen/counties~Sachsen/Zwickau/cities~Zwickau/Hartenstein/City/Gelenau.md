@@ -14,15 +14,38 @@ SpocWebEntityId: 30401
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.65
+dv_has_place_latitude: 50.65
+dv_name: Gelenau
+dv_has_place_country: "[[../../../../../../../../Germany]]"
+dv_has_place_province: "[[../../../../../../Sachsen]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Hartenstein/City/Gelenau|Gelenau]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Hartenstein/City/Gelenau.public|Gelenau.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Hartenstein/City/Gelenau.internal|Gelenau.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Hartenstein/City/Gelenau.protect|Gelenau.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Hartenstein/City/Gelenau.private|Gelenau.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Hartenstein/City/Gelenau.personal|Gelenau.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Hartenstein/City/Gelenau.secret|Gelenau.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Hartenstein/City/Gelenau|Gelenau]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Hartenstein/City/Gelenau.public|Gelenau.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Hartenstein/City/Gelenau.internal|Gelenau.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Hartenstein/City/Gelenau.protect|Gelenau.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Hartenstein/City/Gelenau.private|Gelenau.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Hartenstein/City/Gelenau.personal|Gelenau.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Zwickau/cities~Zwickau/Hartenstein/City/Gelenau.secret|Gelenau.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.65] 
-[has_place_latitude::50.65] 
-[name::Gelenau] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[Sachsen]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
 

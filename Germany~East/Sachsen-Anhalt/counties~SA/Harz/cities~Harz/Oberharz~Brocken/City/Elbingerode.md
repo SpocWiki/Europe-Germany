@@ -14,15 +14,38 @@ SpocWebEntityId: 30021
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.8
+dv_has_place_latitude: 51.78
+dv_name: Elbingerode
+dv_has_place_country: "[[../../../../../../../../Germany]]"
+dv_has_place_province: "[[../../../../../../Sachsen-Anhalt]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Elbingerode|Elbingerode]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Elbingerode.public|Elbingerode.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Elbingerode.internal|Elbingerode.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Elbingerode.protect|Elbingerode.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Elbingerode.private|Elbingerode.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Elbingerode.personal|Elbingerode.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Elbingerode.secret|Elbingerode.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Elbingerode|Elbingerode]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Elbingerode.public|Elbingerode.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Elbingerode.internal|Elbingerode.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Elbingerode.protect|Elbingerode.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Elbingerode.private|Elbingerode.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Elbingerode.personal|Elbingerode.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Oberharz~Brocken/City/Elbingerode.secret|Elbingerode.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.8] 
-[has_place_latitude::51.78] 
-[name::Elbingerode] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[Sachsen-Anhalt]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
 

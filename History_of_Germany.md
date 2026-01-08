@@ -17,6 +17,25 @@ instance_of:
 subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20History%20of%20Germany%20%28spoken%20by%20AI%20voice%29.mp3
 topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Germany,6583378]]"
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~History_of_Germany,122131]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany|History_of_Germany]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.public|History_of_Germany.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.internal|History_of_Germany.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.protect|History_of_Germany.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.private|History_of_Germany.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.personal|History_of_Germany.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.secret|History_of_Germany.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~History_of_Germany,122131]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany|History_of_Germany]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.public|History_of_Germany.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.internal|History_of_Germany.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.protect|History_of_Germany.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.private|History_of_Germany.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.personal|History_of_Germany.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.secret|History_of_Germany.secret]]"
 ---
 
 # [[History_of_Germany]] 

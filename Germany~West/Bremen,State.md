@@ -12,10 +12,34 @@ SpocWebEntityId: 29332
 tags:
   - geo/State
 type: State
+dv_name: State~Bremen
+dv_name-abbr: BN
+dv_has_place_country: "[[../../Germany]]"
+dv_Capital: "[[Bremen,State/cities~Bremen/Bremen,City]] ]"
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.682
+dv_has_place_latitude: 53.222
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State|Bremen,State]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State.public|Bremen,State.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State.internal|Bremen,State.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State.protect|Bremen,State.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State.private|Bremen,State.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State.personal|Bremen,State.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State.secret|Bremen,State.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State|Bremen,State]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State.public|Bremen,State.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State.internal|Bremen,State.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State.protect|Bremen,State.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State.private|Bremen,State.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State.personal|Bremen,State.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bremen,State.secret|Bremen,State.secret]]"
 ---
 
-[name::State~Bremen] 
-[name-abbr::BN] 
+name = `=this.dv_name` 
+name-abbr = `=this.dv_name-abbr` 
 
 ![[Bremen,State/Coat_of_arms_of_Bremen_greater.svg|350]] 
 
@@ -31,12 +55,12 @@ geojsonFolder: ./State~Bremen/
 markerFolder: ./State~Bremen/
 ```
 
-has_place_country:: [[Germany]]  
-Capital ::  [[Bremen,State/cities~Bremen/Bremen,City]] ] 
+has_place_country = `=this.dv_has_place_country`
+Capital = `=this.dv_Capital`
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.682] 
-[has_place_latitude::53.222] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
 

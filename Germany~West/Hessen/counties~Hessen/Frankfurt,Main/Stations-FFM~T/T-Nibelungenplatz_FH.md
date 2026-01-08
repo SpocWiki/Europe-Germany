@@ -12,6 +12,29 @@ mapzoom:
 tags:
   - geo/station/tram
 type: Station
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.693141
+dv_has_place_latitude: 50.12904
+dv_name: Nibelungenplatz/FH
+dv_has_place_country: "[[../../../../../../Germany]]"
+dv_City: "[[../../Frankfurt,Main]] ]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Nibelungenplatz_FH|T-Nibelungenplatz_FH]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Nibelungenplatz_FH.public|T-Nibelungenplatz_FH.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Nibelungenplatz_FH.internal|T-Nibelungenplatz_FH.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Nibelungenplatz_FH.protect|T-Nibelungenplatz_FH.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Nibelungenplatz_FH.private|T-Nibelungenplatz_FH.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Nibelungenplatz_FH.personal|T-Nibelungenplatz_FH.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Nibelungenplatz_FH.secret|T-Nibelungenplatz_FH.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Nibelungenplatz_FH|T-Nibelungenplatz_FH]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Nibelungenplatz_FH.public|T-Nibelungenplatz_FH.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Nibelungenplatz_FH.internal|T-Nibelungenplatz_FH.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Nibelungenplatz_FH.protect|T-Nibelungenplatz_FH.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Nibelungenplatz_FH.private|T-Nibelungenplatz_FH.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Nibelungenplatz_FH.personal|T-Nibelungenplatz_FH.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Nibelungenplatz_FH.secret|T-Nibelungenplatz_FH.secret]]"
 ---
 
 Tram-Station
@@ -21,12 +44,12 @@ isDeleted: false
 isReadOnly: false
 confidential: public
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.693141] 
-[has_place_latitude::50.12904] 
-[name::Nibelungenplatz/FH] 
-has_place_country:: [[Germany]]  
-City :: [[../../Frankfurt,Main]] ] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+City = `=this.dv_City`
 
 
 ```leaflet

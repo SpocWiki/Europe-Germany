@@ -14,15 +14,38 @@ SpocWebEntityId: 34597
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 13.93
+dv_has_place_latitude: 52.25
+dv_name: Storkow
+dv_has_place_country: "[[../../../../../../../../Germany]]"
+dv_has_place_province: "[[../../../../../../Brandenburg]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City|Storkow~Mark-City]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City.public|Storkow~Mark-City.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City.internal|Storkow~Mark-City.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City.protect|Storkow~Mark-City.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City.private|Storkow~Mark-City.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City.personal|Storkow~Mark-City.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City.secret|Storkow~Mark-City.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City|Storkow~Mark-City]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City.public|Storkow~Mark-City.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City.internal|Storkow~Mark-City.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City.protect|Storkow~Mark-City.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City.private|Storkow~Mark-City.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City.personal|Storkow~Mark-City.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Storkow~Mark/boroughs~Storkow~Mark/Storkow~Mark-City.secret|Storkow~Mark-City.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::13.93] 
-[has_place_latitude::52.25] 
-[name::Storkow] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[Brandenburg]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
 

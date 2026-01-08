@@ -12,21 +12,51 @@ mapzoom:
 tags:
   - geo/station
 type: Station
+dv_StationUId: 7
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.706944
+dv_has_place_latitude: 50.12528
+dv_name: Bornheim Mitte
+dv_has_place_country: "[[../../../../../../Germany]]"
+dv_City: "[[../../Frankfurt,Main]] ]"
+dv_switch-to-SPNV: Straßenbahn
+dv_switch-to-ÖPNV:
+  - 34
+  - 38
+  - 43
+  - 103
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Bornheim_Mitte|U-Bornheim_Mitte]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Bornheim_Mitte.public|U-Bornheim_Mitte.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Bornheim_Mitte.internal|U-Bornheim_Mitte.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Bornheim_Mitte.protect|U-Bornheim_Mitte.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Bornheim_Mitte.private|U-Bornheim_Mitte.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Bornheim_Mitte.personal|U-Bornheim_Mitte.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Bornheim_Mitte.secret|U-Bornheim_Mitte.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Bornheim_Mitte|U-Bornheim_Mitte]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Bornheim_Mitte.public|U-Bornheim_Mitte.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Bornheim_Mitte.internal|U-Bornheim_Mitte.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Bornheim_Mitte.protect|U-Bornheim_Mitte.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Bornheim_Mitte.private|U-Bornheim_Mitte.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Bornheim_Mitte.personal|U-Bornheim_Mitte.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Bornheim_Mitte.secret|U-Bornheim_Mitte.secret]]"
 ---
 
 SpocWebEntityId: 156238
-[StationUId::7] 
+StationUId = `=this.dv_StationUId` 
 isDeleted: false
 isReadOnly: false
 confidential: public
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.706944] 
-[has_place_latitude::50.12528] 
-[name::Bornheim Mitte] 
-has_place_country:: [[Germany]]  
-City :: [[../../Frankfurt,Main]] ] 
-[switch-to-SPNV::Straßenbahn] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+City = `=this.dv_City`
+switch-to-SPNV = `=this.dv_switch-to-SPNV` 
 [switch-to-ÖPNV::34, 38, 43, 103] 
 
 Zwei eingleisige Stationen übereinander

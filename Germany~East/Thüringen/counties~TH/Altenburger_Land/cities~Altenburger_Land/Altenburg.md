@@ -14,15 +14,38 @@ SpocWebEntityId: 28773
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.43
+dv_has_place_latitude: 50.97
+dv_name: Altenburg
+dv_has_place_country: "[[../../../../../../Germany]]"
+dv_has_place_province: "[[../../../../Thüringen]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg|Altenburg]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg.public|Altenburg.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg.internal|Altenburg.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg.protect|Altenburg.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg.private|Altenburg.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg.personal|Altenburg.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg.secret|Altenburg.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg|Altenburg]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg.public|Altenburg.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg.internal|Altenburg.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg.protect|Altenburg.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg.private|Altenburg.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg.personal|Altenburg.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Altenburger_Land/cities~Altenburger_Land/Altenburg.secret|Altenburg.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.43] 
-[has_place_latitude::50.97] 
-[name::Altenburg] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[Thüringen]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
 

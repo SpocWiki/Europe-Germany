@@ -11,22 +11,48 @@ mapzoom:
 tags:
   - geo/station/subway
 type: Station
+dv_StationUId: 72
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.688578
+dv_has_place_latitude: 50.15076
+dv_name: Ronneburgstraße
+dv_has_place_country: "[[../../../../../../Germany]]"
+dv_City: "[[../../Frankfurt,Main]] ]"
+dv_switch-to-SPNV: "-"
+dv_switch-to-ÖPNV: 39
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ronneburgstraße|U-Ronneburgstraße]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ronneburgstraße.public|U-Ronneburgstraße.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ronneburgstraße.internal|U-Ronneburgstraße.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ronneburgstraße.protect|U-Ronneburgstraße.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ronneburgstraße.private|U-Ronneburgstraße.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ronneburgstraße.personal|U-Ronneburgstraße.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ronneburgstraße.secret|U-Ronneburgstraße.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ronneburgstraße|U-Ronneburgstraße]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ronneburgstraße.public|U-Ronneburgstraße.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ronneburgstraße.internal|U-Ronneburgstraße.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ronneburgstraße.protect|U-Ronneburgstraße.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ronneburgstraße.private|U-Ronneburgstraße.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ronneburgstraße.personal|U-Ronneburgstraße.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ronneburgstraße.secret|U-Ronneburgstraße.secret]]"
 ---
 
 SpocWebEntityId: 156300
-[StationUId::72] 
+StationUId = `=this.dv_StationUId` 
 isDeleted: false
 isReadOnly: false
 confidential: public
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.688578] 
-[has_place_latitude::50.15076] 
-[name::Ronneburgstraße] 
-has_place_country:: [[Germany]]  
-City :: [[../../Frankfurt,Main]] ] 
-[switch-to-SPNV::-] 
-[switch-to-ÖPNV::39] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+City = `=this.dv_City`
+switch-to-SPNV = `=this.dv_switch-to-SPNV` 
+switch-to-ÖPNV = `=this.dv_switch-to-ÖPNV` 
 
 2013 mit Hochbahnsteigen umgebaut
 

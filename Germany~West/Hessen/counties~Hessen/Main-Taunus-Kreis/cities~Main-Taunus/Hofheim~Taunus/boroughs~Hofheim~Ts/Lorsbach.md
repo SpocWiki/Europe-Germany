@@ -14,15 +14,38 @@ SpocWebEntityId: 32098
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.42
+dv_has_place_latitude: 50.12
+dv_name: Lorsbach
+dv_has_place_country: "[[../../../../../../../../Germany]]"
+dv_has_place_province: "[[../../../../../../Hessen]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach|Lorsbach]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach.public|Lorsbach.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach.internal|Lorsbach.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach.protect|Lorsbach.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach.private|Lorsbach.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach.personal|Lorsbach.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach.secret|Lorsbach.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach|Lorsbach]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach.public|Lorsbach.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach.internal|Lorsbach.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach.protect|Lorsbach.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach.private|Lorsbach.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach.personal|Lorsbach.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Main-Taunus-Kreis/cities~Main-Taunus/Hofheim~Taunus/boroughs~Hofheim~Ts/Lorsbach.secret|Lorsbach.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.42] 
-[has_place_latitude::50.12] 
-[name::Lorsbach] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[Hessen]] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
 

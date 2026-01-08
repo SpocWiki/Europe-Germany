@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Elsterwerda|Elsterwerda]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Elsterwerda.public|Elsterwerda.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Elsterwerda.internal|Elsterwerda.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Elsterwerda.protect|Elsterwerda.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Elsterwerda.private|Elsterwerda.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Elsterwerda.personal|Elsterwerda.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Elsterwerda.secret|Elsterwerda.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Elsterwerda|Elsterwerda]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Elsterwerda.public|Elsterwerda.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Elsterwerda.internal|Elsterwerda.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Elsterwerda.protect|Elsterwerda.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Elsterwerda.private|Elsterwerda.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Elsterwerda.personal|Elsterwerda.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Elsterwerda.secret|Elsterwerda.secret]]"
+---
 
 > **Elsterwerda** (niedersorbisch Wikow) ist eine Kleinstadt im brandenburgischen Landkreis Elbe-Elster. 
 > Sie umfasst eine Fläche von 41 km² und befindet sich im Süden des Naturparks Niederlausitzer Heidelandschaft 

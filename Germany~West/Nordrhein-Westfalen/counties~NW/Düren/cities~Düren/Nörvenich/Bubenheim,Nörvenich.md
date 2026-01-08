@@ -14,15 +14,38 @@ SpocWebEntityId: 29388
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.55
+dv_has_place_latitude: 50.72
+dv_name: Bubenheim
+dv_has_place_country: "[[../../../../../../../Germany]]"
+dv_has_place_province: "[[NordRhein-Westfahlen]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich|Bubenheim,Nörvenich]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich.public|Bubenheim,Nörvenich.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich.internal|Bubenheim,Nörvenich.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich.protect|Bubenheim,Nörvenich.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich.private|Bubenheim,Nörvenich.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich.personal|Bubenheim,Nörvenich.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich.secret|Bubenheim,Nörvenich.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich|Bubenheim,Nörvenich]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich.public|Bubenheim,Nörvenich.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich.internal|Bubenheim,Nörvenich.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich.protect|Bubenheim,Nörvenich.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich.private|Bubenheim,Nörvenich.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich.personal|Bubenheim,Nörvenich.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düren/cities~Düren/Nörvenich/Bubenheim,Nörvenich.secret|Bubenheim,Nörvenich.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.55] 
-[has_place_latitude::50.72] 
-[name::Bubenheim] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[NordRhein-Westfahlen]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
 

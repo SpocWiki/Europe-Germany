@@ -12,21 +12,49 @@ mapzoom:
 tags:
   - geo/station
 type: Station
+dv_StationUId: 15
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.655
+dv_has_place_latitude: 50.11194
+dv_name: Festhalle/Messe
+dv_has_place_country: "[[../../../../../../Germany]]"
+dv_City: "[[../../Frankfurt,Main]] ]"
+dv_switch-to-SPNV: Straßenbahn
+dv_switch-to-ÖPNV:
+  - 32
+  - 50
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Festhalle_Messe|U-Festhalle_Messe]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Festhalle_Messe.public|U-Festhalle_Messe.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Festhalle_Messe.internal|U-Festhalle_Messe.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Festhalle_Messe.protect|U-Festhalle_Messe.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Festhalle_Messe.private|U-Festhalle_Messe.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Festhalle_Messe.personal|U-Festhalle_Messe.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Festhalle_Messe.secret|U-Festhalle_Messe.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Festhalle_Messe|U-Festhalle_Messe]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Festhalle_Messe.public|U-Festhalle_Messe.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Festhalle_Messe.internal|U-Festhalle_Messe.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Festhalle_Messe.protect|U-Festhalle_Messe.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Festhalle_Messe.private|U-Festhalle_Messe.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Festhalle_Messe.personal|U-Festhalle_Messe.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Festhalle_Messe.secret|U-Festhalle_Messe.secret]]"
 ---
 
 SpocWebEntityId: 156246
-[StationUId::15] 
+StationUId = `=this.dv_StationUId` 
 isDeleted: false
 isReadOnly: false
 confidential: public
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.655] 
-[has_place_latitude::50.11194] 
-[name::Festhalle/Messe] 
-has_place_country:: [[Germany]]  
-City :: [[../../Frankfurt,Main]] ] 
-[switch-to-SPNV::Straßenbahn] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+City = `=this.dv_City`
+switch-to-SPNV = `=this.dv_switch-to-SPNV` 
 [switch-to-ÖPNV::32, 50] 
 
 U-Bahnhof mit direktem Tageslichteinfall

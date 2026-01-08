@@ -14,15 +14,38 @@ SpocWebEntityId: 30012
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.45
+dv_has_place_latitude: 50.77
+dv_name: Eitdorf
+dv_has_place_country: "[[../../../../../../Germany]]"
+dv_has_place_province: "[[NordRhein-Westfahlen]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Eitorf|Eitorf]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Eitorf.public|Eitorf.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Eitorf.internal|Eitorf.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Eitorf.protect|Eitorf.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Eitorf.private|Eitorf.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Eitorf.personal|Eitorf.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Eitorf.secret|Eitorf.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Eitorf|Eitorf]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Eitorf.public|Eitorf.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Eitorf.internal|Eitorf.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Eitorf.protect|Eitorf.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Eitorf.private|Eitorf.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Eitorf.personal|Eitorf.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Rhein-Sieg-Kreis/cities~Rhein-Sieg/Eitorf.secret|Eitorf.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.45] 
-[has_place_latitude::50.77] 
-[name::Eitdorf] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[NordRhein-Westfahlen]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
 

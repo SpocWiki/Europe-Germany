@@ -6,10 +6,33 @@ aliases:
 location:
   - 52.458611
   - 13.580833
+dv_has_:
+  place_:
+    latitude: 52.458611
+    longitude: 13.580833
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Köpenick_Station,Berlin|Köpenick_Station,Berlin]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Köpenick_Station,Berlin.public|Köpenick_Station,Berlin.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Köpenick_Station,Berlin.internal|Köpenick_Station,Berlin.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Köpenick_Station,Berlin.protect|Köpenick_Station,Berlin.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Köpenick_Station,Berlin.private|Köpenick_Station,Berlin.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Köpenick_Station,Berlin.personal|Köpenick_Station,Berlin.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Köpenick_Station,Berlin.secret|Köpenick_Station,Berlin.secret]]"
+dv_has_place_latitude: 52.458611
+dv_has_place_longitude: 13.580833
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Köpenick_Station,Berlin|Köpenick_Station,Berlin]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Köpenick_Station,Berlin.public|Köpenick_Station,Berlin.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Köpenick_Station,Berlin.internal|Köpenick_Station,Berlin.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Köpenick_Station,Berlin.protect|Köpenick_Station,Berlin.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Köpenick_Station,Berlin.private|Köpenick_Station,Berlin.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Köpenick_Station,Berlin.personal|Köpenick_Station,Berlin.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Köpenick_Station,Berlin.secret|Köpenick_Station,Berlin.secret]]"
 ---
 
-#has_/place_/latitude :: 52.458611 
-#has_/place_/longitude :: 13.580833 
+has_place_latitude = `=this.dv_has_place_latitude`
+has_place_longitude = `=this.dv_has_place_longitude`
 
 geo:52.458611,13.580833 
 

@@ -11,6 +11,25 @@ country: "[[_Standards/WikiData/WD~France,142]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20v%20Werner%20-%20Kaiserproklamation%20am%2018%20Januar%201871%20%283.%20Fassung%201885%29.jpg
 Commons_category: Unification of Germany
 coordinate_location: Point(2.120333333 48.803580555)
+dv_is_:
+  same_as:
+    - "[[../../../../../../WikiData/WD~Unification_of_Germany,154705]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany|1871-Unification_of_Germany]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.public|1871-Unification_of_Germany.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.internal|1871-Unification_of_Germany.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.protect|1871-Unification_of_Germany.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.private|1871-Unification_of_Germany.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.personal|1871-Unification_of_Germany.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.secret|1871-Unification_of_Germany.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../WikiData/WD~Unification_of_Germany,154705]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany|1871-Unification_of_Germany]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.public|1871-Unification_of_Germany.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.internal|1871-Unification_of_Germany.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.protect|1871-Unification_of_Germany.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.private|1871-Unification_of_Germany.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.personal|1871-Unification_of_Germany.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.secret|1871-Unification_of_Germany.secret]]"
 ---
 
 # [[1871-Unification_of_Germany]] 

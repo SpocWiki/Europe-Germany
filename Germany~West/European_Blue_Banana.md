@@ -2,6 +2,23 @@
 aliases:
   - European Blue Banana
   - European_Blue_Banana
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana|European_Blue_Banana]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.public|European_Blue_Banana.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.internal|European_Blue_Banana.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.protect|European_Blue_Banana.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.private|European_Blue_Banana.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.personal|European_Blue_Banana.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.secret|European_Blue_Banana.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana|European_Blue_Banana]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.public|European_Blue_Banana.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.internal|European_Blue_Banana.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.protect|European_Blue_Banana.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.private|European_Blue_Banana.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.personal|European_Blue_Banana.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/European_Blue_Banana.secret|European_Blue_Banana.secret]]"
 ---
 
 ﻿

@@ -11,22 +11,48 @@ mapzoom:
 tags:
   - geo/station/subway
 type: Station
+dv_StationUId: 67
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.708056
+dv_has_place_latitude: 50.11278
+dv_name: Ostbahnhof
+dv_has_place_country: "[[../../../../../../Germany]]"
+dv_City: "[[../../Frankfurt,Main]] ]"
+dv_switch-to-SPNV: Regionalverkehr, Straßenbahn
+dv_switch-to-ÖPNV: (31), 32
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ostbahnhof|U-Ostbahnhof]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ostbahnhof.public|U-Ostbahnhof.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ostbahnhof.internal|U-Ostbahnhof.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ostbahnhof.protect|U-Ostbahnhof.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ostbahnhof.private|U-Ostbahnhof.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ostbahnhof.personal|U-Ostbahnhof.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ostbahnhof.secret|U-Ostbahnhof.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ostbahnhof|U-Ostbahnhof]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ostbahnhof.public|U-Ostbahnhof.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ostbahnhof.internal|U-Ostbahnhof.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ostbahnhof.protect|U-Ostbahnhof.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ostbahnhof.private|U-Ostbahnhof.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ostbahnhof.personal|U-Ostbahnhof.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Ostbahnhof.secret|U-Ostbahnhof.secret]]"
 ---
 
 SpocWebEntityId: 156295
-[StationUId::67] 
+StationUId = `=this.dv_StationUId` 
 isDeleted: false
 isReadOnly: false
 confidential: public
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.708056] 
-[has_place_latitude::50.11278] 
-[name::Ostbahnhof] 
-has_place_country:: [[Germany]]  
-City :: [[../../Frankfurt,Main]] ] 
-[switch-to-SPNV::Regionalverkehr, Straßenbahn] 
-[switch-to-ÖPNV::(31), 32] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+City = `=this.dv_City`
+switch-to-SPNV = `=this.dv_switch-to-SPNV` 
+switch-to-ÖPNV = `=this.dv_switch-to-ÖPNV` 
 
 U-Bahnhof mit direktem Tageslichteinfall
 

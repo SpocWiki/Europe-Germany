@@ -3,15 +3,32 @@ aliases:
   - Licht-und_Luftbad_Niederrad
   - Licht-und Luftbad Niederrad
 has_id_wikidata: Q1248353
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Niederrad,567307]]'
-instance_of: '[[_Standards/WikiData/WD~park,22698]]'
-country: '[[_Standards/WikiData/WD~Germany,183]]'
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Niederrad,567307]]"
+instance_of: "[[_Standards/WikiData/WD~park,22698]]"
+country: "[[_Standards/WikiData/WD~Germany,183]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FFM-Niederrad%20LILU%20Mitte%20Westblick.jpg
 Commons_category: Licht- und Luftbad Niederrad
 coordinate_location: Point(8.646261 50.09354)
 location:
   - 50.09354
   - 8.646261
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Licht-und_Luftbad_Niederrad|Licht-und_Luftbad_Niederrad]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Licht-und_Luftbad_Niederrad.public|Licht-und_Luftbad_Niederrad.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Licht-und_Luftbad_Niederrad.internal|Licht-und_Luftbad_Niederrad.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Licht-und_Luftbad_Niederrad.protect|Licht-und_Luftbad_Niederrad.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Licht-und_Luftbad_Niederrad.private|Licht-und_Luftbad_Niederrad.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Licht-und_Luftbad_Niederrad.personal|Licht-und_Luftbad_Niederrad.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Licht-und_Luftbad_Niederrad.secret|Licht-und_Luftbad_Niederrad.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Licht-und_Luftbad_Niederrad|Licht-und_Luftbad_Niederrad]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Licht-und_Luftbad_Niederrad.public|Licht-und_Luftbad_Niederrad.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Licht-und_Luftbad_Niederrad.internal|Licht-und_Luftbad_Niederrad.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Licht-und_Luftbad_Niederrad.protect|Licht-und_Luftbad_Niederrad.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Licht-und_Luftbad_Niederrad.private|Licht-und_Luftbad_Niederrad.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Licht-und_Luftbad_Niederrad.personal|Licht-und_Luftbad_Niederrad.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Licht-und_Luftbad_Niederrad.secret|Licht-und_Luftbad_Niederrad.secret]]"
 ---
 
 # [[Licht-und_Luftbad_Niederrad]] 

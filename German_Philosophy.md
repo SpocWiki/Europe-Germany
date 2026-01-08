@@ -8,6 +8,25 @@ country: "[[_Standards/WikiData/WD~Germany,183]]"
 Dewey_Decimal_Classification: "193"
 PhilPapers_topic: german-philosophy
 Commons_category: Philosophy in Germany
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~German_philosophy,1203683|WD~German_philosophy,1203683]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy|German_Philosophy]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.public|German_Philosophy.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.internal|German_Philosophy.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.protect|German_Philosophy.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.private|German_Philosophy.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.personal|German_Philosophy.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.secret|German_Philosophy.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~German_philosophy,1203683|WD~German_philosophy,1203683]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy|German_Philosophy]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.public|German_Philosophy.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.internal|German_Philosophy.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.protect|German_Philosophy.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.private|German_Philosophy.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.personal|German_Philosophy.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/German_Philosophy.secret|German_Philosophy.secret]]"
 ---
 
 # [[German_Philosophy]] 

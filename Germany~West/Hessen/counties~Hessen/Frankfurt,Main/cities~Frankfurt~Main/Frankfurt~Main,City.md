@@ -1,4 +1,30 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.68
+dv_has_place_latitude: 50.11
+dv_name: Frankfurt~Main
+dv_has_place_country: "[[../../../../../../Germany]]"
+dv_has_place_province: "[[../../../../Hessen]]"
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../../WikiData/WD~Frankfurt,1794]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City|Frankfurt~Main,City]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City.public|Frankfurt~Main,City.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City.internal|Frankfurt~Main,City.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City.protect|Frankfurt~Main,City.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City.private|Frankfurt~Main,City.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City.personal|Frankfurt~Main,City.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City.secret|Frankfurt~Main,City.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../../WikiData/WD~Frankfurt,1794]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City|Frankfurt~Main,City]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City.public|Frankfurt~Main,City.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City.internal|Frankfurt~Main,City.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City.protect|Frankfurt~Main,City.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City.private|Frankfurt~Main,City.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City.personal|Frankfurt~Main,City.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City.secret|Frankfurt~Main,City.secret]]"
+
 has_time_started: 0100-01-01 
 aliases:
   - Frankfort
@@ -212,16 +238,16 @@ X_Twitter_username:
 # [[Frankfurt~Main,City]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.68] 
-[has_place_latitude::50.11] 
-[name::Frankfurt~Main] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[Hessen]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Frankfurt,1794]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map 
 

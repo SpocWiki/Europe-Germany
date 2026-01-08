@@ -15,15 +15,38 @@ SpocWebEntityId: 33954
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.72
+dv_has_place_latitude: 53.77
+dv_name: Sarau
+dv_has_place_country: "[[../../../../../../../../Germany]]"
+dv_has_place_province: "[[../../../../../../Schleswig-Holstein]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau|Groß_Sarau]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau.public|Groß_Sarau.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau.internal|Groß_Sarau.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau.protect|Groß_Sarau.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau.private|Groß_Sarau.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau.personal|Groß_Sarau.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau.secret|Groß_Sarau.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau|Groß_Sarau]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau.public|Groß_Sarau.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau.internal|Groß_Sarau.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau.protect|Groß_Sarau.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau.private|Groß_Sarau.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau.personal|Groß_Sarau.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Herzogtum_Lauenburg/cities~Lauenburg/Lauenburgische_Seen/boroughs~Lauenburgische_Seen/Groß_Sarau.secret|Groß_Sarau.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.72] 
-[has_place_latitude::53.77] 
-[name::Sarau] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[Schleswig-Holstein]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
 

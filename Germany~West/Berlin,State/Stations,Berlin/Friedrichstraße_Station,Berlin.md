@@ -6,10 +6,33 @@ aliases:
 location:
   - 52.520278
   - 13.386944
+dv_has_:
+  place_:
+    latitude: 52.520278
+    longitude: 13.386944
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin|Friedrichstraße_Station,Berlin]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.public|Friedrichstraße_Station,Berlin.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.internal|Friedrichstraße_Station,Berlin.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.protect|Friedrichstraße_Station,Berlin.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.private|Friedrichstraße_Station,Berlin.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.personal|Friedrichstraße_Station,Berlin.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.secret|Friedrichstraße_Station,Berlin.secret]]"
+dv_has_place_latitude: 52.520278
+dv_has_place_longitude: 13.386944
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin|Friedrichstraße_Station,Berlin]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.public|Friedrichstraße_Station,Berlin.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.internal|Friedrichstraße_Station,Berlin.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.protect|Friedrichstraße_Station,Berlin.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.private|Friedrichstraße_Station,Berlin.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.personal|Friedrichstraße_Station,Berlin.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.secret|Friedrichstraße_Station,Berlin.secret]]"
 ---
 
-#has_/place_/latitude :: 52.520278 
-#has_/place_/longitude :: 13.386944 
+has_place_latitude = `=this.dv_has_place_latitude`
+has_place_longitude = `=this.dv_has_place_longitude`
 
 geo:52.520278,13.386944
 

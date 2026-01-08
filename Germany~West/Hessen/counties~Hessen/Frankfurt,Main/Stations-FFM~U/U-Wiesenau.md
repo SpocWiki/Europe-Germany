@@ -11,22 +11,48 @@ mapzoom:
 tags:
   - geo/station/subway
 type: Station
+dv_StationUId: 88
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.62989
+dv_has_place_latitude: 50.16677
+dv_name: Wiesenau
+dv_has_place_country: "[[../../../../../../Germany]]"
+dv_City: "[[../../Frankfurt,Main]] ]"
+dv_switch-to-SPNV: "-"
+dv_switch-to-ÖPNV: "-"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Wiesenau|U-Wiesenau]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Wiesenau.public|U-Wiesenau.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Wiesenau.internal|U-Wiesenau.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Wiesenau.protect|U-Wiesenau.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Wiesenau.private|U-Wiesenau.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Wiesenau.personal|U-Wiesenau.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Wiesenau.secret|U-Wiesenau.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Wiesenau|U-Wiesenau]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Wiesenau.public|U-Wiesenau.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Wiesenau.internal|U-Wiesenau.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Wiesenau.protect|U-Wiesenau.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Wiesenau.private|U-Wiesenau.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Wiesenau.personal|U-Wiesenau.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~U/U-Wiesenau.secret|U-Wiesenau.secret]]"
 ---
 
 SpocWebEntityId: 156316
-[StationUId::88] 
+StationUId = `=this.dv_StationUId` 
 isDeleted: false
 isReadOnly: false
 confidential: public
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.62989] 
-[has_place_latitude::50.16677] 
-[name::Wiesenau] 
-has_place_country:: [[Germany]]  
-City :: [[../../Frankfurt,Main]] ] 
-[switch-to-SPNV::-] 
-[switch-to-ÖPNV::-] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+City = `=this.dv_City`
+switch-to-SPNV = `=this.dv_switch-to-SPNV` 
+switch-to-ÖPNV = `=this.dv_switch-to-ÖPNV` 
 
 -
 

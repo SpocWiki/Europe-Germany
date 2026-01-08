@@ -11,6 +11,29 @@ mapzoom:
 tags:
   - geo/station/train
 type: Station
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.6975
+dv_has_place_latitude: 50.17222
+dv_name: Frankfurt-Berkersheim
+dv_has_place_country: "[[../../../../../../Germany]]"
+dv_City: "[[../../Frankfurt,Main]] ]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Berkersheim|S-Frankfurt-Berkersheim]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Berkersheim.public|S-Frankfurt-Berkersheim.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Berkersheim.internal|S-Frankfurt-Berkersheim.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Berkersheim.protect|S-Frankfurt-Berkersheim.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Berkersheim.private|S-Frankfurt-Berkersheim.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Berkersheim.personal|S-Frankfurt-Berkersheim.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Berkersheim.secret|S-Frankfurt-Berkersheim.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Berkersheim|S-Frankfurt-Berkersheim]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Berkersheim.public|S-Frankfurt-Berkersheim.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Berkersheim.internal|S-Frankfurt-Berkersheim.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Berkersheim.protect|S-Frankfurt-Berkersheim.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Berkersheim.private|S-Frankfurt-Berkersheim.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Berkersheim.personal|S-Frankfurt-Berkersheim.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Frankfurt-Berkersheim.secret|S-Frankfurt-Berkersheim.secret]]"
 ---
 
 SpocWebEntityId: 156443
@@ -18,12 +41,12 @@ isDeleted: false
 isReadOnly: false
 confidential: public
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.6975] 
-[has_place_latitude::50.17222] 
-[name::Frankfurt-Berkersheim] 
-has_place_country:: [[Germany]]  
-City :: [[../../Frankfurt,Main]] ] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+City = `=this.dv_City`
 
 
 ```leaflet

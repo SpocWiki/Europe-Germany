@@ -14,15 +14,38 @@ SpocWebEntityId: 30370
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 13.33
+dv_has_place_latitude: 54.25
+dv_name: Garz~Ruegen
+dv_has_place_country: "[[../../../../../../../../Germany]]"
+dv_has_place_province: "[[../../../../../../Mecklenburg-Vorpommern]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen|Garz,Ruegen]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen.public|Garz,Ruegen.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen.internal|Garz,Ruegen.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen.protect|Garz,Ruegen.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen.private|Garz,Ruegen.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen.personal|Garz,Ruegen.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen.secret|Garz,Ruegen.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen|Garz,Ruegen]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen.public|Garz,Ruegen.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen.internal|Garz,Ruegen.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen.protect|Garz,Ruegen.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen.private|Garz,Ruegen.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen.personal|Garz,Ruegen.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Bergen~Rügen/boroughs~Bergen~Rüg/Garz,Ruegen.secret|Garz,Ruegen.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::13.33] 
-[has_place_latitude::54.25] 
-[name::Garz~Ruegen] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[Mecklenburg-Vorpommern]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
 

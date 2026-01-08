@@ -71,6 +71,25 @@ Dewey_Decimal_Classification: "027.5"
 IPv6_routing_prefix: 2001:638:1912::/48
 ISIL: DE-101
 Commons_category: Deutsche Nationalbibliothek
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~German_National_Library,27302|WD~German_National_Library,27302]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library|German_National_Library]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.public|German_National_Library.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.internal|German_National_Library.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.protect|German_National_Library.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.private|German_National_Library.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.personal|German_National_Library.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.secret|German_National_Library.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~German_National_Library,27302|WD~German_National_Library,27302]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library|German_National_Library]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.public|German_National_Library.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.internal|German_National_Library.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.protect|German_National_Library.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.private|German_National_Library.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.personal|German_National_Library.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/German_National_Library.secret|German_National_Library.secret]]"
 ---
 
 # [[German_National_Library]] 

@@ -13,12 +13,36 @@ SpocWebEntityId: 29130
 tags:
   - geo/State
 type: State
+dv_name: State~Berlin
+dv_name-abbr: BL
+dv_has_place_country: "[[../../Germany]]"
+dv_Capital: "[[Berlin,State/cities~Berlin/Berlin,City]]"
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 13.3689
+dv_has_place_latitude: 52.4926
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State|Berlin,State]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State.public|Berlin,State.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State.internal|Berlin,State.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State.protect|Berlin,State.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State.private|Berlin,State.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State.personal|Berlin,State.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State.secret|Berlin,State.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State|Berlin,State]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State.public|Berlin,State.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State.internal|Berlin,State.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State.protect|Berlin,State.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State.private|Berlin,State.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State.personal|Berlin,State.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State.secret|Berlin,State.secret]]"
 ---
 
 # [[Berlin,State]] 
 
-[name::State~Berlin] 
-[name-abbr::BL]
+name = `=this.dv_name` 
+name-abbr = `=this.dv_name-abbr`
 
 ![[Berlin,State/Coat_of_arms_of_Berlin.svg|350]] 
 
@@ -33,12 +57,12 @@ geojsonFolder: ./State~Berlin/
 markerFolder: ./State~Berlin/
 ```
 
-has_place_country:: [[Germany]]  
-Capital :: [[Berlin,State/cities~Berlin/Berlin,City]]  
+has_place_country = `=this.dv_has_place_country`
+Capital = `=this.dv_Capital`
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::13.3689] 
-[has_place_latitude::52.4926] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
 

@@ -12,6 +12,29 @@ mapzoom:
 tags:
   - geo/station/train
 type: Station
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.775556
+dv_has_place_latitude: 50.00861
+dv_name: Dietzenbach Bhf
+dv_has_place_country: "[[../../../../../../Germany]]"
+dv_City: "[[../../Frankfurt,Main]] ]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dietzenbach_Bhf|S-Dietzenbach_Bhf]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dietzenbach_Bhf.public|S-Dietzenbach_Bhf.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dietzenbach_Bhf.internal|S-Dietzenbach_Bhf.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dietzenbach_Bhf.protect|S-Dietzenbach_Bhf.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dietzenbach_Bhf.private|S-Dietzenbach_Bhf.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dietzenbach_Bhf.personal|S-Dietzenbach_Bhf.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dietzenbach_Bhf.secret|S-Dietzenbach_Bhf.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dietzenbach_Bhf|S-Dietzenbach_Bhf]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dietzenbach_Bhf.public|S-Dietzenbach_Bhf.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dietzenbach_Bhf.internal|S-Dietzenbach_Bhf.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dietzenbach_Bhf.protect|S-Dietzenbach_Bhf.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dietzenbach_Bhf.private|S-Dietzenbach_Bhf.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dietzenbach_Bhf.personal|S-Dietzenbach_Bhf.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~S/S-Dietzenbach_Bhf.secret|S-Dietzenbach_Bhf.secret]]"
 ---
 
 SpocWebEntityId: 156402
@@ -19,12 +42,12 @@ isDeleted: false
 isReadOnly: false
 confidential: public
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.775556] 
-[has_place_latitude::50.00861] 
-[name::Dietzenbach Bhf] 
-has_place_country:: [[Germany]]  
-City :: [[../../Frankfurt,Main]] ] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+City = `=this.dv_City`
 
 
 ```leaflet

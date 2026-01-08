@@ -14,15 +14,38 @@ SpocWebEntityId: 31173
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 13.95
+dv_has_place_latitude: 53.57
+dv_name: Jatznick
+dv_has_place_country: "[[../../../../../../../../Germany]]"
+dv_has_place_province: "[[../../../../../../Mecklenburg-Vorpommern]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick|Jatznick]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick.public|Jatznick.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick.internal|Jatznick.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick.protect|Jatznick.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick.private|Jatznick.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick.personal|Jatznick.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick.secret|Jatznick.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick|Jatznick]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick.public|Jatznick.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick.internal|Jatznick.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick.protect|Jatznick.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick.private|Jatznick.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick.personal|Jatznick.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Uecker-Randow-Tal/boroughs~Randow-Tal/Jatznick.secret|Jatznick.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::13.95] 
-[has_place_latitude::53.57] 
-[name::Jatznick] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[Mecklenburg-Vorpommern]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
 

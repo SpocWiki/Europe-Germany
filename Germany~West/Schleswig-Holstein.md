@@ -1,135 +1,158 @@
 ---
-aliases: 
+aliases:
 archives_at: "[[_Standards/WikiData/WD~State Archives of Schleswig-Holstein]]"
 area: 15804.28
 BHCL_UUID:
-- f813327b-c180-4f66-bf97-9d41853ae770
-capital: '[[_Standards/WikiData/WD~Kiel]]'
+  - f813327b-c180-4f66-bf97-9d41853ae770
+capital: "[[_Standards/WikiData/WD~Kiel]]"
 coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Schleswig-Holstein]]"
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/DEU%20Schleswig-Holstein%20COA.svg"
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/DEU%20Schleswig-Holstein%20COA.svg
 Commons_category: Schleswig-Holstein
 Commons_gallery: Schleswig-Holstein
 Confidential: public
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Süderdithmarschen District]]"
-- "[[_Standards/WikiData/WD~Norderdithmarschen District]]"
-- '[[_Standards/WikiData/WD~Kiel]]'
-- '[[_Standards/WikiData/WD~Lübeck]]'
-- "[[_Standards/WikiData/WD~Nordfriesland district]]"
-- '[[_Standards/WikiData/WD~Schleswig-Flensburg]]'
-- '[[_Standards/WikiData/WD~Dithmarschen]]'
-- '[[_Standards/WikiData/WD~Rendsburg-Eckernförde]]'
-- "[[_Standards/WikiData/WD~Plön District]]"
-- '[[_Standards/WikiData/WD~Ostholstein]]'
-- '[[_Standards/WikiData/WD~Segeberg]]'
-- '[[_Standards/WikiData/WD~Stormarn]]'
-- "[[_Standards/WikiData/WD~Herzogtum Lauenburg]]"
-- '[[_Standards/WikiData/WD~Pinneberg]]'
-- '[[_Standards/WikiData/WD~Steinburg]]'
-- '[[_Standards/WikiData/WD~Flensburg]]'
-- '[[_Standards/WikiData/WD~Neumünster]]'
-coordinate_location: "Point(9.51416 54.470038)"
-country: '[[_Standards/WikiData/WD~Germany]]'
+  - "[[_Standards/WikiData/WD~Süderdithmarschen District]]"
+  - "[[_Standards/WikiData/WD~Norderdithmarschen District]]"
+  - "[[_Standards/WikiData/WD~Kiel]]"
+  - "[[_Standards/WikiData/WD~Lübeck]]"
+  - "[[_Standards/WikiData/WD~Nordfriesland district]]"
+  - "[[_Standards/WikiData/WD~Schleswig-Flensburg]]"
+  - "[[_Standards/WikiData/WD~Dithmarschen]]"
+  - "[[_Standards/WikiData/WD~Rendsburg-Eckernförde]]"
+  - "[[_Standards/WikiData/WD~Plön District]]"
+  - "[[_Standards/WikiData/WD~Ostholstein]]"
+  - "[[_Standards/WikiData/WD~Segeberg]]"
+  - "[[_Standards/WikiData/WD~Stormarn]]"
+  - "[[_Standards/WikiData/WD~Herzogtum Lauenburg]]"
+  - "[[_Standards/WikiData/WD~Pinneberg]]"
+  - "[[_Standards/WikiData/WD~Steinburg]]"
+  - "[[_Standards/WikiData/WD~Flensburg]]"
+  - "[[_Standards/WikiData/WD~Neumünster]]"
+coordinate_location: Point(9.51416 54.470038)
+country: "[[_Standards/WikiData/WD~Germany]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890)]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 8]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition]]"
+  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890)]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 8]]"
 Dewey_Decimal_Classification: 2--43512
 different_from:
-- '[[_Standards/WikiData/WD~Schleswig-Holstein]]'
+  - "[[_Standards/WikiData/WD~Schleswig-Holstein]]"
 economy_of_topic: "[[_Standards/WikiData/WD~economy of Schleswig-Holstein]]"
 elevation_above_sea_level: 12
 FIPS_10_4_countries_and_regions_: GM10
 flag: "[[_Standards/WikiData/WD~flag of Schleswig-Holstein]]"
-flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Schleswig-Holstein.svg"
-geoshape: "http://commons.wikimedia.org/data/main/Data:Schleswig-Holstein.map"
-German_regional_key: 01
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Schleswig-Holstein.svg
+geoshape: http://commons.wikimedia.org/data/main/Data:Schleswig-Holstein.map
+German_regional_key: 1
 HASC:
-- DE.SH
+  - DE.SH
 has_id_wikidata: Q1194
 has_time_started: 1946-08-23
 head_of_government: "[[_Standards/WikiData/WD~Daniel Günther]]"
 highest_judicial_authority: "[[_Standards/WikiData/WD~State Constitutional Court of Schleswig-Holstein]]"
-highest_point: '[[_Standards/WikiData/WD~Bungsberg]]'
+highest_point: "[[_Standards/WikiData/WD~Bungsberg]]"
 history_of_topic: "[[_Standards/WikiData/WD~history of Schleswig-Holstein]]"
 icon: Flag_of_Schleswig-Holstein
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Holstentor04.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Holstentor04.jpg
 Image_Archive_Herder_Institute: Q1194
 inception: 1946-08-23
 instance_of:
-- "[[_Standards/WikiData/WD~federated state of Germany]]"
+  - "[[_Standards/WikiData/WD~federated state of Germany]]"
 isDeleted: false
 ISNI:
-- 0000000107753521
-- 000000040427659X
+  - 107753521
+  - 000000040427659X
 ISO3166_2: DE-SH
 ISO_3166_2_code: DE-SH
 language_used:
-- '[[_Standards/WikiData/WD~Danish]]'
-- "[[_Standards/WikiData/WD~North Frisian]]"
+  - "[[_Standards/WikiData/WD~Danish]]"
+  - "[[_Standards/WikiData/WD~North Frisian]]"
 legislative_body:
-- "[[_Standards/WikiData/WD~Landtag of Schleswig-Holstein]]"
+  - "[[_Standards/WikiData/WD~Landtag of Schleswig-Holstein]]"
 Libris_URI: 75kml77r34w8z3m
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Germany]]'
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Germany]]"
 location:
-- 54.1593
-- 9.87324
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Schleswig-Holstein%20in%20Germany.svg"
+  - 54.1593
+  - 9.87324
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Schleswig-Holstein%20in%20Germany.svg
 Mastodon_address: landesregierung@social.schleswig-holstein.de
-Mastodon_instance_URL: "https://social.schleswig-holstein.de/"
+Mastodon_instance_URL: https://social.schleswig-holstein.de/
 member_of:
-- "[[_Standards/WikiData/WD~Climate Alliance]]"
+  - "[[_Standards/WikiData/WD~Climate Alliance]]"
 motto_text:
-- "Der echte Norden"
+  - Der echte Norden
 native_label:
-- Schleswig-Holstein
+  - Schleswig-Holstein
 NUTS_code:
-- DEF
-- DEF0
+  - DEF
+  - DEF0
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Minister-President of Schleswig-Holstein]]"
-official_website: "https://www.schleswig-holstein.de/"
+official_website: https://www.schleswig-holstein.de/
 OmegaWiki_Defined_Meaning: 642921
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Flensburg%20banner%202.jpg"
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Flensburg%20banner%202.jpg
 participant_in: "[[_Standards/WikiData/WD~list of participants in the coalition talks between the CDU/CSU and SPD in 2013]]"
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q20894827]]'
-- '[[_Standards/WikiData/WD~Q25929854]]'
-- '[[_Standards/WikiData/WD~Q104090852]]'
-- '[[_Standards/WikiData/WD~Q106806609]]'
-- '[[_Standards/WikiData/WD~Q107350023]]'
-- '[[_Standards/WikiData/WD~Q107491974]]'
-- '[[_Standards/WikiData/WD~Q110737259]]'
+  - "[[_Standards/WikiData/WD~Q20894827]]"
+  - "[[_Standards/WikiData/WD~Q25929854]]"
+  - "[[_Standards/WikiData/WD~Q104090852]]"
+  - "[[_Standards/WikiData/WD~Q106806609]]"
+  - "[[_Standards/WikiData/WD~Q107350023]]"
+  - "[[_Standards/WikiData/WD~Q107491974]]"
+  - "[[_Standards/WikiData/WD~Q110737259]]"
 population: 2953270
 replaces:
-- "[[_Standards/WikiData/WD~Province of Schleswig-Holstein]]"
+  - "[[_Standards/WikiData/WD~Province of Schleswig-Holstein]]"
 shares_border_with:
-- '[[_Standards/WikiData/WD~Hamburg]]'
-- "[[_Standards/WikiData/WD~Mecklenburg-Western Pomerania]]"
-- "[[_Standards/WikiData/WD~Lower Saxony]]"
-- '[[_Standards/WikiData/WD~Lohbrügge]]'
+  - "[[_Standards/WikiData/WD~Hamburg]]"
+  - "[[_Standards/WikiData/WD~Mecklenburg-Western Pomerania]]"
+  - "[[_Standards/WikiData/WD~Lower Saxony]]"
+  - "[[_Standards/WikiData/WD~Lohbrügge]]"
 social_media_followers: 888
 SpocWebEntityId: 36025
 tags:
-- geo/State
+  - geo/State
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal:Schleswig-Holstein]]"
 twinned_administrative_body:
-- "[[_Standards/WikiData/WD~Hyogo Prefecture]]"
-- "[[_Standards/WikiData/WD~South Jutland County]]"
-- '[[_Standards/WikiData/WD~Maryland]]'
-- "[[_Standards/WikiData/WD~Kaliningrad Oblast]]"
-- '[[_Standards/WikiData/WD~Zhejiang]]'
-- "[[_Standards/WikiData/WD~Pays de la Loire]]"
-- "[[_Standards/WikiData/WD~Pomeranian Voivodeship]]"
+  - "[[_Standards/WikiData/WD~Hyogo Prefecture]]"
+  - "[[_Standards/WikiData/WD~South Jutland County]]"
+  - "[[_Standards/WikiData/WD~Maryland]]"
+  - "[[_Standards/WikiData/WD~Kaliningrad Oblast]]"
+  - "[[_Standards/WikiData/WD~Zhejiang]]"
+  - "[[_Standards/WikiData/WD~Pays de la Loire]]"
+  - "[[_Standards/WikiData/WD~Pomeranian Voivodeship]]"
 type: State
 U_S_National_Archives_Identifier: 10044808
+dv_name: Schleswig-Holstein
+dv_name-abbr: SG
+dv_has_place_country: "[[../../Germany]]"
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.87324
+dv_has_place_latitude: 54.1593
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein|Schleswig-Holstein]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.public|Schleswig-Holstein.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.internal|Schleswig-Holstein.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.protect|Schleswig-Holstein.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.private|Schleswig-Holstein.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.personal|Schleswig-Holstein.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.secret|Schleswig-Holstein.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein|Schleswig-Holstein]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.public|Schleswig-Holstein.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.internal|Schleswig-Holstein.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.protect|Schleswig-Holstein.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.private|Schleswig-Holstein.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.personal|Schleswig-Holstein.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein.secret|Schleswig-Holstein.secret]]"
 ---
 
 # [[Schleswig-Holstein]] 
 
-[name::Schleswig-Holstein] 
+name = `=this.dv_name` 
 
-[name-abbr::SG] 
+name-abbr = `=this.dv_name-abbr` 
 
 ![[Coat_of_arms_of_Schleswig-Holstein.svg|350]] 
 
@@ -180,12 +203,12 @@ geojsonFolder: ./Schleswig-Holstein/
 markerFolder: ./Schleswig-Holstein/
 ```
 
-has_place_country:: [[Germany]]  
+has_place_country = `=this.dv_has_place_country`
 Capital :: [[Kiel]]  
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.87324] 
-[has_place_latitude::54.1593] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
 
 

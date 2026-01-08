@@ -14,15 +14,38 @@ SpocWebEntityId: 30011
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.93
+dv_has_place_latitude: 53.45
+dv_name: Eissendorf
+dv_has_place_country: "[[../../../../Germany]]"
+dv_has_place_province: "[[../../Hamburg,State]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Eissendorf|Eissendorf]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Eissendorf.public|Eissendorf.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Eissendorf.internal|Eissendorf.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Eissendorf.protect|Eissendorf.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Eissendorf.private|Eissendorf.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Eissendorf.personal|Eissendorf.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Eissendorf.secret|Eissendorf.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Eissendorf|Eissendorf]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Eissendorf.public|Eissendorf.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Eissendorf.internal|Eissendorf.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Eissendorf.protect|Eissendorf.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Eissendorf.private|Eissendorf.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Eissendorf.personal|Eissendorf.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Eissendorf.secret|Eissendorf.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.93] 
-[has_place_latitude::53.45] 
-[name::Eissendorf] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[../../Hamburg,State]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
 

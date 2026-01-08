@@ -14,15 +14,38 @@ SpocWebEntityId: 32454
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.23
+dv_has_place_latitude: 53.32
+dv_name: Meyenburg
+dv_has_place_country: "[[../../../../../../Germany]]"
+dv_has_place_province: "[[../../../../Brandenburg]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Meyenburg|Meyenburg]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Meyenburg.public|Meyenburg.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Meyenburg.internal|Meyenburg.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Meyenburg.protect|Meyenburg.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Meyenburg.private|Meyenburg.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Meyenburg.personal|Meyenburg.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Meyenburg.secret|Meyenburg.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Meyenburg|Meyenburg]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Meyenburg.public|Meyenburg.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Meyenburg.internal|Meyenburg.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Meyenburg.protect|Meyenburg.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Meyenburg.private|Meyenburg.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Meyenburg.personal|Meyenburg.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Prignitz/cities~Prignitz/Meyenburg.secret|Meyenburg.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.23] 
-[has_place_latitude::53.32] 
-[name::Meyenburg] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[Brandenburg]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
 

@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../../../WikiData/WD~Ostsiedlung,170346]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung|Ostsiedlung]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.public|Ostsiedlung.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.internal|Ostsiedlung.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.protect|Ostsiedlung.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.private|Ostsiedlung.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.personal|Ostsiedlung.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.secret|Ostsiedlung.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../WikiData/WD~Ostsiedlung,170346]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung|Ostsiedlung]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.public|Ostsiedlung.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.internal|Ostsiedlung.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.protect|Ostsiedlung.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.private|Ostsiedlung.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.personal|Ostsiedlung.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.secret|Ostsiedlung.secret]]"
+
 has_time_started: 0801-01-01 
 aliases:
 has_id_wikidata: Q170346

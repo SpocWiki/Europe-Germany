@@ -2,6 +2,23 @@
 aliases:
   - Child Benefit
   - Child_Benefit
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit|Child_Benefit]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.public|Child_Benefit.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.internal|Child_Benefit.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.protect|Child_Benefit.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.private|Child_Benefit.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.personal|Child_Benefit.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.secret|Child_Benefit.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit|Child_Benefit]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.public|Child_Benefit.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.internal|Child_Benefit.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.protect|Child_Benefit.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.private|Child_Benefit.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.personal|Child_Benefit.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/German~Politics/Child_Benefit.secret|Child_Benefit.secret]]"
 ---
 
 ## #has_/text_of_/abstract 

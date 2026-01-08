@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../../../WikiData/WD~Goethe_University_Frankfurt,50662]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Goethe_University,Frankfurt|Goethe_University,Frankfurt]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Goethe_University,Frankfurt.public|Goethe_University,Frankfurt.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Goethe_University,Frankfurt.internal|Goethe_University,Frankfurt.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Goethe_University,Frankfurt.protect|Goethe_University,Frankfurt.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Goethe_University,Frankfurt.private|Goethe_University,Frankfurt.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Goethe_University,Frankfurt.personal|Goethe_University,Frankfurt.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Goethe_University,Frankfurt.secret|Goethe_University,Frankfurt.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../../../WikiData/WD~Goethe_University_Frankfurt,50662]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Goethe_University,Frankfurt|Goethe_University,Frankfurt]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Goethe_University,Frankfurt.public|Goethe_University,Frankfurt.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Goethe_University,Frankfurt.internal|Goethe_University,Frankfurt.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Goethe_University,Frankfurt.protect|Goethe_University,Frankfurt.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Goethe_University,Frankfurt.private|Goethe_University,Frankfurt.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Goethe_University,Frankfurt.personal|Goethe_University,Frankfurt.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/cities~Frankfurt~Main/Frankfurt~Main,City/Goethe_University,Frankfurt.secret|Goethe_University,Frankfurt.secret]]"
+
 has_time_started: 1914-10-16 
 aliases:
   - Goethe_University,Frankfurt

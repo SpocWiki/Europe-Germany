@@ -14,15 +14,38 @@ SpocWebEntityId: 34461
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.13
+dv_has_place_latitude: 49.28
+dv_name: St.Ingbert
+dv_has_place_country: "[[../../../../../../Germany]]"
+dv_has_place_province: "[[../../../../Saarland]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert|St.Ingbert]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert.public|St.Ingbert.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert.internal|St.Ingbert.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert.protect|St.Ingbert.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert.private|St.Ingbert.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert.personal|St.Ingbert.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert.secret|St.Ingbert.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert|St.Ingbert]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert.public|St.Ingbert.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert.internal|St.Ingbert.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert.protect|St.Ingbert.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert.private|St.Ingbert.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert.personal|St.Ingbert.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarpfalz-Kreis/cities~Saarpfalz-Kreis/St.Ingbert.secret|St.Ingbert.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.13] 
-[has_place_latitude::49.28] 
-[name::St.Ingbert] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[Saarland]] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
 

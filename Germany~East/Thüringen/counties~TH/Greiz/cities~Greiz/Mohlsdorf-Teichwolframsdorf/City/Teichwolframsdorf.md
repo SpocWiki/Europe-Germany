@@ -14,15 +14,38 @@ SpocWebEntityId: 34794
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 12.27
+dv_has_place_latitude: 50.73
+dv_name: Teichwolframsdorf
+dv_has_place_country: "[[../../../../../../../../Germany]]"
+dv_has_place_province: "[[../../../../../../Sachsen]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Mohlsdorf-Teichwolframsdorf/City/Teichwolframsdorf|Teichwolframsdorf]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Mohlsdorf-Teichwolframsdorf/City/Teichwolframsdorf.public|Teichwolframsdorf.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Mohlsdorf-Teichwolframsdorf/City/Teichwolframsdorf.internal|Teichwolframsdorf.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Mohlsdorf-Teichwolframsdorf/City/Teichwolframsdorf.protect|Teichwolframsdorf.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Mohlsdorf-Teichwolframsdorf/City/Teichwolframsdorf.private|Teichwolframsdorf.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Mohlsdorf-Teichwolframsdorf/City/Teichwolframsdorf.personal|Teichwolframsdorf.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Mohlsdorf-Teichwolframsdorf/City/Teichwolframsdorf.secret|Teichwolframsdorf.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Mohlsdorf-Teichwolframsdorf/City/Teichwolframsdorf|Teichwolframsdorf]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Mohlsdorf-Teichwolframsdorf/City/Teichwolframsdorf.public|Teichwolframsdorf.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Mohlsdorf-Teichwolframsdorf/City/Teichwolframsdorf.internal|Teichwolframsdorf.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Mohlsdorf-Teichwolframsdorf/City/Teichwolframsdorf.protect|Teichwolframsdorf.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Mohlsdorf-Teichwolframsdorf/City/Teichwolframsdorf.private|Teichwolframsdorf.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Mohlsdorf-Teichwolframsdorf/City/Teichwolframsdorf.personal|Teichwolframsdorf.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Greiz/cities~Greiz/Mohlsdorf-Teichwolframsdorf/City/Teichwolframsdorf.secret|Teichwolframsdorf.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::12.27] 
-[has_place_latitude::50.73] 
-[name::Teichwolframsdorf] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[Sachsen]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
 

@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../../WikiData/WD~Cologne_Cathedral,4176|WD~Cologne_Cathedral,4176]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City/Cologne_Cathedral|Cologne_Cathedral]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City/Cologne_Cathedral.public|Cologne_Cathedral.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City/Cologne_Cathedral.internal|Cologne_Cathedral.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City/Cologne_Cathedral.protect|Cologne_Cathedral.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City/Cologne_Cathedral.private|Cologne_Cathedral.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City/Cologne_Cathedral.personal|Cologne_Cathedral.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City/Cologne_Cathedral.secret|Cologne_Cathedral.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../../WikiData/WD~Cologne_Cathedral,4176|WD~Cologne_Cathedral,4176]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City/Cologne_Cathedral|Cologne_Cathedral]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City/Cologne_Cathedral.public|Cologne_Cathedral.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City/Cologne_Cathedral.internal|Cologne_Cathedral.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City/Cologne_Cathedral.protect|Cologne_Cathedral.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City/Cologne_Cathedral.private|Cologne_Cathedral.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City/Cologne_Cathedral.personal|Cologne_Cathedral.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City/Cologne_Cathedral.secret|Cologne_Cathedral.secret]]"
+
 has_time_started: 1248-01-01 
 aliases:
   - Kölner Dom

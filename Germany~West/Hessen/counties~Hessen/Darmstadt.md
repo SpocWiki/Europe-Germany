@@ -1,4 +1,30 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.66
+dv_has_place_latitude: 49.87
+dv_name: Darmstadt
+dv_has_place_country: "[[../../../../Germany]]"
+dv_has_place_province: "[[../../Hessen]]"
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~Darmstadt,2973]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt|Darmstadt]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.public|Darmstadt.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.internal|Darmstadt.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.protect|Darmstadt.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.private|Darmstadt.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.personal|Darmstadt.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.secret|Darmstadt.secret]]"
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~Darmstadt,2973]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt|Darmstadt]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.public|Darmstadt.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.internal|Darmstadt.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.protect|Darmstadt.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.private|Darmstadt.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.personal|Darmstadt.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.secret|Darmstadt.secret]]"
+
 has_time_started: 1330-01-01 
 aliases:
 has_id_wikidata: Q2973
@@ -128,28 +154,28 @@ short_name: Ds
 # [[Darmstadt]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.66] 
-[has_place_latitude::49.87] 
-[name::Darmstadt] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[Hessen]] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Darmstadt,2973]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map 
 
 ```leaflet
 id: Darmstadt
+zoomFeatures: true
 geojsonFolder: ./Darmstadt/
 markerFolder: ./Darmstadt/
 coordinates: [[Darmstadt]] 
 markerFile: [[Darmstadt]] 
-zoomFeatures: true
-defaultZoom: 11 
+defaultZoom: 5 
 maxZoom: 18
-minZoom: 6
+minZoom: 5
 ```
 
 

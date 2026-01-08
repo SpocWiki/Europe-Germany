@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../../../WikiData/WD~Prussia,38872|WD~Prussia,38872]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia|Prussia]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.public|Prussia.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.internal|Prussia.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.protect|Prussia.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.private|Prussia.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.personal|Prussia.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.secret|Prussia.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../WikiData/WD~Prussia,38872|WD~Prussia,38872]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia|Prussia]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.public|Prussia.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.internal|Prussia.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.protect|Prussia.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.private|Prussia.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.personal|Prussia.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.secret|Prussia.secret]]"
+
 has_time_started: 1525-01-01 
 aliases:
   - Preußen

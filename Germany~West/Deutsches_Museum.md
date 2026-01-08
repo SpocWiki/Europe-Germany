@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../../../WikiData/WD~Deutsches_Museum,131617|WD~Deutsches_Museum,131617]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum|Deutsches_Museum]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.public|Deutsches_Museum.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.internal|Deutsches_Museum.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.protect|Deutsches_Museum.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.private|Deutsches_Museum.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.personal|Deutsches_Museum.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.secret|Deutsches_Museum.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../WikiData/WD~Deutsches_Museum,131617|WD~Deutsches_Museum,131617]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum|Deutsches_Museum]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.public|Deutsches_Museum.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.internal|Deutsches_Museum.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.protect|Deutsches_Museum.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.private|Deutsches_Museum.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.personal|Deutsches_Museum.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Deutsches_Museum.secret|Deutsches_Museum.secret]]"
+
 has_time_started: 1903-06-28 
 aliases:
   - Deutsches Museum von Meisterwerken der Naturwissenschaft und Technik

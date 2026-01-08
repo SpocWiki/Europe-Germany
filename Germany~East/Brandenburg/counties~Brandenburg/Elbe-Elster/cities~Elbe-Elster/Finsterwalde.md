@@ -14,15 +14,38 @@ SpocWebEntityId: 30171
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 13.68
+dv_has_place_latitude: 51.62
+dv_name: Finsterwalde
+dv_has_place_country: "[[../../../../../../Germany]]"
+dv_has_place_province: "[[../../../../Brandenburg]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Finsterwalde|Finsterwalde]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Finsterwalde.public|Finsterwalde.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Finsterwalde.internal|Finsterwalde.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Finsterwalde.protect|Finsterwalde.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Finsterwalde.private|Finsterwalde.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Finsterwalde.personal|Finsterwalde.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Finsterwalde.secret|Finsterwalde.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Finsterwalde|Finsterwalde]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Finsterwalde.public|Finsterwalde.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Finsterwalde.internal|Finsterwalde.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Finsterwalde.protect|Finsterwalde.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Finsterwalde.private|Finsterwalde.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Finsterwalde.personal|Finsterwalde.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Elbe-Elster/cities~Elbe-Elster/Finsterwalde.secret|Finsterwalde.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::13.68] 
-[has_place_latitude::51.62] 
-[name::Finsterwalde] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[Brandenburg]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
 

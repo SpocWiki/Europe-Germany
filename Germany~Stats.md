@@ -14,6 +14,23 @@ FoodWasteArray:
     - 0.8
   - - Producton
     - 0.2
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~Stats|Germany~Stats]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~Stats.public|Germany~Stats.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~Stats.internal|Germany~Stats.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~Stats.protect|Germany~Stats.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~Stats.private|Germany~Stats.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~Stats.personal|Germany~Stats.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~Stats.secret|Germany~Stats.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~Stats|Germany~Stats]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~Stats.public|Germany~Stats.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~Stats.internal|Germany~Stats.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~Stats.protect|Germany~Stats.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~Stats.private|Germany~Stats.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~Stats.personal|Germany~Stats.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~Stats.secret|Germany~Stats.secret]]"
 ---
 
 # Germany~Stats

@@ -14,15 +14,38 @@ SpocWebEntityId: 35666
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.87
+dv_has_place_latitude: 51.35
+dv_name: Witzenhausen
+dv_has_place_country: "[[../../../../../../Germany]]"
+dv_has_place_province: "[[../../../../Hessen]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen|Witzenhausen]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen.public|Witzenhausen.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen.internal|Witzenhausen.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen.protect|Witzenhausen.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen.private|Witzenhausen.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen.personal|Witzenhausen.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen.secret|Witzenhausen.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen|Witzenhausen]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen.public|Witzenhausen.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen.internal|Witzenhausen.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen.protect|Witzenhausen.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen.private|Witzenhausen.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen.personal|Witzenhausen.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Witzenhausen.secret|Witzenhausen.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.87] 
-[has_place_latitude::51.35] 
-[name::Witzenhausen] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[Hessen]] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
 

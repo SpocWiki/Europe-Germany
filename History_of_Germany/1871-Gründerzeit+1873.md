@@ -1,8 +1,33 @@
+---
+dv_has_:
+  time_:
+    started: 1871-01-28T00:00:00.000+00:53
+    stopped: 1873-05-09T00:00:00.000+00:53
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873|1871-Gründerzeit+1873]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.public|1871-Gründerzeit+1873.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.internal|1871-Gründerzeit+1873.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.protect|1871-Gründerzeit+1873.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.private|1871-Gründerzeit+1873.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.personal|1871-Gründerzeit+1873.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.secret|1871-Gründerzeit+1873.secret]]"
+dv_has_time_started: 1871-01-28
+dv_has_time_stopped: 1873-05-09
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873|1871-Gründerzeit+1873]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.public|1871-Gründerzeit+1873.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.internal|1871-Gründerzeit+1873.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.protect|1871-Gründerzeit+1873.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.private|1871-Gründerzeit+1873.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.personal|1871-Gründerzeit+1873.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.secret|1871-Gründerzeit+1873.secret]]"
+---
 
 # [[1871-Gründerzeit+1873]]
 
-#has_/time_/started :: 1871-01-28 
-#has_/time_/stopped :: 1873-05-09  
+has_time_started = `=this.dv_has_time_started`
+has_time_stopped = `=this.dv_has_time_stopped`
 
 
 ## #has_/text_of_/abstract 

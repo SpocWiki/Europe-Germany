@@ -14,15 +14,38 @@ SpocWebEntityId: 29228
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.65
+dv_has_place_latitude: 54.276
+dv_name: Blekendorf
+dv_has_place_country: "[[../../../../../../../../Germany]]"
+dv_has_place_province: "[[../../../../../../Schleswig-Holstein]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf|Blekendorf]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf.public|Blekendorf.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf.internal|Blekendorf.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf.protect|Blekendorf.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf.private|Blekendorf.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf.personal|Blekendorf.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf.secret|Blekendorf.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf|Blekendorf]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf.public|Blekendorf.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf.internal|Blekendorf.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf.protect|Blekendorf.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf.private|Blekendorf.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf.personal|Blekendorf.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Plön/cities~Plön/Lütjenburg/boroughs~Lütjenburg/Blekendorf.secret|Blekendorf.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.65] 
-[has_place_latitude::54.276] 
-[name::Blekendorf] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[Schleswig-Holstein]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
 

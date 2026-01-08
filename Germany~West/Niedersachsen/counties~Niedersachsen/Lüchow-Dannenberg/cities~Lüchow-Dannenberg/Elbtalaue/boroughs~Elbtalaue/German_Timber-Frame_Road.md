@@ -2,6 +2,23 @@
 aliases:
   - German Timber-Frame Road
   - German_Timber-Frame_Road
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/German_Timber-Frame_Road|German_Timber-Frame_Road]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/German_Timber-Frame_Road.public|German_Timber-Frame_Road.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/German_Timber-Frame_Road.internal|German_Timber-Frame_Road.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/German_Timber-Frame_Road.protect|German_Timber-Frame_Road.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/German_Timber-Frame_Road.private|German_Timber-Frame_Road.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/German_Timber-Frame_Road.personal|German_Timber-Frame_Road.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/German_Timber-Frame_Road.secret|German_Timber-Frame_Road.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/German_Timber-Frame_Road|German_Timber-Frame_Road]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/German_Timber-Frame_Road.public|German_Timber-Frame_Road.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/German_Timber-Frame_Road.internal|German_Timber-Frame_Road.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/German_Timber-Frame_Road.protect|German_Timber-Frame_Road.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/German_Timber-Frame_Road.private|German_Timber-Frame_Road.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/German_Timber-Frame_Road.personal|German_Timber-Frame_Road.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/German_Timber-Frame_Road.secret|German_Timber-Frame_Road.secret]]"
 ---
 
 ﻿

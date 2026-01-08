@@ -14,15 +14,38 @@ SpocWebEntityId: 30251
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.3
+dv_has_place_latitude: 53.83
+dv_name: Freiburg~Hamburg
+dv_has_place_country: "[[../../../../../../../../Germany]]"
+dv_has_place_province: "[[../../../../../../Hamburg,State]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Freiburg~Hamburg|Freiburg~Hamburg]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Freiburg~Hamburg.public|Freiburg~Hamburg.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Freiburg~Hamburg.internal|Freiburg~Hamburg.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Freiburg~Hamburg.protect|Freiburg~Hamburg.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Freiburg~Hamburg.private|Freiburg~Hamburg.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Freiburg~Hamburg.personal|Freiburg~Hamburg.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Freiburg~Hamburg.secret|Freiburg~Hamburg.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Freiburg~Hamburg|Freiburg~Hamburg]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Freiburg~Hamburg.public|Freiburg~Hamburg.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Freiburg~Hamburg.internal|Freiburg~Hamburg.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Freiburg~Hamburg.protect|Freiburg~Hamburg.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Freiburg~Hamburg.private|Freiburg~Hamburg.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Freiburg~Hamburg.personal|Freiburg~Hamburg.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Nordkehdingen/boroughs~Nordkehdingen/Freiburg~Hamburg.secret|Freiburg~Hamburg.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.3] 
-[has_place_latitude::53.83] 
-[name::Freiburg~Hamburg] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[../../../../../../Hamburg,State]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
 

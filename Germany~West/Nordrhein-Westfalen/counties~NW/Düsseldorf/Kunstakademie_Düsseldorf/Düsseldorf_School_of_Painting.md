@@ -13,6 +13,25 @@ described_at_URL:
   - https://digital.ub.uni-duesseldorf.de/dfg
   - https://www.kunstpalast.de/wp-content/uploads/2023/07/Chronik-DM_aus-AK-Ddorf-2011.pdf
   - https://www.rheinische-geschichte.lvr.de/Epochen-und-Themen/Themen/die-duesseldorfer-malerschule-im-19.-jahrhundert/DE-2086/lido/57d1295fefdcc4.18641232
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../../WikiData/WD~Düsseldorf_school_of_painting,680559|WD~Düsseldorf_school_of_painting,680559]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting|Düsseldorf_School_of_Painting]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.public|Düsseldorf_School_of_Painting.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.internal|Düsseldorf_School_of_Painting.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.protect|Düsseldorf_School_of_Painting.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.private|Düsseldorf_School_of_Painting.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.personal|Düsseldorf_School_of_Painting.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.secret|Düsseldorf_School_of_Painting.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../../WikiData/WD~Düsseldorf_school_of_painting,680559|WD~Düsseldorf_school_of_painting,680559]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting|Düsseldorf_School_of_Painting]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.public|Düsseldorf_School_of_Painting.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.internal|Düsseldorf_School_of_Painting.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.protect|Düsseldorf_School_of_Painting.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.private|Düsseldorf_School_of_Painting.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.personal|Düsseldorf_School_of_Painting.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/Kunstakademie_Düsseldorf/Düsseldorf_School_of_Painting.secret|Düsseldorf_School_of_Painting.secret]]"
 ---
 
 # [[Düsseldorf_School_of_Painting]] 

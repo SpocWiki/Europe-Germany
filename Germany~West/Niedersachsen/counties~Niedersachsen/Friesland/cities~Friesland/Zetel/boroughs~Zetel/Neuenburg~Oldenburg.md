@@ -14,15 +14,38 @@ SpocWebEntityId: 32808
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.95
+dv_has_place_latitude: 53.38
+dv_name: Neuenburg~Oldenburg
+dv_has_place_country: "[[../../../../../../../../Germany]]"
+dv_has_place_province: "[[../../../../../../Niedersachsen]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg|Neuenburg~Oldenburg]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.public|Neuenburg~Oldenburg.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.internal|Neuenburg~Oldenburg.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.protect|Neuenburg~Oldenburg.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.private|Neuenburg~Oldenburg.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.personal|Neuenburg~Oldenburg.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.secret|Neuenburg~Oldenburg.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg|Neuenburg~Oldenburg]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.public|Neuenburg~Oldenburg.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.internal|Neuenburg~Oldenburg.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.protect|Neuenburg~Oldenburg.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.private|Neuenburg~Oldenburg.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.personal|Neuenburg~Oldenburg.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Friesland/cities~Friesland/Zetel/boroughs~Zetel/Neuenburg~Oldenburg.secret|Neuenburg~Oldenburg.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.95] 
-[has_place_latitude::53.38] 
-[name::Neuenburg~Oldenburg] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[Niedersachsen]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
 

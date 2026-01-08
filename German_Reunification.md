@@ -1,4 +1,22 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification|German_Reunification]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.public|German_Reunification.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.internal|German_Reunification.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.protect|German_Reunification.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.private|German_Reunification.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.personal|German_Reunification.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.secret|German_Reunification.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification|German_Reunification]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.public|German_Reunification.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.internal|German_Reunification.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.protect|German_Reunification.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.private|German_Reunification.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.personal|German_Reunification.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/German_Reunification.secret|German_Reunification.secret]]"
+
 has_time_started: 1989-11-09 
 has_time_stopped: 1990-10-03 
 aliases:

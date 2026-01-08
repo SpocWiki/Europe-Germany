@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../WikiData/WD~Berlin_Wall,5086|WD~Berlin_Wall,5086]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall|Berlin_Wall]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.public|Berlin_Wall.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.internal|Berlin_Wall.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.protect|Berlin_Wall.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.private|Berlin_Wall.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.personal|Berlin_Wall.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.secret|Berlin_Wall.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../WikiData/WD~Berlin_Wall,5086|WD~Berlin_Wall,5086]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall|Berlin_Wall]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.public|Berlin_Wall.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.internal|Berlin_Wall.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.protect|Berlin_Wall.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.private|Berlin_Wall.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.personal|Berlin_Wall.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Berlin_Wall.secret|Berlin_Wall.secret]]"
+
 has_time_started: 1961-08-13 
 has_time_stopped: 1989-11-09 
 aliases:

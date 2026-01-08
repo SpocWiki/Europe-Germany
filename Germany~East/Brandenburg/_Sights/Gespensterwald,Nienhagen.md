@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/_Sights/Gespensterwald,Nienhagen|Gespensterwald,Nienhagen]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/_Sights/Gespensterwald,Nienhagen.public|Gespensterwald,Nienhagen.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/_Sights/Gespensterwald,Nienhagen.internal|Gespensterwald,Nienhagen.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/_Sights/Gespensterwald,Nienhagen.protect|Gespensterwald,Nienhagen.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/_Sights/Gespensterwald,Nienhagen.private|Gespensterwald,Nienhagen.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/_Sights/Gespensterwald,Nienhagen.personal|Gespensterwald,Nienhagen.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/_Sights/Gespensterwald,Nienhagen.secret|Gespensterwald,Nienhagen.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/_Sights/Gespensterwald,Nienhagen|Gespensterwald,Nienhagen]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/_Sights/Gespensterwald,Nienhagen.public|Gespensterwald,Nienhagen.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/_Sights/Gespensterwald,Nienhagen.internal|Gespensterwald,Nienhagen.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/_Sights/Gespensterwald,Nienhagen.protect|Gespensterwald,Nienhagen.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/_Sights/Gespensterwald,Nienhagen.private|Gespensterwald,Nienhagen.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/_Sights/Gespensterwald,Nienhagen.personal|Gespensterwald,Nienhagen.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/_Sights/Gespensterwald,Nienhagen.secret|Gespensterwald,Nienhagen.secret]]"
+---
 ## #has_/text_of_/abstract 
 
 > Das Ostseebad Nienhagen ist eine Gemeinde im Landkreis Rostock in Mecklenburg-Vorpommern (Deutschland). Sie wird vom Amt Bad Doberan-Land mit Sitz in Bad Doberan verwaltet.

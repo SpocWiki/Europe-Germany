@@ -1,17 +1,22 @@
-
-## Confidential Links & Embeds: 
-
-### [Merchweiler](../../../../../../../../../../../_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Merchweiler.md) 
-
-### [Merchweiler.internal](../../../../../../../../../../../_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Merchweiler.internal.md) 
-
-### [Merchweiler.protect](../../../../../../../../../../../_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Merchweiler.protect.md) 
-
-### [Merchweiler.private](../../../../../../../../../../../_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Merchweiler.private.md) 
-
-### [Merchweiler.personal](../../../../../../../../../../../_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Merchweiler.personal.md) 
-
-### [Merchweiler.secret](../../../../../../../../../../../_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Merchweiler.secret.md) 
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Merchweiler|Merchweiler]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Merchweiler.public|Merchweiler.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Merchweiler.internal|Merchweiler.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Merchweiler.protect|Merchweiler.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Merchweiler.private|Merchweiler.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Merchweiler.personal|Merchweiler.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Merchweiler.secret|Merchweiler.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Merchweiler|Merchweiler]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Merchweiler.public|Merchweiler.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Merchweiler.internal|Merchweiler.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Merchweiler.protect|Merchweiler.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Merchweiler.private|Merchweiler.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Merchweiler.personal|Merchweiler.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Neunkirchen,Saar/cities~Neunkirchen,Saar/Merchweiler.secret|Merchweiler.secret]]"
+---
 
 
 ## Confidential Links & Embeds: 

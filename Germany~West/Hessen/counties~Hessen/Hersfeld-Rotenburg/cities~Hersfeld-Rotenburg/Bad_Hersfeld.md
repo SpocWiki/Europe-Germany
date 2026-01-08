@@ -15,15 +15,38 @@ SpocWebEntityId: 30917
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.7
+dv_has_place_latitude: 50.87
+dv_name: Hersfeld
+dv_has_place_country: "[[../../../../../../Germany]]"
+dv_has_place_province: "[[../../../../Hessen]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Bad_Hersfeld|Bad_Hersfeld]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Bad_Hersfeld.public|Bad_Hersfeld.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Bad_Hersfeld.internal|Bad_Hersfeld.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Bad_Hersfeld.protect|Bad_Hersfeld.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Bad_Hersfeld.private|Bad_Hersfeld.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Bad_Hersfeld.personal|Bad_Hersfeld.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Bad_Hersfeld.secret|Bad_Hersfeld.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Bad_Hersfeld|Bad_Hersfeld]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Bad_Hersfeld.public|Bad_Hersfeld.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Bad_Hersfeld.internal|Bad_Hersfeld.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Bad_Hersfeld.protect|Bad_Hersfeld.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Bad_Hersfeld.private|Bad_Hersfeld.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Bad_Hersfeld.personal|Bad_Hersfeld.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Bad_Hersfeld.secret|Bad_Hersfeld.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.7] 
-[has_place_latitude::50.87] 
-[name::Hersfeld] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[Hessen]] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
 

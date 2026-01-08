@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Messel|Messel]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Messel.public|Messel.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Messel.internal|Messel.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Messel.protect|Messel.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Messel.private|Messel.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Messel.personal|Messel.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Messel.secret|Messel.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Messel|Messel]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Messel.public|Messel.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Messel.internal|Messel.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Messel.protect|Messel.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Messel.private|Messel.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Messel.personal|Messel.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Messel.secret|Messel.secret]]"
+---
 [[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Darmstadt~Grube_Messel.webp]]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Darmstadt~Grube_Messel.webp]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Darmstadt~Grube_Messel.webp]]]
 Fossillagerstätte Grube Messel ( 1995) 
 

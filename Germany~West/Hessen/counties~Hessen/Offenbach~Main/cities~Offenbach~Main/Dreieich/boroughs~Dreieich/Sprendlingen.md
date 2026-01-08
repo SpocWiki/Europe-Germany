@@ -14,15 +14,38 @@ SpocWebEntityId: 34421
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.7
+dv_has_place_latitude: 50.03
+dv_name: Sprendlingen
+dv_has_place_country: "[[../../../../../../../../Germany]]"
+dv_has_place_province: "[[../../../../../../Hessen]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen|Sprendlingen]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen.public|Sprendlingen.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen.internal|Sprendlingen.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen.protect|Sprendlingen.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen.private|Sprendlingen.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen.personal|Sprendlingen.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen.secret|Sprendlingen.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen|Sprendlingen]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen.public|Sprendlingen.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen.internal|Sprendlingen.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen.protect|Sprendlingen.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen.private|Sprendlingen.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen.personal|Sprendlingen.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Sprendlingen.secret|Sprendlingen.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.7] 
-[has_place_latitude::50.03] 
-[name::Sprendlingen] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[Hessen]] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_place_country = `=this.dv_has_place_country`
+has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
 
