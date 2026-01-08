@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.85
 dv_has_place_latitude: 53.43
-dv_name: Parchim
+dv_has_name_: Parchim
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Mecklenburg-Vorpommern]]"
 dv_is_:

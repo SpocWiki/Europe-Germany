@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.47
 dv_has_place_latitude: 52.52
-dv_name: Neustadt am Rübenberge
+dv_has_name_: Neustadt am Rübenberge
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[Niedersachsen]] ]"
 dv_is_:

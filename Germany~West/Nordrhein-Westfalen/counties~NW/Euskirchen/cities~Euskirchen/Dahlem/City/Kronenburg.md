@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.48
 dv_has_place_latitude: 50.37
-dv_name: Kronenburg
+dv_has_name_: Kronenburg
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Rheinland-Pfalz]]"
 dv_is_:

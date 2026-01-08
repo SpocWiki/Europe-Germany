@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.77
 dv_has_place_latitude: 54.05
-dv_name: Wolgast
+dv_has_name_: Wolgast
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Mecklenburg-Vorpommern]]"
 dv_is_:

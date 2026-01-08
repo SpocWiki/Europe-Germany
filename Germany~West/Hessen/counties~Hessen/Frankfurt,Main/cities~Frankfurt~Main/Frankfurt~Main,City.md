@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.68
 dv_has_place_latitude: 50.11
-dv_name: Frankfurt~Main
+dv_has_name_: Frankfurt~Main
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Hessen]]"
 dv_is_:

@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.06
 dv_has_place_latitude: 51.18
-dv_name: Eschwege
+dv_has_name_: Eschwege
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Hessen]]"
 dv_is_:

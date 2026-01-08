@@ -18,7 +18,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.17
 dv_has_place_latitude: 51.85
-dv_name: Muenchehof
+dv_has_name_: Muenchehof
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Niedersachsen]]"
 dv_is_:

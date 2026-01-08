@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.3
 dv_has_place_latitude: 54.12
-dv_name: Steffenshagen
+dv_has_name_: Steffenshagen
 dv_has_place_country: "[[../../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../../Mecklenburg-Vorpommern]]"
 dv_is_:

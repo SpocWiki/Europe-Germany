@@ -14,7 +14,7 @@ type: Station
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.590928
 dv_has_place_latitude: 50.10017
-dv_name: Jägerallee
+dv_has_name_: Jägerallee
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_is_:

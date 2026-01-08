@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.43
 dv_has_place_latitude: 53.78
-dv_name: Gluecksstadt
+dv_has_name_: Gluecksstadt
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Schleswig-Holstein]]"
 dv_is_:

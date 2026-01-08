@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.1
 dv_has_place_latitude: 54.2
-dv_name: Heide~Holstein
+dv_has_name_: Heide~Holstein
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Schleswig-Holstein]]"
 dv_is_:

@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.08
 dv_has_place_latitude: 51.78
-dv_name: Vetschau
+dv_has_name_: Vetschau
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Brandenburg]]"
 dv_is_:

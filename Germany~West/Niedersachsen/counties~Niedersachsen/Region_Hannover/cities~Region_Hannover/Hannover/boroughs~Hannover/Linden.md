@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.7
 dv_has_place_latitude: 52.37
-dv_name: Linden
+dv_has_name_: Linden
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Niedersachsen]]"
 dv_is_:

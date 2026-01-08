@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.66
 dv_has_place_latitude: 49.87
-dv_name: Darmstadt
+dv_has_name_: Darmstadt
 dv_has_place_country: "[[../../../../Germany]]"
 dv_has_place_province: "[[../../Hessen]]"
 dv_is_:

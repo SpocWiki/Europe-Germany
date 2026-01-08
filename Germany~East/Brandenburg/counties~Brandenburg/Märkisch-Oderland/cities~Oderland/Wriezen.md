@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.15
 dv_has_place_latitude: 52.72
-dv_name: Wriezen
+dv_has_name_: Wriezen
 dv_has_place_country: "[[../../../../../../../Europe~East/Poland]]"
 dv_is_:
   same_as:

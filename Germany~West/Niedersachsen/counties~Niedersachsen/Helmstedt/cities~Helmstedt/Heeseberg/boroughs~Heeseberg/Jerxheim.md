@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.88
 dv_has_place_latitude: 52.07
-dv_name: Jerxheim
+dv_has_name_: Jerxheim
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Niedersachsen]]"
 dv_is_:

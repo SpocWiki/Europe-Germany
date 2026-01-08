@@ -15,7 +15,7 @@ dv_StationUId: 68
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.714167
 dv_has_place_latitude: 50.12
-dv_name: Parlamentsplatz
+dv_has_name_: Parlamentsplatz
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

@@ -15,7 +15,7 @@ dv_StationUId: 46
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.63721
 dv_has_place_latitude: 50.12508
-dv_name: Kirchplatz
+dv_has_name_: Kirchplatz
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

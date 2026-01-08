@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.2
 dv_has_place_latitude: 52.02
-dv_name: Schlanstedt
+dv_has_name_: Schlanstedt
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Sachsen-Anhalt]]"
 dv_is_:

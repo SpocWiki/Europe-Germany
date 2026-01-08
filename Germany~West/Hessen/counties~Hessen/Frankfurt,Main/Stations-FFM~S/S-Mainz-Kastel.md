@@ -14,7 +14,7 @@ type: Station
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.2844
 dv_has_place_latitude: 50.00972
-dv_name: Mainz-Kastel
+dv_has_name_: Mainz-Kastel
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_is_:

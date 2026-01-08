@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.25
 dv_has_place_latitude: 50.35
-dv_name: Birstein
+dv_has_name_: Birstein
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Hessen]]"
 dv_is_:

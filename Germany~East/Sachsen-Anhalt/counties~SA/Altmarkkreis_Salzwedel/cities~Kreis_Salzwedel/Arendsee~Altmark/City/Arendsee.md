@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.5
 dv_has_place_latitude: 52.88
-dv_name: Arendsee
+dv_has_name_: Arendsee
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Sachsen-Anhalt]]"
 dv_is_:

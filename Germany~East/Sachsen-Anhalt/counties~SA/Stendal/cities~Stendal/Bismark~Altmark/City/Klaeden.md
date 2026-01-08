@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.72
 dv_has_place_latitude: 52.63
-dv_name: Klaeden
+dv_has_name_: Klaeden
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Sachsen-Anhalt]]"
 dv_is_:

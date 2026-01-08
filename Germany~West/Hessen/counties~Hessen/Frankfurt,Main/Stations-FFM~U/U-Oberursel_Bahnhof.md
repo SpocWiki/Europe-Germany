@@ -16,7 +16,7 @@ dv_StationUId: 65
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.587596
 dv_has_place_latitude: 50.19919
-dv_name: Oberursel Bahnhof
+dv_has_name_: Oberursel Bahnhof
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: S-Bahn, Regionalbahn (Taunusbahn)

@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.08
 dv_has_place_latitude: 53.75
-dv_name: Ückermuende
+dv_has_name_: Ückermuende
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Mecklenburg-Vorpommern]]"
 dv_is_:

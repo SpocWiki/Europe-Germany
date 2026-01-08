@@ -14,7 +14,7 @@ type: Station
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.644776
 dv_has_place_latitude: 50.25249
-dv_name: Friedrichsdorf~Taunus
+dv_has_name_: Friedrichsdorf~Taunus
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_is_:

@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.82
 dv_has_place_latitude: 52.22
-dv_name: Oeynhausen
+dv_has_name_: Oeynhausen
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[NordRhein-Westfahlen]]"
 dv_is_:

@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.34
 dv_has_place_latitude: 52.32
-dv_name: Essen,Bad
+dv_has_name_: Essen,Bad
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[NordRhein-Westfahlen]]"
 dv_is_:

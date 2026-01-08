@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.48
 dv_has_place_latitude: 50.2
-dv_name: Koenigstein~Taunus
+dv_has_name_: Koenigstein~Taunus
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Hessen]]"
 dv_is_:

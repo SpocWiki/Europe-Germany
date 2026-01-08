@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.48
 dv_has_place_latitude: 51.95
-dv_name: Wolmirsleben
+dv_has_name_: Wolmirsleben
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Sachsen-Anhalt]]"
 dv_is_:

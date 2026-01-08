@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.75
 dv_has_place_latitude: 52.32
-dv_name: Hartum
+dv_has_name_: Hartum
 dv_has_place_country: "[[../../../../../../../Germany]]"
 dv_has_place_province: "[[NordRhein-Westfahlen]]"
 dv_is_:

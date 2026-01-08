@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.02
 dv_has_place_latitude: 52.23
-dv_name: Helmstedt
+dv_has_name_: Helmstedt
 dv_has_place_country: "[[../../../../Germany]]"
 dv_has_place_province: "[[../../Niedersachsen]]"
 dv_is_:

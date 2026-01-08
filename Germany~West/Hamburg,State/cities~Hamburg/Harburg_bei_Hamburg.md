@@ -18,7 +18,7 @@ type: City
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.98
 dv_has_place_latitude: 53.47
-dv_name: Harburg bei Hamburg
+dv_has_name_: Harburg bei Hamburg
 dv_has_place_country: "[[../../../../Germany]]"
 dv_has_place_province: "[[../../Hamburg,State]]"
 dv_is_:

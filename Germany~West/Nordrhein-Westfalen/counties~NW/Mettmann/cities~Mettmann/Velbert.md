@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.05
 dv_has_place_latitude: 51.35
-dv_name: Velbert
+dv_has_name_: Velbert
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[NordRhein-Westfahlen]]"
 dv_is_:

@@ -15,7 +15,7 @@ type: Station
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.628664
 dv_has_place_latitude: 50.10157
-dv_name: Rebstöcker Straße
+dv_has_name_: Rebstöcker Straße
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_is_:

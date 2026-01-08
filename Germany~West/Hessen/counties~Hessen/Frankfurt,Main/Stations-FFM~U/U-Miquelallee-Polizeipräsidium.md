@@ -15,7 +15,7 @@ dv_StationUId: 56
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.672183
 dv_has_place_latitude: 50.13169
-dv_name: Miquel-/Adickesallee/Polizeipräsidium
+dv_has_name_: Miquel-/Adickesallee/Polizeipräsidium
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

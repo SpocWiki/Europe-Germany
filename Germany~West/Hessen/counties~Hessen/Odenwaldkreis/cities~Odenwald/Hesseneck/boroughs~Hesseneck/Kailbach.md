@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.1
 dv_has_place_latitude: 49.53
-dv_name: Kailbach
+dv_has_name_: Kailbach
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Baden-Wuerttemberg]]"
 dv_is_:

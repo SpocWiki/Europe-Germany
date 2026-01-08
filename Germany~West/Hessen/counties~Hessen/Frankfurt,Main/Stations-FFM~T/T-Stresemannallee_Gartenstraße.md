@@ -15,7 +15,7 @@ type: Station
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.669487
 dv_has_place_latitude: 50.09955
-dv_name: Stresemannallee/Gartenstraße
+dv_has_name_: Stresemannallee/Gartenstraße
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_is_:

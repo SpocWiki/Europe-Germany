@@ -95,7 +95,7 @@ X_username: bremen_de
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.81
 dv_has_place_latitude: 53.08
-dv_name: Bremen
+dv_has_name_: Bremen
 dv_has_place_country: "[[../../../../Germany]]"
 dv_has_place_province: "[[../../Bremen,State]]"
 dv_is_:

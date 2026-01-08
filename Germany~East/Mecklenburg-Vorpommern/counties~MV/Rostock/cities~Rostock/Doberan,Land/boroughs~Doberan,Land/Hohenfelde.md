@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.92
 dv_has_place_latitude: 54.07
-dv_name: Hohenfelde
+dv_has_name_: Hohenfelde
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Mecklenburg-Vorpommern]]"
 dv_is_:

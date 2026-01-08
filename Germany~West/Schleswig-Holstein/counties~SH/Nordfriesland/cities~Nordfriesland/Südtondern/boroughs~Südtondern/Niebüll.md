@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.82
 dv_has_place_latitude: 54.8
-dv_name: Niebuehl
+dv_has_name_: Niebuehl
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Schleswig-Holstein]]"
 dv_is_:

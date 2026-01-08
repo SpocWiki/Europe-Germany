@@ -14,7 +14,7 @@ type: Station
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.656629
 dv_has_place_latitude: 50.10781
-dv_name: Güterplatz
+dv_has_name_: Güterplatz
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_is_:

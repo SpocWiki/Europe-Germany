@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.35
 dv_has_place_latitude: 51.32
-dv_name: Geveisberg
+dv_has_name_: Geveisberg
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[NordRhein-Westfahlen]]"
 dv_is_:

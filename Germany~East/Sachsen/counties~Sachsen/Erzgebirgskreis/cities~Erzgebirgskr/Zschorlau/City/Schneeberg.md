@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.65
 dv_has_place_latitude: 50.58
-dv_name: Schneeberg
+dv_has_name_: Schneeberg
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Sachsen]]"
 dv_is_:

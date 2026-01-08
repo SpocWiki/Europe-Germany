@@ -18,7 +18,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.75
 dv_has_place_latitude: 50.37
-dv_name: Bad Nauheim
+dv_has_name_: Bad Nauheim
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Hessen]]"
 dv_is_:

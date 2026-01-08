@@ -14,7 +14,7 @@ type: Station
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.573319
 dv_has_place_latitude: 50.09928
-dv_name: Luthmerstraße
+dv_has_name_: Luthmerstraße
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_is_:

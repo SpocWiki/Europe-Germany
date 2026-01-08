@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.87
 dv_has_place_latitude: 51.27
-dv_name: Korbach
+dv_has_name_: Korbach
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Hessen]]"
 dv_is_:

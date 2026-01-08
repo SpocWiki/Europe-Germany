@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.72
 dv_has_place_latitude: 54.33
-dv_name: Tating
+dv_has_name_: Tating
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Schleswig-Holstein]]"
 dv_is_:

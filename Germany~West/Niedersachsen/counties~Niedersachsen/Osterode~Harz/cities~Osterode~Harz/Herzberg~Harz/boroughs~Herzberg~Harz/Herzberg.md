@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.33
 dv_has_place_latitude: 51.65
-dv_name: Herzberg
+dv_has_name_: Herzberg
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Niedersachsen]]"
 dv_is_:

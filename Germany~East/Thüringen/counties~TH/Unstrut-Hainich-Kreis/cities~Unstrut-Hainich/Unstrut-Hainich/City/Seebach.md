@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.55
 dv_has_place_latitude: 51.17
-dv_name: Seebach
+dv_has_name_: Seebach
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Thüringen]]"
 dv_is_:

@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.9
 dv_has_place_latitude: 51.27
-dv_name: Koenigsbrueck
+dv_has_name_: Koenigsbrueck
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Sachsen]]"
 dv_is_:

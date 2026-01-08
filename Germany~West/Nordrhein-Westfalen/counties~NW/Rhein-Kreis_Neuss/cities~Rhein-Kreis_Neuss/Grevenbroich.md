@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.6
 dv_has_place_latitude: 51.1
-dv_name: Grevenbroich
+dv_has_name_: Grevenbroich
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[NordRhein-Westfahlen]]"
 dv_is_:

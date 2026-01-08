@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.93
 dv_has_place_latitude: 52.25
-dv_name: Storkow
+dv_has_name_: Storkow
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Brandenburg]]"
 dv_is_:

@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.8
 dv_has_place_latitude: 51.92
-dv_name: Zahna
+dv_has_name_: Zahna
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Sachsen-Anhalt]]"
 dv_is_:

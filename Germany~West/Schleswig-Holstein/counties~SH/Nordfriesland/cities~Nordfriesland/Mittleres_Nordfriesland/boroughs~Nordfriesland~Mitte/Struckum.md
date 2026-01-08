@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9
 dv_has_place_latitude: 54.58
-dv_name: Struckum
+dv_has_name_: Struckum
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Schleswig-Holstein]]"
 dv_is_:

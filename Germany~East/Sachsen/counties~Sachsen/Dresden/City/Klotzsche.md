@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.77
 dv_has_place_latitude: 51.12
-dv_name: Klotzsche
+dv_has_name_: Klotzsche
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Sachsen]]"
 dv_is_:

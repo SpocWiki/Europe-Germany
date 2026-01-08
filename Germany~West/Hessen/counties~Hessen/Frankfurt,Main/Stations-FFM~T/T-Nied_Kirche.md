@@ -15,7 +15,7 @@ type: Station
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.566985
 dv_has_place_latitude: 50.09824
-dv_name: Nied Kirche
+dv_has_name_: Nied Kirche
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_is_:

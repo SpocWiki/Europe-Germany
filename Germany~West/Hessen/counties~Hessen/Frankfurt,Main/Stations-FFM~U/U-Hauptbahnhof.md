@@ -15,7 +15,7 @@ dv_StationUId: 28
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.664167
 dv_has_place_latitude: 50.1078
-dv_name: Hauptbahnhof
+dv_has_name_: Hauptbahnhof
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: Fern- und Regionalverkehr, S-Bahn, Straßenbahn

@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.68
 dv_has_place_latitude: 51.4
-dv_name: Falkenhain
+dv_has_name_: Falkenhain
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Sachsen]]"
 dv_is_:

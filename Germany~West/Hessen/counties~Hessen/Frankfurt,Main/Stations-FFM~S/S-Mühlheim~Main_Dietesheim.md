@@ -15,7 +15,7 @@ type: Station
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.857998
 dv_has_place_latitude: 50.12052
-dv_name: Mühlheim~Main Dietesheim
+dv_has_name_: Mühlheim~Main Dietesheim
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_is_:

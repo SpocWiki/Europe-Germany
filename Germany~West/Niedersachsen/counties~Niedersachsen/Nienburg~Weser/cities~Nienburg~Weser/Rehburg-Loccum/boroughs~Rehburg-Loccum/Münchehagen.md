@@ -18,7 +18,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.2
 dv_has_place_latitude: 52.43
-dv_name: Muenchehagen
+dv_has_name_: Muenchehagen
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Niedersachsen]]"
 dv_is_:

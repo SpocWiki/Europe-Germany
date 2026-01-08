@@ -109,8 +109,8 @@ tags:
   - geo/State
 type: State
 X_username: landnrw
-dv_name: NordRhein-Westfalen
-dv_name-abbr: NW
+dv_has_name_: NordRhein-Westfalen
+dv_has_name_abbr: NW
 dv_is_:
   same_as:
     - "[[../../../../../../WikiData/WD~North_Rhine-Westphalia,1198|WD~North_Rhine-Westphalia,1198]]"
@@ -140,7 +140,7 @@ dv_is_same_as:
 
 name = `=this.dv_name` 
 
-name-abbr = `=this.dv_name-abbr` 
+has_name_abbr = `=this.dv_has_name_abbr` 
 
 is_a_ = `=this.dv_is_a_`
 

@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.6
 dv_has_place_latitude: 53.57
-dv_name: Lehe
+dv_has_name_: Lehe
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Niedersachsen]]"
 dv_is_:

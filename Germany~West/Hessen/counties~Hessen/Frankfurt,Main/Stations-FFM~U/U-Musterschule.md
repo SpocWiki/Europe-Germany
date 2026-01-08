@@ -15,7 +15,7 @@ dv_StationUId: 57
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.686205
 dv_has_place_latitude: 50.12182
-dv_name: Musterschule
+dv_has_name_: Musterschule
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

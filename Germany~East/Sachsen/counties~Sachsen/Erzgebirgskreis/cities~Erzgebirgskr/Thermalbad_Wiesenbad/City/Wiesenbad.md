@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.05
 dv_has_place_latitude: 50.62
-dv_name: Wiesenbad
+dv_has_name_: Wiesenbad
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Sachsen]]"
 dv_is_:

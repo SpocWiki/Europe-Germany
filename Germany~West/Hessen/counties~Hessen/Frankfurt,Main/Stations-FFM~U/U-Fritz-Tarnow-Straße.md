@@ -15,7 +15,7 @@ dv_StationUId: 18
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.668814
 dv_has_place_latitude: 50.14251
-dv_name: Fritz-Tarnow-Straße
+dv_has_name_: Fritz-Tarnow-Straße
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.17
 dv_has_place_latitude: 50.97
-dv_name: Bensberg
+dv_has_name_: Bensberg
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[NordRhein-Westfahlen]]"
 dv_is_:

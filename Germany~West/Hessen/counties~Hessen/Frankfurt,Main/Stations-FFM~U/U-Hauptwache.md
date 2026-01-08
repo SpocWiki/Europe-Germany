@@ -15,7 +15,7 @@ dv_StationUId: 31
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.6789
 dv_has_place_latitude: 50.11389
-dv_name: Hauptwache
+dv_has_name_: Hauptwache
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: A,C, S-Bahn

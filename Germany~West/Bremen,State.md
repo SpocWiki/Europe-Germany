@@ -12,8 +12,8 @@ SpocWebEntityId: 29332
 tags:
   - geo/State
 type: State
-dv_name: State~Bremen
-dv_name-abbr: BN
+dv_has_name_: State~Bremen
+dv_has_name_abbr: BN
 dv_has_place_country: "[[../../Germany]]"
 dv_Capital: "[[Bremen,State/cities~Bremen/Bremen,City]] ]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
@@ -39,7 +39,7 @@ dv_is_same_as:
 ---
 
 name = `=this.dv_name` 
-name-abbr = `=this.dv_name-abbr` 
+has_name_abbr = `=this.dv_has_name_abbr` 
 
 ![[Bremen,State/Coat_of_arms_of_Bremen_greater.svg|350]] 
 

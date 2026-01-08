@@ -33,8 +33,8 @@ tags:
 title: Deutschland (Germany)
 type: Country
 dv_ISO3: BRD
-dv_name-en: West Germany
-dv_name-de: BRD
+dv_has_name_en: West Germany
+dv_has_name_de: BRD
 dv_has_place_continent: "[[../../../Europe]]"
 dv_VehicleCode: D
 dv_Alcohol-l: 12.8
@@ -77,8 +77,8 @@ coordinates: [[Germany~West]]
 markerFile: [[Germany~West]] 
 ```
 
-name-en = `=this.dv_name-en` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 [Area-Total::] 
 [Area-Land::] 
 has_place_continent = `=this.dv_has_place_continent`

@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.83
 dv_has_place_latitude: 50.95
-dv_name: Mohsdorf
+dv_has_name_: Mohsdorf
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Sachsen]]"
 dv_is_:

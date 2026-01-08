@@ -15,7 +15,7 @@ type: Station
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.750485
 dv_has_place_latitude: 50.10599
-dv_name: Offenbach Ledermuseum
+dv_has_name_: Offenbach Ledermuseum
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_is_:

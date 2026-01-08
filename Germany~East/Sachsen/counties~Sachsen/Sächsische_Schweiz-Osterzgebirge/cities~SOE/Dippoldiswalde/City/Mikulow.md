@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.63
 dv_has_place_latitude: 50.8
-dv_name: Mikulow
+dv_has_name_: Mikulow
 dv_has_place_country: Czech_Rep.]
 dv_is_:
   same_as:

@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.67
 dv_has_place_latitude: 54.3
-dv_name: Rendsburg
+dv_has_name_: Rendsburg
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Schleswig-Holstein]]"
 dv_is_:

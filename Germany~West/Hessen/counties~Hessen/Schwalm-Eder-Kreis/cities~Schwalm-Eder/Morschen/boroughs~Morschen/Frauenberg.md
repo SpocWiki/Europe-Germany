@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.62
 dv_has_place_latitude: 51.08
-dv_name: Frauenberg
+dv_has_name_: Frauenberg
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Hessen]]"
 dv_is_:

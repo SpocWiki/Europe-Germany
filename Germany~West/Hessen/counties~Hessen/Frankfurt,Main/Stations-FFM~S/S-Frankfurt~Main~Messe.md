@@ -14,7 +14,7 @@ type: Station
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.643333
 dv_has_place_latitude: 50.11195
-dv_name: Frankfurt am Main Messe
+dv_has_name_: Frankfurt am Main Messe
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_is_:

@@ -16,7 +16,7 @@ dv_StationUId: 9
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.68333
 dv_has_place_latitude: 50.11083
-dv_name: Dom/Römer
+dv_has_name_: Dom/Römer
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: Straßenbahn

@@ -19,7 +19,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.1
 dv_has_place_latitude: 53.33
-dv_name: Neustrelitz
+dv_has_name_: Neustrelitz
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Mecklenburg-Vorpommern]]"
 dv_is_:

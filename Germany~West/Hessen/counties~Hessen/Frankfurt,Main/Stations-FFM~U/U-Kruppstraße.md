@@ -15,7 +15,7 @@ dv_StationUId: 49
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.745085
 dv_has_place_latitude: 50.1385
-dv_name: Kruppstraße
+dv_has_name_: Kruppstraße
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

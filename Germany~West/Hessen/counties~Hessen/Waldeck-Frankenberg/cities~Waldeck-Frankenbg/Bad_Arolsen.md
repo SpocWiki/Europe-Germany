@@ -18,7 +18,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9
 dv_has_place_latitude: 51.4
-dv_name: Arolsen
+dv_has_name_: Arolsen
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Hessen]]"
 dv_is_:

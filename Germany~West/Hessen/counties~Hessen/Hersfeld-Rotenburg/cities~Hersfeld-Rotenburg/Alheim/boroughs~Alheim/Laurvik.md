@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.62
 dv_has_place_latitude: 51.02
-dv_name: Laurvik
+dv_has_name_: Laurvik
 dv_has_place_country: "[[../../../../../../../../../Europe~North/Norway]]"
 dv_is_:
   same_as:

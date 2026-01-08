@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.73
 dv_has_place_latitude: 50.87
-dv_name: Morsbach
+dv_has_name_: Morsbach
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Rheinland-Pfalz]]"
 dv_is_:

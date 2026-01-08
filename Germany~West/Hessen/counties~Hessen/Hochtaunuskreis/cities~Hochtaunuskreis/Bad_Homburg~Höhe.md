@@ -18,7 +18,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.62
 dv_has_place_latitude: 50.23
-dv_name: Bad Homburg
+dv_has_name_: Bad Homburg
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Hessen]]"
 dv_is_:

@@ -14,7 +14,7 @@ type: Station
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.607265
 dv_has_place_latitude: 50.12439
-dv_name: Frankfurt-Rödelheim
+dv_has_name_: Frankfurt-Rödelheim
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_is_:

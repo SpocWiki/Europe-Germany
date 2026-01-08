@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.82
 dv_has_place_latitude: 51.13
-dv_name: Reichenbach~Oberlausitz
+dv_has_name_: Reichenbach~Oberlausitz
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Sachsen]]"
 dv_is_:

@@ -18,7 +18,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.7
 dv_has_place_latitude: 50.87
-dv_name: Hersfeld
+dv_has_name_: Hersfeld
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Hessen]]"
 dv_is_:

@@ -18,7 +18,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.03
 dv_has_place_latitude: 49.75
-dv_name: Koenig
+dv_has_name_: Koenig
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Hessen]]"
 dv_is_:

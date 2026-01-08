@@ -15,7 +15,7 @@ type: Station
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.516935
 dv_has_place_latitude: 50.18
-dv_name: Kronberg im Taunus
+dv_has_name_: Kronberg im Taunus
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_is_:

@@ -15,7 +15,7 @@ dv_StationUId: 37
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.607256
 dv_has_place_latitude: 50.14469
-dv_name: Heerstraße
+dv_has_name_: Heerstraße
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

@@ -15,7 +15,7 @@ dv_StationUId: 73
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.635
 dv_has_place_latitude: 50.153
-dv_name: Römerstadt
+dv_has_name_: Römerstadt
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

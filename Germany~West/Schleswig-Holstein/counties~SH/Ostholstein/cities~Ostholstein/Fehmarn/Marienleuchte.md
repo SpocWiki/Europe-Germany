@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.25
 dv_has_place_latitude: 54.5
-dv_name: Marienleuchte
+dv_has_name_: Marienleuchte
 dv_has_place_country: "[[../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../Schleswig-Holstein]]"
 dv_is_:

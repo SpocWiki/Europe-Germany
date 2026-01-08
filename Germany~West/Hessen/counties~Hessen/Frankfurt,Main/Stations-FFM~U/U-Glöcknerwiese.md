@@ -15,7 +15,7 @@ dv_StationUId: 22
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.562534
 dv_has_place_latitude: 50.21313
-dv_name: Glöcknerwiese
+dv_has_name_: Glöcknerwiese
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.43
 dv_has_place_latitude: 54.68
-dv_name: Arkona
+dv_has_name_: Arkona
 dv_has_place_country: "[[../../../../../../../../../../Europe~South/Portugal]]"
 dv_is_:
   same_as:

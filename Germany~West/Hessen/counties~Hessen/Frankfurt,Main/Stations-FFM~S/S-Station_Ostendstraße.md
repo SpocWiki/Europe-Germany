@@ -15,7 +15,7 @@ type: Station
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.697785
 dv_has_place_latitude: 50.11315
-dv_name: S-Station Ostendstraße
+dv_has_name_: S-Station Ostendstraße
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_is_:

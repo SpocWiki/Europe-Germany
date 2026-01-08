@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.97
 dv_has_place_latitude: 53.08
-dv_name: Greiffenberg
+dv_has_name_: Greiffenberg
 dv_has_place_country: "[[../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../Brandenburg]]"
 dv_is_:

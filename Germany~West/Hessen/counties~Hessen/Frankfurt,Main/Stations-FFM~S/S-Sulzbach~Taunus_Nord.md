@@ -15,7 +15,7 @@ type: Station
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.528889
 dv_has_place_latitude: 50.13306
-dv_name: Sulzbach~Taunus Nord
+dv_has_name_: Sulzbach~Taunus Nord
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_is_:

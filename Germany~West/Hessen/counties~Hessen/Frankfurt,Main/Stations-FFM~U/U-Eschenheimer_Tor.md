@@ -16,7 +16,7 @@ dv_StationUId: 14
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.679306
 dv_has_place_latitude: 50.1175
-dv_name: Eschenheimer Tor
+dv_has_name_: Eschenheimer Tor
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

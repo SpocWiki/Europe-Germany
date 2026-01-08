@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.15
 dv_has_place_latitude: 52.67
-dv_name: Dinklage
+dv_has_name_: Dinklage
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Niedersachsen]]"
 dv_is_:

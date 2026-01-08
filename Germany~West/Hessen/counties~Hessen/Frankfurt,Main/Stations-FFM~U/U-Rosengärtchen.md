@@ -15,7 +15,7 @@ dv_StationUId: 74
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.550003
 dv_has_place_latitude: 50.21501
-dv_name: Rosengärtchen
+dv_has_name_: Rosengärtchen
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

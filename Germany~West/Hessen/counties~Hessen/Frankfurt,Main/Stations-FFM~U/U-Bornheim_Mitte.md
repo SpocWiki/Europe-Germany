@@ -16,7 +16,7 @@ dv_StationUId: 7
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.706944
 dv_has_place_latitude: 50.12528
-dv_name: Bornheim Mitte
+dv_has_name_: Bornheim Mitte
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: Straßenbahn

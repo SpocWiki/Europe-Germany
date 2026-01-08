@@ -15,7 +15,7 @@ dv_StationUId: 21
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.685753
 dv_has_place_latitude: 50.12654
-dv_name: Glauburgstraße
+dv_has_name_: Glauburgstraße
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

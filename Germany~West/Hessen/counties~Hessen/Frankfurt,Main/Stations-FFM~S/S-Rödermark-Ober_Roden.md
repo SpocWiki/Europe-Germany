@@ -15,7 +15,7 @@ type: Station
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.828543
 dv_has_place_latitude: 49.97702
-dv_name: Rödermark-Ober Roden
+dv_has_name_: Rödermark-Ober Roden
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_is_:

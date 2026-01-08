@@ -19,7 +19,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.2
 dv_has_place_latitude: 51.27
-dv_name: Barmen
+dv_has_name_: Barmen
 dv_has_place_country: "[[../../../../../Germany]]"
 dv_has_place_province: "[[NordRhein-Westfahlen]]"
 dv_is_:

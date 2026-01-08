@@ -14,7 +14,7 @@ type: Station
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.584694
 dv_has_place_latitude: 50.18569
-dv_name: Oberursel-Stierstadt
+dv_has_name_: Oberursel-Stierstadt
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_is_:

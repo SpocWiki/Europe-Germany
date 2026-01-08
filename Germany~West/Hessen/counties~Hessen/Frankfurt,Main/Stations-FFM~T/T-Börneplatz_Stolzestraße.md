@@ -15,7 +15,7 @@ type: Station
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.688642
 dv_has_place_latitude: 50.11247
-dv_name: Börneplatz/Stolzestraße
+dv_has_name_: Börneplatz/Stolzestraße
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_is_:

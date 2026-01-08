@@ -16,7 +16,7 @@ dv_StationUId: 66
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.585354
 dv_has_place_latitude: 50.2025
-dv_name: Oberursel Stadtmitte
+dv_has_name_: Oberursel Stadtmitte
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

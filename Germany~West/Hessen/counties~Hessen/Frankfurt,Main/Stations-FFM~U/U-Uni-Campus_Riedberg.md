@@ -16,7 +16,7 @@ dv_StationUId: 83
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.630118
 dv_has_place_latitude: 50.17669
-dv_name: Uni-Campus Riedberg
+dv_has_name_: Uni-Campus Riedberg
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

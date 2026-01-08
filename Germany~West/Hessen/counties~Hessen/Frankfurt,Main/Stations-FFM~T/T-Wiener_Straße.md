@@ -17,7 +17,7 @@ type: Station
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.736727
 dv_has_place_latitude: 50.10036
-dv_name: Wiener Straße
+dv_has_name_: Wiener Straße
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_is_:

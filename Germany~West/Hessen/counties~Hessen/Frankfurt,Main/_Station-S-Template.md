@@ -13,7 +13,7 @@ tags:
 type: Station
 dv_has_place_longitude: "{{GeoLon}}"
 dv_has_place_latitude: "{{GeoLat}}"
-dv_name: "{{Bahnhof}}"
+dv_has_name_: "{{Bahnhof}}"
 dv_has_place_country: "[[../../../../../Germany]]"
 dv_City: "[[../Frankfurt,Main]]"
 dv_is_:

@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.15
 dv_has_place_latitude: 52.85
-dv_name: Salzwedel
+dv_has_name_: Salzwedel
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Sachsen-Anhalt]]"
 dv_is_:

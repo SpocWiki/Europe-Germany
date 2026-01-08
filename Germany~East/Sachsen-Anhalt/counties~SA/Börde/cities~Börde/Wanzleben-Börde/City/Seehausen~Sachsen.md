@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.3
 dv_has_place_latitude: 52.1
-dv_name: Seehausen~Sachsen
+dv_has_name_: Seehausen~Sachsen
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[Sachsen]] ]"
 dv_is_:

@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.12
 dv_has_place_latitude: 53.07
-dv_name: Garz~Prignitz
+dv_has_name_: Garz~Prignitz
 dv_has_place_country: "[[../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../Brandenburg]]"
 dv_is_:

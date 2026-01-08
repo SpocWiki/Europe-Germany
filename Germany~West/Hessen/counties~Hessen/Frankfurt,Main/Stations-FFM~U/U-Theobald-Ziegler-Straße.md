@@ -15,7 +15,7 @@ dv_StationUId: 82
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.690057
 dv_has_place_latitude: 50.14792
-dv_name: Theobald-Ziegler-Straße
+dv_has_name_: Theobald-Ziegler-Straße
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

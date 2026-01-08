@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.77
 dv_has_place_latitude: 53.02
-dv_name: Wittenberge
+dv_has_name_: Wittenberge
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Brandenburg]]"
 dv_is_:

@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.8
 dv_has_place_latitude: 49.65
-dv_name: Fuerth~Odenwald
+dv_has_name_: Fuerth~Odenwald
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Hessen]]"
 dv_is_:

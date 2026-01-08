@@ -15,7 +15,7 @@ dv_StationUId: 47
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.688
 dv_has_place_latitude: 50.1141
-dv_name: Konstablerwache
+dv_has_name_: Konstablerwache
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: C, S-Bahn, Straßenbahn

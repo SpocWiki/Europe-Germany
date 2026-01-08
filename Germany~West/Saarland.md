@@ -105,8 +105,8 @@ twinned_administrative_body:
 type: State
 U_S_National_Archives_Identifier: 10044798
 X_username: saarland_de
-dv_name: Saarland
-dv_name-abbr: SL
+dv_has_name_: Saarland
+dv_has_name_abbr: SL
 dv_is_:
   same_as:
     - "[[../../../../../../WikiData/WD~Saarland,1201|WD~Saarland,1201]]"
@@ -136,7 +136,7 @@ dv_is_same_as:
 
 name = `=this.dv_name` 
 
-name-abbr = `=this.dv_name-abbr` 
+has_name_abbr = `=this.dv_has_name_abbr` 
 
 ![[Coat_of_arms_of_Saarlands.svg|350]] 
 

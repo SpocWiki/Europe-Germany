@@ -15,7 +15,7 @@ dv_StationUId: 42
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.666282
 dv_has_place_latitude: 50.14798
-dv_name: Hügelstraße
+dv_has_name_: Hügelstraße
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.45
 dv_has_place_latitude: 53.38
-dv_name: Fuerstenwerder
+dv_has_name_: Fuerstenwerder
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Mecklenburg-Vorpommern]]"
 dv_is_:

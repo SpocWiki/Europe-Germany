@@ -16,7 +16,7 @@ dv_StationUId: 19
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.692198
 dv_has_place_latitude: 50.14383
-dv_name: Gießener Straße
+dv_has_name_: Gießener Straße
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-ÖPNV: 34

@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.18
 dv_has_place_latitude: 52.08
-dv_name: Luckenwalde
+dv_has_name_: Luckenwalde
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Brandenburg]]"
 dv_is_:

@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.2
 dv_has_place_latitude: 49.35
-dv_name: Neunkirchen~Saar
+dv_has_name_: Neunkirchen~Saar
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Saarland]]"
 dv_is_:

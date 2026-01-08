@@ -136,8 +136,8 @@ twinned_administrative_body: "[[_Standards/WikiData/WD~Kanagawa Prefecture]]"
 type: State
 U_S_National_Archives_Identifier: 10044810
 X_username: regierungbw
-dv_name: Baden-Wuerttemberg
-dv_name-abbr: BW
+dv_has_name_: Baden-Wuerttemberg
+dv_has_name_abbr: BW
 dv_has_place_country: "[[../../Germany]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.97421
@@ -162,7 +162,7 @@ dv_is_same_as:
 ---
 
 name = `=this.dv_name` 
-name-abbr = `=this.dv_name-abbr` 
+has_name_abbr = `=this.dv_has_name_abbr` 
 
 # Baden-Württemberg 
 

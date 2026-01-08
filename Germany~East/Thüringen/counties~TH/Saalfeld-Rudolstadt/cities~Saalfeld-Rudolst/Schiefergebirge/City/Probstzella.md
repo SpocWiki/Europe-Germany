@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.4
 dv_has_place_latitude: 50.53
-dv_name: Probstzella
+dv_has_name_: Probstzella
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Thüringen]]"
 dv_is_:

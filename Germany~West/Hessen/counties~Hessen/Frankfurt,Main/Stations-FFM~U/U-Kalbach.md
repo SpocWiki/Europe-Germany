@@ -15,7 +15,7 @@ dv_StationUId: 45
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.658256
 dv_has_place_latitude: 50.18362
-dv_name: Kalbach
+dv_has_name_: Kalbach
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

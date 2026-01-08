@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.77
 dv_has_place_latitude: 50.1
-dv_name: Offenbach
+dv_has_name_: Offenbach
 dv_has_place_country: "[[../../../../Germany]]"
 dv_has_place_province: "[[../../Hessen]]"
 dv_is_:

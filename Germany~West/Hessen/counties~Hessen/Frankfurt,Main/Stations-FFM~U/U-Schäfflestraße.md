@@ -15,7 +15,7 @@ dv_StationUId: 76
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.732849
 dv_has_place_latitude: 50.13101
-dv_name: Schäfflestraße
+dv_has_name_: Schäfflestraße
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

@@ -15,7 +15,7 @@ dv_StationUId: 38
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.748982
 dv_has_place_latitude: 50.14041
-dv_name: Hessen-Center
+dv_has_name_: Hessen-Center
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

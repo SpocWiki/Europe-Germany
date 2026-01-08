@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.28
 dv_has_place_latitude: 51.8
-dv_name: Sielow
+dv_has_name_: Sielow
 dv_has_place_country: "[[../../../../../Germany]]"
 dv_has_place_province: "[[../../../Brandenburg]]"
 dv_is_:

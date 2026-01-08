@@ -15,7 +15,7 @@ dv_StationUId: 81
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.6861
 dv_has_place_latitude: 50.0994
-dv_name: Südbahnhof
+dv_has_name_: Südbahnhof
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: Fern- und Regionalverkehr, S-Bahn, Straßenbahn

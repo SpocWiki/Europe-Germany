@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.28
 dv_has_place_latitude: 54.25
-dv_name: Preetz
+dv_has_name_: Preetz
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Schleswig-Holstein]]"
 dv_is_:

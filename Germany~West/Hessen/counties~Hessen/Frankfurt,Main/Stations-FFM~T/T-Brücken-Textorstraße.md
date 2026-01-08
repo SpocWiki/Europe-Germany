@@ -14,7 +14,7 @@ type: Station
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.686291
 dv_has_place_latitude: 50.1014
-dv_name: Brücken-/Textorstraße
+dv_has_name_: Brücken-/Textorstraße
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_is_:

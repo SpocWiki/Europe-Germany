@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.98
 dv_has_place_latitude: 51.15
-dv_name: Görlitz
+dv_has_name_: Görlitz
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Sachsen]]"
 dv_is_:

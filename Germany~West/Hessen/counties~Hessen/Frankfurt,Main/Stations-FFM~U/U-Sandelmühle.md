@@ -15,7 +15,7 @@ dv_StationUId: 75
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.645339
 dv_has_place_latitude: 50.16546
-dv_name: Sandelmühle
+dv_has_name_: Sandelmühle
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.75
 dv_has_place_latitude: 51.05
-dv_name: Bernstadt~Sachsen
+dv_has_name_: Bernstadt~Sachsen
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Sachsen]]"
 dv_is_:

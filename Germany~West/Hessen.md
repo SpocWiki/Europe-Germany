@@ -102,8 +102,8 @@ type: State
 U_S_National_Archives_Identifier: 10044796
 X_username: reghessen
 YouTube_handle: RegierungHessen
-dv_name: Hessen
-dv_name-abbr: HN
+dv_has_name_: Hessen
+dv_has_name_abbr: HN
 dv_is_:
   same_as:
     - "[[../../../../../../WikiData/WD~Hesse,1199|WD~Hesse,1199]]"
@@ -132,7 +132,7 @@ dv_is_same_as:
 # [[Hessen]] 
 
 name = `=this.dv_name` 
-name-abbr = `=this.dv_name-abbr` 
+has_name_abbr = `=this.dv_has_name_abbr` 
 
 ![[Coat_of_arms_of_Hesse.svg|350]] 
 

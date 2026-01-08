@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.75
 dv_has_place_latitude: 51.47
-dv_name: Mueckenberg
+dv_has_name_: Mueckenberg
 dv_has_place_country: "[[../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../Brandenburg]]"
 dv_is_:

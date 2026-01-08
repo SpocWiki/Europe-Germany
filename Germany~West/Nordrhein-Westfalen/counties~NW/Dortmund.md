@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.47
 dv_has_place_latitude: 51.51
-dv_name: Dortmund
+dv_has_name_: Dortmund
 dv_has_place_country: "[[../../../../Germany]]"
 dv_has_place_province: "[[NordRhein-Westfahlen]]"
 dv_is_:

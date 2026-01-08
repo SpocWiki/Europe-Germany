@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.8
 dv_has_place_latitude: 49.32
-dv_name: Fraulautern
+dv_has_name_: Fraulautern
 dv_has_place_country: "[[../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../Saarland]]"
 dv_is_:

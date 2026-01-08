@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.78
 dv_has_place_latitude: 54.63
-dv_name: Wagersrott
+dv_has_name_: Wagersrott
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Schleswig-Holstein]]"
 dv_is_:

@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.3
 dv_has_place_latitude: 52.88
-dv_name: Falkensthal
+dv_has_name_: Falkensthal
 dv_has_place_country: "[[../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../Brandenburg]]"
 dv_is_:

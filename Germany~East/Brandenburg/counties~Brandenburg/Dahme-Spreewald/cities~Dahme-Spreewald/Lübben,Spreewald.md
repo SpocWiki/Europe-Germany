@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.88
 dv_has_place_latitude: 51.95
-dv_name: Luebben
+dv_has_name_: Luebben
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Brandenburg]]"
 dv_is_:

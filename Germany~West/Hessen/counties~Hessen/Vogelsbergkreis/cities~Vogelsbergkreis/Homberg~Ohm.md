@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.02
 dv_has_place_latitude: 50.73
-dv_name: Homberg~Oberrhein
+dv_has_name_: Homberg~Oberrhein
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Hessen]]"
 dv_is_:

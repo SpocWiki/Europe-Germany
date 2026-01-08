@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.27
 dv_has_place_latitude: 53.6
-dv_name: Langelohe
+dv_has_name_: Langelohe
 dv_has_place_country: "[[../../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../../Schleswig-Holstein]]"
 dv_is_:

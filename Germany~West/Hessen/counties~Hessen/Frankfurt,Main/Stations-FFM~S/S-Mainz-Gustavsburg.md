@@ -14,7 +14,7 @@ type: Station
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.314038
 dv_has_place_latitude: 49.99441
-dv_name: Mainz-Gustavsburg
+dv_has_name_: Mainz-Gustavsburg
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_is_:

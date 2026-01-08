@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.7
 dv_has_place_latitude: 53.45
-dv_name: Buxtehude
+dv_has_name_: Buxtehude
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Niedersachsen]]"
 dv_is_:

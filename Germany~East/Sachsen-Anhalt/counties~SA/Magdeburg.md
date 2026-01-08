@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.63
 dv_has_place_latitude: 52.12
-dv_name: Magdeburg
+dv_has_name_: Magdeburg
 dv_has_place_country: "[[../../../../Germany]]"
 dv_has_place_province: "[[../../Sachsen-Anhalt]]"
 dv_is_:

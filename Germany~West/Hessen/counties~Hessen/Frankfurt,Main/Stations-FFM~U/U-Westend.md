@@ -15,7 +15,7 @@ dv_StationUId: 87
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.66194
 dv_has_place_latitude: 50.1183
-dv_name: Westend
+dv_has_name_: Westend
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

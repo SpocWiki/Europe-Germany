@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.73
 dv_has_place_latitude: 50.3
-dv_name: Rosbach~Frankfurt
+dv_has_name_: Rosbach~Frankfurt
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../Hessen]]"
 dv_is_:

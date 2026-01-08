@@ -15,7 +15,7 @@ dv_StationUId: 5
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.59324
 dv_has_place_latitude: 50.19361
-dv_name: Bommersheim
+dv_has_name_: Bommersheim
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

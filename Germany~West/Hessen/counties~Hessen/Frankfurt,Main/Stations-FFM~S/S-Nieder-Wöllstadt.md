@@ -14,7 +14,7 @@ type: Station
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.757222
 dv_has_place_latitude: 50.28722
-dv_name: Nieder-Wöllstadt
+dv_has_name_: Nieder-Wöllstadt
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_is_:

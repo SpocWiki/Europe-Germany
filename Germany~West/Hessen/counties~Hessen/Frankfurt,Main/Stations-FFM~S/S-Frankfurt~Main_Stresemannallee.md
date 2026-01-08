@@ -15,7 +15,7 @@ type: Station
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.67
 dv_has_place_latitude: 50.09139
-dv_name: Frankfurt~Main Stresemannallee
+dv_has_name_: Frankfurt~Main Stresemannallee
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_is_:

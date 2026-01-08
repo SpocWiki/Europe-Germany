@@ -15,7 +15,7 @@ type: Station
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.770833
 dv_has_place_latitude: 50.09945
-dv_name: Offenbach~Main Ost
+dv_has_name_: Offenbach~Main Ost
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_is_:

@@ -19,7 +19,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.64
 dv_has_place_latitude: 51.36
-dv_name: Uerdingen
+dv_has_name_: Uerdingen
 dv_has_place_country: "[[../../../../../Germany]]"
 dv_has_place_province: "[[NordRhein-Westfahlen]]"
 dv_is_:

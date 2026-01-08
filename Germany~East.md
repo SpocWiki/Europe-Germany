@@ -13,8 +13,8 @@ tags:
   - geo/Country
 type: Country
 dv_ISO3: DDR
-dv_name-en: East Germany
-dv_name-de: DDR
+dv_has_name_en: East Germany
+dv_has_name_de: DDR
 dv_has_place_continent: "[[../../../Europe]]"
 dv_VehicleCode: DDR
 dv_Language-Id: 497
@@ -57,8 +57,8 @@ markerFile: [[Germany~East]]
 defaultZoom: 7 
 ```
 
-name-en = `=this.dv_name-en` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 [Area-Total::] 
 [Area-Land::] 
 has_place_continent = `=this.dv_has_place_continent`

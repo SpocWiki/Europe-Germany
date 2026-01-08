@@ -246,7 +246,7 @@ YouTube_handle: Koeln
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.96
 dv_has_place_latitude: 50.94
-dv_name: Köln
+dv_has_name_: Köln
 dv_has_place_country: "[[../../../../../Germany]]"
 dv_has_place_province: "[[NordRhein-Westfahlen]]"
 dv_is_:

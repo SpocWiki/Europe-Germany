@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.38
 dv_has_place_latitude: 51.57
-dv_name: Zwinge
+dv_has_name_: Zwinge
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Thüringen]]"
 dv_is_:

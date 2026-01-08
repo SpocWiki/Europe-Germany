@@ -16,7 +16,7 @@ dv_StationUId: 34
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.619142
 dv_has_place_latitude: 50.13187
-dv_name: Hausener Weg
+dv_has_name_: Hausener Weg
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

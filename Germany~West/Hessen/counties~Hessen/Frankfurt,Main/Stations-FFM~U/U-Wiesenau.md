@@ -15,7 +15,7 @@ dv_StationUId: 88
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.62989
 dv_has_place_latitude: 50.16677
-dv_name: Wiesenau
+dv_has_name_: Wiesenau
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

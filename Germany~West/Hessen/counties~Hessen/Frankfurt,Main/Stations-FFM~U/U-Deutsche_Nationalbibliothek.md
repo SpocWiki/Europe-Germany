@@ -16,7 +16,7 @@ dv_StationUId: 8
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.683598
 dv_has_place_latitude: 50.1316
-dv_name: Deutsche Nationalbibliothek
+dv_has_name_: Deutsche Nationalbibliothek
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

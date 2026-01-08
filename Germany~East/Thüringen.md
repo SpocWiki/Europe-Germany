@@ -140,8 +140,8 @@ tags:
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal:Thuringia]]"
 type: State
 X_username: thueringende
-dv_name: Thüringen
-dv_name-abbr: TH
+dv_has_name_: Thüringen
+dv_has_name_abbr: TH
 dv_is_:
   same_as:
     - "[[../../../../../../WikiData/WD~Thuringia,1205|WD~Thuringia,1205]]"
@@ -171,7 +171,7 @@ dv_is_same_as:
 
 name = `=this.dv_name` 
 
-name-abbr = `=this.dv_name-abbr` 
+has_name_abbr = `=this.dv_has_name_abbr` 
 
 is_a_ = `=this.dv_is_a_`
 

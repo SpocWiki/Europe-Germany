@@ -219,9 +219,10 @@ web_feed_URL:
   - https://www.bayern.de/rss/newsletter.php
   - https://www.bayern.de/rss/pm_alle.php
 YouTube_handle: Bayern
-dv_name: Bayern
-dv_name-abbr: BY
+dv_has_name_: Bayern
+dv_has_name_abbr: BY
 dv_has_:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Germany-Bayern
   image_for_:
@@ -258,7 +259,7 @@ dv_is_same_as:
 # [[Bayern]] 
 
 name = `=this.dv_name` 
-name-abbr = `=this.dv_name-abbr` 
+has_name_abbr = `=this.dv_has_name_abbr` 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 > [!info]

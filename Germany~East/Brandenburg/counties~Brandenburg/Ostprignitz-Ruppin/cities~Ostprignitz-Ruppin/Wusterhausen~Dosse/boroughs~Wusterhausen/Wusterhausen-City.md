@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.48
 dv_has_place_latitude: 52.9
-dv_name: Wusterhausen
+dv_has_name_: Wusterhausen
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Brandenburg]]"
 dv_is_:

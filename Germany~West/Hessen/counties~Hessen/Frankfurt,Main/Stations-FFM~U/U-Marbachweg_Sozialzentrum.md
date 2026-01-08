@@ -16,7 +16,7 @@ dv_StationUId: 54
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.684
 dv_has_place_latitude: 50.14209
-dv_name: Marbachweg/Sozialzentrum
+dv_has_name_: Marbachweg/Sozialzentrum
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

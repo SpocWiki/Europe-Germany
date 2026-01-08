@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.32
 dv_has_place_latitude: 53.82
-dv_name: Mierendorf
+dv_has_name_: Mierendorf
 dv_has_place_country: "[[../../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../../Mecklenburg-Vorpommern]]"
 dv_is_:

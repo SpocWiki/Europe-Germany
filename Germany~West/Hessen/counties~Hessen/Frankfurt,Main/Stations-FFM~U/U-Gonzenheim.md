@@ -15,7 +15,7 @@ dv_StationUId: 23
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.640438
 dv_has_place_latitude: 50.219
-dv_name: Gonzenheim
+dv_has_name_: Gonzenheim
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"

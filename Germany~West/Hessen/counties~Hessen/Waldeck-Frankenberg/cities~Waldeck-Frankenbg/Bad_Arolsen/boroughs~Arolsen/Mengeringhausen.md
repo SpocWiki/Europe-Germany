@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.98
 dv_has_place_latitude: 51.37
-dv_name: Mengeringhausen
+dv_has_name_: Mengeringhausen
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Hessen]]"
 dv_is_:

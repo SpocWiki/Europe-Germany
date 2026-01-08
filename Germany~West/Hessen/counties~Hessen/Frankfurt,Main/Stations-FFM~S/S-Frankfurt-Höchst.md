@@ -14,7 +14,7 @@ type: Station
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.5425
 dv_has_place_latitude: 50.1025
-dv_name: Frankfurt-Höchst
+dv_has_name_: Frankfurt-Höchst
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_is_:

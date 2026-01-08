@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.93
 dv_has_place_latitude: 54.22
-dv_name: Wesselburen
+dv_has_name_: Wesselburen
 dv_has_place_country: "[[../../../../../../../../Germany]]"
 dv_has_place_province: "[[../../../../../../Schleswig-Holstein]]"
 dv_is_:
