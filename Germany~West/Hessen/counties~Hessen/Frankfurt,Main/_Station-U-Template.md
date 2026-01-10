@@ -13,7 +13,7 @@ tags:
 type: Station
 dv_has_place_longitude: "{{GeoLon}}"
 dv_has_place_latitude: "{{GeoLat}}"
-dv_has_name_: "{{Bahnhof}}"
+dv_has_name: "{{Bahnhof}}"
 dv_has_place_country: "[[../../../../../Germany]]"
 dv_City: "[[../Frankfurt,Main]]"
 dv_switch-to-SPNV: "{{SPNV-Umstieg}}"
@@ -43,7 +43,7 @@ StationUId: {{Id}}
 
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 has_place_country = `=this.dv_has_place_country`
 City = `=this.dv_City`
 switch-to-SPNV = `=this.dv_switch-to-SPNV` 

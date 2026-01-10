@@ -19,7 +19,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.75
 dv_has_place_latitude: 52.97
-dv_has_name_: Joachimsthal
+dv_has_name: Joachimsthal
 dv_has_place_country: Czech_Rep.]
 dv_is_:
   same_as:
@@ -44,7 +44,7 @@ dv_is_same_as:
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 has_place_province::  
 has_place_country = `=this.dv_has_place_country`
 [StateId::] 

@@ -238,7 +238,7 @@ X_username: hamburg_de
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.99
 dv_has_place_latitude: 53.54
-dv_has_name_: Hamburg
+dv_has_name: Hamburg
 dv_has_place_country: "[[../../../../Germany]]"
 dv_has_place_province: "[[../../Hamburg,State]]"
 dv_is_:
@@ -269,7 +269,7 @@ is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 
 has_place_country = `=this.dv_has_place_country`
 

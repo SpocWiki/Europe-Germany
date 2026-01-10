@@ -152,8 +152,8 @@ tags:
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal:Lower Saxony]]"
 twinned_administrative_body: "[[_Standards/WikiData/WD~Tokushima Prefecture]]"
 type: State
-dv_has_name_: Niedersachsen
-dv_has_name_abbr: NS
+dv_has_name: Niedersachsen
+dv_has_name_abbreviated: NS
 dv_is_:
   same_as:
     - "[[../../../../../../WikiData/WD~Lower_Saxony,1197|WD~Lower_Saxony,1197]]"
@@ -181,8 +181,8 @@ dv_is_same_as:
 
 # [[Niedersachsen]] 
 
-name = `=this.dv_name` 
-has_name_abbr = `=this.dv_has_name_abbr` 
+name = `=this.dv_has_name` 
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
 is_a_ = `=this.dv_is_a_`
 

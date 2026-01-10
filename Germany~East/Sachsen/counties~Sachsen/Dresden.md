@@ -214,7 +214,7 @@ dv_is_a:
   - "[[../../../../../../../../Society/Agent/Community/Organization/Government_Organization]]]"
 dv_has_place_longitude: 13.73
 dv_has_place_latitude: 51.05
-dv_has_name_: Dresden
+dv_has_name: Dresden
 dv_has_place_country: "[[../../../../Germany]]"
 dv_has_place_province: "[[../../Sachsen]]"
 dv_is_:
@@ -247,7 +247,7 @@ is_a_ = `=this.dv_is_a_`
 #is_a ::[[../../../../../../../../Society/Agent/Community/Organization/Government_Organization]]] 
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 has_place_country = `=this.dv_has_place_country`
 has_place_province = `=this.dv_has_place_province`
 [Population::] 

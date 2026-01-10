@@ -129,8 +129,8 @@ twinned_administrative_body: "[[_Standards/WikiData/WD~Saitama Prefecture]]"
 type: State
 X_username: staatskanzleibb
 YouTube_handle: land.brandenburg
-dv_has_name_: Brandenburg
-dv_has_name_abbr: BB
+dv_has_name: Brandenburg
+dv_has_name_abbreviated: BB
 dv_has_place_country: "[[../../Germany]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.3801
@@ -156,8 +156,8 @@ dv_is_same_as:
 
 # [[Brandenburg]] 
 
-name = `=this.dv_name` 
-has_name_abbr = `=this.dv_has_name_abbr` 
+name = `=this.dv_has_name` 
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 ![[Coat_of_arms_of_Brandenburg.svg|350]] 
 ![[Flag_of_Brandenburg.svg|350]] 
 

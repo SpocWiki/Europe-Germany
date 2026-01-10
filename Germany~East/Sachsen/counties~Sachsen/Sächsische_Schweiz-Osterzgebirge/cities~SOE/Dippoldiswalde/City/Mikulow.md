@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.63
 dv_has_place_latitude: 50.8
-dv_has_name_: Mikulow
+dv_has_name: Mikulow
 dv_has_place_country: Czech_Rep.]
 dv_is_:
   same_as:
@@ -42,7 +42,7 @@ dv_is_same_as:
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 has_place_province::  
 has_place_country = `=this.dv_has_place_country`
 [StateId::] 

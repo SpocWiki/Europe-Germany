@@ -122,8 +122,8 @@ tags:
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal:Saxony]]"
 type: State
 X_username: SachsenDe
-dv_has_name_: Sachsen
-dv_has_name_abbr: SN
+dv_has_name: Sachsen
+dv_has_name_abbreviated: SN
 dv_is_:
   same_as:
     - "[[../../../../../../WikiData/WD~Saxony,1202|WD~Saxony,1202]]"
@@ -151,8 +151,8 @@ dv_is_same_as:
 
 # [[Sachsen]] 
 
-name = `=this.dv_name` 
-has_name_abbr = `=this.dv_has_name_abbr`
+name = `=this.dv_has_name` 
+has_name_abbreviated = `=this.dv_has_name_abbreviated`
 is_a_ = `=this.dv_is_a_`
 
 ![[Coat_of_arms_of_Saxony.svg|350]]  

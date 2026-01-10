@@ -13,8 +13,8 @@ SpocWebEntityId: 29130
 tags:
   - geo/State
 type: State
-dv_has_name_: State~Berlin
-dv_has_name_abbr: BL
+dv_has_name: State~Berlin
+dv_has_name_abbreviated: BL
 dv_has_place_country: "[[../../Germany]]"
 dv_Capital: "[[Berlin,State/cities~Berlin/Berlin,City]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
@@ -41,8 +41,8 @@ dv_is_same_as:
 
 # [[Berlin,State]] 
 
-name = `=this.dv_name` 
-has_name_abbr = `=this.dv_has_name_abbr`
+name = `=this.dv_has_name` 
+has_name_abbreviated = `=this.dv_has_name_abbreviated`
 
 ![[Berlin,State/Coat_of_arms_of_Berlin.svg|350]] 
 

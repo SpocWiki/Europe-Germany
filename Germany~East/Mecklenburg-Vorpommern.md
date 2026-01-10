@@ -98,8 +98,8 @@ topic_s_main_category: "[[_Standards/WikiData/WD~Q56822973]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal:Mecklenburg-Vorpommern]]"
 type: State
 WOEID: 2345492
-dv_has_name_: Mecklenburg-Vorpommern
-dv_has_name_abbr: MV
+dv_has_name: Mecklenburg-Vorpommern
+dv_has_name_abbreviated: MV
 dv_is_:
   same_as:
     - "[[../../../../../../WikiData/WD~Mecklenburg-Western_Pomerania,1196|WD~Mecklenburg-Western_Pomerania,1196]]"
@@ -127,8 +127,8 @@ dv_is_same_as:
 
 # [[Mecklenburg-Vorpommern]] 
 
-name = `=this.dv_name` 
-has_name_abbr = `=this.dv_has_name_abbr` 
+name = `=this.dv_has_name` 
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 ![[Coat_of_arms_of_Mecklenburg-Western_Pomerania~great.svg|350]] 
 ![[Flag_of_Mecklenburg-Western_Pomerania.svg|350]] 
 

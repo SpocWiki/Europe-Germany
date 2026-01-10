@@ -106,8 +106,8 @@ Telegram_username: SachsenAnhaltde_bot
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal:Saxony-Anhalt]]"
 type: State
 X_username: sachsenanhalt
-dv_has_name_: Sachsen-Anhalt
-dv_has_name_abbr: ST
+dv_has_name: Sachsen-Anhalt
+dv_has_name_abbreviated: ST
 dv_is_:
   same_as:
     - "[[../../../../../../WikiData/WD~Saxony-Anhalt,1206|WD~Saxony-Anhalt,1206]]"
@@ -135,8 +135,8 @@ dv_is_same_as:
 
 # [[Sachsen-Anhalt]] 
 
-name = `=this.dv_name` 
-has_name_abbr = `=this.dv_has_name_abbr` 
+name = `=this.dv_has_name` 
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 is_a_ = `=this.dv_is_a_`
 
 ![[Coat_of_arms_of_Sachsen-Anhalt.svg|350]]  

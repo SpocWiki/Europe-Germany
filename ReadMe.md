@@ -631,7 +631,7 @@ Wolfram_Language_entity_code: Entity["Country", "Germany"]
 dv_is_a_:
   - "[[../../../../Geography/Place]]"
   - "[[../../../../Geography/Place]]"
-dv_has_name_: Germany
+dv_has_name: Germany
 dv_has_name_en: Germany
 dv_has_name_es: Alemania
 dv_has_name_fr: Allemagne
@@ -730,7 +730,7 @@ dv_is_same_as:
 #is_a_ :: [[Place]] 
 
 ## International Names
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 has_name_en = `=this.dv_has_name_en` 
 has_name_es = `=this.dv_has_name_es` 
 has_name_fr = `=this.dv_has_name_fr` 

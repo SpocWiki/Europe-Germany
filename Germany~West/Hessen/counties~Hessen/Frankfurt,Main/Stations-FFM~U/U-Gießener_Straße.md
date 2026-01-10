@@ -16,7 +16,7 @@ dv_StationUId: 19
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.692198
 dv_has_place_latitude: 50.14383
-dv_has_name_: Gießener Straße
+dv_has_name: Gießener Straße
 dv_has_place_country: "[[../../../../../../Germany]]"
 dv_City: "[[../../Frankfurt,Main]] ]"
 dv_switch-to-ÖPNV: 34
@@ -48,7 +48,7 @@ confidential: public
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 has_place_country = `=this.dv_has_place_country`
 City = `=this.dv_City`
 [switch-to-SPNV::] 

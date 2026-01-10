@@ -219,8 +219,8 @@ web_feed_URL:
   - https://www.bayern.de/rss/newsletter.php
   - https://www.bayern.de/rss/pm_alle.php
 YouTube_handle: Bayern
-dv_has_name_: Bayern
-dv_has_name_abbr: BY
+dv_has_name: Bayern
+dv_has_name_abbreviated: BY
 dv_has_:
   name_:
   url_for_:
@@ -258,8 +258,8 @@ dv_is_same_as:
 
 # [[Bayern]] 
 
-name = `=this.dv_name` 
-has_name_abbr = `=this.dv_has_name_abbr` 
+name = `=this.dv_has_name` 
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 > [!info]

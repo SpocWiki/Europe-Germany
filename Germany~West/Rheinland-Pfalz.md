@@ -137,8 +137,8 @@ tags:
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal:Rhineland-Palatinate]]"
 type: State
 X_username: rlpNews
-dv_has_name_: Rheinland-Pfalz
-dv_has_name_abbr: RZ
+dv_has_name: Rheinland-Pfalz
+dv_has_name_abbreviated: RZ
 dv_is_:
   same_as:
     - "[[../../../../../../WikiData/WD~Rhineland-Palatinate,1201|WD~Rhineland-Palatinate,1201]]"
@@ -178,9 +178,9 @@ dv_has_map: "[DEU-Germany-1580-Rheinland-Pfalz.geojson](./Rheinland-Pfalz/DEU-Ge
 
 # [[Rheinland-Pfalz]] 
 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 
-has_name_abbr = `=this.dv_has_name_abbr` 
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
 is_a_ = `=this.dv_is_a_`
 

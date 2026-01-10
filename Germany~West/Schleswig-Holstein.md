@@ -123,8 +123,8 @@ twinned_administrative_body:
   - "[[_Standards/WikiData/WD~Pomeranian Voivodeship]]"
 type: State
 U_S_National_Archives_Identifier: 10044808
-dv_has_name_: Schleswig-Holstein
-dv_has_name_abbr: SG
+dv_has_name: Schleswig-Holstein
+dv_has_name_abbreviated: SG
 dv_has_place_country: "[[../../Germany]]"
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.87324
@@ -150,9 +150,9 @@ dv_is_same_as:
 
 # [[Schleswig-Holstein]] 
 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 
-has_name_abbr = `=this.dv_has_name_abbr` 
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
 ![[Coat_of_arms_of_Schleswig-Holstein.svg|350]] 
 
