@@ -318,7 +318,7 @@ has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
 
 has_image_for_flag = `=this.dv_has_image_for_flag`
 
-##has_map = `=this.dv_has_map`
+## #has_/map `=this.dv_has_map`
 
 ```leaflet
 id: Bayern
