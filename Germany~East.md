@@ -2,7 +2,7 @@
 aliases:
   - DDR
   - East Germany
-  - Deutsche Demokratische Republik
+  - Deutsche Demokratische Republik
   - German Democratic Republic
   - GDR
   - Germany~East
