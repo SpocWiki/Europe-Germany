@@ -272,6 +272,32 @@ so that this Link into the Sub-Repository works: [[Bavaria/ReadMe]]
 > [!warning] This can considerably increase the total size and depth of your wiki.
 
 
+## #has_/place_/city 
+
+| **City**                                                                                               |   persons |
+| ------------------------------------------------------------------------------------------------------ | --------: |
+| [[Bayern/counties~Bayern/München,County/City/München,City\|Munich]] (München)                          | 1 478 638 |
+| Nuremberg ([[Bayern/counties~Bayern/Nürnberg\|Nürnberg]])                                              |   522 554 |
+| [[Bayern/counties~Bayern/Augsburg,County/cities~Augsburg/Augsburg,City\|Augsburg]]                     |   294 647 |
+| [[Bayern/counties~Bayern/Regensburg-City/City/Regensburg\|Regensburg]]                                 |   145 901 |
+| [[Bayern/counties~Bayern/Ingolstadt\|Ingolstadt]]                                                      |   136 468 |
+| [[Bayern/counties~Bayern/Würzburg-City/City/Würzburg\|Würzburg]]                                       |   131 316 |
+| [[Bayern/counties~Bayern/Fürth\|Fürth]]                                                                |   130 126 |
+| [[Bayern/counties~Bayern/Erlangen\|Erlangen]]                                                          |   112 220 |
+| [[Bayern/counties~Bayern/Bamberg-City/City/Bamberg\|Bamberg]]                                          |    72 764 |
+| [[Bayern/counties~Bayern/Bayreuth-City/City/Bayreuth\|Bayreuth]]                                       |    72 289 |
+| [[Bayern/counties~Bayern/Aschaffenburg,County/cities~Aschaffenburg/Aschaffenburg,City\|Aschaffenburg]] |    71 692 |
+| [[Bayern/counties~Bayern/Landshut-City/City/Landshut\|Landshut]]                                       |    67 880 |
+| [[Bayern/counties~Bayern/Kempten~Allgäu/City/Kempten\|Kempten]] (Allgäu)                               |    65 050 |
+| [[Bayern/counties~Bayern/Rosenheim-City/City/Rosenheim\|Rosenheim]]                                    |    63 284 |
+| [[Bayern/counties~Bayern/Neu-Ulm,County/cities~Neu-Ulm/Neu-Ulm,City\|Neu-Ulm]]                         |    60 597 |
+| [[Bayern/counties~Bayern/Schweinfurt-City/City/Schweinfurt\|Schweinfurt]]                              |    53 242 |
+| [[Bayern/counties~Bayern/Passau-City/City/Passau\|Passau]]                                             |    51 907 |
+| [[Bayern/counties~Bayern/Freising/cities~Freising/Freising-city/City/Freising\|Freising]]              |    47 727 |
+| [[Bayern/counties~Bayern/Straubing\|Straubing]]                                                        |    46 167 |
+| [[Bayern/counties~Bayern/Dachau/cities~Dachau/Dachau-city/City/Dachau\|Dachau]]                        |    45 965 |
+
+
 ## #has_/text_of_/abstract  
 
 > **Bavaria**, officially the Free State of Bavaria, is a state in the southeast of Germany. 
