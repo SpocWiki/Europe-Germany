@@ -1,5 +1,5 @@
 ---
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 8.66
 dv_has_place_latitude: 49.87
 dv_has_name: Darmstadt
