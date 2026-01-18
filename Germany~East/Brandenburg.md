@@ -132,7 +132,7 @@ YouTube_handle: land.brandenburg
 dv_has_name: Brandenburg
 dv_has_name_abbreviated: BB
 dv_has_place_country: "[[../../Germany]]"
-dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 13.3801
 dv_has_place_latitude: 52.3844
 dv_is_:
@@ -174,8 +174,10 @@ markerFolder: ./Brandenburg/
 
 has_place_country = `=this.dv_has_place_country`
 Capital :: [[Potsdam]] ] 
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 

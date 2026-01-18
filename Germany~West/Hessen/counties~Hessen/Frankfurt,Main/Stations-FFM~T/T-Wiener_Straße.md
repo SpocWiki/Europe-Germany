@@ -14,7 +14,7 @@ tags:
   - transport/tram
   - ""
 type: Station
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 8.736727
 dv_has_place_latitude: 50.10036
 dv_has_name: Wiener Straße
@@ -43,8 +43,10 @@ SpocWebEntityId: 156533
 isDeleted: false
 isReadOnly: false
 confidential: public
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 name = `=this.dv_has_name` 

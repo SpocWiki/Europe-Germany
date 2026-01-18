@@ -230,7 +230,7 @@ dv_has_:
     flag: "![[./Bayern/Flag_of_Bavaria~lozengy.svg|200]] ![](./Bayern/Flag_of_Bavaria~lozengy.svg)"
   map: "[DEU-Germany-1591-Bayern](./Bayern/DEU-Germany-1591-Bayern.geojson)"
 dv_has_place_country: "[[../../Germany]]"
-dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 11.3382
 dv_has_place_latitude: 48.8642
 dv_is_:
@@ -361,8 +361,10 @@ markerFolder: ./Bayern/
 
 has_place_country = `=this.dv_has_place_country`
 Capital ::  [[Bayern/counties~Bayern/München,County/City/München,City]] 
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 

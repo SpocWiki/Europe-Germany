@@ -14,7 +14,7 @@ SpocWebEntityId: 30389
 tags:
   - geo/City
 type: City
-dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 11
 dv_has_place_latitude: 50.62
 dv_has_name: Gehren
@@ -39,8 +39,10 @@ dv_is_same_as:
   - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Langer_Berg/City/Gehren.secret|Gehren.secret]]"
 ---
 
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 name = `=this.dv_has_name` 

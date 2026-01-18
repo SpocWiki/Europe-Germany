@@ -135,7 +135,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen.personal|Sachsen.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen.secret|Sachsen.secret]]"
 dv_has_place_country: "[[../../Germany]]"
-dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 13.2481
 dv_has_place_latitude: 50.968
 dv_is_same_as:
@@ -207,8 +207,10 @@ defaultZoom: 11
 
 has_place_country = `=this.dv_has_place_country`
 Capital :: [[Dresden]] ] 
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 

@@ -115,7 +115,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.personal|Hessen.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.secret|Hessen.secret]]"
 dv_has_place_country: "[[../../Germany]]"
-dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 8.8478
 dv_has_place_latitude: 50.4897
 dv_is_same_as:
@@ -152,8 +152,10 @@ markerFolder: ./Hessen/
 
 has_place_country = `=this.dv_has_place_country`
 Capital :: [[Wiesbaden]]  
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 

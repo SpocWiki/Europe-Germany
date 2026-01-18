@@ -15,7 +15,7 @@ tags:
 SpocWebEntityId: 31596
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 14.33
 dv_has_place_latitude: 51.77
 dv_has_name: Cottbus
@@ -40,8 +40,10 @@ dv_is_same_as:
   - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Cottbus.secret|Cottbus.secret]]"
 ---
 
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 name = `=this.dv_has_name` 

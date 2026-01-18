@@ -16,7 +16,7 @@ dv_has_name: State~Bremen
 dv_has_name_abbreviated: BN
 dv_has_place_country: "[[../../Germany]]"
 dv_Capital: "[[Bremen,State/cities~Bremen/Bremen,City]] ]"
-dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 8.682
 dv_has_place_latitude: 53.222
 dv_is_:
@@ -57,8 +57,10 @@ markerFolder: ./State~Bremen/
 
 has_place_country = `=this.dv_has_place_country`
 Capital = `=this.dv_Capital`
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 

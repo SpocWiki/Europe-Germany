@@ -165,7 +165,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.personal|Niedersachsen.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.secret|Niedersachsen.secret]]"
 dv_has_place_country: "[[../../Germany]]"
-dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 9.02868
 dv_has_place_latitude: 52.7796
 dv_is_same_as:
@@ -199,8 +199,10 @@ markerFolder: ./Niedersachsen///
 
 has_place_country = `=this.dv_has_place_country`
 Capital ::  [[Niedersachsen/counties~Niedersachsen/RegionHannover/cities~RegionHannover/Hannover/boroughs~Hannover/Hannover]] ] 
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 [Population:: 8000000] 

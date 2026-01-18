@@ -158,7 +158,7 @@ dv_has_:
     flag: "![[./Rheinland-Pfalz/Flag_of_Rhineland-Palatinate.svg|200]] ![](./Rheinland-Pfalz/Flag_of_Rhineland-Palatinate.svg)"
   map: "[DEU-Germany-1580-Rheinland-Pfalz.geojson](./Rheinland-Pfalz/DEU-Germany-1580-Rheinland-Pfalz.geojson)"
 dv_has_place_country: "[[../../Germany]]"
-dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 7.57652
 dv_has_place_latitude: 49.914
 dv_is_same_as:
@@ -255,8 +255,10 @@ markerFolder: ./Rheinland-Pfalz/
 
 has_place_country = `=this.dv_has_place_country`
 Capital :: [[Mainz]]  
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 

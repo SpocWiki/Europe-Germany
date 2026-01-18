@@ -208,7 +208,7 @@ U_S_National_Archives_Identifier: 10044802
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Google%20Timelapse-%20Dresden%2C%20Germany.webm
 WOEID: 645686
 Wolfram_Language_entity_code: Entity["City", {"Dresden", "Saxony", "Germany"}]
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_is_a:
   - "[[../../../../../../../Geography/Place/Administrative_Area/City]]]"
   - "[[../../../../../../../../Society/Agent/Community/Organization/Government_Organization]]]"
@@ -241,8 +241,10 @@ dv_is_same_as:
 # [[Dresden]] 
 
 
-﻿#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+﻿
+
+
+ is_a = `=this.dv_is_a_`
 #is_a ::[[../../../../../../../Geography/Place/Administrative_Area/City]]] 
 #is_a ::[[../../../../../../../../Society/Agent/Community/Organization/Government_Organization]]] 
 has_place_longitude = `=this.dv_has_place_longitude` 

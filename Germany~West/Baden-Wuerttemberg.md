@@ -139,7 +139,7 @@ X_username: regierungbw
 dv_has_name: Baden-Wuerttemberg
 dv_has_name_abbreviated: BW
 dv_has_place_country: "[[../../Germany]]"
-dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 8.97421
 dv_has_place_latitude: 48.5647
 dv_is_:
@@ -168,28 +168,28 @@ has_name_abbreviated = `=this.dv_has_name_abbreviated`
 
 ## #has_/place_/city 
 
-| **City**                                                                                                                                                                                                                                                                              | persons |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------: |
-| [[Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City\|Stuttgart,City]]                                                                                                                                                                                               |  612663 |
-| [[Baden-Wuerttemberg/counties~BW/Mannheim\|Mannheim]]                                                                                                                                                                                                                                 |  318035 |
-| [[Baden-Wuerttemberg/counties~BW/Karlsruhe,County/cities~Karlsruhe/Karlsruhe,City\|Karlsruhe]]                                                                                                                                                                                        |  309050 |
-| [[Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau,City\|Freiburg im Breisgau]]                                                                                                                                                            |  237460 |
-| [[Baden-Wuerttemberg/counties~BW/Heidelberg\|Heidelberg]]                                                                                                                                                                                                                             |  155756 |
-| [[Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Heilbronn,City\|Heilbronn]]                                                                                                                                                                                      |  131986 |
-| [[Baden-Wuerttemberg/counties~BW/Ulm\|Ulm]]                                                                                                                                                                                                                                           |  129882 |
-| [[Baden-Wuerttemberg/counties~BW/Pforzheim\|Pforzheim]]                                                                                                                                                                                                                               |  134912 |
-| [[Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Reutlingen-city/City/Reutlingen\|Reutlingen]]                                                                                                                                                                           |  115621 |
-| [[Baden-Wuerttemberg/counties~BW/Esslingen\|Esslingen]] am Neckar                                                                                                                                                                                                                     |   95881 |
-| [[Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Ludwigsburg-city/City/Ludwigsburg\|Ludwigsburg]]                                                                                                                                                                      |   94859 |
-| [[Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen,City\|Tübingen]]                                                                                                                                                                                                   |   93615 |
-| [[Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Villingen\|Villingen]]-[[Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Schwenningen\|Schwenningen]] |   86475 |
-| [[Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Konstanz-city/City/Konstanz\|Konstanz]]                                                                                                                                                                                     |   84736 |
-| [[Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen\|Aalen]]                                                                                                                                                                                                        |   68388 |
-| [[Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Offenburg\|Offenburg]]                                                                                                                                                                                                |   62220 |
-| [[Baden-Wuerttemberg/counties~BW/Bodensee/City/Friedrichshafen\|Friedrichshafen]]                                                                                                                                                                                                     |   61332 |
-| [[Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd\|Schwäbisch Gmünd]]                                                                                                                                                                                                                                                                      |   61333 |
-| [[Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Göppingen,City\|Göppingen]]                                                                                                                                                                                               |   58061 |
-| [[Baden-Wuerttemberg/counties~BW/Baden-Baden\|Baden-Baden]]                                                                                                                                                                                                                           |   55527 |
+| **City**                                                                                | persons |
+| --------------------------------------------------------------------------------------- | ------: |
+| [[Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City\|Stuttgart,City]] | 612663 |
+| Mannheim                                                                                | 318035 |
+| Karlsruhe                                                                               | 309050 |
+| Freiburg im Breisgau                                                                    | 237460 |
+| Heidelberg                                                                              | 155756 |
+| Heilbronn                                                                               | 131986 |
+| Ulm                                                                                     | 129882 |
+| Pforzheim                                                                               | 134912 |
+| Reutlingen                                                                              | 115621 |
+| Esslingen am Neckar                                                                     |  95881 |
+| Ludwigsburg                                                                             |  94859 |
+| Tübingen                                                                                |  93615 |
+| Villingen-Schwenningen                                                                  |  86475 |
+| Konstanz                                                                                |  84736 |
+| Aalen                                                                                   |  68388 |
+| Offenburg                                                                               |  62220 |
+| Friedrichshafen                                                                         |  61332 |
+| Schwäbisch Gmünd                                                                        |  61333 |
+| Göppingen                                                                               |  58061 |
+| Baden-Baden                                                                             |  55527 |
 
 
 ## #has_/map 
@@ -205,8 +205,10 @@ markerFolder: ./Baden-Wuerttemberg/
 
 has_place_country = `=this.dv_has_place_country`
 #has_/capital :: [[Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City|Stuttgart,City]]
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 

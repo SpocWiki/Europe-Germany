@@ -118,7 +118,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland.personal|Saarland.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland.secret|Saarland.secret]]"
 dv_has_place_country: "[[../../Germany]]"
-dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 6.935
 dv_has_place_latitude: 49.355
 dv_is_same_as:
@@ -185,8 +185,10 @@ markerFolder: ./Saarland/
 
 has_place_country = `=this.dv_has_place_country`
 Capital :: [[Saarbruecken]]  
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 

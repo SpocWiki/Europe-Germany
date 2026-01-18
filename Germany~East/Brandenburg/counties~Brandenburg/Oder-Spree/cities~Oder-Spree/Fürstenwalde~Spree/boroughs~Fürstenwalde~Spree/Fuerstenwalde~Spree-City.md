@@ -14,7 +14,7 @@ SpocWebEntityId: 30324
 tags:
   - geo/City
 type: City
-dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 14.07
 dv_has_place_latitude: 52.37
 dv_has_name: Fuerstenwalde~Spree
@@ -39,8 +39,10 @@ dv_is_same_as:
   - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Oder-Spree/cities~Oder-Spree/Fürstenwalde~Spree/boroughs~Fürstenwalde~Spree/Fuerstenwalde~Spree-City.secret|Fuerstenwalde~Spree-City.secret]]"
 ---
 
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 name = `=this.dv_has_name` 

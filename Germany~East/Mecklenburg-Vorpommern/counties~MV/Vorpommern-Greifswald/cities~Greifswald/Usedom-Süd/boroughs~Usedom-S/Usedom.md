@@ -14,7 +14,7 @@ SpocWebEntityId: 35129
 tags:
   - geo/City
 type: City
-dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 13.92
 dv_has_place_latitude: 53.88
 dv_has_name: Usedom
@@ -39,8 +39,10 @@ dv_is_same_as:
   - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Greifswald/cities~Greifswald/Usedom-Süd/boroughs~Usedom-S/Usedom.secret|Usedom.secret]]"
 ---
 
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 name = `=this.dv_has_name` 

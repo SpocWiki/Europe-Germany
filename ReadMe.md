@@ -629,8 +629,8 @@ WIPO_ST_3: DE
 WOEID: 23424829
 Wolfram_Language_entity_code: Entity["Country", "Germany"]
 dv_is_a_:
-  - "[[../../../../Geography/Place]]"
-  - "[[../../../../Geography/Place]]"
+  - "[[../../../../Geography/Place/Administrative_Area/City|City]]"
+  - "[[../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_name: Germany
 dv_has_name_en: Germany
 dv_has_name_es: Alemania
@@ -931,8 +931,10 @@ VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 Alcohol-l = `=this.dv_Alcohol-l` 
 Language-Id = `=this.dv_Language-Id` 
-#is_a_/Place  
-#is_a_ :: [[Place]] 
+
+
+
+#is_a :: [[City]]
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 

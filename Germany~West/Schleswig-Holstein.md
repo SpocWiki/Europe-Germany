@@ -126,7 +126,7 @@ U_S_National_Archives_Identifier: 10044808
 dv_has_name: Schleswig-Holstein
 dv_has_name_abbreviated: SG
 dv_has_place_country: "[[../../Germany]]"
-dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 9.87324
 dv_has_place_latitude: 54.1593
 dv_is_:
@@ -205,8 +205,10 @@ markerFolder: ./Schleswig-Holstein/
 
 has_place_country = `=this.dv_has_place_country`
 Capital :: [[Kiel]]  
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
