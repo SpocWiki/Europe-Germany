@@ -727,7 +727,7 @@ dv_is_same_as:
 
 # Germany (Deutschland)
 #is_a_/Place 
-#is_a_ :: [[Place]] 
+#is_a :: [[Place]] 
 
 ## International Names
 name = `=this.dv_has_name` 
