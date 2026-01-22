@@ -239,9 +239,10 @@ dv_is_same_as:
 
 ```leaflet
 id: Frankfurt~Main
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 4 
 maxZoom: 18
+defaultZoom: 10
 geojsonFolder: ./Frankfurt,Main///
 markerFolder: ./Frankfurt,Main/City
 coordinates: [[Frankfurt,Main]] 
