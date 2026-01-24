@@ -173,7 +173,7 @@ name = `=this.dv_has_name`
 
 has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-is_a_ = `=this.dv_is_a_`
+is_a = `=this.dv_is_a_`
 
 ![[Coat_of_arms_of_Thuringia.svg|350]] 
 

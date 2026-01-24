@@ -182,7 +182,7 @@ name = `=this.dv_has_name`
 
 has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-is_a_ = `=this.dv_is_a_`
+is_a = `=this.dv_is_a_`
 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 

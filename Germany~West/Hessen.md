@@ -137,7 +137,7 @@ has_name_abbreviated = `=this.dv_has_name_abbreviated`
 ![[Coat_of_arms_of_Hesse.svg|350]] 
 
 ![[Flag_of_Hesse.svg|350]] 
-is_a_ = `=this.dv_is_a_`
+is_a = `=this.dv_is_a_`
 
 ## #has_/map  
 

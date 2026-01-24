@@ -285,7 +285,7 @@ has_place_province = `=this.dv_has_place_province`
 [Population::] 
 
 
-is_a_ = `=this.dv_is_a_`
+is_a = `=this.dv_is_a_`
 
 ## #has_/text_of_/abstract 
 
