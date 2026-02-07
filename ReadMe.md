@@ -646,10 +646,10 @@ dv_has_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Germany
   image_for_:
-    flag: "![[./Flag_of_Germany.svg|200]] ![](./Flag_of_Germany.svg)"
-    coat_of_arms: "![[./Coat_of_arms_of_Germany.svg|150]] ![](./Coat_of_arms_of_Germany.svg)"
+    flag: "[[./Flag_of_Germany.svg|Flag_of_Germany.svg|200]]"
+    coat_of_arms: "[[./Coat_of_arms_of_Germany.svg|Coat_of_arms_of_Germany.svg|150]]"
   sound_of_:
-    anthem: "![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Germany.mp3]]"
+    anthem: "[[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Germany.mp3]]"
 dv_ISO4217-currency_alphabetic: EUR
 dv_ISO4217-currency_name: Euro
 dv_ISO4217-currency_numeric: 978
@@ -711,9 +711,9 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/ReadMe.personal|ReadMe.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/ReadMe.secret|ReadMe.secret]]"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Germany
-dv_has_image_for_flag: "![[./Flag_of_Germany.svg|200]] ![](./Flag_of_Germany.svg)"
-dv_has_image_for_coat_of_arms: "![[./Coat_of_arms_of_Germany.svg|150]] ![](./Coat_of_arms_of_Germany.svg)"
-dv_has_sound_of_anthem: "![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Germany.mp3]]"
+dv_has_image_for_flag: "[[./Flag_of_Germany.svg|Flag_of_Germany.svg|200]]"
+dv_has_image_for_coat_of_arms: "[[./Coat_of_arms_of_Germany.svg|Coat_of_arms_of_Germany.svg|150]]"
+dv_has_sound_of_anthem: "[[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Germany.mp3|Anthem-Germany.mp3]]"
 dv_developed_developing_countries: Developed
 dv_is_same_as:
   - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/ReadMe|ReadMe]]"
@@ -769,7 +769,7 @@ Check out this Repository into this Subfolder:
 
 ### #has_/image_for_/flag 
 
-has_image_for_flag = `=this.dv_has_image_for_flag`
+has_image_for_flag = `=embed(this.dv_has_image_for_flag)`
 
 ## #has_/text_of_/abstract 
 
@@ -852,9 +852,9 @@ has_image_for_flag = `=this.dv_has_image_for_flag`
 
 ### #has_/image_for_/coat_of_arms 
 
-has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
+has_image_for_coat_of_arms = `=embed(this.dv_has_image_for_coat_of_arms)`
 
-has_sound_of_anthem = `=this.dv_has_sound_of_anthem`
+has_sound_of_anthem = `=embed(this.dv_has_sound_of_anthem)`
 
 ### #has_/map 
 

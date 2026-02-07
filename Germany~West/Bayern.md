@@ -226,8 +226,8 @@ dv_has_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Germany-Bayern
   image_for_:
-    coat_of_arms: "![[./Bayern/Coat_of_arms_of_Bavaria.svg|350]] ![](./Bayern/Coat_of_arms_of_Bavaria.svg)"
-    flag: "![[./Bayern/Flag_of_Bavaria~lozengy.svg|200]] ![](./Bayern/Flag_of_Bavaria~lozengy.svg)"
+    coat_of_arms: "[[./Bayern/Coat_of_arms_of_Bavaria.svg|Coat_of_arms_of_Bavaria.svg|350]]"
+    flag: "[[./Bayern/Flag_of_Bavaria~lozengy.svg|Flag_of_Bavaria~lozengy.svg|200]]"
   map: "[DEU-Germany-1591-Bayern](./Bayern/DEU-Germany-1591-Bayern.geojson)"
 dv_has_place_country: "[[../../Germany]]"
 dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/City|City]]"
@@ -243,8 +243,8 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.personal|Bayern.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.secret|Bayern.secret]]"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Germany-Bayern
-dv_has_image_for_coat_of_arms: "![[./Bayern/Coat_of_arms_of_Bavaria.svg|350]] ![](./Bayern/Coat_of_arms_of_Bavaria.svg)"
-dv_has_image_for_flag: "![[./Bayern/Flag_of_Bavaria~lozengy.svg|200]] ![](./Bayern/Flag_of_Bavaria~lozengy.svg)"
+dv_has_image_for_coat_of_arms: "[[./Bayern/Coat_of_arms_of_Bavaria.svg|Coat_of_arms_of_Bavaria.svg|350]]"
+dv_has_image_for_flag: "[[./Bayern/Flag_of_Bavaria~lozengy.svg|200]]"
 dv_has_map: "[DEU-Germany-1591-Bayern](./Bayern/DEU-Germany-1591-Bayern.geojson)"
 dv_is_same_as:
   - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern|Bayern]]"
@@ -338,11 +338,11 @@ so that this Link into the Sub-Repository works: [[Bavaria/ReadMe]]
 
 ## #has_/image_for_/coat_of_arms 
 
-has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
+has_image_for_coat_of_arms = `=embed(this.dv_has_image_for_coat_of_arms)`
 
 ## #has_/image_for_/flag 
 
-has_image_for_flag = `=this.dv_has_image_for_flag`
+has_image_for_flag = `=embed(this.dv_has_image_for_flag)`
 
 ## #has_/map `=this.dv_has_map`
 
