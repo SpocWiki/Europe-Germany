@@ -1,6 +1,7 @@
 ---
 age_of_majority: 18
 aliases:
+icon: 🇩🇪
 anthem: "[[../../../../WikiData/WD~national anthem of Germany]]"
 archives_at: "[[../../../../WikiData/WD~German Federal Archives]]"
 area: 357587.77
@@ -363,7 +364,6 @@ highest_point: "[[../../../../WikiData/WD~Zugspitze]]"
 history_of_topic: "[[../../../../WikiData/WD~history of Germany]]"
 Human_Development_Index: 0.942
 IAB_code: 1300
-icon: flag-de
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20view%20of%20Berlin%20%2832881394137%29.jpg
 Image_Archive_Herder_Institute: Q183
 inception: 1949-05-23
