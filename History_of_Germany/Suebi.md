@@ -86,7 +86,7 @@ dv_has_:
     ar: سويبيون
     ast: Suevos
     be: Свевы
-    be-tarask: свэвы
+    be_tarask: свэвы
     bg: Свеби
     br: Sueved
     ca: sueus
@@ -122,12 +122,12 @@ dv_has_:
     mk: Свеви
     mwl: Suebos
     nb: Svebere
-    nds-nl: Sueben
+    nds_nl: Sueben
     nl: Sueben
     oc: Suèus
     pl: Swebowie
     pt: Suevos
-    pt-br: Suevos
+    pt_br: Suevos
     ro: Suebi
     ru: cвевы
     scn: Svevi
@@ -136,8 +136,8 @@ dv_has_:
     sk: Svébi
     sl: Svebi
     sr: Свеви
-    sr-ec: Свеви
-    sr-el: Svevi
+    sr_ec: Свеви
+    sr_el: Svevi
     sv: Sveber
     sw: Waswevi
     tr: Suevi
@@ -148,12 +148,12 @@ dv_has_:
     wuu: 苏维汇人
     yue: 蘇維匯人
     zh: 苏维汇人
-    zh-cn: 苏维汇人
-    zh-hans: 苏维汇人
-    zh-hant: 蘇維匯人
-    zh-hk: 蘇維匯人
-    zh-sg: 苏维汇人
-    zh-tw: 蘇維匯人
+    zh_cn: 苏维汇人
+    zh_hans: 苏维汇人
+    zh_hant: 蘇維匯人
+    zh_hk: 蘇維匯人
+    zh_sg: 苏维汇人
+    zh_tw: 蘇維匯人
 ---
 # [[Suebi]] 
 

@@ -303,7 +303,7 @@ dv_has_:
     ban: Drésden
     bar: Dresdn
     be: Дрэздэн
-    be-tarask: Дрэздэн
+    be_tarask: Дрэздэн
     bg: Дрезден
     bn: ড্রেসডেন
     br: Dresden
@@ -323,13 +323,13 @@ dv_has_:
     dag: Dresden
     de: Dresden
     de-at: Dresden
-    de-ch: Dresden
+    de_ch: Dresden
     diq: Dresden
     dsb: Drježdźany
     el: Δρέσδη
     en: Dresden
-    en-ca: Dresden
-    en-gb: Dresden
+    en_ca: Dresden
+    en_gb: Dresden
     eo: Dresdeno
     es: Dresde
     et: Dresden
@@ -399,7 +399,7 @@ dv_has_:
     nap: Dresden
     nb: Dresden
     nds: Dresden
-    nds-nl: Dresden
+    nds_nl: Dresden
     ne: ड्रेसडेन
     nl: Dresden
     nn: Dresden
@@ -415,7 +415,7 @@ dv_has_:
     pnb: ڈریسڈن
     ps: درسدن
     pt: Dresden
-    pt-br: Dresden
+    pt_br: Dresden
     qu: Dresden
     rm: Dresden
     ro: Dresda
@@ -435,8 +435,8 @@ dv_has_:
     so: Dresden
     sq: Dresden
     sr: Дрезден
-    sr-ec: Дрезден
-    sr-el: Dresden
+    sr_ec: Дрезден
+    sr_el: Dresden
     stq: Dresden
     sv: Dresden
     sw: Dresden
@@ -471,10 +471,10 @@ dv_has_:
     yo: Dresden
     yue: 德累斯頓
     zh: 德累斯顿
-    zh-cn: 德累斯顿
-    zh-hans: 德累斯顿市
-    zh-hant: 德累斯頓市
-    zh-tw: 德勒斯登
+    zh_cn: 德累斯顿
+    zh_hans: 德累斯顿市
+    zh_hant: 德累斯頓市
+    zh_tw: 德勒斯登
     zu: Dresden
 ---
 # [[Dresden]] 

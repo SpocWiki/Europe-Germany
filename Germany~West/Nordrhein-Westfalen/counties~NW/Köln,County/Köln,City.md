@@ -353,13 +353,13 @@ dv_has_:
     ban: Köln
     bar: Köln
     be: Кёльн
-    be-tarask: Кёльн
+    be_tarask: Кёльн
     bg: Кьолн
     bn: কোলন
     br: Köln
     bs: Köln
     ca: Colònia
-    cbk-zam: Colonia
+    cbk_zam: Colonia
     ce: Коьльн
     ceb: Köln (kapital sa distrito nga gobyerno)
     ckb: کۆلن
@@ -372,14 +372,14 @@ dv_has_:
     da: Köln
     de: Köln
     de-at: Köln
-    de-ch: Köln
+    de_ch: Köln
     diq: Köln
     dsb: Köln
     el: Κολωνία
     eml: Culògna
     en: Cologne
-    en-ca: Cologne
-    en-gb: Cologne
+    en_ca: Cologne
+    en_gb: Cologne
     en-us: Cologne
     eo: Kolonjo
     es: Colonia
@@ -455,7 +455,7 @@ dv_has_:
     nap: Köln
     nb: Köln
     nds: Köln
-    nds-nl: Keulen
+    nds_nl: Keulen
     ne: कोलोग्ने
     nl: Keulen
     nn: Köln
@@ -470,7 +470,7 @@ dv_has_:
     pnb: کولن
     ps: کولن
     pt: Colónia
-    pt-br: Colônia
+    pt_br: Colônia
     qu: Köln
     rm: Köln
     rmy: Cologne
@@ -489,8 +489,8 @@ dv_has_:
     sl: Köln
     sq: Këlni
     sr: Келн
-    sr-ec: Келн
-    sr-el: Köln
+    sr_ec: Келн
+    sr_el: Köln
     stq: Köln
     sv: Köln
     sw: Köln
@@ -526,14 +526,14 @@ dv_has_:
     zea: Keulen
     zgh: ⴽⵓⵍⵓⵏⵢⴰ
     zh: 科隆
-    zh-cn: 科隆
-    zh-hans: 科隆
-    zh-hant: 科隆
-    zh-hk: 科隆
-    zh-mo: 科隆
+    zh_cn: 科隆
+    zh_hans: 科隆
+    zh_hant: 科隆
+    zh_hk: 科隆
+    zh_mo: 科隆
     zh-my: 科隆
-    zh-sg: 科隆
-    zh-tw: 科隆
+    zh_sg: 科隆
+    zh_tw: 科隆
     zu: Köln
 ---
 # [[Köln,City]]  

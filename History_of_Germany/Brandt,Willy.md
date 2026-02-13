@@ -194,7 +194,7 @@ dv_has_:
     az: Villi Brandt
     azb: ویلی برانت
     be: Вілі Брант
-    be-tarask: Вілі Брант
+    be_tarask: Вілі Брант
     bg: Вили Бранд
     bn: উইলি ব্র্যান্ট
     cs: Willy Brandt
@@ -227,8 +227,8 @@ dv_has_:
     si: විලී බ්රන්ට්
     sk: Willy Brandt
     sr: Вилли Брандт / Villi Brandt
-    sr-ec: Вилли Брандт
-    sr-el: Villi Brandt
+    sr_ec: Вилли Брандт
+    sr_el: Villi Brandt
     ta: வில்லி பிராண்ட்
     te: విల్లీ బ్రాండ్ట్
     tg: Уилли Брандт
@@ -240,7 +240,7 @@ dv_has_:
     xmf: ვილი ბრანდტი
     yue: 威利布蘭特
     zh: 维利·勃兰特
-    zh-hant: 威利·布蘭特
+    zh_hant: 威利·布蘭特
 ---
 # [[Brandt,Willy]] 
 

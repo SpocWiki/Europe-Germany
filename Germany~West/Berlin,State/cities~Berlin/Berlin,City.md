@@ -413,7 +413,7 @@ dv_has_:
     bar: Berlin
     bcl: Berlin
     be: Берлін
-    be-tarask: Бэрлін
+    be_tarask: Бэрлін
     bew: Berlèn
     bg: Берлин
     bho: बर्लिन
@@ -427,7 +427,7 @@ dv_has_:
     btm: Berlin
     bxr: Берлин
     ca: Berlín
-    cbk-zam: Berlín
+    cbk_zam: Berlín
     cdo: Báik-lìng
     ce: Берлин
     ceb: Berlin
@@ -436,7 +436,7 @@ dv_has_:
     ckb: بەرلین
     co: Berlinu
     crh: Berlin
-    crh-latn: Berlin
+    crh_latn: Berlin
     cs: Berlín
     csb: Berlëno
     cu: Бєрлинъ
@@ -514,7 +514,7 @@ dv_has_:
     kg: Berlin (kizunga)
     kge: Berlin
     kk: Берлин
-    kk-cyrl: Берлин
+    kk_cyrl: Берлин
     kl: Berlin
     km: ប៊ែរឡាំង
     kn: ಬರ್ಲಿನ್
@@ -557,7 +557,7 @@ dv_has_:
     mr: बर्लिन
     mrj: Берлин
     ms: Berlin
-    ms-arab: برلين
+    ms_arab: برلين
     mt: Berlin
     mul: Berlin
     mwl: Berlin
@@ -570,7 +570,7 @@ dv_has_:
     nap: Berlino
     nb: Berlin
     nds: Berlin
-    nds-nl: Berlien
+    nds_nl: Berlien
     ne: बर्लिन
     new: बर्लिन
     nl: Berlijn
@@ -599,7 +599,7 @@ dv_has_:
     pnt: Βερολίνον
     ps: برلين
     pt: Berlim
-    pt-br: Berlim
+    pt_br: Berlim
     qu: Berlin
     rm: Berlin
     rmy: Berlin
@@ -630,8 +630,8 @@ dv_has_:
     so: Baarliin
     sq: Berlin
     sr: Берлин
-    sr-ec: Берлин
-    sr-el: Berlin
+    sr_ec: Берлин
+    sr_el: Berlin
     srn: Berlin
     st: Berlin
     stq: Berlin
@@ -643,7 +643,7 @@ dv_has_:
     te: బెర్లిన్
     tet: Berlín
     tg: Берлин
-    tg-cyrl: Берлин
+    tg_cyrl: Берлин
     th: เบอร์ลิน
     ti: በርሊን
     tk: Berlin
@@ -679,14 +679,14 @@ dv_has_:
     yue: 柏林
     zea: Berlijn
     zh: 柏林
-    zh-cn: 柏林
-    zh-hans: 柏林
-    zh-hant: 柏林
-    zh-hk: 柏林
-    zh-mo: 柏林
+    zh_cn: 柏林
+    zh_hans: 柏林
+    zh_hant: 柏林
+    zh_hk: 柏林
+    zh_mo: 柏林
     zh-my: 柏林
-    zh-sg: 柏林
-    zh-tw: 柏林
+    zh_sg: 柏林
+    zh_tw: 柏林
     zu: IBerlini
 ---
 # [[Berlin,City]] 

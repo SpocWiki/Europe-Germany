@@ -60,8 +60,8 @@ dv_has_:
     da: Børnefamilieydelse
     de: Kindergeld
     en: child benefit
-    en-ca: Child benefit
-    en-gb: Child benefit
+    en_ca: Child benefit
+    en_gb: Child benefit
     eo: subvencio por infanzorgado
     es: prestación por hijo
     et: lastetoetus
@@ -78,7 +78,7 @@ dv_has_:
     nl: kinderbijslag
     nn: Barnetrygd
     pt: abono de família
-    pt-br: salário-família
+    pt_br: salário-família
     ro: Alocația de stat pentru copii
     ru: Пособие на ребёнка
     se: mánáidruhta
@@ -88,9 +88,9 @@ dv_has_:
     sv: barnbidrag
     uz: Bolalar nafaqasi
     zh: 子女津貼
-    zh-cn: 儿童福利
-    zh-hans: 儿童福利
-    zh-hant: 兒童福利
+    zh_cn: 儿童福利
+    zh_hans: 儿童福利
+    zh_hant: 兒童福利
 ---
 ## #has_/text_of_/abstract 
 

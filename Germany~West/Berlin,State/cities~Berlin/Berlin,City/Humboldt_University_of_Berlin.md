@@ -28,7 +28,7 @@ dv_has_:
     azb: هومبولت برلین بیلیمیوردو
     ba: Гумбольдт исемендәге Берлин университеты
     be: Берлінскі ўніверсітэт імя Гумбальта
-    be-tarask: Бэрлінскі ўнівэрсытэт імя Гумбальта
+    be_tarask: Бэрлінскі ўнівэрсытэт імя Гумбальта
     bg: Хумболтов университет на Берлин
     bn: হুমবোল্ট বিশ্ববিদ্যালয়, বার্লিন
     ca: Universitat Humboldt de Berlín
@@ -92,8 +92,8 @@ dv_has_:
     sk: Humboldt-Universität zu Berlin
     sl: Humboldtova univerza v Berlinu
     sr: Хумболтов универзитет у Берлину
-    sr-ec: Хумболтов универзитет у Берлину
-    sr-el: Humboltov univerzitet u Berlinu
+    sr_ec: Хумболтов универзитет у Берлину
+    sr_el: Humboltov univerzitet u Berlinu
     sv: Humboldt-Universität zu Berlin
     tg: Донишгоҳи Ҳумбулти Берлин
     th: มหาวิทยาลัยฮุมบ็อลท์แห่งเบอร์ลิน
@@ -112,12 +112,12 @@ dv_has_:
     yi: הומבאלט אוניווערסיטעט פון בערלין
     yue: 柏林洪堡大學
     zh: 柏林洪堡大學
-    zh-cn: 柏林洪堡大学
-    zh-hans: 柏林洪堡大学
-    zh-hant: 柏林洪堡大學
-    zh-hk: 柏林洪堡大學
-    zh-sg: 柏林洪堡大学
-    zh-tw: 柏林洪堡大學
+    zh_cn: 柏林洪堡大学
+    zh_hans: 柏林洪堡大学
+    zh_hant: 柏林洪堡大學
+    zh_hk: 柏林洪堡大學
+    zh_sg: 柏林洪堡大学
+    zh_tw: 柏林洪堡大學
 aliases:
 - Berliini Humboldti Ülikool
 - Berlin Humboldt Üniversitesi

@@ -34,7 +34,7 @@ dv_has_:
   name_:
     ca: circuit alemany de l'entramat de fusta
     de: Deutsche Fachwerkstraße
-    de-ch: Deutsche Fachwerkstrasse
+    de_ch: Deutsche Fachwerkstrasse
     en: German Timber-Frame Road
     eo: Germana Itinero de Trabligna Arkitekturo
     es: Ruta Alemana de Arquitectura de Entramados
@@ -44,9 +44,9 @@ dv_has_:
     nl: German Timber-Frame Road
     ro: Ruta germană cu case de paiantă
     zh: 德国木构架之路
-    zh-cn: 德国木构架之路
-    zh-hans: 德国木构架之路
-    zh-hant: 德國木構架之路
+    zh_cn: 德国木构架之路
+    zh_hans: 德国木构架之路
+    zh_hant: 德國木構架之路
 ---
 ﻿
 ## #has_/text_of_/abstract 

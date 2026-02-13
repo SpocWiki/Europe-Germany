@@ -100,7 +100,7 @@ dv_has_:
     ast: Ducáu de Holstein
     az: Holşteyn-Qlükştadt
     be: Герцагства Гольштэйн
-    be-tarask: Герцагства Гольштайн
+    be_tarask: Герцагства Гольштайн
     bg: Херцогство Холщайн
     ca: Ducat de Holstein
     cs: Holštýnské vévodství
@@ -109,8 +109,8 @@ dv_has_:
     de: Herzogtum Holstein
     el: Δουκάτο του Χόλσταϊν
     en: Duchy of Holstein
-    en-ca: Duchy of Holstein
-    en-gb: Duchy of Holstein
+    en_ca: Duchy of Holstein
+    en_gb: Duchy of Holstein
     eo: Holstinio
     es: Ducado de Holstein
     et: Holsteini hertsogkond
@@ -133,7 +133,7 @@ dv_has_:
     nl: Hertogdom Holstein
     pl: Księstwo Holsztynu
     pt: Ducado da Holsácia
-    pt-br: Ducado de Holstein
+    pt_br: Ducado de Holstein
     ro: Ducatul de Holstein
     ru: Гольштейн-Глюкштадт
     sl: Vojvodina Holstein
@@ -144,10 +144,10 @@ dv_has_:
     uk: Гольштейнське герцогство
     vi: Công quốc Holesten
     zh: 荷尔斯泰因公国
-    zh-hans: 荷尔斯泰因公国
-    zh-hant: 荷爾斯泰因公國
-    zh-hk: 荷爾斯泰因公國
-    zh-tw: 霍爾斯坦公國
+    zh_hans: 荷尔斯泰因公国
+    zh_hant: 荷爾斯泰因公國
+    zh_hk: 荷爾斯泰因公國
+    zh_tw: 霍爾斯坦公國
 ---
 # [[Holstein]] 
 

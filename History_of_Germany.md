@@ -129,7 +129,7 @@ dv_has_:
     ast: Historia d'Alemaña
     az: Almaniya tarixi
     be: гісторыя Германіі
-    be-tarask: гісторыя Нямеччыны
+    be_tarask: гісторыя Нямеччыны
     bg: История на Германия
     bn: জার্মানির ইতিহাস
     br: Istor Alamagn
@@ -186,7 +186,7 @@ dv_has_:
     pl: historia Niemiec
     ps: د جرمني تاریخ
     pt: história da Alemanha
-    pt-br: história da Alemanha
+    pt_br: história da Alemanha
     ro: istoria Germaniei
     ru: история Германии
     se: Duiskka historjá
@@ -197,17 +197,17 @@ dv_has_:
     sms: Saksslajânnam historia
     sq: Historia e Gjermanisë
     sr: историја Немачке
-    sr-ec: Историја Немачке
-    sr-el: Istorija Nemačke
+    sr_ec: Историја Немачке
+    sr_el: Istorija Nemačke
     sv: Tysklands historia
     sw: Historia ya Ujerumani
     ta: ஜெர்மனியின் வரலாறு
     tg: Таърихи Олмон
-    tg-latn: Ta'rixi Olmon
+    tg_latn: Ta'rixi Olmon
     th: ประวัติศาสตร์เยอรมนี
     tr: Almanya tarihi
     tt: Германия тарихы
-    tt-cyrl: Алмания тарихы
+    tt_cyrl: Алмания тарихы
     uk: історія Німеччини
     vec: istòria de ła Zermània
     vi: lịch sử Đức
@@ -215,12 +215,12 @@ dv_has_:
     yi: היסטאריע פון דייטשלאנד
     yue: 德國史
     zh: 德國歷史
-    zh-cn: 德国历史
-    zh-hans: 德国历史
-    zh-hant: 德國歷史
-    zh-hk: 德國歷史
-    zh-sg: 德国历史
-    zh-tw: 德國歷史
+    zh_cn: 德国历史
+    zh_hans: 德国历史
+    zh_hant: 德國歷史
+    zh_hk: 德國歷史
+    zh_sg: 德国历史
+    zh_tw: 德國歷史
 ---
 # [[History_of_Germany]] 
 

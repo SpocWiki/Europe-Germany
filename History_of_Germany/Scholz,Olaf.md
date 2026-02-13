@@ -155,7 +155,7 @@ dv_has_:
     bar: Olaf Scholz
     bcl: Olaf Scholz
     be: Олаф Шольц
-    be-tarask: Оляф Шольц
+    be_tarask: Оляф Шольц
     bg: Олаф Шолц
     bi: Olaf Scholz
     bn: ওলাফ শলৎস
@@ -170,13 +170,13 @@ dv_has_:
     dag: Olaf Scholz
     de: Olaf Scholz
     de-at: Olaf Scholz
-    de-ch: Olaf Scholz
+    de_ch: Olaf Scholz
     diq: Olaf Scholz
     dsb: Olaf Scholz
     el: Όλαφ Σολτς
     eml: Olaf Scholz
     en: Olaf Scholz
-    en-gb: Olaf Scholz
+    en_gb: Olaf Scholz
     en-us: Olaf Scholz
     eo: Olaf Scholz
     es: Olaf Scholz
@@ -221,7 +221,7 @@ dv_has_:
     kaa: Olaf Scholz
     kea: Olaf Scholz
     kk: Олаф Шольц
-    kk-cyrl: Олаф Шольц
+    kk_cyrl: Олаф Шольц
     ko: 올라프 숄츠
     ku: Olaf Scholz
     kw: Olaf Scholz
@@ -250,7 +250,7 @@ dv_has_:
     nap: Olaf Scholz
     nb: Olaf Scholz
     nds: Olaf Scholz
-    nds-nl: Olaf Scholz
+    nds_nl: Olaf Scholz
     ne: ओलाफ सोल्स
     niu: Olaf Scholz
     nl: Olaf Scholz
@@ -266,7 +266,7 @@ dv_has_:
     pl: Olaf Scholz
     pms: Olaf Scholz
     pt: Olaf Scholz
-    pt-br: Olaf Scholz
+    pt_br: Olaf Scholz
     rm: Olaf Scholz
     rmf: Olaf Scholz
     ro: Olaf Scholz
@@ -315,11 +315,11 @@ dv_has_:
     yue: 蕭凌志
     zea: Olaf Scholz
     zh: 奥拉夫·朔尔茨
-    zh-cn: 奥拉夫·朔尔茨
-    zh-hans: 奥拉夫·朔尔茨
-    zh-hant: 奧拉夫·蕭茲
-    zh-hk: 奧拉夫·朔爾茨
-    zh-tw: 奧拉夫·蕭茲
+    zh_cn: 奥拉夫·朔尔茨
+    zh_hans: 奥拉夫·朔尔茨
+    zh_hant: 奧拉夫·蕭茲
+    zh_hk: 奧拉夫·朔爾茨
+    zh_tw: 奧拉夫·蕭茲
 ---
 # [[Scholz,Olaf]] 
 

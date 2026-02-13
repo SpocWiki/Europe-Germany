@@ -20,14 +20,14 @@ has_id_wikidata: Q99668
 dv_has_:
   name_:
     be: Берлінскі трамвай
-    be-tarask: Бэрлінскі трамвай
+    be_tarask: Бэрлінскі трамвай
     cs: tramvajová doprava v Berlíně
     da: Berlins sporvogne
     de: Straßenbahn Berlin
-    de-ch: Straßenbahn Berlin
+    de_ch: Straßenbahn Berlin
     en: trams in Berlin
-    en-ca: trams in Berlin
-    en-gb: trams in Berlin
+    en_ca: trams in Berlin
+    en_gb: trams in Berlin
     eo: tramtransporto en Berlino
     es: tranvía de Berlín
     eu: Berlingo tranbia
@@ -50,7 +50,7 @@ dv_has_:
     tr: Berlin tramvay hattı
     uk: Берлінський трамвай
     zh: 柏林街車
-    zh-hant: 柏林街車
+    zh_hant: 柏林街車
 aliases:
 - Berliinin raitiotieliikenne
 - Berlin tramvay hattı

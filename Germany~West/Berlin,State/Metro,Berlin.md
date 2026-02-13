@@ -79,7 +79,7 @@ dv_has_:
     az: Berlin metropoliteni
     ban: U-Bahn Berlin
     be: Берлінскі метрапалітэн
-    be-tarask: Бэрлінскі мэтрапалітэн
+    be_tarask: Бэрлінскі мэтрапалітэн
     bg: Берлинско метро
     bn: বার্লিন উ-বান
     bs: Berlinski metro
@@ -136,14 +136,14 @@ dv_has_:
     wuu: 柏林地铁
     yue: 柏林地鐵
     zh: 柏林地鐵
-    zh-cn: 柏林地铁
-    zh-hans: 柏林地铁
-    zh-hant: 柏林地鐵
-    zh-hk: 柏林地鐵
-    zh-mo: 柏林地鐵
+    zh_cn: 柏林地铁
+    zh_hans: 柏林地铁
+    zh_hant: 柏林地鐵
+    zh_hk: 柏林地鐵
+    zh_mo: 柏林地鐵
     zh-my: 柏林地铁
-    zh-sg: 柏林地铁
-    zh-tw: 柏林地鐵
+    zh_sg: 柏林地铁
+    zh_tw: 柏林地鐵
 ---
 ## #has_/text_of_/abstract 
 

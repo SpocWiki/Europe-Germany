@@ -89,7 +89,7 @@ dv_has_:
     ban: Gelsenkirchen
     bar: Gelsenkirchen
     be: Гельзенкірхен
-    be-tarask: Гэльзэнкірхэн
+    be_tarask: Гэльзэнкірхэн
     bg: Гелзенкирхен
     bn: গেলচেনকিকেন
     br: Gelsenkirchen
@@ -101,12 +101,12 @@ dv_has_:
     cy: Gelsenkirchen
     da: Gelsenkirchen
     de: Gelsenkirchen
-    de-ch: Gelsenkirchen
+    de_ch: Gelsenkirchen
     diq: Gelsenkirchen
     el: Γκελζενκίρχεν
     en: Gelsenkirchen
-    en-ca: Gelsenkirchen
-    en-gb: Gelsenkirchen
+    en_ca: Gelsenkirchen
+    en_gb: Gelsenkirchen
     eo: Gelsenkirchen
     es: Gelsenkirchen
     et: Gelsenkirchen
@@ -164,7 +164,7 @@ dv_has_:
     pl: Gelsenkirchen
     pnb: گلسنکرچن
     pt: Gelsenkirchen
-    pt-br: Gelsenkirchen
+    pt_br: Gelsenkirchen
     ro: Gelsenkirchen
     ru: Гельзенкирхен
     sco: Gelsenkirchen
@@ -174,7 +174,7 @@ dv_has_:
     sl: Gelsenkirchen
     sq: Gelzenkirheni
     sr: Гелзенкирхен
-    sr-ec: Гелзенкирхен
+    sr_ec: Гелзенкирхен
     stq: Gelsenkirchen
     sv: Gelsenkirchen
     sw: Gelsenkirchen
@@ -196,9 +196,9 @@ dv_has_:
     xmf: გელზენკირხენი
     yue: 蓋爾森基興
     zh: 盖尔森基兴
-    zh-cn: 盖尔森基兴
-    zh-hans: 盖尔森基兴
-    zh-hant: 蓋爾森基興
+    zh_cn: 盖尔森基兴
+    zh_hans: 盖尔森基兴
+    zh_hant: 蓋爾森基興
 ---
 # [[Gelsenkirchen]] 
 

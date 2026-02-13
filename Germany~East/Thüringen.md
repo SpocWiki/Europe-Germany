@@ -262,7 +262,7 @@ dv_has_:
     ban: Thuringia
     bar: Thüringen
     be: Цюрынгія
-    be-tarask: Турынгія
+    be_tarask: Турынгія
     bg: Тюрингия
     bn: টুরিঙেন
     br: Thüringen
@@ -282,8 +282,8 @@ dv_has_:
     el: Θουριγγία
     eml: Turìngia
     en: Thuringia
-    en-ca: Thuringia
-    en-gb: Thuringia
+    en_ca: Thuringia
+    en_gb: Thuringia
     eo: Turingio
     es: Turingia
     et: Tüüringi
@@ -350,7 +350,7 @@ dv_has_:
     nan: Thüringen
     nb: Thüringen
     nds: Döringen
-    nds-nl: Tureng
+    nds_nl: Tureng
     ne: ठुरुंगिया
     nl: Thüringen
     nn: Thüringen
@@ -365,7 +365,7 @@ dv_has_:
     pnb: تھورنگیا
     ps: تورینګن
     pt: Turíngia
-    pt-br: Turíngia
+    pt_br: Turíngia
     qu: Thüringen
     rm: Turinga
     ro: Turingia
@@ -406,10 +406,10 @@ dv_has_:
     yue: 圖靈根
     zea: Thüringen
     zh: 圖林根州
-    zh-cn: 图林根州
-    zh-hans: 图林根州
-    zh-hant: 圖林根州
-    zh-tw: 圖林根邦
+    zh_cn: 图林根州
+    zh_hans: 图林根州
+    zh_hant: 圖林根州
+    zh_tw: 圖林根邦
 ---
 # [[Thüringen]] 
 

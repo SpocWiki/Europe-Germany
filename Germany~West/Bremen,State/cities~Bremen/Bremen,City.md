@@ -202,7 +202,7 @@ dv_has_:
     ban: Brémen (negara wagian)
     bar: Freie Hansestod Bremen
     be: Вольны ганзейскі горад Брэмен
-    be-tarask: Брэмэн
+    be_tarask: Брэмэн
     bg: Бремен
     bn: ব্রেমেনের ফ্রি হেনসিয়াটিক শহর
     br: Bremen
@@ -219,13 +219,13 @@ dv_has_:
     da: Bremen
     dag: Bremen
     de: Freie Hansestadt Bremen
-    de-ch: Freie Hansestadt Bremen
+    de_ch: Freie Hansestadt Bremen
     diq: Bremen
     dsb: Lichotne hansowe město Bremen
     el: Βρέμη
     en: Bremen
-    en-ca: Bremen
-    en-gb: Bremen
+    en_ca: Bremen
+    en_gb: Bremen
     eo: Libera hansa urbo Bremeno
     es: Bremen
     et: Bremeni liidumaa
@@ -294,7 +294,7 @@ dv_has_:
     pnb: بریمن
     ps: برېمن
     pt: Bremen
-    pt-br: Bremen
+    pt_br: Bremen
     qu: Bremen suyu
     rm: Bremen
     ro: Bremen
@@ -331,10 +331,10 @@ dv_has_:
     yue: 不來梅漢莎自由市
     zea: Bremen
     zh: 不來梅州
-    zh-cn: 不来梅州
-    zh-hans: 不来梅州
-    zh-hant: 不來梅州
-    zh-tw: 布萊梅
+    zh_cn: 不来梅州
+    zh_hans: 不来梅州
+    zh_hant: 不來梅州
+    zh_tw: 布萊梅
 ---
 # [[Bremen,City]]
 

@@ -346,21 +346,21 @@ dv_has_:
     ban: Bayern
     bar: Bayern
     be: Баварыя
-    be-tarask: Баварыя
+    be_tarask: Баварыя
     bg: Бавария
     bn: বায়ার্ন
     br: Bavaria
     bs: Bavarska
     bxr: Бавари
     ca: Baviera
-    cbk-zam: Baviera
+    cbk_zam: Baviera
     cdo: Bayern
     ce: Бавари
     ceb: Bavaria
     ckb: باڤاریا
     co: Baviera
     crh: Bavariya
-    crh-latn: Bavariya
+    crh_latn: Bavariya
     cs: Bavorsko
     csb: Bajerë
     cv: Бавари
@@ -373,8 +373,8 @@ dv_has_:
     el: Βαυαρία
     eml: Bavéra
     en: Bavaria
-    en-ca: Bavaria
-    en-gb: Bavaria
+    en_ca: Bavaria
+    en_gb: Bavaria
     eo: Bavario
     es: Baviera
     et: Baieri
@@ -421,7 +421,7 @@ dv_has_:
     ko: 바이에른주
     ksh: Bajore
     ku: Bavyera
-    ku-latn: Bavyera
+    ku_latn: Bavyera
     kw: Bavaria
     ky: Бавария
     la: Bavaria
@@ -450,7 +450,7 @@ dv_has_:
     nan: Bayern
     nb: Bayern
     nds: Bayern
-    nds-nl: Baiern
+    nds_nl: Baiern
     ne: बाभारिया
     new: बभेरिया
     nl: Beieren
@@ -469,7 +469,7 @@ dv_has_:
     pnb: باویریا
     ps: بایرن
     pt: Baviera
-    pt-br: Baviera
+    pt_br: Baviera
     qu: Bayern
     rm: Baviera
     ro: Bavaria
@@ -488,7 +488,7 @@ dv_has_:
     sl: Bavarska
     sq: Bavaria
     sr: Баварска
-    sr-ec: Баварска
+    sr_ec: Баварска
     stq: Bayern
     su: Bayern
     sv: Bayern
@@ -520,14 +520,14 @@ dv_has_:
     yue: 拜仁
     zea: Bayern
     zh: 巴伐利亚州
-    zh-cn: 巴伐利亚州
-    zh-hans: 巴伐利亚州
-    zh-hant: 巴伐利亞州
-    zh-hk: 巴伐利亞州
-    zh-mo: 巴伐利亞州
+    zh_cn: 巴伐利亚州
+    zh_hans: 巴伐利亚州
+    zh_hant: 巴伐利亞州
+    zh_hk: 巴伐利亞州
+    zh_mo: 巴伐利亞州
     zh-my: 巴伐利亚州
-    zh-sg: 巴伐利亚州
-    zh-tw: 巴伐利亞邦
+    zh_sg: 巴伐利亚州
+    zh_tw: 巴伐利亞邦
   url_for_:
     code_repository: https://github.com/SpocWiki/Germany-Bayern
 dv_has_place_country: '[[../../Germany]]'

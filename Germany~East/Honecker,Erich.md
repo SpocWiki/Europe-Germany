@@ -174,7 +174,7 @@ dv_has_:
     bar: Erich Honecker
     bcl: Erich Honecker
     be: Эрых Хонекер
-    be-tarask: Эрых Гонэкер
+    be_tarask: Эрых Гонэкер
     bg: Ерих Хонекер
     bi: Erich Honecker
     bjn: Erich Honecker
@@ -183,7 +183,7 @@ dv_has_:
     br: Erich Honecker
     bs: Erich Honecker
     ca: Erich Honecker
-    cbk-zam: Erich Honecker
+    cbk_zam: Erich Honecker
     cdo: Erich Honecker
     ceb: Erich Honecker
     ch: Erich Honecker
@@ -191,7 +191,7 @@ dv_has_:
     chy: Erich Honecker
     co: Erich Honecker
     cr: Erich Honecker
-    crh-latn: Erich Honecker
+    crh_latn: Erich Honecker
     cs: Erich Honecker
     csb: Erich Honecker
     cy: Erich Honecker
@@ -199,7 +199,7 @@ dv_has_:
     dag: Erich Honecker
     de: Erich Honecker
     de-at: Erich Honecker
-    de-ch: Erich Honecker
+    de_ch: Erich Honecker
     diq: Erich Honecker
     dsb: Erich Honecker
     dtp: Erich Honecker
@@ -208,8 +208,8 @@ dv_has_:
     el: Έριχ Χόνεκερ
     eml: Erich Honecker
     en: Erich Honecker
-    en-ca: Erich Honecker
-    en-gb: Erich Honecker
+    en_ca: Erich Honecker
+    en_gb: Erich Honecker
     eo: Erich Honecker
     es: Erich Honecker
     et: Erich Honecker
@@ -237,7 +237,7 @@ dv_has_:
     ha: Erich Honecker
     hak: Erich Honecker
     he: אריך הונקר
-    hif-latn: Erich Honecker
+    hif_latn: Erich Honecker
     hil: Erich Honecker
     ho: Erich Honecker
     hr: Erich Honecker
@@ -251,7 +251,7 @@ dv_has_:
     ie: Erich Honecker
     ig: Erich Honecker
     ik: Erich Honecker
-    ike-latn: Erich Honecker
+    ike_latn: Erich Honecker
     ilo: Erich Honecker
     io: Erich Honecker
     is: Erich Honecker
@@ -265,11 +265,11 @@ dv_has_:
     kab: Erich Honecker
     kg: Erich Honecker
     ki: Erich Honecker
-    kk-latn: Erich Honecker
+    kk_latn: Erich Honecker
     kk-tr: Erich Honecker
     ko: 에리히 호네커
     ksh: Erich Honecker
-    ku-latn: Erich Honecker
+    ku_latn: Erich Honecker
     kw: Erich Honecker
     la: Ericus Honecker
     lad: Erich Honecker
@@ -281,7 +281,7 @@ dv_has_:
     lt: Erich Honecker
     lv: Ērihs Honekers
     lzh: 昂納克
-    map-bms: Erich Honecker
+    map_bms: Erich Honecker
     mg: Erich Honecker
     min: Erich Honecker
     mr: एरिक होनेकर
@@ -294,7 +294,7 @@ dv_has_:
     nap: Erich Honecker
     nb: Erich Honecker
     nds: Erich Honecker
-    nds-nl: Erich Honecker
+    nds_nl: Erich Honecker
     nl: Erich Honecker
     nn: Erich Honecker
     nrm: Erich Honecker
@@ -309,7 +309,7 @@ dv_has_:
     pl: Erich Honecker
     pms: Erich Honecker
     pt: Erich Honecker
-    pt-br: Erich Honecker
+    pt_br: Erich Honecker
     qu: Erich Honecker
     rm: Erich Honecker
     rmy: Erich Honecker
@@ -331,8 +331,8 @@ dv_has_:
     sn: Erich Honecker
     sq: Erich Honecker
     sr: Ерих Хонекер
-    sr-ec: Ерих Хонекер
-    sr-el: Erich Honecker
+    sr_ec: Ерих Хонекер
+    sr_el: Erich Honecker
     stq: Erich Honecker
     su: Erich Honecker
     sv: Erich Honecker

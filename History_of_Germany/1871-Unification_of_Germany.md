@@ -110,7 +110,7 @@ dv_has_:
     ast: Unificación alemana
     az: Almaniyanın birləşdirilməsi (1871)
     be: Аб'яднанне Германіі
-    be-tarask: аб’яднаньне Нямеччыны
+    be_tarask: аб’яднаньне Нямеччыны
     bg: Обединение на Германия
     bs: Ujedinjenje Njemačke
     ca: unificació alemanya
@@ -167,8 +167,8 @@ dv_has_:
     sl: združitev Nemčije
     sq: Bashkimi i Gjermanisë
     sr: Уједињење Немачке 1871.
-    sr-ec: Уједињење Немачке 1871.
-    sr-el: Ujedinjenje Nemačke 1871.
+    sr_ec: Уједињење Немачке 1871.
+    sr_el: Ujedinjenje Nemačke 1871.
     sv: Tysklands enande
     ta: செருமானிய ஒருங்கிணைப்பு
     te: జర్మనీ ఏకీకరణ
@@ -184,12 +184,12 @@ dv_has_:
     wuu: 德意志统一
     yue: 德意志統一
     zh: 德意志統一
-    zh-cn: 德意志统一
-    zh-hans: 德意志统一
-    zh-hant: 德意志統一
-    zh-hk: 德意志統一
-    zh-sg: 德意志统一
-    zh-tw: 德意志統一
+    zh_cn: 德意志统一
+    zh_hans: 德意志统一
+    zh_hant: 德意志統一
+    zh_hk: 德意志統一
+    zh_sg: 德意志统一
+    zh_tw: 德意志統一
 ---
 # [[1871-Unification_of_Germany]] 
 

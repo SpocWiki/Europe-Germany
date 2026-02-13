@@ -488,7 +488,7 @@ dv_has_:
     azb: البه چایی
     ba: Эльба
     be: Эльба
-    be-tarask: Лаба
+    be_tarask: Лаба
     bg: Елба
     bho: एल्ब
     bn: লাবে নদী
@@ -556,7 +556,7 @@ dv_has_:
     mzn: البه
     nb: Elben
     nds: Elv
-    nds-nl: Elve
+    nds_nl: Elve
     nl: Elbe
     nn: Elbe
     oc: Elba
@@ -599,9 +599,9 @@ dv_has_:
     yi: עלבע
     yue: 易北河
     zh: 易北河
-    zh-cn: 易北河
-    zh-hans: 易北河
-    zh-hant: 易北河
+    zh_cn: 易北河
+    zh_hans: 易北河
+    zh_hant: 易北河
 ---
 # [[Elbe]] 
 

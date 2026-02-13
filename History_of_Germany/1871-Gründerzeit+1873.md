@@ -28,9 +28,9 @@ dv_has_:
     uk: епоха ґрюндерства
     vec: tenpo de fondasion
     zh: 繁榮時期
-    zh-cn: 奠基者时代
-    zh-hans: 创始人时期
-    zh-hant: 奠基者時代
+    zh_cn: 奠基者时代
+    zh_hans: 创始人时期
+    zh_hant: 奠基者時代
   time_:
     started: 1871-01-28T00:00:00.000+00:53
     stopped: 1873-05-09T00:00:00.000+00:53

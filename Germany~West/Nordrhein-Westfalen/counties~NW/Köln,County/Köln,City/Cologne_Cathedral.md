@@ -188,7 +188,7 @@ dv_has_:
     ban: Katédral Köln
     bar: Kölna Dom
     be: Кёльнскі сабор
-    be-tarask: Кёльнская катэдра
+    be_tarask: Кёльнская катэдра
     bg: Кьолнска катедрала
     bn: কোলন গির্জা
     ca: Catedral de Colònia
@@ -198,8 +198,8 @@ dv_has_:
     dsb: Kölnski dom
     el: Καθεδρικός Ναός της Κολωνίας
     en: Cologne Cathedral
-    en-ca: Cologne Cathedral
-    en-gb: Cologne Cathedral
+    en_ca: Cologne Cathedral
+    en_gb: Cologne Cathedral
     eo: Katedralo de Kolonjo
     es: Catedral de Colonia
     et: Kölni katedraal
@@ -249,7 +249,7 @@ dv_has_:
     sl: stolnica v Kölnu
     smn: Köln tuámukirkko
     sr: Келнска катедрала
-    sr-ec: Келнска катедрала
+    sr_ec: Келнска катедрала
     sv: Kölnerdomen
     ta: கோல்ன் கதீட்ரல்
     th: มหาวิหารโคโลญ
@@ -263,9 +263,9 @@ dv_has_:
     wuu: 科隆大教堂
     yue: 古龍大教堂
     zh: 科隆主教座堂
-    zh-cn: 科隆主教座堂
-    zh-hans: 科隆主教座堂
-    zh-hant: 科隆主教座堂
+    zh_cn: 科隆主教座堂
+    zh_hans: 科隆主教座堂
+    zh_hant: 科隆主教座堂
 ---
 # [[Cologne_Cathedral]] 
 

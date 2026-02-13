@@ -104,7 +104,7 @@ dv_is_same_as:
 dv_has_:
   name_:
     be: Дзюсельдорфская акадэмія мастацтваў
-    be-tarask: Дусэльдорфская акадэмія мастацтваў
+    be_tarask: Дусэльдорфская акадэмія мастацтваў
     bg: Дюселдорфска художествена академия
     ca: Kunstakademie de Düsseldorf
     cs: Umělecká akademie v Düsseldorfu
@@ -132,7 +132,7 @@ dv_has_:
     nl: Kunstacademie Düsseldorf
     nn: Kunstakademie Düsseldorf
     pl: Kunstakademie Düsseldorf
-    pt-br: Academia de Belas Artes de Düsseldorf
+    pt_br: Academia de Belas Artes de Düsseldorf
     ro: Academia de Arte Frumoase din Düsseldorf
     ru: Дюссельдорфская академия художеств
     sl: Umetnostna akademija v Düsseldorfu
@@ -143,9 +143,9 @@ dv_has_:
     uk: Дюссельдорфська академія мистецтв
     vi: Học viện nghệ thuật Düsseldorf
     zh: 杜塞尔多夫艺术学院
-    zh-cn: 杜塞尔多夫艺术学院
-    zh-hans: 杜塞尔多夫艺术学院
-    zh-hant: 杜塞爾多夫藝術學院
+    zh_cn: 杜塞尔多夫艺术学院
+    zh_hans: 杜塞尔多夫艺术学院
+    zh_hant: 杜塞爾多夫藝術學院
 ---
 # [[Kunstakademie_Düsseldorf]] 
 

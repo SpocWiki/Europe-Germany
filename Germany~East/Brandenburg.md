@@ -238,7 +238,7 @@ dv_has_:
     ban: Brandenburg
     bar: Brandnburg
     be: Брандэнбург
-    be-tarask: Брандэнбург
+    be_tarask: Брандэнбург
     bg: Бранденбург
     bn: ব্রান্ডেনবুর্গ
     br: Brandenburg
@@ -258,7 +258,7 @@ dv_has_:
     dag: Brandenburg
     de: Brandenburg
     de-at: Brandenburg
-    de-ch: Brandenburg
+    de_ch: Brandenburg
     diq: Brandenburg
     dsb: Bramborska
     el: Βρανδεμβούργο
@@ -332,7 +332,7 @@ dv_has_:
     nap: Brandenburg
     nb: Brandenburg
     nds: Brannenborg
-    nds-nl: Brandenburg
+    nds_nl: Brandenburg
     ne: ब्रैंडेनबर्ग
     nl: Brandenburg
     nn: Brandenburg
@@ -351,7 +351,7 @@ dv_has_:
     pnb: برانڈنبرگ
     ps: براندېنبورګ
     pt: Brandemburgo
-    pt-br: Brandenburg
+    pt_br: Brandenburg
     qu: Brandenburg
     rm: Brandenburg
     ro: Brandenburg
@@ -367,7 +367,7 @@ dv_has_:
     sl: Brandenburg
     sq: Brandenburg
     sr: Бранденбург
-    sr-el: Brandenburg
+    sr_el: Brandenburg
     stq: Brandenbuurich
     sv: Brandenburg
     sw: Brandenburg
@@ -396,9 +396,9 @@ dv_has_:
     yue: 勃蘭登堡州
     zea: Brandenburg
     zh: 勃兰登堡州
-    zh-cn: 勃兰登堡州
-    zh-hans: 勃兰登堡州
-    zh-hant: 勃蘭登堡州
+    zh_cn: 勃兰登堡州
+    zh_hans: 勃兰登堡州
+    zh_hant: 勃蘭登堡州
     zu: Brandenburg
 ---
 # [[Brandenburg]] 

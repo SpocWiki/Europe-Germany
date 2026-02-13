@@ -213,7 +213,7 @@ dv_has_:
     ban: Saarland
     bar: Saarland
     be: Саар
-    be-tarask: Заарлянд
+    be_tarask: Заарлянд
     bg: Саарланд
     bn: জারলান্ড
     br: Saarland
@@ -230,14 +230,14 @@ dv_has_:
     da: Saarland
     dag: Saarland
     de: Saarland
-    de-ch: Saarland
+    de_ch: Saarland
     diq: Saarland
     dsb: Saarlandska
     el: Σάαρλαντ
     eml: Sârland
     en: Saarland
-    en-ca: Saarland
-    en-gb: Saarland
+    en_ca: Saarland
+    en_gb: Saarland
     eo: Sarlando
     es: Sarre
     et: Saarimaa
@@ -315,7 +315,7 @@ dv_has_:
     pnb: سارلینڈ
     ps: سارلينډ
     pt: Sarre
-    pt-br: Sarre
+    pt_br: Sarre
     qu: Saarland
     rm: Saarland
     ro: Saarland
@@ -359,10 +359,10 @@ dv_has_:
     yue: 沙亞
     zea: Saarland
     zh: 萨尔兰州
-    zh-cn: 萨尔兰州
-    zh-hans: 萨尔兰州
-    zh-hant: 薩爾蘭州
-    zh-tw: 薩爾
+    zh_cn: 萨尔兰州
+    zh_hans: 萨尔兰州
+    zh_hant: 薩爾蘭州
+    zh_tw: 薩爾
 ---
 # [[Saarland]] 
 

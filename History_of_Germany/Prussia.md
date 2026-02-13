@@ -208,7 +208,7 @@ dv_has_:
     ba: Пруссия
     bar: Breissn
     be: Прусія
-    be-tarask: Прусія
+    be_tarask: Прусія
     bg: Прусия
     bn: প্রুশিয়া
     br: Prusia
@@ -221,12 +221,12 @@ dv_has_:
     cy: Prwsia
     da: Preussen
     de: Preußen
-    de-ch: Preussen
+    de_ch: Preussen
     diq: Prusya
     dsb: Pšuska
     el: Πρωσία
     en: Prussia
-    en-gb: Prussia
+    en_gb: Prussia
     eo: Prusio
     es: Prusia
     eu: Prusia
@@ -282,7 +282,7 @@ dv_has_:
     nap: Prussia
     nb: Preussen
     nds: Preußen
-    nds-nl: Praissen
+    nds_nl: Praissen
     ne: प्रशिया
     nl: Pruisen
     nn: Preussen
@@ -294,7 +294,7 @@ dv_has_:
     prg: Prūsija
     ps: پروشیا
     pt: Prússia
-    pt-br: Prússia
+    pt_br: Prússia
     qu: Purusya
     ro: Prusia
     ru: Пруссия
@@ -334,7 +334,7 @@ dv_has_:
     yo: Prussia
     yue: 普魯士
     zh: 普魯士
-    zh-hant: 普魯士
+    zh_hant: 普魯士
 ---
 # [[Prussia]] 
 

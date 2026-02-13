@@ -243,7 +243,7 @@ dv_has_:
     ban: Saxony
     bar: Saggsn
     be: Саксонія
-    be-tarask: Саксонія
+    be_tarask: Саксонія
     bg: Саксония
     bn: জাখসেন
     br: Saks
@@ -267,8 +267,8 @@ dv_has_:
     el: Σαξονία
     eml: Sasògna
     en: Saxony
-    en-ca: Saxony
-    en-gb: Saxony
+    en_ca: Saxony
+    en_gb: Saxony
     en-us: Saxony
     eo: Saksio
     es: Sajonia
@@ -335,7 +335,7 @@ dv_has_:
     nap: Sassonia
     nb: Sachsen
     nds: Sassen
-    nds-nl: Saksen
+    nds_nl: Saksen
     ne: स्याक्सोनी
     nl: Saksen
     nn: Sachsen
@@ -351,7 +351,7 @@ dv_has_:
     pnb: سیکسنی
     ps: زاخسن
     pt: Saxónia
-    pt-br: Saxônia
+    pt_br: Saxônia
     qu: Sachsen
     rm: Saxonia
     ro: Saxonia
@@ -391,9 +391,9 @@ dv_has_:
     yue: 薩克遜
     zea: Sachsen
     zh: 萨克森自由州
-    zh-cn: 萨克森州
-    zh-hans: 萨克森州
-    zh-hant: 薩克森州
+    zh_cn: 萨克森州
+    zh_hans: 萨克森州
+    zh_hant: 薩克森州
 ---
 # [[Sachsen]] 
 

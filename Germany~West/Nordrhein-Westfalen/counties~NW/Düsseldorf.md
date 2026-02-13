@@ -287,13 +287,13 @@ dv_has_:
     ban: Düsseldorf
     bar: Düssldoaf
     be: Дзюсельдорф
-    be-tarask: Дусэльдорф
+    be_tarask: Дусэльдорф
     bg: Дюселдорф
     bn: ডুসেলডর্ফ
     br: Düsseldorf
     bs: Düsseldorf
     ca: Düsseldorf
-    cbk-zam: Düsseldorf
+    cbk_zam: Düsseldorf
     ce: Дуьссельдорф
     ceb: Düsseldorf
     ckb: دوسلدۆرف
@@ -304,14 +304,14 @@ dv_has_:
     da: Düsseldorf
     de: Düsseldorf
     de-at: Düsseldorf
-    de-ch: Düsseldorf
+    de_ch: Düsseldorf
     diq: Düsseldorf
     dsb: Düsseldorf
     el: Ντύσσελντορφ
     eml: Düsseldorf
     en: Düsseldorf
-    en-ca: Düsseldorf
-    en-gb: Düsseldorf
+    en_ca: Düsseldorf
+    en_gb: Düsseldorf
     en-us: Düsseldorf
     eo: Duseldorfo
     es: Düsseldorf
@@ -380,7 +380,7 @@ dv_has_:
     nap: Düsseldorf
     nb: Düsseldorf
     nds: Düsseldörp
-    nds-nl: Dusseldörp
+    nds_nl: Dusseldörp
     ne: डसेलडॉर्फ़
     nl: Düsseldorf
     nn: Düsseldorf
@@ -396,7 +396,7 @@ dv_has_:
     pnb: ڈسلڈورف
     ps: دوسلدورف
     pt: Düsseldorf
-    pt-br: Düsseldorf
+    pt_br: Düsseldorf
     qu: Düsseldorf
     rm: Düsseldorf
     ro: Düsseldorf
@@ -415,8 +415,8 @@ dv_has_:
     so: Düsseldorf
     sq: Dyzeldorfi
     sr: Диселдорф
-    sr-ec: Диселдорф
-    sr-el: Düsseldorf
+    sr_ec: Диселдорф
+    sr_el: Düsseldorf
     st: Düsseldorf
     stq: Düsseldorf
     sv: Düsseldorf
@@ -449,9 +449,9 @@ dv_has_:
     yo: Düsseldorf
     yue: 杜塞多夫
     zh: 杜塞爾多夫
-    zh-hant: 杜塞道夫
-    zh-hk: 杜塞爾多夫
-    zh-tw: 杜塞道夫
+    zh_hant: 杜塞道夫
+    zh_hk: 杜塞爾多夫
+    zh_tw: 杜塞道夫
     zu: Düsseldorf
 ---
 # [[Düsseldorf]] 

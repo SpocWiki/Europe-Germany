@@ -261,7 +261,7 @@ dv_has_:
     ban: Rheinland-Pfalz
     bar: Rheinland-Pfoiz
     be: Рэйнланд-Пфальц
-    be-tarask: Райнлянд-Пфальц
+    be_tarask: Райнлянд-Пфальц
     bg: Рейнланд-Пфалц
     bn: রাইনলান্ড-ফালৎস
     br: Rheinland-Pfalz
@@ -282,8 +282,8 @@ dv_has_:
     el: Ρηνανία-Παλατινάτο
     eml: Renàgna Palatinâ
     en: Rhineland-Palatinate
-    en-ca: Rhineland-Palatinate
-    en-gb: Rhineland-Palatinate
+    en_ca: Rhineland-Palatinate
+    en_gb: Rhineland-Palatinate
     eo: Rejnlando-Palatinato
     es: Renania-Palatinado
     et: Rheinland-Pfalz
@@ -347,7 +347,7 @@ dv_has_:
     nan: Rheinland-Pfalz
     nb: Rheinland-Pfalz
     nds: Rhienland-Palz
-    nds-nl: Rynland-Palts
+    nds_nl: Rynland-Palts
     ne: राइनल्यान्ड पालाटिनेट
     nl: Rijnland-Palts
     nn: Rheinland-Pfalz
@@ -362,7 +362,7 @@ dv_has_:
     pms: Renania-Palatinà
     pnb: رائین لینڈ-پالاٹیناٹے
     pt: Renânia-Palatinado
-    pt-br: Renânia-Palatinado
+    pt_br: Renânia-Palatinado
     qu: Rheinland-Pfalz
     rm: Renania-Palatinat
     ro: Renania-Palatinat
@@ -403,14 +403,14 @@ dv_has_:
     yue: 萊茵－普法茨
     zea: Rheinland-Pfalz
     zh: 莱茵兰-普法尔茨州
-    zh-cn: 莱茵兰-普法尔茨州
-    zh-hans: 莱茵兰-普法尔茨州
-    zh-hant: 萊因蘭-法爾茲
-    zh-hk: 萊因蘭-法爾茲
-    zh-mo: 萊因蘭-法爾茲
+    zh_cn: 莱茵兰-普法尔茨州
+    zh_hans: 莱茵兰-普法尔茨州
+    zh_hant: 萊因蘭-法爾茲
+    zh_hk: 萊因蘭-法爾茲
+    zh_mo: 萊因蘭-法爾茲
     zh-my: 莱茵兰－普法尔茨
-    zh-sg: 莱茵兰－普法尔茨
-    zh-tw: 萊因蘭-法爾茲
+    zh_sg: 莱茵兰－普法尔茨
+    zh_tw: 萊因蘭-法爾茲
   url_for_:
     code_repository: https://github.com/SpocWiki/Germany-Rheinland-Pfalz
 dv_has_place_country: '[[../../Germany]]'

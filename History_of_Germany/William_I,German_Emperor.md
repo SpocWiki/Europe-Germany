@@ -212,7 +212,7 @@ dv_has_:
     az: I Vilhelm
     azb: بیرینجی ویلهلم ، امپراتور
     be: Вільгельм I Гогенцолерн
-    be-tarask: Вільгэльм I Гогенцолерн
+    be_tarask: Вільгэльм I Гогенцолерн
     bg: Вилхелм I
     br: Gwilherm Iañ
     ca: Guillem I de Prússia
@@ -220,7 +220,7 @@ dv_has_:
     cy: Wilhelm I, ymerawdwr yr Almaen
     da: Wilhelm 1. af Tyskland
     de: Wilhelm I.
-    de-ch: Wilhelm I.
+    de_ch: Wilhelm I.
     el: Γουλιέλμος Α΄ της Γερμανίας
     en: Wilhelm I
     eo: Vilhelmo la 1-a
@@ -247,7 +247,7 @@ dv_has_:
     kk: I Вильгельм
     ko: 빌헬름 1세
     ku: Wilhelm I yê Almanyayê
-    ku-latn: Wilhelm I yê Almanyayê
+    ku_latn: Wilhelm I yê Almanyayê
     ky: Вильгельм I Гогенцоллерн
     la: Gulielmus I
     lb: Wilhelm I. vun Däitschland
@@ -270,7 +270,7 @@ dv_has_:
     pnb: ولیم I
     ps: لومړی ویلیام، جرمنی سترواک
     pt: Guilherme I da Alemanha
-    pt-br: Guilherme I da Alemanha
+    pt_br: Guilherme I da Alemanha
     ro: Wilhelm I al Germaniei
     ru: Вильгельм I
     sco: William I, German Emperor
@@ -279,8 +279,8 @@ dv_has_:
     sl: Viljem I. Nemški
     sq: Wilhelm I of Germany
     sr: Вилхелм I Немачки
-    sr-ec: Вилхелм I Немачки
-    sr-el: Vilhelm I Nemački
+    sr_ec: Вилхелм I Немачки
+    sr_el: Vilhelm I Nemački
     stq: Wülm I.
     sv: Vilhelm I av Tyskland
     sw: Kaisari Wilhelm I
@@ -296,12 +296,12 @@ dv_has_:
     wuu: 德皇威廉一世
     yue: 威廉大帝
     zh: 威廉一世
-    zh-cn: 威廉一世
-    zh-hans: 威廉一世
-    zh-hant: 威廉一世
-    zh-hk: 威廉一世
-    zh-sg: 威廉一世
-    zh-tw: 威廉一世
+    zh_cn: 威廉一世
+    zh_hans: 威廉一世
+    zh_hant: 威廉一世
+    zh_hk: 威廉一世
+    zh_sg: 威廉一世
+    zh_tw: 威廉一世
 ---
 # [[William_I,German_Emperor]] 
 

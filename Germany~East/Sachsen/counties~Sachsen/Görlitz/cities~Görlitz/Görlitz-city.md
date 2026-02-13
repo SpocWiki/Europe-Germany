@@ -78,7 +78,7 @@ dv_has_:
     azb: قرلیتز
     ba: Гёрлиц
     be: Гёрліц
-    be-tarask: Гёрліц
+    be_tarask: Гёрліц
     bg: Гьорлиц
     br: Görlitz
     ca: Görlitz
@@ -88,12 +88,12 @@ dv_has_:
     cy: Görlitz
     da: Görlitz
     de: Görlitz
-    de-ch: Görlitz
+    de_ch: Görlitz
     dsb: Zgórjelc
     el: Γκέρλιτς
     en: Görlitz
-    en-ca: Görlitz
-    en-gb: Görlitz
+    en_ca: Görlitz
+    en_gb: Görlitz
     eo: Görlitz
     es: Görlitz
     et: Görlitz
@@ -135,7 +135,7 @@ dv_has_:
     pms: Görlitz
     pnb: گورلٹز
     pt: Görlitz
-    pt-br: Görlitz
+    pt_br: Görlitz
     ro: Görlitz
     ru: Гёрлиц
     sco: Görlitz
@@ -157,7 +157,7 @@ dv_has_:
     wuu: 格尔利茨
     yue: 哥利茲
     zh: 格尔利茨
-    zh-hant: 哥利茲
+    zh_hant: 哥利茲
 ---
 ## [[Görlitz-city]] 
 

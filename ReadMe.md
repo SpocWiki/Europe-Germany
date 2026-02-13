@@ -861,7 +861,7 @@ dv_has_:
     ab: Германиа
     ace: Jeureuman
     ady: Германие
-    aeb-arab: ألمانيا
+    aeb_arab: ألمانيا
     af: Duitsland
     am: ጀርመን
     ami: Germany
@@ -888,7 +888,7 @@ dv_has_:
     bar: Deitschland
     bcl: Alemanya
     be: Германія
-    be-tarask: Нямеччына
+    be_tarask: Нямеччына
     bew: Dètslan
     bg: Германия
     bgn: آلمان
@@ -905,7 +905,7 @@ dv_has_:
     bug: ᨍᨙᨑᨛᨆ
     bxr: Германи
     ca: Alemanya
-    cbk-zam: Alemania
+    cbk_zam: Alemania
     cdo: Dáik-guók
     ce: Германи
     ceb: Alemanya
@@ -915,7 +915,7 @@ dv_has_:
     ckb: ئەڵمانیا
     co: Germania
     crh: Almaniya
-    crh-latn: Almaniya
+    crh_latn: Almaniya
     crh-ro: Almaniye
     cs: Německo
     csb: Miemieckô
@@ -926,7 +926,7 @@ dv_has_:
     dag: Germany
     de: Deutschland
     de-at: Deutschland
-    de-ch: Deutschland
+    de_ch: Deutschland
     diq: Almanya
     dsb: Nimska
     dtp: Jerman
@@ -937,8 +937,8 @@ dv_has_:
     el: Γερμανία
     eml: Germâgna
     en: Germany
-    en-ca: Germany
-    en-gb: Germany
+    en_ca: Germany
+    en_gb: Germany
     en-us: Germany
     eo: Germanio
     es: Alemania
@@ -965,7 +965,7 @@ dv_has_:
     gn: Alemaña
     gom: जर्मनी
     gom-deva: जर्मनी
-    gom-latn: Germany
+    gom_latn: Germany
     got: "\U00010338\U00010339\U0001033F\U00010333\U00010339\U00010343\U0001033A\U00010330\U0001033B\U00010330\U0001033D\U00010333"
     gpe: Germany
     grc: Γερμανία
@@ -1023,7 +1023,7 @@ dv_has_:
     ks: جَرمَنی
     ksh: Dütschland
     ku: Almanya
-    ku-latn: Almanya
+    ku_latn: Almanya
     kv: Германия
     kw: Almayn
     ky: Германия
@@ -1048,7 +1048,7 @@ dv_has_:
     lzh: 德國
     mad: Jerman
     mai: जर्मनी
-    map-bms: Jerman
+    map_bms: Jerman
     mdf: Дойчмастор
     mg: Alemaina
     mhr: Немыч Эл
@@ -1062,7 +1062,7 @@ dv_has_:
     mos: Germany
     mr: जर्मनी
     ms: Jerman
-    ms-arab: جرمن
+    ms_arab: جرمن
     mt: Ġermanja
     mwl: Almanha
     my: ဂျာမနီနိုင်ငံ
@@ -1074,7 +1074,7 @@ dv_has_:
     nap: Germania
     nb: Tyskland
     nds: Düütschland
-    nds-nl: Duutslaand
+    nds_nl: Duutslaand
     ne: जर्मनी
     new: जर्मनी
     nl: Duitsland
@@ -1108,7 +1108,7 @@ dv_has_:
     pnt: Γερμανία
     ps: جرمني
     pt: Alemanha
-    pt-br: Alemanha
+    pt_br: Alemanha
     qu: Alimaniya
     rm: Germania
     rmy: Jermaniya
@@ -1144,8 +1144,8 @@ dv_has_:
     so: Jarmalka
     sq: Gjermania
     sr: Немачка
-    sr-ec: Немачка
-    sr-el: Nemačka
+    sr_ec: Немачка
+    sr_el: Nemačka
     srn: Doysrikondre
     ss: IJalimane
     st: Jeremane
@@ -1163,7 +1163,7 @@ dv_has_:
     te: జర్మనీ
     tet: Alemaña
     tg: Олмон
-    tg-cyrl: Олмон
+    tg_cyrl: Олмон
     th: ประเทศเยอรมนี
     ti: ጀርመን
     tk: Germaniýa
@@ -1176,7 +1176,7 @@ dv_has_:
     trv: Germany
     ts: Jarimani
     tt: Германия
-    tt-cyrl: Алмания
+    tt_cyrl: Алмания
     tum: Germany
     tw: Gyaaman
     ty: Heremani
@@ -1207,14 +1207,14 @@ dv_has_:
     zea: Duutsland
     zgh: ⵍⴰⵍⵎⴰⵏ
     zh: 德國
-    zh-cn: 德国
-    zh-hans: 德国
-    zh-hant: 德國
-    zh-hk: 德國
-    zh-mo: 德國
+    zh_cn: 德国
+    zh_hans: 德国
+    zh_hant: 德國
+    zh_hk: 德國
+    zh_mo: 德國
     zh-my: 德国
-    zh-sg: 德国
-    zh-tw: 德國
+    zh_sg: 德国
+    zh_tw: 德國
     zu: IJalimani
   sound_of_:
     anthem: '[[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Germany.mp3]]'

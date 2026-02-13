@@ -341,7 +341,7 @@ dv_has_:
     ban: Frankfurt
     bar: Frankfurt am Main
     be: Франкфурт-на-Майне
-    be-tarask: Франкфурт-на-Майне
+    be_tarask: Франкфурт-на-Майне
     bg: Франкфурт на Майн
     bn: ফ্রাঙ্কফুর্ট
     br: Frankfurt am Main
@@ -353,20 +353,20 @@ dv_has_:
     ckb: فرانکفورت
     co: Francuforte nant'à u Menu
     crh: Frankfurt am Mayn
-    crh-latn: Frankfurt am Mayn
+    crh_latn: Frankfurt am Mayn
     cs: Frankfurt nad Mohanem
     cv: Франкфурт
     cy: Frankfurt am Main
     da: Frankfurt am Main
     de: Frankfurt am Main
-    de-ch: Frankfurt am Main
+    de_ch: Frankfurt am Main
     diq: Frankfurtê Maini
     dsb: Frankfurt nad Mainom
     el: Φραγκφούρτη
     eml: Francfòrt
     en: Frankfurt
-    en-ca: Frankfurt
-    en-gb: Frankfurt
+    en_ca: Frankfurt
+    en_gb: Frankfurt
     eo: Frankfurto ĉe Majno
     es: Fráncfort del Meno
     et: Frankfurt
@@ -426,7 +426,7 @@ dv_has_:
     lmo: Francufort sül Men
     lt: Frankfurtas prie Maino
     lv: Frankfurte pie Mainas
-    map-bms: Frankfurt am Main
+    map_bms: Frankfurt am Main
     mdf: Франкфурт
     mg: Franckfort/Main
     mk: Франкфурт на Мајна
@@ -464,7 +464,7 @@ dv_has_:
     pnb: فرینکفرٹ
     ps: فرانکفورت
     pt: Frankfurt am Main
-    pt-br: Frankfurt am Main
+    pt_br: Frankfurt am Main
     qu: Frankfurt am Main
     rm: Frankfurt
     ro: Frankfurt pe Main
@@ -519,11 +519,11 @@ dv_has_:
     yue: 法蘭克福
     zea: Frankfurt am Main
     zh: 美茵河畔法蘭克福
-    zh-cn: 美因河畔法兰克福
-    zh-hans: 美因河畔法兰克福
-    zh-hant: 美茵河畔法蘭克福
-    zh-hk: 法蘭克福
-    zh-tw: 美茵河畔法蘭克福
+    zh_cn: 美因河畔法兰克福
+    zh_hans: 美因河畔法兰克福
+    zh_hant: 美茵河畔法蘭克福
+    zh_hk: 法蘭克福
+    zh_tw: 美茵河畔法蘭克福
 ---
 # [[Frankfurt,Main]] 
 
