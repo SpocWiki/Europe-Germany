@@ -1,48 +1,137 @@
 ---
 aliases:
-  - Sanssouci
+- Château de Sanssouci
+- Palacio de Sanssouci
+- palazzo di Sanssouci
+- Sans Souci
+- Sanssouci
+- Sanssouci jauregia
+- Sanssouci loss
+- Sanssouci Palace
+- Sansusi
+- Sansusī pils
+- Schloss Sanssouci
+- Vanangur
+- Σανσουσί
+- Палац Сансусі
+- Сан-Сусі
+- Сан-Суси
+- Сансуси
+- Սանսուսի
+- ארמון סנסוסי
+- قصر سانسوسي
+- نواں محل
+- کاخ سانسوسی
+- संस्सौची
+- พระราชวังซ็องซูซี
+- სანსუსის სასახლე
+- サンスーシ宮殿
+- 无忧宫
+- 無憂宮
+- 상수시 궁전
 confidential: public
 isDeleted: false
 location:
-  - 52.403261
-  - 13.038631
+- 52.403261
+- 13.038631
 mapmarker: city
 mapzoom:
-  - 7
-  - 12
+- 7
+- 12
 SpocWebEntityId: 33940
 tags:
-  - geo/City
+- geo/City
 type: City
-dv_is_a_: "[[../../../../../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../../../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 13.038631
 dv_has_place_latitude: 52.403261
 dv_has_name: Sans Soucis
-dv_has_place_country: "[[../../../../Germany]]"
-dv_has_place_province: "[[../../Berlin,State]]"
+dv_has_place_country: '[[../../../../Germany]]'
+dv_has_place_province: '[[../../Berlin,State]]'
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci|Sanssouci]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.public|Sanssouci.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.internal|Sanssouci.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.protect|Sanssouci.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.private|Sanssouci.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.personal|Sanssouci.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.secret|Sanssouci.secret]]"
+  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci|Sanssouci]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.public|Sanssouci.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.internal|Sanssouci.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.protect|Sanssouci.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.private|Sanssouci.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.personal|Sanssouci.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.secret|Sanssouci.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci|Sanssouci]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.public|Sanssouci.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.internal|Sanssouci.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.protect|Sanssouci.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.private|Sanssouci.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.personal|Sanssouci.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.secret|Sanssouci.secret]]"
+- '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci|Sanssouci]]'
+- '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.public|Sanssouci.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.internal|Sanssouci.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.protect|Sanssouci.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.private|Sanssouci.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.personal|Sanssouci.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Sanssouci.secret|Sanssouci.secret]]'
+has_id_wikidata: Q151330
+dv_has_:
+  name_:
+    ar: قصر سانسوسي
+    be: Сан-Сусі
+    bg: Сансуси
+    br: Sanssouci
+    ca: Sanssouci
+    ceb: Sanssouci
+    cs: Sanssouci
+    da: Sanssouci
+    de: Schloss Sanssouci
+    el: Σανσουσί
+    en: Sanssouci Palace
+    eo: Sanssouci
+    es: Palacio de Sanssouci
+    et: Sanssouci loss
+    eu: Sanssouci jauregia
+    fa: کاخ سانسوسی
+    fi: Sanssouci
+    fr: Château de Sanssouci
+    ga: Sans Souci
+    gl: Palacio de Sanssouci
+    he: ארמון סנסוסי
+    hi: संस्सौची
+    hr: Sanssouci
+    hu: Sanssouci
+    hy: Սանսուսի
+    id: Sanssouci
+    is: Vanangur
+    it: palazzo di Sanssouci
+    ja: サンスーシ宮殿
+    ka: სანსუსის სასახლე
+    ko: 상수시 궁전
+    lb: Sanssouci
+    lt: Sansusi
+    lv: Sansusī pils
+    mk: Сансуси
+    mul: Schloss Sanssouci
+    nb: Sanssouci
+    nl: Sanssouci
+    pl: Sanssouci
+    pnb: نواں محل
+    pt: Sanssouci
+    ro: Sanssouci
+    ru: Сан-Суси
+    sh: Sanssouci
+    sk: Sanssouci
+    sl: Sanssouci
+    sr: Сансуси
+    sr-ec: Сансуси
+    sr-el: Sansusi
+    sv: Sanssouci
+    th: พระราชวังซ็องซูซี
+    tl: Sanssouci
+    tr: Sanssouci
+    uk: Палац Сансусі
+    vi: Sanssouci
+    zh: 無憂宮
+    zh-cn: 无忧宫
+    zh-hans: 无忧宫
+    zh-hant: 無憂宮
+    zh-hk: 無憂宮
+    zh-sg: 无忧宫
+    zh-tw: 無憂宮
 ---
-
-
-
-
- is_a = `=this.dv_is_a_`
+is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 name = `=this.dv_has_name` 

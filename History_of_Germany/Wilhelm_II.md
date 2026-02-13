@@ -1,152 +1,244 @@
 ---
 aliases:
-  - Frederick William Victor Albert
-  - Friedrich Wilhelm Viktor Albert
-  - Wilhelm_II
-  - Wilhelm II
+- Ceusair Uilleam II
+- Empereur Guillaume 2 de l'Allemagne
+- Emperora Wilhelm II
+- Frederick William Victor Albert
+- Friedrich Wilhelm Viktor Albert
+- Gilen II.a Alemaniakoa
+- Gugghiermu II di Girmania
+- Guglielmo II di Germania
+- Guilherme II da Alemanha
+- Guilhèm II d'Alemanha
+- Guillaume II
+- Guillem II de Prússia
+- Guillerme II de Alemaña
+- Guillermo II d'Alemaña
+- Guillermo II de Alemania
+- Guillén II d'Alemanya
+- Gulielmo II de Zermània
+- Gulielmus II
+- Gwilherm II
+- II Vilhelm
+- II Вильхелм, Германы эзэн хаан
+- II. Vilmos német császár
+- II. Wilhelm
+- Illiam II ny Germaan
+- Kaisari Wilhelm II
+- Uilliam II na Gearmáine
+- Vilgelm II Gogensollern
+- Vilhelm II
+- Vilhelm II av Tyskland
+- Vilhelmas II
+- Vilhelmo la 2-a
+- Vilhelms II Hoencollerns
+- Vilhjálmur 2. Þýskalandskeisari
+- Viliam II.
+- Vilim II, car Njemačke
+- Vilim II.
+- Viljem II. Nemški
+- Vilém II. Pruský
+- Wilhelm 2, Imperor de Deutxland
+- Wilhelm 2-sè
+- Wilhelm 2. af Tyskland
+- Wilhelm 2ma
+- Wilhelm al II-lea al Germaniei
+- Wilhelm II
+- Wilhelm II nan Almay
+- Wilhelm II van Duitsland
+- Wilhelm II van Duutsjland
+- Wilhelm II yê Almanyayê
+- Wilhelm II, Emperador han Alemanya
+- Wilhelm II, Emperador ng Alemanya
+- Wilhelm II, German Emperor
+- Wilhelm II, Maharaja Jerman
+- Wilhelm II, ymerawdwr yr Almaen
+- Wilhelm II.
+- Wilhelm II. vun Däitschland
+- Wilhelm_II
+- Willelm II Germanie Cāsere
+- Willem II fan Dútslân
+- Willem II.
+- Wiyåme II d' Prûsse
+- Γουλιέλμος Β΄ της Γερμανίας
+- Вільгельм II
+- Вільгельм II Гогенцолерн
+- Вільгельм II Гогенцоллерн
+- Вилхелм II
+- Вилхелм II Немачки
+- Вильгельм II
+- Вильгельм II Гогенцоллерн
+- Вилһелм II
+- Վիլհելմ II
+- ווילהעלם דער צווייטער
+- וילהלם השני, קיסר גרמניה
+- ایکینجی ویلهلم
+- جرمنی سترواک، دویم ویلهلم
+- فيلهام التانى
+- فيلهلم الثاني
+- ولہلم II
+- ویلهلم دوم
+- وێلھەمی دووەم
+- कैसर विल्हेम द्वितीय
+- कैसर विल्हेम द्वितीय (जर्मनी)
+- विल्हेम निम्ह जर्मनीयाम्ह
+- विल्हेल्म दुसरा, जर्मन सम्राट
+- सम्राट विल्हेम द्वितीय (जर्मनी)
+- দ্বিতীয় ভিলহেল্ম
+- ਵਿਲੀਅਮ II
+- இரண்டாம் வில்லியம்
+- จักรพรรดิวิลเฮ็ล์มที่ 2 แห่งเยอรมนี
+- ဒုတိယမြောက် ဗေဟမ်
+- ვილჰელმ II
+- ვილჰელმ II (გერმანიაშ იმპერია)
+- ヴィルヘルム2世
+- 威廉二世
+- 威廉二世 (德国)
+- 威廉二世 (德國)
+- 빌헬름 2세
 has_id_wikidata: Q2677
 military_or_police_rank:
-  - "[[_Standards/WikiData/WD~general,83460]]"
-  - "[[_Standards/WikiData/WD~Großadmiral,161546]]"
-  - "[[_Standards/WikiData/WD~general_field_marshal,7820253]]"
-family: "[[_Standards/WikiData/WD~House_of_Hohenzollern,83969]]"
-student_of: "[[_Standards/WikiData/WD~Carl_Saltzmann,91824]]"
+- '[[_Standards/WikiData/WD~general,83460]]'
+- '[[_Standards/WikiData/WD~Großadmiral,161546]]'
+- '[[_Standards/WikiData/WD~general_field_marshal,7820253]]'
+family: '[[_Standards/WikiData/WD~House_of_Hohenzollern,83969]]'
+student_of: '[[_Standards/WikiData/WD~Carl_Saltzmann,91824]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Order_of_the_Red_Eagle,93732]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Royal_House_of_Chakri,93911]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Black_Eagle,94145]]"
-  - "[[_Standards/WikiData/WD~Order_of_Saint_Stanislaus,112457]]"
-  - "[[_Standards/WikiData/WD~Pour_le_Mérite,156478]]"
-  - "[[_Standards/WikiData/WD~Sovereign_Military_Order_of_Malta,190353]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Garter,215248]]"
-  - "[[_Standards/WikiData/WD~Order_of_Saint_Stephen_of_Hungary,285071]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Golden_Fleece,465774]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Iron_Cross,536977]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Most_Holy_Annunciation,567417]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Crown,585238]]"
-  - "[[_Standards/WikiData/WD~House_Order_of_Hohenzollern,644621]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Rue_Crown,659711]]"
-  - "[[_Standards/WikiData/WD~Order_of_Merit_of_the_Prussian_Crown,667915]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Chrysanthemum,696246]]"
-  - "[[_Standards/WikiData/WD~Order_of_Saint_Hubert,699459]]"
-  - "[[_Standards/WikiData/WD~Hanseatic_Cross,706808]]"
-  - "[[_Standards/WikiData/WD~Military_Order_of_Max_Joseph,707685]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Norwegian_Lion,945455]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Elephant,976544]]"
-  - "[[_Standards/WikiData/WD~Order_of_St._Andrew,1126563]]"
-  - "[[_Standards/WikiData/WD~Royal_Order_of_the_Seraphim,1331130]]"
-  - "[[_Standards/WikiData/WD~Order_of_Glory,1515028]]"
-  - "[[_Standards/WikiData/WD~Order_of_Willem,1521491]]"
-  - "[[_Standards/WikiData/WD~Q1535108,1535108]]"
-  - "[[_Standards/WikiData/WD~Order_of_Saints_Cyril_and_Methodius_Equal_to_apostles,1551843]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Crown_of_Thailand,2028885]]"
-  - "[[_Standards/WikiData/WD~Royal_Victorian_Chain,2171187]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_in_the_Order_of_the_Netherlands_Lion,2297608]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Military_Order_of_William,2424158]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Liberator,2452975]]"
-  - "[[_Standards/WikiData/WD~Collar_of_the_Supreme_Order_of_the_Chrysanthemum,5357263]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Royal_Victorian_Order,12192290]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_St._Olav,13377518]]"
-  - "[[_Standards/WikiData/WD~Knight_grand_cross_of_the_order_of_the_crown_of_Italy,14865244]]"
-  - "[[_Standards/WikiData/WD~Grand_Cordon_of_the_Order_of_Leopold,14900501]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Order_of_the_Golden_Fleece,15117228]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Maria_Theresa,15829804]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Order_of_St._Alexander_Nevsky,15831432]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Saints_Maurice_and_Lazarus,20888823]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Order_of_the_Most_Holy_Annunciation,56855000]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_the_Cross_of_Liberty,75197959]]"
-  - "[[_Standards/WikiData/WD~Royal_House_Order_of_Hohenzollern,86500098]]"
-  - "[[_Standards/WikiData/WD~Grashof_Commemorative_Medal,106110409]]"
-mother: "[[_Standards/WikiData/WD~Victoria,_Princess_Royal,116728]]"
+- '[[_Standards/WikiData/WD~Order_of_the_Red_Eagle,93732]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Royal_House_of_Chakri,93911]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Black_Eagle,94145]]'
+- '[[_Standards/WikiData/WD~Order_of_Saint_Stanislaus,112457]]'
+- '[[_Standards/WikiData/WD~Pour_le_Mérite,156478]]'
+- '[[_Standards/WikiData/WD~Sovereign_Military_Order_of_Malta,190353]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Garter,215248]]'
+- '[[_Standards/WikiData/WD~Order_of_Saint_Stephen_of_Hungary,285071]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Golden_Fleece,465774]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Iron_Cross,536977]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Most_Holy_Annunciation,567417]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Crown,585238]]'
+- '[[_Standards/WikiData/WD~House_Order_of_Hohenzollern,644621]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Rue_Crown,659711]]'
+- '[[_Standards/WikiData/WD~Order_of_Merit_of_the_Prussian_Crown,667915]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Chrysanthemum,696246]]'
+- '[[_Standards/WikiData/WD~Order_of_Saint_Hubert,699459]]'
+- '[[_Standards/WikiData/WD~Hanseatic_Cross,706808]]'
+- '[[_Standards/WikiData/WD~Military_Order_of_Max_Joseph,707685]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Norwegian_Lion,945455]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Elephant,976544]]'
+- '[[_Standards/WikiData/WD~Order_of_St._Andrew,1126563]]'
+- '[[_Standards/WikiData/WD~Royal_Order_of_the_Seraphim,1331130]]'
+- '[[_Standards/WikiData/WD~Order_of_Glory,1515028]]'
+- '[[_Standards/WikiData/WD~Order_of_Willem,1521491]]'
+- '[[_Standards/WikiData/WD~Q1535108,1535108]]'
+- '[[_Standards/WikiData/WD~Order_of_Saints_Cyril_and_Methodius_Equal_to_apostles,1551843]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Crown_of_Thailand,2028885]]'
+- '[[_Standards/WikiData/WD~Royal_Victorian_Chain,2171187]]'
+- '[[_Standards/WikiData/WD~Knight_Grand_Cross_in_the_Order_of_the_Netherlands_Lion,2297608]]'
+- '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Military_Order_of_William,2424158]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Liberator,2452975]]'
+- '[[_Standards/WikiData/WD~Collar_of_the_Supreme_Order_of_the_Chrysanthemum,5357263]]'
+- '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Royal_Victorian_Order,12192290]]'
+- '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_St._Olav,13377518]]'
+- '[[_Standards/WikiData/WD~Knight_grand_cross_of_the_order_of_the_crown_of_Italy,14865244]]'
+- '[[_Standards/WikiData/WD~Grand_Cordon_of_the_Order_of_Leopold,14900501]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Order_of_the_Golden_Fleece,15117228]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Maria_Theresa,15829804]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Order_of_St._Alexander_Nevsky,15831432]]'
+- '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Saints_Maurice_and_Lazarus,20888823]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Order_of_the_Most_Holy_Annunciation,56855000]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_the_Cross_of_Liberty,75197959]]'
+- '[[_Standards/WikiData/WD~Royal_House_Order_of_Hohenzollern,86500098]]'
+- '[[_Standards/WikiData/WD~Grashof_Commemorative_Medal,106110409]]'
+mother: '[[_Standards/WikiData/WD~Victoria,_Princess_Royal,116728]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_Bonn,152171]]"
-  - "[[_Standards/WikiData/WD~Friedrichsgymnasium_Kassel,1464247]]"
+- '[[_Standards/WikiData/WD~University_of_Bonn,152171]]'
+- '[[_Standards/WikiData/WD~Friedrichsgymnasium_Kassel,1464247]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Sophia_of_Prussia,155822]]"
-  - "[[_Standards/WikiData/WD~Prince_Sigismund_of_Prussia,2800847]]"
-  - "[[_Standards/WikiData/WD~Prince_Waldemar_of_Prussia,3026877]]"
-  - "[[_Standards/WikiData/WD~Prince_Henry_of_Prussia,57569]]"
-  - "[[_Standards/WikiData/WD~Princess_Charlotte_of_Prussia,58670]]"
-  - "[[_Standards/WikiData/WD~Princess_Viktoria_of_Prussia,60382]]"
-  - "[[_Standards/WikiData/WD~Princess_Margaret_of_Prussia,61338]]"
+- '[[_Standards/WikiData/WD~Sophia_of_Prussia,155822]]'
+- '[[_Standards/WikiData/WD~Prince_Sigismund_of_Prussia,2800847]]'
+- '[[_Standards/WikiData/WD~Prince_Waldemar_of_Prussia,3026877]]'
+- '[[_Standards/WikiData/WD~Prince_Henry_of_Prussia,57569]]'
+- '[[_Standards/WikiData/WD~Princess_Charlotte_of_Prussia,58670]]'
+- '[[_Standards/WikiData/WD~Princess_Viktoria_of_Prussia,60382]]'
+- '[[_Standards/WikiData/WD~Princess_Margaret_of_Prussia,61338]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Augusta_Victoria_of_Schleswig_Holstein,161247]]"
-  - "[[_Standards/WikiData/WD~Princess_Hermine_Reuss_of_Greiz,61448]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Prussian_Union_of_Churches,163202]]"
-anthem: "[[_Standards/WikiData/WD~Heil_dir_im_Siegerkranz,163797]]"
-significant_event: "[[_Standards/WikiData/WD~abdication,207549]]"
-cause_of_death: "[[_Standards/WikiData/WD~cardiovascular_disease,389735]]"
+- '[[_Standards/WikiData/WD~Augusta_Victoria_of_Schleswig_Holstein,161247]]'
+- '[[_Standards/WikiData/WD~Princess_Hermine_Reuss_of_Greiz,61448]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Prussian_Union_of_Churches,163202]]'
+anthem: '[[_Standards/WikiData/WD~Heil_dir_im_Siegerkranz,163797]]'
+significant_event: '[[_Standards/WikiData/WD~abdication,207549]]'
+cause_of_death: '[[_Standards/WikiData/WD~cardiovascular_disease,389735]]'
 occupation:
-  - "[[_Standards/WikiData/WD~author,482980]]"
-  - "[[_Standards/WikiData/WD~painter,1028181]]"
-  - "[[_Standards/WikiData/WD~ruler,1097498]]"
-  - "[[_Standards/WikiData/WD~art_collector,10732476]]"
-  - "[[_Standards/WikiData/WD~monarch,116]]"
+- '[[_Standards/WikiData/WD~author,482980]]'
+- '[[_Standards/WikiData/WD~painter,1028181]]'
+- '[[_Standards/WikiData/WD~ruler,1097498]]'
+- '[[_Standards/WikiData/WD~art_collector,10732476]]'
+- '[[_Standards/WikiData/WD~monarch,116]]'
 position_held:
-  - "[[_Standards/WikiData/WD~German_Emperor,501503]]"
-  - "[[_Standards/WikiData/WD~King_of_Prussia,3240735]]"
-place_of_birth: "[[_Standards/WikiData/WD~Kronprinzenpalais,530930]]"
+- '[[_Standards/WikiData/WD~German_Emperor,501503]]'
+- '[[_Standards/WikiData/WD~King_of_Prussia,3240735]]'
+place_of_birth: '[[_Standards/WikiData/WD~Kronprinzenpalais,530930]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Victor,539581]]"
-  - "[[_Standards/WikiData/WD~Albert,577011]]"
-  - "[[_Standards/WikiData/WD~Wilhelm,11027623]]"
-  - "[[_Standards/WikiData/WD~Friedrich,14038597]]"
+- '[[_Standards/WikiData/WD~Victor,539581]]'
+- '[[_Standards/WikiData/WD~Albert,577011]]'
+- '[[_Standards/WikiData/WD~Wilhelm,11027623]]'
+- '[[_Standards/WikiData/WD~Friedrich,14038597]]'
 noble_title:
-  - "[[_Standards/WikiData/WD~Prince_of_Orange,549449]]"
-  - "[[_Standards/WikiData/WD~King_of_Prussia,3240735]]"
-residence: "[[_Standards/WikiData/WD~Huis_Doorn,559460]]"
-place_of_burial: "[[_Standards/WikiData/WD~Huis_Doorn,559460]]"
-place_of_death: "[[_Standards/WikiData/WD~Huis_Doorn,559460]]"
+- '[[_Standards/WikiData/WD~Prince_of_Orange,549449]]'
+- '[[_Standards/WikiData/WD~King_of_Prussia,3240735]]'
+residence: '[[_Standards/WikiData/WD~Huis_Doorn,559460]]'
+place_of_burial: '[[_Standards/WikiData/WD~Huis_Doorn,559460]]'
+place_of_death: '[[_Standards/WikiData/WD~Huis_Doorn,559460]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Albert_Edelfelt's_letters,116452747]]"
-member_of: "[[_Standards/WikiData/WD~Corps_Borussia_Bonn,896332]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- "[[_Standards/WikiData/WD~Albert_Edelfelt's_letters,116452747]]"
+member_of: '[[_Standards/WikiData/WD~Corps_Borussia_Bonn,896332]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~National_Museum_of_Archeology,_History_and_Art,2585886]]"
-  - "[[_Standards/WikiData/WD~Royal_Collections_of_the_Netherlands,50632603]]"
-academic_degree: "[[_Standards/WikiData/WD~Doctor_of_Juridical_Science,3033568]]"
-has_list: "[[_Standards/WikiData/WD~Q3093241,3093241]]"
-facial_hair: "[[_Standards/WikiData/WD~handlebar_moustache,3326291]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-owner_of: "[[_Standards/WikiData/WD~Still_Life_with_Fruit_and_a_Nautilus_Cup,31153722]]"
-part_of: "[[_Standards/WikiData/WD~Wilhelm_II_of_Germany_and_Empress_Auguste_Viktoria,63195487]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+- '[[_Standards/WikiData/WD~National_Museum_of_Archeology,_History_and_Art,2585886]]'
+- '[[_Standards/WikiData/WD~Royal_Collections_of_the_Netherlands,50632603]]'
+academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Juridical_Science,3033568]]'
+has_list: '[[_Standards/WikiData/WD~Q3093241,3093241]]'
+facial_hair: '[[_Standards/WikiData/WD~handlebar_moustache,3326291]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+owner_of: '[[_Standards/WikiData/WD~Still_Life_with_Fruit_and_a_Nautilus_Cup,31153722]]'
+part_of: '[[_Standards/WikiData/WD~Wilhelm_II_of_Germany_and_Empress_Auguste_Viktoria,63195487]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Provenance,98801351]]"
-  - "[[_Standards/WikiData/WD~Wikiproject_Nuremberg_Trials,100137722]]"
-depicted_by: "[[_Standards/WikiData/WD~Unser_Kaiserpaar_im_Kaiser_Wilhelm_Kinderheim_zu_Ahlbeck,105764050]]"
-family_name: "[[_Standards/WikiData/WD~Q133888129,133888129]]"
+- '[[_Standards/WikiData/WD~WikiProject_Provenance,98801351]]'
+- '[[_Standards/WikiData/WD~Wikiproject_Nuremberg_Trials,100137722]]'
+depicted_by: '[[_Standards/WikiData/WD~Unser_Kaiserpaar_im_Kaiser_Wilhelm_Kinderheim_zu_Ahlbeck,105764050]]'
+family_name: '[[_Standards/WikiData/WD~Q133888129,133888129]]'
 date_of_birth: 1859-01-27T00:00:00Z
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~German_Empire,43287]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~Berlin,64]]"
-writing_language: "[[_Standards/WikiData/WD~German,188]]"
+- '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~German_Empire,43287]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+work_location: '[[_Standards/WikiData/WD~Berlin,64]]'
+writing_language: '[[_Standards/WikiData/WD~German,188]]'
 child:
-  - "[[_Standards/WikiData/WD~Prince_Adalbert_of_Prussia,50998]]"
-  - "[[_Standards/WikiData/WD~Princess_Viktoria_Luise_of_Prussia,57529]]"
-  - "[[_Standards/WikiData/WD~Wilhelm,_German_Crown_Prince,57621]]"
-  - "[[_Standards/WikiData/WD~Prince_August_Wilhelm_of_Prussia,58777]]"
-  - "[[_Standards/WikiData/WD~Prince_Joachim_of_Prussia,60371]]"
-  - "[[_Standards/WikiData/WD~Prince_Oskar_of_Prussia,61242]]"
-  - "[[_Standards/WikiData/WD~Prince_Eitel_Friedrich_of_Prussia,62056]]"
+- '[[_Standards/WikiData/WD~Prince_Adalbert_of_Prussia,50998]]'
+- '[[_Standards/WikiData/WD~Princess_Viktoria_Luise_of_Prussia,57529]]'
+- '[[_Standards/WikiData/WD~Wilhelm,_German_Crown_Prince,57621]]'
+- '[[_Standards/WikiData/WD~Prince_August_Wilhelm_of_Prussia,58777]]'
+- '[[_Standards/WikiData/WD~Prince_Joachim_of_Prussia,60371]]'
+- '[[_Standards/WikiData/WD~Prince_Oskar_of_Prussia,61242]]'
+- '[[_Standards/WikiData/WD~Prince_Eitel_Friedrich_of_Prussia,62056]]'
 godparent:
-  - "[[_Standards/WikiData/WD~Frederick_William_IV_of_Prussia,57180]]"
-  - "[[_Standards/WikiData/WD~Elisabeth_Ludovika_of_Bavaria,57209]]"
-father: "[[_Standards/WikiData/WD~Frederick_III,_German_Emperor,58600]]"
+- '[[_Standards/WikiData/WD~Frederick_William_IV_of_Prussia,57180]]'
+- '[[_Standards/WikiData/WD~Elisabeth_Ludovika_of_Bavaria,57209]]'
+father: '[[_Standards/WikiData/WD~Frederick_III,_German_Emperor,58600]]'
 Image_Archive_Herder_Institute: Q2677
 BHCL_UUID: 56e3b009-0630-4f36-be67-e6467fd54fee
 Commons_category: Wilhelm II of Germany
@@ -163,12 +255,12 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Kaiser%20Wilhelm%20II%
 audio_recording_of_the_subject_s_spoken_voice: http://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm%20II%206-8-1914.ogg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm%20II%2C%20German%20Emperor%20Signature-.svg
 described_at_URL:
-  - http://www.digiporta.net/index.php?id=394198456
-  - http://www.digiporta.net/index.php?id=481157127
-  - http://www.digiporta.net/index.php?id=508967806
-  - http://www.digiporta.net/index.php?id=585740058
-  - http://www.digiporta.net/index.php?id=677229705
-  - http://www.digiporta.net/index.php?id=704980360
+- http://www.digiporta.net/index.php?id=394198456
+- http://www.digiporta.net/index.php?id=481157127
+- http://www.digiporta.net/index.php?id=508967806
+- http://www.digiporta.net/index.php?id=585740058
+- http://www.digiporta.net/index.php?id=677229705
+- http://www.digiporta.net/index.php?id=704980360
 ISNI: 374821779
 Libris_URI: 31fhj14m5grtmt0
 P1015: 90271778
@@ -176,25 +268,149 @@ Krugosvet_article_archived_: istoriya/VILGELM_II.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/31679
 dv_is_:
   same_as:
-    - "[[../../../../../../WikiData/WD~Wilhelm_II,2677|WD~Wilhelm_II,2677]]"
-    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II|Wilhelm_II]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.public|Wilhelm_II.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.internal|Wilhelm_II.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.protect|Wilhelm_II.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.private|Wilhelm_II.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.personal|Wilhelm_II.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.secret|Wilhelm_II.secret]]"
+  - '[[../../../../../../WikiData/WD~Wilhelm_II,2677|WD~Wilhelm_II,2677]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II|Wilhelm_II]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.public|Wilhelm_II.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.internal|Wilhelm_II.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.protect|Wilhelm_II.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.private|Wilhelm_II.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.personal|Wilhelm_II.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.secret|Wilhelm_II.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../WikiData/WD~Wilhelm_II,2677|WD~Wilhelm_II,2677]]"
-  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II|Wilhelm_II]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.public|Wilhelm_II.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.internal|Wilhelm_II.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.protect|Wilhelm_II.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.private|Wilhelm_II.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.personal|Wilhelm_II.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.secret|Wilhelm_II.secret]]"
+- '[[../../../../../../WikiData/WD~Wilhelm_II,2677|WD~Wilhelm_II,2677]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II|Wilhelm_II]]'
+- '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.public|Wilhelm_II.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.internal|Wilhelm_II.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.protect|Wilhelm_II.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.private|Wilhelm_II.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.personal|Wilhelm_II.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Wilhelm_II.secret|Wilhelm_II.secret]]'
+dv_has_:
+  name_:
+    af: Wilhelm II van Duitsland
+    an: Guillén II d'Alemanya
+    ang: Willelm II Germanie Cāsere
+    anp: कैसर विल्हेम द्वितीय (जर्मनी)
+    ar: فيلهلم الثاني
+    arz: فيلهام التانى
+    ast: Guillermo II d'Alemaña
+    awa: सम्राट विल्हेम द्वितीय (जर्मनी)
+    az: II Vilhelm
+    azb: ایکینجی ویلهلم
+    be: Вільгельм II Гогенцолерн
+    be-tarask: Вільгельм II
+    bg: Вилхелм II
+    bn: দ্বিতীয় ভিলহেল্ম
+    br: Gwilherm II
+    bs: Vilim II, car Njemačke
+    ca: Guillem II de Prússia
+    ckb: وێلھەمی دووەم
+    cs: Vilém II. Pruský
+    cy: Wilhelm II, ymerawdwr yr Almaen
+    da: Wilhelm 2. af Tyskland
+    de: Wilhelm II.
+    de-ch: Wilhelm II.
+    el: Γουλιέλμος Β΄ της Γερμανίας
+    en: Wilhelm II
+    en-ca: Wilhelm II, German Emperor
+    en-gb: Wilhelm II
+    eo: Vilhelmo la 2-a
+    es: Guillermo II de Alemania
+    et: Wilhelm II
+    eu: Gilen II.a Alemaniakoa
+    fa: ویلهلم دوم
+    fi: Vilhelm II
+    fo: Wilhelm II
+    fr: Guillaume II
+    frr: Wilhelm II.
+    fy: Willem II fan Dútslân
+    ga: Uilliam II na Gearmáine
+    gd: Ceusair Uilleam II
+    gl: Guillerme II de Alemaña
+    gv: Illiam II ny Germaan
+    he: וילהלם השני, קיסר גרמניה
+    hi: कैसर विल्हेम द्वितीय
+    hr: Vilim II.
+    ht: Wilhelm II nan Almay
+    hu: II. Vilmos német császár
+    hy: Վիլհելմ II
+    id: Wilhelm II
+    io: Wilhelm 2ma
+    is: Vilhjálmur 2. Þýskalandskeisari
+    it: Guglielmo II di Germania
+    ja: ヴィルヘルム2世
+    jam: Wilhelm II
+    ka: ვილჰელმ II
+    kbp: Empereur Guillaume 2 de l'Allemagne
+    ko: 빌헬름 2세
+    ku: Wilhelm II yê Almanyayê
+    ku-latn: Wilhelm II yê Almanyayê
+    ky: Вильгельм II Гогенцоллерн
+    la: Gulielmus II
+    lb: Wilhelm II. vun Däitschland
+    lfn: Wilhelm 2, Imperor de Deutxland
+    li: Wilhelm II van Duutsjland
+    lt: Vilhelmas II
+    lv: Vilhelms II Hoencollerns
+    lzh: 威廉二世
+    mg: Emperora Wilhelm II
+    mk: Вилхелм II
+    mn: II Вильхелм, Германы эзэн хаан
+    mr: विल्हेल्म दुसरा, जर्मन सम्राट
+    ms: Wilhelm II, Maharaja Jerman
+    my: ဒုတိယမြောက် ဗေဟမ်
+    nan: Wilhelm 2-sè
+    nb: Vilhelm II av Tyskland
+    nds: Willem II.
+    new: विल्हेम निम्ह जर्मनीयाम्ह
+    nl: Wilhelm II van Duitsland
+    nn: Vilhelm II av Tyskland
+    oc: Guilhèm II d'Alemanha
+    pa: ਵਿਲੀਅਮ II
+    pl: Wilhelm II
+    pnb: ولہلم II
+    ps: جرمنی سترواک، دویم ویلهلم
+    pt: Guilherme II da Alemanha
+    pt-br: Guilherme II da Alemanha
+    qu: Wilhelm II
+    ro: Wilhelm al II-lea al Germaniei
+    ru: Вильгельм II
+    sa: कैसर विल्हेम द्वितीय
+    scn: Gugghiermu II di Girmania
+    sco: Wilhelm II
+    sh: Wilhelm II
+    sk: Viliam II.
+    sl: Viljem II. Nemški
+    sq: Wilhelm II.
+    sr: Вилхелм II Немачки
+    sv: Vilhelm II av Tyskland
+    sw: Kaisari Wilhelm II
+    ta: இரண்டாம் வில்லியம்
+    th: จักรพรรดิวิลเฮ็ล์มที่ 2 แห่งเยอรมนี
+    tl: Wilhelm II, Emperador ng Alemanya
+    tr: II. Wilhelm
+    tt: Вилһелм II
+    uk: Вільгельм II Гогенцоллерн
+    uz: Vilgelm II Gogensollern
+    vec: Gulielmo II de Zermània
+    vi: Wilhelm II
+    vro: Wilhelm II
+    wa: Wiyåme II d' Prûsse
+    war: Wilhelm II, Emperador han Alemanya
+    wuu: 威廉二世
+    xmf: ვილჰელმ II (გერმანიაშ იმპერია)
+    yi: ווילהעלם דער צווייטער
+    yue: 威廉二世 (德國)
+    zh: 威廉二世
+    zh-cn: 威廉二世 (德国)
+    zh-hans: 威廉二世 (德国)
+    zh-hant: 威廉二世 (德國)
+    zh-hk: 威廉二世 (德國)
+    zh-mo: 威廉二世 (德國)
+    zh-my: 威廉二世 (德国)
+    zh-sg: 威廉二世 (德国)
+    zh-tw: 威廉二世 (德國)
 ---
-
 # [[Wilhelm_II]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Wilhelm_II,2677|WD~Wilhelm_II,2677]]  

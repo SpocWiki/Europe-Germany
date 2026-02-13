@@ -1,48 +1,130 @@
 ---
 aliases:
-  - Hitzacker~Elbe
+- Hicaker
+- Hitzacker
+- Hitzacker (Elbe)
+- Hitzacker~Elbe
+- Xïtcakker
+- Χίτσακερ
+- Гітцакер
+- Хитцакер
+- Хитцаккер
+- Хитцаккер (Эльба)
+- Хицакер
+- היצאקר
+- حىيتتساككەر
+- هيتسآكر
+- هیتسآکر
+- ჰიტცაკერი
+- ヒッツアッカー (エルベ)
+- 希茨阿克
+- 히차커
 confidential: public
 isDeleted: false
 location:
-  - 53.15
-  - 11.03
+- 53.15
+- 11.03
 mapmarker: city
 mapzoom:
-  - 7
-  - 12
+- 7
+- 12
 SpocWebEntityId: 30957
 tags:
-  - geo/City
+- geo/City
 type: City
-dv_is_a_: "[[../../../../../../../../../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../../../../../../../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 11.03
 dv_has_place_latitude: 53.15
 dv_has_name: Hitzacker
-dv_has_place_country: "[[../../../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../../../Niedersachsen]]"
+dv_has_place_country: '[[../../../../../../../../Germany]]'
+dv_has_place_province: '[[../../../../../../Niedersachsen]]'
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe|Hitzacker~Elbe]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.public|Hitzacker~Elbe.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.internal|Hitzacker~Elbe.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.protect|Hitzacker~Elbe.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.private|Hitzacker~Elbe.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.personal|Hitzacker~Elbe.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.secret|Hitzacker~Elbe.secret]]"
+  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe|Hitzacker~Elbe]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.public|Hitzacker~Elbe.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.internal|Hitzacker~Elbe.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.protect|Hitzacker~Elbe.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.private|Hitzacker~Elbe.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.personal|Hitzacker~Elbe.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.secret|Hitzacker~Elbe.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe|Hitzacker~Elbe]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.public|Hitzacker~Elbe.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.internal|Hitzacker~Elbe.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.protect|Hitzacker~Elbe.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.private|Hitzacker~Elbe.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.personal|Hitzacker~Elbe.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.secret|Hitzacker~Elbe.secret]]"
+- '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe|Hitzacker~Elbe]]'
+- '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.public|Hitzacker~Elbe.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.internal|Hitzacker~Elbe.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.protect|Hitzacker~Elbe.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.private|Hitzacker~Elbe.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.personal|Hitzacker~Elbe.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüchow-Dannenberg/cities~Lüchow-Dannenberg/Elbtalaue/boroughs~Elbtalaue/Hitzacker~Elbe.secret|Hitzacker~Elbe.secret]]'
+has_id_wikidata: Q572535
+dv_has_:
+  name_:
+    an: Hitzacker
+    ar: هيتسآكر
+    azb: هیتسآکر
+    bg: Хитцакер
+    ca: Hitzacker
+    ce: Хитцаккер (Эльба)
+    ceb: Hitzacker
+    cs: Hitzacker
+    cy: Hitzacker
+    da: Hitzacker
+    de: Hitzacker
+    dsb: Hitzacker
+    el: Χίτσακερ
+    en: Hitzacker
+    eo: Hitzacker
+    es: Hitzacker
+    et: Hitzacker
+    eu: Hitzacker (Elbe)
+    fa: هیتسآکر
+    fr: Hitzacker
+    ga: Hitzacker
+    he: היצאקר
+    hu: Hitzacker
+    it: Hitzacker (Elbe)
+    ja: ヒッツアッカー (エルベ)
+    ka: ჰიტცაკერი
+    kk: Хитцаккер
+    kk-arab: حىيتتساككەر
+    kk-cyrl: Хитцаккер
+    kk-latn: Xïtcakker
+    ko: 히차커
+    ku: Hitzacker (Elbe)
+    ky: Хитцаккер
+    la: Hitzacker
+    lld: Hitzacker
+    mk: Хицакер
+    ms: Hitzacker
+    nb: Hitzacker
+    nl: Hitzacker
+    nn: Hitzacker
+    pl: Hitzacker
+    pt: Hitzacker
+    ro: Hitzacker
+    ru: Хитцаккер
+    rup: Hitzacker
+    sco: Hitzacker
+    sh: Hitzacker
+    sk: Hitzacker
+    sl: Hitzacker
+    sr: Хицакер
+    sr-ec: Хицакер
+    sr-el: Hicaker
+    sv: Hitzacker
+    tr: Hitzacker
+    tt: Хитцаккер (Эльба)
+    tum: Hitzacker
+    uk: Гітцакер
+    uz: Hitzacker
+    vi: Hitzacker
+    vo: Hitzacker
+    war: Hitzacker
+    zh: 希茨阿克
+    zh-hans: 希茨阿克
+    zh-hant: 希茨阿克
+    zh-hk: 希茨阿克
 ---
-
-
-
-
- is_a = `=this.dv_is_a_`
+is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 name = `=this.dv_has_name` 

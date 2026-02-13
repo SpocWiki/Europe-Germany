@@ -1,29 +1,78 @@
 ---
 dv_has_:
+  name_:
+    arz: جرونديرزايت
+    bg: Грюндерцайт
+    ca: Gründerzeit
+    cs: Gründerzeit
+    da: Gründerzeit
+    de: Gründerzeit
+    en: Gründerzeit
+    eo: Periodo de spekulanto-kompanioj
+    es: Gründerzeit
+    fr: Gründerzeit
+    gl: Gründerzeit
+    he: בסגנון התקופה הווילהמלינית
+    it: Gründerzeit
+    ja: グリュンダーツァイト
+    ko: 그륀더차이트
+    nb: Gründerzeit
+    nl: Gründerzeit
+    pl: Grynderstwo
+    pt: Gründerzeit
+    ro: Gründerzeit
+    ru: Эпоха грюндерства
+    sv: Gründerzeit
+    tg: Грюндерӣ
+    th: กรืนเดอร์ไซท์
+    uk: епоха ґрюндерства
+    vec: tenpo de fondasion
+    zh: 繁榮時期
+    zh-cn: 奠基者时代
+    zh-hans: 创始人时期
+    zh-hant: 奠基者時代
   time_:
     started: 1871-01-28T00:00:00.000+00:53
     stopped: 1873-05-09T00:00:00.000+00:53
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873|1871-Gründerzeit+1873]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.public|1871-Gründerzeit+1873.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.internal|1871-Gründerzeit+1873.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.protect|1871-Gründerzeit+1873.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.private|1871-Gründerzeit+1873.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.personal|1871-Gründerzeit+1873.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.secret|1871-Gründerzeit+1873.secret]]"
+  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873|1871-Gründerzeit+1873]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.public|1871-Gründerzeit+1873.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.internal|1871-Gründerzeit+1873.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.protect|1871-Gründerzeit+1873.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.private|1871-Gründerzeit+1873.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.personal|1871-Gründerzeit+1873.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.secret|1871-Gründerzeit+1873.secret]]'
 dv_has_time_started: 1871-01-28
 dv_has_time_stopped: 1873-05-09
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873|1871-Gründerzeit+1873]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.public|1871-Gründerzeit+1873.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.internal|1871-Gründerzeit+1873.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.protect|1871-Gründerzeit+1873.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.private|1871-Gründerzeit+1873.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.personal|1871-Gründerzeit+1873.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.secret|1871-Gründerzeit+1873.secret]]"
+- '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873|1871-Gründerzeit+1873]]'
+- '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.public|1871-Gründerzeit+1873.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.internal|1871-Gründerzeit+1873.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.protect|1871-Gründerzeit+1873.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.private|1871-Gründerzeit+1873.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.personal|1871-Gründerzeit+1873.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Gründerzeit+1873.secret|1871-Gründerzeit+1873.secret]]'
+has_id_wikidata: Q694519
+aliases:
+- Grynderstwo
+- Gründerzeit
+- Periodo de spekulanto-kompanioj
+- tenpo de fondasion
+- Грюндерцайт
+- Грюндерӣ
+- епоха ґрюндерства
+- Эпоха грюндерства
+- בסגנון התקופה הווילהמלינית
+- جرونديرزايت
+- กรืนเดอร์ไซท์
+- グリュンダーツァイト
+- 创始人时期
+- 奠基者时代
+- 奠基者時代
+- 繁榮時期
+- 그륀더차이트
 ---
-
 # [[1871-Gründerzeit+1873]]
 
 has_time_started = `=this.dv_has_time_started`

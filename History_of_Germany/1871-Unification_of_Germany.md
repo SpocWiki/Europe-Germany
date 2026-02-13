@@ -1,37 +1,196 @@
 ---
 aliases:
+- Alemaniaren bateratzea
+- Almaniyanın birləşdirilməsi (1871)
+- Almanya'nın birleşmesi
+- Aontú na Gearmáine
+- Bashkimi i Gjermanisë
+- Bennoo gu Almaañ
+- Deutsche Reichsgründung
+- Duitse eenwording
+- Németország egyesítése
+- Pag-iisa ng Alemanya
+- Pag-urusa han Alemanya
+- Penyatuan Jerman
+- Saksamaa ühendamine
+- Saksan yhdistyminen
+- Samlinga av Tyskland
+- sjednocení Německa
+- Stofnun Þýskalands
+- Tek-kok thóng-it
+- thống nhất nước Đức
+- Tysklands enande
+- Tysklands samling
+- Tysklands samling 1871
+- Ujedinjenje Nemačke 1871.
+- Ujedinjenje Njemačke
+- unificacion alemanda
+- unificació alemanya
+- Unificación alemana
+- Unificación Alemá
+- Unificarea Germaniei
+- Unificashan a Joermani
+- Unification o Germany
+- unification of Germany
+- unificazione tedesca
+- Unificação Alemã
+- Unifikasie van Duitsland
+- Unigo di Germania
+- Unité allemande
+- Unuigo de Germanio
+- Vokietijos suvienijimas
+- Vācijas apvienošana
+- združitev Nemčije
+- Zjednoczenie Niemiec w latach 1866–1871
+- Zjednotenie Nemecka
+- Ütidse S'aksamaa luuminõ
+- Γερμανική ενοποίηση
+- Аб'яднанне Германіі
+- аб’яднаньне Нямеччыны
+- об'єднання Німеччини
+- Обединение на Германия
+- Обединување на Германија
+- объединение Германии
+- Уједињење Немачке 1871.
+- Գերմանիայի վերամիավորում
+- איחוד גרמניה
+- جرمن اتحاد
+- جرمنی دا اتحاد
+- حركة توحيد ألمانيا
+- د جرمني اتحاد
+- یگانگی آلمان
+- یەکخستنی ئەڵمانیا
+- जर्मनी का एकीकरण
+- जर्मनीको एकीकरण
+- ਜਰਮਨੀ ਦਾ ਏਕੀਕਰਨ
+- ଜର୍ମାନୀର ଏକୀକରଣ
+- செருமானிய ஒருங்கிணைப்பு
+- జర్మనీ ఏకీకరణ
+- ജർമ്മനിയുടെ ഏകീകരണം
+- การรวมชาติเยอรมัน
+- გერმანიის გაერთიანება
+- ドイツ統一
+- 德意志統一
+- 德意志统一
+- 독일의 통일
 has_id_wikidata: Q154705
-different_from: "[[_Standards/WikiData/WD~Pan_Germanism,155812]]"
+different_from: '[[_Standards/WikiData/WD~Pan_Germanism,155812]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~political_union,1140229]]"
-  - "[[_Standards/WikiData/WD~historical_process,11827304]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Unification_of_Germany,14407766]]"
+- '[[_Standards/WikiData/WD~political_union,1140229]]'
+- '[[_Standards/WikiData/WD~historical_process,11827304]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Unification_of_Germany,14407766]]'
 point_in_time: 1871-01-18T00:00:00Z
-country: "[[_Standards/WikiData/WD~France,142]]"
+country: '[[_Standards/WikiData/WD~France,142]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20v%20Werner%20-%20Kaiserproklamation%20am%2018%20Januar%201871%20%283.%20Fassung%201885%29.jpg
 Commons_category: Unification of Germany
 coordinate_location: Point(2.120333333 48.803580555)
 dv_is_:
   same_as:
-    - "[[../../../../../../WikiData/WD~Unification_of_Germany,154705]]"
-    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany|1871-Unification_of_Germany]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.public|1871-Unification_of_Germany.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.internal|1871-Unification_of_Germany.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.protect|1871-Unification_of_Germany.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.private|1871-Unification_of_Germany.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.personal|1871-Unification_of_Germany.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.secret|1871-Unification_of_Germany.secret]]"
+  - '[[../../../../../../WikiData/WD~Unification_of_Germany,154705]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany|1871-Unification_of_Germany]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.public|1871-Unification_of_Germany.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.internal|1871-Unification_of_Germany.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.protect|1871-Unification_of_Germany.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.private|1871-Unification_of_Germany.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.personal|1871-Unification_of_Germany.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.secret|1871-Unification_of_Germany.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../WikiData/WD~Unification_of_Germany,154705]]"
-  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany|1871-Unification_of_Germany]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.public|1871-Unification_of_Germany.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.internal|1871-Unification_of_Germany.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.protect|1871-Unification_of_Germany.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.private|1871-Unification_of_Germany.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.personal|1871-Unification_of_Germany.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.secret|1871-Unification_of_Germany.secret]]"
+- '[[../../../../../../WikiData/WD~Unification_of_Germany,154705]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany|1871-Unification_of_Germany]]'
+- '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.public|1871-Unification_of_Germany.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.internal|1871-Unification_of_Germany.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.protect|1871-Unification_of_Germany.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.private|1871-Unification_of_Germany.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.personal|1871-Unification_of_Germany.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.secret|1871-Unification_of_Germany.secret]]'
+dv_has_:
+  name_:
+    af: Unifikasie van Duitsland
+    ar: حركة توحيد ألمانيا
+    ast: Unificación alemana
+    az: Almaniyanın birləşdirilməsi (1871)
+    be: Аб'яднанне Германіі
+    be-tarask: аб’яднаньне Нямеччыны
+    bg: Обединение на Германия
+    bs: Ujedinjenje Njemačke
+    ca: unificació alemanya
+    ckb: یەکخستنی ئەڵمانیا
+    cs: sjednocení Německa
+    da: Tysklands samling 1871
+    de: Deutsche Reichsgründung
+    el: Γερμανική ενοποίηση
+    en: unification of Germany
+    eo: Unuigo de Germanio
+    es: unificación alemana
+    et: Saksamaa ühendamine
+    eu: Alemaniaren bateratzea
+    fa: یگانگی آلمان
+    fi: Saksan yhdistyminen
+    fr: Unité allemande
+    ga: Aontú na Gearmáine
+    gl: Unificación Alemá
+    he: איחוד גרמניה
+    hi: जर्मनी का एकीकरण
+    hr: Ujedinjenje Njemačke
+    hu: Németország egyesítése
+    hy: Գերմանիայի վերամիավորում
+    id: Penyatuan Jerman
+    io: Unigo di Germania
+    is: Stofnun Þýskalands
+    it: unificazione tedesca
+    ja: ドイツ統一
+    jam: Unificashan a Joermani
+    ka: გერმანიის გაერთიანება
+    ko: 독일의 통일
+    lt: Vokietijos suvienijimas
+    lv: Vācijas apvienošana
+    mk: Обединување на Германија
+    ml: ജർമ്മനിയുടെ ഏകീകരണം
+    ms: Penyatuan Jerman
+    nan: Tek-kok thóng-it
+    nb: Tysklands samling
+    ne: जर्मनीको एकीकरण
+    nl: Duitse eenwording
+    nn: Samlinga av Tyskland
+    oc: unificacion alemanda
+    or: ଜର୍ମାନୀର ଏକୀକରଣ
+    pa: ਜਰਮਨੀ ਦਾ ਏਕੀਕਰਨ
+    pl: Zjednoczenie Niemiec w latach 1866–1871
+    pnb: جرمنی دا اتحاد
+    ps: د جرمني اتحاد
+    pt: Unificação Alemã
+    ro: Unificarea Germaniei
+    ru: объединение Германии
+    sco: Unification o Germany
+    sh: Ujedinjenje Njemačke
+    sk: Zjednotenie Nemecka
+    sl: združitev Nemčije
+    sq: Bashkimi i Gjermanisë
+    sr: Уједињење Немачке 1871.
+    sr-ec: Уједињење Немачке 1871.
+    sr-el: Ujedinjenje Nemačke 1871.
+    sv: Tysklands enande
+    ta: செருமானிய ஒருங்கிணைப்பு
+    te: జర్మనీ ఏకీకరణ
+    th: การรวมชาติเยอรมัน
+    tl: Pag-iisa ng Alemanya
+    tr: Almanya'nın birleşmesi
+    uk: об'єднання Німеччини
+    ur: جرمن اتحاد
+    vi: thống nhất nước Đức
+    vro: Ütidse S'aksamaa luuminõ
+    war: Pag-urusa han Alemanya
+    wo: Bennoo gu Almaañ
+    wuu: 德意志统一
+    yue: 德意志統一
+    zh: 德意志統一
+    zh-cn: 德意志统一
+    zh-hans: 德意志统一
+    zh-hant: 德意志統一
+    zh-hk: 德意志統一
+    zh-sg: 德意志统一
+    zh-tw: 德意志統一
 ---
-
 # [[1871-Unification_of_Germany]] 
 
 #is_/same_as :: [[WD~Unification_of_Germany,154705]] 

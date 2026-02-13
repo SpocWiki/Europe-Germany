@@ -1,45 +1,160 @@
 ---
 aliases:
-  - Sueben
-  - Suebi
+- cвевы
+- Suebas
+- Suebe
+- Sueben
+- Suebi
+- Suebo
+- Sueboj
+- Suebos
+- Sueebid
+- Sueevn
+- sueus
+- Sueved
+- Sueven
+- Suevi
+- Suevos
+- Suèus
+- Suèves
+- Svebai
+- Sveber
+- Svebere
+- Svebi
+- Sveebit
+- Svevi
+- Svébi
+- Svébové
+- Swebowie
+- szvébek
+- Waswevi
+- Σουάβοι
+- Свеби
+- Свеви
+- Свевсем
+- Свевы
+- свэвы
+- סואבים
+- سوئبی
+- سوئبیها
+- سويبيون
+- სვებები
+- スエビ族
+- 苏维汇人
+- 蘇維匯人
+- 수에비
 has_id_wikidata: Q155085
 described_by_source:
-  - "[[_Standards/WikiData/WD~Commentarii_de_Bello_Gallico,106199]]"
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Die_Luten,_die_Sueven_und_die_Serben_in_der_Lausitz,19177811]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
-subclass_of: "[[_Standards/WikiData/WD~tribe,133311]]"
-country: "[[_Standards/WikiData/WD~Kingdom_of_the_Suebi,1048918]]"
-instance_of: "[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Suebian,134600275]]"
-native_language: "[[_Standards/WikiData/WD~Suebian,134600275]]"
+- '[[_Standards/WikiData/WD~Commentarii_de_Bello_Gallico,106199]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Die_Luten,_die_Sueven_und_die_Serben_in_der_Lausitz,19177811]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+subclass_of: '[[_Standards/WikiData/WD~tribe,133311]]'
+country: '[[_Standards/WikiData/WD~Kingdom_of_the_Suebi,1048918]]'
+instance_of: '[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Suebian,134600275]]'
+native_language: '[[_Standards/WikiData/WD~Suebian,134600275]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bronze%20figure%20of%20a%20German%20Biblioth%C3%A8que%20Nationale.jpg
 Commons_category: Suebi
 coordinate_location: Point(11.5 53.5)
 dv_is_:
   same_as:
-    - "[[../../../../../../WikiData/WD~Suebi,155085|WD~Suebi,155085]]"
-    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi|Suebi]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.public|Suebi.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.internal|Suebi.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.protect|Suebi.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.private|Suebi.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.personal|Suebi.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.secret|Suebi.secret]]"
+  - '[[../../../../../../WikiData/WD~Suebi,155085|WD~Suebi,155085]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi|Suebi]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.public|Suebi.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.internal|Suebi.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.protect|Suebi.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.private|Suebi.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.personal|Suebi.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.secret|Suebi.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../WikiData/WD~Suebi,155085|WD~Suebi,155085]]"
-  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi|Suebi]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.public|Suebi.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.internal|Suebi.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.protect|Suebi.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.private|Suebi.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.personal|Suebi.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.secret|Suebi.secret]]"
+- '[[../../../../../../WikiData/WD~Suebi,155085|WD~Suebi,155085]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi|Suebi]]'
+- '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.public|Suebi.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.internal|Suebi.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.protect|Suebi.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.private|Suebi.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.personal|Suebi.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Suebi.secret|Suebi.secret]]'
+dv_has_:
+  name_:
+    af: Suebe
+    an: Suebos
+    ar: سويبيون
+    ast: Suevos
+    be: Свевы
+    be-tarask: свэвы
+    bg: Свеби
+    br: Sueved
+    ca: sueus
+    cs: Svébové
+    cv: Свевсем
+    da: Sveber
+    de: Sueben
+    el: Σουάβοι
+    en: Suebi
+    eo: Sueboj
+    es: suevos
+    et: Sueebid
+    eu: Suebo
+    fa: سوئبیها
+    fi: Sveebit
+    fr: Suèves
+    frr: Sueben
+    fy: Sueven
+    gl: suevos
+    gsw: Sueben
+    he: סואבים
+    hr: Svevi
+    hu: szvébek
+    id: Suebi
+    io: Suebi
+    it: Suebi
+    ja: スエビ族
+    ka: სვებები
+    ko: 수에비
+    la: Suebi
+    lfn: Suebas
+    lt: Svebai
+    mk: Свеви
+    mwl: Suebos
+    nb: Svebere
+    nds-nl: Sueben
+    nl: Sueben
+    oc: Suèus
+    pl: Swebowie
+    pt: Suevos
+    pt-br: Suevos
+    ro: Suebi
+    ru: cвевы
+    scn: Svevi
+    sco: Suebi
+    sh: Svevi
+    sk: Svébi
+    sl: Svebi
+    sr: Свеви
+    sr-ec: Свеви
+    sr-el: Svevi
+    sv: Sveber
+    sw: Waswevi
+    tr: Suevi
+    uk: Свеви
+    ur: سوئبی
+    vi: Suebi
+    vls: Sueevn
+    wuu: 苏维汇人
+    yue: 蘇維匯人
+    zh: 苏维汇人
+    zh-cn: 苏维汇人
+    zh-hans: 苏维汇人
+    zh-hant: 蘇維匯人
+    zh-hk: 蘇維匯人
+    zh-sg: 苏维汇人
+    zh-tw: 蘇維匯人
 ---
-
 # [[Suebi]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Suebi,155085|WD~Suebi,155085]]  

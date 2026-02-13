@@ -1,118 +1,199 @@
 ---
 aliases:
-  - Thuringia
-  - Thüringen
+- Durinska
+- Durynsko
+- Durínsko
+- Döringen
+- Freistaat Thüringen
+- Thuringe
+- Thuringia
+- Thuringie
+- Thuringiya
+- Thüringe
+- Thüringen
+- Thüringen suyu
+- Tiiringä
+- Tiringija
+- Tiuringija
+- Tulinia
+- Tureng
+- Turinchia
+- Turinga
+- Turinge
+- Turingia
+- Turingija
+- Turingio
+- Turingiya
+- Turingje
+- Turinjia
+- Turinxa
+- Turinxia
+- Turinza
+- Turyngia
+- Turìngia
+- Turíngia
+- Türingen
+- Türingia
+- Türingiya
+- Türinän
+- Tüüringen
+- Tüüringi
+- Tīringene
+- Þyringaland
+- Þýringaland
+- Θουριγγία
+- Тирингија
+- Турынгія
+- Туьринген
+- Тюринг
+- Тюрингія
+- Тюринги
+- Тюрингия
+- Түрингия
+- Тӯринген
+- Цюрынгія
+- Թուրինգիա
+- Թուրինկիա
+- טורינגיע
+- תורינגיה
+- تورينجن
+- تورينغن
+- تورینقن
+- تورینګن
+- تورینگن
+- تویرینگن
+- تھورنگیا
+- ٿرينجيا
+- ठुरुंगिया
+- थ्युरिंगेन
+- টুরিঙেন
+- થુરિન્જિયા
+- துரின்ஜியா
+- తురింగియా
+- ತುರಿಂಗಿಯ
+- തുറിഞ്ചിയ
+- තුරින්ජියා
+- รัฐทือริงเงิน
+- თიურინგია
+- ቲውሪንገን
+- テューリンゲン州
+- 图林根
+- 图林根州
+- 圖林根州
+- 圖林根邦
+- 圖靈根
+- 튀링겐주
 has_id_wikidata: Q1205
 archives_at:
-  - "[[_Standards/WikiData/WD~Hauptstaatsarchiv Weimar]]"
-  - "[[_Standards/WikiData/WD~Thüringisches Staatsarchiv Gotha]]"
-  - "[[_Standards/WikiData/WD~Thüringisches Staatsarchiv Meiningen]]"
+- '[[_Standards/WikiData/WD~Hauptstaatsarchiv Weimar]]'
+- '[[_Standards/WikiData/WD~Thüringisches Staatsarchiv Gotha]]'
+- '[[_Standards/WikiData/WD~Thüringisches Staatsarchiv Meiningen]]'
 area: 16171
-award_received: "[[_Standards/WikiData/WD~BigBrotherAwards]]"
+award_received: '[[_Standards/WikiData/WD~BigBrotherAwards]]'
 BHCL_UUID:
-  - 0d03f748-859b-4566-8258-edab6523f495
-  - 2598ee24-8301-4849-8aa8-e900fcae2e23
-  - dc952329-9112-408c-bfe3-d68f402c8f65
+- 0d03f748-859b-4566-8258-edab6523f495
+- 2598ee24-8301-4849-8aa8-e900fcae2e23
+- dc952329-9112-408c-bfe3-d68f402c8f65
 budget: 13543780600
-capital: "[[_Standards/WikiData/WD~Erfurt]]"
-category_of_people_buried_here: "[[_Standards/WikiData/WD~Q19776637]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Thuringia]]"
+capital: '[[_Standards/WikiData/WD~Erfurt]]'
+category_of_people_buried_here: '[[_Standards/WikiData/WD~Q19776637]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat of arms of Thuringia]]'
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Thuringia.svg
 Commons_category: Thuringia
 Commons_gallery: Thüringen
 Confidential: public
 contact_page_URL: https://staatskanzlei-thueringen.de/wir-ueber-uns/kontakt
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Erfurt]]"
-  - "[[_Standards/WikiData/WD~Jena]]"
-  - "[[_Standards/WikiData/WD~Gera]]"
-  - "[[_Standards/WikiData/WD~Weimar]]"
-  - "[[_Standards/WikiData/WD~Eisenach]]"
-  - "[[_Standards/WikiData/WD~Nordhausen district]]"
-  - "[[_Standards/WikiData/WD~Kyffhäuserkreis]]"
-  - "[[_Standards/WikiData/WD~Eichsfeld]]"
-  - "[[_Standards/WikiData/WD~Wartburgkreis]]"
-  - "[[_Standards/WikiData/WD~Unstrut-Hainich-Kreis]]"
-  - "[[_Standards/WikiData/WD~Landkreis Sömmerda]]"
-  - "[[_Standards/WikiData/WD~Schmalkalden-Meiningen]]"
-  - "[[_Standards/WikiData/WD~Gotha]]"
-  - "[[_Standards/WikiData/WD~Sonneberg]]"
-  - "[[_Standards/WikiData/WD~Landkreis Hildburghausen]]"
-  - "[[_Standards/WikiData/WD~Ilm-Kreis]]"
-  - "[[_Standards/WikiData/WD~Weimarer Land]]"
-  - "[[_Standards/WikiData/WD~Landkreis Saalfeld-Rudolstadt]]"
-  - "[[_Standards/WikiData/WD~Saale-Orla-Kreis]]"
-  - "[[_Standards/WikiData/WD~Greiz]]"
-  - "[[_Standards/WikiData/WD~Saale-Holzland-Kreis]]"
-  - "[[_Standards/WikiData/WD~Altenburger Land]]"
-  - "[[_Standards/WikiData/WD~Suhl]]"
-continent: "[[_Standards/WikiData/WD~Europe]]"
+- '[[_Standards/WikiData/WD~Erfurt]]'
+- '[[_Standards/WikiData/WD~Jena]]'
+- '[[_Standards/WikiData/WD~Gera]]'
+- '[[_Standards/WikiData/WD~Weimar]]'
+- '[[_Standards/WikiData/WD~Eisenach]]'
+- '[[_Standards/WikiData/WD~Nordhausen district]]'
+- '[[_Standards/WikiData/WD~Kyffhäuserkreis]]'
+- '[[_Standards/WikiData/WD~Eichsfeld]]'
+- '[[_Standards/WikiData/WD~Wartburgkreis]]'
+- '[[_Standards/WikiData/WD~Unstrut-Hainich-Kreis]]'
+- '[[_Standards/WikiData/WD~Landkreis Sömmerda]]'
+- '[[_Standards/WikiData/WD~Schmalkalden-Meiningen]]'
+- '[[_Standards/WikiData/WD~Gotha]]'
+- '[[_Standards/WikiData/WD~Sonneberg]]'
+- '[[_Standards/WikiData/WD~Landkreis Hildburghausen]]'
+- '[[_Standards/WikiData/WD~Ilm-Kreis]]'
+- '[[_Standards/WikiData/WD~Weimarer Land]]'
+- '[[_Standards/WikiData/WD~Landkreis Saalfeld-Rudolstadt]]'
+- '[[_Standards/WikiData/WD~Saale-Orla-Kreis]]'
+- '[[_Standards/WikiData/WD~Greiz]]'
+- '[[_Standards/WikiData/WD~Saale-Holzland-Kreis]]'
+- '[[_Standards/WikiData/WD~Altenburger Land]]'
+- '[[_Standards/WikiData/WD~Suhl]]'
+continent: '[[_Standards/WikiData/WD~Europe]]'
 coordinate_location: Point(11.0 51.0)
-country: "[[_Standards/WikiData/WD~Germany]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Thuringia]]"
+country: '[[_Standards/WikiData/WD~Germany]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics of Thuringia]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition]]"
-  - "[[_Standards/WikiData/WD~Grosses vollständiges Universal-Lexicon Aller Wissenschafften und Künste]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia]]"
-  - "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary]]"
+- '[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary]]'
+- '[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition]]'
+- '[[_Standards/WikiData/WD~Grosses vollständiges Universal-Lexicon Aller Wissenschafften und Künste]]'
+- '[[_Standards/WikiData/WD~The Nuttall Encyclopædia]]'
+- '[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary]]'
+- '[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary]]'
 Dewey_Decimal_Classification: 2--4322
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Thuringia]]"
+economy_of_topic: '[[_Standards/WikiData/WD~economy of Thuringia]]'
 elevation_above_sea_level: 266
 email_address: mailto:poststelle@tsk.thueringen.de
 Facebook_username: FreistaatThueringen
 FIPS_10_4_countries_and_regions_: GM15
-flag: "[[_Standards/WikiData/WD~flag of Thuringia]]"
+flag: '[[_Standards/WikiData/WD~flag of Thuringia]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Thuringia.svg
-follows: "[[_Standards/WikiData/WD~Thuringia]]"
+follows: '[[_Standards/WikiData/WD~Thuringia]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Th%C3%BCringen.map
 German_regional_key: 16
 HASC:
-  - DE.TH
+- DE.TH
 has_time_started: 1990-10-03
-head_of_government: "[[_Standards/WikiData/WD~Bodo Ramelow]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Thuringian Constitutional Court]]"
-highest_point: "[[_Standards/WikiData/WD~Großer Beerberg]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Thuringia]]"
+head_of_government: '[[_Standards/WikiData/WD~Bodo Ramelow]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Thuringian Constitutional Court]]'
+highest_point: '[[_Standards/WikiData/WD~Großer Beerberg]]'
+history_of_topic: '[[_Standards/WikiData/WD~history of Thuringia]]'
 Human_Development_Index: 0.9281216
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Erfurt%20cathedral%20and%20severi%20church.jpg
 impressum_URL: https://thueringen.de/impressum
 inception: 1990-10-03
 Instagram_username: thueringen.de
 instance_of:
-  - "[[_Standards/WikiData/WD~federated state of Germany]]"
+- '[[_Standards/WikiData/WD~federated state of Germany]]'
 isDeleted: false
 ISNI: 406294046
 ISO3166_2: DE-TH
 ISO_3166_2_code: DE-TH
 language_used:
-  - "[[_Standards/WikiData/WD~Main-Franconian]]"
+- '[[_Standards/WikiData/WD~Main-Franconian]]'
 legislative_body:
-  - "[[_Standards/WikiData/WD~Landtag of Thuringia]]"
+- '[[_Standards/WikiData/WD~Landtag of Thuringia]]'
 Libris_URI: xv8b9bcg4kf5v11
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Germany]]"
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Germany]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+01:00]]"
-  - "[[_Standards/WikiData/WD~Central European Time]]"
+- '[[_Standards/WikiData/WD~UTC+01:00]]'
+- '[[_Standards/WikiData/WD~Central European Time]]'
 location:
-  - 50.8463
-  - 11.0683
+- 50.8463
+- 11.0683
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Thuringia%20in%20Germany.svg
-main_regulatory_text: "[[_Standards/WikiData/WD~Constitution of the Free State of Thuringia]]"
+main_regulatory_text: '[[_Standards/WikiData/WD~Constitution of the Free State of Thuringia]]'
 Mastodon_address: thueringen@freistaat-thueringen.social
 Mastodon_instance_URL: https://freistaat-thueringen.social
 member_of:
-  - "[[_Standards/WikiData/WD~Common Library Network]]"
+- '[[_Standards/WikiData/WD~Common Library Network]]'
 motto_text:
-  - Hier hat Zukunft Tradition
-named_after: "[[_Standards/WikiData/WD~Thuringii]]"
+- Hier hat Zukunft Tradition
+named_after: '[[_Standards/WikiData/WD~Thuringii]]'
 native_label:
-  - Freistaat Thüringen
+- Freistaat Thüringen
 NUTS_code:
-  - DEG
-  - DEG0
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Minister-President of Thuringia]]"
+- DEG
+- DEG0
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Minister-President of Thuringia]]'
 official_website: https://thueringen.de/
 OmegaWiki_Defined_Meaning: 642943
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Thuringia%20Wikivoyage%20banner.png
@@ -122,51 +203,214 @@ privacy_policy_URL: https://thueringen.de/datenschutz
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Th%C3%BCringen2.ogg
 Provenio_UUID: c5ace3b5-6ab1-4053-affe-c667cc6da64c
 replaces:
-  - "[[_Standards/WikiData/WD~Erfurt District]]"
-  - "[[_Standards/WikiData/WD~Gera District]]"
-  - "[[_Standards/WikiData/WD~Halle District]]"
-  - "[[_Standards/WikiData/WD~Leipzig District]]"
-  - "[[_Standards/WikiData/WD~Suhl District]]"
+- '[[_Standards/WikiData/WD~Erfurt District]]'
+- '[[_Standards/WikiData/WD~Gera District]]'
+- '[[_Standards/WikiData/WD~Halle District]]'
+- '[[_Standards/WikiData/WD~Leipzig District]]'
+- '[[_Standards/WikiData/WD~Suhl District]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Bavaria]]"
-  - "[[_Standards/WikiData/WD~Hesse]]"
-  - "[[_Standards/WikiData/WD~Lower Saxony]]"
-  - "[[_Standards/WikiData/WD~Saxony]]"
-  - "[[_Standards/WikiData/WD~Saxony-Anhalt]]"
-  - "[[_Standards/WikiData/WD~Lower Franconia]]"
+- '[[_Standards/WikiData/WD~Bavaria]]'
+- '[[_Standards/WikiData/WD~Hesse]]'
+- '[[_Standards/WikiData/WD~Lower Saxony]]'
+- '[[_Standards/WikiData/WD~Saxony]]'
+- '[[_Standards/WikiData/WD~Saxony-Anhalt]]'
+- '[[_Standards/WikiData/WD~Lower Franconia]]'
 SpocWebEntityId: 36026
 tags:
-  - geo/State
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal:Thuringia]]"
+- geo/State
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal:Thuringia]]'
 type: State
 X_username: thueringende
 dv_has_name: Thüringen
 dv_has_name_abbreviated: TH
 dv_is_:
   same_as:
-    - "[[../../../../../../WikiData/WD~Thuringia,1205|WD~Thuringia,1205]]"
-    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen|Thüringen]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.public|Thüringen.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.internal|Thüringen.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.protect|Thüringen.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.private|Thüringen.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.personal|Thüringen.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.secret|Thüringen.secret]]"
-dv_has_place_country: "[[../../Germany]]"
-dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/City|City]]"
+  - '[[../../../../../../WikiData/WD~Thuringia,1205|WD~Thuringia,1205]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen|Thüringen]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.public|Thüringen.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.internal|Thüringen.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.protect|Thüringen.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.private|Thüringen.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.personal|Thüringen.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.secret|Thüringen.secret]]'
+dv_has_place_country: '[[../../Germany]]'
+dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 11.0683
 dv_has_place_latitude: 50.8463
 dv_is_same_as:
-  - "[[../../../../../../WikiData/WD~Thuringia,1205|WD~Thuringia,1205]]"
-  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen|Thüringen]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.public|Thüringen.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.internal|Thüringen.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.protect|Thüringen.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.private|Thüringen.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.personal|Thüringen.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.secret|Thüringen.secret]]"
+- '[[../../../../../../WikiData/WD~Thuringia,1205|WD~Thuringia,1205]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen|Thüringen]]'
+- '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.public|Thüringen.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.internal|Thüringen.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.protect|Thüringen.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.private|Thüringen.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.personal|Thüringen.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.secret|Thüringen.secret]]'
+dv_has_:
+  name_:
+    af: Thüringen
+    am: ቲውሪንገን
+    an: Turinchia
+    ang: Þyringaland
+    ar: تورينغن
+    arz: تورينجن
+    ast: Turinxa
+    ay: Thüringen suyu
+    az: Türingiya
+    azb: تورینقن
+    ba: Тюрингия
+    ban: Thuringia
+    bar: Thüringen
+    be: Цюрынгія
+    be-tarask: Турынгія
+    bg: Тюрингия
+    bn: টুরিঙেন
+    br: Thüringen
+    bs: Tiringija
+    ca: Turíngia
+    cdo: Thüringen
+    ce: Туьринген
+    ceb: Thuringia
+    ckb: تویرینگن
+    crh: Türingiya
+    cs: Durynsko
+    cy: Thüringen
+    da: Thüringen
+    de: Thüringen
+    diq: Thuringiya
+    dsb: Durinska
+    el: Θουριγγία
+    eml: Turìngia
+    en: Thuringia
+    en-ca: Thuringia
+    en-gb: Thuringia
+    eo: Turingio
+    es: Turingia
+    et: Tüüringi
+    eu: Turingia
+    fa: تورینگن
+    fi: Thüringen
+    fr: Thuringe
+    frr: Tüüringen
+    fur: Turingje
+    fy: Türingen
+    ga: Thüringen
+    gd: Thüringen
+    gl: Turinxia
+    gn: Turingia
+    gsw: Thüringe
+    gu: થુરિન્જિયા
+    gv: Thüringen
+    hak: Thuringia
+    haw: Tulinia
+    he: תורינגיה
+    hi: ठुरुंगिया
+    hr: Tiringija
+    hsb: Durinska
+    hu: Türingia
+    hy: Թուրինգիա
+    hyw: Թուրինկիա
+    ia: Thuringia
+    id: Thuringia
+    ie: Thuringia
+    io: Turingia
+    is: Þýringaland
+    it: Turingia
+    ja: テューリンゲン州
+    jv: Thüringen
+    ka: თიურინგია
+    kg: Thüringen
+    kk: Тюрингия
+    kn: ತುರಿಂಗಿಯ
+    ko: 튀링겐주
+    ksh: Thüringe
+    ku: Thüringen
+    kw: Thüringen
+    ky: Тюрингия
+    la: Thuringia
+    lad: Turinjia
+    lb: Thüringen
+    li: Turinge
+    lij: Turingia
+    lld: Thüringen
+    lmo: Türingia
+    lt: Tiuringija
+    lv: Tīringene
+    mdf: Тюрингия
+    mg: Thüringen
+    min: Thüringen
+    mk: Тирингија
+    ml: തുറിഞ്ചിയ
+    mn: Тюринг
+    mr: थ्युरिंगेन
+    ms: Thüringen
+    mul: Thüringen
+    mzn: تورینگن
+    nah: Thüringen
+    nan: Thüringen
+    nb: Thüringen
+    nds: Döringen
+    nds-nl: Tureng
+    ne: ठुरुंगिया
+    nl: Thüringen
+    nn: Thüringen
+    nov: Turingia
+    oc: Turíngia
+    os: Тюринги
+    pam: Thuringia
+    pap: Freistaat Thüringen
+    pfl: Tiiringä
+    pl: Turyngia
+    pms: Turingia
+    pnb: تھورنگیا
+    ps: تورینګن
+    pt: Turíngia
+    pt-br: Turíngia
+    qu: Thüringen
+    rm: Turinga
+    ro: Turingia
+    ru: Тюрингия
+    sc: Turìngia
+    scn: Turingia
+    sco: Thuringie
+    sd: ٿرينجيا
+    se: Thüringen
+    sh: Tiringija
+    si: තුරින්ජියා
+    sk: Durínsko
+    sl: Turingija
+    sq: Turingia
+    sr: Тирингија
+    stq: Thüringen
+    sv: Thüringen
+    sw: Thuringia
+    ta: துரின்ஜியா
+    te: తురింగియా
+    tg: Тӯринген
+    th: รัฐทือริงเงิน
+    tl: Turingia
+    tr: Türingiya
+    tt: Түрингия
+    uk: Тюрингія
+    ur: تورینگن
+    uz: Turingiya
+    vec: Turinza
+    vi: Thüringen
+    vls: Thüringen
+    vo: Türinän
+    war: Thüringen
+    wuu: 图林根
+    xmf: თიურინგია
+    yi: טורינגיע
+    yo: Thuringia
+    yue: 圖靈根
+    zea: Thüringen
+    zh: 圖林根州
+    zh-cn: 图林根州
+    zh-hans: 图林根州
+    zh-hant: 圖林根州
+    zh-tw: 圖林根邦
 ---
-
 # [[Thüringen]] 
 
 name = `=this.dv_has_name` 

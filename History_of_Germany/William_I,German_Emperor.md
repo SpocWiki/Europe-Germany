@@ -1,93 +1,172 @@
 ---
 aliases:
-  - Wilhelm I
-  - William I
-  - William Frederick Louis
-  - Wilhelm Friedrich Ludwig
-  - William_I,German_Emperor
-  - William I,German Emperor
+- Gilen I.a Alemaniakoa
+- Guglielmo I di Germania
+- Guilherme I da Alemanha
+- Guilhèm Ier d'Alemanha
+- Guillaume Ier
+- Guillem I de Prússia
+- Guillerme I de Alemaña
+- Guillermo I de Alemania
+- Guillermu I d'Alemaña
+- Guillén I d'Alemanya
+- Gulielmus I
+- Gwilherm Iañ
+- I Vilhelm
+- I Вильгельм
+- I Вильхельм
+- I Вилһелм
+- I. Vilmos német császár
+- I. Wilhelm
+- Kaisari Wilhelm I
+- Vielm I ëd Gërmania
+- Vilgelm I
+- Vilhelm I
+- Vilhelm I av Tyskland
+- Vilhelm I Nemački
+- Vilhelmas I
+- Vilhelmo la 1-a
+- Vilhelms I Hoencollerns
+- Vilhjálmur I
+- Viliam I.
+- Vilim I., njemački car
+- Viljem I. Nemški
+- Vilém I. Pruský
+- Wilhelm 1-sè
+- Wilhelm 1. af Tyskland
+- Wilhelm 1. kongur av Preussen, týskur keisari
+- Wilhelm Friedrich Ludwig
+- Wilhelm I
+- Wilhelm I al Germaniei
+- Wilhelm I của Đức
+- Wilhelm I dari Jerman
+- Wilhelm I od Njemačke
+- Wilhelm I of Germany
+- Wilhelm I van Duitsland
+- Wilhelm I yê Almanyayê
+- Wilhelm I, Emperador han Alemanya
+- Wilhelm I, Impire na Gearmáine
+- Wilhelm I, Maharaja Jerman
+- Wilhelm I, ymerawdwr yr Almaen
+- Wilhelm I.
+- Wilhelm I. vun Däitschland
+- Wilhelm la 1ma di Germania
+- Willem I.
+- William Frederick Louis
+- William I
+- William I ng Alemanya
+- William I, German Emperor
+- William I,German Emperor
+- William_I,German_Emperor
+- Wülm I.
+- Γουλιέλμος Α΄ της Γερμανίας
+- Вільгельм I Гогенцолерн
+- Вільгельм I Гогенцоллерн
+- Вільгэльм I Гогенцолерн
+- Вилхелм I
+- Вилхелм I Немачки
+- Вильгельм I
+- Вильгельм I Гогенцоллерн
+- Վիլհելմ I Հոհենցոլեռն
+- וילהלם הראשון, קיסר גרמניה
+- بیرینجی ویلهلم ، امپراتور
+- فيلهلم الأول
+- فيلهلم الاول
+- لومړی ویلیام، جرمنی سترواک
+- ولیم I
+- ولیم اول، جرمن شہنشاہ
+- ویلهلم یکم ، امپراتور آلمان
+- ڤیلھئلم یأکوم ئمپئراتوٙر آلمان
+- विल्हेल्म पहिला
+- จักรพรรดิวิลเฮ็ล์มที่ 1 แห่งเยอรมนี
+- ვილჰელმ I
+- ヴィルヘルム1世
+- 威廉一世
+- 威廉大帝
+- 德皇威廉一世
+- 빌헬름 1세
 has_id_wikidata: Q150652
-member_of: "[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]"
-family: "[[_Standards/WikiData/WD~House_of_Hohenzollern,83969]]"
+member_of: '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
+family: '[[_Standards/WikiData/WD~House_of_Hohenzollern,83969]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Order_of_the_White_Eagle,84020]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Black_Eagle,94145]]"
-  - "[[_Standards/WikiData/WD~Order_of_St._Andrew,1126563]]"
-  - "[[_Standards/WikiData/WD~Order_of_Saint_Alexander_Nevsky,10514065]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Order_of_the_Crown_of_Italy,14865239]]"
-  - "[[_Standards/WikiData/WD~Order_of_St._George,_4th_class,14905810]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Order_of_the_Golden_Fleece,15117228]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Red_Eagle_1st_Class,18579585]]"
-  - "[[_Standards/WikiData/WD~knight_of_the_Order_of_Saints_Maurice_and_Lazarus,20080471]]"
-  - "[[_Standards/WikiData/WD~Order_of_St._Vladimir,_1st_class,27096841]]"
-military_or_police_rank: "[[_Standards/WikiData/WD~colonel_general,155327]]"
-mother: "[[_Standards/WikiData/WD~Louise_of_Mecklenburg_Strelitz,156723]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Prussian_Union_of_Churches,163202]]"
+- '[[_Standards/WikiData/WD~Order_of_the_White_Eagle,84020]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Black_Eagle,94145]]'
+- '[[_Standards/WikiData/WD~Order_of_St._Andrew,1126563]]'
+- '[[_Standards/WikiData/WD~Order_of_Saint_Alexander_Nevsky,10514065]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Order_of_the_Crown_of_Italy,14865239]]'
+- '[[_Standards/WikiData/WD~Order_of_St._George,_4th_class,14905810]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Order_of_the_Golden_Fleece,15117228]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Red_Eagle_1st_Class,18579585]]'
+- '[[_Standards/WikiData/WD~knight_of_the_Order_of_Saints_Maurice_and_Lazarus,20080471]]'
+- '[[_Standards/WikiData/WD~Order_of_St._Vladimir,_1st_class,27096841]]'
+military_or_police_rank: '[[_Standards/WikiData/WD~colonel_general,155327]]'
+mother: '[[_Standards/WikiData/WD~Louise_of_Mecklenburg_Strelitz,156723]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Prussian_Union_of_Churches,163202]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Princess_Alexandrine_of_Prussia,186549]]"
-  - "[[_Standards/WikiData/WD~Prince_Charles_of_Prussia,442587]]"
-  - "[[_Standards/WikiData/WD~Princess_Frederica_of_Prussia,75381534]]"
-  - "[[_Standards/WikiData/WD~Prince_Ferdinand_of_Prussia,75381537]]"
-  - "[[_Standards/WikiData/WD~Prince_Albert_of_Prussia,51028]]"
-  - "[[_Standards/WikiData/WD~Frederick_William_IV_of_Prussia,57180]]"
-  - "[[_Standards/WikiData/WD~Alexandra_Feodorovna,57207]]"
-  - "[[_Standards/WikiData/WD~Princess_Louise_of_Prussia,60607]]"
+- '[[_Standards/WikiData/WD~Princess_Alexandrine_of_Prussia,186549]]'
+- '[[_Standards/WikiData/WD~Prince_Charles_of_Prussia,442587]]'
+- '[[_Standards/WikiData/WD~Princess_Frederica_of_Prussia,75381534]]'
+- '[[_Standards/WikiData/WD~Prince_Ferdinand_of_Prussia,75381537]]'
+- '[[_Standards/WikiData/WD~Prince_Albert_of_Prussia,51028]]'
+- '[[_Standards/WikiData/WD~Frederick_William_IV_of_Prussia,57180]]'
+- '[[_Standards/WikiData/WD~Alexandra_Feodorovna,57207]]'
+- '[[_Standards/WikiData/WD~Princess_Louise_of_Prussia,60607]]'
 child:
-  - "[[_Standards/WikiData/WD~Princess_Louise_of_Prussia,233203]]"
-  - "[[_Standards/WikiData/WD~Frederick_III,_German_Emperor,58600]]"
+- '[[_Standards/WikiData/WD~Princess_Louise_of_Prussia,233203]]'
+- '[[_Standards/WikiData/WD~Frederick_III,_German_Emperor,58600]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Lindstedt_Castle,319513]]"
-  - "[[_Standards/WikiData/WD~Darmstadt_Madonna,455319]]"
-  - "[[_Standards/WikiData/WD~Babelsberg_Palace,702477]]"
+- '[[_Standards/WikiData/WD~Lindstedt_Castle,319513]]'
+- '[[_Standards/WikiData/WD~Darmstadt_Madonna,455319]]'
+- '[[_Standards/WikiData/WD~Babelsberg_Palace,702477]]'
 noble_title:
-  - "[[_Standards/WikiData/WD~German_Emperor,501503]]"
-  - "[[_Standards/WikiData/WD~prince,2747456]]"
-  - "[[_Standards/WikiData/WD~King_of_Prussia,3240735]]"
+- '[[_Standards/WikiData/WD~German_Emperor,501503]]'
+- '[[_Standards/WikiData/WD~prince,2747456]]'
+- '[[_Standards/WikiData/WD~King_of_Prussia,3240735]]'
 position_held:
-  - "[[_Standards/WikiData/WD~German_Emperor,501503]]"
-  - "[[_Standards/WikiData/WD~King_of_Prussia,3240735]]"
+- '[[_Standards/WikiData/WD~German_Emperor,501503]]'
+- '[[_Standards/WikiData/WD~King_of_Prussia,3240735]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]"
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-  - "[[_Standards/WikiData/WD~Q19036877,19036877]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Albert_Edelfelt's_letters,116452747]]"
-  - "[[_Standards/WikiData/WD~Q121462779,121462779]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
-place_of_burial: "[[_Standards/WikiData/WD~mausoleum_of_Charlottenburg_Park,1732343]]"
+- '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~Q19036877,19036877]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- "[[_Standards/WikiData/WD~Albert_Edelfelt's_letters,116452747]]"
+- '[[_Standards/WikiData/WD~Q121462779,121462779]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+place_of_burial: '[[_Standards/WikiData/WD~mausoleum_of_Charlottenburg_Park,1732343]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~National_Museum_of_Archeology,_History_and_Art,2585886]]"
-  - "[[_Standards/WikiData/WD~National_Museum_Paleis_het_Loo,99349995]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+- '[[_Standards/WikiData/WD~National_Museum_of_Archeology,_History_and_Art,2585886]]'
+- '[[_Standards/WikiData/WD~National_Museum_Paleis_het_Loo,99349995]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Wilhelm,11027623]]"
-  - "[[_Standards/WikiData/WD~Friedrich,14038597]]"
-  - "[[_Standards/WikiData/WD~Ludwig,14159020]]"
-social_classification: "[[_Standards/WikiData/WD~royalty,11573099]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-family_name: "[[_Standards/WikiData/WD~Q133888129,133888129]]"
+- '[[_Standards/WikiData/WD~Wilhelm,11027623]]'
+- '[[_Standards/WikiData/WD~Friedrich,14038597]]'
+- '[[_Standards/WikiData/WD~Ludwig,14159020]]'
+social_classification: '[[_Standards/WikiData/WD~royalty,11573099]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+family_name: '[[_Standards/WikiData/WD~Q133888129,133888129]]'
 date_of_death: 1888-03-09T00:00:00Z
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]"
-  - "[[_Standards/WikiData/WD~German_Empire,43287]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_death: "[[_Standards/WikiData/WD~Berlin,64]]"
-place_of_birth: "[[_Standards/WikiData/WD~Berlin,64]]"
-occupation: "[[_Standards/WikiData/WD~monarch,116]]"
-writing_language: "[[_Standards/WikiData/WD~German,188]]"
-father: "[[_Standards/WikiData/WD~Frederick_William_III_of_Prussia,37134]]"
-spouse: "[[_Standards/WikiData/WD~Augusta_of_Saxe_Weimar_Eisenach,57541]]"
-unmarried_partner: "[[_Standards/WikiData/WD~Elisa_Radziwill,62274]]"
+- '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
+- '[[_Standards/WikiData/WD~German_Empire,43287]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_death: '[[_Standards/WikiData/WD~Berlin,64]]'
+place_of_birth: '[[_Standards/WikiData/WD~Berlin,64]]'
+occupation: '[[_Standards/WikiData/WD~monarch,116]]'
+writing_language: '[[_Standards/WikiData/WD~German,188]]'
+father: '[[_Standards/WikiData/WD~Frederick_William_III_of_Prussia,37134]]'
+spouse: '[[_Standards/WikiData/WD~Augusta_of_Saxe_Weimar_Eisenach,57541]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Elisa_Radziwill,62274]]'
 BHCL_UUID: de3a289e-efda-4e3a-837c-cfd231156e18
 birth_name: Wilhelm Friedrich Ludwig von Preußen
 date_of_birth: 1797-03-22T00:00:00Z
@@ -106,25 +185,124 @@ Commons_category: Wilhelm I of Germany
 Commons_gallery: Wilhelm I., Deutscher Kaiser
 dv_is_:
   same_as:
-    - "[[../../../../../../WikiData/WD~William_I,_German_Emperor,150652|WD~William_I,_German_Emperor,150652]]"
-    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor|William_I,German_Emperor]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.public|William_I,German_Emperor.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.internal|William_I,German_Emperor.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.protect|William_I,German_Emperor.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.private|William_I,German_Emperor.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.personal|William_I,German_Emperor.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.secret|William_I,German_Emperor.secret]]"
+  - '[[../../../../../../WikiData/WD~William_I,_German_Emperor,150652|WD~William_I,_German_Emperor,150652]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor|William_I,German_Emperor]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.public|William_I,German_Emperor.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.internal|William_I,German_Emperor.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.protect|William_I,German_Emperor.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.private|William_I,German_Emperor.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.personal|William_I,German_Emperor.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.secret|William_I,German_Emperor.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../WikiData/WD~William_I,_German_Emperor,150652|WD~William_I,_German_Emperor,150652]]"
-  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor|William_I,German_Emperor]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.public|William_I,German_Emperor.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.internal|William_I,German_Emperor.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.protect|William_I,German_Emperor.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.private|William_I,German_Emperor.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.personal|William_I,German_Emperor.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.secret|William_I,German_Emperor.secret]]"
+- '[[../../../../../../WikiData/WD~William_I,_German_Emperor,150652|WD~William_I,_German_Emperor,150652]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor|William_I,German_Emperor]]'
+- '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.public|William_I,German_Emperor.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.internal|William_I,German_Emperor.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.protect|William_I,German_Emperor.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.private|William_I,German_Emperor.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.personal|William_I,German_Emperor.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/William_I,German_Emperor.secret|William_I,German_Emperor.secret]]'
+dv_has_:
+  name_:
+    af: Wilhelm I van Duitsland
+    an: Guillén I d'Alemanya
+    ar: فيلهلم الأول
+    arz: فيلهلم الاول
+    ast: Guillermu I d'Alemaña
+    az: I Vilhelm
+    azb: بیرینجی ویلهلم ، امپراتور
+    be: Вільгельм I Гогенцолерн
+    be-tarask: Вільгэльм I Гогенцолерн
+    bg: Вилхелм I
+    br: Gwilherm Iañ
+    ca: Guillem I de Prússia
+    cs: Vilém I. Pruský
+    cy: Wilhelm I, ymerawdwr yr Almaen
+    da: Wilhelm 1. af Tyskland
+    de: Wilhelm I.
+    de-ch: Wilhelm I.
+    el: Γουλιέλμος Α΄ της Γερμανίας
+    en: Wilhelm I
+    eo: Vilhelmo la 1-a
+    es: Guillermo I de Alemania
+    et: Wilhelm I
+    eu: Gilen I.a Alemaniakoa
+    fa: ویلهلم یکم ، امپراتور آلمان
+    fi: Vilhelm I
+    fo: Wilhelm 1. kongur av Preussen, týskur keisari
+    fr: Guillaume Ier
+    frr: Wilhelm I.
+    ga: Wilhelm I, Impire na Gearmáine
+    gl: Guillerme I de Alemaña
+    he: וילהלם הראשון, קיסר גרמניה
+    hr: Vilim I., njemački car
+    hu: I. Vilmos német császár
+    hy: Վիլհելմ I Հոհենցոլեռն
+    id: Wilhelm I dari Jerman
+    io: Wilhelm la 1ma di Germania
+    is: Vilhjálmur I
+    it: Guglielmo I di Germania
+    ja: ヴィルヘルム1世
+    ka: ვილჰელმ I
+    kk: I Вильгельм
+    ko: 빌헬름 1세
+    ku: Wilhelm I yê Almanyayê
+    ku-latn: Wilhelm I yê Almanyayê
+    ky: Вильгельм I Гогенцоллерн
+    la: Gulielmus I
+    lb: Wilhelm I. vun Däitschland
+    lrc: ڤیلھئلم یأکوم ئمپئراتوٙر آلمان
+    lt: Vilhelmas I
+    lv: Vilhelms I Hoencollerns
+    mg: William I
+    mk: Вилхелм I
+    mn: I Вильхельм
+    mr: विल्हेल्म पहिला
+    ms: Wilhelm I, Maharaja Jerman
+    nan: Wilhelm 1-sè
+    nb: Vilhelm I av Tyskland
+    nds: Willem I.
+    nl: Wilhelm I van Duitsland
+    nn: Vilhelm I av Tyskland
+    oc: Guilhèm Ier d'Alemanha
+    pl: Wilhelm I
+    pms: Vielm I ëd Gërmania
+    pnb: ولیم I
+    ps: لومړی ویلیام، جرمنی سترواک
+    pt: Guilherme I da Alemanha
+    pt-br: Guilherme I da Alemanha
+    ro: Wilhelm I al Germaniei
+    ru: Вильгельм I
+    sco: William I, German Emperor
+    sh: Wilhelm I od Njemačke
+    sk: Viliam I.
+    sl: Viljem I. Nemški
+    sq: Wilhelm I of Germany
+    sr: Вилхелм I Немачки
+    sr-ec: Вилхелм I Немачки
+    sr-el: Vilhelm I Nemački
+    stq: Wülm I.
+    sv: Vilhelm I av Tyskland
+    sw: Kaisari Wilhelm I
+    th: จักรพรรดิวิลเฮ็ล์มที่ 1 แห่งเยอรมนี
+    tl: William I ng Alemanya
+    tr: I. Wilhelm
+    tt: I Вилһелм
+    uk: Вільгельм I Гогенцоллерн
+    ur: ولیم اول، جرمن شہنشاہ
+    uz: Vilgelm I
+    vi: Wilhelm I của Đức
+    war: Wilhelm I, Emperador han Alemanya
+    wuu: 德皇威廉一世
+    yue: 威廉大帝
+    zh: 威廉一世
+    zh-cn: 威廉一世
+    zh-hans: 威廉一世
+    zh-hant: 威廉一世
+    zh-hk: 威廉一世
+    zh-sg: 威廉一世
+    zh-tw: 威廉一世
 ---
-
 # [[William_I,German_Emperor]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~William_I,_German_Emperor,150652|WD~William_I,_German_Emperor,150652]]  

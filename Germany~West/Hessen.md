@@ -1,47 +1,103 @@
 ---
 aliases:
-  - Hesse
-  - Hessen
+- Assia
+- Assie
+- ba
+- Essen
+- Gessen
+- Hassia
+- Hesenas
+- Hesene
+- Hesensko
+- Hesia
+- Hesio
+- Hesja
+- Hesse
+- Hessen
+- Hessen suyu
+- Hessenska
+- Hesseńska
+- Hessn
+- Hessä
+- Hesän
+- Hetwaraland
+- Héssɛnɛ́
+- Àsia
+- Àssia
+- Èssa
+- Έσση
+- Гессен
+- Гесэн
+- Гэссэн
+- Гэсэн
+- Хесен
+- Хессен
+- Ҳессен
+- Һессен
+- Հեսսեն
+- הסן
+- העסע
+- هسن
+- هيسين
+- ھيسن
+- ھێسن
+- ہیسے
+- हेसे
+- हेसेन
+- হেসেন
+- ਹੈੱਸਨ
+- હેસે
+- கெஸ்சன்
+- హెస్
+- ಹೆಸ್ಸೆ
+- හෙසේ
+- รัฐเฮ็สเซิน
+- ჰესენი
+- ሄሠ
+- ヘッセン州
+- 黑森
+- 黑森州
+- 헤센주
 has_id_wikidata: Q1199
-archives_at: "[[_Standards/WikiData/WD~Hessisches Hauptstaatsarchiv]]"
+archives_at: '[[_Standards/WikiData/WD~Hessisches Hauptstaatsarchiv]]'
 area: 21100
 BHCL_UUID:
-  - 9de2273d-0fc9-4042-87d0-ace3c22fd703
+- 9de2273d-0fc9-4042-87d0-ace3c22fd703
 budget: 48053957900
-capital: "[[_Standards/WikiData/WD~Wiesbaden]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Hesse]]"
+capital: '[[_Standards/WikiData/WD~Wiesbaden]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat of arms of Hesse]]'
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Hesse.svg
 Commons_category: Hesse
 Commons_gallery: Hessen
 Confidential: public
 contact_page_URL: https://hessen.de/kontakt
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Giessen Government Region]]"
-  - "[[_Standards/WikiData/WD~Kassel Government Region]]"
-  - "[[_Standards/WikiData/WD~Darmstadt Government Region]]"
+- '[[_Standards/WikiData/WD~Giessen Government Region]]'
+- '[[_Standards/WikiData/WD~Kassel Government Region]]'
+- '[[_Standards/WikiData/WD~Darmstadt Government Region]]'
 coordinate_location: Point(9.028472222 50.608027777)
-country: "[[_Standards/WikiData/WD~Germany]]"
+country: '[[_Standards/WikiData/WD~Germany]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition]]"
-  - "[[_Standards/WikiData/WD~Svensk uppslagsbok]]"
-  - "[[_Standards/WikiData/WD~Topographia Hassiae]]"
-  - "[[_Standards/WikiData/WD~Q105740947]]"
+- '[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition]]'
+- '[[_Standards/WikiData/WD~Svensk uppslagsbok]]'
+- '[[_Standards/WikiData/WD~Topographia Hassiae]]'
+- '[[_Standards/WikiData/WD~Q105740947]]'
 Dewey_Decimal_Classification: 2--4341
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Hesse]]"
+economy_of_topic: '[[_Standards/WikiData/WD~economy of Hesse]]'
 elevation_above_sea_level: 264
 Facebook_username: hessen.de
 FIPS_10_4_countries_and_regions_: GM05
-flag: "[[_Standards/WikiData/WD~flag of Hesse]]"
+flag: '[[_Standards/WikiData/WD~flag of Hesse]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hesse.svg
 geoshape: http://commons.wikimedia.org/data/main/Data:Hessen.map
 German_regional_key: 6
 HASC:
-  - DE.HE
+- DE.HE
 has_time_started: 1945-09-19
-head_of_government: "[[_Standards/WikiData/WD~Boris Rhein]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Constitutional Court of the State of Hesse]]"
-highest_point: "[[_Standards/WikiData/WD~Wasserkuppe]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Hesse]]"
+head_of_government: '[[_Standards/WikiData/WD~Boris Rhein]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Constitutional Court of the State of Hesse]]'
+highest_point: '[[_Standards/WikiData/WD~Wasserkuppe]]'
+history_of_topic: '[[_Standards/WikiData/WD~history of Hesse]]'
 icon: Flag_of_Hesse
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wiesbaden%20Landtag%20Hessen%20im%20Stadtschlo%C3%9F%20Wiesbaden%20am%20Schlo%C3%9Fplatz%20-%20Foto%20Wolfgang%20Pehlemann%20Wiesbaden%20DSCN1417.jpg
 Image_Archive_Herder_Institute: Q1199
@@ -49,55 +105,55 @@ impressum_URL: https://hessen.de/impressum
 inception: 1945-09-19
 Instagram_username: regierunghessen
 instance_of:
-  - "[[_Standards/WikiData/WD~federated state of Germany]]"
+- '[[_Standards/WikiData/WD~federated state of Germany]]'
 isDeleted: false
 ISNI: 123591171
 ISO3166_2: DE-HE
 ISO_3166_2_code: DE-HE
 legislative_body:
-  - "[[_Standards/WikiData/WD~Landtag of Hesse]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Germany]]"
+- '[[_Standards/WikiData/WD~Landtag of Hesse]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Germany]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+01:00]]"
-  - "[[_Standards/WikiData/WD~UTC+02:00]]"
+- '[[_Standards/WikiData/WD~UTC+01:00]]'
+- '[[_Standards/WikiData/WD~UTC+02:00]]'
 location:
-  - 50.4897
-  - 8.8478
+- 50.4897
+- 8.8478
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Hesse%20in%20Germany.svg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Hessische%20Landesregierung.svg
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~Q59078454]]"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q59078454]]'
 Mastodon_address: landesregierung@social.hessen.de
 Mastodon_instance_URL: https://social.hessen.de
-named_after: "[[_Standards/WikiData/WD~Chatti]]"
+named_after: '[[_Standards/WikiData/WD~Chatti]]'
 native_label:
-  - Hessen
+- Hessen
 NUTS_code: DE7
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Minister-President of Hesse]]"
-official_language: "[[_Standards/WikiData/WD~German]]"
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Minister-President of Hesse]]'
+official_language: '[[_Standards/WikiData/WD~German]]'
 official_name: Hessen
 official_website: https://hessen.de/
 OmegaWiki_Defined_Meaning: 414556
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wiesbaden%20banner%20Bowling-Green%20Panorama%20Nacht.jpg
 population: 6265809
 privacy_policy_URL: https://hessen.de/datenschutz
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Greater Hesse]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Greater Hesse]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Bavaria]]"
-  - "[[_Standards/WikiData/WD~Baden-Württemberg]]"
-  - "[[../../../../../../WikiData/WD~North_Rhine-Westphalia,1198]]"
-  - "[[_Standards/WikiData/WD~Lower Saxony]]"
-  - "[[_Standards/WikiData/WD~Rhineland-Palatinate]]"
-  - "[[_Standards/WikiData/WD~Thuringia]]"
+- '[[_Standards/WikiData/WD~Bavaria]]'
+- '[[_Standards/WikiData/WD~Baden-Württemberg]]'
+- '[[../../../../../../WikiData/WD~North_Rhine-Westphalia,1198]]'
+- '[[_Standards/WikiData/WD~Lower Saxony]]'
+- '[[_Standards/WikiData/WD~Rhineland-Palatinate]]'
+- '[[_Standards/WikiData/WD~Thuringia]]'
 social_media_followers: 502
 SpocWebEntityId: 36017
 subreddit:
-  - hessen
+- hessen
 tags:
-  - geo/State
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal:Hesse]]"
+- geo/State
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal:Hesse]]'
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Emilia-Romagna]]"
-  - "[[_Standards/WikiData/WD~Wisconsin]]"
+- '[[_Standards/WikiData/WD~Emilia-Romagna]]'
+- '[[_Standards/WikiData/WD~Wisconsin]]'
 type: State
 U_S_National_Archives_Identifier: 10044796
 X_username: reghessen
@@ -106,29 +162,207 @@ dv_has_name: Hessen
 dv_has_name_abbreviated: HN
 dv_is_:
   same_as:
-    - "[[../../../../../../WikiData/WD~Hesse,1199|WD~Hesse,1199]]"
-    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen|Hessen]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.public|Hessen.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.internal|Hessen.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.protect|Hessen.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.private|Hessen.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.personal|Hessen.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.secret|Hessen.secret]]"
-dv_has_place_country: "[[../../Germany]]"
-dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/City|City]]"
+  - '[[../../../../../../WikiData/WD~Hesse,1199|WD~Hesse,1199]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen|Hessen]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.public|Hessen.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.internal|Hessen.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.protect|Hessen.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.private|Hessen.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.personal|Hessen.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.secret|Hessen.secret]]'
+dv_has_place_country: '[[../../Germany]]'
+dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 8.8478
 dv_has_place_latitude: 50.4897
 dv_is_same_as:
-  - "[[../../../../../../WikiData/WD~Hesse,1199|WD~Hesse,1199]]"
-  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen|Hessen]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.public|Hessen.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.internal|Hessen.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.protect|Hessen.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.private|Hessen.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.personal|Hessen.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.secret|Hessen.secret]]"
+- '[[../../../../../../WikiData/WD~Hesse,1199|WD~Hesse,1199]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen|Hessen]]'
+- '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.public|Hessen.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.internal|Hessen.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.protect|Hessen.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.private|Hessen.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.personal|Hessen.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.secret|Hessen.secret]]'
+dv_has_:
+  name_:
+    af: Hesse
+    am: ሄሠ
+    an: Hesse
+    ang: Hetwaraland
+    ar: هسن
+    arz: هيسين
+    ast: Hesse
+    ay: Hessen suyu
+    az: Hessen
+    azb: هسن
+    ba: ba
+    ban: Hesse
+    bar: Hessn
+    be: Гесэн
+    be-tarask: Гэсэн
+    bg: Хесен
+    bn: হেসেন
+    br: Hessen
+    bs: Hessen
+    ca: Hessen
+    cdo: Hessen
+    ce: Гессен
+    ceb: Hessen
+    ckb: ھێسن
+    co: Assia
+    crh: Gessen
+    cs: Hesensko
+    cv: Гессен
+    cy: Hessen
+    da: Hessen
+    dag: Hesse
+    de: Hessen
+    diq: Hessen
+    dsb: Hesseńska
+    el: Έσση
+    eml: Àsia
+    en: Hesse
+    en-ca: Hesse
+    en-gb: Hesse
+    en-us: Hesse
+    eo: Hesio
+    es: Hesse
+    et: Hessen
+    eu: Hessen
+    fa: هسن
+    fi: Hessen
+    fo: Hessen
+    fr: Hesse
+    frp: Hesse
+    frr: Hessen
+    fur: Assie
+    fy: Hessen
+    ga: Hessen
+    gd: Hessen
+    gl: Hessen
+    gn: Hesse
+    gsw: Hesse
+    gu: હેસે
+    gv: Hessen
+    hak: Hesse
+    he: הסן
+    hi: हेसे
+    hr: Hessen
+    hsb: Hessenska
+    hu: Hessen
+    hy: Հեսսեն
+    hyw: Հեսսեն
+    ia: Hessen
+    id: Hesse
+    ie: Hesse
+    ilo: Hesse
+    io: Hesia
+    is: Hessen
+    it: Assia
+    ja: ヘッセン州
+    jv: Hessen
+    ka: ჰესენი
+    kg: Hessen
+    kk: Гессен
+    kn: ಹೆಸ್ಸೆ
+    ko: 헤센주
+    ksh: Hessen
+    ku: Hessen
+    kw: Hesse
+    ky: Гессен
+    la: Hassia
+    lad: Hesse
+    lb: Hessen
+    li: Hesse
+    lij: Assia
+    lld: Hessen
+    lmo: Assia
+    ln: Héssɛnɛ́
+    lt: Hesenas
+    lv: Hesene
+    lzh: 黑森
+    mdf: Гэссэн
+    mg: Hessen
+    mk: Хесен
+    mn: Хессен
+    mr: हेसेन
+    ms: Hesse
+    mzn: هسن
+    nah: Hessen
+    nan: Hessen
+    nap: Assia
+    nb: Hessen
+    nds: Hessen
+    nds-nl: Hessen
+    ne: हेसे
+    nl: Hessen
+    nn: Hessen
+    nov: Hesia
+    nrm: Hesse
+    oc: Èssa
+    os: Гессен
+    pa: ਹੈੱਸਨ
+    pam: Hesse
+    pap: Hessen
+    pdc: Hesse
+    pfl: Hesse
+    pl: Hesja
+    pms: Assia
+    pnb: ہیسے
+    ps: هسن
+    pt: Hesse
+    pt-br: Hesse
+    qu: Hessen
+    rm: Hessen
+    ro: Hessen
+    ru: Гессен
+    sc: Àssia
+    scn: Hessen
+    sco: Hesse
+    sd: ھيسن
+    se: Hessen
+    sh: Hessen
+    si: හෙසේ
+    sk: Hesensko
+    sl: Hessen
+    sq: Hesia
+    sr: Хесен
+    stq: Hessen
+    sv: Hessen
+    sw: Hesse
+    ta: கெஸ்சன்
+    te: హెస్
+    tg: Ҳессен
+    th: รัฐเฮ็สเซิน
+    tk: Hessen
+    tl: Hesse
+    tly: Hessen
+    tr: Hessen
+    tt: Һессен
+    uk: Гессен
+    ur: ہیسے
+    uz: Hessen
+    vec: Àsia
+    vi: Hessen
+    vls: Essen
+    vmf: Hessä
+    vo: Hesän
+    war: Hessen
+    wuu: 黑森州
+    yi: העסע
+    yo: Hesse
+    yue: 黑森
+    zea: Hessen
+    zh: 黑森州
+    zh-cn: 黑森州
+    zh-hans: 黑森州
+    zh-hant: 黑森州
+    zh-hk: 黑森州
+    zh-mo: 黑森
+    zh-my: 黑森
+    zh-sg: 黑森州
+    zh-tw: 黑森
 ---
-
 # [[Hessen]] 
 
 name = `=this.dv_has_name` 

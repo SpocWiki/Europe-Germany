@@ -1,46 +1,164 @@
 ---
 aliases:
-  - Görlitz-city
+- Gerlica
+- Giorlicas
+- Gorlicium Germaniae
+- Gorlitz
+- Görlitz
+- Görlitz (kapital sa distrito)
+- Görlitz (Stää)
+- Görlitz-city
+- Zgórjelc
+- Zhorjelc
+- Zhořelec
+- Γκέρλιτς
+- Гёрліц
+- Гёрлиц
+- Герліц
+- Герлиц
+- Гоьрлиц
+- Гьорлиц
+- Гөрлиц
+- Գյորլից
+- גרליץ
+- غورليتس
+- قرلیتز
+- گرلتس
+- گرلیتس
+- گورلٹز
+- გიორლიცი
+- ゲルリッツ
+- 哥利茲
+- 格尔利茨
+- 괴를리츠
 confidential: public
 isDeleted: false
 location:
-  - 51.15
-  - 14.98
+- 51.15
+- 14.98
 mapmarker: city
 mapzoom:
-  - 7
-  - 12
+- 7
+- 12
 SpocWebEntityId: 30672
 tags:
-  - geo/City
+- geo/City
 type: City
-dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../../../../../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 14.98
 dv_has_place_latitude: 51.15
 dv_has_name: Görlitz
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../Sachsen]]"
+dv_has_place_country: '[[../../../../../../Germany]]'
+dv_has_place_province: '[[../../../../Sachsen]]'
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../../WikiData/WD~Görlitz|WD~Görlitz]]"
-    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city|Görlitz-city]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.public|Görlitz-city.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.internal|Görlitz-city.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.protect|Görlitz-city.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.private|Görlitz-city.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.personal|Görlitz-city.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.secret|Görlitz-city.secret]]"
+  - '[[../../../../../../../../../../WikiData/WD~Görlitz|WD~Görlitz]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city|Görlitz-city]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.public|Görlitz-city.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.internal|Görlitz-city.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.protect|Görlitz-city.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.private|Görlitz-city.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.personal|Görlitz-city.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.secret|Görlitz-city.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../../WikiData/WD~Görlitz|WD~Görlitz]]"
-  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city|Görlitz-city]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.public|Görlitz-city.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.internal|Görlitz-city.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.protect|Görlitz-city.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.private|Görlitz-city.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.personal|Görlitz-city.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.secret|Görlitz-city.secret]]"
+- '[[../../../../../../../../../../WikiData/WD~Görlitz|WD~Görlitz]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city|Görlitz-city]]'
+- '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.public|Görlitz-city.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.internal|Görlitz-city.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.protect|Görlitz-city.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.private|Görlitz-city.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.personal|Görlitz-city.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Görlitz/cities~Görlitz/Görlitz-city.secret|Görlitz-city.secret]]'
+has_id_wikidata: Q4077
+dv_has_:
+  name_:
+    af: Görlitz
+    an: Görlitz
+    ar: غورليتس
+    azb: قرلیتز
+    ba: Гёрлиц
+    be: Гёрліц
+    be-tarask: Гёрліц
+    bg: Гьорлиц
+    br: Görlitz
+    ca: Görlitz
+    ce: Гоьрлиц
+    ceb: Görlitz (kapital sa distrito)
+    cs: Zhořelec
+    cy: Görlitz
+    da: Görlitz
+    de: Görlitz
+    de-ch: Görlitz
+    dsb: Zgórjelc
+    el: Γκέρλιτς
+    en: Görlitz
+    en-ca: Görlitz
+    en-gb: Görlitz
+    eo: Görlitz
+    es: Görlitz
+    et: Görlitz
+    eu: Görlitz
+    fa: گرلیتس
+    fi: Görlitz
+    fr: Görlitz
+    frr: Görlitz (Stää)
+    fy: Görlitz
+    ga: Görlitz
+    hak: Görlitz
+    he: גרליץ
+    hsb: Zhorjelc
+    hu: Görlitz
+    hy: Գյորլից
+    id: Görlitz
+    io: Görlitz
+    it: Görlitz
+    ja: ゲルリッツ
+    jv: Görlitz
+    ka: გიორლიცი
+    kk: Гёрлиц
+    ko: 괴를리츠
+    ku: Görlitz
+    ky: Гөрлиц
+    la: Gorlicium Germaniae
+    lb: Görlitz
+    lld: Görlitz
+    lt: Giorlicas
+    lv: Gerlica
+    mg: Görlitz
+    mk: Герлиц
+    ms: Gorlitz
+    nb: Görlitz
+    nl: Görlitz
+    nn: Görlitz
+    oc: Görlitz
+    pl: Görlitz
+    pms: Görlitz
+    pnb: گورلٹز
+    pt: Görlitz
+    pt-br: Görlitz
+    ro: Görlitz
+    ru: Гёрлиц
+    sco: Görlitz
+    sh: Görlitz
+    sk: Görlitz
+    sl: Görlitz
+    sr: Герлиц
+    sv: Görlitz
+    szl: Görlitz
+    tr: Görlitz
+    tt: Гөрлиц
+    tum: Görlitz
+    uk: Герліц
+    ur: گرلتس
+    uz: Görlitz
+    vi: Görlitz
+    vo: Görlitz
+    war: Görlitz
+    wuu: 格尔利茨
+    yue: 哥利茲
+    zh: 格尔利茨
+    zh-hant: 哥利茲
 ---
-
 ## [[Görlitz-city]] 
 
 

@@ -1,26 +1,112 @@
 ---
 aliases:
-  - Berlin_S-Bahn
-  - S-Bahn,Berlin
+- Berliini linnaraudtee
+- Berliinin S-Bahn
+- Berlin S-Bahn
+- Berlingo S-Bahn
+- Berlini S-Bahn
+- Berlins forstadsbaner
+- Berlins pendeltåg
+- Berlins S-Bahn
+- Berlinski S-voz
+- Berlin_S-Bahn
+- Berlínska rýchlodráha
+- Berlīnes pilsētas elektrovilciens
+- Ferovia velosa urbana de Berlin
+- S-Bahn Berlin
+- S-Bahn de Berlin
+- S-Bahn de Berlino
+- S-Bahn de Berlín
+- S-Bahn di Berlin
+- S-Bahn di Berlino
+- S-Bahn v Berlíně
+- S-Bahn van Berlijn
+- S-Bahn w Berlinie
+- S-Bahn,Berlin
+- S-Bahn-Berlin
+- Προαστιακός σιδηρόδρομος Βερολίνου
+- Берлінская гарадская электрычка
+- Берлінська міська електричка
+- Берлинска приградска железница
+- Берлинская городская электричка
+- הרכבת המהירה של ברלין
+- برلن ایس-بان
+- برلين إس باهن
+- قطار شهری برلین
+- বার্লিন এস-বান
+- รถไฟเร็วเขตเมืองเบอร์ลิน
+- ベルリンSバーン
+- 柏林S-Bahn
+- 柏林城市快鐵
+- 베를린 S반
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin|S-Bahn,Berlin]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin.public|S-Bahn,Berlin.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin.internal|S-Bahn,Berlin.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin.protect|S-Bahn,Berlin.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin.private|S-Bahn,Berlin.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin.personal|S-Bahn,Berlin.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin.secret|S-Bahn,Berlin.secret]]"
+  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin|S-Bahn,Berlin]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin.public|S-Bahn,Berlin.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin.internal|S-Bahn,Berlin.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin.protect|S-Bahn,Berlin.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin.private|S-Bahn,Berlin.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin.personal|S-Bahn,Berlin.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin.secret|S-Bahn,Berlin.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin|S-Bahn,Berlin]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin.public|S-Bahn,Berlin.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin.internal|S-Bahn,Berlin.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin.protect|S-Bahn,Berlin.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin.private|S-Bahn,Berlin.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin.personal|S-Bahn,Berlin.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin.secret|S-Bahn,Berlin.secret]]"
+- '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin|S-Bahn,Berlin]]'
+- '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin.public|S-Bahn,Berlin.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin.internal|S-Bahn,Berlin.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin.protect|S-Bahn,Berlin.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin.private|S-Bahn,Berlin.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin.personal|S-Bahn,Berlin.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/S-Bahn,Berlin.secret|S-Bahn,Berlin.secret]]'
+has_id_wikidata: Q99654
+dv_has_:
+  name_:
+    ar: برلين إس باهن
+    be: Берлінская гарадская электрычка
+    bn: বার্লিন এস-বান
+    ca: S-Bahn de Berlín
+    cs: S-Bahn v Berlíně
+    da: Berlins S-Bahn
+    de: S-Bahn Berlin
+    de-ch: S-Bahn Berlin
+    el: Προαστιακός σιδηρόδρομος Βερολίνου
+    en: Berlin S-Bahn
+    en-ca: Berlin S-Bahn
+    en-gb: Berlin S-Bahn
+    eo: S-Bahn de Berlino
+    es: S-Bahn de Berlín
+    et: Berliini linnaraudtee
+    eu: Berlingo S-Bahn
+    fa: قطار شهری برلین
+    fi: Berliinin S-Bahn
+    fr: S-Bahn de Berlin
+    he: הרכבת המהירה של ברלין
+    hr: S-Bahn Berlin
+    hu: Berlini S-Bahn
+    id: Berlin S-Bahn
+    ie: S-Bahn Berlin
+    io: S-Bahn di Berlin
+    it: S-Bahn di Berlino
+    ja: ベルリンSバーン
+    ko: 베를린 S반
+    lmo: Ferovia velosa urbana de Berlin
+    lv: Berlīnes pilsētas elektrovilciens
+    mul: S-Bahn Berlin
+    nb: Berlins forstadsbaner
+    nl: S-Bahn van Berlijn
+    pl: S-Bahn w Berlinie
+    pt: S-Bahn-Berlin
+    pt-br: S-Bahn-Berlin
+    ru: Берлинская городская электричка
+    sh: Berlinski S-voz
+    sk: Berlínska rýchlodráha
+    sr: Берлинска приградска железница
+    sv: Berlins pendeltåg
+    th: รถไฟเร็วเขตเมืองเบอร์ลิน
+    tr: Berlin S-Bahn
+    uk: Берлінська міська електричка
+    ur: برلن ایس-بان
+    zh: 柏林城市快鐵
+    zh-hant: 柏林S-Bahn
 ---
-
 ## #has_/text_of_/abstract  
 
 > The Berlin S-Bahn (German: [ˈɛs baːn]) is a rapid transit railway system in and around Berlin, 

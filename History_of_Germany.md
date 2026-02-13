@@ -1,43 +1,227 @@
 ---
 Commons_category: History of Germany
-Dewey_Decimal_Classification: "943"
+Dewey_Decimal_Classification: 943
 aliases:
+- Alemaniako historia
+- Almaniya tarixi
+- Almanya tarihi
+- dejiny Nemecka
+- Duiskka historjá
+- dějiny Německa
+- Geschichte Deutschlands
+- geschiedenis van Duitsland
+- Hanes yr Almaen
+- histoire de l'Allemagne
+- Historia d'Alemaña
+- historia de Alemania
+- historia de Alemaña
+- Historia de Germania
+- Historia e Gjermanisë
+- historia Germaniae
+- historia Niemiec
+- Historia ya Ujerumani
+- Historie de Germania
+- Historija Njemačke
+- historio de Germanio
+- Historio di Germania
+- history of Germany
+- història d'Alemanya
+- história da Alemanha
+- Istor Alamagn
+- Istoria de Deutxland
+- istoria Germaniei
+- Istorija Nemačke
+- istòria de ła Zermània
+- lịch sử Đức
+- Németország történelme
+- Povijest Njemačke
+- Saksa historjá
+- Saksamaa ajalugu
+- Saksan historia
+- Saksslajânnam historia
+- Sejarah Jerman
+- Sijarah Jerman
+- Skiednis fan Dútslân
+- stair na Gearmáine
+- stawizny Němskeje
+- storia della Germania
+- Søga Týsklands
+- Ta'rixi Olmon
+- Tantaran'ny Alemaina
+- Tarihin Kasar Jamus
+- Tarixê Almanya
+- Tlahtōllōtl Teutontlālpan
+- Tysk historie
+- Tysklands historia
+- tysklands historie
+- Vokietijos istorija
+- Vācijas vēsture
+- zgodovina Nemčije
+- Γερμανική ιστορία
+- історія Німеччини
+- Алмания тарихы
+- гісторыя Германіі
+- гісторыя Нямеччыны
+- Германи историйĕ
+- Германия тарихы
+- Германы түүх
+- Историја на Германија
+- историја Немачке
+- история Германии
+- История на Германия
+- Таърихи Олмон
+- Գերմանիայի պատմություն
+- היסטאריע פון דייטשלאנד
+- היסטוריה של גרמניה
+- تاريخ ألمانيا
+- تاريخ المانيا
+- تاریخ آلمان
+- د جرمني تاریخ
+- مێژووی ئەڵمانیا
+- जर्मनी का इतिहास
+- জার্মানির ইতিহাস
+- ஜெர்மனியின் வரலாறு
+- ประวัติศาสตร์เยอรมนี
+- გერმანიის ისტორია
+- ドイツの歴史
+- 德国历史
+- 德國史
+- 德國歷史
+- 독일의 역사
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-facet_of: "[[_Standards/WikiData/WD~Germany,183]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+facet_of: '[[_Standards/WikiData/WD~Germany,183]]'
 has_id_wikidata: Q122131
 has_part_s_:
-  - "[[_Standards/WikiData/WD~history_of_East_Germany,706790]]"
-  - "[[_Standards/WikiData/WD~West_Germany,713750]]"
-  - "[[_Standards/WikiData/WD~history_of_the_Weimar_Republic,104731094]]"
+- '[[_Standards/WikiData/WD~history_of_East_Germany,706790]]'
+- '[[_Standards/WikiData/WD~West_Germany,713750]]'
+- '[[_Standards/WikiData/WD~history_of_the_Weimar_Republic,104731094]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20History%20of%20Germany%20%28spoken%20by%20AI%20voice%29.mp3
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Germany,6583378]]"
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Germany,6583378]]'
 dv_is_:
   same_as:
-    - "[[../../../../../WikiData/WD~History_of_Germany,122131]]"
-    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany|History_of_Germany]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.public|History_of_Germany.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.internal|History_of_Germany.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.protect|History_of_Germany.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.private|History_of_Germany.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.personal|History_of_Germany.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.secret|History_of_Germany.secret]]"
+  - '[[../../../../../WikiData/WD~History_of_Germany,122131]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany|History_of_Germany]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.public|History_of_Germany.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.internal|History_of_Germany.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.protect|History_of_Germany.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.private|History_of_Germany.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.personal|History_of_Germany.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.secret|History_of_Germany.secret]]'
 dv_is_same_as:
-  - "[[../../../../../WikiData/WD~History_of_Germany,122131]]"
-  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany|History_of_Germany]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.public|History_of_Germany.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.internal|History_of_Germany.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.protect|History_of_Germany.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.private|History_of_Germany.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.personal|History_of_Germany.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.secret|History_of_Germany.secret]]"
+- '[[../../../../../WikiData/WD~History_of_Germany,122131]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany|History_of_Germany]]'
+- '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.public|History_of_Germany.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.internal|History_of_Germany.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.protect|History_of_Germany.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.private|History_of_Germany.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.personal|History_of_Germany.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.secret|History_of_Germany.secret]]'
+dv_has_:
+  name_:
+    ar: تاريخ ألمانيا
+    arz: تاريخ المانيا
+    ast: Historia d'Alemaña
+    az: Almaniya tarixi
+    be: гісторыя Германіі
+    be-tarask: гісторыя Нямеччыны
+    bg: История на Германия
+    bn: জার্মানির ইতিহাস
+    br: Istor Alamagn
+    bs: Historija Njemačke
+    ca: història d'Alemanya
+    ckb: مێژووی ئەڵمانیا
+    cs: dějiny Německa
+    cv: Германи историйĕ
+    cy: Hanes yr Almaen
+    da: tysklands historie
+    de: Geschichte Deutschlands
+    diq: Tarixê Almanya
+    el: Γερμανική ιστορία
+    en: history of Germany
+    eo: historio de Germanio
+    es: historia de Alemania
+    et: Saksamaa ajalugu
+    eu: Alemaniako historia
+    fa: تاریخ آلمان
+    fi: Saksan historia
+    fo: Søga Týsklands
+    fr: histoire de l'Allemagne
+    fy: Skiednis fan Dútslân
+    ga: stair na Gearmáine
+    gl: historia de Alemaña
+    ha: Tarihin Kasar Jamus
+    he: היסטוריה של גרמניה
+    hi: जर्मनी का इतिहास
+    hr: Povijest Njemačke
+    hsb: stawizny Němskeje
+    hu: Németország történelme
+    hy: Գերմանիայի պատմություն
+    ia: Historia de Germania
+    id: Sejarah Jerman
+    ie: Historie de Germania
+    io: Historio di Germania
+    it: storia della Germania
+    ja: ドイツの歴史
+    ka: გერმანიის ისტორია
+    ko: 독일의 역사
+    la: historia Germaniae
+    lfn: Istoria de Deutxland
+    lt: Vokietijos istorija
+    lv: Vācijas vēsture
+    mg: Tantaran'ny Alemaina
+    min: Sijarah Jerman
+    mk: Историја на Германија
+    mn: Германы түүх
+    ms: Sejarah Jerman
+    nah: Tlahtōllōtl Teutontlālpan
+    nb: Tysklands historie
+    nl: geschiedenis van Duitsland
+    nn: Tysk historie
+    pl: historia Niemiec
+    ps: د جرمني تاریخ
+    pt: história da Alemanha
+    pt-br: história da Alemanha
+    ro: istoria Germaniei
+    ru: история Германии
+    se: Duiskka historjá
+    sh: Istorija Nemačke
+    sk: dejiny Nemecka
+    sl: zgodovina Nemčije
+    smn: Saksa historjá
+    sms: Saksslajânnam historia
+    sq: Historia e Gjermanisë
+    sr: историја Немачке
+    sr-ec: Историја Немачке
+    sr-el: Istorija Nemačke
+    sv: Tysklands historia
+    sw: Historia ya Ujerumani
+    ta: ஜெர்மனியின் வரலாறு
+    tg: Таърихи Олмон
+    tg-latn: Ta'rixi Olmon
+    th: ประวัติศาสตร์เยอรมนี
+    tr: Almanya tarihi
+    tt: Германия тарихы
+    tt-cyrl: Алмания тарихы
+    uk: історія Німеччини
+    vec: istòria de ła Zermània
+    vi: lịch sử Đức
+    wuu: 德国历史
+    yi: היסטאריע פון דייטשלאנד
+    yue: 德國史
+    zh: 德國歷史
+    zh-cn: 德国历史
+    zh-hans: 德国历史
+    zh-hant: 德國歷史
+    zh-hk: 德國歷史
+    zh-sg: 德国历史
+    zh-tw: 德國歷史
 ---
-
 # [[History_of_Germany]] 
 
 #is_/same_as :: [[WD~History_of_Germany,122131]] 

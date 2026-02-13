@@ -1,65 +1,140 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../../../../WikiData/WD~Prussia,38872|WD~Prussia,38872]]"
-    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia|Prussia]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.public|Prussia.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.internal|Prussia.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.protect|Prussia.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.private|Prussia.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.personal|Prussia.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.secret|Prussia.secret]]"
+  - '[[../../../../../../WikiData/WD~Prussia,38872|WD~Prussia,38872]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia|Prussia]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.public|Prussia.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.internal|Prussia.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.protect|Prussia.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.private|Prussia.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.personal|Prussia.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.secret|Prussia.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../WikiData/WD~Prussia,38872|WD~Prussia,38872]]"
-  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia|Prussia]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.public|Prussia.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.internal|Prussia.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.protect|Prussia.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.private|Prussia.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.personal|Prussia.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.secret|Prussia.secret]]"
-
-has_time_started: 1525-01-01 
+- '[[../../../../../../WikiData/WD~Prussia,38872|WD~Prussia,38872]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia|Prussia]]'
+- '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.public|Prussia.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.internal|Prussia.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.protect|Prussia.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.private|Prussia.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.personal|Prussia.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Prussia.secret|Prussia.secret]]'
+has_time_started: 1525-01-01
 aliases:
-  - Preußen
-  - Preussen
-  - Prussia
+- A' Phruis
+- an Phrúis
+- Borussia
+- Breissn
+- ma Posen
+- Phổ
+- Poroszország
+- Praissen
+- Preisen
+- Preussen
+- Preussi
+- Preußen
+- Prosia
+- Proushie
+- Pruise
+- Pruisen
+- Pruscia
+- Prusen
+- Pruses
+- Prusia
+- Prusija
+- Prusio
+- Pruska
+- Prusko
+- Prusse
+- Prussia
+- Prussiya
+- Prusy
+- Prusya
+- Pruussn
+- Prwsia
+- Prùsia
+- Prùssia
+- Prússia
+- Prússland
+- Prûsse
+- Prûsya
+- Prēossland
+- Prūsija
+- Prūsėjė
+- Purusya
+- Purúsia
+- Pšuska
+- Yn Phroosh
+- Πρωσία
+- Прусія
+- Прусија
+- Прусия
+- Пруска
+- Прусс
+- Пруссія
+- Прусси
+- Пруссия
+- Պրուսիա
+- פרוסיה
+- פרייסן
+- بروسيا
+- پرشیا
+- پروس
+- پروسیا
+- پروشیا
+- प्रशिया
+- प्रुशिया
+- প্রুশিয়া
+- প্ৰুছিয়া ৰাজ্য
+- ਪ੍ਰੌਇਸਨ
+- புருசியா
+- ప్రష్యా
+- പ്രഷ്യ
+- ප්රෂියාව
+- ปรัสเซีย
+- ປຣັສເຊຍ
+- პრუსია
+- ፕሩሲያ
+- プロイセン
+- 普魯士
+- 普鲁士
+- 프로씨아
+- 프로이센
 has_id_wikidata: Q38872
 U_S_National_Archives_Identifier: 10046237
 Provenio_UUID: a00b5aa1-9bb4-4bfa-9e21-05f3ed202320
 UMLS_CUI: C2350568
 MeSH_tree_code: Z01.586.772
 demonym:
-  - Breiß
-  - Breißin
-  - Breißinna
-  - Breißn
-  - Preussen
-  - Preussin
-  - Preussinnen
-  - prusino
-  - pruso
-  - Prussian
-  - Preußen
-  - Preuße
-  - Preußin
-  - Preußinnen
-  - Prus
-  - Prusinja
-  - porosz
-  - Preusse
+- Breiß
+- Breißin
+- Breißinna
+- Breißn
+- Preussen
+- Preussin
+- Preussinnen
+- prusino
+- pruso
+- Prussian
+- Preußen
+- Preuße
+- Preußin
+- Preußinnen
+- Prus
+- Prusinja
+- porosz
+- Preusse
 named_after: '[[_Standards/WikiData/WD~Old_Prussians,109073]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Duchy_of_Prussia,153091]]'
-  - '[[_Standards/WikiData/WD~Free_State_of_Prussia,161036]]'
-  - '[[_Standards/WikiData/WD~Prusy,394368]]'
-  - '[[_Standards/WikiData/WD~Prusia,766573]]'
-  - '[[_Standards/WikiData/WD~Prussia,918723]]'
-  - '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
+- '[[_Standards/WikiData/WD~Duchy_of_Prussia,153091]]'
+- '[[_Standards/WikiData/WD~Free_State_of_Prussia,161036]]'
+- '[[_Standards/WikiData/WD~Prusy,394368]]'
+- '[[_Standards/WikiData/WD~Prusia,766573]]'
+- '[[_Standards/WikiData/WD~Prussia,918723]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
 anthem:
-  - '[[_Standards/WikiData/WD~Heil_dir_im_Siegerkranz,163797]]'
-  - '[[_Standards/WikiData/WD~Borussia,894272]]'
-  - '[[_Standards/WikiData/WD~Preußenlied,1928655]]'
+- '[[_Standards/WikiData/WD~Heil_dir_im_Siegerkranz,163797]]'
+- '[[_Standards/WikiData/WD~Borussia,894272]]'
+- '[[_Standards/WikiData/WD~Preußenlied,1928655]]'
 patron_saint: '[[_Standards/WikiData/WD~Jutta_of_Kulmsee,273705]]'
 coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Prussia,573426]]'
 motto: '[[_Standards/WikiData/WD~Gott_mit_uns,641033]]'
@@ -67,45 +142,45 @@ flag: '[[_Standards/WikiData/WD~flag_of_Prussia,687378]]'
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
 capital:
-  - '[[_Standards/WikiData/WD~Königsberg,4120832]]'
-  - '[[_Standards/WikiData/WD~Berlin,64]]'
+- '[[_Standards/WikiData/WD~Königsberg,4120832]]'
+- '[[_Standards/WikiData/WD~Berlin,64]]'
 maintained_by_WikiProject:
-  - '[[_Standards/WikiData/WD~WikiProject_Germany,6871603]]'
-  - '[[_Standards/WikiData/WD~WikiProject_European_history,8486525]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Military_history,8486702]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Former_countries,15304996]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Lutheranism,21830311]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Prussia,21830668]]'
+- '[[_Standards/WikiData/WD~WikiProject_Germany,6871603]]'
+- '[[_Standards/WikiData/WD~WikiProject_European_history,8486525]]'
+- '[[_Standards/WikiData/WD~WikiProject_Military_history,8486702]]'
+- '[[_Standards/WikiData/WD~WikiProject_Former_countries,15304996]]'
+- '[[_Standards/WikiData/WD~WikiProject_Lutheranism,21830311]]'
+- '[[_Standards/WikiData/WD~WikiProject_Prussia,21830668]]'
 has_list: '[[_Standards/WikiData/WD~Q11335969,11335969]]'
 category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q32641757,32641757]]'
 economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Prussia,106020346]]'
 language_used:
-  - '[[_Standards/WikiData/WD~Polish,809]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
-  - '[[_Standards/WikiData/WD~Old_Prussian,35501]]'
+- '[[_Standards/WikiData/WD~Polish,809]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~Old_Prussian,35501]]'
 basic_form_of_government:
-  - '[[_Standards/WikiData/WD~republic,7270]]'
-  - '[[_Standards/WikiData/WD~monarchy,7269]]'
+- '[[_Standards/WikiData/WD~republic,7270]]'
+- '[[_Standards/WikiData/WD~monarchy,7269]]'
 replaced_by:
-  - '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
-  - '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Protestantism,23540]]'
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Austria_Hungary,28513]]'
-  - '[[_Standards/WikiData/WD~Belgium,31]]'
-  - '[[_Standards/WikiData/WD~Poland,36]]'
-  - '[[_Standards/WikiData/WD~France,142]]'
-  - '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Austria_Hungary,28513]]'
+- '[[_Standards/WikiData/WD~Belgium,31]]'
+- '[[_Standards/WikiData/WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
 official_language: '[[_Standards/WikiData/WD~German,188]]'
 country: '[[_Standards/WikiData/WD~Prussia,38872]]'
 OmegaWiki_Defined_Meaning: 991716
 area: 297007
 BHCL_UUID:
-  - 9b72e42f-c4e5-40b1-852b-056b1dcccd54
-  - ddca1ee1-a293-4767-ae47-5cd8ec6189c5
-  - 0e837ef8-41e0-40e5-9afc-2b226963adcb
+- 9b72e42f-c4e5-40b1-852b-056b1dcccd54
+- ddca1ee1-a293-4767-ae47-5cd8ec6189c5
+- 0e837ef8-41e0-40e5-9afc-2b226963adcb
 native_label: Preußen
 population: 41915040
 Commons_category: Prussia
@@ -113,14 +188,154 @@ Commons_gallery: Prussia
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20the%20Kingdom%20of%20Prussia%201873-1918.svg
 ISNI: 0000000111988585
 dissolved_abolished_or_demolished_date:
-  - 1947-02-25T00:00:00Z
-  - 1933-01-01T00:00:00Z
+- 1947-02-25T00:00:00Z
+- 1933-01-01T00:00:00Z
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Kingdom%20of%20Prussia%20%281803-1892%29.svg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Map-DR-Prussia.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Prussia%20WV.jpg
 inception: 1525-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Pruise
+    am: ፕሩሲያ
+    ang: Prēossland
+    ar: بروسيا
+    arz: بروسيا
+    as: প্ৰুছিয়া ৰাজ্য
+    ast: Prusia
+    az: Prussiya
+    azb: پروس
+    ba: Пруссия
+    bar: Breissn
+    be: Прусія
+    be-tarask: Прусія
+    bg: Прусия
+    bn: প্রুশিয়া
+    br: Prusia
+    bs: Pruska
+    ca: Prússia
+    ce: Прусси
+    ckb: پروسیا
+    co: Prussia
+    cs: Prusko
+    cy: Prwsia
+    da: Preussen
+    de: Preußen
+    de-ch: Preussen
+    diq: Prusya
+    dsb: Pšuska
+    el: Πρωσία
+    en: Prussia
+    en-gb: Prussia
+    eo: Prusio
+    es: Prusia
+    eu: Prusia
+    fa: پروس
+    fi: Preussi
+    fo: Preussen
+    fr: Prusse
+    fy: Prusen
+    ga: an Phrúis
+    gd: A' Phruis
+    gl: Prusia
+    gn: Purúsia
+    gsw: Preussen
+    gv: Yn Phroosh
+    he: פרוסיה
+    hi: प्रुशिया
+    hr: Pruska
+    hsb: Pruska
+    hu: Poroszország
+    hy: Պրուսիա
+    ia: Prussia
+    id: Prusia
+    ie: Prussia
+    io: Prusia
+    is: Prússland
+    it: Prussia
+    ja: プロイセン
+    jv: Prusia
+    ka: პრუსია
+    kk: Пруссия
+    ko: 프로이센
+    ko-kp: 프로씨아
+    ku: Prûsya
+    ky: Пруссия
+    la: Borussia
+    lb: Preisen
+    lez: Пруссия
+    li: Pruses
+    lij: Pruscia
+    lld: Pruscia
+    lo: ປຣັສເຊຍ
+    lt: Prūsija
+    lv: Prūsija
+    lzh: 普魯士
+    mg: Prosia
+    mk: Прусија
+    ml: പ്രഷ്യ
+    mn: Прусс
+    mr: प्रशिया
+    ms: Prusia
+    mul: Preußen
+    mzn: پروس
+    nap: Prussia
+    nb: Preussen
+    nds: Preußen
+    nds-nl: Praissen
+    ne: प्रशिया
+    nl: Pruisen
+    nn: Preussen
+    oc: Prússia
+    os: Прусси
+    pa: ਪ੍ਰੌਇਸਨ
+    pl: Prusy
+    pnb: پرشیا
+    prg: Prūsija
+    ps: پروشیا
+    pt: Prússia
+    pt-br: Prússia
+    qu: Purusya
+    ro: Prusia
+    ru: Пруссия
+    rue: Пруссія
+    sc: Prùssia
+    scn: Prussia
+    sco: Proushie
+    sgs: Prūsėjė
+    sh: Pruska
+    si: ප්රෂියාව
+    sk: Prusko
+    sl: Prusija
+    sq: Prusia
+    sr: Пруска
+    sv: Preussen
+    sw: Prussia
+    ta: புருசியா
+    te: ప్రష్యా
+    tg: Пруссия
+    th: ปรัสเซีย
+    tl: Prusya
+    tly: Prusija
+    tok: ma Posen
+    tr: Prusya
+    tt: Пруссия
+    uk: Пруссія
+    ur: پروشیا
+    uz: Prussiya
+    vec: Prùsia
+    vi: Phổ
+    vls: Pruussn
+    wa: Prûsse
+    war: Prusya
+    wuu: 普鲁士
+    xmf: პრუსია
+    yi: פרייסן
+    yo: Prussia
+    yue: 普魯士
+    zh: 普魯士
+    zh-hant: 普魯士
 ---
-
 # [[Prussia]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Prussia,38872|WD~Prussia,38872]]  

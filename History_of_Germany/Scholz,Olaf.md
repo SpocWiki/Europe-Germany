@@ -1,113 +1,326 @@
 ---
 aliases:
-  - Olaf_Scholz
-  - Olaf Scholz
-  - Scholz
-  - Scholz,Olaf
+- Olaf Scholz
+- Olaf Şolts
+- Olaf Šol'c
+- Olafs Šolcos
+- Olafs Šolcs
+- Olaf_Scholz
+- Olaus Scholz
+- Scholz
+- Scholz,Olaf
+- Όλαφ Σολτς
+- Олаф Шолтс
+- Олаф Шолц
+- Олаф Шольц
+- Оляф Шольц
+- Шольц Олаф
+- Օլաֆ Շոլց
+- אולף שולץ
+- אלאף שאלץ
+- أولاف شولتس
+- ئۆلاف شۆڵتس
+- اؤلاف شؤلتس
+- اولاف شولتس
+- اولاف شولز
+- ओलाफ शोल्त्स
+- ओलाफ सोल्स
+- ওলাফ শলৎস
+- ஒலாஃப் சோல்த்சு
+- โอลัฟ ช็อลทซ์
+- ໂອລັຟ ໂຊນສ
+- ოლაფ შოლცი
+- ኦላፍ ሾልዝ
+- ᱳᱞᱟᱯ ᱥᱚᱞᱡᱽ
+- オラフ・ショルツ
+- 奥拉夫·朔尔茨
+- 奧拉夫·朔爾茨
+- 奧拉夫·蕭茲
+- 蕭凌志
+- 올라프 숄츠
 has_id_wikidata: Q61053
 TikTok_username:
-  - olaf_scholz.kanzler
-  - teamolafscholz
+- olaf_scholz.kanzler
+- teamolafscholz
 Facebook_username: olafscholz
 Instagram_username: olafscholz
 X_Twitter_username:
-  - olafscholz
-  - OlafScholz
-  - Bundeskanzler
+- olafscholz
+- OlafScholz
+- Bundeskanzler
 YouTube_handle: OlafScholz
 affiliation_string: Vice-Chancellor and Federal Minister of Finance of Germany
 nickname: Scholzomat
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~lawyer,40348]]"
-educated_at: "[[_Standards/WikiData/WD~University_of_Hamburg,156725]]"
-employer: "[[_Standards/WikiData/WD~Zentralverband_der_deutschen_Konsumgenossenschaften,190848]]"
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~lawyer,40348]]'
+educated_at: '[[_Standards/WikiData/WD~University_of_Hamburg,156725]]'
+employer: '[[_Standards/WikiData/WD~Zentralverband_der_deutschen_Konsumgenossenschaften,190848]]'
 part_of:
-  - "[[_Standards/WikiData/WD~First_Merkel_cabinet,315863]]"
-  - "[[_Standards/WikiData/WD~Scholz_cabinet,109712556]]"
+- '[[_Standards/WikiData/WD~First_Merkel_cabinet,315863]]'
+- '[[_Standards/WikiData/WD~Scholz_cabinet,109712556]]'
 position_held:
-  - "[[_Standards/WikiData/WD~Vice_Chancellor_of_Germany,504272]]"
-  - "[[_Standards/WikiData/WD~First_Mayor_of_Hamburg,1362118]]"
-  - "[[_Standards/WikiData/WD~Senator_of_the_Interior,1663929]]"
-  - "[[_Standards/WikiData/WD~member_of_the_German_Bundestag,1939555]]"
-  - "[[_Standards/WikiData/WD~Federal_Chancellor_of_Germany,4970706]]"
-  - "[[_Standards/WikiData/WD~member_of_the_Hamburg_Parliament,19360355]]"
-  - "[[_Standards/WikiData/WD~Federal_Minister_of_Finance,22575092]]"
-  - "[[_Standards/WikiData/WD~Commissioner_for_Franco_German_Cooperation,26822284]]"
-  - "[[_Standards/WikiData/WD~Secretary_General_of_the_SPD,29552004]]"
-  - "[[_Standards/WikiData/WD~Federal_Minister_of_Labour_and_Social_Affairs,30533351]]"
-spouse: "[[_Standards/WikiData/WD~Britta_Ernst,920705]]"
-different_from: "[[_Standards/WikiData/WD~Olaf_Scholz,2018082]]"
-affiliation: "[[_Standards/WikiData/WD~SPD_Bundestag_fraction,2207512]]"
-given_name: "[[_Standards/WikiData/WD~Olaf,3881452]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+- '[[_Standards/WikiData/WD~Vice_Chancellor_of_Germany,504272]]'
+- '[[_Standards/WikiData/WD~First_Mayor_of_Hamburg,1362118]]'
+- '[[_Standards/WikiData/WD~Senator_of_the_Interior,1663929]]'
+- '[[_Standards/WikiData/WD~member_of_the_German_Bundestag,1939555]]'
+- '[[_Standards/WikiData/WD~Federal_Chancellor_of_Germany,4970706]]'
+- '[[_Standards/WikiData/WD~member_of_the_Hamburg_Parliament,19360355]]'
+- '[[_Standards/WikiData/WD~Federal_Minister_of_Finance,22575092]]'
+- '[[_Standards/WikiData/WD~Commissioner_for_Franco_German_Cooperation,26822284]]'
+- '[[_Standards/WikiData/WD~Secretary_General_of_the_SPD,29552004]]'
+- '[[_Standards/WikiData/WD~Federal_Minister_of_Labour_and_Social_Affairs,30533351]]'
+spouse: '[[_Standards/WikiData/WD~Britta_Ernst,920705]]'
+different_from: '[[_Standards/WikiData/WD~Olaf_Scholz,2018082]]'
+affiliation: '[[_Standards/WikiData/WD~SPD_Bundestag_fraction,2207512]]'
+given_name: '[[_Standards/WikiData/WD~Olaf,3881452]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~political_activity,12142141]]"
-  - "[[_Standards/WikiData/WD~politics,7163]]"
-participant_in: "[[_Standards/WikiData/WD~list_of_participants_in_the_coalition_talks_between_the_CDU_CSU_and_SPD_in_2013,15829617]]"
-family_name: "[[_Standards/WikiData/WD~Scholz,22058820]]"
-award_received: "[[_Standards/WikiData/WD~Global_Citizen_Awards,48965436]]"
+- '[[_Standards/WikiData/WD~political_activity,12142141]]'
+- '[[_Standards/WikiData/WD~politics,7163]]'
+participant_in: '[[_Standards/WikiData/WD~list_of_participants_in_the_coalition_talks_between_the_CDU_CSU_and_SPD_in_2013,15829617]]'
+family_name: '[[_Standards/WikiData/WD~Scholz,22058820]]'
+award_received: '[[_Standards/WikiData/WD~Global_Citizen_Awards,48965436]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Jens_Scholz,61982601]]"
-  - "[[_Standards/WikiData/WD~Ingo_Scholz,108701226]]"
-professional_partner: "[[_Standards/WikiData/WD~Werner_Rätz,87188723]]"
-father: "[[_Standards/WikiData/WD~Gerhard_Scholz,110157327]]"
-mother: "[[_Standards/WikiData/WD~Christel_Scholz,110157334]]"
+- '[[_Standards/WikiData/WD~Jens_Scholz,61982601]]'
+- '[[_Standards/WikiData/WD~Ingo_Scholz,108701226]]'
+professional_partner: '[[_Standards/WikiData/WD~Werner_Rätz,87188723]]'
+father: '[[_Standards/WikiData/WD~Gerhard_Scholz,110157327]]'
+mother: '[[_Standards/WikiData/WD~Christel_Scholz,110157334]]'
 work_location:
-  - "[[_Standards/WikiData/WD~Bonn,586]]"
-  - "[[_Standards/WikiData/WD~Hamburg,1055]]"
-  - "[[_Standards/WikiData/WD~Berlin,64]]"
+- '[[_Standards/WikiData/WD~Bonn,586]]'
+- '[[_Standards/WikiData/WD~Hamburg,1055]]'
+- '[[_Standards/WikiData/WD~Berlin,64]]'
 residence:
-  - "[[_Standards/WikiData/WD~Potsdam,1711]]"
-  - "[[_Standards/WikiData/WD~Rahlstedt,1820]]"
+- '[[_Standards/WikiData/WD~Potsdam,1711]]'
+- '[[_Standards/WikiData/WD~Rahlstedt,1820]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
-place_of_birth: "[[_Standards/WikiData/WD~Osnabrück,2916]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~German,188]]'
+place_of_birth: '[[_Standards/WikiData/WD~Osnabrück,2916]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 number_of_children: 0
-country_of_citizenship: "[[_Standards/WikiData/WD~Germany,183]]"
-native_language: "[[_Standards/WikiData/WD~German,188]]"
+country_of_citizenship: '[[_Standards/WikiData/WD~Germany,183]]'
+native_language: '[[_Standards/WikiData/WD~German,188]]'
 height: 170
-member_of_political_party: "[[_Standards/WikiData/WD~Social_Democratic_Party_of_Germany,49768]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~irreligion,58721]]"
+member_of_political_party: '[[_Standards/WikiData/WD~Social_Democratic_Party_of_Germany,49768]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~irreligion,58721]]'
 name_in_native_language: Olaf Scholz
 social_media_followers: 398574
 Commons_gallery: Olaf Scholz
 Commons_category: Olaf Scholz
 biography_at_the_Bundestag_of_Germany_URL:
-  - https://www.bundestag.de/abgeordnete/biografien/S/scholz_olaf-860468
-  - http://webarchiv.bundestag.de/archive/2013/1212/bundestag/abgeordnete17/biografien/S/scholz_olaf.html
+- https://www.bundestag.de/abgeordnete/biografien/S/scholz_olaf-860468
+- http://webarchiv.bundestag.de/archive/2013/1212/bundestag/abgeordnete17/biografien/S/scholz_olaf.html
 catalog_code: 11003231
 date_of_birth: 1958-06-14T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Olaf%20Scholz%202025.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Olaf%20Scholz%20Signature.svg
 described_at_URL: https://baike.sogou.com/v171139641.htm
 official_website:
-  - https://olaf-scholz.spd.de
-  - https://olaf-scholz.spd.de/start
+- https://olaf-scholz.spd.de
+- https://olaf-scholz.spd.de/start
 ISNI: 72659681
 dv_is_:
   same_as:
-    - "[[../../../../../../WikiData/WD~Olaf_Scholz,61053]]"
-    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf|Scholz,Olaf]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.public|Scholz,Olaf.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.internal|Scholz,Olaf.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.protect|Scholz,Olaf.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.private|Scholz,Olaf.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.personal|Scholz,Olaf.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.secret|Scholz,Olaf.secret]]"
+  - '[[../../../../../../WikiData/WD~Olaf_Scholz,61053]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf|Scholz,Olaf]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.public|Scholz,Olaf.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.internal|Scholz,Olaf.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.protect|Scholz,Olaf.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.private|Scholz,Olaf.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.personal|Scholz,Olaf.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.secret|Scholz,Olaf.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../WikiData/WD~Olaf_Scholz,61053]]"
-  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf|Scholz,Olaf]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.public|Scholz,Olaf.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.internal|Scholz,Olaf.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.protect|Scholz,Olaf.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.private|Scholz,Olaf.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.personal|Scholz,Olaf.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.secret|Scholz,Olaf.secret]]"
+- '[[../../../../../../WikiData/WD~Olaf_Scholz,61053]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf|Scholz,Olaf]]'
+- '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.public|Scholz,Olaf.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.internal|Scholz,Olaf.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.protect|Scholz,Olaf.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.private|Scholz,Olaf.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.personal|Scholz,Olaf.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Scholz,Olaf.secret|Scholz,Olaf.secret]]'
+dv_has_:
+  name_:
+    af: Olaf Scholz
+    am: ኦላፍ ሾልዝ
+    an: Olaf Scholz
+    ar: أولاف شولتس
+    arz: اولاف شولتس
+    ast: Olaf Scholz
+    avk: Olaf Scholz
+    az: Olaf Şolts
+    ba: Шольц Олаф
+    ban: Olaf Scholz
+    bar: Olaf Scholz
+    bcl: Olaf Scholz
+    be: Олаф Шольц
+    be-tarask: Оляф Шольц
+    bg: Олаф Шолц
+    bi: Olaf Scholz
+    bn: ওলাফ শলৎস
+    br: Olaf Scholz
+    bs: Olaf Scholz
+    ca: Olaf Scholz
+    ckb: ئۆلاف شۆڵتس
+    co: Olaf Scholz
+    cs: Olaf Scholz
+    cy: Olaf Scholz
+    da: Olaf Scholz
+    dag: Olaf Scholz
+    de: Olaf Scholz
+    de-at: Olaf Scholz
+    de-ch: Olaf Scholz
+    diq: Olaf Scholz
+    dsb: Olaf Scholz
+    el: Όλαφ Σολτς
+    eml: Olaf Scholz
+    en: Olaf Scholz
+    en-gb: Olaf Scholz
+    en-us: Olaf Scholz
+    eo: Olaf Scholz
+    es: Olaf Scholz
+    et: Olaf Scholz
+    eu: Olaf Scholz
+    ext: Olaf Scholz
+    fa: اولاف شولتس
+    fi: Olaf Scholz
+    fit: Olaf Scholz
+    fj: Olaf Scholz
+    fo: Olaf Scholz
+    fr: Olaf Scholz
+    frp: Olaf Scholz
+    frr: Olaf Scholz
+    fur: Olaf Scholz
+    fy: Olaf Scholz
+    ga: Olaf Scholz
+    gd: Olaf Scholz
+    gl: Olaf Scholz
+    glk: اؤلاف شؤلتس
+    gn: Olaf Scholz
+    gsw: Olaf Scholz
+    gv: Olaf Scholz
+    ha: Olaf Scholz
+    hak: Olaf Scholz
+    he: אולף שולץ
+    hr: Olaf Scholz
+    hrx: Olaf Scholz
+    hsb: Olaf Scholz
+    hu: Olaf Scholz
+    hy: Օլաֆ Շոլց
+    ia: Olaf Scholz
+    id: Olaf Scholz
+    ie: Olaf Scholz
+    ilo: Olaf Scholz
+    io: Olaf Scholz
+    is: Olaf Scholz
+    it: Olaf Scholz
+    ja: オラフ・ショルツ
+    jut: Olaf Scholz
+    ka: ოლაფ შოლცი
+    kaa: Olaf Scholz
+    kea: Olaf Scholz
+    kk: Олаф Шольц
+    kk-cyrl: Олаф Шольц
+    ko: 올라프 숄츠
+    ku: Olaf Scholz
+    kw: Olaf Scholz
+    la: Olaus Scholz
+    lad: Olaf Scholz
+    lb: Olaf Scholz
+    lfn: Olaf Scholz
+    li: Olaf Scholz
+    lij: Olaf Scholz
+    lld: Olaf Scholz
+    lmo: Olaf Scholz
+    lo: ໂອລັຟ ໂຊນສ
+    lt: Olaf Scholz
+    lv: Olafs Šolcs
+    mdf: Олаф Шольц
+    mhr: Олаф Шольц
+    mk: Олаф Шолц
+    mn: Олаф Шольц
+    mr: ओलाफ शोल्त्स
+    ms: Olaf Scholz
+    mt: Olaf Scholz
+    mul: Olaf Scholz
+    mwl: Olaf Scholz
+    mzn: اولاف شولتس
+    na: Olaf Scholz
+    nap: Olaf Scholz
+    nb: Olaf Scholz
+    nds: Olaf Scholz
+    nds-nl: Olaf Scholz
+    ne: ओलाफ सोल्स
+    niu: Olaf Scholz
+    nl: Olaf Scholz
+    nn: Olaf Scholz
+    nov: Olaf Scholz
+    nrm: Olaf Scholz
+    oc: Olaf Scholz
+    pcd: Olaf Scholz
+    pdc: Olaf Scholz
+    pdt: Olaf Scholz
+    pfl: Olaf Scholz
+    pih: Olaf Scholz
+    pl: Olaf Scholz
+    pms: Olaf Scholz
+    pt: Olaf Scholz
+    pt-br: Olaf Scholz
+    rm: Olaf Scholz
+    rmf: Olaf Scholz
+    ro: Olaf Scholz
+    ru: Олаф Шольц
+    rup: Olaf Scholz
+    sat: ᱳᱞᱟᱯ ᱥᱚᱞᱡᱽ
+    sc: Olaf Scholz
+    scn: Olaf Scholz
+    sco: Olaf Scholz
+    se: Olaf Scholz
+    sgs: Olafs Šolcos
+    sjd: Олаф Шольц
+    sje: Olaf Scholz
+    sju: Olaf Scholz
+    sk: Olaf Scholz
+    sl: Olaf Scholz
+    sli: Olaf Scholz
+    sma: Olaf Scholz
+    smj: Olaf Scholz
+    smn: Olaf Scholz
+    sms: Olaf Scholz
+    sq: Olaf Scholz
+    sr: Олаф Шолц
+    stq: Olaf Scholz
+    sv: Olaf Scholz
+    sw: Olaf Scholz
+    ta: ஒலாஃப் சோல்த்சு
+    tay: Olaf Scholz
+    tg: Олаф Шолтс
+    th: โอลัฟ ช็อลทซ์
+    tl: Olaf Scholz
+    tr: Olaf Scholz
+    tt: Олаф Шольц
+    uk: Олаф Шольц
+    ur: اولاف شولز
+    uz: Olaf Scholz
+    vec: Olaf Scholz
+    vep: Olaf Šol'c
+    vi: Olaf Scholz
+    vls: Olaf Scholz
+    vmf: Olaf Scholz
+    wa: Olaf Scholz
+    xmf: ოლაფ შოლცი
+    yi: אלאף שאלץ
+    yo: Olaf Scholz
+    yue: 蕭凌志
+    zea: Olaf Scholz
+    zh: 奥拉夫·朔尔茨
+    zh-cn: 奥拉夫·朔尔茨
+    zh-hans: 奥拉夫·朔尔茨
+    zh-hant: 奧拉夫·蕭茲
+    zh-hk: 奧拉夫·朔爾茨
+    zh-tw: 奧拉夫·蕭茲
 ---
-
 # [[Scholz,Olaf]] 
 
 #is_/same_as :: [[WD~Olaf_Scholz,61053]] 

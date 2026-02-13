@@ -1,26 +1,150 @@
 ---
 aliases:
-  - Berlin_Metro
-  - Metro,Berlin
+- Berliini metroo
+- Berliinin metro
+- Berlin metropoliteni
+- Berlin Tē-hā-thih
+- Berlin U-Bahn
+- Berliner Metro
+- Berlingo metroa
+- berlini metró
+- Berlins tunnelbana
+- Berlins U-Bahn
+- Berlins undergrunnsbane
+- berlinska podzemna železnica
+- Berlinski metro
+- Berlinski U-voz
+- Berlin_Metro
+- Berlínske metro
+- Berlīnes metro
+- Metro de Berlim
+- metro de Berlín
+- metro van Berlijn
+- metro w Berlinie
+- Metro,Berlin
+- Metroo de Berlino
+- Metropolitan-a ëd Berlin
+- Metropolitana de Berlin
+- metropolitana di Berlino
+- Metroya Berlînê
+- métro de Berlin
+- Podzemna željeznica Berlin
+- Podzemní dráha v Berlíně
+- Relvia subterran de Berlin
+- U-Bahn Berlin
+- Берлінскі метрапалітэн
+- Берлінський метрополітен
+- Берлин метрополитены
+- Берлин метросу
+- Берлински метро
+- Берлинский метрополитен
+- Берлинско метро
+- Берлины метрополитен
+- Берлинысе метрополитен
+- Бэрлінскі мэтрапалітэн
+- הרכבת התחתית של ברלין
+- برلن یو-بان
+- مترو برلين
+- متروی برلین
+- बर्लिन उ-बाह्न
+- বার্লিন উ-বান
+- ബെർലിൻ യൂ-ബാഹ്ൻ
+- รถไฟใต้ดินเบอร์ลิน
+- ბერლინის მეტროპოლიტენი
+- ベルリン地下鉄
+- 柏林地鐵
+- 柏林地铁
+- 베를린 U반
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin|Metro,Berlin]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.public|Metro,Berlin.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.internal|Metro,Berlin.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.protect|Metro,Berlin.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.private|Metro,Berlin.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.personal|Metro,Berlin.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.secret|Metro,Berlin.secret]]"
+  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin|Metro,Berlin]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.public|Metro,Berlin.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.internal|Metro,Berlin.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.protect|Metro,Berlin.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.private|Metro,Berlin.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.personal|Metro,Berlin.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.secret|Metro,Berlin.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin|Metro,Berlin]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.public|Metro,Berlin.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.internal|Metro,Berlin.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.protect|Metro,Berlin.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.private|Metro,Berlin.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.personal|Metro,Berlin.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.secret|Metro,Berlin.secret]]"
+- '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin|Metro,Berlin]]'
+- '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.public|Metro,Berlin.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.internal|Metro,Berlin.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.protect|Metro,Berlin.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.private|Metro,Berlin.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.personal|Metro,Berlin.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Metro,Berlin.secret|Metro,Berlin.secret]]'
+has_id_wikidata: Q68646
+dv_has_:
+  name_:
+    ar: مترو برلين
+    az: Berlin metropoliteni
+    ban: U-Bahn Berlin
+    be: Берлінскі метрапалітэн
+    be-tarask: Бэрлінскі мэтрапалітэн
+    bg: Берлинско метро
+    bn: বার্লিন উ-বান
+    bs: Berlinski metro
+    ca: metro de Berlín
+    cs: Podzemní dráha v Berlíně
+    da: Berlins U-Bahn
+    de: U-Bahn Berlin
+    en: Berlin U-Bahn
+    eo: Metroo de Berlino
+    es: Metro de Berlín
+    et: Berliini metroo
+    eu: Berlingo metroa
+    fa: متروی برلین
+    fi: Berliinin metro
+    fr: métro de Berlin
+    he: הרכבת התחתית של ברלין
+    hr: Podzemna željeznica Berlin
+    hu: berlini metró
+    id: Berlin U-Bahn
+    ie: Relvia subterran de Berlin
+    it: metropolitana di Berlino
+    ja: ベルリン地下鉄
+    ka: ბერლინის მეტროპოლიტენი
+    ko: 베를린 U반
+    ku: Metroya Berlînê
+    ky: Берлин метросу
+    lb: Berliner Metro
+    lmo: Metropolitana de Berlin
+    lv: Berlīnes metro
+    mhr: Берлинысе метрополитен
+    ml: ബെർലിൻ യൂ-ബാഹ്ൻ
+    mr: बर्लिन उ-बाह्न
+    nan: Berlin Tē-hā-thih
+    nb: Berlins undergrunnsbane
+    nl: metro van Berlijn
+    os: Берлины метрополитен
+    pl: metro w Berlinie
+    pms: Metropolitan-a ëd Berlin
+    pt: Metro de Berlim
+    ro: Berlin U-Bahn
+    ru: Берлинский метрополитен
+    sh: Berlinski U-voz
+    sk: Berlínske metro
+    sl: berlinska podzemna železnica
+    sr: Берлински метро
+    sv: Berlins tunnelbana
+    th: รถไฟใต้ดินเบอร์ลิน
+    tl: Berlin U-Bahn
+    tr: Berlin U-Bahn
+    tt: Берлин метрополитены
+    uk: Берлінський метрополітен
+    ur: برلن یو-بان
+    uz: Berlin metropoliteni
+    wuu: 柏林地铁
+    yue: 柏林地鐵
+    zh: 柏林地鐵
+    zh-cn: 柏林地铁
+    zh-hans: 柏林地铁
+    zh-hant: 柏林地鐵
+    zh-hk: 柏林地鐵
+    zh-mo: 柏林地鐵
+    zh-my: 柏林地铁
+    zh-sg: 柏林地铁
+    zh-tw: 柏林地鐵
 ---
-
 ## #has_/text_of_/abstract 
 
 > The Berlin U-Bahn (German: [ˈuː baːn]; short for Untergrundbahn, "underground railway") 

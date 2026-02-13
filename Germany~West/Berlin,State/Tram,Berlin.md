@@ -1,23 +1,86 @@
 ---
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin|Tram,Berlin]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.public|Tram,Berlin.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.internal|Tram,Berlin.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.protect|Tram,Berlin.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.private|Tram,Berlin.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.personal|Tram,Berlin.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.secret|Tram,Berlin.secret]]"
+  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin|Tram,Berlin]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.public|Tram,Berlin.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.internal|Tram,Berlin.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.protect|Tram,Berlin.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.private|Tram,Berlin.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.personal|Tram,Berlin.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.secret|Tram,Berlin.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin|Tram,Berlin]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.public|Tram,Berlin.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.internal|Tram,Berlin.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.protect|Tram,Berlin.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.private|Tram,Berlin.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.personal|Tram,Berlin.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.secret|Tram,Berlin.secret]]"
+- '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin|Tram,Berlin]]'
+- '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.public|Tram,Berlin.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.internal|Tram,Berlin.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.protect|Tram,Berlin.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.private|Tram,Berlin.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.personal|Tram,Berlin.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Tram,Berlin.secret|Tram,Berlin.secret]]'
+has_id_wikidata: Q99668
+dv_has_:
+  name_:
+    be: Берлінскі трамвай
+    be-tarask: Бэрлінскі трамвай
+    cs: tramvajová doprava v Berlíně
+    da: Berlins sporvogne
+    de: Straßenbahn Berlin
+    de-ch: Straßenbahn Berlin
+    en: trams in Berlin
+    en-ca: trams in Berlin
+    en-gb: trams in Berlin
+    eo: tramtransporto en Berlino
+    es: tranvía de Berlín
+    eu: Berlingo tranbia
+    fa: تراموا برلین
+    fi: Berliinin raitiotieliikenne
+    fr: tramway de Berlin
+    hu: Berlin villamosvonal-hálózata
+    id: transportasi tram di Berlin
+    it: rete tranviaria di Berlino
+    ja: ベルリン市電
+    ka: ბერლინის ტრამვაი
+    ko: 베를린 트램
+    lmo: Red di tram de Berlin
+    nb: Berlins sporvei
+    nl: tram van Berlijn
+    pl: tramwaje w Berlinie
+    ru: Берлинский трамвай
+    sk: električková doprava v Berlíne
+    sv: Berlins spårväg
+    tr: Berlin tramvay hattı
+    uk: Берлінський трамвай
+    zh: 柏林街車
+    zh-hant: 柏林街車
+aliases:
+- Berliinin raitiotieliikenne
+- Berlin tramvay hattı
+- Berlin villamosvonal-hálózata
+- Berlingo tranbia
+- Berlins sporvei
+- Berlins sporvogne
+- Berlins spårväg
+- električková doprava v Berlíne
+- Red di tram de Berlin
+- rete tranviaria di Berlino
+- Straßenbahn Berlin
+- tram van Berlijn
+- trams in Berlin
+- tramtransporto en Berlino
+- tramvajová doprava v Berlíně
+- tramwaje w Berlinie
+- tramway de Berlin
+- transportasi tram di Berlin
+- tranvía de Berlín
+- Берлінскі трамвай
+- Берлінський трамвай
+- Берлинский трамвай
+- Бэрлінскі трамвай
+- تراموا برلین
+- ბერლინის ტრამვაი
+- ベルリン市電
+- 柏林街車
+- 베를린 트램
 ---
-
 ## #has_/text_of_/abstract 
 
 >  The Berlin tramway (German: Straßenbahn Berlin) is the main tram system in Berlin, Germany.  

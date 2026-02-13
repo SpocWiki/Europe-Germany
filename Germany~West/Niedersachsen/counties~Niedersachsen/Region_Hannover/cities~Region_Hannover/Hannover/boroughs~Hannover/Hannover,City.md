@@ -1,107 +1,167 @@
 ---
 aliases:
-  - Hanover
-  - Hannover
+- Anuova
+- Gannover
+- Ganover
+- Hannober
+- Hannova
+- Hannover
+- Hannover (kapital sa estado pederal)
+- Hannovera
+- Hannovere
+- Hanofér
+- Hanover
+- Hanoveri
+- Hanoveris
+- Hanovra
+- Hanovre
+- Hanovro
+- Hanower
+- Hanowery
+- Hanuoveris
+- Hanôver
+- Hànobhar
+- Hānōfer
+- IHanoveri
+- Αννόβερο
+- Ганновер
+- Ганновэр
+- Гановер
+- Гановэр
+- Ханновер
+- Хановер
+- Ҳаннофер
+- Һанновер
+- Հաննովեր
+- Հանովըր
+- האנאווער
+- הנובר
+- هانوفر
+- هانوور
+- ھانۆفەر
+- ھنور
+- ہانوور
+- ہینوور
+- हनोवर
+- हानोफर
+- हेनोवर
+- হানোফার
+- ਹੈਨੋਫ਼ਾ
+- હેનોવર
+- ஹனோவர்
+- హానోవర్
+- ಹ್ಯಾನೋವರ್
+- ഹാനോവർ
+- හැනොවර්
+- ฮันโนเฟอร์
+- ဟန်နိုဗာနယ်
+- ჰანოვერი
+- ሃኖቨር
+- Ḥanóber
+- ハノーファー
+- 汉诺威
+- 漢諾威
+- 하노버
 has_id_wikidata: Q1715
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Luftbild%20Hannover%20Rathaus.JPG
-archives_at: "[[_Standards/WikiData/WD~Municipal_Archive_Hannover,1310039]]"
+archives_at: '[[_Standards/WikiData/WD~Municipal_Archive_Hannover,1310039]]'
 area: 204.15
 BHCL_UUID: c9991e7e-b7bf-4e33-af13-c5e87b82a0f8
 capital_of:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Hanover,164079]]"
-  - "[[_Standards/WikiData/WD~Principality_of_Calenberg,565812]]"
-  - "[[_Standards/WikiData/WD~Electorate_of_Hanover,706018]]"
-  - "[[_Standards/WikiData/WD~Province_of_Hanover,819125]]"
-  - "[[_Standards/WikiData/WD~Lower_Saxony,1197]]"
-  - "[[_Standards/WikiData/WD~Hanover_region,5963]]"
+- '[[_Standards/WikiData/WD~Kingdom_of_Hanover,164079]]'
+- '[[_Standards/WikiData/WD~Principality_of_Calenberg,565812]]'
+- '[[_Standards/WikiData/WD~Electorate_of_Hanover,706018]]'
+- '[[_Standards/WikiData/WD~Province_of_Hanover,819125]]'
+- '[[_Standards/WikiData/WD~Lower_Saxony,1197]]'
+- '[[_Standards/WikiData/WD~Hanover_region,5963]]'
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Hannover.svg
 Commons_category: Hannover
 Commons_gallery: Hannover
 confidential: public
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Ahlem-Badenstedt-Davenstedt,400430]]"
-  - "[[_Standards/WikiData/WD~Herrenhausen-Stöcken,470577]]"
-  - "[[_Standards/WikiData/WD~Mitte,883803]]"
-  - "[[_Standards/WikiData/WD~Bothfeld-Vahrenheide,894709]]"
-  - "[[_Standards/WikiData/WD~Vahrenwald-List,915149]]"
-  - "[[_Standards/WikiData/WD~Buchholz-Kleefeld,998471]]"
-  - "[[_Standards/WikiData/WD~Döhren-Wülfel,1271022]]"
-  - "[[_Standards/WikiData/WD~Ricklingen,1417763]]"
-  - "[[_Standards/WikiData/WD~Kirchrode-Bemerode-Wülferode,1743368]]"
-  - "[[_Standards/WikiData/WD~Linden-Limmer,1826001]]"
-  - "[[_Standards/WikiData/WD~Misburg-Anderten,1938597]]"
-  - "[[_Standards/WikiData/WD~Nord,1997469]]"
-  - "[[_Standards/WikiData/WD~Südstadt-Bult,2381488]]"
+- '[[_Standards/WikiData/WD~Ahlem-Badenstedt-Davenstedt,400430]]'
+- '[[_Standards/WikiData/WD~Herrenhausen-Stöcken,470577]]'
+- '[[_Standards/WikiData/WD~Mitte,883803]]'
+- '[[_Standards/WikiData/WD~Bothfeld-Vahrenheide,894709]]'
+- '[[_Standards/WikiData/WD~Vahrenwald-List,915149]]'
+- '[[_Standards/WikiData/WD~Buchholz-Kleefeld,998471]]'
+- '[[_Standards/WikiData/WD~Döhren-Wülfel,1271022]]'
+- '[[_Standards/WikiData/WD~Ricklingen,1417763]]'
+- '[[_Standards/WikiData/WD~Kirchrode-Bemerode-Wülferode,1743368]]'
+- '[[_Standards/WikiData/WD~Linden-Limmer,1826001]]'
+- '[[_Standards/WikiData/WD~Misburg-Anderten,1938597]]'
+- '[[_Standards/WikiData/WD~Nord,1997469]]'
+- '[[_Standards/WikiData/WD~Südstadt-Bult,2381488]]'
 coordinates_of_easternmost_point: Point(9.9184 52.4034)
 coordinates_of_northernmost_point: Point(9.78113 52.45434)
 coordinates_of_southernmost_point: Point(9.8523 52.3052)
 coordinates_of_westernmost_point: Point(9.60445 52.39699)
 coordinate_location: Point(9.738611111 52.374444444)
-country: "[[_Standards/WikiData/WD~Germany,183]]"
+country: '[[_Standards/WikiData/WD~Germany,183]]'
 demonym:
-  - hannoverià
-  - hannoveriana
-  - hannoverians
-  - hannoverianes
-  - Hannoveraner
-  - Hannoveranerin
-  - Hannoveranerinnen
+- hannoverià
+- hannoveriana
+- hannoverians
+- hannoverianes
+- Hannoveraner
+- Hannoveranerin
+- Hannoveranerinnen
 described_by_source:
-  - "[[_Standards/WikiData/WD~Regesta_Imperii,316838]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Topographia_Braunschweig_Lüneburg,19230666]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Hanover,100868317]]"
+- '[[_Standards/WikiData/WD~Regesta_Imperii,316838]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Topographia_Braunschweig_Lüneburg,19230666]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Hanover,100868317]]'
 elevation_above_sea_level: 55
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flagge%20Hannover.svg
 geoshape: http://commons.wikimedia.org/data/main/Data:Hannover.map
 German_municipality_key: 3241001
 German_regional_key: 32410001001
-head_of_government: "[[_Standards/WikiData/WD~Belit_Onay,15787522]]"
+head_of_government: '[[_Standards/WikiData/WD~Belit_Onay,15787522]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Neues%20Rathaus%20Hannover%202013.jpg
 Image_Archive_Herder_Institute: Q1715
 instance_of:
-  - "[[_Standards/WikiData/WD~district_capital,134626]]"
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~special_municipality_association_of_Germany,1780389]]"
-  - "[[_Standards/WikiData/WD~state_capital_in_Germany,14784328]]"
-  - "[[_Standards/WikiData/WD~urban_municipality_in_Germany,42744322]]"
+- '[[_Standards/WikiData/WD~district_capital,134626]]'
+- '[[_Standards/WikiData/WD~big_city,1549591]]'
+- '[[_Standards/WikiData/WD~special_municipality_association_of_Germany,1780389]]'
+- '[[_Standards/WikiData/WD~state_capital_in_Germany,14784328]]'
+- '[[_Standards/WikiData/WD~urban_municipality_in_Germany,42744322]]'
 isDeleted: false
 ISNI: 123315273
-Köppen_climate_classification: "[[_Standards/WikiData/WD~oceanic_climate,182090]]"
+Köppen_climate_classification: '[[_Standards/WikiData/WD~oceanic_climate,182090]]'
 licence_plate_code: H
 list_of_monuments:
-  - "[[_Standards/WikiData/WD~list_of_cultural_heritage_monuments_in_Hanover,1556926]]"
-  - "[[_Standards/WikiData/WD~Q50841704,50841704]]"
+- '[[_Standards/WikiData/WD~list_of_cultural_heritage_monuments_in_Hanover,1556926]]'
+- '[[_Standards/WikiData/WD~Q50841704,50841704]]'
 local_dialing_code: 511
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Hanover_region,5963]]"
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Hanover_region,5963]]'
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Leine,161051]]"
-  - "[[_Standards/WikiData/WD~Maschsee,315045]]"
-  - "[[_Standards/WikiData/WD~Ihme,464568]]"
-  - "[[_Standards/WikiData/WD~Mittelland_Canal,48480]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Hanover_region,5963]]"
+- '[[_Standards/WikiData/WD~Leine,161051]]'
+- '[[_Standards/WikiData/WD~Maschsee,315045]]'
+- '[[_Standards/WikiData/WD~Ihme,464568]]'
+- '[[_Standards/WikiData/WD~Mittelland_Canal,48480]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Hanover_region,5963]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
+- '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+- '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
 location:
-  - 52.37
-  - 9.73
+- 52.37
+- 9.73
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Hannover%20in%20H.svg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Hannover%20logo%20%282024%29.svg
 mapmarker: city
 mapzoom:
-  - 7
-  - 12
+- 7
+- 12
 member_of:
-  - "[[_Standards/WikiData/WD~Mayors_for_Peace,747279]]"
-  - "[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
-  - "[[_Standards/WikiData/WD~Climate_Alliance,1768108]]"
-  - "[[_Standards/WikiData/WD~Niedersächsischer_Städtetag,1988624]]"
-  - "[[_Standards/WikiData/WD~International_Cities_of_Refuge_Network,15477956]]"
+- '[[_Standards/WikiData/WD~Mayors_for_Peace,747279]]'
+- '[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]'
+- '[[_Standards/WikiData/WD~Climate_Alliance,1768108]]'
+- '[[_Standards/WikiData/WD~Niedersächsischer_Städtetag,1988624]]'
+- '[[_Standards/WikiData/WD~International_Cities_of_Refuge_Network,15477956]]'
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Hannover%20collage.png
 native_label: Hannover
 NUTS_code: DE921
@@ -112,75 +172,243 @@ place_name_sign: http://commons.wikimedia.org/wiki/Special:FilePath/Ortstafel%20
 population: 548186
 postal_code: 30159–30659
 Provenio_UUID: 736fb46a-e612-4368-b5ca-ee02e2051076
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q32052205,32052205]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q32052205,32052205]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Isernhagen,514571]]"
-  - "[[_Standards/WikiData/WD~Hemmingen,534259]]"
-  - "[[_Standards/WikiData/WD~Gehrden,549864]]"
-  - "[[_Standards/WikiData/WD~Ronnenberg,555643]]"
-  - "[[_Standards/WikiData/WD~Sehnde,625095]]"
-  - "[[_Standards/WikiData/WD~Devese,1206728]]"
-  - "[[_Standards/WikiData/WD~Hemmingen-Westerfeld,1604857]]"
-  - "[[_Standards/WikiData/WD~Garbsen,4001]]"
-  - "[[_Standards/WikiData/WD~Langenhagen,4158]]"
-  - "[[_Standards/WikiData/WD~Lehrte,7057]]"
-  - "[[_Standards/WikiData/WD~Laatzen,14856]]"
-  - "[[_Standards/WikiData/WD~Seelze,16052]]"
+- '[[_Standards/WikiData/WD~Isernhagen,514571]]'
+- '[[_Standards/WikiData/WD~Hemmingen,534259]]'
+- '[[_Standards/WikiData/WD~Gehrden,549864]]'
+- '[[_Standards/WikiData/WD~Ronnenberg,555643]]'
+- '[[_Standards/WikiData/WD~Sehnde,625095]]'
+- '[[_Standards/WikiData/WD~Devese,1206728]]'
+- '[[_Standards/WikiData/WD~Hemmingen-Westerfeld,1604857]]'
+- '[[_Standards/WikiData/WD~Garbsen,4001]]'
+- '[[_Standards/WikiData/WD~Langenhagen,4158]]'
+- '[[_Standards/WikiData/WD~Lehrte,7057]]'
+- '[[_Standards/WikiData/WD~Laatzen,14856]]'
+- '[[_Standards/WikiData/WD~Seelze,16052]]'
 short_name: Han
 social_media_followers:
-  - 28981
-  - 35873
+- 28981
+- 35873
 SpocWebEntityId: 30760
 subreddit: hannover
 tabular_population: http://commons.wikimedia.org/data/main/Data:Population+of+Hannover,+Germany.tab
 tags:
-  - geo/City
+- geo/City
 time_of_earliest_written_record: 1150-01-01
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Hannover,70488594]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Hannover,70488594]]'
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Blantyre,188693]]"
-  - "[[_Standards/WikiData/WD~Newcastle_upon_Tyne,1425428]]"
-  - "[[_Standards/WikiData/WD~Poznań,268]]"
-  - "[[_Standards/WikiData/WD~Montreal,340]]"
-  - "[[_Standards/WikiData/WD~La_Paz,1491]]"
-  - "[[_Standards/WikiData/WD~Leipzig,2079]]"
-  - "[[_Standards/WikiData/WD~Perpignan,6730]]"
-  - "[[_Standards/WikiData/WD~Bristol,23154]]"
-  - "[[_Standards/WikiData/WD~Rouen,30974]]"
-  - "[[_Standards/WikiData/WD~Hiroshima,34664]]"
-  - "[[_Standards/WikiData/WD~Kansas_City,41819]]"
+- '[[_Standards/WikiData/WD~Blantyre,188693]]'
+- '[[_Standards/WikiData/WD~Newcastle_upon_Tyne,1425428]]'
+- '[[_Standards/WikiData/WD~Poznań,268]]'
+- '[[_Standards/WikiData/WD~Montreal,340]]'
+- '[[_Standards/WikiData/WD~La_Paz,1491]]'
+- '[[_Standards/WikiData/WD~Leipzig,2079]]'
+- '[[_Standards/WikiData/WD~Perpignan,6730]]'
+- '[[_Standards/WikiData/WD~Bristol,23154]]'
+- '[[_Standards/WikiData/WD~Rouen,30974]]'
+- '[[_Standards/WikiData/WD~Hiroshima,34664]]'
+- '[[_Standards/WikiData/WD~Kansas_City,41819]]'
 type: City
 U_S_National_Archives_Identifier: 10036554
-visitor_center: "[[_Standards/WikiData/WD~Hannover_Marketing_und_Tourismus,27979581]]"
+visitor_center: '[[_Standards/WikiData/WD~Hannover_Marketing_und_Tourismus,27979581]]'
 WOEID: 657169
 X_Twitter_username: hannover
-dv_is_a_: "[[../../../../../../../../../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../../../../../../../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 9.73
 dv_has_place_latitude: 52.37
 dv_has_name: Hannover
-dv_has_place_country: "[[../../../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../../../Niedersachsen]]"
+dv_has_place_country: '[[../../../../../../../../Germany]]'
+dv_has_place_province: '[[../../../../../../Niedersachsen]]'
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../../../../WikiData/WD~Hanover,1715|WD~Hanover,1715]]"
-    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City|Hannover,City]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City.public|Hannover,City.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City.internal|Hannover,City.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City.protect|Hannover,City.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City.private|Hannover,City.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City.personal|Hannover,City.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City.secret|Hannover,City.secret]]"
+  - '[[../../../../../../../../../../../../WikiData/WD~Hanover,1715|WD~Hanover,1715]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City|Hannover,City]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City.public|Hannover,City.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City.internal|Hannover,City.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City.protect|Hannover,City.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City.private|Hannover,City.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City.personal|Hannover,City.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City.secret|Hannover,City.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../../../../WikiData/WD~Hanover,1715|WD~Hanover,1715]]"
-  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City|Hannover,City]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City.public|Hannover,City.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City.internal|Hannover,City.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City.protect|Hannover,City.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City.private|Hannover,City.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City.personal|Hannover,City.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City.secret|Hannover,City.secret]]"
+- '[[../../../../../../../../../../../../WikiData/WD~Hanover,1715|WD~Hanover,1715]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City|Hannover,City]]'
+- '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City.public|Hannover,City.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City.internal|Hannover,City.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City.protect|Hannover,City.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City.private|Hannover,City.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City.personal|Hannover,City.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Region_Hannover/cities~Region_Hannover/Hannover/boroughs~Hannover/Hannover,City.secret|Hannover,City.secret]]'
+dv_has_:
+  name_:
+    af: Hannover
+    am: ሃኖቨር
+    an: Hannover
+    ang: Hānōfer
+    ar: هانوفر
+    arz: هانوفر
+    ast: Hannover
+    ay: Hannover
+    az: Hannover
+    azb: هانوفر
+    ba: Ганновер
+    ban: Hannover
+    bar: Hannova
+    be: Гановер
+    be-tarask: Гановэр
+    bg: Хановер
+    bn: হানোফার
+    br: Hannover
+    bs: Hannover
+    ca: Hannover
+    cbk-zam: Hannover
+    ce: Хановер
+    ceb: Hannover (kapital sa estado pederal)
+    ckb: ھانۆفەر
+    cs: Hannover
+    cv: Ганновер
+    cy: Hannover
+    da: Hannover
+    de: Hannover
+    de-ch: Hannover
+    diq: Hanover
+    dsb: Hannover
+    el: Αννόβερο
+    eml: Hannover
+    en: Hanover
+    en-ca: Hanover
+    en-gb: Hanover
+    en-us: Hanover
+    eo: Hanovro
+    es: Hannover
+    et: Hannover
+    eu: Hannover
+    fa: هانوفر
+    fi: Hannover
+    fo: Hannover
+    fr: Hanovre
+    frr: Hannover
+    fy: Hannover
+    ga: Hannover
+    gd: Hànobhar
+    gl: Hannover
+    gsw: Hannover
+    gu: હેનોવર
+    ha: Hanover
+    hak: Hanover
+    he: הנובר
+    hi: हनोवर
+    hr: Hannover
+    hsb: Hannover
+    hu: Hannover
+    hy: Հաննովեր
+    hyw: Հանովըր
+    ia: Hannover
+    id: Hannover
+    ie: Hannover
+    io: Hannover
+    is: Hannover
+    it: Hannover
+    ja: ハノーファー
+    jam: Anuova
+    jv: Hanover
+    ka: ჰანოვერი
+    kaa: Ganover
+    kk: Ганновер
+    kn: ಹ್ಯಾನೋವರ್
+    ko: 하노버
+    ku: Hannover
+    ky: Ганновер
+    la: Hannovera
+    lb: Hannover
+    li: Hannover
+    lij: Hannover
+    lld: Hanover
+    lmo: Hannover
+    lt: Hanoveris
+    lv: Hannovere
+    mdf: Ганновэр
+    mg: Hannover
+    min: Hannover
+    mk: Хановер
+    ml: ഹാനോവർ
+    mn: Ханновер
+    mr: हानोफर
+    ms: Hanover
+    mt: Hannover
+    mwl: Ḥanóber
+    my: ဟန်နိုဗာနယ်
+    mzn: هانوفر
+    nah: Hannover
+    nan: Hannover
+    nb: Hannover
+    nds: Hannober
+    nds-nl: Hannover
+    ne: हेनोवर
+    nl: Hannover
+    nn: Hannover
+    oc: Hannover
+    os: Ганновер
+    pa: ਹੈਨੋਫ਼ਾ
+    pfl: Hannover
+    pih: Hannover
+    pl: Hanower
+    pms: Hannover
+    pnb: ہینوور
+    ps: هانوور
+    pt: Hanôver
+    pt-br: Hanôver
+    qu: Hannover
+    ro: Hanovra
+    ru: Ганновер
+    rue: Ганновер
+    sah: Ганновэр
+    sc: Hannover
+    scn: Hannover
+    sco: Hanover
+    sd: ھنور
+    sgs: Hanuoveris
+    sh: Hannover
+    si: හැනොවර්
+    sk: Hannover
+    sl: Hannover
+    sq: Hanoveri
+    sr: Хановер
+    stq: Hannover
+    sv: Hannover
+    sw: Hannover
+    szl: Hanowery
+    ta: ஹனோவர்
+    te: హానోవర్
+    tg: Ҳаннофер
+    th: ฮันโนเฟอร์
+    tl: Hannover
+    tly: Hannover
+    tr: Hannover
+    tt: Һанновер
+    tum: Hanover
+    tw: Hannover
+    ug: Hanofér
+    uk: Ганновер
+    ur: ہانوور
+    uz: Hannover
+    vec: Hannover
+    vep: Gannover
+    vi: Hannover
+    vo: Hannover
+    war: Hanover
+    wuu: 汉诺威
+    xh: IHanoveri
+    yi: האנאווער
+    yo: Hanover
+    yue: 漢諾威
+    zh: 汉诺威
+    zh-cn: 汉诺威
+    zh-hans: 汉诺威
+    zh-hant: 漢諾威
+    zh-hk: 漢諾威
+    zh-tw: 漢諾威
 ---
-
 # [[Hannover,City]] 
 ﻿
  

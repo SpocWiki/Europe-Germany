@@ -1,45 +1,76 @@
 ---
-dv_is_a_: "[[../../../../../../../Geography/Place|Place]]"
+dv_is_a_: '[[../../../../../../../Geography/Place|Place]]'
 dv_has_place_longitude: 8.66
 dv_has_place_latitude: 49.87
 dv_has_name: Darmstadt
-dv_has_place_country: "[[../../../../Germany]]"
-dv_has_place_province: "[[../../Hessen]]"
+dv_has_place_country: '[[../../../../Germany]]'
+dv_has_place_province: '[[../../Hessen]]'
 dv_is_:
   same_as:
-    - "[[_Standards/WikiData/WD~Darmstadt,2973]]"
-    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt|Darmstadt]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.public|Darmstadt.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.internal|Darmstadt.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.protect|Darmstadt.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.private|Darmstadt.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.personal|Darmstadt.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.secret|Darmstadt.secret]]"
+  - '[[_Standards/WikiData/WD~Darmstadt,2973]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt|Darmstadt]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.public|Darmstadt.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.internal|Darmstadt.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.protect|Darmstadt.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.private|Darmstadt.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.personal|Darmstadt.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.secret|Darmstadt.secret]]'
 dv_is_same_as:
-  - "[[_Standards/WikiData/WD~Darmstadt,2973]]"
-  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt|Darmstadt]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.public|Darmstadt.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.internal|Darmstadt.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.protect|Darmstadt.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.private|Darmstadt.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.personal|Darmstadt.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.secret|Darmstadt.secret]]"
-
-has_time_started: 1330-01-01 
+- '[[_Standards/WikiData/WD~Darmstadt,2973]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt|Darmstadt]]'
+- '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.public|Darmstadt.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.internal|Darmstadt.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.protect|Darmstadt.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.private|Darmstadt.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.personal|Darmstadt.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt.secret|Darmstadt.secret]]'
+has_time_started: 1330-01-01
 aliases:
+- Darmshtadi
+- Darmstadium
+- Darmstadt
+- Darmştat
+- Darmštadt
+- Darmštatas
+- Darmštate
+- Ντάρμστατ
+- Дармштадт
+- Дармштат
+- Дармщат
+- Դարմշտադտ
+- Տարմշթատ
+- דרמשטאדט
+- دارمشتات
+- دارمىستاد
+- درمستادت
+- ڈریمسٹڈ
+- डार्मश्टाट
+- ডার্মস্টাড
+- ડાર્મસ્ટાડ્ટ
+- டார்ம்ஸ்ட்டாட்
+- డార్మ్స్టడట్
+- ಡಾರ್ಮ್ಸ್ಟಾಟ್
+- ඩම්ස්ටඩ්
+- ดาร์มชตัท
+- დარმშტადტი
+- ダルムシュタット
+- 达姆施塔特
+- 達姆施塔特
+- 達斯泰特
+- 다름슈타트
 has_id_wikidata: Q2973
 confidential: public
 isDeleted: false
 location:
-  - 49.87
-  - 8.66
+- 49.87
+- 8.66
 mapmarker: city
 mapzoom:
-  - 7
-  - 12
+- 7
+- 12
 SpocWebEntityId: 29721
 tags:
-  - geo/City
+- geo/City
 type: City
 coordinate_location: Point(8.65 49.866666666)
 geoshape: http://commons.wikimedia.org/data/main/Data:Deutschland/Hessen/Darmstadt.map
@@ -54,9 +85,9 @@ coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Wappen%20
 official_website: https://www.darmstadt.de/
 described_at_URL: https://www.lagis-hessen.de/de/subjects/gsrec/current/1/sn/ol?q=Darmstadt
 ISNI: 000000012321689X
-German_municipality_key: "06411000"
-German_regional_key: "064110000000"
-U_S_National_Archives_Identifier: "10044934"
+German_municipality_key: 06411000
+German_regional_key: 064110000000
+U_S_National_Archives_Identifier: 10044934
 Dewey_Decimal_Classification: 2--434167
 postal_code: 64283–64297
 BHCL_UUID: c6a36f7b-5ef0-41a6-8c2d-eab264c11596
@@ -68,66 +99,66 @@ X_Twitter_username: Stadt_Darmstadt
 Instagram_username: wissenschaftsstadt_darmstadt
 Facebook_username: wissenschaftsstadtdarmstadt
 instance_of:
-  - "[[_Standards/WikiData/WD~district_capital,134626]]"
-  - "[[_Standards/WikiData/WD~major_regional_center,253030]]"
-  - "[[_Standards/WikiData/WD~residenz,1180262]]"
-  - "[[_Standards/WikiData/WD~college_town,1187811]]"
-  - "[[_Standards/WikiData/WD~European_City,1375749]]"
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~urban_municipality_in_Germany,42744322]]"
-  - "[[_Standards/WikiData/WD~urban_district_of_Hesse,61980648]]"
-owner_of: "[[_Standards/WikiData/WD~Rhein_Main_Verkehrsverbund,314042]]"
-different_from: "[[_Standards/WikiData/WD~Darmstadt,363826]]"
+- '[[_Standards/WikiData/WD~district_capital,134626]]'
+- '[[_Standards/WikiData/WD~major_regional_center,253030]]'
+- '[[_Standards/WikiData/WD~residenz,1180262]]'
+- '[[_Standards/WikiData/WD~college_town,1187811]]'
+- '[[_Standards/WikiData/WD~European_City,1375749]]'
+- '[[_Standards/WikiData/WD~big_city,1549591]]'
+- '[[_Standards/WikiData/WD~urban_municipality_in_Germany,42744322]]'
+- '[[_Standards/WikiData/WD~urban_district_of_Hesse,61980648]]'
+owner_of: '[[_Standards/WikiData/WD~Rhein_Main_Verkehrsverbund,314042]]'
+different_from: '[[_Standards/WikiData/WD~Darmstadt,363826]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Topographia_Hassiae,19230683]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Sechster_Band,130477825]]"
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Topographia_Hassiae,19230683]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Sechster_Band,130477825]]'
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Modau,663762]]"
-  - "[[_Standards/WikiData/WD~Darmbach,831702]]"
-  - "[[_Standards/WikiData/WD~Ruthsenbach,27886784]]"
-part_of: "[[_Standards/WikiData/WD~Frankfurt_Rhine_Main_Metropolitan_Region,707278]]"
+- '[[_Standards/WikiData/WD~Modau,663762]]'
+- '[[_Standards/WikiData/WD~Darmbach,831702]]'
+- '[[_Standards/WikiData/WD~Ruthsenbach,27886784]]'
+part_of: '[[_Standards/WikiData/WD~Frankfurt_Rhine_Main_Metropolitan_Region,707278]]'
 is_member_of:
-  - "[[_Standards/WikiData/WD~Mayors_for_Peace,747279]]"
-  - "[[_Standards/WikiData/WD~Climate_Alliance,1768108]]"
-  - "[[_Standards/WikiData/WD~Landeswohlfahrtsverband_Hessen,1802757]]"
-  - "[[_Standards/WikiData/WD~Hessischer_Städtetag,26882604]]"
+- '[[_Standards/WikiData/WD~Mayors_for_Peace,747279]]'
+- '[[_Standards/WikiData/WD~Climate_Alliance,1768108]]'
+- '[[_Standards/WikiData/WD~Landeswohlfahrtsverband_Hessen,1802757]]'
+- '[[_Standards/WikiData/WD~Hessischer_Städtetag,26882604]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Darmstadt_Arheilgen,1166422]]"
-  - "[[_Standards/WikiData/WD~Bessungen,1166427]]"
-  - "[[_Standards/WikiData/WD~Eberstadt,1166430]]"
-  - "[[_Standards/WikiData/WD~Kranichstein,1166435]]"
-  - "[[_Standards/WikiData/WD~Darmstadt_Stadtmitte,1166438]]"
-  - "[[_Standards/WikiData/WD~Darmstadt_Nord,1166439]]"
-  - "[[_Standards/WikiData/WD~Darmstadt_Ost,1166442]]"
-  - "[[_Standards/WikiData/WD~Darmstadt_West,1166444]]"
-  - "[[_Standards/WikiData/WD~Wixhausen,1166448]]"
+- '[[_Standards/WikiData/WD~Darmstadt_Arheilgen,1166422]]'
+- '[[_Standards/WikiData/WD~Bessungen,1166427]]'
+- '[[_Standards/WikiData/WD~Eberstadt,1166430]]'
+- '[[_Standards/WikiData/WD~Kranichstein,1166435]]'
+- '[[_Standards/WikiData/WD~Darmstadt_Stadtmitte,1166438]]'
+- '[[_Standards/WikiData/WD~Darmstadt_Nord,1166439]]'
+- '[[_Standards/WikiData/WD~Darmstadt_Ost,1166442]]'
+- '[[_Standards/WikiData/WD~Darmstadt_West,1166444]]'
+- '[[_Standards/WikiData/WD~Wixhausen,1166448]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Q1235308,1235308]]"
-  - "[[_Standards/WikiData/WD~Ort_der_Vielfalt,1411043]]"
+- '[[_Standards/WikiData/WD~Q1235308,1235308]]'
+- '[[_Standards/WikiData/WD~Ort_der_Vielfalt,1411043]]'
 capital_of:
-  - "[[_Standards/WikiData/WD~Starkenburg_Province,2332860]]"
-  - "[[_Standards/WikiData/WD~Darmstadt_Dieburg,7916]]"
-  - "[[_Standards/WikiData/WD~Darmstadt_Government_Region,7932]]"
-  - "[[_Standards/WikiData/WD~Grand_Duchy_of_Hesse,20135]]"
-category_for_honorary_citizens_of_entity: "[[_Standards/WikiData/WD~Q8942726,8942726]]"
-archives_at: "[[_Standards/WikiData/WD~Stadtarchiv_Darmstadt,23786628]]"
-head_of_government: "[[_Standards/WikiData/WD~Hanno_Benz,121270523]]"
+- '[[_Standards/WikiData/WD~Starkenburg_Province,2332860]]'
+- '[[_Standards/WikiData/WD~Darmstadt_Dieburg,7916]]'
+- '[[_Standards/WikiData/WD~Darmstadt_Government_Region,7932]]'
+- '[[_Standards/WikiData/WD~Grand_Duchy_of_Hesse,20135]]'
+category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q8942726,8942726]]'
+archives_at: '[[_Standards/WikiData/WD~Stadtarchiv_Darmstadt,23786628]]'
+head_of_government: '[[_Standards/WikiData/WD~Hanno_Benz,121270523]]'
 inception: 1330-01-01T00:00:00Z
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
+- '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+- '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Offenbach,7912]]"
-  - "[[_Standards/WikiData/WD~Darmstadt_Dieburg,7916]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Darmstadt_Government_Region,7932]]"
-twinned_administrative_body: "[[_Standards/WikiData/WD~Graz,13298]]"
-country: "[[_Standards/WikiData/WD~Germany,183]]"
+- '[[_Standards/WikiData/WD~Offenbach,7912]]'
+- '[[_Standards/WikiData/WD~Darmstadt_Dieburg,7916]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Darmstadt_Government_Region,7932]]'
+twinned_administrative_body: '[[_Standards/WikiData/WD~Graz,13298]]'
+country: '[[_Standards/WikiData/WD~Germany,183]]'
 elevation_above_sea_level: 144
 social_media_followers: 6583
 area: 122.07
@@ -139,18 +170,167 @@ population: 164792
 native_label: Darmstadt
 official_name: Darmstadt
 local_dialing_code:
-  - "06151"
-  - "06150"
-  - "06159"
-WOEID: "643787"
+- 06151
+- 06150
+- 06159
+WOEID: 643787
 Commons_category: Darmstadt
 Commons_gallery: Darmstadt
 licence_plate_code: DA
-German_district_key: "06411"
+German_district_key: 06411
 demonym: Heiner
 short_name: Ds
+dv_has_:
+  name_:
+    af: Darmstadt
+    an: Darmstadt
+    ar: دارمشتات
+    arz: دارمشتات
+    ast: Darmstadt
+    az: Darmştat
+    azb: دارمشتات
+    ban: Darmstadt
+    bar: Darmstadt
+    be: Дармштат
+    be-tarask: Дармштат
+    bg: Дармщат
+    bn: ডার্মস্টাড
+    br: Darmstadt
+    bs: Darmstadt
+    ca: Darmstadt
+    ce: Дармштадт
+    ceb: Darmstadt
+    ckb: دارمشتات
+    co: Darmstadt
+    cs: Darmstadt
+    cy: Darmstadt
+    da: Darmstadt
+    de: Darmstadt
+    de-at: Darmstadt
+    de-ch: Darmstadt
+    diq: Darmstadt
+    el: Ντάρμστατ
+    en: Darmstadt
+    en-ca: Darmstadt
+    en-gb: Darmstadt
+    eo: Darmstadt
+    es: Darmstadt
+    et: Darmstadt
+    eu: Darmstadt
+    fa: دارمشتات
+    fi: Darmstadt
+    fr: Darmstadt
+    frp: Darmstadt
+    frr: Darmstadt
+    fur: Darmstadt
+    fy: Darmstadt
+    ga: Darmstadt
+    gd: Darmstadt
+    gl: Darmstadt
+    gsw: Darmstadt
+    gu: ડાર્મસ્ટાડ્ટ
+    gv: Darmstadt
+    hak: Darmstadt
+    he: דרמשטאדט
+    hi: Darmstadt
+    hr: Darmstadt
+    hsb: Darmstadt
+    hu: Darmstadt
+    hy: Դարմշտադտ
+    hyw: Տարմշթատ
+    ia: Darmstadt
+    id: Darmstadt
+    ie: Darmstadt
+    io: Darmstadt
+    is: Darmstadt
+    it: Darmstadt
+    ja: ダルムシュタット
+    ka: დარმშტადტი
+    kg: Darmstadt
+    kk: Дармштадт
+    kn: ಡಾರ್ಮ್ಸ್ಟಾಟ್
+    ko: 다름슈타트
+    ku: Darmstadt
+    ky: Дармштадт
+    la: Darmstadium
+    lb: Darmstadt
+    li: Darmstadt
+    lij: Darmstadt
+    lld: Darmstadt
+    lmo: Darmstadt
+    lt: Darmštatas
+    lv: Darmštate
+    mdf: Дармштадт
+    mg: Darmstadt
+    min: Darmstadt
+    mk: Дармштат
+    mn: Дармштадт
+    mr: डार्मश्टाट
+    ms: Darmstadt
+    mt: Darmstadt
+    nan: Darmstadt
+    nap: Darmstadt
+    nb: Darmstadt
+    nds: Darmstadt
+    nds-nl: Darmstadt
+    nl: Darmstadt
+    nn: Darmstadt
+    nrm: Darmstadt
+    oc: Darmstadt
+    os: Дармштадт
+    pam: Darmstadt
+    pcd: Darmstadt
+    pl: Darmstadt
+    pms: Darmstadt
+    pnb: ڈریمسٹڈ
+    ps: دارمشتات
+    pt: Darmstadt
+    pt-br: Darmstadt
+    qu: Darmstadt
+    rm: Darmstadt
+    ro: Darmstadt
+    ru: Дармштадт
+    sc: Darmstadt
+    scn: Darmstadt
+    sco: Darmstadt
+    sh: Darmstadt
+    si: ඩම්ස්ටඩ්
+    sk: Darmstadt
+    sl: Darmstadt
+    sq: Darmshtadi
+    sr: Дармштат
+    sr-el: Darmstadt
+    stq: Darmstadt
+    sv: Darmstadt
+    sw: Darmstadt
+    ta: டார்ம்ஸ்ட்டாட்
+    te: డార్మ్స్టడట్
+    tg: Дармштадт
+    th: ดาร์มชตัท
+    tr: Darmstadt
+    tt: Дармштадт
+    tum: Darmstadt
+    ug: دارمىستاد
+    uk: Дармштадт
+    ur: درمستادت
+    uz: Darmstadt
+    vec: Darmstadt
+    vep: Darmštadt
+    vi: Darmstadt
+    vls: Darmstadt
+    vo: Darmstadt
+    wa: Darmstadt
+    war: Darmstadt
+    wo: Darmstadt
+    wuu: 达姆施塔特
+    yue: 達斯泰特
+    zh: 达姆施塔特
+    zh-cn: 达姆施塔特
+    zh-hans: 达姆施塔特
+    zh-hant: 達姆施塔特
+    zh-tw: 達姆施塔特
+    zu: Darmstadt
 ---
-
 # [[Darmstadt]] 
 
 
