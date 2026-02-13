@@ -85,9 +85,9 @@ dv_has_:
     ja: ヒッツアッカー (エルベ)
     ka: ჰიტცაკერი
     kk: Хитцаккер
-    kk-arab: حىيتتساككەر
-    kk-cyrl: Хитцаккер
-    kk-latn: Xïtcakker
+    kk_arab: حىيتتساككەر
+    kk_cyrl: Хитцаккер
+    kk_latn: Xïtcakker
     ko: 히차커
     ku: Hitzacker (Elbe)
     ky: Хитцаккер
@@ -108,8 +108,8 @@ dv_has_:
     sk: Hitzacker
     sl: Hitzacker
     sr: Хицакер
-    sr-ec: Хицакер
-    sr-el: Hicaker
+    sr_ec: Хицакер
+    sr_el: Hicaker
     sv: Hitzacker
     tr: Hitzacker
     tt: Хитцаккер (Эльба)
@@ -120,9 +120,9 @@ dv_has_:
     vo: Hitzacker
     war: Hitzacker
     zh: 希茨阿克
-    zh-hans: 希茨阿克
-    zh-hant: 希茨阿克
-    zh-hk: 希茨阿克
+    zh_hans: 希茨阿克
+    zh_hant: 希茨阿克
+    zh_hk: 希茨阿克
 ---
 is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 

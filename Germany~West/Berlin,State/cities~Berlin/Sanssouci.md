@@ -115,8 +115,8 @@ dv_has_:
     sk: Sanssouci
     sl: Sanssouci
     sr: Сансуси
-    sr-ec: Сансуси
-    sr-el: Sansusi
+    sr_ec: Сансуси
+    sr_el: Sansusi
     sv: Sanssouci
     th: พระราชวังซ็องซูซี
     tl: Sanssouci
@@ -124,12 +124,12 @@ dv_has_:
     uk: Палац Сансусі
     vi: Sanssouci
     zh: 無憂宮
-    zh-cn: 无忧宫
-    zh-hans: 无忧宫
-    zh-hant: 無憂宮
-    zh-hk: 無憂宮
-    zh-sg: 无忧宫
-    zh-tw: 無憂宮
+    zh_cn: 无忧宫
+    zh_hans: 无忧宫
+    zh_hant: 無憂宮
+    zh_hk: 無憂宮
+    zh_sg: 无忧宫
+    zh_tw: 無憂宮
 ---
 is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 

@@ -177,7 +177,7 @@ dv_has_:
     az: İohann Volfqanq Göte adına Frankfurt Universiteti
     azb: قوته فرانکفورت بیلیمیوردو
     be: Франкфурцкі ўніверсітэт імя Ёгана Вольфганга Гётэ
-    be-tarask: Франкфурцкі ўнівэрсытэт імя Гётэ
+    be_tarask: Франкфурцкі ўнівэрсытэт імя Гётэ
     bg: Гьоте университет Франкфурт на Майн
     bn: গ্যোটে বিশ্ববিদ্যালয় ফ্রাঙ্কফুর্ট
     bs: Goetheov univerzitet
@@ -186,11 +186,11 @@ dv_has_:
     cy: Prifysgol Goethe yn Frankfurt
     da: Johann Wolfgang Goethe-Universität
     de: Goethe-Universität Frankfurt am Main
-    de-ch: Goethe-Universität Frankfurt am Main
+    de_ch: Goethe-Universität Frankfurt am Main
     el: Πανεπιστήμιο Γκαίτε της Φραγκφούρτης
     en: Goethe University Frankfurt
-    en-ca: Goethe University Frankfurt
-    en-gb: Goethe University Frankfurt
+    en_ca: Goethe University Frankfurt
+    en_gb: Goethe University Frankfurt
     eo: Universitato de Frankfurto
     es: Universidad Johann Wolfgang Goethe
     et: Johann Wolfgang Goethe Frankfurdi ülikool
@@ -215,7 +215,7 @@ dv_has_:
     ko: 프랑크푸르트암마인 요한 볼프강 괴테 대학교
     ksh: Jöhte-Univäsitäit en Frangkfodd aam Main
     ku: Zanîngeha Johann Wolfgang Goethe ya Frankfurt am Mainê
-    ku-latn: Zanîngeha Johann Wolfgang Goethe ya Frankfurt am Mainê
+    ku_latn: Zanîngeha Johann Wolfgang Goethe ya Frankfurt am Mainê
     la: Universitas Ioannes Wolfgang Goethe Francofurtensis
     lb: Goethe-Universitéit Frankfurt
     li: Universitèèt Frankfurt
@@ -232,7 +232,7 @@ dv_has_:
     pa: ਗੇਟੇ ਯੂਨੀਵਰਸਿਟੀ ਫ਼ਰਾਂਕਫ਼ੁਰਟ
     pl: Uniwersytet Johanna Wolfganga Goethego we Frankfurcie nad Menem
     pt: Universidade de Frankfurt
-    pt-br: Universidade de Frankfurt
+    pt_br: Universidade de Frankfurt
     ro: Universitatea Johann Wolfgang Goethe Frankfurt
     ru: Франкфуртский университет имени Иоганна Вольфганга Гёте
     sh: Univerzitet Frankfurt
@@ -254,9 +254,9 @@ dv_has_:
     wuu: 法兰克福大学
     yue: 法蘭克福大學
     zh: 法兰克福大学
-    zh-cn: 约翰-沃尔夫冈-歌德法兰克福大学
-    zh-hans: 约翰-沃尔夫冈-歌德法兰克福大学
-    zh-hant: 約翰-沃爾夫岡-歌德法蘭克福大學
+    zh_cn: 约翰-沃尔夫冈-歌德法兰克福大学
+    zh_hans: 约翰-沃尔夫冈-歌德法兰克福大学
+    zh_hant: 約翰-沃爾夫岡-歌德法蘭克福大學
 ---
 # [[Goethe_University,Frankfurt]] 
 

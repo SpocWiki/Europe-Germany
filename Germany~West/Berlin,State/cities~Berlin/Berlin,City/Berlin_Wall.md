@@ -212,7 +212,7 @@ dv_has_:
     az: Berlin divarı
     ba: Берлин диуары
     be: Берлінская сцяна
-    be-tarask: Бэрлінскі мур
+    be_tarask: Бэрлінскі мур
     bg: Берлинска стена
     bn: বার্লিন প্রাচীর
     bo: པེར་ལིན་ལྕགས་རི།
@@ -296,7 +296,7 @@ dv_has_:
     pnb: برلن کند
     ps: د برلین دیوال
     pt: Muro de Berlim
-    pt-br: Muro de Berlim
+    pt_br: Muro de Berlim
     qu: Berlin pirqa
     ro: Zidul Berlinului
     ru: Берлинская стена
@@ -336,9 +336,9 @@ dv_has_:
     yo: wall of Berlin
     yue: 柏林圍牆
     zh: 柏林圍牆
-    zh-cn: 柏林墙
-    zh-hans: 柏林墙
-    zh-hant: 柏林圍牆
+    zh_cn: 柏林墙
+    zh_hans: 柏林墙
+    zh_hant: 柏林圍牆
 ---
 # [[Berlin_Wall]] 
 

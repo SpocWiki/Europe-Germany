@@ -199,7 +199,7 @@ dv_has_:
     ban: Hesse
     bar: Hessn
     be: Гесэн
-    be-tarask: Гэсэн
+    be_tarask: Гэсэн
     bg: Хесен
     bn: হেসেন
     br: Hessen
@@ -222,8 +222,8 @@ dv_has_:
     el: Έσση
     eml: Àsia
     en: Hesse
-    en-ca: Hesse
-    en-gb: Hesse
+    en_ca: Hesse
+    en_gb: Hesse
     en-us: Hesse
     eo: Hesio
     es: Hesse
@@ -293,7 +293,7 @@ dv_has_:
     nap: Assia
     nb: Hessen
     nds: Hessen
-    nds-nl: Hessen
+    nds_nl: Hessen
     ne: हेसे
     nl: Hessen
     nn: Hessen
@@ -311,7 +311,7 @@ dv_has_:
     pnb: ہیسے
     ps: هسن
     pt: Hesse
-    pt-br: Hesse
+    pt_br: Hesse
     qu: Hessen
     rm: Hessen
     ro: Hessen
@@ -354,14 +354,14 @@ dv_has_:
     yue: 黑森
     zea: Hessen
     zh: 黑森州
-    zh-cn: 黑森州
-    zh-hans: 黑森州
-    zh-hant: 黑森州
-    zh-hk: 黑森州
-    zh-mo: 黑森
+    zh_cn: 黑森州
+    zh_hans: 黑森州
+    zh_hant: 黑森州
+    zh_hk: 黑森州
+    zh_mo: 黑森
     zh-my: 黑森
-    zh-sg: 黑森州
-    zh-tw: 黑森
+    zh_sg: 黑森州
+    zh_tw: 黑森
 ---
 # [[Hessen]] 
 

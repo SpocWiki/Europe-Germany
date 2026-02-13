@@ -38,11 +38,11 @@ dv_has_:
     da: Einbeck
     de: Einbeck
     de-at: Einbeck
-    de-ch: Einbeck
+    de_ch: Einbeck
     el: Άινμπεκ
     en: Einbeck
-    en-ca: Einbeck
-    en-gb: Einbeck
+    en_ca: Einbeck
+    en_gb: Einbeck
     eo: Einbeck
     es: Einbeck
     et: Einbeck
@@ -85,7 +85,7 @@ dv_has_:
     nap: Einbeck
     nb: Einbeck
     nds: Aimbeck
-    nds-nl: Einbeck
+    nds_nl: Einbeck
     nl: Einbeck
     nn: Einbeck
     nrm: Einbeck
@@ -94,7 +94,7 @@ dv_has_:
     pl: Einbeck
     pms: Einbeck
     pt: Einbeck
-    pt-br: Einbeck
+    pt_br: Einbeck
     rm: Einbeck
     ro: Einbeck
     ru: Айнбек
@@ -105,7 +105,7 @@ dv_has_:
     sk: Einbeck
     sl: Einbeck
     sr: Ајнбек
-    sr-el: Einbeck
+    sr_el: Einbeck
     sv: Einbeck
     sw: Einbeck
     tr: Einbeck

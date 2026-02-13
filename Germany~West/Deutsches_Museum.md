@@ -135,7 +135,7 @@ dv_has_:
     ba: Немец музейы
     bar: Deitsches Museum
     be: Нямецкі музей (Мюнхен)
-    be-tarask: Нямецкі музэй
+    be_tarask: Нямецкі музэй
     bg: Технически музей в Мюнхен
     bn: ডয়চেস জাদুঘর
     ca: Deutsches Museum
@@ -144,8 +144,8 @@ dv_has_:
     de: Deutsches Museum
     el: Γερμανικό Μουσείο
     en: Deutsches Museum
-    en-ca: Deutsches Museum
-    en-gb: Deutsches Museum
+    en_ca: Deutsches Museum
+    en_gb: Deutsches Museum
     eo: Deutsches Museum
     es: Deutsches Museum
     eu: Deutsches Museum
@@ -171,7 +171,7 @@ dv_has_:
     pl: Muzeum Niemieckie
     pnb: جرمن میوزیم
     pt: Deutsches Museum
-    pt-br: Deutsches Museum
+    pt_br: Deutsches Museum
     ro: Muzeul German
     ru: Немецкий музей
     sk: Deutsches Museum
@@ -186,12 +186,12 @@ dv_has_:
     wuu: 德意志博物馆
     yue: 德意志博物館
     zh: 德意志博物馆
-    zh-cn: 德意志博物馆
-    zh-hans: 德意志博物馆
-    zh-hant: 德意志博物館
-    zh-hk: 德意志博物館
-    zh-sg: 德意志博物馆
-    zh-tw: 德意志博物館
+    zh_cn: 德意志博物馆
+    zh_hans: 德意志博物馆
+    zh_hant: 德意志博物館
+    zh_hk: 德意志博物館
+    zh_sg: 德意志博物馆
+    zh_tw: 德意志博物館
 ---
 # [[Deutsches_Museum]] 
 

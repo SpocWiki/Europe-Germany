@@ -50,9 +50,9 @@ dv_has_:
     uk: Фабрика Фагус
     vi: Nhà máy Fagus
     zh: 法古斯工廠
-    zh-hans: 法古斯工厂
-    zh-hant: 法古斯工廠
-    zh-hk: 法古斯工廠
+    zh_hans: 法古斯工厂
+    zh_hant: 法古斯工廠
+    zh_hk: 法古斯工廠
 aliases:
 - Fabbrika ta' Fagus
 - Fabryka obuwia Fagus w Alfeld

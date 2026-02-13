@@ -163,7 +163,7 @@ dv_has_:
     az: Almaniya Milli Kitabxanası
     bar: Deutsche Nationalbibliothek
     be: Нямецкая нацыянальная бібліятэка
-    be-tarask: Нямецкая нацыянальная бібліятэка
+    be_tarask: Нямецкая нацыянальная бібліятэка
     bg: Германска национална библиотека
     bn: জার্মান ন্যাশনাল লাইব্রেরী
     br: Levraoueg Vroadel Alamagn
@@ -175,7 +175,7 @@ dv_has_:
     de: Deutsche Nationalbibliothek
     el: Εθνική Βιβλιοθήκη της Γερμανίας
     en: German National Library
-    en-gb: German National Library
+    en_gb: German National Library
     en-us: German National Library
     eo: Germana Nacia Biblioteko
     es: Biblioteca Nacional de Alemania
@@ -215,7 +215,7 @@ dv_has_:
     pl: Niemiecka Biblioteka Narodowa
     ps: جرمن ملي کتابتون
     pt: Biblioteca Nacional da Alemanha
-    pt-br: Biblioteca Nacional da Alemanha
+    pt_br: Biblioteca Nacional da Alemanha
     ro: Biblioteca Națională a Germaniei
     ru: Немецкая национальная библиотека
     sco: German Naitional Librar
@@ -223,7 +223,7 @@ dv_has_:
     sk: Nemecká národná knižnica
     sl: Nemška nacionalna knjižnica
     sr: Национална библиотека Немачке
-    sr-ec: Национална библиотека Немачке
+    sr_ec: Национална библиотека Немачке
     sv: Deutsche Nationalbibliothek
     tr: Alman Ulusal Kütüphanesi
     tt: Алмания дәүләт китапханәсе
@@ -234,9 +234,9 @@ dv_has_:
     wuu: 德国国家图书馆
     yue: 德意志國立圖書館
     zh: 德国国家图书馆
-    zh-cn: 德国国家图书馆
-    zh-hans: 德国国家图书馆
-    zh-hant: 德國國家圖書館
+    zh_cn: 德国国家图书馆
+    zh_hans: 德国国家图书馆
+    zh_hant: 德國國家圖書館
 ---
 # [[German_National_Library]] 
 

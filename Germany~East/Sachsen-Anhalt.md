@@ -233,7 +233,7 @@ dv_has_:
     ban: Saxony-Anhalt
     bar: Sachsen-Anhalt
     be: Саксонія-Ангальт
-    be-tarask: Саксонія-Ангальт
+    be_tarask: Саксонія-Ангальт
     bg: Саксония-Анхалт
     bn: জাখসেন-আনহাল্ট
     br: Saks-Anhalt
@@ -248,14 +248,14 @@ dv_has_:
     cy: Sachsen-Anhalt
     da: Sachsen-Anhalt
     de: Sachsen-Anhalt
-    de-ch: Sachsen-Anhalt
+    de_ch: Sachsen-Anhalt
     diq: Saksonya-Anhalt
     dsb: Sakska-Anhaltska
     el: Σαξονία-Άνχαλτ
     eml: Sasògna-Anhalt
     en: Saxony-Anhalt
-    en-ca: Saxony-Anhalt
-    en-gb: Saxony-Anhalt
+    en_ca: Saxony-Anhalt
+    en_gb: Saxony-Anhalt
     en-us: Saxony-Anhalt
     eo: Saksio-Anhalto
     es: Sajonia-Anhalt
@@ -320,7 +320,7 @@ dv_has_:
     nan: Sachsen-Anhalt
     nb: Sachsen-Anhalt
     nds: Sassen-Anholt
-    nds-nl: Saksen-Aanhoalt
+    nds_nl: Saksen-Aanhoalt
     nl: Saksen-Anhalt
     nn: Sachsen-Anhalt
     nov: Saxonia-Anhalt
@@ -334,7 +334,7 @@ dv_has_:
     pnb: سیکسنی آنہالٹ
     ps: زاخسن-انهالت
     pt: Saxónia-Anhalt
-    pt-br: Saxônia-Anhalt
+    pt_br: Saxônia-Anhalt
     qu: Sachsen-Anhalt
     rm: Saxonia-Anhalt
     ro: Saxonia-Anhalt
@@ -373,10 +373,10 @@ dv_has_:
     yo: Saxony-Anhalt
     yue: 薩克遜－雁候
     zh: 萨克森-安哈尔特州
-    zh-cn: 萨克森-安哈尔特州
-    zh-hans: 萨克森-安哈尔特州
-    zh-hant: 薩克森-安哈爾特州
-    zh-tw: 薩克森-安哈特邦
+    zh_cn: 萨克森-安哈尔特州
+    zh_hans: 萨克森-安哈尔特州
+    zh_hant: 薩克森-安哈爾特州
+    zh_tw: 薩克森-安哈特邦
 ---
 # [[Sachsen-Anhalt]] 
 

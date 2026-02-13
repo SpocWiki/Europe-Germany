@@ -239,7 +239,7 @@ dv_has_:
     ban: Schleswig-Holstein
     bar: Schleswig-Holstein
     be: Шлезвіг-Гольштэйн
-    be-tarask: Шлезьвіг-Гальштайн
+    be_tarask: Шлезьвіг-Гальштайн
     bg: Шлезвиг-Холщайн
     bn: শ্লেসভিগ-হলষ্টাইন
     br: Schleswig-Holstein
@@ -254,14 +254,14 @@ dv_has_:
     cy: Schleswig-Holstein
     da: Slesvig-Holsten
     de: Schleswig-Holstein
-    de-ch: Schleswig-Holstein
+    de_ch: Schleswig-Holstein
     diq: Şleswig-Holştayn
     dsb: Šleswig-Holštejnska
     el: Σλέσβιχ-Χόλσταϊν
     eml: Schleswig-Holstein
     en: Schleswig-Holstein
-    en-ca: Schleswig-Holstein
-    en-gb: Schleswig-Holstein
+    en_ca: Schleswig-Holstein
+    en_gb: Schleswig-Holstein
     en-us: Schleswig-Holstein
     eo: Ŝlesvigo-Holstinio
     es: Schleswig-Holstein
@@ -331,7 +331,7 @@ dv_has_:
     nan: Schleswig-Holstein
     nb: Schleswig-Holstein
     nds: Sleeswig-Holsteen
-    nds-nl: Sleeswiek-Holstain
+    nds_nl: Sleeswiek-Holstain
     ne: श्लेसविग-होल्सटीन
     nl: Sleeswijk-Holstein
     nn: Schleswig-Holstein
@@ -346,7 +346,7 @@ dv_has_:
     pnb: شلیسوگ ہولسٹاین
     ps: شلسویګ-هولشتاین
     pt: Schleswig-Holstein
-    pt-br: Schleswig-Holstein
+    pt_br: Schleswig-Holstein
     qu: Schleswig-Holstein
     rm: Schleswig-Holstein
     ro: Schleswig-Holstein
@@ -386,11 +386,11 @@ dv_has_:
     yue: 舒勒斯維－荷斯泰因
     zea: Schleswig-Holstein
     zh: 石勒苏益格-荷尔斯泰因
-    zh-cn: 石勒苏益格-荷尔斯泰因
-    zh-hans: 石勒苏益格-荷尔斯泰因
-    zh-hant: 什列斯威-霍爾斯坦
-    zh-hk: 什列斯威-好斯敦
-    zh-tw: 什列斯威-霍爾斯坦
+    zh_cn: 石勒苏益格-荷尔斯泰因
+    zh_hans: 石勒苏益格-荷尔斯泰因
+    zh_hant: 什列斯威-霍爾斯坦
+    zh_hk: 什列斯威-好斯敦
+    zh_tw: 什列斯威-霍爾斯坦
 ---
 # [[Schleswig-Holstein]] 
 

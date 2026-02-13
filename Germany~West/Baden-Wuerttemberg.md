@@ -247,7 +247,7 @@ dv_has_:
     ban: Baden-Württemberg
     bar: Bodn-Wiattmbeag
     be: Бадэн-Вюртэмберг
-    be-tarask: Бадэн-Вюртэмбэрг
+    be_tarask: Бадэн-Вюртэмбэрг
     bg: Баден-Вюртемберг
     bn: বাডেন-ভুর্টেমবের্গ
     br: Baden-Württemberg
@@ -267,14 +267,14 @@ dv_has_:
     dag: Baden-Württemberg
     de: Baden-Württemberg
     de-at: Baden-Württemberg
-    de-ch: Baden-Württemberg
+    de_ch: Baden-Württemberg
     diq: Baden-Wurtemberg
     dsb: Baden-Württembergska
     el: Βάδη-Βυρτεμβέργη
     eml: Baden-Württemberg
     en: Baden-Württemberg
-    en-ca: Baden-Württemberg
-    en-gb: Baden-Württemberg
+    en_ca: Baden-Württemberg
+    en_gb: Baden-Württemberg
     en-us: Baden-Württemberg
     eo: Baden-Virtembergo
     es: Baden-Wurtemberg
@@ -348,7 +348,7 @@ dv_has_:
     nap: Baden-Württemberg
     nb: Baden-Württemberg
     nds: Baden-Württemberg
-    nds-nl: Boaden-Wurttembaarg
+    nds_nl: Boaden-Wurttembaarg
     ne: बाडेन-वुर्टेम्बर्ग
     nl: Baden-Württemberg
     nn: Baden-Württemberg
@@ -366,7 +366,7 @@ dv_has_:
     pnb: بادنورتمبرگ
     ps: بادن ورتمبرګ
     pt: Baden-Württemberg
-    pt-br: Baden-Württemberg
+    pt_br: Baden-Württemberg
     qu: Baden-Württemberg
     rm: Baden-Württemberg
     ro: Baden-Württemberg
@@ -383,7 +383,7 @@ dv_has_:
     sl: Baden - Württemberg
     sq: Baden-Vyrtemberg
     sr: Баден-Виртемберг
-    sr-el: Baden-Württemberg
+    sr_el: Baden-Württemberg
     srn: Baden-Württemberg
     stq: Baden-Würtembierich
     sv: Baden-Württemberg
@@ -414,14 +414,14 @@ dv_has_:
     yue: 巴登－烏騰堡
     zea: Baden-Württemberg
     zh: 巴登-符腾堡州
-    zh-cn: 巴登-符腾堡州
-    zh-hans: 巴登-符腾堡州
-    zh-hant: 巴登-符腾堡州
-    zh-hk: 巴登-符腾堡州
-    zh-mo: 巴登-符腾堡州
+    zh_cn: 巴登-符腾堡州
+    zh_hans: 巴登-符腾堡州
+    zh_hant: 巴登-符腾堡州
+    zh_hk: 巴登-符腾堡州
+    zh_mo: 巴登-符腾堡州
     zh-my: 巴登-符腾堡州
-    zh-sg: 巴登-符腾堡州
-    zh-tw: 巴登－符腾堡
+    zh_sg: 巴登-符腾堡州
+    zh_tw: 巴登－符腾堡
     zu: Baden-Württemberg
 ---
 name = `=this.dv_has_name` 

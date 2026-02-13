@@ -192,7 +192,7 @@ dv_has_:
     ban: Darmstadt
     bar: Darmstadt
     be: Дармштат
-    be-tarask: Дармштат
+    be_tarask: Дармштат
     bg: Дармщат
     bn: ডার্মস্টাড
     br: Darmstadt
@@ -207,12 +207,12 @@ dv_has_:
     da: Darmstadt
     de: Darmstadt
     de-at: Darmstadt
-    de-ch: Darmstadt
+    de_ch: Darmstadt
     diq: Darmstadt
     el: Ντάρμστατ
     en: Darmstadt
-    en-ca: Darmstadt
-    en-gb: Darmstadt
+    en_ca: Darmstadt
+    en_gb: Darmstadt
     eo: Darmstadt
     es: Darmstadt
     et: Darmstadt
@@ -272,7 +272,7 @@ dv_has_:
     nap: Darmstadt
     nb: Darmstadt
     nds: Darmstadt
-    nds-nl: Darmstadt
+    nds_nl: Darmstadt
     nl: Darmstadt
     nn: Darmstadt
     nrm: Darmstadt
@@ -285,7 +285,7 @@ dv_has_:
     pnb: ڈریمسٹڈ
     ps: دارمشتات
     pt: Darmstadt
-    pt-br: Darmstadt
+    pt_br: Darmstadt
     qu: Darmstadt
     rm: Darmstadt
     ro: Darmstadt
@@ -299,7 +299,7 @@ dv_has_:
     sl: Darmstadt
     sq: Darmshtadi
     sr: Дармштат
-    sr-el: Darmstadt
+    sr_el: Darmstadt
     stq: Darmstadt
     sv: Darmstadt
     sw: Darmstadt
@@ -325,10 +325,10 @@ dv_has_:
     wuu: 达姆施塔特
     yue: 達斯泰特
     zh: 达姆施塔特
-    zh-cn: 达姆施塔特
-    zh-hans: 达姆施塔特
-    zh-hant: 達姆施塔特
-    zh-tw: 達姆施塔特
+    zh_cn: 达姆施塔特
+    zh_hans: 达姆施塔特
+    zh_hant: 達姆施塔特
+    zh_tw: 達姆施塔特
     zu: Darmstadt
 ---
 # [[Darmstadt]] 

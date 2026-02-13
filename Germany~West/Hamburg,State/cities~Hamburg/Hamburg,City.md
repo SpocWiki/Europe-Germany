@@ -352,7 +352,7 @@ dv_has_:
     ban: Hamburg
     bar: Hamburg
     be: Гамбург
-    be-tarask: Гамбург
+    be_tarask: Гамбург
     bg: Хамбург
     bho: हैम्बर्ग
     bn: হামবুর্গ
@@ -360,7 +360,7 @@ dv_has_:
     bs: Hamburg
     bxr: Һамбург
     ca: Hamburg
-    cbk-zam: Hamburg
+    cbk_zam: Hamburg
     cdo: Hamburg
     ce: Гамбург
     ceb: Free and Hanseatic City of Hamburg
@@ -376,14 +376,14 @@ dv_has_:
     dag: Hamburg
     de: Hamburg
     de-at: Hamburg
-    de-ch: Hamburg
+    de_ch: Hamburg
     diq: Hamburg
     dsb: Hamburg
     el: Αμβούργο
     eml: Ambûrg
     en: Hamburg
-    en-ca: Hamburg
-    en-gb: Hamburg
+    en_ca: Hamburg
+    en_gb: Hamburg
     eo: Hamburgo
     es: Hamburgo
     et: Hamburg
@@ -433,7 +433,7 @@ dv_has_:
     kg: Hamburg
     kge: Hamburg
     kk: Гамбург
-    kk-cyrl: Гамбург
+    kk_cyrl: Гамбург
     kn: ಹ್ಯಾಂಬರ್ಗ್
     ko: 함부르크
     ksh: Hamburg
@@ -474,7 +474,7 @@ dv_has_:
     nap: Hamburg
     nb: Hamburg
     nds: Hamborg
-    nds-nl: Hambörg
+    nds_nl: Hambörg
     ne: ह्याम्बर्ग
     new: ह्याम्बर्ग
     nl: Hamburg
@@ -495,7 +495,7 @@ dv_has_:
     pnb: ہامبرگ
     ps: هامبورگ
     pt: Hamburgo
-    pt-br: Hamburgo
+    pt_br: Hamburgo
     qu: Hamburg
     rm: Hamburg
     rmy: Hamburg
@@ -515,8 +515,8 @@ dv_has_:
     smn: Hambur
     sq: Hamburgu
     sr: Хамбург
-    sr-ec: Хамбург
-    sr-el: Hamburg
+    sr_ec: Хамбург
+    sr_el: Hamburg
     stq: Hambuurich
     su: Hamburg
     sv: Hamburg
@@ -525,7 +525,7 @@ dv_has_:
     ta: ஹாம்பெர்க்
     te: హ్యాంబర్గ్
     tg: Ҳамбург
-    tg-cyrl: Ҳамбург
+    tg_cyrl: Ҳамбург
     th: ฮัมบวร์ค
     tk: Gamburg
     tl: Hamburg
@@ -555,14 +555,14 @@ dv_has_:
     yue: 漢堡
     zea: Hamburg
     zh: 汉堡
-    zh-cn: 汉堡
-    zh-hans: 汉堡
-    zh-hant: 漢堡
-    zh-hk: 漢堡
-    zh-mo: 漢堡
+    zh_cn: 汉堡
+    zh_hans: 汉堡
+    zh_hant: 漢堡
+    zh_hk: 漢堡
+    zh_mo: 漢堡
     zh-my: 汉堡
-    zh-sg: 汉堡
-    zh-tw: 漢堡
+    zh_sg: 汉堡
+    zh_tw: 漢堡
     zu: Hamburg
 ---
 # [[Hamburg,City]] 

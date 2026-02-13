@@ -18,8 +18,8 @@ dv_has_:
   name_:
     de: S-Bahnhof Köpenick
     en: Berlin-Köpenick station
-    en-ca: Berlin-Köpenick station
-    en-gb: Berlin-Köpenick station
+    en_ca: Berlin-Köpenick station
+    en_gb: Berlin-Köpenick station
     es: Köpenick
     eu: Berlin-Köpenick geltokia
     fr: Berlin-Köpenick

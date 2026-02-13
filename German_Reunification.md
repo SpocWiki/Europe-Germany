@@ -128,7 +128,7 @@ dv_has_:
     az: Almaniyanın birləşdirilməsi (1990)
     ba: Германияның берләшеүе (1990)
     be: Аб'яднанне Германіі, 1990
-    be-tarask: узьяднаньне Нямеччыны
+    be_tarask: узьяднаньне Нямеччыны
     bg: Обединение на Германия
     bn: জার্মান পুনঃএকত্রীকরণ
     br: Adunanidigezh Alamagn
@@ -180,7 +180,7 @@ dv_has_:
     pnb: جرمن مُڑ اتحاد
     ps: د جرمني بیاځلي اتحاد
     pt: Reunificação da Alemanha
-    pt-br: Reunificação da Alemanha
+    pt_br: Reunificação da Alemanha
     ro: reunificarea Germaniei
     ru: объединение Германии
     sc: Re-unificatzione tedesca
@@ -206,8 +206,8 @@ dv_has_:
     wuu: 两德统一
     yue: 兩德統一
     zh: 兩德統一
-    zh-hant: 兩德統一
-    zh-tw: 兩德統一
+    zh_hant: 兩德統一
+    zh_tw: 兩德統一
 ---
 # [[German_Reunification]] 
 

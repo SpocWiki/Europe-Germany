@@ -298,7 +298,7 @@ dv_has_:
     az: II Vilhelm
     azb: ایکینجی ویلهلم
     be: Вільгельм II Гогенцолерн
-    be-tarask: Вільгельм II
+    be_tarask: Вільгельм II
     bg: Вилхелм II
     bn: দ্বিতীয় ভিলহেল্ম
     br: Gwilherm II
@@ -309,11 +309,11 @@ dv_has_:
     cy: Wilhelm II, ymerawdwr yr Almaen
     da: Wilhelm 2. af Tyskland
     de: Wilhelm II.
-    de-ch: Wilhelm II.
+    de_ch: Wilhelm II.
     el: Γουλιέλμος Β΄ της Γερμανίας
     en: Wilhelm II
-    en-ca: Wilhelm II, German Emperor
-    en-gb: Wilhelm II
+    en_ca: Wilhelm II, German Emperor
+    en_gb: Wilhelm II
     eo: Vilhelmo la 2-a
     es: Guillermo II de Alemania
     et: Wilhelm II
@@ -344,7 +344,7 @@ dv_has_:
     kbp: Empereur Guillaume 2 de l'Allemagne
     ko: 빌헬름 2세
     ku: Wilhelm II yê Almanyayê
-    ku-latn: Wilhelm II yê Almanyayê
+    ku_latn: Wilhelm II yê Almanyayê
     ky: Вильгельм II Гогенцоллерн
     la: Gulielmus II
     lb: Wilhelm II. vun Däitschland
@@ -371,7 +371,7 @@ dv_has_:
     pnb: ولہلم II
     ps: جرمنی سترواک، دویم ویلهلم
     pt: Guilherme II da Alemanha
-    pt-br: Guilherme II da Alemanha
+    pt_br: Guilherme II da Alemanha
     qu: Wilhelm II
     ro: Wilhelm al II-lea al Germaniei
     ru: Вильгельм II
@@ -402,14 +402,14 @@ dv_has_:
     yi: ווילהעלם דער צווייטער
     yue: 威廉二世 (德國)
     zh: 威廉二世
-    zh-cn: 威廉二世 (德国)
-    zh-hans: 威廉二世 (德国)
-    zh-hant: 威廉二世 (德國)
-    zh-hk: 威廉二世 (德國)
-    zh-mo: 威廉二世 (德國)
+    zh_cn: 威廉二世 (德国)
+    zh_hans: 威廉二世 (德国)
+    zh_hant: 威廉二世 (德國)
+    zh_hk: 威廉二世 (德國)
+    zh_mo: 威廉二世 (德國)
     zh-my: 威廉二世 (德国)
-    zh-sg: 威廉二世 (德国)
-    zh-tw: 威廉二世 (德國)
+    zh_sg: 威廉二世 (德国)
+    zh_tw: 威廉二世 (德國)
 ---
 # [[Wilhelm_II]] 
 

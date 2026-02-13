@@ -245,7 +245,7 @@ dv_has_:
     az: Konrad Adenauer
     bar: Konrad Adenauer
     be: Конрад Адэнаўэр
-    be-tarask: Конрад Адэнаўэр
+    be_tarask: Конрад Адэнаўэр
     bg: Конрад Аденауер
     bi: Konrad Adenauer
     bn: কনরাড আডেনাউয়ের
@@ -261,7 +261,7 @@ dv_has_:
     dag: Konrad Adenauer
     de: Konrad Adenauer
     de-at: Konrad Adenauer
-    de-ch: Konrad Adenauer
+    de_ch: Konrad Adenauer
     diq: Konrad Adenauer
     dsb: Konrad Adenauer
     ee: Konrad Adenauer
@@ -269,8 +269,8 @@ dv_has_:
     el: Κόνραντ Αντενάουερ
     eml: Konrad Adenauer
     en: Konrad Adenauer
-    en-ca: Konrad Adenauer
-    en-gb: Konrad Adenauer
+    en_ca: Konrad Adenauer
+    en_gb: Konrad Adenauer
     en-us: Konrad Adenauer
     eo: Konrad Adenauer
     es: Konrad Adenauer
@@ -327,7 +327,7 @@ dv_has_:
     lt: Konrad Adenauer
     lv: Konrāds Adenauers
     lzh: 康拉德·阿登納
-    map-bms: Konrad Adenauer
+    map_bms: Konrad Adenauer
     mg: Konrad Adenauer
     min: Konrad Adenauer
     mk: Конрад Аденауер
@@ -344,7 +344,7 @@ dv_has_:
     nap: Konrad Adenauer
     nb: Konrad Adenauer
     nds: Konrad Adenauer
-    nds-nl: Konrad Adenauer
+    nds_nl: Konrad Adenauer
     ne: कोनार्ट आडनावर
     nl: Konrad Adenauer
     nn: Konrad Adenauer
@@ -362,7 +362,7 @@ dv_has_:
     pnb: کونراڈ ایڈینار
     ps: کونراد ادناور
     pt: Konrad Adenauer
-    pt-br: Konrad Adenauer
+    pt_br: Konrad Adenauer
     qu: Konrad Adenauer
     rm: Konrad Adenauer
     rmy: Konrad Adenauer
@@ -383,7 +383,7 @@ dv_has_:
     sli: Konrad Adenauer
     sq: Konrad Adenauer
     sr: Конрад Аденауер
-    sr-el: Konrad Adenauer
+    sr_el: Konrad Adenauer
     stq: Konrad Adenauer
     su: Konrad Adenauer
     sv: Konrad Adenauer
@@ -417,9 +417,9 @@ dv_has_:
     yue: 阿丹拿
     zea: Konrad Adenauer
     zh: 康拉德·阿登纳
-    zh-cn: 康拉德·阿登纳
-    zh-hans: 康拉德·阿登纳
-    zh-hant: 康拉德·阿登纳
+    zh_cn: 康拉德·阿登纳
+    zh_hans: 康拉德·阿登纳
+    zh_hant: 康拉德·阿登纳
     zu: Konrad Adenauer
 ---
 # [[Adenauer,Konrad]] 

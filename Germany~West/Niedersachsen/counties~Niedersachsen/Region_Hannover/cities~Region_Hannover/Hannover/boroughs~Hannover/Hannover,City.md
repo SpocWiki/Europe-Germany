@@ -255,13 +255,13 @@ dv_has_:
     ban: Hannover
     bar: Hannova
     be: Гановер
-    be-tarask: Гановэр
+    be_tarask: Гановэр
     bg: Хановер
     bn: হানোফার
     br: Hannover
     bs: Hannover
     ca: Hannover
-    cbk-zam: Hannover
+    cbk_zam: Hannover
     ce: Хановер
     ceb: Hannover (kapital sa estado pederal)
     ckb: ھانۆفەر
@@ -270,14 +270,14 @@ dv_has_:
     cy: Hannover
     da: Hannover
     de: Hannover
-    de-ch: Hannover
+    de_ch: Hannover
     diq: Hanover
     dsb: Hannover
     el: Αννόβερο
     eml: Hannover
     en: Hanover
-    en-ca: Hanover
-    en-gb: Hanover
+    en_ca: Hanover
+    en_gb: Hanover
     en-us: Hanover
     eo: Hanovro
     es: Hannover
@@ -343,7 +343,7 @@ dv_has_:
     nan: Hannover
     nb: Hannover
     nds: Hannober
-    nds-nl: Hannover
+    nds_nl: Hannover
     ne: हेनोवर
     nl: Hannover
     nn: Hannover
@@ -357,7 +357,7 @@ dv_has_:
     pnb: ہینوور
     ps: هانوور
     pt: Hanôver
-    pt-br: Hanôver
+    pt_br: Hanôver
     qu: Hannover
     ro: Hanovra
     ru: Ганновер
@@ -403,11 +403,11 @@ dv_has_:
     yo: Hanover
     yue: 漢諾威
     zh: 汉诺威
-    zh-cn: 汉诺威
-    zh-hans: 汉诺威
-    zh-hant: 漢諾威
-    zh-hk: 漢諾威
-    zh-tw: 漢諾威
+    zh_cn: 汉诺威
+    zh_hans: 汉诺威
+    zh_hant: 漢諾威
+    zh_hk: 漢諾威
+    zh_tw: 漢諾威
 ---
 # [[Hannover,City]] 
 ﻿

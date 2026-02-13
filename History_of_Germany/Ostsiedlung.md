@@ -63,7 +63,7 @@ dv_has_:
     an: Ostsiedlung
     ar: التوسع الألماني الشرقي
     ast: Ostsiedlung
-    be-tarask: Расьсяленьне немцаў на ўсход
+    be_tarask: Расьсяленьне немцаў на ўсход
     bg: Разселване на немците на изток
     ca: Ostsiedlung
     cs: Ostsiedlung
@@ -91,7 +91,7 @@ dv_has_:
     lfn: Ostsiedlung
     lv: Vāciešu apmešanās uz austrumiem
     mk: германска преселба на исток
-    nds-nl: oostkolonisatie
+    nds_nl: oostkolonisatie
     nl: oostkolonisatie
     pl: Ostsiedlung
     pt: Ostsiedlung
@@ -104,8 +104,8 @@ dv_has_:
     tr: Ostsiedlung
     uk: Розселення німців на схід
     zh: 东向移民运动
-    zh-hans: 向东移民运动
-    zh-hant: 向東移民運動
+    zh_hans: 向东移民运动
+    zh_hant: 向東移民運動
 ---
 # [[Ostsiedlung]] 
 

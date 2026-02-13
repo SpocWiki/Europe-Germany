@@ -31,12 +31,12 @@ location:
 - 13.386944
 dv_has_:
   name_:
-    be-tarask: Бэрлін-Фрыдрыхштрасэ
+    be_tarask: Бэрлін-Фрыдрыхштрасэ
     ca: estació de Berlin-Friedrichstraße
     cs: Berlin Friedrichstraße
     da: Bahnhof Berlin Friedrichstraße
     de: Bahnhof Berlin Friedrichstraße
-    de-ch: Bahnhof Berlin Friedrichstrasse
+    de_ch: Bahnhof Berlin Friedrichstrasse
     en: Berlin-Friedrichstraße railway station
     es: Friedrichstraße
     et: Friedrichstraße raudteejaam

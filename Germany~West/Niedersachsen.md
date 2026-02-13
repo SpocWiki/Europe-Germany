@@ -309,7 +309,7 @@ dv_has_:
     ban: Saxony Sor
     bar: Niedasaxn
     be: Ніжняя Саксонія
-    be-tarask: Ніжняя Саксонія
+    be_tarask: Ніжняя Саксонія
     bg: Долна Саксония
     bn: নিডারজাখসেন
     br: Saks-Izel
@@ -321,20 +321,20 @@ dv_has_:
     ckb: ساکسۆنیای خواروو
     co: Bassa Sassonia
     crh: Aşağı Saksoniya
-    crh-latn: Aşağı Saksoniya
+    crh_latn: Aşağı Saksoniya
     cs: Dolní Sasko
     cv: Анат Саксони
     cy: Niedersachsen
     da: Niedersachsen
     de: Niedersachsen
-    de-ch: Niedersachsen
+    de_ch: Niedersachsen
     diq: Saksonya Cêrêne
     dsb: Dolnosakska
     el: Κάτω Σαξονία
     eml: Sasògna Basa
     en: Lower Saxony
-    en-ca: Lower Saxony
-    en-gb: Lower Saxony
+    en_ca: Lower Saxony
+    en_gb: Lower Saxony
     en-us: Lower Saxony
     eo: Malsupra Saksio
     es: Baja Sajonia
@@ -402,7 +402,7 @@ dv_has_:
     nan: Niedersachsen
     nb: Niedersachsen
     nds: Neddersassen
-    nds-nl: Nedersaksen
+    nds_nl: Nedersaksen
     nl: Nedersaksen
     nn: Niedersachsen
     oc: Bassa Saxònia
@@ -416,7 +416,7 @@ dv_has_:
     pnb: تھلواں سیکسنی
     ps: نیدرزاخسن
     pt: Baixa Saxônia
-    pt-br: Baixa Saxônia
+    pt_br: Baixa Saxônia
     qu: Niedersachsen
     rm: Saxonia Inferiura
     ro: Saxonia Inferioară
@@ -458,10 +458,10 @@ dv_has_:
     yue: 下薩克遜
     zea: Niedersachsen
     zh: 下萨克森州
-    zh-cn: 下萨克森州
-    zh-hans: 下萨克森州
-    zh-hant: 下薩克森州
-    zh-tw: 下薩克森邦
+    zh_cn: 下萨克森州
+    zh_hans: 下萨克森州
+    zh_hant: 下薩克森州
+    zh_tw: 下薩克森邦
 ---
 # [[Niedersachsen]] 
 

@@ -248,7 +248,7 @@ dv_has_:
     ban: Mecklenburg-Vorpommern
     bar: Mecklenburg-Vorpommern
     be: Мекленбург-Пярэдняя Памеранія
-    be-tarask: Мэкленбург — Пярэдняя Памяранія
+    be_tarask: Мэкленбург — Пярэдняя Памяранія
     bg: Мекленбург-Предна Померания
     bn: মেকলেনবুর্গ-ফোর্পোমের্ন
     br: Mecklenburg-Pomerania ar C'hornaoueg
@@ -332,7 +332,7 @@ dv_has_:
     nan: Mecklenburg-Vorpommern
     nb: Mecklenburg-Vorpommern
     nds: Mekelnborg-Vörpommern
-    nds-nl: Mekelenborg-Vuurpommeren
+    nds_nl: Mekelenborg-Vuurpommeren
     ne: मेक्लेनबर्ग-वोर्पोमेर्न
     nl: Mecklenburg-Voor-Pommeren
     nn: Mecklenburg-Vorpommern
@@ -348,7 +348,7 @@ dv_has_:
     pnb: میکلنبرگ-پومرینیا
     ps: مکلنبورګ-فورپومرن
     pt: Mecklemburgo-Pomerânia Ocidental
-    pt-br: Mecklemburgo-Pomerânia Ocidental
+    pt_br: Mecklemburgo-Pomerânia Ocidental
     qu: Mecklenburg-Vorpommern
     rm: Mecklenburg-Pomerania Anteriura
     ro: Mecklenburg-Pomerania Inferioară
@@ -389,9 +389,9 @@ dv_has_:
     yue: 美倫堡－前波瑪恩
     zea: Mecklenburg-Vorpommern
     zh: 梅克伦堡－前波美拉尼亚
-    zh-hans: 梅克伦堡－前波美拉尼亚
-    zh-hant: 梅克倫堡－前波美拉尼亞
-    zh-tw: 麥克倫堡-佛波門
+    zh_hans: 梅克伦堡－前波美拉尼亚
+    zh_hant: 梅克倫堡－前波美拉尼亞
+    zh_tw: 麥克倫堡-佛波門
 ---
 # [[Mecklenburg-Vorpommern]] 
 

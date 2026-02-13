@@ -73,7 +73,7 @@ dv_has_:
     az: Alman fəlsəfəsi
     ba: Немец фәлсәфәһе
     be: нямецкая філасофія
-    be-tarask: нямецкая філязофія
+    be_tarask: нямецкая філязофія
     ca: filosofia germànica
     cs: německá filozofie
     da: Tysk filosofi

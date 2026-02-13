@@ -67,7 +67,7 @@ dv_has_:
     ar: مدرسة دسلدورف للرسم
     ast: Escuela pictórica de Düsseldorf
     az: Düsseldorf Rəssamlıq Məktəbi
-    be-tarask: дусэльдофская мастацкая школа
+    be_tarask: дусэльдофская мастацкая школа
     bg: Дюселдорфска художествена школа
     ca: Escola de pintura de Düsseldorf
     cs: Düsseldorfská malířská škola
@@ -93,8 +93,8 @@ dv_has_:
     ru: Дюссельдорфская художественная школа
     sh: Düsseldorfska slikarska škola
     sr: Диселдорфска школа
-    sr-ec: Диселдорфска школа
-    sr-el: Diseldorfska škola
+    sr_ec: Диселдорфска школа
+    sr_el: Diseldorfska škola
     sv: Düsseldorfskolan
     uk: Дюссельдорфська художня школа
     zh: 杜塞道夫畫派

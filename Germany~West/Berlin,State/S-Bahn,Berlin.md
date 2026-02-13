@@ -66,11 +66,11 @@ dv_has_:
     cs: S-Bahn v Berlíně
     da: Berlins S-Bahn
     de: S-Bahn Berlin
-    de-ch: S-Bahn Berlin
+    de_ch: S-Bahn Berlin
     el: Προαστιακός σιδηρόδρομος Βερολίνου
     en: Berlin S-Bahn
-    en-ca: Berlin S-Bahn
-    en-gb: Berlin S-Bahn
+    en_ca: Berlin S-Bahn
+    en_gb: Berlin S-Bahn
     eo: S-Bahn de Berlino
     es: S-Bahn de Berlín
     et: Berliini linnaraudtee
@@ -94,7 +94,7 @@ dv_has_:
     nl: S-Bahn van Berlijn
     pl: S-Bahn w Berlinie
     pt: S-Bahn-Berlin
-    pt-br: S-Bahn-Berlin
+    pt_br: S-Bahn-Berlin
     ru: Берлинская городская электричка
     sh: Berlinski S-voz
     sk: Berlínska rýchlodráha
@@ -105,7 +105,7 @@ dv_has_:
     uk: Берлінська міська електричка
     ur: برلن ایس-بان
     zh: 柏林城市快鐵
-    zh-hant: 柏林S-Bahn
+    zh_hant: 柏林S-Bahn
 ---
 ## #has_/text_of_/abstract  
 

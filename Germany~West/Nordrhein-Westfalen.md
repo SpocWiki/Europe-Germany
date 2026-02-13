@@ -270,7 +270,7 @@ dv_has_:
     ban: Rhine-Westphalia Kalér
     bar: Nordrhein-Westfalen
     be: Паўночны Рэйн-Вестфалія
-    be-tarask: Паўночны Райн — Вэстфалія
+    be_tarask: Паўночны Райн — Вэстфалія
     bg: Северен Рейн-Вестфалия
     bn: নর্টরাইন-ভেস্টফালেন
     br: Nordrhein-Westfalen
@@ -291,8 +291,8 @@ dv_has_:
     el: Βόρεια Ρηνανία-Βεστφαλία
     eml: Renàgna Setentriunàla-Vestfàglia
     en: North Rhine-Westphalia
-    en-ca: North Rhine-Westphalia
-    en-gb: North Rhine-Westphalia
+    en_ca: North Rhine-Westphalia
+    en_gb: North Rhine-Westphalia
     en-us: North Rhine-Westphalia
     eo: Nordrejn-Vestfalio
     es: Renania del Norte-Westfalia
@@ -361,7 +361,7 @@ dv_has_:
     nap: Nord Reno-Westfalia
     nb: Nordrhein-Westfalen
     nds: Noordrhien-Westfalen
-    nds-nl: Noordrhain-Westfele
+    nds_nl: Noordrhain-Westfele
     ne: नर्थ राइन वेस्टफेलिया
     nl: Noordrijn-Westfalen
     nn: Nordrhein-Westfalen
@@ -378,7 +378,7 @@ dv_has_:
     pnb: اتلا رائین لیندا فالیہ
     ps: نوردراین-وستفالن
     pt: Renânia do Norte-Vestfália
-    pt-br: Renânia do Norte-Vestfália
+    pt_br: Renânia do Norte-Vestfália
     qu: Nordrhein-Westfalen
     rm: Rain dal Nord-Vestfalia
     ro: Renania de Nord-Westfalia
@@ -423,10 +423,10 @@ dv_has_:
     yue: 北萊茵－西法倫
     zea: Nordrhein-Westfalen
     zh: 北莱茵-威斯特法伦州
-    zh-cn: 北莱茵-威斯特法伦州
-    zh-hans: 北莱茵-威斯特法伦州
-    zh-hant: 北萊茵-威斯特法倫州
-    zh-hk: 北萊因-威斯特法倫
+    zh_cn: 北莱茵-威斯特法伦州
+    zh_hans: 北莱茵-威斯特法伦州
+    zh_hant: 北萊茵-威斯特法倫州
+    zh_hk: 北萊因-威斯特法倫
 ---
 # [[Nordrhein-Westfalen]]
 
