@@ -99,6 +99,7 @@ dv_has_:
     uk: Дюссельдорфська художня школа
     zh: 杜塞道夫畫派
 ---
+
 # [[Düsseldorf_School_of_Painting]] 
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Düsseldorf_school_of_painting,680559|WD~Düsseldorf_school_of_painting,680559]] 

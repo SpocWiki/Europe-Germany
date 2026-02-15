@@ -51,6 +51,9 @@ dv_is_same_as:
 - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Köpenick_Station,Berlin.secret|Köpenick_Station,Berlin.secret]]'
 has_id_wikidata: Q800479
 ---
+
+# [[Köpenick_Station,Berlin]]  
+
 has_place_latitude = `=this.dv_has_place_latitude`
 has_place_longitude = `=this.dv_has_place_longitude`
 

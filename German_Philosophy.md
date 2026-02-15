@@ -111,6 +111,7 @@ dv_has_:
     vi: Triết học cổ điển Đức
     zh: 德國哲學
 ---
+
 # [[German_Philosophy]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~German_philosophy,1203683|WD~German_philosophy,1203683]] 

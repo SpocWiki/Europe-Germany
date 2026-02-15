@@ -138,6 +138,7 @@ aliases:
 - 艾恩贝克
 - 아인베크
 ---
+
 # [[Einbeck]]
 
 > **Einbeck** (German pronunciation: [ˈaɪ̯nˌbɛk] ; Eastphalian: Aimbeck) is a town in the district Northeim, 

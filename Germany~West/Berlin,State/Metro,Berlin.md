@@ -145,6 +145,9 @@ dv_has_:
     zh_sg: 柏林地铁
     zh_tw: 柏林地鐵
 ---
+
+# [[Metro,Berlin]]  
+
 ## #has_/text_of_/abstract 
 
 > The Berlin U-Bahn (German: [ˈuː baːn]; short for Untergrundbahn, "underground railway") 

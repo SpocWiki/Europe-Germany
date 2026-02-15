@@ -242,6 +242,7 @@ dv_has_:
     zh: 维利·勃兰特
     zh_hant: 威利·布蘭特
 ---
+
 # [[Brandt,Willy]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Willy_Brandt,2514|WD~Willy_Brandt,2514]]  

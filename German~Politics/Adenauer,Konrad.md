@@ -422,6 +422,7 @@ dv_has_:
     zh_hant: 康拉德·阿登纳
     zu: Konrad Adenauer
 ---
+
 # [[Adenauer,Konrad]] 
 
 #is_/same_as :: [[WD~Konrad_Adenauer,2492]] 

@@ -73,6 +73,7 @@ aliases:
 - 繁榮時期
 - 그륀더차이트
 ---
+
 # [[1871-Gründerzeit+1873]]
 
 has_time_started = `=this.dv_has_time_started`

@@ -107,6 +107,9 @@ dv_has_:
     zh: 柏林城市快鐵
     zh_hant: 柏林S-Bahn
 ---
+
+# [[S-Bahn,Berlin]]  
+
 ## #has_/text_of_/abstract  
 
 > The Berlin S-Bahn (German: [ˈɛs baːn]) is a rapid transit railway system in and around Berlin, 

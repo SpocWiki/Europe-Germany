@@ -81,6 +81,9 @@ aliases:
 - 柏林街車
 - 베를린 트램
 ---
+
+# [[Tram,Berlin]]  
+
 ## #has_/text_of_/abstract 
 
 >  The Berlin tramway (German: Straßenbahn Berlin) is the main tram system in Berlin, Germany.  

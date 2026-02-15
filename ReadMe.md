@@ -830,7 +830,6 @@ UIC_alphabetical_country_code: D
 UIC_numerical_country_code: 80
 UMLS_CUI: C0017480
 unemployment_rate: 5
-Unicode_character: "\U0001F1E9\U0001F1EA"
 U_S_National_Archives_Identifier: 10044480
 VAT_rate:
 - 7
@@ -1293,8 +1292,12 @@ dv_is_same_as:
 - '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/ReadMe.private|ReadMe.private]]'
 - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/ReadMe.personal|ReadMe.personal]]'
 - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/ReadMe.secret|ReadMe.secret]]'
+Unicode_character: 🇩🇪
 ---
-# Germany (Deutschland)
+
+# [[ReadMe]] 🇩🇪 
+
+
 #is_a_/Place 
 #is_a :: [[Place]] 
 

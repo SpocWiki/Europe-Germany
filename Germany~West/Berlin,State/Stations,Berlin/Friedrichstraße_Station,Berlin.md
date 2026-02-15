@@ -84,6 +84,9 @@ dv_is_same_as:
 - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/Stations,Berlin/Friedrichstraße_Station,Berlin.secret|Friedrichstraße_Station,Berlin.secret]]'
 has_id_wikidata: Q702402
 ---
+
+# [[Friedrichstraße_Station,Berlin]]  
+
 has_place_latitude = `=this.dv_has_place_latitude`
 has_place_longitude = `=this.dv_has_place_longitude`
 

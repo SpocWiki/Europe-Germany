@@ -29,6 +29,9 @@ aliases:
 - Prestation d'accueil du jeune enfant
 - Vanemahüvitis
 ---
+
+# [[Elterngeld]]  
+
 ## #has_/text_of_/abstract 
 
 > **Elterngeld** (German: [ˈɛltɐnˌɡɛlt] ; translated literally from German as "parents' money") 

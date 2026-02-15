@@ -92,6 +92,9 @@ dv_has_:
     zh_hans: 儿童福利
     zh_hant: 兒童福利
 ---
+
+# [[Child_Benefit]]  
+
 ## #has_/text_of_/abstract 
 
 > Child benefit or children's allowance is a social security payment 
