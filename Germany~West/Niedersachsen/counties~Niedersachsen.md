@@ -28,7 +28,7 @@ dv_is_same_as:
 ```leaflet
 id: counties~Niedersachsen
 geojsonFolder: ./counties~Niedersachsen/
-markerFolder: ./counties~Niedersachsen/City
+markerFolder: ./counties~Niedersachsen/
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18

@@ -482,7 +482,7 @@ zoomFeatures: true
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./NordRhein-Westfalen//
-markerFolder: ./NordRhein-Westfalen/City/
+markerFolder: ./NordRhein-Westfalen/
 coordinates: [[NordRhein-Westfalen]] 
 markerFile: [[NordRhein-Westfalen]] 
 defaultZoom: 8 
