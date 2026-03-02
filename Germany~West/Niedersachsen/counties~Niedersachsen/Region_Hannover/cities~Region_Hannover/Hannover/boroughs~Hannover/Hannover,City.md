@@ -411,9 +411,6 @@ dv_has_:
 ---
 
 # [[Hannover,City]] 
-﻿
- 
-
 
  is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
@@ -429,7 +426,7 @@ is_a = `=this.dv_is_a_`
 
 ```leaflet
 id: Hannover
-coordinates: [[Hannover]] 
+coordinates: [[Hannover,City]] 
 markerFile: [[Hannover]] 
 geojsonFolder: ./Hannover/
 markerFolder: ./Hannover/
