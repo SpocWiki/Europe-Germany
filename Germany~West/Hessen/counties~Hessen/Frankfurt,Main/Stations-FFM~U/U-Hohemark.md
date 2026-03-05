@@ -16,8 +16,8 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 8.536722
 dv_has_place_latitude: 50.2152
 dv_has_name: Hohemark
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_City: "[[../../Frankfurt,Main]] ]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
+dv_City: "[[../../Frankfurt,Main|Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"
 dv_switch-to-ÖPNV: Regionalbusse
 dv_is_:

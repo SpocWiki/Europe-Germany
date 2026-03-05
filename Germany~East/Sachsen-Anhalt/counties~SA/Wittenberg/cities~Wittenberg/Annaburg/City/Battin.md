@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../../../Geography/Place/Administrative_Are
 dv_has_place_longitude: 13
 dv_has_place_latitude: 51.77
 dv_has_name: Battin
-dv_has_place_country: "[[../../../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../../../Sachsen-Anhalt]]"
+dv_has_place_country: "[[../../../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../../../Sachsen-Anhalt|Sachsen-Anhalt]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Annaburg/City/Battin|Battin]]"

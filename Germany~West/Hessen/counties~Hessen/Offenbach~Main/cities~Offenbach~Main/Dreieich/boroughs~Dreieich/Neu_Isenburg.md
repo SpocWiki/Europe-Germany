@@ -19,8 +19,8 @@ dv_is_a_: "[[../../../../../../../../../../../Geography/Place/Administrative_Are
 dv_has_place_longitude: 8.7
 dv_has_place_latitude: 50.03
 dv_has_name: Neu Isenburg
-dv_has_place_country: "[[../../../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../../../Hessen]]"
+dv_has_place_country: "[[../../../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../../../Hessen|Hessen]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Offenbach~Main/cities~Offenbach~Main/Dreieich/boroughs~Dreieich/Neu_Isenburg|Neu_Isenburg]]"

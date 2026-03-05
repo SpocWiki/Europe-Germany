@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 10.94
 dv_has_place_latitude: 50.83
 dv_has_name: Arnstadt
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../Thüringen]]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../Thüringen|Thüringen]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Arnstadt|Arnstadt]]"

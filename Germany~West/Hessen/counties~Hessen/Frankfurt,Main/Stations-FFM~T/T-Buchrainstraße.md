@@ -17,8 +17,8 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 8.72426
 dv_has_place_latitude: 50.10051
 dv_has_name: Buchrainstraße
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_City: "[[../../Frankfurt,Main]] ]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
+dv_City: "[[../../Frankfurt,Main|Frankfurt,Main]] ]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/Stations-FFM~T/T-Buchrainstraße|T-Buchrainstraße]]"

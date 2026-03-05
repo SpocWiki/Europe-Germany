@@ -23,7 +23,7 @@ tags:
   - geo/Country/Region
 title: FFM~T18
 type: geo-Region
-dv_Stations: "[[Stations-FFM~T/T-Gravensteiner-Platz]][[Stations-FFM~T/T-Alkmenestraße]][[Stations-FFM~T/T-Walter-Kolb-Siedlung]][[Stations-FFM~T/T-Bodenweg]][[Stations-FFM~T/T-Friedberger_Warte]][[Stations-FFM~T/T-Wasserpark]][[Stations-FFM~T/T-Münzenberger_Straße]][[Stations-FFM~T/T-Nibelungenplatz_FH]][[Stations-FFM~T/T-Rohrbachstr._Friedberger_Ldstr.]][[Stations-FFM~T/T-Friedberger_Platz]][[Stations-FFM~T/T-Hessendenkmal]][[Stations-FFM~T/T-Konstablerwache]][[Stations-FFM~T/T-Börneplatz_Stolzestraße]][[Stations-FFM~T/T-Hospital_Heiligen_Geist]][[Stations-FFM~T/T-Frankensteiner_Platz]][[Stations-FFM~T/T-Lokalbahnhof]][[Stations-FFM~T/T-Heister-Seehofstraße]][[Stations-FFM~T/T-Mühlberg]][[Stations-FFM~T/T-Lettigkautweg]][[Stations-FFM~T/T-Balduinstraße]][[Stations-FFM~T/T-Bleiweißstraße]][[Stations-FFM~T/T-Buchrainstraße]][[Stations-FFM~T/T-Flaschenburgstraße]][[Stations-FFM~T/T-Wiener_Straße]][[Stations-FFM~T/T-Offenbach_Stadtgrenze]]"
+dv_Stations: "[[Stations-FFM~T/T-Gravensteiner-Platz|T-Gravensteiner-Platz]][[Stations-FFM~T/T-Alkmenestraße|T-Alkmenestraße]][[Stations-FFM~T/T-Walter-Kolb-Siedlung|T-Walter-Kolb-Siedlung]][[Stations-FFM~T/T-Bodenweg|T-Bodenweg]][[Stations-FFM~T/T-Friedberger_Warte|T-Friedberger_Warte]][[Stations-FFM~T/T-Wasserpark|T-Wasserpark]][[Stations-FFM~T/T-Münzenberger_Straße|T-Münzenberger_Straße]][[Stations-FFM~T/T-Nibelungenplatz_FH|T-Nibelungenplatz_FH]][[Stations-FFM~T/T-Rohrbachstr._Friedberger_Ldstr.|T-Rohrbachstr._Friedberger_Ldstr.]][[Stations-FFM~T/T-Friedberger_Platz|T-Friedberger_Platz]][[Stations-FFM~T/T-Hessendenkmal|T-Hessendenkmal]][[Stations-FFM~T/T-Konstablerwache|T-Konstablerwache]][[Stations-FFM~T/T-Börneplatz_Stolzestraße|T-Börneplatz_Stolzestraße]][[Stations-FFM~T/T-Hospital_Heiligen_Geist|T-Hospital_Heiligen_Geist]][[Stations-FFM~T/T-Frankensteiner_Platz|T-Frankensteiner_Platz]][[Stations-FFM~T/T-Lokalbahnhof|T-Lokalbahnhof]][[Stations-FFM~T/T-Heister-Seehofstraße|T-Heister-Seehofstraße]][[Stations-FFM~T/T-Mühlberg|T-Mühlberg]][[Stations-FFM~T/T-Lettigkautweg|T-Lettigkautweg]][[Stations-FFM~T/T-Balduinstraße|T-Balduinstraße]][[Stations-FFM~T/T-Bleiweißstraße|T-Bleiweißstraße]][[Stations-FFM~T/T-Buchrainstraße|T-Buchrainstraße]][[Stations-FFM~T/T-Flaschenburgstraße|T-Flaschenburgstraße]][[Stations-FFM~T/T-Wiener_Straße|T-Wiener_Straße]][[Stations-FFM~T/T-Offenbach_Stadtgrenze|T-Offenbach_Stadtgrenze]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/FFM~T18|FFM~T18]]"
@@ -45,7 +45,7 @@ dv_is_same_as:
 
 # FFM~T18
 
-Straßen-Bahn i[[../Frankfurt,Main]]]  
+Straßen-Bahn i[[../Frankfurt,Main|Frankfurt,Main]]]  
 
 ```leaflet
 id: FFM~T18

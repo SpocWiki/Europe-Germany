@@ -18,7 +18,7 @@ dv_is_a_: "[[../../../../../../../../../../Geography/Place/Administrative_Area/C
 dv_has_place_longitude: 7.62
 dv_has_place_latitude: 51.87
 dv_has_name: Letmathe
-dv_has_place_country: "[[../../../../../../../Germany]]"
+dv_has_place_country: "[[../../../../../../../Germany|Germany]]"
 dv_has_place_province: "[[NordRhein-Westfahlen]]"
 dv_is_:
   same_as:

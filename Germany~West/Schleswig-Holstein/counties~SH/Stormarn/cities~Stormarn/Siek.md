@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 10.3
 dv_has_place_latitude: 53.63
 dv_has_name: Siek
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../Schleswig-Holstein]]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../Schleswig-Holstein|Schleswig-Holstein]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Stormarn/cities~Stormarn/Siek|Siek]]"

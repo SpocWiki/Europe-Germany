@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../../../Geography/Place/Administrative_Are
 dv_has_place_longitude: 9
 dv_has_place_latitude: 49.78
 dv_has_name: Muemling-Grumbach
-dv_has_place_country: "[[../../../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../../../Hessen]]"
+dv_has_place_country: "[[../../../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../../../Hessen|Hessen]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Odenwaldkreis/cities~Odenwald/Höchst~Odw/boroughs~Höchst~Odw/Muemling-Grumbach|Muemling-Grumbach]]"

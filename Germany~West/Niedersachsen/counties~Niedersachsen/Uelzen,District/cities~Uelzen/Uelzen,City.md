@@ -21,8 +21,8 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 10.56
 dv_has_place_latitude: 52.96
 dv_has_name: Uelzen
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../Niedersachsen]]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../Niedersachsen|Niedersachsen]]"
 dv_is_:
   same_as:
     - "[[Uelzen,City|Uelzen,City]]"
@@ -42,39 +42,39 @@ dv_is_same_as:
   - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen/cities~Uelzen/Uelzen,City.secret|Uelzen,City.secret]]"
 has_id_wikidata: Q15989
 instance_of:
-  - "[[_Standards/WikiData/WD~district_capital,134626]]"
-  - "[[_Standards/WikiData/WD~Hanseatic_city,707813]]"
-  - "[[_Standards/WikiData/WD~independent_community,2267870]]"
-  - "[[_Standards/WikiData/WD~urban_municipality_in_Germany,42744322]]"
-  - "[[_Standards/WikiData/WD~Einheitsgemeinde_of_Lower_Saxony,133997300]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Lüneburg_Heath,311124]]"
+  - "[[_Standards/WikiData/WD~district_capital,134626|WD~district_capital,134626]]"
+  - "[[_Standards/WikiData/WD~Hanseatic_city,707813|WD~Hanseatic_city,707813]]"
+  - "[[_Standards/WikiData/WD~independent_community,2267870|WD~independent_community,2267870]]"
+  - "[[_Standards/WikiData/WD~urban_municipality_in_Germany,42744322|WD~urban_municipality_in_Germany,42744322]]"
+  - "[[_Standards/WikiData/WD~Einheitsgemeinde_of_Lower_Saxony,133997300|WD~Einheitsgemeinde_of_Lower_Saxony,133997300]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Lüneburg_Heath,311124|WD~Lüneburg_Heath,311124]]"
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Rätzlingen,501687]]"
-  - "[[_Standards/WikiData/WD~Oetzen,680480]]"
-  - "[[_Standards/WikiData/WD~Lüneburg,3920]]"
+  - "[[_Standards/WikiData/WD~Rätzlingen,501687|WD~Rätzlingen,501687]]"
+  - "[[_Standards/WikiData/WD~Oetzen,680480|WD~Oetzen,680480]]"
+  - "[[_Standards/WikiData/WD~Lüneburg,3920|WD~Lüneburg,3920]]"
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Tikaré,620659]]"
-  - "[[_Standards/WikiData/WD~Barnstaple,808532]]"
-  - "[[_Standards/WikiData/WD~Kobryn,955992]]"
+  - "[[_Standards/WikiData/WD~Tikaré,620659|WD~Tikaré,620659]]"
+  - "[[_Standards/WikiData/WD~Barnstaple,808532|WD~Barnstaple,808532]]"
+  - "[[_Standards/WikiData/WD~Kobryn,955992|WD~Kobryn,955992]]"
 member_of:
-  - "[[_Standards/WikiData/WD~Mayors_for_Peace,747279]]"
-  - "[[_Standards/WikiData/WD~Climate_Alliance,1768108]]"
-  - "[[_Standards/WikiData/WD~Niedersächsischer_Städtetag,1988624]]"
+  - "[[_Standards/WikiData/WD~Mayors_for_Peace,747279|WD~Mayors_for_Peace,747279]]"
+  - "[[_Standards/WikiData/WD~Climate_Alliance,1768108|WD~Climate_Alliance,1768108]]"
+  - "[[_Standards/WikiData/WD~Niedersächsischer_Städtetag,1988624|WD~Niedersächsischer_Städtetag,1988624]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Topographia_Braunschweig_Lüneburg,19230666]]"
-category_of_associated_people: "[[_Standards/WikiData/WD~Category_People_from_Uelzen,8752044]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Uelzen,9148663]]"
-archives_at: "[[_Standards/WikiData/WD~Stadtarchiv_Uelzen,28720294]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q32374206,32374206]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Q133872049,133872049]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Topographia_Braunschweig_Lüneburg,19230666|WD~Topographia_Braunschweig_Lüneburg,19230666]]"
+category_of_associated_people: "[[_Standards/WikiData/WD~Category_People_from_Uelzen,8752044|WD~Category_People_from_Uelzen,8752044]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Uelzen,9148663|WD~Category_Uelzen,9148663]]"
+archives_at: "[[_Standards/WikiData/WD~Stadtarchiv_Uelzen,28720294|WD~Stadtarchiv_Uelzen,28720294]]"
+category_for_people_born_here: "[[_Standards/WikiData/WD~Q32374206,32374206|WD~Q32374206,32374206]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Q133872049,133872049|WD~Q133872049,133872049]]"
 coordinate_location: Point(10.565833333 52.964722222)
-capital_of: "[[_Standards/WikiData/WD~Uelzen_District,5915]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Uelzen_District,5915]]"
+capital_of: "[[_Standards/WikiData/WD~Uelzen_District,5915|WD~Uelzen_District,5915]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Uelzen_District,5915|WD~Uelzen_District,5915]]"
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-country: "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]"
+  - "[[_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]"
+country: "[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]"
 elevation_above_sea_level: 43
 area: 136.84
 population: 33991

@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../../../Geography/Place/Administrative_Are
 dv_has_place_longitude: 9.4
 dv_has_place_latitude: 51.73
 dv_has_name: Fuerstenberg~Westfahlen
-dv_has_place_country: "[[../../../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../../../Niedersachsen]]"
+dv_has_place_country: "[[../../../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../../../Niedersachsen|Niedersachsen]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Boffzen/boroughs~Boffzen/Fuerstenberg~Westfahlen|Fuerstenberg~Westfahlen]]"

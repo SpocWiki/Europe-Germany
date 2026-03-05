@@ -35,7 +35,7 @@ Anderthalb Kilometer vor der Küste befindet sich in der Ostsee das Forschungszw
 
 Umgeben wird Nienhagen von den Nachbargemeinden [Elmenhorst/Lichtenhagen](https://de.wikipedia.org/wiki/Elmenhorst/Lichtenhagen "Elmenhorst/Lichtenhagen") im Osten, [Admannshagen-Bargeshagen](https://de.wikipedia.org/wiki/Admannshagen-Bargeshagen "Admannshagen-Bargeshagen") im Süden und [Börgerende-Rethwisch](https://de.wikipedia.org/wiki/B%C3%B6rgerende-Rethwisch "Börgerende-Rethwisch") im Südwesten.
 
-![[../../../../../../../../../assets/Pictures/Landscape/Gespensterwald-Nienhagen-3-1068x712.jpg]]
+![[../../../../../../../../../assets/Pictures/Landscape/Gespensterwald-Nienhagen-3-1068x712.jpg|Gespensterwald-Nienhagen-3-1068x712.jpg]]
 
 
 ## Confidential Links & Embeds: 

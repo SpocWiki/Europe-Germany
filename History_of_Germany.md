@@ -89,23 +89,23 @@ aliases:
 - 德國歷史
 - 독일의 역사
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-facet_of: '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+facet_of: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 has_id_wikidata: Q122131
 has_part_s_:
-- '[[_Standards/WikiData/WD~history_of_East_Germany,706790]]'
-- '[[_Standards/WikiData/WD~West_Germany,713750]]'
-- '[[_Standards/WikiData/WD~history_of_the_Weimar_Republic,104731094]]'
+- '[[_Standards/WikiData/WD~history_of_East_Germany,706790|WD~history_of_East_Germany,706790]]'
+- '[[_Standards/WikiData/WD~West_Germany,713750|WD~West_Germany,713750]]'
+- '[[_Standards/WikiData/WD~history_of_the_Weimar_Republic,104731094|WD~history_of_the_Weimar_Republic,104731094]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
-subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787|WD~history_of_Europe,7787]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20History%20of%20Germany%20%28spoken%20by%20AI%20voice%29.mp3
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Germany,6583378]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Germany,6583378|WD~Template_History_of_Germany,6583378]]'
 dv_is_:
   same_as:
-  - '[[../../../../../WikiData/WD~History_of_Germany,122131]]'
+  - '[[../../../../../WikiData/WD~History_of_Germany,122131|WD~History_of_Germany,122131]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany|History_of_Germany]]'
   - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.public|History_of_Germany.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.internal|History_of_Germany.internal]]'
@@ -114,7 +114,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.personal|History_of_Germany.personal]]'
   - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.secret|History_of_Germany.secret]]'
 dv_is_same_as:
-- '[[../../../../../WikiData/WD~History_of_Germany,122131]]'
+- '[[../../../../../WikiData/WD~History_of_Germany,122131|WD~History_of_Germany,122131]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany|History_of_Germany]]'
 - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.public|History_of_Germany.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany.internal|History_of_Germany.internal]]'

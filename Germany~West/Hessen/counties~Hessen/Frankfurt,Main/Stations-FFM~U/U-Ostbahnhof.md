@@ -16,8 +16,8 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 8.708056
 dv_has_place_latitude: 50.11278
 dv_has_name: Ostbahnhof
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_City: "[[../../Frankfurt,Main]] ]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
+dv_City: "[[../../Frankfurt,Main|Frankfurt,Main]] ]"
 dv_switch-to-SPNV: Regionalverkehr, Straßenbahn
 dv_switch-to-ÖPNV: (31), 32
 dv_is_:

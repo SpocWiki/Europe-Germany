@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../../../Geography/Place/Administrative_Are
 dv_has_place_longitude: 13.58
 dv_has_place_latitude: 51.17
 dv_has_name: Weinboehla
-dv_has_place_country: "[[../../../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../../../Sachsen]]"
+dv_has_place_country: "[[../../../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../../../Sachsen|Sachsen]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Meißen/cities~Meißen/Weinböhla/City/Weinboehla|Weinboehla]]"

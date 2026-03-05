@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../../Geography/Place/Administrative_Area/C
 dv_has_place_longitude: 9.08
 dv_has_place_latitude: 53.9
 dv_has_name: Brunsbuettelkoog
-dv_has_place_country: "[[../../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../../Schleswig-Holstein]]"
+dv_has_place_country: "[[../../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../../Schleswig-Holstein|Schleswig-Holstein]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Dithmarschen/cities~Dithmarschen/Brunsbüttel/Brunsbüttelkoog|Brunsbüttelkoog]]"

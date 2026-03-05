@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 6.75
 dv_has_place_latitude: 49.32
 dv_has_name: Saarlois
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../Saarland]]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../Saarland|Saarland]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Saarlouis/cities~Saarlouis/Saarlouis-city|Saarlouis-city]]"

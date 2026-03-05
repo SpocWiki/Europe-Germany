@@ -18,7 +18,7 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 6.9
 dv_has_place_latitude: 50.83
 dv_has_name: Brühl,Rhld
-dv_has_place_country: "[[../../../../../../Germany]]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
 dv_has_place_province: "[[NordRhein-Westfahlen]]"
 dv_is_:
   same_as:
@@ -62,7 +62,7 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen/Augustusburg.webp]]] ![[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen/Augustusburg.webp]]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen/Augustusburg.webp|Augustusburg.webp]]] ![[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen/Augustusburg.webp|Augustusburg.webp]]] 
 Schlösser Augustusburg und Falkenlust in Brühl ([[Unesco]] Welterbe seit 1984)
 
 

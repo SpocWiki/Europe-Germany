@@ -19,8 +19,8 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 8.62
 dv_has_place_latitude: 50.23
 dv_has_name: Bad Homburg
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../Hessen]]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../Hessen|Hessen]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hochtaunuskreis/cities~Hochtaunuskreis/Bad_Homburg~Höhe|Bad_Homburg~Höhe]]"
@@ -62,7 +62,7 @@ maxZoom: 18
 ```
 
 
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Limes~Saalburg.webp]]] ![[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Limes~Saalburg.webp]]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Limes~Saalburg.webp|Limes~Saalburg.webp]]] ![[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Limes~Saalburg.webp|Limes~Saalburg.webp]]] 
 Saalburg, Limes des Römischen Reiches ( [[Unesco]] Welterbe seit 2005) 
 
 

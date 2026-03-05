@@ -35,7 +35,7 @@ type: Country
 dv_ISO3: BRD
 dv_has_name_en: West Germany
 dv_has_name_de: BRD
-dv_has_place_continent: "[[../../../Europe]]"
+dv_has_place_continent: "[[../../../Europe|Europe]]"
 dv_VehicleCode: D
 dv_Alcohol-l: 12.8
 dv_Language-Id: 497
@@ -85,7 +85,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode` 
 [Capital-Id::] 
 ![[Coat_of_arms_of_Germany.svg|350]] 
-![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Germany.mp3]] 
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Germany.mp3|Anthem-Germany.mp3]] 
 ![[Flag_of_Germany.svg|350]] 
 Alcohol-l = `=this.dv_Alcohol-l` 
 Language-Id = `=this.dv_Language-Id` 

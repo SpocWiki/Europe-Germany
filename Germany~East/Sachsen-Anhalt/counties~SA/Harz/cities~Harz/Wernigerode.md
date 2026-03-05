@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 10.8
 dv_has_place_latitude: 51.83
 dv_has_name: Wernigerode
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../Sachsen-Anhalt]]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../Sachsen-Anhalt|Sachsen-Anhalt]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Wernigerode|Wernigerode]]"
@@ -60,7 +60,7 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Wernigerode-Marktplatz.webp]]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Wernigerode-Marktplatz.webp]]]
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Wernigerode-Marktplatz.webp|Wernigerode-Marktplatz.webp]]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Wernigerode-Marktplatz.webp|Wernigerode-Marktplatz.webp]]]
 Beim Bummel durch Wernigerode  im Harzgehört das historische Rathaus 
 zu den eindrucksvollen Sehenswürdigkeiten. 
 Ein Spaziergang durch das Heideviertel ist geprägt 

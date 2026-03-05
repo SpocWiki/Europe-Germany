@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../../../../Geography/Place/Administrative_
 dv_has_place_longitude: 9.57
 dv_has_place_latitude: 51.97
 dv_has_name: Kirchbrack
-dv_has_place_country: "[[../../../../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../../../../Niedersachsen]]"
+dv_has_place_country: "[[../../../../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../../../../Niedersachsen|Niedersachsen]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Holzminden/cities~Holzminden/Bodenwerder-Polle/boroughs~Bodenwerder-Polle/Heinsen/Kirchbrack|Kirchbrack]]"

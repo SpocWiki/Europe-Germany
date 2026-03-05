@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../Geography/Place/Administrative_Area/City|City]
 dv_has_place_longitude: 11.33
 dv_has_place_latitude: 50.97
 dv_has_name: Weimar
-dv_has_place_country: "[[../../../../Germany]]"
-dv_has_place_province: "[[../../Thüringen]]"
+dv_has_place_country: "[[../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../Thüringen|Thüringen]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Weimar|Weimar]]"
@@ -60,14 +60,14 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-[[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Weimar-Altstadt.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Weimar-Altstadt.webp]]] 
+[[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Weimar-Altstadt.webp|Weimar-Altstadt.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Weimar-Altstadt.webp|Weimar-Altstadt.webp]]] 
 Die Weimarer Altstadt (Thüringen): 
 Die Straßen, Plätze und kleinen Gassen sind weitgehend verkehrsberuhigt. 
 Die meisten Wohnhäuser gehören hier zur historischen Substanz. 
 Hinter dem Neptunbrunnen ist das Cranachhaus zu sehen.
-[[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Weimar~Castle_Beldevere.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Weimar~Castle_Beldevere.webp]]] 
+[[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Weimar~Castle_Beldevere.webp|Weimar~Castle_Beldevere.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Weimar~Castle_Beldevere.webp|Weimar~Castle_Beldevere.webp]]] 
 Weimar (1998)
-[[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Bauhaus,Weimar.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Bauhaus,Weimar.webp]]] 
+[[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Bauhaus,Weimar.webp|Bauhaus,Weimar.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Bauhaus,Weimar.webp|Bauhaus,Weimar.webp]]] 
 Bauhaus und seine Stätten in Weimar, Dessau und Bernau ( [[Unesco]] Welterbe seit 1996)
 
 

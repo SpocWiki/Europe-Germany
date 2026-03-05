@@ -139,33 +139,33 @@ aliases:
 - 柏林墙
 - 베를린 장벽
 has_id_wikidata: Q5086
-part_of: '[[_Standards/WikiData/WD~Iron_Curtain,124425]]'
-made_from_material: '[[_Standards/WikiData/WD~reinforced_concrete,184190]]'
-different_from: '[[_Standards/WikiData/WD~Berlin_Customs_Wall,532578]]'
+part_of: '[[_Standards/WikiData/WD~Iron_Curtain,124425|WD~Iron_Curtain,124425]]'
+made_from_material: '[[_Standards/WikiData/WD~reinforced_concrete,184190|WD~reinforced_concrete,184190]]'
+different_from: '[[_Standards/WikiData/WD~Berlin_Customs_Wall,532578|WD~Berlin_Customs_Wall,532578]]'
 instance_of:
-- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-- '[[_Standards/WikiData/WD~cordon,1784293]]'
-- '[[_Standards/WikiData/WD~fortified_line,2973801]]'
-- '[[_Standards/WikiData/WD~destroyed_building_or_structure,19860854]]'
-- '[[_Standards/WikiData/WD~separation_barrier,27627826]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116|WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~cordon,1784293|WD~cordon,1784293]]'
+- '[[_Standards/WikiData/WD~fortified_line,2973801|WD~fortified_line,2973801]]'
+- '[[_Standards/WikiData/WD~destroyed_building_or_structure,19860854|WD~destroyed_building_or_structure,19860854]]'
+- '[[_Standards/WikiData/WD~separation_barrier,27627826|WD~separation_barrier,27627826]]'
 country:
-- '[[_Standards/WikiData/WD~West_Germany,713750]]'
-- '[[_Standards/WikiData/WD~German_Democratic_Republic,16957]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-has_characteristic: '[[_Standards/WikiData/WD~Fighting_mission_of_the_FDJ,1723301]]'
+- '[[_Standards/WikiData/WD~West_Germany,713750|WD~West_Germany,713750]]'
+- '[[_Standards/WikiData/WD~German_Democratic_Republic,16957|WD~German_Democratic_Republic,16957]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+has_characteristic: '[[_Standards/WikiData/WD~Fighting_mission_of_the_FDJ,1723301|WD~Fighting_mission_of_the_FDJ,1723301]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
-- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Anti_Fascist_Protection_Rampart,15783635]]'
+- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674|WD~Dresdner_Hefte,14916674]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Anti_Fascist_Protection_Rampart,15783635|WD~Anti_Fascist_Protection_Rampart,15783635]]'
 IMDb_keyword: berlin-wall
-state_of_conservation: '[[_Standards/WikiData/WD~partially_destroyed,60539160]]'
-heritage_designation: '[[_Standards/WikiData/WD~Heritage_monument_in_Berlin,85171142]]'
-state_of_use: '[[_Standards/WikiData/WD~permanently_closed,104664889]]'
-commissioned_by: '[[_Standards/WikiData/WD~German_Democratic_Republic,16957]]'
-named_after: '[[_Standards/WikiData/WD~Berlin,64]]'
+state_of_conservation: '[[_Standards/WikiData/WD~partially_destroyed,60539160|WD~partially_destroyed,60539160]]'
+heritage_designation: '[[_Standards/WikiData/WD~Heritage_monument_in_Berlin,85171142|WD~Heritage_monument_in_Berlin,85171142]]'
+state_of_use: '[[_Standards/WikiData/WD~permanently_closed,104664889|WD~permanently_closed,104664889]]'
+commissioned_by: '[[_Standards/WikiData/WD~German_Democratic_Republic,16957|WD~German_Democratic_Republic,16957]]'
+named_after: '[[_Standards/WikiData/WD~Berlin,64|WD~Berlin,64]]'
 located_in_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Berlin,64]]'
-- '[[_Standards/WikiData/WD~East_Berlin,56037]]'
+- '[[_Standards/WikiData/WD~Berlin,64|WD~Berlin,64]]'
+- '[[_Standards/WikiData/WD~East_Berlin,56037|WD~East_Berlin,56037]]'
 capital_cost: 100000000
 height: 3.6
 length: 155

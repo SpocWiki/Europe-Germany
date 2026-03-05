@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../../../../Geography/Place/Administrative_
 dv_has_place_longitude: 12.22
 dv_has_place_latitude: 52.75
 dv_has_name: Garz~Havel
-dv_has_place_country: "[[../../../../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../../../../Brandenburg]]"
+dv_has_place_country: "[[../../../../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../../../../Brandenburg|Brandenburg]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Ostprignitz-Ruppin/cities~Ostprignitz-Ruppin/Temnitz/boroughs~Temnitz/Temnitztal/Garz,Temnitztal|Garz,Temnitztal]]"

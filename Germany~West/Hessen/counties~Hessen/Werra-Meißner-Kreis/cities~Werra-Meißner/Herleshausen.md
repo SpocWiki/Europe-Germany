@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 10.18
 dv_has_place_latitude: 51.02
 dv_has_name: Herleshausen
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_has_place_province: "[[../../Thüringen]] ]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../Thüringen|Thüringen]] ]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Werra-Meißner-Kreis/cities~Werra-Meißner/Herleshausen|Herleshausen]]"

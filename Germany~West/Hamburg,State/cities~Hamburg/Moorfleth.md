@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../Geography/Place/Administrative_Area/City|City]
 dv_has_place_longitude: 10.02
 dv_has_place_latitude: 53.5
 dv_has_name: Moorfleth
-dv_has_place_country: "[[../../../../Germany]]"
-dv_has_place_province: "[[../../Hamburg,State]]"
+dv_has_place_country: "[[../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../Hamburg,State|Hamburg,State]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Moorfleth|Moorfleth]]"

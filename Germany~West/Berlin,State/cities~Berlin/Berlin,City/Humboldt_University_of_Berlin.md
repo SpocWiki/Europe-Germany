@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[../../../../../../../../../WikiData/WD~Humboldt_University_of_Berlin,152087]]'
+  - '[[../../../../../../../../../WikiData/WD~Humboldt_University_of_Berlin,152087|WD~Humboldt_University_of_Berlin,152087]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Humboldt_University_of_Berlin|Humboldt_University_of_Berlin]]'
   - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Humboldt_University_of_Berlin.public|Humboldt_University_of_Berlin.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Humboldt_University_of_Berlin.internal|Humboldt_University_of_Berlin.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Humboldt_University_of_Berlin.personal|Humboldt_University_of_Berlin.personal]]'
   - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Humboldt_University_of_Berlin.secret|Humboldt_University_of_Berlin.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../../../WikiData/WD~Humboldt_University_of_Berlin,152087]]'
+- '[[../../../../../../../../../WikiData/WD~Humboldt_University_of_Berlin,152087|WD~Humboldt_University_of_Berlin,152087]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Humboldt_University_of_Berlin|Humboldt_University_of_Berlin]]'
 - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Humboldt_University_of_Berlin.public|Humboldt_University_of_Berlin.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Humboldt_University_of_Berlin.internal|Humboldt_University_of_Berlin.internal]]'

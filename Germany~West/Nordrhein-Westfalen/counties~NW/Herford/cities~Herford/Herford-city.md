@@ -18,7 +18,7 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 8.67
 dv_has_place_latitude: 52.12
 dv_has_name: Herford
-dv_has_place_country: "[[../../../../../../../Europe~North/UK]]"
+dv_has_place_country: "[[../../../../../../../Europe~North/UK|UK]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Herford/cities~Herford/Herford-city|Herford-city]]"

@@ -18,7 +18,7 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 96.07
 dv_has_place_latitude: 50.78
 dv_has_name: Aachen
-dv_has_place_country: "[[../../../../../../Germany]]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
 dv_has_place_province: "[[NordRhein-Westfahlen]]"
 dv_is_:
   same_as:
@@ -64,7 +64,7 @@ maxZoom: 18
 
 
 
-![[../../../../../../../../../../../assets/geo/Europe/Germany/Nordrhein-Westfalen/Aachener_Dom.webp]]
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Nordrhein-Westfalen/Aachener_Dom.webp|Aachener_Dom.webp]]
 Aachener Dom (seit 1978 Teil der Unesco-Welterbeliste)
 
 

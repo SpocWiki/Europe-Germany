@@ -17,8 +17,8 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 8.71685
 dv_has_place_latitude: 50.1236
 dv_has_name: Eissporthalle/Festplatz
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_City: "[[../../Frankfurt,Main]] ]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
+dv_City: "[[../../Frankfurt,Main|Frankfurt,Main]] ]"
 dv_switch-to-SPNV: Straßenbahn
 dv_switch-to-ÖPNV:
   - 38

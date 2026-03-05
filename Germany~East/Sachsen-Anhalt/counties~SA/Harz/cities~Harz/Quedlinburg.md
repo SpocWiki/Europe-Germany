@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 11.13
 dv_has_place_latitude: 51.78
 dv_has_name: Quedlinburg
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../Sachsen-Anhalt]]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../Sachsen-Anhalt|Sachsen-Anhalt]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Harz/cities~Harz/Quedlinburg|Quedlinburg]]"
@@ -60,12 +60,12 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen-Anhalt/Quedlinburg~Markt.webp]]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen-Anhalt/Quedlinburg~Markt.webp]]]
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen-Anhalt/Quedlinburg~Markt.webp|Quedlinburg~Markt.webp]]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen-Anhalt/Quedlinburg~Markt.webp|Quedlinburg~Markt.webp]]]
 Mit seinen etwa 1.300 Fachwerkhäusern aus sechs Jahrhunderten 
 und einer Vielzahl von Häusern im Jugendstil gilt Quedlinburg (Sachsen-Anhalt) 
 als eines der umfangreichsten Flächendenkmäler von ganz Deutschland. 
 Der Dichter Friedrich Gottlieb Klopstock ist einer der berühmtesten Söhne Quedlinburgs.
-![[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen-Anhalt/Quedlinburg.webp]]]
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen-Anhalt/Quedlinburg.webp|Quedlinburg.webp]]]
 Stiftskirche, Schloss und Altstadt von Quedlinburg ( [[Unesco]] Welterbe seit 1994) 
 
 

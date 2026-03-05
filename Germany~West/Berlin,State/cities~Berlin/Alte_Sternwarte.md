@@ -19,8 +19,8 @@ dv_is_a_: "[[../../../../../../../Geography/Place/Administrative_Area/City|City]
 dv_has_place_longitude: 13.38
 dv_has_place_latitude: 52.52
 dv_has_name: Alte Sternwarte
-dv_has_place_country: "[[../../../../Germany]]"
-dv_has_place_province: "[[../../Berlin,State]]"
+dv_has_place_country: "[[../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../Berlin,State|Berlin,State]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Alte_Sternwarte|Alte_Sternwarte]]"

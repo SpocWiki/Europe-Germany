@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../Geography/Place/Administrative_Area/City|City]
 dv_has_place_longitude: 11.02
 dv_has_place_latitude: 50.97
 dv_has_name: Erfurt
-dv_has_place_country: "[[../../../../Germany]]"
-dv_has_place_province: "[[../../Thüringen]]"
+dv_has_place_country: "[[../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../Thüringen|Thüringen]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Erfurt|Erfurt]]"
@@ -60,13 +60,13 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-![[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Erfurt-Krämerbrücke.webp]]] 
+![[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Erfurt-Krämerbrücke.webp|Erfurt-Krämerbrücke.webp]]] 
 Erfurt (Thüringen) besitzt einen der größten Altstadt-Kerne Deutschlands. 
 Die Altstadt wurde im Zweiten Weltkrieg schwer beschädigt, 
 die Wiedervereinigung war schließlich ihre Rettung. 
 Hier zu sehen: die berühmte Krämerbrücke.
 
-[[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Erfurt-alte_Synagoge.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Erfurt-alte_Synagoge.webp]]] 
+[[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Erfurt-alte_Synagoge.webp|Erfurt-alte_Synagoge.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Erfurt-alte_Synagoge.webp|Erfurt-alte_Synagoge.webp]]] 
 Jüdisch-Mittelalterliches Erbe in Erfurt ( [[Unesco]] Welterbe seit 2023) 
 
 

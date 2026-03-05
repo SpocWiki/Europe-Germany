@@ -14,8 +14,8 @@ type: Station
 dv_has_place_longitude: "{{GeoLon}}"
 dv_has_place_latitude: "{{GeoLat}}"
 dv_has_name: "{{Bahnhof}}"
-dv_has_place_country: "[[../../../../../Germany]]"
-dv_City: "[[../Frankfurt,Main]]"
+dv_has_place_country: "[[../../../../../Germany|Germany]]"
+dv_City: "[[../Frankfurt,Main|Frankfurt,Main]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Frankfurt,Main/_Station-S-Template|_Station-S-Template]]"

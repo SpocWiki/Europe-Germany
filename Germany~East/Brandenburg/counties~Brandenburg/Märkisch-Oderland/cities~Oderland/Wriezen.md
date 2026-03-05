@@ -18,7 +18,7 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 14.15
 dv_has_place_latitude: 52.72
 dv_has_name: Wriezen
-dv_has_place_country: "[[../../../../../../../Europe~East/Poland]]"
+dv_has_place_country: "[[../../../../../../../Europe~East/Poland|Poland]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Brandenburg/counties~Brandenburg/Märkisch-Oderland/cities~Oderland/Wriezen|Wriezen]]"

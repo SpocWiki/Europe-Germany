@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 12.23
 dv_has_place_latitude: 51.83
 dv_has_name: Dessau
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../Sachsen-Anhalt]]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../Sachsen-Anhalt|Sachsen-Anhalt]]"
 dv_is_/same_as:
   - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Dessau|Dessau]]"
   - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Dessau-Roßlau/City/Dessau.public|Dessau.public]]"
@@ -68,7 +68,7 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen-Anhalt/Dessau~Gartenreich.webp]]] ![[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen-Anhalt/Dessau~Gartenreich.webp]]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen-Anhalt/Dessau~Gartenreich.webp|Dessau~Gartenreich.webp]]] ![[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen-Anhalt/Dessau~Gartenreich.webp|Dessau~Gartenreich.webp]]] 
 Gartenreich Dessau-Wörlitz (2000) 
 
 

@@ -114,31 +114,31 @@ aliases:
 ## #has_/parts 
 
 
-### [[Tram,Berlin/M1,Berlin]] 
+### [[Tram,Berlin/M1,Berlin|M1,Berlin]] 
 
 
-### [[Tram,Berlin/M2,Berlin]] 
+### [[Tram,Berlin/M2,Berlin|M2,Berlin]] 
 
 
-### [[Tram,Berlin/M3,Berlin]] 
+### [[Tram,Berlin/M3,Berlin|M3,Berlin]] 
 
 
-### [[Tram,Berlin/M4,Berlin]] 
+### [[Tram,Berlin/M4,Berlin|M4,Berlin]] 
 
 
-### [[Tram,Berlin/M5,Berlin]] 
+### [[Tram,Berlin/M5,Berlin|M5,Berlin]] 
 
 
-### [[Tram,Berlin/M6,Berlin]] 
+### [[Tram,Berlin/M6,Berlin|M6,Berlin]] 
 
 
-### [[Tram,Berlin/M7,Berlin]] 
+### [[Tram,Berlin/M7,Berlin|M7,Berlin]] 
 
 
-### [[Tram,Berlin/M8,Berlin]] 
+### [[Tram,Berlin/M8,Berlin|M8,Berlin]] 
 
 
-### [[Tram,Berlin/M9,Berlin]] 
+### [[Tram,Berlin/M9,Berlin|M9,Berlin]] 
 
 
 ### [[Tram12,Berlin]] 

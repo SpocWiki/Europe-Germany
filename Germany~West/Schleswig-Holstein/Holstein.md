@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Duchy_of_Holstein,704288]]'
+  - '[[_Standards/WikiData/WD~Duchy_of_Holstein,704288|WD~Duchy_of_Holstein,704288]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/Holstein|Holstein]]'
   - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/Holstein.public|Holstein.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/Holstein.internal|Holstein.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/Holstein.personal|Holstein.personal]]'
   - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/Holstein.secret|Holstein.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Duchy_of_Holstein,704288]]'
+- '[[_Standards/WikiData/WD~Duchy_of_Holstein,704288|WD~Duchy_of_Holstein,704288]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/Holstein|Holstein]]'
 - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/Holstein.public|Holstein.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/Holstein.internal|Holstein.internal]]'
@@ -72,24 +72,24 @@ aliases:
 - 霍爾斯坦公國
 has_id_wikidata: Q704288
 part_of:
-- '[[_Standards/WikiData/WD~German_Confederation,151624]]'
-- '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]'
-replaced_by: '[[_Standards/WikiData/WD~Province_of_Schleswig_Holstein,286977]]'
-capital: '[[_Standards/WikiData/WD~Glückstadt,377277]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-shares_border_with: '[[_Standards/WikiData/WD~Provincial_government_Stade,26132747]]'
+- '[[_Standards/WikiData/WD~German_Confederation,151624|WD~German_Confederation,151624]]'
+- '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548|WD~Holy_Roman_Empire,12548]]'
+replaced_by: '[[_Standards/WikiData/WD~Province_of_Schleswig_Holstein,286977|WD~Province_of_Schleswig_Holstein,286977]]'
+capital: '[[_Standards/WikiData/WD~Glückstadt,377277|WD~Glückstadt,377277]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+shares_border_with: '[[_Standards/WikiData/WD~Provincial_government_Stade,26132747|WD~Provincial_government_Stade,26132747]]'
 instance_of:
-- '[[_Standards/WikiData/WD~state_in_the_Holy_Roman_Empire,26830017]]'
-- '[[_Standards/WikiData/WD~state_of_the_German_Confederation_1815_1848_&_1850_1866,113136497]]'
+- '[[_Standards/WikiData/WD~state_in_the_Holy_Roman_Empire,26830017|WD~state_in_the_Holy_Roman_Empire,26830017]]'
+- '[[_Standards/WikiData/WD~state_of_the_German_Confederation_1815_1848_&_1850_1866,113136497|WD~state_of_the_German_Confederation_1815_1848_&_1850_1866,113136497]]'
 inception: 1474-01-01T00:00:00Z
 dissolved_abolished_or_demolished_date: 1867-10-30T00:00:00Z
-located_in_the_present_day_administrative_territorial_entity: '[[_Standards/WikiData/WD~Schleswig_Holstein,1194]]'
-follows: '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]'
+located_in_the_present_day_administrative_territorial_entity: '[[_Standards/WikiData/WD~Schleswig_Holstein,1194|WD~Schleswig_Holstein,1194]]'
+follows: '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548|WD~Holy_Roman_Empire,12548]]'
 country:
-- '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]'
-- '[[_Standards/WikiData/WD~Denmark,35]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Denmark,35]]'
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548|WD~Holy_Roman_Empire,12548]]'
+- '[[_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
+continent: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Holstein%20Arms.svg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Duchy%20of%20Holstein%201789.svg
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Merchant%20Ensign%20of%20Holstein-Gottorp%20%28Lions%20sinister%29.svg
@@ -152,7 +152,7 @@ dv_has_:
 
 # [[Holstein]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Duchy_of_Holstein,704288]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Duchy_of_Holstein,704288|WD~Duchy_of_Holstein,704288]] 
 
 ## #has_/text_of_/abstract 
 

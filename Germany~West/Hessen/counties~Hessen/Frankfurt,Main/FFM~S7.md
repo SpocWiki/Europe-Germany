@@ -44,7 +44,7 @@ dv_is_same_as:
 
 # FFM~S7
 
-S-Bahn i[[../Frankfurt,Main]]]  
+S-Bahn i[[../Frankfurt,Main|Frankfurt,Main]]]  
 
 ```leaflet
 id: FFM~S7
@@ -57,16 +57,16 @@ markerFolder: ./Station/
 ```
 
 # Stations: 
-[[Stations-FFM~S/S-Hauptbahnhof_Südseite]]  
-[[Stations-FFM~S/S-Frankfurt-Niederrad]]  
-[[Stations-FFM~S/S-Frankfurt~Main~Stadion]]  
-[[Stations-FFM~S/S-Zeppelinheim]]  
-[[Stations-FFM~S/S-Walldorf]]  
-[[Stations-FFM~S/S-Mörfelden]]  
-[[Stations-FFM~S/S-Groß_Gerau-Dornberg]]  
-[[Stations-FFM~S/S-Groß-Gerau-Dornheim]]  
-[[Stations-FFM~S/S-Riedstadt-Wolfskehlen]]  
-1[[Stations-FFM~S/S-Riedstadt-Goddelau]]  
+[[Stations-FFM~S/S-Hauptbahnhof_Südseite|S-Hauptbahnhof_Südseite]]  
+[[Stations-FFM~S/S-Frankfurt-Niederrad|S-Frankfurt-Niederrad]]  
+[[Stations-FFM~S/S-Frankfurt~Main~Stadion|S-Frankfurt~Main~Stadion]]  
+[[Stations-FFM~S/S-Zeppelinheim|S-Zeppelinheim]]  
+[[Stations-FFM~S/S-Walldorf|S-Walldorf]]  
+[[Stations-FFM~S/S-Mörfelden|S-Mörfelden]]  
+[[Stations-FFM~S/S-Groß_Gerau-Dornberg|S-Groß_Gerau-Dornberg]]  
+[[Stations-FFM~S/S-Groß-Gerau-Dornheim|S-Groß-Gerau-Dornheim]]  
+[[Stations-FFM~S/S-Riedstadt-Wolfskehlen|S-Riedstadt-Wolfskehlen]]  
+1[[Stations-FFM~S/S-Riedstadt-Goddelau|S-Riedstadt-Goddelau]]  
 
 
 ## Confidential Links & Embeds: 

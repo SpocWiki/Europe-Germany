@@ -35,23 +35,23 @@ aliases:
 - 쿤스트아카데미 뒤셀도르프
 has_id_wikidata: Q662355
 instance_of:
-- '[[_Standards/WikiData/WD~art_academy,383092]]'
-- '[[_Standards/WikiData/WD~public_university,875538]]'
+- '[[_Standards/WikiData/WD~art_academy,383092|WD~art_academy,383092]]'
+- '[[_Standards/WikiData/WD~public_university,875538|WD~public_university,875538]]'
 member_of:
-- "[[_Standards/WikiData/WD~German_Rectors'_Conference,880981]]"
-- '[[_Standards/WikiData/WD~Verein_zur_Förderung_eines_Deutschen_Forschungsnetzes,2514863]]'
-director_manager: '[[_Standards/WikiData/WD~Karl_Heinz_Petzinka,1729950]]'
-locations: '[[_Standards/WikiData/WD~Q1792391,1792391]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
-has_part_s_: '[[_Standards/WikiData/WD~Q28738523,28738523]]'
-part_of: '[[_Standards/WikiData/WD~DH.NRW,105770388]]'
+- "[[_Standards/WikiData/WD~German_Rectors'_Conference,880981|WD~German_Rectors'_Conference,880981]]"
+- '[[_Standards/WikiData/WD~Verein_zur_Förderung_eines_Deutschen_Forschungsnetzes,2514863|WD~Verein_zur_Förderung_eines_Deutschen_Forschungsnetzes,2514863]]'
+director_manager: '[[_Standards/WikiData/WD~Karl_Heinz_Petzinka,1729950|WD~Karl_Heinz_Petzinka,1729950]]'
+locations: '[[_Standards/WikiData/WD~Q1792391,1792391|WD~Q1792391,1792391]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800|WD~Art+Feminism,24909800]]'
+has_part_s_: '[[_Standards/WikiData/WD~Q28738523,28738523|WD~Q28738523,28738523]]'
+part_of: '[[_Standards/WikiData/WD~DH.NRW,105770388|WD~DH.NRW,105770388]]'
 inception:
 - 1762-01-01T00:00:00Z
 - 1773-01-01T00:00:00Z
 coordinate_location: Point(6.77365 51.23054)
-headquarters_locations: '[[_Standards/WikiData/WD~Düsseldorf,1718]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Düsseldorf,1718]]'
-country: '[[_Standards/WikiData/WD~Germany,183]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Düsseldorf,1718|WD~Düsseldorf,1718]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Düsseldorf,1718|WD~Düsseldorf,1718]]'
+country: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 count_of_students:
 - 370
 - 380

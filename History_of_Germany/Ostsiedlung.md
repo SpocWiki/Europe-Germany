@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[../../../../../../WikiData/WD~Ostsiedlung,170346]]'
+  - '[[../../../../../../WikiData/WD~Ostsiedlung,170346|WD~Ostsiedlung,170346]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung|Ostsiedlung]]'
   - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.public|Ostsiedlung.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.internal|Ostsiedlung.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.personal|Ostsiedlung.personal]]'
   - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.secret|Ostsiedlung.secret]]'
 dv_is_same_as:
-- '[[../../../../../../WikiData/WD~Ostsiedlung,170346]]'
+- '[[../../../../../../WikiData/WD~Ostsiedlung,170346|WD~Ostsiedlung,170346]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung|Ostsiedlung]]'
 - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.public|Ostsiedlung.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/Ostsiedlung.internal|Ostsiedlung.internal]]'
@@ -51,9 +51,9 @@ aliases:
 - 동방식민운동
 has_id_wikidata: Q170346
 introduced_in:
-- '[[_Standards/WikiData/WD~East_Francia,153080]]'
-- '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]'
-subclass_of: '[[_Standards/WikiData/WD~colonization,815962]]'
+- '[[_Standards/WikiData/WD~East_Francia,153080|WD~East_Francia,153080]]'
+- '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548|WD~Holy_Roman_Empire,12548]]'
+subclass_of: '[[_Standards/WikiData/WD~colonization,815962|WD~colonization,815962]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D0%BC%D0%B8-%D1%81%D0%BB%D0%B0%D0%B2%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D1%85-%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C.png
 start_time: 0801-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20development%20of%20the%20German%20linguistic%20area.gif

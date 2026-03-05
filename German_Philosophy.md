@@ -41,10 +41,10 @@ aliases:
 - 德國哲學
 - 독일 철학
 has_id_wikidata: Q1203683
-instance_of: '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-subclass_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
-country: '[[_Standards/WikiData/WD~Germany,183]]'
+instance_of: '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+subclass_of: '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
+country: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 Dewey_Decimal_Classification: 193
 PhilPapers_topic: german-philosophy
 Commons_category: Philosophy in Germany

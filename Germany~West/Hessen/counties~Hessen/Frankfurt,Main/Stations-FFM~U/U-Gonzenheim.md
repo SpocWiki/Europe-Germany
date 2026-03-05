@@ -16,8 +16,8 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 8.640438
 dv_has_place_latitude: 50.219
 dv_has_name: Gonzenheim
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_City: "[[../../Frankfurt,Main]] ]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
+dv_City: "[[../../Frankfurt,Main|Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"
 dv_switch-to-ÖPNV: Stadtverkehr Bad Homburg
 dv_is_:

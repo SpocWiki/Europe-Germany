@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../../Geography/Place/Administrative_Area/C
 dv_has_place_longitude: 9.43
 dv_has_place_latitude: 53.7
 dv_has_name: Assel
-dv_has_place_country: "[[../../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../../Niedersachsen]]"
+dv_has_place_country: "[[../../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../../Niedersachsen|Niedersachsen]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Stade/cities~Stade/Drochtersen/Assel|Assel]]"

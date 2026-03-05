@@ -18,7 +18,7 @@ dv_is_a_: "[[../../../../../../../../../../../Geography/Place/Administrative_Are
 dv_has_place_longitude: 9.62
 dv_has_place_latitude: 51.02
 dv_has_name: Laurvik
-dv_has_place_country: "[[../../../../../../../../../Europe~North/Norway]]"
+dv_has_place_country: "[[../../../../../../../../../Europe~North/Norway|Norway]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Hersfeld-Rotenburg/cities~Hersfeld-Rotenburg/Alheim/boroughs~Alheim/Laurvik|Laurvik]]"

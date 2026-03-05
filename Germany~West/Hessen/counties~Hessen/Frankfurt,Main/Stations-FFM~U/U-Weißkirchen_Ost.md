@@ -17,8 +17,8 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 8.602746
 dv_has_place_latitude: 50.186
 dv_has_name: Weißkirchen Ost
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_City: "[[../../Frankfurt,Main]] ]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
+dv_City: "[[../../Frankfurt,Main|Frankfurt,Main]] ]"
 dv_switch-to-SPNV: "-"
 dv_switch-to-ÖPNV: Stadtverkehr Oberursel, 251
 dv_is_:

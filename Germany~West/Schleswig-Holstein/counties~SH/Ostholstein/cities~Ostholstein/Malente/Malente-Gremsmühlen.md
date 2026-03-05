@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../../Geography/Place/Administrative_Area/C
 dv_has_place_longitude: 10.57
 dv_has_place_latitude: 54.18
 dv_has_name: Malente-Gremsmuehlen
-dv_has_place_country: "[[../../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../../Schleswig-Holstein]]"
+dv_has_place_country: "[[../../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../../Schleswig-Holstein|Schleswig-Holstein]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Ostholstein/cities~Ostholstein/Malente/Malente-Gremsmühlen|Malente-Gremsmühlen]]"

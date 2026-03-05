@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 13.1
 dv_has_place_latitude: 54.32
 dv_has_name: Stralsund
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../Mecklenburg-Vorpommern]]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../Mecklenburg-Vorpommern|Mecklenburg-Vorpommern]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Stralsund|Stralsund]]"
@@ -60,7 +60,7 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-![[../../../../../../../../../../../assets/geo/Europe/Germany/Mecklenburg-Vorpommern/Stralsund-Altstadt.webp]]]
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Mecklenburg-Vorpommern/Stralsund-Altstadt.webp|Stralsund-Altstadt.webp]]]
 Die Altstadt von Stralsund repräsentiert den Reichtum, 
 den regionalen Einfluss und die Macht der Hanse. 
 Die Bausubstanz umfasst Beispiele der Backsteingotik, so wie hier zu sehen. 

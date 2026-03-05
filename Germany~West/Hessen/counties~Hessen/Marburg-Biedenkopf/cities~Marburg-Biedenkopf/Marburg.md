@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 8.78
 dv_has_place_latitude: 50.81
 dv_has_name: Marburg
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../Hessen]]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../Hessen|Hessen]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Marburg-Biedenkopf/cities~Marburg-Biedenkopf/Marburg|Marburg]]"
@@ -60,7 +60,7 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Marburg~Altstadt.webp]]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Marburg~Altstadt.webp]]]
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Marburg~Altstadt.webp|Marburg~Altstadt.webp]]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Marburg~Altstadt.webp|Marburg~Altstadt.webp]]]
 Marburgs Altstadt ist geprägt von der Hanglage am Schlosshügel, 
 mit enger und gedrängter Bebauung mittelalterlicher Gebäude. 
 In der Marburger Altstadt findet man mehr als 700 historische Häuser, 

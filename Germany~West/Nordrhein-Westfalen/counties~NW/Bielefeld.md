@@ -18,7 +18,7 @@ dv_is_a_: "[[../../../../../../../Geography/Place/Administrative_Area/City|City]
 dv_has_place_longitude: 8.52
 dv_has_place_latitude: 52.02
 dv_has_name: Bielefeld
-dv_has_place_country: "[[../../../../Germany]]"
+dv_has_place_country: "[[../../../../Germany|Germany]]"
 dv_has_place_province: "[[NordRhein-Westfahlen]]"
 dv_is_:
   same_as:

@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../Geography/Place/Administrative_Area/City|City]
 dv_has_place_longitude: 9.94
 dv_has_place_latitude: 52.15
 dv_has_name: Hildesheim
-dv_has_place_country: "[[../../../../Germany]]"
-dv_has_place_province: "[[../../Niedersachsen]]"
+dv_has_place_country: "[[../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../Niedersachsen|Niedersachsen]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Hildesheim|Hildesheim]]"
@@ -61,7 +61,7 @@ defaultZoom: 10
 maxZoom: 18
 ```
 
-![[../../../../../../../../../assets/geo/Europe/Germany/Niedersachsen/Hildesheim-Dom.webp]]]
+![[../../../../../../../../../assets/geo/Europe/Germany/Niedersachsen/Hildesheim-Dom.webp|Hildesheim-Dom.webp]]]
 Dom und Michaeliskirche in Hildesheim ([[Unesco]] Welterbe seit  1985)
 
 

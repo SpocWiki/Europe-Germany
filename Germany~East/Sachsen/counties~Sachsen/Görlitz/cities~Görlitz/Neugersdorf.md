@@ -18,7 +18,7 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 14.62
 dv_has_place_latitude: 50.82
 dv_has_name: Neugersdorf
-dv_has_place_country: "[[../../../../../../Germany]]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
 dv_has_place_province: "[[Sachsen]] ]"
 dv_is_:
   same_as:

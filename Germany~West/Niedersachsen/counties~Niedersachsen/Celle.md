@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../Geography/Place/Administrative_Area/City|City]
 dv_has_place_longitude: 10.07
 dv_has_place_latitude: 52.62
 dv_has_name: Celle
-dv_has_place_country: "[[../../../../Germany]]"
-dv_has_place_province: "[[../../Niedersachsen]]"
+dv_has_place_country: "[[../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../Niedersachsen|Niedersachsen]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Celle|Celle]]"
@@ -62,7 +62,7 @@ maxZoom: 18
 ```
 
 
-[[../../../../../../../../../assets/geo/Europe/Germany/Niedersachsen/Celle-Altstadt.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Niedersachsen/Celle-Altstadt.webp]]] 
+[[../../../../../../../../../assets/geo/Europe/Germany/Niedersachsen/Celle-Altstadt.webp|Celle-Altstadt.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Niedersachsen/Celle-Altstadt.webp|Celle-Altstadt.webp]]] 
 In Celle (Niedersachsen) befindet sich das kompakteste und größte Fachwerkensemble der Welt. 
 Hier können Sie zwischen moderner Bauhaus-Architektur und dem Welfenschloss mit seinem Schlosstheater wandeln. 
 Das Schloss ist die Wiege der englischen Krone.

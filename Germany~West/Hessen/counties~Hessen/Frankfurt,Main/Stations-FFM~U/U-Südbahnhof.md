@@ -16,8 +16,8 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 8.6861
 dv_has_place_latitude: 50.0994
 dv_has_name: Südbahnhof
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_City: "[[../../Frankfurt,Main]] ]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
+dv_City: "[[../../Frankfurt,Main|Frankfurt,Main]] ]"
 dv_switch-to-SPNV: Fern- und Regionalverkehr, S-Bahn, Straßenbahn
 dv_switch-to-ÖPNV: 45, 47, 48, 61, 78, 653, OF-50
 dv_is_:

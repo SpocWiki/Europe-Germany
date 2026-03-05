@@ -32,10 +32,10 @@ aliases:
 - 杜塞道夫畫派
 has_id_wikidata: Q680559
 instance_of:
-- '[[_Standards/WikiData/WD~school_of_painting,1887220]]'
-- '[[_Standards/WikiData/WD~group_action,3533467]]'
-- '[[_Standards/WikiData/WD~art_group,4502119]]'
-country: '[[_Standards/WikiData/WD~Prussia,38872]]'
+- '[[_Standards/WikiData/WD~school_of_painting,1887220|WD~school_of_painting,1887220]]'
+- '[[_Standards/WikiData/WD~group_action,3533467|WD~group_action,3533467]]'
+- '[[_Standards/WikiData/WD~art_group,4502119|WD~art_group,4502119]]'
+country: '[[_Standards/WikiData/WD~Prussia,38872|WD~Prussia,38872]]'
 title: Düsseldorfer Malerschule
 Commons_category: Düsseldorfer Malerschule
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Illustration%20von%20Caspar%20Scheuren%20im%20Duesseldorfer%20Kuenstler-Album%20von%201858%20ERDE%20und%20ENDE.jpg

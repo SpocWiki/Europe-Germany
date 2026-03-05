@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 9.28
 dv_has_place_latitude: 50.75
 dv_has_name: Alsfeld
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../Hessen]]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../Hessen|Hessen]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Vogelsbergkreis/cities~Vogelsbergkreis/Alsfeld|Alsfeld]]"
@@ -60,7 +60,7 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-![[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Alsfeld~Rathaus.png]]]
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Alsfeld~Rathaus.png|Alsfeld~Rathaus.png]]]
 Unbedingt sehenswert ist der Marktplatz mit Weinhaus, Rathaus und dem Turm der Walpurgiskirche sowie vielen Fachwerkhäusern.
 
 

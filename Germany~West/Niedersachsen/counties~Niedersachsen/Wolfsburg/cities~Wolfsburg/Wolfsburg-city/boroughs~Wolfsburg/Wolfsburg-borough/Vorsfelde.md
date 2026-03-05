@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../../../../Geography/Place/Administrative_
 dv_has_place_longitude: 10.85
 dv_has_place_latitude: 52.43
 dv_has_name: Vorsfelde
-dv_has_place_country: "[[../../../../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../../../../Niedersachsen]]"
+dv_has_place_country: "[[../../../../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../../../../Niedersachsen|Niedersachsen]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Wolfsburg/cities~Wolfsburg/Wolfsburg-city/boroughs~Wolfsburg/Wolfsburg-borough/Vorsfelde|Vorsfelde]]"

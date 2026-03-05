@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../../Geography/Place/Administrative_Area/C
 dv_has_place_longitude: 8.32
 dv_has_place_latitude: 54.9
 dv_has_name: Westerland
-dv_has_place_country: "[[../../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../../Schleswig-Holstein]]"
+dv_has_place_country: "[[../../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../../Schleswig-Holstein|Schleswig-Holstein]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Sylt/Westerland|Westerland]]"

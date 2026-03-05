@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../../../../Geography/Place/Administrative_
 dv_has_place_longitude: 8.87
 dv_has_place_latitude: 54.77
 dv_has_name: Lindholm
-dv_has_place_country: "[[../../../../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../../../../Schleswig-Holstein]]"
+dv_has_place_country: "[[../../../../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../../../../Schleswig-Holstein|Schleswig-Holstein]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Nordfriesland/cities~Nordfriesland/Südtondern/boroughs~Südtondern/Risum-Lindholm/Lindholm|Lindholm]]"

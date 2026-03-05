@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 8.57
 dv_has_place_latitude: 49.65
 dv_has_name: Lorsch
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../Hessen]]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../Hessen|Hessen]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Bergstraße/cities~Bergstraße/Lorsch|Lorsch]]"
@@ -58,7 +58,7 @@ coordinates: [[Lorsch]]
 markerFile: [[Lorsch]] 
 defaultZoom: 11 
 maxZoom: 18
-```[[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Kloster_Lorsch.webp]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Kloster_Lorsch.webp]]] 
+```[[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Kloster_Lorsch.webp|Kloster_Lorsch.webp]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Kloster_Lorsch.webp|Kloster_Lorsch.webp]]] 
 Kloster Lorsch und Altenmünster ( [[Unesco]] Welterbe seit 1991)
 
 

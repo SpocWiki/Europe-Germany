@@ -32,7 +32,7 @@ dv_is_same_as:
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Mathildenh%C3%B6he)
 
-![[../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Darmstadt~Mathildenhoehe.webp]] 
+![[../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Darmstadt~Mathildenhoehe.webp|Darmstadt~Mathildenhoehe.webp]] 
 
 
 ## Confidential Links & Embeds: 

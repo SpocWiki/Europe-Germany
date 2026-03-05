@@ -18,7 +18,7 @@ dv_is_a_: "[[../../../../../../../../../../../Geography/Place/Administrative_Are
 dv_has_place_longitude: 9.33
 dv_has_place_latitude: 52.43
 dv_has_name: Hagenburg
-dv_has_place_country: "[[../../../../../../../../Germany]]"
+dv_has_place_country: "[[../../../../../../../../Germany|Germany]]"
 dv_has_place_province: "[[Niedersachsen]] ]"
 dv_is_:
   same_as:

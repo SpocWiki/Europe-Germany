@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../Geography/Place/Administrative_Area/City|City]
 dv_has_place_longitude: 10.43
 dv_has_place_latitude: 51.9
 dv_has_name: Goslar
-dv_has_place_country: "[[../../../../Germany]]"
-dv_has_place_province: "[[../../Niedersachsen]]"
+dv_has_place_country: "[[../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../Niedersachsen|Niedersachsen]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Goslar|Goslar]]"
@@ -62,11 +62,11 @@ maxZoom: 18
 ```
 
 
-[[../../../../../../../../../assets/geo/Europe/Germany/Niedersachsen/Goslar,NS,Marktplatz.webp]]]![[../../../../../../../../../assets/geo/Europe/Germany/Niedersachsen/Goslar,NS,Marktplatz.webp]]]
+[[../../../../../../../../../assets/geo/Europe/Germany/Niedersachsen/Goslar,NS,Marktplatz.webp|Goslar,NS,Marktplatz.webp]]]![[../../../../../../../../../assets/geo/Europe/Germany/Niedersachsen/Goslar,NS,Marktplatz.webp|Goslar,NS,Marktplatz.webp]]]
 Ein zentraler Ort in Goslar (Niedersachsen) ist der Marktplatz mit dem Wappentier der ehemals freien Reichsstadt auf dem Marktbrunnen. 
 In der historischen Altstadt und ihrer Umgebung zählt der Besucher zudem über 30 Kirchengebäude. 
 Seit 1992 gehört die Altstadt von Goslar zu den Weltkulturerbestätten der Unesco.
-[[../../../../../../../../../assets/geo/Europe/Germany/Niedersachsen/Goslar.webp]]![[../../../../../../../../../assets/geo/Europe/Germany/Niedersachsen/Goslar.webp]] 
+[[../../../../../../../../../assets/geo/Europe/Germany/Niedersachsen/Goslar.webp|Goslar.webp]]![[../../../../../../../../../assets/geo/Europe/Germany/Niedersachsen/Goslar.webp|Goslar.webp]] 
 Bergwerk Rammelsberg, Altstadt von Goslar und Oberharzer Wasserwirtschaft ( [[Unesco]] Welterbe seit 1992) 
 
 

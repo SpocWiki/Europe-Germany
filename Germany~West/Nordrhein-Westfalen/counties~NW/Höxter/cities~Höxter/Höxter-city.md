@@ -19,7 +19,7 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 9.38
 dv_has_place_latitude: 51.78
 dv_has_name: Höxter
-dv_has_place_country: "[[../../../../../../Germany]]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
 dv_has_place_province: "[[NordRhein-Westfahlen]]"
 dv_is_:
   same_as:
@@ -60,7 +60,7 @@ markerFile: [[Höxter-city]]
 defaultZoom: 11 
 maxZoom: 18
 ```
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Nordrhein-Westfalen/Höxter~Karolingisches-Westwerk.webp]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Nordrhein-Westfalen/Höxter~Karolingisches-Westwerk.webp]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Nordrhein-Westfalen/Höxter~Karolingisches-Westwerk.webp|Höxter~Karolingisches-Westwerk.webp]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Nordrhein-Westfalen/Höxter~Karolingisches-Westwerk.webp|Höxter~Karolingisches-Westwerk.webp]] 
 Karolingisches Westwerk und Civitas Corvey (2014) 
 
 

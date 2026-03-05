@@ -19,8 +19,8 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 6.85
 dv_has_place_latitude: 49.25
 dv_has_name: Völklingen
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../Saarland]]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../Saarland|Saarland]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Saarland/counties~Saarland/Region~Saarbrücken/cities~Saarbrücken/Völklingen|Völklingen]]"
@@ -63,7 +63,7 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Saarland/Völklinger_Hütte.webp]]] ![[../../../../../../../../../../../assets/geo/Europe/Germany/Saarland/Völklinger_Hütte.webp]]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Saarland/Völklinger_Hütte.webp|Völklinger_Hütte.webp]]] ![[../../../../../../../../../../../assets/geo/Europe/Germany/Saarland/Völklinger_Hütte.webp|Völklinger_Hütte.webp]]] 
 Völklinger Hütte ( [[Unesco]] Welterbe seit 1994) 
 
 

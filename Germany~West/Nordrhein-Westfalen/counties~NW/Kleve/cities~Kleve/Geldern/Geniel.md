@@ -18,7 +18,7 @@ dv_is_a_: "[[../../../../../../../../../../Geography/Place/Administrative_Area/C
 dv_has_place_longitude: 6.28
 dv_has_place_latitude: 51.52
 dv_has_name: Geniel
-dv_has_place_country: "[[../../../../../../../../Europe~South/Portugal]]"
+dv_has_place_country: "[[../../../../../../../../Europe~South/Portugal|Portugal]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Kleve/cities~Kleve/Geldern/Geniel|Geniel]]"

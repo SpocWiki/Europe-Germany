@@ -18,7 +18,7 @@ dv_is_a_: "[[../../../../../../../Geography/Place/Administrative_Area/City|City]
 dv_has_place_longitude: 7.46
 dv_has_place_latitude: 51.36
 dv_has_name: Hagen
-dv_has_place_country: "[[../../../../Germany]]"
+dv_has_place_country: "[[../../../../Germany|Germany]]"
 dv_has_place_province: "[[NordRhein-Westfahlen]]"
 dv_is_:
   same_as:

@@ -19,8 +19,8 @@ dv_is_a_: "[[../../../../../../../../../../../../Geography/Place/Administrative_
 dv_has_place_longitude: 13.22
 dv_has_place_latitude: 54.47
 dv_has_name: Gellern
-dv_has_place_country: "[[../../../../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../../../../Mecklenburg-Vorpommern]]"
+dv_has_place_country: "[[../../../../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../../../../Mecklenburg-Vorpommern|Mecklenburg-Vorpommern]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Wiek/Gellort,Kap_Arkona|Gellort,Kap_Arkona]]"

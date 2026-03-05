@@ -18,7 +18,7 @@ dv_is_a_: "[[../../../../../../../../../../Geography/Place/Administrative_Area/C
 dv_has_place_longitude: 8.05
 dv_has_place_latitude: 50.98
 dv_has_name: Muesen
-dv_has_place_country: "[[../../../../../../../Germany]]"
+dv_has_place_country: "[[../../../../../../../Germany|Germany]]"
 dv_has_place_province: "[[NordRhein-Westfahlen]]"
 dv_is_:
   same_as:

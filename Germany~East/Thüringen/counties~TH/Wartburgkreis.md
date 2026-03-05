@@ -18,7 +18,7 @@ dv_is_same_as:
   - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen/counties~TH/Wartburgkreis.secret|Wartburgkreis.secret]]"
 ---
 
-[[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Wartburg.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Wartburg.webp]]] 
+[[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Wartburg.webp|Wartburg.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Wartburg.webp|Wartburg.webp]]] 
 Wartburg ( [[Unesco]] Welterbe seit 1999)  
 
 

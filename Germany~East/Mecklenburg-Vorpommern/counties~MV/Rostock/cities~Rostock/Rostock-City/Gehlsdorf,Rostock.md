@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../../Geography/Place/Administrative_Area/C
 dv_has_place_longitude: 12.25
 dv_has_place_latitude: 52.25
 dv_has_name: Gehlsdorf
-dv_has_place_country: "[[../../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../../Brandenburg]]"
+dv_has_place_country: "[[../../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../../Brandenburg|Brandenburg]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Rostock/cities~Rostock/Rostock-City/Gehlsdorf,Rostock|Gehlsdorf,Rostock]]"

@@ -18,7 +18,7 @@ dv_is_a_: "[[../../../../../../../../../../Geography/Place/Administrative_Area/C
 dv_has_place_longitude: 12.75
 dv_has_place_latitude: 52.93
 dv_has_name: Bechlin
-dv_has_place_country: "[[../../../../../../../Germany]]"
+dv_has_place_country: "[[../../../../../../../Germany|Germany]]"
 dv_has_place_province: "[[Brandenburg]] ]"
 dv_is_:
   same_as:

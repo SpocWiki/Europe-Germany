@@ -18,7 +18,7 @@ dv_is_a_: "[[../../../../../../../../../../../../Geography/Place/Administrative_
 dv_has_place_longitude: 13.43
 dv_has_place_latitude: 54.68
 dv_has_name: Arkona
-dv_has_place_country: "[[../../../../../../../../../../Europe~South/Portugal]]"
+dv_has_place_country: "[[../../../../../../../../../../Europe~South/Portugal|Portugal]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Vorpommern-Rügen/cities~Rügen/Nord-Rügen/boroughs~Nord-Rügen/Wiek/Arkona|Arkona]]"

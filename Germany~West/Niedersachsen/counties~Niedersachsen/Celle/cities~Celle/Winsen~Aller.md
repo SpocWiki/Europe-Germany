@@ -18,7 +18,7 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 9.9
 dv_has_place_latitude: 52.68
 dv_has_name: Winsen an der Aller
-dv_has_place_country: "[[../../../../../../Germany]]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
 dv_has_place_province: "[[Niedersachsen]] ]"
 dv_is_:
   same_as:

@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../../../Geography/Place/Administrative_Are
 dv_has_place_longitude: 14.43
 dv_has_place_latitude: 51.18
 dv_has_name: Bautzen
-dv_has_place_country: "[[../../../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../../../Sachsen]]"
+dv_has_place_country: "[[../../../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../../../Sachsen|Sachsen]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Bautzen/cities~Bautzen/Bautzen-city/City/Bautzen|Bautzen]]"
@@ -60,7 +60,7 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-![[../../../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen/Bautzen-Altstadt.webp]]]
+![[../../../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen/Bautzen-Altstadt.webp|Bautzen-Altstadt.webp]]]
 Bautzen (Sachsen): 
 Eine Altstadt, die geprägt ist durch Kriege, Stadtbrände, Königsparaden und Strafgerichte. 
 An jeder Ecke findet sich Geschichte umgeben von Häusern aus Gotik, Renaissance oder Barock.

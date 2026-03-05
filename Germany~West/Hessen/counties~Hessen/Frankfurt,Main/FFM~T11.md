@@ -44,7 +44,7 @@ dv_is_same_as:
 
 # FFM~T11
 
-Straßen-Bahn in [[../Frankfurt,Main]] 
+Straßen-Bahn in [[../Frankfurt,Main|Frankfurt,Main]] 
 
 ```leaflet
 id: FFM~T11

@@ -149,9 +149,9 @@ dv_has_:
 ## #has_/parts 
 
 
-### [[S-Bahn,Berlin/S1,Berlin]] 
+### [[S-Bahn,Berlin/S1,Berlin|S1,Berlin]] 
 
-### [[S-Bahn,Berlin/S2,Berlin]] 
+### [[S-Bahn,Berlin/S2,Berlin|S2,Berlin]] 
 
 S25 and S16 share a large part of S2 
 
@@ -159,29 +159,29 @@ S25 and S16 share a large part of S2
 
 #### [[S26,Berlin]] 
 
-### [[S-Bahn,Berlin/S3,Berlin]] 
+### [[S-Bahn,Berlin/S3,Berlin|S3,Berlin]] 
 
 ### [[S41,Berlin]] 
 
 ### [[S42,Berlin]] 
 
-### [[S-Bahn,Berlin/S45,Berlin]] 
+### [[S-Bahn,Berlin/S45,Berlin|S45,Berlin]] 
 
-### [[S-Bahn,Berlin/S46,Berlin]] 
+### [[S-Bahn,Berlin/S46,Berlin|S46,Berlin]] 
 
-### [[S-Bahn,Berlin/S47,Berlin]] 
+### [[S-Bahn,Berlin/S47,Berlin|S47,Berlin]] 
 
-### [[S-Bahn,Berlin/S5,Berlin]] 
+### [[S-Bahn,Berlin/S5,Berlin|S5,Berlin]] 
 
-### [[S-Bahn,Berlin/S7,Berlin]]
+### [[S-Bahn,Berlin/S7,Berlin|S7,Berlin]]
 
 ### [[S75,Berlin]]
 
-### [[S-Bahn,Berlin/S8,Berlin]] 
+### [[S-Bahn,Berlin/S8,Berlin|S8,Berlin]] 
 
 ### [[S85,Berlin]] 
 
-### [[S-Bahn,Berlin/S9,Berlin]] 
+### [[S-Bahn,Berlin/S9,Berlin|S9,Berlin]] 
 
 
 

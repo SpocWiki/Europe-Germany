@@ -17,8 +17,8 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 8.587596
 dv_has_place_latitude: 50.19919
 dv_has_name: Oberursel Bahnhof
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_City: "[[../../Frankfurt,Main]] ]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
+dv_City: "[[../../Frankfurt,Main|Frankfurt,Main]] ]"
 dv_switch-to-SPNV: S-Bahn, Regionalbahn (Taunusbahn)
 dv_switch-to-ÖPNV: Stadtverkehr Oberursel, 252, 261
 dv_is_:

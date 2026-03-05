@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../../../Geography/Place/Administrative_Are
 dv_has_place_longitude: 12.64
 dv_has_place_latitude: 51.87
 dv_has_name: Wittenberg
-dv_has_place_country: "[[../../../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../../../Sachsen-Anhalt]]"
+dv_has_place_country: "[[../../../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../../../Sachsen-Anhalt|Sachsen-Anhalt]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt/counties~SA/Wittenberg/cities~Wittenberg/Wittenberg-city/City/Wittenberg|Wittenberg]]"
@@ -60,7 +60,7 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-![[../../../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen-Anhalt/Wittenberg-Altstadt.webp]]]
+![[../../../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen-Anhalt/Wittenberg-Altstadt.webp|Wittenberg-Altstadt.webp]]]
 Neben dem Unesco-Welterbe "Luthergedenkstätten in Wittenberg" hat die Universitätsstadt in Sachsen-Anhalt noch einiges mehr zu bieten: 
 Die malerischen Straßen und Plätze der Altstadt, wie der Schlossplatz, 
 sowie die Cranachhöfe und üppigen Grünanlagen sind ebenfalls sehenswert. 

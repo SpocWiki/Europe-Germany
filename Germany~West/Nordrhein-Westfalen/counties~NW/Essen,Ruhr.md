@@ -18,7 +18,7 @@ dv_is_a_: "[[../../../../../../../Geography/Place/Administrative_Area/City|City]
 dv_has_place_longitude: 7
 dv_has_place_latitude: 51.45
 dv_has_name: Essen,Ruhr
-dv_has_place_country: "[[../../../../Germany]]"
+dv_has_place_country: "[[../../../../Germany|Germany]]"
 dv_has_place_province: "[[NordRhein-Westfahlen]]"
 dv_is_:
   same_as:
@@ -59,7 +59,7 @@ markerFile: [[Essen,Ruhr]]
 defaultZoom: 11 
 maxZoom: 18
 ```
-![[../../../../../../../../../assets/geo/Europe/Germany/Nordrhein-Westfalen/Essen,Ruhr~Zeche_Zollverein.webp]] 
+![[../../../../../../../../../assets/geo/Europe/Germany/Nordrhein-Westfalen/Essen,Ruhr~Zeche_Zollverein.webp|Essen,Ruhr~Zeche_Zollverein.webp]] 
 Industriekomplex Zeche Zollverein in Essen ( [[Unesco]] Welterbe seit 2001) 
 
 

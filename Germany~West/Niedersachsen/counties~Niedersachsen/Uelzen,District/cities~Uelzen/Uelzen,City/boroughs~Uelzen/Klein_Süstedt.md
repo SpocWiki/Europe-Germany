@@ -3,12 +3,12 @@ aliases:
   - Klein_Süstedt
   - Klein Süstedt
 has_id_wikidata: Q18022240
-instance_of: "[[_Standards/WikiData/WD~Ortsteil,253019]]"
+instance_of: "[[_Standards/WikiData/WD~Ortsteil,253019|WD~Ortsteil,253019]]"
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Uelzen,15989]]"
-country: "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]"
+  - "[[_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Uelzen,15989|WD~Uelzen,15989]]"
+country: "[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]"
 location: [52.935935, 10.491081, 63]
 elevation_above_sea_level: 63
 postal_code: "29525"

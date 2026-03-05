@@ -18,7 +18,7 @@ dv_is_a_: "[[../../../../../../../../../../../Geography/Place/Administrative_Are
 dv_has_place_longitude: 12.68
 dv_has_place_latitude: 51.98
 dv_has_name: Markendorf
-dv_has_place_country: "[[../../../../../../../../Germany]]"
+dv_has_place_country: "[[../../../../../../../../Germany|Germany]]"
 dv_has_place_province: "[[Brandenburg]] ]"
 dv_is_:
   same_as:

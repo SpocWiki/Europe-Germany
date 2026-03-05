@@ -27,7 +27,7 @@ dv_is_same_as:
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Waldspirale)
 
-![[../../../../../../../../../../assets/Knowledge/Architecture/Darmstadt_Waldspirale_102_0011.jpg]] 
+![[../../../../../../../../../../assets/Knowledge/Architecture/Darmstadt_Waldspirale_102_0011.jpg|Darmstadt_Waldspirale_102_0011.jpg]] 
 
 
 ## Confidential Links & Embeds: 

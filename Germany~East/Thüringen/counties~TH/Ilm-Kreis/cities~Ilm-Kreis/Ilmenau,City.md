@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 10.9
 dv_has_place_latitude: 50.68
 dv_has_name: Ilmenau
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../Thüringen]]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../Thüringen|Thüringen]]"
 dv_is_:
   same_as:
     - "[[Ilmenau,City|Ilmenau,City]]"

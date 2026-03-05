@@ -44,24 +44,24 @@ dv_is_same_as:
 
 # FFM~S6
 
-S-Bahn i[[../Frankfurt,Main]]]  
+S-Bahn i[[../Frankfurt,Main|Frankfurt,Main]]]  
 
 # Stations: 
-[[Stations-FFM~S/S-Friedberg~Hessen]]  
-[[Stations-FFM~S/S-Bruchenbrücken]]  
-[[Stations-FFM~S/S-Nieder-Wöllstadt]]  
-[[Stations-FFM~S/S-Okarben]]  
-[[Stations-FFM~S/S-Groß_Karben]]  
-[[Stations-FFM~S/S-Dortelweil]]  
-[[Stations-FFM~S/S-Bad_Vilbel]]  
-[[Stations-FFM~S/S-Bad_Vilbel_Süd]]  
-[[Stations-FFM~S/S-Frankfurt-Berkersheim]]  
-[[Stations-FFM~S/S-Frankfurt-Frankfurter_Berg]]  
-1[[Stations-FFM~S/S-Frankfurt-Eschersheim]]  
-1[[Stations-FFM~S/S-Frankfurt~Main_West]]  
-1[[Stations-FFM~S/S-Frankfurt~Main~Messe]]  
-1[[Stations-FFM~S/S-Frankfurt~Main_Galluswarte]]  
-1[[Stations-FFM~S/S-Frankfurt~Main_Hbf_tief]]  
+[[Stations-FFM~S/S-Friedberg~Hessen|S-Friedberg~Hessen]]  
+[[Stations-FFM~S/S-Bruchenbrücken|S-Bruchenbrücken]]  
+[[Stations-FFM~S/S-Nieder-Wöllstadt|S-Nieder-Wöllstadt]]  
+[[Stations-FFM~S/S-Okarben|S-Okarben]]  
+[[Stations-FFM~S/S-Groß_Karben|S-Groß_Karben]]  
+[[Stations-FFM~S/S-Dortelweil|S-Dortelweil]]  
+[[Stations-FFM~S/S-Bad_Vilbel|S-Bad_Vilbel]]  
+[[Stations-FFM~S/S-Bad_Vilbel_Süd|S-Bad_Vilbel_Süd]]  
+[[Stations-FFM~S/S-Frankfurt-Berkersheim|S-Frankfurt-Berkersheim]]  
+[[Stations-FFM~S/S-Frankfurt-Frankfurter_Berg|S-Frankfurt-Frankfurter_Berg]]  
+1[[Stations-FFM~S/S-Frankfurt-Eschersheim|S-Frankfurt-Eschersheim]]  
+1[[Stations-FFM~S/S-Frankfurt~Main_West|S-Frankfurt~Main_West]]  
+1[[Stations-FFM~S/S-Frankfurt~Main~Messe|S-Frankfurt~Main~Messe]]  
+1[[Stations-FFM~S/S-Frankfurt~Main_Galluswarte|S-Frankfurt~Main_Galluswarte]]  
+1[[Stations-FFM~S/S-Frankfurt~Main_Hbf_tief|S-Frankfurt~Main_Hbf_tief]]  
 
 ```leaflet
 id: FFM~S6
@@ -73,12 +73,12 @@ geojsonFolder: ./FFM~S6/
 markerFolder: ./Station/
 ```
 
-1[[Stations-FFM~S/S-Frankfurt_Taunusanlage]]  
-1[[Stations-FFM~S/S-Frankfurt_Hauptwache]]  
-1[[Stations-FFM~S/S-Frankfurt_Konstablerwache]]  
-1[[Stations-FFM~S/S-Frankfurt_Ostendstraße]]  
-1[[Stations-FFM~S/S-Frankfurt_Lokalbahnhof]]  
-2[[Stations-FFM~S/S-Frankfurt~Main~Süd]]  
+1[[Stations-FFM~S/S-Frankfurt_Taunusanlage|S-Frankfurt_Taunusanlage]]  
+1[[Stations-FFM~S/S-Frankfurt_Hauptwache|S-Frankfurt_Hauptwache]]  
+1[[Stations-FFM~S/S-Frankfurt_Konstablerwache|S-Frankfurt_Konstablerwache]]  
+1[[Stations-FFM~S/S-Frankfurt_Ostendstraße|S-Frankfurt_Ostendstraße]]  
+1[[Stations-FFM~S/S-Frankfurt_Lokalbahnhof|S-Frankfurt_Lokalbahnhof]]  
+2[[Stations-FFM~S/S-Frankfurt~Main~Süd|S-Frankfurt~Main~Süd]]  
 
 
 ## Confidential Links & Embeds: 

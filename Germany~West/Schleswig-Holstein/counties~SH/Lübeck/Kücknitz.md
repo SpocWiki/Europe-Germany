@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../Geography/Place/Administrative_Area/City|Ci
 dv_has_place_longitude: 10.8
 dv_has_place_latitude: 53.92
 dv_has_name: Kuecknitz
-dv_has_place_country: "[[../../../../../Germany]]"
-dv_has_place_province: "[[../../../Schleswig-Holstein]]"
+dv_has_place_country: "[[../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../Schleswig-Holstein|Schleswig-Holstein]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Schleswig-Holstein/counties~SH/Lübeck/Kücknitz|Kücknitz]]"

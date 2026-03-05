@@ -14,8 +14,8 @@ type: Station
 dv_has_place_longitude: "{{GeoLon}}"
 dv_has_place_latitude: "{{GeoLat}}"
 dv_has_name: "{{Bahnhof}}"
-dv_has_place_country: "[[../../../../../Germany]]"
-dv_City: "[[../Frankfurt,Main]]"
+dv_has_place_country: "[[../../../../../Germany|Germany]]"
+dv_City: "[[../Frankfurt,Main|Frankfurt,Main]]"
 dv_switch-to-SPNV: "{{SPNV-Umstieg}}"
 dv_switch-to-ÖPNV: "{{ÖPNV-Umstieg}}"
 dv_is_:

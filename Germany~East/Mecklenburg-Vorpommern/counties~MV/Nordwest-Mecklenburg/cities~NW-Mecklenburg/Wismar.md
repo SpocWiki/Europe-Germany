@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 11.47
 dv_has_place_latitude: 53.9
 dv_has_name: Wismar
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../Mecklenburg-Vorpommern]]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../Mecklenburg-Vorpommern|Mecklenburg-Vorpommern]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Mecklenburg-Vorpommern/counties~MV/Nordwest-Mecklenburg/cities~NW-Mecklenburg/Wismar|Wismar]]"
@@ -61,7 +61,7 @@ maxZoom: 18
 ```
 
 
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Mecklenburg-Vorpommern/Wismar-Altstadt.webp]]] ![[../../../../../../../../../../../assets/geo/Europe/Germany/Mecklenburg-Vorpommern/Wismar-Altstadt.webp]]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Mecklenburg-Vorpommern/Wismar-Altstadt.webp|Wismar-Altstadt.webp]]] ![[../../../../../../../../../../../assets/geo/Europe/Germany/Mecklenburg-Vorpommern/Wismar-Altstadt.webp|Wismar-Altstadt.webp]]] 
 Die Altstadt von Wismar (Mecklenburg-Vorpommern) wurde in die Welterbeliste der [[Unesco]] aufgenommen. 
 Wismar wurde im 13. Jahrhundert gegründet, seitdem ist der mittelalterliche Grundriss der Stadt beinahe unverändert erhalten. 
 Auch hier sind Beispiele für die Backsteingotik zu finden.

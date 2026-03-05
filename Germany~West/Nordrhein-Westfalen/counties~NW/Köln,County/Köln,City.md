@@ -76,34 +76,34 @@ aliases:
 - 쾰른
 - "\U0001033A\U00010330\U0001033F\U0001033B\U00010349\U0001033D\U0001033E\U00010330"
 has_id_wikidata: Q365
-archives_at: '[[_Standards/WikiData/WD~Historical_Archive_of_the_City_of_Cologne,664138]]'
+archives_at: '[[_Standards/WikiData/WD~Historical_Archive_of_the_City_of_Cologne,664138|WD~Historical_Archive_of_the_City_of_Cologne,664138]]'
 area: 405.01
 BHCL_UUID:
 - bbc2d413-3e92-4b80-b353-525706773a65
 - cb255566-65ef-44ed-8fe1-0c1d5e717037
 Bluesky_handle: stadt-koeln.de
 capital_of:
-- '[[_Standards/WikiData/WD~Landschaftsverband_Rheinland,153468]]'
-- '[[_Standards/WikiData/WD~Gallic_Empire,273025]]'
-- '[[_Standards/WikiData/WD~Electorate_of_Cologne,7904317]]'
-- '[[_Standards/WikiData/WD~Cologne_Government_Region,7927]]'
+- '[[_Standards/WikiData/WD~Landschaftsverband_Rheinland,153468|WD~Landschaftsverband_Rheinland,153468]]'
+- '[[_Standards/WikiData/WD~Gallic_Empire,273025|WD~Gallic_Empire,273025]]'
+- '[[_Standards/WikiData/WD~Electorate_of_Cologne,7904317|WD~Electorate_of_Cologne,7904317]]'
+- '[[_Standards/WikiData/WD~Cologne_Government_Region,7927|WD~Cologne_Government_Region,7927]]'
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/DEU%20Koeln%20COA.svg
 Commons_category: Cologne
 Commons_gallery: Cologne
 confidential: public
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Mülheim,153779]]'
-- '[[_Standards/WikiData/WD~Rodenkirchen,446716]]'
-- '[[_Standards/WikiData/WD~Cologne-Innenstadt,446857]]'
-- '[[_Standards/WikiData/WD~Chorweiler,446864]]'
-- '[[_Standards/WikiData/WD~Kalk,446870]]'
-- '[[_Standards/WikiData/WD~Ehrenfeld,458126]]'
-- '[[_Standards/WikiData/WD~Porz,458242]]'
-- '[[_Standards/WikiData/WD~Lindenthal,518491]]'
-- '[[_Standards/WikiData/WD~Nippes,518604]]'
+- '[[_Standards/WikiData/WD~Mülheim,153779|WD~Mülheim,153779]]'
+- '[[_Standards/WikiData/WD~Rodenkirchen,446716|WD~Rodenkirchen,446716]]'
+- '[[_Standards/WikiData/WD~Cologne-Innenstadt,446857|WD~Cologne-Innenstadt,446857]]'
+- '[[_Standards/WikiData/WD~Chorweiler,446864|WD~Chorweiler,446864]]'
+- '[[_Standards/WikiData/WD~Kalk,446870|WD~Kalk,446870]]'
+- '[[_Standards/WikiData/WD~Ehrenfeld,458126|WD~Ehrenfeld,458126]]'
+- '[[_Standards/WikiData/WD~Porz,458242|WD~Porz,458242]]'
+- '[[_Standards/WikiData/WD~Lindenthal,518491|WD~Lindenthal,518491]]'
+- '[[_Standards/WikiData/WD~Nippes,518604|WD~Nippes,518604]]'
 coordinate_location: Point(6.957777777 50.942222222)
-country: '[[_Standards/WikiData/WD~Germany,183]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Cologne,1309813]]'
+country: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Cologne,1309813|WD~demographics_of_Cologne,1309813]]'
 demonym:
 - Kölner
 - Kölnerin
@@ -118,18 +118,18 @@ described_at_URL:
 - https://www.kek-online.de/medienkonzentration/mediendatenbank/#/profile/shareholder/5c5027d6-5551-4b8a-b8b0-fbebd3f824fe
 - https://www.meyersgaz.org/place/10300009
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[_Standards/WikiData/WD~Regesta_Imperii,316838]]'
-- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Q19230673,19230673]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Regesta_Imperii,316838|WD~Regesta_Imperii,316838]]'
+- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Q19230673,19230673|WD~Q19230673,19230673]]'
 Dewey_Decimal_Classification: 2--435514
-different_from: '[[_Standards/WikiData/WD~Kolonia,1210272]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Cologne,100866188]]'
+different_from: '[[_Standards/WikiData/WD~Kolonia,1210272|WD~Kolonia,1210272]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Cologne,100866188|WD~economy_of_Cologne,100866188]]'
 elevation_above_sea_level: 59
 EU_Participant_Identification_Code: 997438973
 EU_VAT_number: DE122790626
@@ -143,21 +143,21 @@ German_regional_key: 53150000000
 GitHub_topic: koeln
 HASC: DE.NW.KO
 hashtag: Köln
-head_of_government: '[[_Standards/WikiData/WD~Henriette_Reker,19285371]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Cologne,566781]]'
+head_of_government: '[[_Standards/WikiData/WD~Henriette_Reker,19285371|WD~Henriette_Reker,19285371]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Cologne,566781|WD~history_of_Cologne,566781]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stadtbild%20K%C3%B6ln%20%2850MP%29.jpg
 Image_Archive_Herder_Institute: Q365
 Instagram_username: stadt.koeln
 instance_of:
-- '[[_Standards/WikiData/WD~metropolis,200250]]'
-- '[[_Standards/WikiData/WD~Hanseatic_city,707813]]'
-- '[[_Standards/WikiData/WD~big_city,1549591]]'
-- '[[_Standards/WikiData/WD~Roman_city,2202509]]'
-- '[[_Standards/WikiData/WD~urban_municipality_in_Germany,42744322]]'
-- '[[_Standards/WikiData/WD~urban_district_of_North_Rhine-Westphalia,85635630]]'
+- '[[_Standards/WikiData/WD~metropolis,200250|WD~metropolis,200250]]'
+- '[[_Standards/WikiData/WD~Hanseatic_city,707813|WD~Hanseatic_city,707813]]'
+- '[[_Standards/WikiData/WD~big_city,1549591|WD~big_city,1549591]]'
+- '[[_Standards/WikiData/WD~Roman_city,2202509|WD~Roman_city,2202509]]'
+- '[[_Standards/WikiData/WD~urban_municipality_in_Germany,42744322|WD~urban_municipality_in_Germany,42744322]]'
+- '[[_Standards/WikiData/WD~urban_district_of_North_Rhine-Westphalia,85635630|WD~urban_district_of_North_Rhine-Westphalia,85635630]]'
 isDeleted: false
 ISNI: 123094618
-legislative_body: '[[_Standards/WikiData/WD~city_council_of_Cologne,17484711]]'
+legislative_body: '[[_Standards/WikiData/WD~city_council_of_Cologne,17484711|WD~city_council_of_Cologne,17484711]]'
 licence_plate_code: K
 local_dialing_code:
 - 2233
@@ -166,11 +166,11 @@ local_dialing_code:
 - 2236
 - 2232
 - 2234
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Rhine,584]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Cologne_Government_Region,7927]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Rhine,584|WD~Rhine,584]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Cologne_Government_Region,7927|WD~Cologne_Government_Region,7927]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
-- '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+- '[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]'
+- '[[_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]'
 location:
 - 50.94
 - 6.96
@@ -183,32 +183,32 @@ mapzoom:
 - 12
 Mastodon_address: koeln@social.cologne
 member_of:
-- '[[_Standards/WikiData/WD~Landschaftsverband_Rheinland,153468]]'
-- '[[_Standards/WikiData/WD~International_Association_for_Sports_and_Leisure_Facilities,475646]]'
-- '[[_Standards/WikiData/WD~association_for_pedestrian_and_bicycle-friendly_cities,_townships_and_districts_in_North_Rhine_Westphalia,627637]]'
-- '[[_Standards/WikiData/WD~Mayors_for_Peace,747279]]'
-- '[[_Standards/WikiData/WD~Association_of_German_Airports,1433362]]'
-- '[[_Standards/WikiData/WD~Climate_Alliance,1768108]]'
-- '[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972]]'
-- '[[_Standards/WikiData/WD~Städtetag_Nordrhein-Westfalen,52144567]]'
-- '[[_Standards/WikiData/WD~World_Cities_Culture_Forum,55098964]]'
-- '[[_Standards/WikiData/WD~Q131586184,131586184]]'
-named_after: '[[_Standards/WikiData/WD~Colonia_Claudia_Ara_Agrippinensium,23048]]'
+- '[[_Standards/WikiData/WD~Landschaftsverband_Rheinland,153468|WD~Landschaftsverband_Rheinland,153468]]'
+- '[[_Standards/WikiData/WD~International_Association_for_Sports_and_Leisure_Facilities,475646|WD~International_Association_for_Sports_and_Leisure_Facilities,475646]]'
+- '[[_Standards/WikiData/WD~association_for_pedestrian_and_bicycle-friendly_cities,_townships_and_districts_in_North_Rhine_Westphalia,627637|WD~association_for_pedestrian_and_bicycle-friendly_cities,_townships_and_districts_in_North_Rhine_Westphalia,627637]]'
+- '[[_Standards/WikiData/WD~Mayors_for_Peace,747279|WD~Mayors_for_Peace,747279]]'
+- '[[_Standards/WikiData/WD~Association_of_German_Airports,1433362|WD~Association_of_German_Airports,1433362]]'
+- '[[_Standards/WikiData/WD~Climate_Alliance,1768108|WD~Climate_Alliance,1768108]]'
+- '[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972|WD~League_of_Historical_Cities,9383972]]'
+- '[[_Standards/WikiData/WD~Städtetag_Nordrhein-Westfalen,52144567|WD~Städtetag_Nordrhein-Westfalen,52144567]]'
+- '[[_Standards/WikiData/WD~World_Cities_Culture_Forum,55098964|WD~World_Cities_Culture_Forum,55098964]]'
+- '[[_Standards/WikiData/WD~Q131586184,131586184|WD~Q131586184,131586184]]'
+named_after: '[[_Standards/WikiData/WD~Colonia_Claudia_Ara_Agrippinensium,23048|WD~Colonia_Claudia_Ara_Agrippinensium,23048]]'
 native_label:
 - Köln
 - Kölle
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Old%20town%20of%20cologne%20during%20the%20flood%20in%20january%202018%20%2827824836999%29.jpg
 NUTS_code: DEA23
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Lord_Mayor_of_Cologne,52220796]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Lord_Mayor_of_Cologne,52220796|WD~Lord_Mayor_of_Cologne,52220796]]'
 official_name: Stadt Köln
 official_website: https://www.stadt-koeln.de/
 OmegaWiki_Defined_Meaning: 399141
-open_data_portal: '[[_Standards/WikiData/WD~Open_Data_portal_Köln,63428438]]'
+open_data_portal: '[[_Standards/WikiData/WD~Open_Data_portal_Köln,63428438|WD~Open_Data_portal_Köln,63428438]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Cologne%20-%20Panoramic%20Image%20of%20the%20old%20town%20at%20dusk.jpg
 panoramic_view:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Cologne%20-%20Panoramic%20Image%20of%20the%20old%20town%20at%20dusk.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Koelnpanorama.jpg
-patron_saint: '[[_Standards/WikiData/WD~Saint_Peter,33923]]'
+patron_saint: '[[_Standards/WikiData/WD~Saint_Peter,33923|WD~Saint_Peter,33923]]'
 population: 1087353
 postal_code:
 - 51145
@@ -258,13 +258,13 @@ postal_code:
 Provenio_UUID: 60f9c547-e489-4854-a125-b4ad548de2d3
 satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/Rhine%20River%20in%20August%202022%20ESA24407722.jpeg
 shares_border_with:
-- '[[_Standards/WikiData/WD~Leverkusen,2938]]'
-- '[[_Standards/WikiData/WD~Hürth,4060]]'
-- '[[_Standards/WikiData/WD~Rhein-Kreis_Neuss,6253]]'
-- '[[_Standards/WikiData/WD~Mettmann,6257]]'
-- '[[_Standards/WikiData/WD~Rhein-Sieg_District,6287]]'
-- '[[_Standards/WikiData/WD~Rhein-Berg_District,6295]]'
-- '[[_Standards/WikiData/WD~Rhein-Erft_District,6292]]'
+- '[[_Standards/WikiData/WD~Leverkusen,2938|WD~Leverkusen,2938]]'
+- '[[_Standards/WikiData/WD~Hürth,4060|WD~Hürth,4060]]'
+- '[[_Standards/WikiData/WD~Rhein-Kreis_Neuss,6253|WD~Rhein-Kreis_Neuss,6253]]'
+- '[[_Standards/WikiData/WD~Mettmann,6257|WD~Mettmann,6257]]'
+- '[[_Standards/WikiData/WD~Rhein-Sieg_District,6287|WD~Rhein-Sieg_District,6287]]'
+- '[[_Standards/WikiData/WD~Rhein-Berg_District,6295|WD~Rhein-Berg_District,6295]]'
+- '[[_Standards/WikiData/WD~Rhein-Erft_District,6292|WD~Rhein-Erft_District,6292]]'
 short_name:
 - K
 - Kn
@@ -277,38 +277,38 @@ subreddit: cologne
 tags:
 - geo/City
 Threads_username: stadt.koeln
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Cologne,11380304]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Cologne,11380304|WD~Portal_Cologne,11380304]]'
 twinned_administrative_body:
-- '[[_Standards/WikiData/WD~Cluj-Napoca,100188]]'
-- '[[_Standards/WikiData/WD~Treptow-Köpenick,158089]]'
-- '[[_Standards/WikiData/WD~Jiaozuo,404429]]'
-- '[[_Standards/WikiData/WD~Corinto,1132939]]'
-- '[[_Standards/WikiData/WD~Rio_de_Janeiro,8678]]'
-- '[[_Standards/WikiData/WD~Esch-sur-Alzette,16010]]'
-- '[[_Standards/WikiData/WD~Thessaloniki,17151]]'
-- '[[_Standards/WikiData/WD~Liverpool,24826]]'
-- '[[_Standards/WikiData/WD~Tel_Aviv,33935]]'
-- '[[_Standards/WikiData/WD~Rotterdam,34370]]'
-- '[[_Standards/WikiData/WD~Kyoto,34600]]'
-- '[[_Standards/WikiData/WD~Cork,36647]]'
-- '[[_Standards/WikiData/WD~Turku,38511]]'
-- '[[_Standards/WikiData/WD~Istanbul,406]]'
-- '[[_Standards/WikiData/WD~Turin,495]]'
-- '[[_Standards/WikiData/WD~Katowice,588]]'
-- '[[_Standards/WikiData/WD~Lille,648]]'
-- '[[_Standards/WikiData/WD~Volgograd,914]]'
-- '[[_Standards/WikiData/WD~Beijing,956]]'
-- '[[_Standards/WikiData/WD~Barcelona,1492]]'
-- '[[_Standards/WikiData/WD~Tunis,3572]]'
-- '[[_Standards/WikiData/WD~Liège,3992]]'
-- '[[_Standards/WikiData/WD~Bethlehem,5776]]'
-- '[[_Standards/WikiData/WD~Indianapolis,6346]]'
+- '[[_Standards/WikiData/WD~Cluj-Napoca,100188|WD~Cluj-Napoca,100188]]'
+- '[[_Standards/WikiData/WD~Treptow-Köpenick,158089|WD~Treptow-Köpenick,158089]]'
+- '[[_Standards/WikiData/WD~Jiaozuo,404429|WD~Jiaozuo,404429]]'
+- '[[_Standards/WikiData/WD~Corinto,1132939|WD~Corinto,1132939]]'
+- '[[_Standards/WikiData/WD~Rio_de_Janeiro,8678|WD~Rio_de_Janeiro,8678]]'
+- '[[_Standards/WikiData/WD~Esch-sur-Alzette,16010|WD~Esch-sur-Alzette,16010]]'
+- '[[_Standards/WikiData/WD~Thessaloniki,17151|WD~Thessaloniki,17151]]'
+- '[[_Standards/WikiData/WD~Liverpool,24826|WD~Liverpool,24826]]'
+- '[[_Standards/WikiData/WD~Tel_Aviv,33935|WD~Tel_Aviv,33935]]'
+- '[[_Standards/WikiData/WD~Rotterdam,34370|WD~Rotterdam,34370]]'
+- '[[_Standards/WikiData/WD~Kyoto,34600|WD~Kyoto,34600]]'
+- '[[_Standards/WikiData/WD~Cork,36647|WD~Cork,36647]]'
+- '[[_Standards/WikiData/WD~Turku,38511|WD~Turku,38511]]'
+- '[[_Standards/WikiData/WD~Istanbul,406|WD~Istanbul,406]]'
+- '[[_Standards/WikiData/WD~Turin,495|WD~Turin,495]]'
+- '[[_Standards/WikiData/WD~Katowice,588|WD~Katowice,588]]'
+- '[[_Standards/WikiData/WD~Lille,648|WD~Lille,648]]'
+- '[[_Standards/WikiData/WD~Volgograd,914|WD~Volgograd,914]]'
+- '[[_Standards/WikiData/WD~Beijing,956|WD~Beijing,956]]'
+- '[[_Standards/WikiData/WD~Barcelona,1492|WD~Barcelona,1492]]'
+- '[[_Standards/WikiData/WD~Tunis,3572|WD~Tunis,3572]]'
+- '[[_Standards/WikiData/WD~Liège,3992|WD~Liège,3992]]'
+- '[[_Standards/WikiData/WD~Bethlehem,5776|WD~Bethlehem,5776]]'
+- '[[_Standards/WikiData/WD~Indianapolis,6346|WD~Indianapolis,6346]]'
 type: City
 U_S_National_Archives_Identifier: 10044969
 video:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Rekonstruktion%20der%20Stadt%20K%C3%B6ln%20im%2017.%20Jahrhundert.webm
 - http://commons.wikimedia.org/wiki/Special:FilePath/Google%20Timelapse-%20Cologne%2C%20Germany.webm
-visitor_center: '[[_Standards/WikiData/WD~Cologne_Tourist_Board,27903825]]'
+visitor_center: '[[_Standards/WikiData/WD~Cologne_Tourist_Board,27903825|WD~Cologne_Tourist_Board,27903825]]'
 WOEID: 667931
 Wolfram_Language_entity_code: Entity["City", {"Cologne", "NorthRhineWestphalia", "Germany"}]
 X_Twitter_username: Koeln
@@ -317,7 +317,7 @@ dv_is_a_: '[[../../../../../../../../Geography/Place/Administrative_Area/City|Ci
 dv_has_place_longitude: 6.96
 dv_has_place_latitude: 50.94
 dv_has_name: Köln
-dv_has_place_country: '[[../../../../../Germany]]'
+dv_has_place_country: '[[../../../../../Germany|Germany]]'
 dv_has_place_province: '[[NordRhein-Westfahlen]]'
 dv_is_:
   same_as:
@@ -587,7 +587,7 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-![[../../../../../../../../../../assets/geo/Europe/Germany/Nordrhein-Westfalen/Kölner_Dom.webp]]] 
+![[../../../../../../../../../../assets/geo/Europe/Germany/Nordrhein-Westfalen/Kölner_Dom.webp|Kölner_Dom.webp]]] 
 
 
 ## Confidential Links & Embeds: 

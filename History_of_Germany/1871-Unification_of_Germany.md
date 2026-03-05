@@ -74,19 +74,19 @@ aliases:
 - 德意志统一
 - 독일의 통일
 has_id_wikidata: Q154705
-different_from: '[[_Standards/WikiData/WD~Pan_Germanism,155812]]'
+different_from: '[[_Standards/WikiData/WD~Pan_Germanism,155812|WD~Pan_Germanism,155812]]'
 instance_of:
-- '[[_Standards/WikiData/WD~political_union,1140229]]'
-- '[[_Standards/WikiData/WD~historical_process,11827304]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Unification_of_Germany,14407766]]'
+- '[[_Standards/WikiData/WD~political_union,1140229|WD~political_union,1140229]]'
+- '[[_Standards/WikiData/WD~historical_process,11827304|WD~historical_process,11827304]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Unification_of_Germany,14407766|WD~Template_Unification_of_Germany,14407766]]'
 point_in_time: 1871-01-18T00:00:00Z
-country: '[[_Standards/WikiData/WD~France,142]]'
+country: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20v%20Werner%20-%20Kaiserproklamation%20am%2018%20Januar%201871%20%283.%20Fassung%201885%29.jpg
 Commons_category: Unification of Germany
 coordinate_location: Point(2.120333333 48.803580555)
 dv_is_:
   same_as:
-  - '[[../../../../../../WikiData/WD~Unification_of_Germany,154705]]'
+  - '[[../../../../../../WikiData/WD~Unification_of_Germany,154705|WD~Unification_of_Germany,154705]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany|1871-Unification_of_Germany]]'
   - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.public|1871-Unification_of_Germany.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.internal|1871-Unification_of_Germany.internal]]'
@@ -95,7 +95,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.personal|1871-Unification_of_Germany.personal]]'
   - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.secret|1871-Unification_of_Germany.secret]]'
 dv_is_same_as:
-- '[[../../../../../../WikiData/WD~Unification_of_Germany,154705]]'
+- '[[../../../../../../WikiData/WD~Unification_of_Germany,154705|WD~Unification_of_Germany,154705]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany|1871-Unification_of_Germany]]'
 - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.public|1871-Unification_of_Germany.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/History_of_Germany/1871-Unification_of_Germany.internal|1871-Unification_of_Germany.internal]]'

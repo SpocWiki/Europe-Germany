@@ -15,7 +15,7 @@ type: Country
 dv_ISO3: DDR
 dv_has_name_en: East Germany
 dv_has_name_de: DDR
-dv_has_place_continent: "[[../../../Europe]]"
+dv_has_place_continent: "[[../../../Europe|Europe]]"
 dv_VehicleCode: DDR
 dv_Language-Id: 497
 dv_is_:

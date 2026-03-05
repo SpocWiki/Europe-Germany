@@ -17,7 +17,7 @@ dv_is_same_as:
   - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Messel.personal|Messel.personal]]"
   - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Darmstadt-Dieburg/cities~Darmstadt-Dieburg/Messel.secret|Messel.secret]]"
 ---
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Darmstadt~Grube_Messel.webp]]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Darmstadt~Grube_Messel.webp]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Darmstadt~Grube_Messel.webp]]]
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Darmstadt~Grube_Messel.webp|Darmstadt~Grube_Messel.webp]]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Darmstadt~Grube_Messel.webp|Darmstadt~Grube_Messel.webp]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Darmstadt~Grube_Messel.webp|Darmstadt~Grube_Messel.webp]]]
 Fossillagerstätte Grube Messel ( 1995) 
 
 

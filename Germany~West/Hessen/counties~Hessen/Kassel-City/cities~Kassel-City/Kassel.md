@@ -18,8 +18,8 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 9.5
 dv_has_place_latitude: 51.32
 dv_has_name: Kassel
-dv_has_place_country: "[[../../../../../../Germany]]"
-dv_has_place_province: "[[../../../../Hessen]]"
+dv_has_place_country: "[[../../../../../../Germany|Germany]]"
+dv_has_place_province: "[[../../../../Hessen|Hessen]]"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Kassel-City/cities~Kassel-City/Kassel|Kassel]]"
@@ -60,7 +60,7 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Kassel~Wilhelmshöhe.webp]]] ![[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Kassel~Wilhelmshöhe.webp]]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Kassel~Wilhelmshöhe.webp|Kassel~Wilhelmshöhe.webp]]] ![[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Kassel~Wilhelmshöhe.webp|Kassel~Wilhelmshöhe.webp]]] 
 Bergpark Wilhelmshöhe (2013) 
 
 

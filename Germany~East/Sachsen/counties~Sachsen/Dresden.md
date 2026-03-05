@@ -54,42 +54,42 @@ aliases:
 - 드레즈덴
 has_id_wikidata: Q1731
 archives_at:
-- '[[_Standards/WikiData/WD~Stadtarchiv_Dresden,2326541]]'
+- '[[_Standards/WikiData/WD~Stadtarchiv_Dresden,2326541|WD~Stadtarchiv_Dresden,2326541]]'
 area: 328.48
 award_received:
-- '[[_Standards/WikiData/WD~Schleudersachse,2239404]]'
+- '[[_Standards/WikiData/WD~Schleudersachse,2239404|WD~Schleudersachse,2239404]]'
 BHCL_UUID:
 - 64a02269-cdc8-4a7f-9b4d-283aaec0d5df
 - 14355fda-a90a-4868-b1a9-2d8b1d5e05fa
 - bb4592bf-34b5-4c0a-ad12-acb369c8a746
-capital_of: '[[_Standards/WikiData/WD~Saxony,1202]]'
-coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Dresden,731539]]'
+capital_of: '[[_Standards/WikiData/WD~Saxony,1202|WD~Saxony,1202]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Dresden,731539|WD~coat_of_arms_of_Dresden,731539]]'
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Dresden%20Stadtwappen.svg
 Commons_category: Dresden
 Commons_gallery: Dresden
 confidential: public
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Q383184,383184]]'
-- '[[_Standards/WikiData/WD~Cotta,383195]]'
-- '[[_Standards/WikiData/WD~Q383208,383208]]'
-- '[[_Standards/WikiData/WD~Q383219,383219]]'
-- '[[_Standards/WikiData/WD~Q383231,383231]]'
-- '[[_Standards/WikiData/WD~Dresden-Neustadt,383245]]'
-- '[[_Standards/WikiData/WD~Dresden-Pieschen,383255]]'
-- '[[_Standards/WikiData/WD~Stadtbezirk_Plauen,383270]]'
-- '[[_Standards/WikiData/WD~Dresden-Prohlis,383282]]'
-- '[[_Standards/WikiData/WD~Cossebaude,1136240]]'
-- '[[_Standards/WikiData/WD~Q1432052,1432052]]'
-- '[[_Standards/WikiData/WD~Gompitz_(locality),1536933]]'
-- '[[_Standards/WikiData/WD~Oberwartha,1674903]]'
-- '[[_Standards/WikiData/WD~Langebrück,1804939]]'
-- '[[_Standards/WikiData/WD~Schönborn,2258794]]'
-- '[[_Standards/WikiData/WD~Weixdorf,2556716]]'
-- '[[_Standards/WikiData/WD~Altstadt,8885]]'
-- '[[_Standards/WikiData/WD~Schönfeld-Weißig,8891]]'
-- '[[_Standards/WikiData/WD~Altfranken,8888]]'
+- '[[_Standards/WikiData/WD~Q383184,383184|WD~Q383184,383184]]'
+- '[[_Standards/WikiData/WD~Cotta,383195|WD~Cotta,383195]]'
+- '[[_Standards/WikiData/WD~Q383208,383208|WD~Q383208,383208]]'
+- '[[_Standards/WikiData/WD~Q383219,383219|WD~Q383219,383219]]'
+- '[[_Standards/WikiData/WD~Q383231,383231|WD~Q383231,383231]]'
+- '[[_Standards/WikiData/WD~Dresden-Neustadt,383245|WD~Dresden-Neustadt,383245]]'
+- '[[_Standards/WikiData/WD~Dresden-Pieschen,383255|WD~Dresden-Pieschen,383255]]'
+- '[[_Standards/WikiData/WD~Stadtbezirk_Plauen,383270|WD~Stadtbezirk_Plauen,383270]]'
+- '[[_Standards/WikiData/WD~Dresden-Prohlis,383282|WD~Dresden-Prohlis,383282]]'
+- '[[_Standards/WikiData/WD~Cossebaude,1136240|WD~Cossebaude,1136240]]'
+- '[[_Standards/WikiData/WD~Q1432052,1432052|WD~Q1432052,1432052]]'
+- '[[_Standards/WikiData/WD~Gompitz_(locality),1536933|WD~Gompitz_(locality),1536933]]'
+- '[[_Standards/WikiData/WD~Oberwartha,1674903|WD~Oberwartha,1674903]]'
+- '[[_Standards/WikiData/WD~Langebrück,1804939|WD~Langebrück,1804939]]'
+- '[[_Standards/WikiData/WD~Schönborn,2258794|WD~Schönborn,2258794]]'
+- '[[_Standards/WikiData/WD~Weixdorf,2556716|WD~Weixdorf,2556716]]'
+- '[[_Standards/WikiData/WD~Altstadt,8885|WD~Altstadt,8885]]'
+- '[[_Standards/WikiData/WD~Schönfeld-Weißig,8891|WD~Schönfeld-Weißig,8891]]'
+- '[[_Standards/WikiData/WD~Altfranken,8888|WD~Altfranken,8888]]'
 coordinate_location: Point(13.74 51.05)
-country: '[[_Standards/WikiData/WD~Germany,183]]'
+country: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 demonym:
 - Dresdenerin
 - Dresdenerinnen
@@ -101,26 +101,26 @@ demonym:
 - Dresdener
 - Dresdner
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Topographia_Superioris_Saxoniae,19230701]]'
-- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Vierter_Band,129249812]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546|WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Topographia_Superioris_Saxoniae,19230701|WD~Topographia_Superioris_Saxoniae,19230701]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Vierter_Band,129249812|WD~Meyer_s_Universum,_Vierter_Band,129249812]]'
 Dewey_Decimal_Classification:
 - 2--432142
 different_from:
-- '[[_Standards/WikiData/WD~Dresden,250167]]'
-- '[[_Standards/WikiData/WD~Drezno,5307369]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Dresden,5333666]]'
+- '[[_Standards/WikiData/WD~Dresden,250167|WD~Dresden,250167]]'
+- '[[_Standards/WikiData/WD~Drezno,5307369|WD~Drezno,5307369]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Dresden,5333666|WD~economy_of_Dresden,5333666]]'
 elevation_above_sea_level: 126
 fileClass:
 - GovernmentOrganization
@@ -129,51 +129,51 @@ flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Dresd
 German_district_key: 14612
 German_municipality_key: 14612000
 GitHub_topic: dresden
-grants: '[[_Standards/WikiData/WD~Dresden_resident_writer,1258578]]'
+grants: '[[_Standards/WikiData/WD~Dresden_resident_writer,1258578|WD~Dresden_resident_writer,1258578]]'
 HASC: DE.SN.DE
 has_time_started: 1206-01-01
-head_of_government: '[[_Standards/WikiData/WD~Dirk_Hilbert,1227894]]'
-highest_point: '[[_Standards/WikiData/WD~Triebenberg,2452825]]'
+head_of_government: '[[_Standards/WikiData/WD~Dirk_Hilbert,1227894|WD~Dirk_Hilbert,1227894]]'
+highest_point: '[[_Standards/WikiData/WD~Triebenberg,2452825|WD~Triebenberg,2452825]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DD-canaletto-blick.jpg
 Image_Archive_Herder_Institute: Q1731
 inception: 1206-01-01
 Instagram_username: visit.dresden
 instance_of:
-- '[[_Standards/WikiData/WD~major_regional_center,253030]]'
-- '[[_Standards/WikiData/WD~big_city,1549591]]'
-- '[[_Standards/WikiData/WD~urban_municipality_in_Germany,42744322]]'
-- '[[_Standards/WikiData/WD~urban_district_in_Saxony,61708099]]'
+- '[[_Standards/WikiData/WD~major_regional_center,253030|WD~major_regional_center,253030]]'
+- '[[_Standards/WikiData/WD~big_city,1549591|WD~big_city,1549591]]'
+- '[[_Standards/WikiData/WD~urban_municipality_in_Germany,42744322|WD~urban_municipality_in_Germany,42744322]]'
+- '[[_Standards/WikiData/WD~urban_district_in_Saxony,61708099|WD~urban_district_in_Saxony,61708099]]'
 isDeleted: false
 ISNI:
 - 110164613
-legislative_body: '[[_Standards/WikiData/WD~Dresden_City_Council,5123134]]'
+legislative_body: '[[_Standards/WikiData/WD~Dresden_City_Council,5123134|WD~Dresden_City_Council,5123134]]'
 licence_plate_code: DD
-list_of_monuments: '[[_Standards/WikiData/WD~list_of_heritage_sites_in_Dresden,1842110]]'
+list_of_monuments: '[[_Standards/WikiData/WD~list_of_heritage_sites_in_Dresden,1842110|WD~list_of_heritage_sites_in_Dresden,1842110]]'
 local_dialing_code:
 - 351
 - 35201
 located_in_on_physical_feature:
-- '[[_Standards/WikiData/WD~Dresden_Basin,314741]]'
-- '[[_Standards/WikiData/WD~conurbation_Dresden,805366]]'
-- '[[_Standards/WikiData/WD~Euroregion_Elbe_Labe,824294]]'
+- '[[_Standards/WikiData/WD~Dresden_Basin,314741|WD~Dresden_Basin,314741]]'
+- '[[_Standards/WikiData/WD~conurbation_Dresden,805366|WD~conurbation_Dresden,805366]]'
+- '[[_Standards/WikiData/WD~Euroregion_Elbe_Labe,824294|WD~Euroregion_Elbe_Labe,824294]]'
 located_in_or_next_to_body_of_water:
-- '[[_Standards/WikiData/WD~Prießnitz,546853]]'
-- '[[_Standards/WikiData/WD~Lockwitzbach,1564654]]'
-- '[[_Standards/WikiData/WD~Kaitzbach,1721806]]'
-- '[[_Standards/WikiData/WD~Lausenbach,1808492]]'
-- '[[_Standards/WikiData/WD~Elbe,1644]]'
-- '[[_Standards/WikiData/WD~Weißeritz,20282]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Saxony,1202]]'
+- '[[_Standards/WikiData/WD~Prießnitz,546853|WD~Prießnitz,546853]]'
+- '[[_Standards/WikiData/WD~Lockwitzbach,1564654|WD~Lockwitzbach,1564654]]'
+- '[[_Standards/WikiData/WD~Kaitzbach,1721806|WD~Kaitzbach,1721806]]'
+- '[[_Standards/WikiData/WD~Lausenbach,1808492|WD~Lausenbach,1808492]]'
+- '[[_Standards/WikiData/WD~Elbe,1644|WD~Elbe,1644]]'
+- '[[_Standards/WikiData/WD~Weißeritz,20282|WD~Weißeritz,20282]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Saxony,1202|WD~Saxony,1202]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
-- '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
-- '[[_Standards/WikiData/WD~Central_European_Time,25989]]'
+- '[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]'
+- '[[_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]'
+- '[[_Standards/WikiData/WD~Central_European_Time,25989|WD~Central_European_Time,25989]]'
 location:
 - 51.05
 - 13.73
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Stadtteile%20in%20Dresden.svg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Saxony%20DD.svg
-lowest_point: '[[_Standards/WikiData/WD~Niederwartha,8964]]'
+lowest_point: '[[_Standards/WikiData/WD~Niederwartha,8964|WD~Niederwartha,8964]]'
 mapmarker: city
 mapzoom:
 - 7
@@ -181,11 +181,11 @@ mapzoom:
 Mastodon_instance_URL:
 - https://dresden.network
 member_of:
-- '[[_Standards/WikiData/WD~International_Association_for_Sports_and_Leisure_Facilities,475646]]'
-- '[[_Standards/WikiData/WD~Mayors_for_Peace,747279]]'
-- '[[_Standards/WikiData/WD~Climate_Alliance,1768108]]'
-- '[[_Standards/WikiData/WD~Kommunaler_Sozialverband_Sachsen,1780354]]'
-- '[[_Standards/WikiData/WD~World_Tourism_Cities_Federation,67652870]]'
+- '[[_Standards/WikiData/WD~International_Association_for_Sports_and_Leisure_Facilities,475646|WD~International_Association_for_Sports_and_Leisure_Facilities,475646]]'
+- '[[_Standards/WikiData/WD~Mayors_for_Peace,747279|WD~Mayors_for_Peace,747279]]'
+- '[[_Standards/WikiData/WD~Climate_Alliance,1768108|WD~Climate_Alliance,1768108]]'
+- '[[_Standards/WikiData/WD~Kommunaler_Sozialverband_Sachsen,1780354|WD~Kommunaler_Sozialverband_Sachsen,1780354]]'
+- '[[_Standards/WikiData/WD~World_Tourism_Cities_Federation,67652870|WD~World_Tourism_Cities_Federation,67652870]]'
 native_label: Dresden
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Dresden%20from%20Albertbr%C3%BCcke.jpg
 NUTS_code: DED21
@@ -193,10 +193,10 @@ official_name:
 - Dresden
 official_website: https://www.dresden.de/
 OmegaWiki_Defined_Meaning: 1639226
-open_data_portal: '[[_Standards/WikiData/WD~Dresden_Open_Data,97290050]]'
+open_data_portal: '[[_Standards/WikiData/WD~Dresden_Open_Data,97290050|WD~Dresden_Open_Data,97290050]]'
 owner_of:
-- '[[_Standards/WikiData/WD~Heinz-Steyer-Stadion,470392]]'
-- '[[_Standards/WikiData/WD~Margon_Arena,1305139]]'
+- '[[_Standards/WikiData/WD~Heinz-Steyer-Stadion,470392|WD~Heinz-Steyer-Stadion,470392]]'
+- '[[_Standards/WikiData/WD~Margon_Arena,1305139|WD~Margon_Arena,1305139]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Dresden%20Wikivoyage%20banner.png
 population: 566222
 postal_code:
@@ -215,16 +215,16 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Dresd
 Provenio_UUID: 97133263-c670-4c1c-92c1-94990d7cbdc1
 RIA_Novosti_reference: 54680658
 shares_border_with:
-- '[[_Standards/WikiData/WD~Bautzen_District,571947]]'
-- '[[_Standards/WikiData/WD~Gommern,1536876]]'
-- '[[_Standards/WikiData/WD~Freital,5870]]'
-- '[[_Standards/WikiData/WD~Meissen_District,6313]]'
-- '[[_Standards/WikiData/WD~Sächsische_Schweiz-Osterzgebirge,6323]]'
-- '[[_Standards/WikiData/WD~Bannewitz,6448]]'
-- '[[_Standards/WikiData/WD~Dohna,6474]]'
-- '[[_Standards/WikiData/WD~Dürrröhrsdorf-Dittersbach,6692]]'
-- '[[_Standards/WikiData/WD~Heidenau,6715]]'
-- '[[_Standards/WikiData/WD~Weißeritzkreis,20274]]'
+- '[[_Standards/WikiData/WD~Bautzen_District,571947|WD~Bautzen_District,571947]]'
+- '[[_Standards/WikiData/WD~Gommern,1536876|WD~Gommern,1536876]]'
+- '[[_Standards/WikiData/WD~Freital,5870|WD~Freital,5870]]'
+- '[[_Standards/WikiData/WD~Meissen_District,6313|WD~Meissen_District,6313]]'
+- '[[_Standards/WikiData/WD~Sächsische_Schweiz-Osterzgebirge,6323|WD~Sächsische_Schweiz-Osterzgebirge,6323]]'
+- '[[_Standards/WikiData/WD~Bannewitz,6448|WD~Bannewitz,6448]]'
+- '[[_Standards/WikiData/WD~Dohna,6474|WD~Dohna,6474]]'
+- '[[_Standards/WikiData/WD~Dürrröhrsdorf-Dittersbach,6692|WD~Dürrröhrsdorf-Dittersbach,6692]]'
+- '[[_Standards/WikiData/WD~Heidenau,6715|WD~Heidenau,6715]]'
+- '[[_Standards/WikiData/WD~Weißeritzkreis,20274|WD~Weißeritzkreis,20274]]'
 short_name:
 - DD
 - D
@@ -239,20 +239,20 @@ Threads_username:
 - landeshauptstadt_dresden
 time_of_earliest_written_record: 1206-01-01
 twinned_administrative_body:
-- '[[_Standards/WikiData/WD~Silistra,182428]]'
-- '[[_Standards/WikiData/WD~Skopje,384]]'
-- '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
-- '[[_Standards/WikiData/WD~Hamburg,1055]]'
-- '[[_Standards/WikiData/WD~Wrocław,1799]]'
-- '[[_Standards/WikiData/WD~Florence,2044]]'
-- '[[_Standards/WikiData/WD~Brazzaville,3844]]'
-- '[[_Standards/WikiData/WD~Hangzhou,4970]]'
-- '[[_Standards/WikiData/WD~Coventry,6225]]'
-- '[[_Standards/WikiData/WD~Strasbourg,6602]]'
-- '[[_Standards/WikiData/WD~Ostrava,8385]]'
-- '[[_Standards/WikiData/WD~Columbus,16567]]'
-- '[[_Standards/WikiData/WD~Rotterdam,34370]]'
-- '[[_Standards/WikiData/WD~Salzburg,34713]]'
+- '[[_Standards/WikiData/WD~Silistra,182428|WD~Silistra,182428]]'
+- '[[_Standards/WikiData/WD~Skopje,384|WD~Skopje,384]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg,656|WD~Saint_Petersburg,656]]'
+- '[[_Standards/WikiData/WD~Hamburg,1055|WD~Hamburg,1055]]'
+- '[[_Standards/WikiData/WD~Wrocław,1799|WD~Wrocław,1799]]'
+- '[[_Standards/WikiData/WD~Florence,2044|WD~Florence,2044]]'
+- '[[_Standards/WikiData/WD~Brazzaville,3844|WD~Brazzaville,3844]]'
+- '[[_Standards/WikiData/WD~Hangzhou,4970|WD~Hangzhou,4970]]'
+- '[[_Standards/WikiData/WD~Coventry,6225|WD~Coventry,6225]]'
+- '[[_Standards/WikiData/WD~Strasbourg,6602|WD~Strasbourg,6602]]'
+- '[[_Standards/WikiData/WD~Ostrava,8385|WD~Ostrava,8385]]'
+- '[[_Standards/WikiData/WD~Columbus,16567|WD~Columbus,16567]]'
+- '[[_Standards/WikiData/WD~Rotterdam,34370|WD~Rotterdam,34370]]'
+- '[[_Standards/WikiData/WD~Salzburg,34713|WD~Salzburg,34713]]'
 type: City
 UN_LOCODE: DEDRS
 U_S_National_Archives_Identifier: 10044802
@@ -261,13 +261,13 @@ WOEID: 645686
 Wolfram_Language_entity_code: Entity["City", {"Dresden", "Saxony", "Germany"}]
 dv_is_a_: '[[../../../../../../../Geography/Place/Administrative_Area/City|City]]'
 dv_is_a:
-- '[[../../../../../../../Geography/Place/Administrative_Area/City]]]'
-- '[[../../../../../../../../Society/Agent/Community/Organization/Government_Organization]]]'
+- '[[../../../../../../../Geography/Place/Administrative_Area/City|City]]]'
+- '[[../../../../../../../../Society/Agent/Community/Organization/Government_Organization|Government_Organization]]]'
 dv_has_place_longitude: 13.73
 dv_has_place_latitude: 51.05
 dv_has_name: Dresden
-dv_has_place_country: '[[../../../../Germany]]'
-dv_has_place_province: '[[../../Sachsen]]'
+dv_has_place_country: '[[../../../../Germany|Germany]]'
+dv_has_place_province: '[[../../Sachsen|Sachsen]]'
 dv_is_:
   same_as:
   - '[[../../../../../../../../WikiData/WD~Dresden,1731|WD~Dresden,1731]]'
@@ -485,8 +485,8 @@ dv_has_:
 
 
  is_a = `=this.dv_is_a_`
-#is_a ::[[../../../../../../../Geography/Place/Administrative_Area/City]]] 
-#is_a ::[[../../../../../../../../Society/Agent/Community/Organization/Government_Organization]]] 
+#is_a ::[[../../../../../../../Geography/Place/Administrative_Area/City|City]]] 
+#is_a ::[[../../../../../../../../Society/Agent/Community/Organization/Government_Organization|Government_Organization]]] 
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 name = `=this.dv_has_name` 

@@ -48,8 +48,8 @@ dv_is_a_: '[[../../../../../../../../../Geography/Place/Administrative_Area/City
 dv_has_place_longitude: 14.98
 dv_has_place_latitude: 51.15
 dv_has_name: Görlitz
-dv_has_place_country: '[[../../../../../../Germany]]'
-dv_has_place_province: '[[../../../../Sachsen]]'
+dv_has_place_country: '[[../../../../../../Germany|Germany]]'
+dv_has_place_province: '[[../../../../Sachsen|Sachsen]]'
 dv_is_:
   same_as:
   - '[[../../../../../../../../../../WikiData/WD~Görlitz|WD~Görlitz]]'
@@ -187,7 +187,7 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen/Görlitz-Altstadt.webp]]] ![[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen/Görlitz-Altstadt.webp]]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen/Görlitz-Altstadt.webp|Görlitz-Altstadt.webp]]] ![[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen/Görlitz-Altstadt.webp|Görlitz-Altstadt.webp]]] 
 Die Stadt Görlitz (Sachsen) hat mehr als 4.000 Kultur- und Baudenkmäler zu bieten. 
 Zahlreiche Bauwerke erinnern hier an die längst vergangenen Zeiten, 
 wie der Schönhof, die Rathaustreppe 

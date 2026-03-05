@@ -18,7 +18,7 @@ dv_is_a_: "[[../../../../../../../../../../../Geography/Place/Administrative_Are
 dv_has_place_longitude: 12.37
 dv_has_place_latitude: 51.08
 dv_has_name: Ramsdorf
-dv_has_place_country: "[[../../../../../../../../Germany]]"
+dv_has_place_country: "[[../../../../../../../../Germany|Germany]]"
 dv_has_place_province: "[[Sachsen]] ]"
 dv_is_:
   same_as:
