@@ -77,7 +77,7 @@ Stage_username: landkreis-lueneburg
 
 # [[Lüneburg,District]]
 
-#is_/same_as :: [[WD~Lüneburg_(district),5910]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lüneburg_(district),5910]] 
 
 ## #has_/map 
 

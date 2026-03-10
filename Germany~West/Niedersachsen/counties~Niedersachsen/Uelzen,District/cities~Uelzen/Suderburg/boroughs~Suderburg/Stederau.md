@@ -21,7 +21,7 @@ coordinate_location:
 
 # [[Stederau]] 
 
-#is_/same_as :: [[WD~Stederau,827830]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Stederau,827830]] 
 
 ## #has_/text_of_/abstract 
 

@@ -77,7 +77,7 @@ German_regional_key: "033600000000"
 
 # [[Uelzen,District]] 
 
-#is_/same_as :: [[WD~Uelzen_(district),5915]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Uelzen_(district),5915]] 
 
 ## #has_/map 
 

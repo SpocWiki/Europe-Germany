@@ -443,7 +443,7 @@ dv_has_:
 
 # [[Otto_von_Bismarck]] 
 
-#is_/same_as :: [[WD~Otto_von_Bismarck,8442]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Otto_von_Bismarck,8442]] 
 
 ## #has_/text_of_/abstract 
 

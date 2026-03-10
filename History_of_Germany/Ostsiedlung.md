@@ -110,7 +110,7 @@ dv_has_:
 
 # [[Ostsiedlung]] 
 
-#is_/same_as :: [[WD~Ostsiedlung,170346]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ostsiedlung,170346]] 
 
 ## #has_/text_of_/abstract 
 

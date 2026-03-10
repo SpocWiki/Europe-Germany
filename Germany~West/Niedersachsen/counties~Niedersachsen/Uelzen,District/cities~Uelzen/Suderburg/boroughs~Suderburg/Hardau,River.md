@@ -13,7 +13,7 @@ coordinate_location: Point(10.55368056 52.94763889)
 
 # [[Hardau,River]] 
 
-#is_/same_as :: [[WD~Hardau,15112157]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Hardau,15112157]] 
 
 
 

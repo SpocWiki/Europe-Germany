@@ -425,7 +425,7 @@ dv_has_:
 
 # [[Adenauer,Konrad]] 
 
-#is_/same_as :: [[WD~Konrad_Adenauer,2492]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Konrad_Adenauer,2492]] 
 
 ## #has_/text_of_/abstract 
 

@@ -7,7 +7,7 @@ aliases:
 # [[Gerdau]] 
 
 
-#is_/same_as :: [[WD~Gerdau,_Germany,581010]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Gerdau,_Germany,581010]] 
 
 ## #has_/text_of_/abstract 
 

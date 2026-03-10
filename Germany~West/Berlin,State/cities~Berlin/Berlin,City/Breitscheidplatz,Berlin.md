@@ -22,7 +22,7 @@ Commons_gallery: Breitscheidplatz
 
 # [[Breitscheidplatz,Berlin]] 
 
-#is_/same_as :: [[WD~Breitscheidplatz,698370]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Breitscheidplatz,698370]] 
 
 ## #has_/text_of_/abstract 
 

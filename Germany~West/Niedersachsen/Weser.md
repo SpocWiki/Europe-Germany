@@ -100,7 +100,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Weser%20Hilwartshausen
 
 # [[Weser]] 
 
-#is_/same_as :: [[WD~Weser,1650]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Weser,1650]] 
 
 ## #has_/text_of_/abstract 
 
