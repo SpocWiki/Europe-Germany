@@ -17,7 +17,7 @@ dv_has_name: State~Berlin
 dv_has_name_abbreviated: BL
 dv_has_place_country: "[[../../Germany|Germany]]"
 dv_Capital: "[[Berlin,State/cities~Berlin/Berlin,City|Berlin,City]]"
-dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/State|State]]"
 dv_has_place_longitude: 13.3689
 dv_has_place_latitude: 52.4926
 dv_is_:

@@ -203,7 +203,7 @@ U_S_National_Archives_Identifier: 10044808
 dv_has_name: Schleswig-Holstein
 dv_has_name_abbreviated: SG
 dv_has_place_country: '[[../../Germany|Germany]]'
-dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/State|State]]'
 dv_has_place_longitude: 9.87324
 dv_has_place_latitude: 54.1593
 dv_is_:

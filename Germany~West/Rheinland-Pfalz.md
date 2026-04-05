@@ -414,7 +414,7 @@ dv_has_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Germany-Rheinland-Pfalz
 dv_has_place_country: '[[../../Germany|Germany]]'
-dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/State|State]]'
 dv_has_place_longitude: 7.57652
 dv_has_place_latitude: 49.914
 dv_is_same_as:

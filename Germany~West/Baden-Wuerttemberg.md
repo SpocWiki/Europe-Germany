@@ -211,7 +211,7 @@ X_username: regierungbw
 dv_has_name: Baden-Wuerttemberg
 dv_has_name_abbreviated: BW
 dv_has_place_country: '[[../../Germany|Germany]]'
-dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/State|State]]'
 dv_has_place_longitude: 8.97421
 dv_has_place_latitude: 48.5647
 dv_is_:
@@ -468,8 +468,6 @@ markerFolder: ./Baden-Wuerttemberg/
 
 has_place_country = `=this.dv_has_place_country`
 #has_/capital :: [[Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City|Stuttgart,City]]
-
-
 
  is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 

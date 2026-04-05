@@ -202,7 +202,7 @@ YouTube_handle: land.brandenburg
 dv_has_name: Brandenburg
 dv_has_name_abbreviated: BB
 dv_has_place_country: '[[../../Germany|Germany]]'
-dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/State|State]]'
 dv_has_place_longitude: 13.3801
 dv_has_place_latitude: 52.3844
 dv_is_:

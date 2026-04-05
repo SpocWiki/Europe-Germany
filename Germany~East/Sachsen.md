@@ -215,7 +215,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen.personal|Sachsen.personal]]'
   - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen.secret|Sachsen.secret]]'
 dv_has_place_country: '[[../../Germany|Germany]]'
-dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/State|State]]'
 dv_has_place_longitude: 13.2481
 dv_has_place_latitude: 50.968
 dv_is_same_as:

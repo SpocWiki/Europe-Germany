@@ -16,7 +16,7 @@ dv_has_name: State~Bremen
 dv_has_name_abbreviated: BN
 dv_has_place_country: "[[../../Germany|Germany]]"
 dv_Capital: "[[Bremen,State/cities~Bremen/Bremen,City|Bremen,City]] ]"
-dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/State|State]]"
 dv_has_place_longitude: 8.682
 dv_has_place_latitude: 53.222
 dv_is_:

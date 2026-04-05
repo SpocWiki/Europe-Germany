@@ -171,7 +171,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.personal|Hessen.personal]]'
   - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen.secret|Hessen.secret]]'
 dv_has_place_country: '[[../../Germany|Germany]]'
-dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/State|State]]'
 dv_has_place_longitude: 8.8478
 dv_has_place_latitude: 50.4897
 dv_is_same_as:

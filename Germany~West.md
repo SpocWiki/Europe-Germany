@@ -39,7 +39,7 @@ dv_has_place_continent: "[[../../../Europe|Europe]]"
 dv_VehicleCode: D
 dv_Alcohol-l: 12.8
 dv_Language-Id: 497
-dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 10.1207
 dv_has_place_latitude: 50.8699
 dv_is_:

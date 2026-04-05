@@ -17,7 +17,7 @@ dv_has_name: State~Hamburg
 dv_has_name_abbreviated: HG
 dv_has_place_country: "[[Germany]] ]"
 dv_Capital: "[[Hamburg,State/cities~Hamburg/Hamburg,City|Hamburg,City]] ]"
-dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/State|State]]"
 dv_has_place_longitude: 9.93222
 dv_has_place_latitude: 53.54
 dv_is_:

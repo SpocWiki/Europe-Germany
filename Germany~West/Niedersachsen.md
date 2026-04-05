@@ -281,7 +281,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.personal|Niedersachsen.personal]]'
   - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.secret|Niedersachsen.secret]]'
 dv_has_place_country: '[[../../Germany|Germany]]'
-dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/State|State]]'
 dv_has_place_longitude: 9.02868
 dv_has_place_latitude: 52.7796
 dv_is_same_as:

@@ -531,7 +531,7 @@ dv_has_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Germany-Bayern
 dv_has_place_country: '[[../../Germany|Germany]]'
-dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/State|State]]'
 dv_has_place_longitude: 11.3382
 dv_has_place_latitude: 48.8642
 dv_is_:

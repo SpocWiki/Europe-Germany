@@ -234,7 +234,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.personal|Thüringen.personal]]'
   - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Thüringen.secret|Thüringen.secret]]'
 dv_has_place_country: '[[../../Germany|Germany]]'
-dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/State|State]]'
 dv_has_place_longitude: 11.0683
 dv_has_place_latitude: 50.8463
 dv_is_same_as:
