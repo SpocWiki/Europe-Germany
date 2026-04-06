@@ -102,7 +102,7 @@ aliases:
 - 兩德統一
 - 독일의 재통일
 has_id_wikidata: Q56039
-location:
+locations:
 - '[[_Standards/WikiData/WD~West_Germany,713750|WD~West_Germany,713750]]'
 - '[[_Standards/WikiData/WD~German_Democratic_Republic,16957|WD~German_Democratic_Republic,16957]]'
 instance_of:
