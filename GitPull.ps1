@@ -7,14 +7,14 @@ if (-not $parent_directory) {
 }
 
 Set-Location -Path $parent_directory
-git pull
+git pull --rebase --strategy-option=theirs
 
 Get-ChildItem -Path $parent_directory -Recurse -Directory | ForEach-Object {
     $directory = $_.FullName
     if (Test-Path "$directory\.git") {
         Write-Host "Updating repository in $directory"
         Set-Location -Path $directory
-        git pull
+        git pull --rebase --strategy-option=theirs
         #$stashList = git stash list
         $latestStash = git stash list | Select-Object -First 1
         if ($latestStash -match 'autostash') {
