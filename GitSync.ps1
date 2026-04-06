@@ -16,10 +16,6 @@ Write-Host "Pulling" -ForegroundColor Green
 
 .\GitPull.ps1
 
-Write-Host "Committing again" -ForegroundColor Green
-
-.\GitCommit.ps1
-
 Write-Host "Pushing" -ForegroundColor Green
 
 .\GitPush.ps1
