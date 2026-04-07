@@ -2,8 +2,8 @@
 aliases:
 has_id_wikidata: Q882531
 dv_is_:
-  same_as: "[[_Standards/WikiData/WD~Gerdau_(river),882531]]"
-dv_is_same_as: "[[_Standards/WikiData/WD~Gerdau_(river),882531]]"
+  same_as: "[[_Standards/WikiData/WD~Gerdau_(river),882531|WD~Gerdau_(river),882531]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Gerdau_(river),882531|WD~Gerdau_(river),882531]]"
 location:  [52.9476,10.5537]
 coordinate_location: Point(10.5537 52.9476)
 tributary:

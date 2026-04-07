@@ -48,7 +48,7 @@ Commons_category: Leine (river)
 
 # [[Leine,River]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Leine,161051]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Leine,161051|WD~Leine,161051]]  
 
 ## #has_/text_of_/abstract 
 

@@ -204,7 +204,7 @@ aliases:
 
 # [[Humboldt_University_of_Berlin]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Humboldt_University_of_Berlin,152087]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Humboldt_University_of_Berlin,152087|WD~Humboldt_University_of_Berlin,152087]] 
 
 ## #has_/text_of_/abstract 
 

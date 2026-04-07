@@ -20,7 +20,7 @@ Commons_category: Klein Süstedt
 # [[Klein_Süstedt]] 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Klein_Süstedt,18022240]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Klein_Süstedt,18022240|WD~Klein_Süstedt,18022240]] 
 
 ## #has_/map  
 

@@ -41,7 +41,7 @@ Wolfram_Language_entity_code: Entity["River", "Ilmenau::5qt9b"]
 
 # [[Ilmenau,River]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ilmenau_(river),3346]]
+#is_/same_as :: [[_Standards/WikiData/WD~Ilmenau_(river),3346|WD~Ilmenau_(river),3346]]
 #is_/different_from :: [[../../../../../../../Germany~East/Thüringen/counties~TH/Ilm-Kreis/cities~Ilm-Kreis/Ilmenau,City|Ilmenau,City]] 
 
 ## #has_/text_of_/abstract 

@@ -151,7 +151,7 @@ name = `=this.dv_has_name`
 has_place_country = `=this.dv_has_place_country`
 has_place_province = `=this.dv_has_place_province`
 [Population::] 
-#is_/same_as :: [[_Standards/WikiData/WD~Lüneburg,3920]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lüneburg,3920|WD~Lüneburg,3920]] 
 
 
 ## #has_/map  

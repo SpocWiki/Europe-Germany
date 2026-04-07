@@ -104,7 +104,7 @@ name = `=this.dv_has_name`
 has_place_country = `=this.dv_has_place_country`
 has_place_province = `=this.dv_has_place_province`
 [Population::] 
-#is_/same_as :: [[_Standards/WikiData/WD~Uelzen,15989]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Uelzen,15989|WD~Uelzen,15989]] 
 
 ## #has_/map 
 

@@ -225,7 +225,7 @@ dv_has_:
 
 # [[History_of_Germany]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~History_of_Germany,122131]] 
+#is_/same_as :: [[_Standards/WikiData/WD~History_of_Germany,122131|WD~History_of_Germany,122131]] 
 
 ## #has_/text_of_/abstract 
 

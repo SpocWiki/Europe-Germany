@@ -194,7 +194,7 @@ dv_has_:
 
 # [[1871-Unification_of_Germany]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Unification_of_Germany,154705]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Unification_of_Germany,154705|WD~Unification_of_Germany,154705]] 
 
 ## #has_/text_of_/abstract 
 

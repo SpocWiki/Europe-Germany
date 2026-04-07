@@ -324,7 +324,7 @@ dv_has_:
 
 # [[Scholz,Olaf]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Olaf_Scholz,61053]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Olaf_Scholz,61053|WD~Olaf_Scholz,61053]] 
 
 ## #has_/text_of_/abstract 
 
