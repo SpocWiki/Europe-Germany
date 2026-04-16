@@ -378,11 +378,14 @@ is_a = `=this.dv_is_a_`
 
 ```leaflet
 id: Hessen
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 4 
 maxZoom: 18
+defaultZoom: 7
 geojsonFolder: ./Hessen/
 markerFolder: ./Hessen/
+coordinates: [[Hessen]] 
+markerFile: [[Hessen]] 
 ```
 
 has_place_country = `=this.dv_has_place_country`
