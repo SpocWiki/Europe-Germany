@@ -133,6 +133,7 @@ contains_the_administrative_territorial_entity:
 - '[[../../../../../../../../WikiData/WD~Frankfurt-Süd|WD~Frankfurt-Süd]]'
 - '[[../../../../../../../../WikiData/WD~Frankfurt-West|WD~Frankfurt-West]]'
 continent: '[[../../../../../../../../WikiData/WD~Europe|WD~Europe]]'
+location: [50.1173,8.6444]
 coordinates_of_easternmost_point: Point(8.800398 50.171237)
 coordinates_of_geographic_center: Point(8.6444 50.1173)
 coordinates_of_northernmost_point: Point(8.709277777 50.227138888)
