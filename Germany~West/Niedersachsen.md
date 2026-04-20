@@ -1,298 +1,298 @@
 ---
 aliases:
-- Ala-Saksi
-- Alam-Saksi
-- Alsó-Szászország
-- an tSacsain Íochtarach
-- Aşağı Saksoniya
-- Aşağı Saksonya
-- Baixa Saxonia
-- Baixa Saxònia
-- Baixa Saxônia
-- Baja Sajonia
-- Basha Sajonia
-- Bassa Sassonia
-- Bassa Sassònia
-- Bassa Sasònia
-- Bassa Saxònia
-- Basse Sassonie
-- Basse Saxonia
-- Basse-Saxe
-- Baxa Saxonia
-- Bunnes-Schtaat
-- Bàsa Sasònia
-- Bàscia Sassònia
-- Delnja Sakska
-- Dolna Saksonia
-- Dolnosakska
-- Dolné Sasko
-- Dolní Sasko
-- Dona-Saxän
-- Donja Saksonija
-- Donja Saska
-- Guy Sahoña
-- Hâ Saxony
-- Infra Saxonia
-- Infra-Saxonia
-- Lawer Saxony
-- Lejassaksija
-- Lower Saxony
-- Läichsaksen
-- Mababang Sahonya
-- Malsupra Saksio
-- Naarersaksen
-- Neddersassen
-- Nedersakse
-- Nedersaksen
-- Needersachse
-- Neðra-Saxland
-- Nidasaksä
-- Niddersachsen
-- Nidersachse
-- Niedasaxn
-- Niedersachsen
-- Niedersachsen suyu
-- Niðerseaxland
-- Sagsainn Iosail
-- Saks-Izel
-- Saksonia Chini
-- Saksonia e Ulët
-- Saksonya Cêrêne
-- Sassonia Bassa
-- Sasògna Basa
-- Saxe d’Avâl
-- Saxonia Beherea
-- Saxonia Inferioară
-- Saxonia Inferior
-- Saxonia Inferiura
-- Saxony Sor
-- Saxí-ya-Nsé
-- Spodnja Saška
-- Tlani Saxonia
-- Žemutinė Saksonija
-- Κάτω Σαξονία
-- Аллараа Саксонийа
-- Алуце Саксония
-- Анат Саксони
-- Дæллаг Саксони
-- Доња Саксонија
-- Долна Саксонија
-- Долна Саксония
-- Доодо Саксони
-- Доор Саксон
-- Лахара Саксони
-- Ніжняя Саксонія
-- Нижня Саксонія
-- Нижняя Саксония
-- Саксонияи Поин
-- Түбән Саксония
-- Түбәнге Саксония
-- Төменгі Саксония
-- Ստորին Սաքսոնիա
-- נידער-זאקסן
-- סקסוניה התחתונה
-- تھلواں سیکسنی
-- ساکسۆنیای خواروو
-- سكسونيا السفلى
-- لوئر سئڪسني
-- نيديرزاكسين
-- نیدرزاخسن
-- نیدرزاکسن
-- निचला सैक्सोनी
-- नीडर जाक्सन
-- নিডারজাখসেন
-- લોવર સેક્સોની
-- லோயர் சாக்ஸ்சனி
-- లోవర్ సాక్సోనీ
-- ಲೋಯರ್ ಸ್ಯಾಕ್ಸೋನಿ
-- ലോവർ സാക്സണി
-- පහල සැක්සොනි
-- รัฐนีเดอร์ซัคเซิน
-- თუდოლენი საქსონია
-- ქვემო საქსონია
-- ኒደርዛክስን
-- ニーダーザクセン州
-- 下萨克森州
-- 下薩克森
-- 下薩克森州
-- 下薩克森邦
-- 下薩克遜
-- 니더작센주
+  - Ala-Saksi
+  - Alam-Saksi
+  - Alsó-Szászország
+  - an tSacsain Íochtarach
+  - Aşağı Saksoniya
+  - Aşağı Saksonya
+  - Baixa Saxonia
+  - Baixa Saxònia
+  - Baixa Saxônia
+  - Baja Sajonia
+  - Basha Sajonia
+  - Bassa Sassonia
+  - Bassa Sassònia
+  - Bassa Sasònia
+  - Bassa Saxònia
+  - Basse Sassonie
+  - Basse Saxonia
+  - Basse-Saxe
+  - Baxa Saxonia
+  - Bunnes-Schtaat
+  - Bàsa Sasònia
+  - Bàscia Sassònia
+  - Delnja Sakska
+  - Dolna Saksonia
+  - Dolnosakska
+  - Dolné Sasko
+  - Dolní Sasko
+  - Dona-Saxän
+  - Donja Saksonija
+  - Donja Saska
+  - Guy Sahoña
+  - Hâ Saxony
+  - Infra Saxonia
+  - Infra-Saxonia
+  - Lawer Saxony
+  - Lejassaksija
+  - Lower Saxony
+  - Läichsaksen
+  - Mababang Sahonya
+  - Malsupra Saksio
+  - Naarersaksen
+  - Neddersassen
+  - Nedersakse
+  - Nedersaksen
+  - Needersachse
+  - Neðra-Saxland
+  - Nidasaksä
+  - Niddersachsen
+  - Nidersachse
+  - Niedasaxn
+  - Niedersachsen
+  - Niedersachsen suyu
+  - Niðerseaxland
+  - Sagsainn Iosail
+  - Saks-Izel
+  - Saksonia Chini
+  - Saksonia e Ulët
+  - Saksonya Cêrêne
+  - Sassonia Bassa
+  - Sasògna Basa
+  - Saxe d’Avâl
+  - Saxonia Beherea
+  - Saxonia Inferioară
+  - Saxonia Inferior
+  - Saxonia Inferiura
+  - Saxony Sor
+  - Saxí-ya-Nsé
+  - Spodnja Saška
+  - Tlani Saxonia
+  - Žemutinė Saksonija
+  - Κάτω Σαξονία
+  - Аллараа Саксонийа
+  - Алуце Саксония
+  - Анат Саксони
+  - Дæллаг Саксони
+  - Доња Саксонија
+  - Долна Саксонија
+  - Долна Саксония
+  - Доодо Саксони
+  - Доор Саксон
+  - Лахара Саксони
+  - Ніжняя Саксонія
+  - Нижня Саксонія
+  - Нижняя Саксония
+  - Саксонияи Поин
+  - Түбән Саксония
+  - Түбәнге Саксония
+  - Төменгі Саксония
+  - Ստորին Սաքսոնիա
+  - נידער-זאקסן
+  - סקסוניה התחתונה
+  - تھلواں سیکسنی
+  - ساکسۆنیای خواروو
+  - سكسونيا السفلى
+  - لوئر سئڪسني
+  - نيديرزاكسين
+  - نیدرزاخسن
+  - نیدرزاکسن
+  - निचला सैक्सोनी
+  - नीडर जाक्सन
+  - নিডারজাখসেন
+  - લોવર સેક્સોની
+  - லோயர் சாக்ஸ்சனி
+  - లోవర్ సాక్సోనీ
+  - ಲೋಯರ್ ಸ್ಯಾಕ್ಸೋನಿ
+  - ലോവർ സാക്സണി
+  - පහල සැක්සොනි
+  - รัฐนีเดอร์ซัคเซิน
+  - თუდოლენი საქსონია
+  - ქვემო საქსონია
+  - ኒደርዛክስን
+  - ニーダーザクセン州
+  - 下萨克森州
+  - 下薩克森
+  - 下薩克森州
+  - 下薩克森邦
+  - 下薩克遜
+  - 니더작센주
 has_id_wikidata: Q1197
-archives_at: '[[_Standards/WikiData/WD~Lower Saxony State Archive|WD~Lower Saxony State Archive]]'
+archives_at: "[[_Standards/WikiData/WD~Lower Saxony State Archive|WD~Lower Saxony State Archive]]"
 area: 47614.07
-award_received: '[[_Standards/WikiData/WD~BigBrotherAwards|WD~BigBrotherAwards]]'
+award_received: "[[_Standards/WikiData/WD~BigBrotherAwards|WD~BigBrotherAwards]]"
 BHCL_UUID:
-- 11229295-4449-4948-ba31-6a29878bb56e
-capital: '[[_Standards/WikiData/WD~Hanover|WD~Hanover]]'
-coat_of_arms: '[[_Standards/WikiData/WD~coat of arms of Lower Saxony|WD~coat of arms of Lower Saxony]]'
+  - 11229295-4449-4948-ba31-6a29878bb56e
+capital: "[[_Standards/WikiData/WD~Hanover|WD~Hanover]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Lower Saxony|WD~coat of arms of Lower Saxony]]"
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Lower%20Saxony.svg
 Commons_category: Lower Saxony
 Commons_gallery: Niedersachsen
 Confidential: public
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Brunswick|WD~Brunswick]]'
-- '[[_Standards/WikiData/WD~Osnabrück|WD~Osnabrück]]'
-- '[[_Standards/WikiData/WD~Oldenburg|WD~Oldenburg]]'
-- '[[_Standards/WikiData/WD~Wolfsburg|WD~Wolfsburg]]'
-- '[[_Standards/WikiData/WD~Salzgitter|WD~Salzgitter]]'
-- '[[_Standards/WikiData/WD~Wilhelmshaven|WD~Wilhelmshaven]]'
-- '[[_Standards/WikiData/WD~Delmenhorst|WD~Delmenhorst]]'
-- '[[_Standards/WikiData/WD~Emden|WD~Emden]]'
-- '[[_Standards/WikiData/WD~Cuxhaven|WD~Cuxhaven]]'
-- '[[_Standards/WikiData/WD~Stade|WD~Stade]]'
-- '[[_Standards/WikiData/WD~Harburg|WD~Harburg]]'
-- '[[_Standards/WikiData/WD~Lüneburg|WD~Lüneburg]]'
-- '[[_Standards/WikiData/WD~Uelzen District|WD~Uelzen District]]'
-- '[[_Standards/WikiData/WD~Lüchow-Dannenberg District|WD~Lüchow-Dannenberg District]]'
-- '[[_Standards/WikiData/WD~Celle|WD~Celle]]'
-- '[[_Standards/WikiData/WD~Heidekreis|WD~Heidekreis]]'
-- '[[_Standards/WikiData/WD~Rotenburg (Wümme)|WD~Rotenburg (Wümme)]]'
-- '[[_Standards/WikiData/WD~Osterholz|WD~Osterholz]]'
-- '[[_Standards/WikiData/WD~Verden|WD~Verden]]'
-- '[[_Standards/WikiData/WD~Wittmund|WD~Wittmund]]'
-- '[[_Standards/WikiData/WD~Aurich|WD~Aurich]]'
-- '[[_Standards/WikiData/WD~Leer|WD~Leer]]'
-- '[[_Standards/WikiData/WD~Friesland|WD~Friesland]]'
-- '[[_Standards/WikiData/WD~County of Bentheim|WD~County of Bentheim]]'
-- '[[_Standards/WikiData/WD~Emsland|WD~Emsland]]'
-- '[[_Standards/WikiData/WD~Osnabrück|WD~Osnabrück]]'
-- '[[_Standards/WikiData/WD~Vechta|WD~Vechta]]'
-- '[[_Standards/WikiData/WD~Ammerland|WD~Ammerland]]'
-- '[[_Standards/WikiData/WD~Cloppenburg|WD~Cloppenburg]]'
-- '[[_Standards/WikiData/WD~Wesermarsch|WD~Wesermarsch]]'
-- '[[_Standards/WikiData/WD~Oldenburg|WD~Oldenburg]]'
-- '[[_Standards/WikiData/WD~Nienburg an der Weser|WD~Nienburg an der Weser]]'
-- '[[_Standards/WikiData/WD~Diepholz|WD~Diepholz]]'
-- '[[_Standards/WikiData/WD~Hanover region|WD~Hanover region]]'
-- '[[_Standards/WikiData/WD~Schaumburg|WD~Schaumburg]]'
-- '[[_Standards/WikiData/WD~Hamelin-Pyrmont|WD~Hamelin-Pyrmont]]'
-- '[[_Standards/WikiData/WD~Holzminden|WD~Holzminden]]'
-- '[[_Standards/WikiData/WD~Hildesheim|WD~Hildesheim]]'
-- '[[_Standards/WikiData/WD~Northeim|WD~Northeim]]'
-- '[[_Standards/WikiData/WD~Göttingen district|WD~Göttingen district]]'
-- '[[_Standards/WikiData/WD~Goslar|WD~Goslar]]'
-- '[[_Standards/WikiData/WD~Wolfenbüttel|WD~Wolfenbüttel]]'
-- '[[_Standards/WikiData/WD~Helmstedt District|WD~Helmstedt District]]'
-- '[[_Standards/WikiData/WD~Peine|WD~Peine]]'
-- '[[_Standards/WikiData/WD~Gifhorn|WD~Gifhorn]]'
+  - "[[_Standards/WikiData/WD~Brunswick|WD~Brunswick]]"
+  - "[[_Standards/WikiData/WD~Osnabrück|WD~Osnabrück]]"
+  - "[[_Standards/WikiData/WD~Oldenburg|WD~Oldenburg]]"
+  - "[[_Standards/WikiData/WD~Wolfsburg|WD~Wolfsburg]]"
+  - "[[_Standards/WikiData/WD~Salzgitter|WD~Salzgitter]]"
+  - "[[_Standards/WikiData/WD~Wilhelmshaven|WD~Wilhelmshaven]]"
+  - "[[_Standards/WikiData/WD~Delmenhorst|WD~Delmenhorst]]"
+  - "[[_Standards/WikiData/WD~Emden|WD~Emden]]"
+  - "[[_Standards/WikiData/WD~Cuxhaven|WD~Cuxhaven]]"
+  - "[[_Standards/WikiData/WD~Stade|WD~Stade]]"
+  - "[[_Standards/WikiData/WD~Harburg|WD~Harburg]]"
+  - "[[_Standards/WikiData/WD~Lüneburg|WD~Lüneburg]]"
+  - "[[_Standards/WikiData/WD~Uelzen District|WD~Uelzen District]]"
+  - "[[_Standards/WikiData/WD~Lüchow-Dannenberg District|WD~Lüchow-Dannenberg District]]"
+  - "[[_Standards/WikiData/WD~Celle|WD~Celle]]"
+  - "[[_Standards/WikiData/WD~Heidekreis|WD~Heidekreis]]"
+  - "[[_Standards/WikiData/WD~Rotenburg (Wümme)|WD~Rotenburg (Wümme)]]"
+  - "[[_Standards/WikiData/WD~Osterholz|WD~Osterholz]]"
+  - "[[_Standards/WikiData/WD~Verden|WD~Verden]]"
+  - "[[_Standards/WikiData/WD~Wittmund|WD~Wittmund]]"
+  - "[[_Standards/WikiData/WD~Aurich|WD~Aurich]]"
+  - "[[_Standards/WikiData/WD~Leer|WD~Leer]]"
+  - "[[_Standards/WikiData/WD~Friesland|WD~Friesland]]"
+  - "[[_Standards/WikiData/WD~County of Bentheim|WD~County of Bentheim]]"
+  - "[[_Standards/WikiData/WD~Emsland|WD~Emsland]]"
+  - "[[_Standards/WikiData/WD~Osnabrück|WD~Osnabrück]]"
+  - "[[_Standards/WikiData/WD~Vechta|WD~Vechta]]"
+  - "[[_Standards/WikiData/WD~Ammerland|WD~Ammerland]]"
+  - "[[_Standards/WikiData/WD~Cloppenburg|WD~Cloppenburg]]"
+  - "[[_Standards/WikiData/WD~Wesermarsch|WD~Wesermarsch]]"
+  - "[[_Standards/WikiData/WD~Oldenburg|WD~Oldenburg]]"
+  - "[[_Standards/WikiData/WD~Nienburg an der Weser|WD~Nienburg an der Weser]]"
+  - "[[_Standards/WikiData/WD~Diepholz|WD~Diepholz]]"
+  - "[[_Standards/WikiData/WD~Hanover region|WD~Hanover region]]"
+  - "[[_Standards/WikiData/WD~Schaumburg|WD~Schaumburg]]"
+  - "[[_Standards/WikiData/WD~Hamelin-Pyrmont|WD~Hamelin-Pyrmont]]"
+  - "[[_Standards/WikiData/WD~Holzminden|WD~Holzminden]]"
+  - "[[_Standards/WikiData/WD~Hildesheim|WD~Hildesheim]]"
+  - "[[_Standards/WikiData/WD~Northeim|WD~Northeim]]"
+  - "[[_Standards/WikiData/WD~Göttingen district|WD~Göttingen district]]"
+  - "[[_Standards/WikiData/WD~Goslar|WD~Goslar]]"
+  - "[[_Standards/WikiData/WD~Wolfenbüttel|WD~Wolfenbüttel]]"
+  - "[[_Standards/WikiData/WD~Helmstedt District|WD~Helmstedt District]]"
+  - "[[_Standards/WikiData/WD~Peine|WD~Peine]]"
+  - "[[_Standards/WikiData/WD~Gifhorn|WD~Gifhorn]]"
 coordinates_of_easternmost_point: Point(11.598166666 53.034555555)
 coordinates_of_northernmost_point: Point(8.67875 53.892277777)
 coordinates_of_southernmost_point: Point(9.732444444 51.293472222)
 coordinates_of_westernmost_point: Point(6.638638888 53.591944444)
 coordinate_location: Point(9.393055555 52.756111111)
-country: '[[_Standards/WikiData/WD~Germany|WD~Germany]]'
+country: "[[_Standards/WikiData/WD~Germany|WD~Germany]]"
 detail_map:
-- http://commons.wikimedia.org/wiki/Special:FilePath/Lower%20Saxony%2C%20administrative%20divisions%20-%20de%20-%20colored.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lower%20Saxony%2C%20administrative%20divisions%20-%20de%20-%20colored.svg
 Dewey_Decimal_Classification: 2--4359
-economy_of_topic: '[[_Standards/WikiData/WD~economy of Lower Saxony|WD~economy of Lower Saxony]]'
+economy_of_topic: "[[_Standards/WikiData/WD~economy of Lower Saxony|WD~economy of Lower Saxony]]"
 elevation_above_sea_level: 13
 Facebook_username: Niedersachsen
 FIPS_10_4_countries_and_regions_: GM06
-flag: '[[_Standards/WikiData/WD~flag of Lower Saxony|WD~flag of Lower Saxony]]'
+flag: "[[_Standards/WikiData/WD~flag of Lower Saxony|WD~flag of Lower Saxony]]"
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lower%20Saxony.svg
 geoshape: http://commons.wikimedia.org/data/main/Data:Niedersachsen.map
 German_regional_key: 3
 HASC:
-- DE.NI
-has_part_s_: '[[_Standards/WikiData/WD~Brunswick Land|WD~Brunswick Land]]'
+  - DE.NI
+has_part_s_: "[[_Standards/WikiData/WD~Brunswick Land|WD~Brunswick Land]]"
 has_time_started: 1946-11-01
-head_of_government: '[[_Standards/WikiData/WD~Stephan Weil|WD~Stephan Weil]]'
-highest_judicial_authority: '[[_Standards/WikiData/WD~Constitutional Court of Lower Saxony|WD~Constitutional Court of Lower Saxony]]'
-highest_point: '[[_Standards/WikiData/WD~Wurmberg|WD~Wurmberg]]'
+head_of_government: "[[_Standards/WikiData/WD~Stephan Weil|WD~Stephan Weil]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Constitutional Court of Lower Saxony|WD~Constitutional Court of Lower Saxony]]"
+highest_point: "[[_Standards/WikiData/WD~Wurmberg|WD~Wurmberg]]"
 icon: Flag_of_Lower_Saxony
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NASA%20World%20Wind%20-%20Ostfriesland.png
 Image_Archive_Herder_Institute: Q1197
 inception: 1946-11-01
 Instagram_username: niedersachsen.de
 instance_of:
-- '[[_Standards/WikiData/WD~federated state of Germany|WD~federated state of Germany]]'
+  - "[[_Standards/WikiData/WD~federated state of Germany|WD~federated state of Germany]]"
 isDeleted: false
 ISO3166_2: DE-NI
 ISO_3166_2_code: DE-NI
 language_used:
-- '[[_Standards/WikiData/WD~East Frisian Low Saxon|WD~East Frisian Low Saxon]]'
-- '[[_Standards/WikiData/WD~Standard High German|WD~Standard High German]]'
-- '[[_Standards/WikiData/WD~Low German|WD~Low German]]'
-- '[[_Standards/WikiData/WD~Saterland Frisian|WD~Saterland Frisian]]'
+  - "[[_Standards/WikiData/WD~East Frisian Low Saxon|WD~East Frisian Low Saxon]]"
+  - "[[_Standards/WikiData/WD~Standard High German|WD~Standard High German]]"
+  - "[[_Standards/WikiData/WD~Low German|WD~Low German]]"
+  - "[[_Standards/WikiData/WD~Saterland Frisian|WD~Saterland Frisian]]"
 legislative_body:
-- '[[_Standards/WikiData/WD~Landtag of Lower Saxony|WD~Landtag of Lower Saxony]]'
+  - "[[_Standards/WikiData/WD~Landtag of Lower Saxony|WD~Landtag of Lower Saxony]]"
 Libris_URI: b8nqpl8v3k887x4
 located_in_or_next_to_body_of_water:
-- '[[_Standards/WikiData/WD~German Bight|WD~German Bight]]'
-- '[[_Standards/WikiData/WD~North Sea|WD~North Sea]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Germany|WD~Germany]]'
+  - "[[_Standards/WikiData/WD~German Bight|WD~German Bight]]"
+  - "[[_Standards/WikiData/WD~North Sea|WD~North Sea]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Germany|WD~Germany]]"
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~UTC+01:00|WD~UTC+01:00]]'
-- '[[_Standards/WikiData/WD~UTC+02:00|WD~UTC+02:00]]'
+  - "[[_Standards/WikiData/WD~UTC+01:00|WD~UTC+01:00]]"
+  - "[[_Standards/WikiData/WD~UTC+02:00|WD~UTC+02:00]]"
 location:
-- 52.7796
-- 9.02868
+  - 52.7796
+  - 9.02868
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Lower-Saxony%20in%20Germany.svg
 member_of:
-- '[[_Standards/WikiData/WD~Common Library Network|WD~Common Library Network]]'
+  - "[[_Standards/WikiData/WD~Common Library Network|WD~Common Library Network]]"
 motto_text:
-- Niedersachsen. Klar.
-named_after: '[[_Standards/WikiData/WD~Saxons|WD~Saxons]]'
+  - Niedersachsen. Klar.
+named_after: "[[_Standards/WikiData/WD~Saxons|WD~Saxons]]"
 native_label:
-- Niedersachsen
+  - Niedersachsen
 NUTS_code: DE9
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Minister-President of Lower Saxony|WD~Minister-President of Lower Saxony]]'
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Minister-President of Lower Saxony|WD~Minister-President of Lower Saxony]]"
 official_website: https://www.niedersachsen.de/
 OmegaWiki_Defined_Meaning: 416994
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wremen%20banner.jpg
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q25929971|WD~Q25929971]]'
+  - "[[_Standards/WikiData/WD~Q25929971|WD~Q25929971]]"
 population: 8003421
 replaces:
-- '[[_Standards/WikiData/WD~Free State of Schaumburg-Lippe|WD~Free State of Schaumburg-Lippe]]'
-- '[[_Standards/WikiData/WD~substate of Hanover|WD~substate of Hanover]]'
-- '[[_Standards/WikiData/WD~Free State of Oldenburg|WD~Free State of Oldenburg]]'
-- '[[_Standards/WikiData/WD~State of Brunswick|WD~State of Brunswick]]'
+  - "[[_Standards/WikiData/WD~Free State of Schaumburg-Lippe|WD~Free State of Schaumburg-Lippe]]"
+  - "[[_Standards/WikiData/WD~substate of Hanover|WD~substate of Hanover]]"
+  - "[[_Standards/WikiData/WD~Free State of Oldenburg|WD~Free State of Oldenburg]]"
+  - "[[_Standards/WikiData/WD~State of Brunswick|WD~State of Brunswick]]"
 shares_border_with:
-- '[[_Standards/WikiData/WD~Groningen|WD~Groningen]]'
-- '[[_Standards/WikiData/WD~Drenthe|WD~Drenthe]]'
-- '[[_Standards/WikiData/WD~Overijssel|WD~Overijssel]]'
-- '[[_Standards/WikiData/WD~Hamburg|WD~Hamburg]]'
-- '[[_Standards/WikiData/WD~Schleswig-Holstein|WD~Schleswig-Holstein]]'
-- '[[_Standards/WikiData/WD~North Rhine-Westphalia|WD~North Rhine-Westphalia]]'
-- '[[_Standards/WikiData/WD~Hesse|WD~Hesse]]'
-- '[[_Standards/WikiData/WD~Mecklenburg-Western Pomerania|WD~Mecklenburg-Western Pomerania]]'
-- '[[_Standards/WikiData/WD~Saxony-Anhalt|WD~Saxony-Anhalt]]'
-- '[[_Standards/WikiData/WD~Thuringia|WD~Thuringia]]'
-- '[[_Standards/WikiData/WD~Brandenburg|WD~Brandenburg]]'
-- '[[_Standards/WikiData/WD~Bremen|WD~Bremen]]'
+  - "[[_Standards/WikiData/WD~Groningen|WD~Groningen]]"
+  - "[[_Standards/WikiData/WD~Drenthe|WD~Drenthe]]"
+  - "[[_Standards/WikiData/WD~Overijssel|WD~Overijssel]]"
+  - "[[_Standards/WikiData/WD~Hamburg|WD~Hamburg]]"
+  - "[[_Standards/WikiData/WD~Schleswig-Holstein|WD~Schleswig-Holstein]]"
+  - "[[_Standards/WikiData/WD~North Rhine-Westphalia|WD~North Rhine-Westphalia]]"
+  - "[[_Standards/WikiData/WD~Hesse|WD~Hesse]]"
+  - "[[_Standards/WikiData/WD~Mecklenburg-Western Pomerania|WD~Mecklenburg-Western Pomerania]]"
+  - "[[_Standards/WikiData/WD~Saxony-Anhalt|WD~Saxony-Anhalt]]"
+  - "[[_Standards/WikiData/WD~Thuringia|WD~Thuringia]]"
+  - "[[_Standards/WikiData/WD~Brandenburg|WD~Brandenburg]]"
+  - "[[_Standards/WikiData/WD~Bremen|WD~Bremen]]"
 SpocWebEntityId: 36019
 tags:
-- geo/State
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal:Lower Saxony|WD~Portal:Lower Saxony]]'
-twinned_administrative_body: '[[_Standards/WikiData/WD~Tokushima Prefecture|WD~Tokushima Prefecture]]'
+  - geo/State
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal:Lower Saxony|WD~Portal:Lower Saxony]]"
+twinned_administrative_body: "[[_Standards/WikiData/WD~Tokushima Prefecture|WD~Tokushima Prefecture]]"
 type: State
 dv_has_name: Niedersachsen
 dv_has_name_abbreviated: NS
 dv_is_:
   same_as:
-  - '[[../../../../../../WikiData/WD~Lower_Saxony,1197|WD~Lower_Saxony,1197]]'
-  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen|Niedersachsen]]'
-  - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.public|Niedersachsen.public]]'
-  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.internal|Niedersachsen.internal]]'
-  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.protect|Niedersachsen.protect]]'
-  - '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.private|Niedersachsen.private]]'
-  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.personal|Niedersachsen.personal]]'
-  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.secret|Niedersachsen.secret]]'
-dv_has_place_country: '[[../../Germany|Germany]]'
-dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/State|State]]'
+    - "[[../../../../../../WikiData/WD~Lower_Saxony,1197|WD~Lower_Saxony,1197]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen|Niedersachsen]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.public|Niedersachsen.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.internal|Niedersachsen.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.protect|Niedersachsen.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.private|Niedersachsen.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.personal|Niedersachsen.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.secret|Niedersachsen.secret]]"
+dv_has_place_country: "[[../../Germany|Germany]]"
+dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/State|State]]"
 dv_has_place_longitude: 9.02868
 dv_has_place_latitude: 52.7796
 dv_is_same_as:
-- '[[../../../../../../WikiData/WD~Lower_Saxony,1197|WD~Lower_Saxony,1197]]'
-- '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen|Niedersachsen]]'
-- '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.public|Niedersachsen.public]]'
-- '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.internal|Niedersachsen.internal]]'
-- '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.protect|Niedersachsen.protect]]'
-- '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.private|Niedersachsen.private]]'
-- '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.personal|Niedersachsen.personal]]'
-- '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.secret|Niedersachsen.secret]]'
+  - "[[../../../../../../WikiData/WD~Lower_Saxony,1197|WD~Lower_Saxony,1197]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen|Niedersachsen]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.public|Niedersachsen.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.internal|Niedersachsen.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.protect|Niedersachsen.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.private|Niedersachsen.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.personal|Niedersachsen.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen.secret|Niedersachsen.secret]]"
 dv_has_:
   name_:
     af: Nedersakse
@@ -462,6 +462,7 @@ dv_has_:
     zh_hans: 下萨克森州
     zh_hant: 下薩克森州
     zh_tw: 下薩克森邦
+hist_area_km2: {"0": 10520.01,"25": 10288.03,"50": 9535.02,"75": 5924.84,"100": 3255.34,"125": 1577.76,"150": 1002.47,"175": 833.3,"200": 722.02,"225": 650.65,"250": 564.09,"275": 477.46,"300": 395.07,"325": 309.58,"350": 235.12,"375": 168.01,"400": 139.59,"425": 108.12,"450": 81.77,"475": 70.05,"500": 69.49,"525": 67.83,"550": 78.45,"575": 87.75,"600": 73.58,"625": 42.55,"650": 24.48,"675": 17.23,"700": 13.5,"725": 11.95,"750": 13.04,"775": 13.45,"800": 13.5,"825": 10.85,"850": 7.36,"875": 4.8,"900": 2.51,"925": 0.59}
 ---
 
 # [[Niedersachsen]] 

@@ -1,137 +1,137 @@
 ---
 aliases:
-- An tSacsain-Anhalt
-- Sachse-Ahalt
-- Sachsen-Anhalt
-- Sachsen-Anhalt suyu
-- Sagsainn-Anhalt
-- Sahonya-Anhalt
-- Sahoña-Anhalt
-- Sajonia-Anhalt
-- Saks-Anhalt
-- Sakse-Anhalt
-- Saksen-Aanhoalt
-- Saksen-Anhalt
-- Saksi-Anhalt
-- Saksija-Anhalte
-- Saksio-Anhalto
-- Sakska-Anhaltska
-- Saksko-Anhaltska
-- Saksonia Anhalt
-- Saksonia-Anhalt
-- Saksonija-Anhalt
-- Saksonija-Anhaltas
-- Saksoniya-Anhalt
-- Saksonya-Anhalt
-- Saksä-Aahald
-- Saska-Anhalt
-- Sasko-Anhaltsko
-- Sassen-Anholt
-- Sassonia Anhalt
-- Sassonia-Anhalt
-- Sassonie-Anhalt
-- Sassònia-Anhalt
-- Sasògna-Anhalt
-- Sasònia-Anhalt
-- Saxe-Anhalt
-- Saxland-Anhalt
-- Saxonia et Anhaltium
-- Saxonia-Anhalt
-- Saxonia-Anhalt - Sachsen-Anhalt
-- Saxony-Anhalt
-- Saxän-Lanhaltän
-- Saxònia-Anhalt
-- Saxónia-Anhalt
-- Saxônia-Anhalt
-- Saška - Anhalt
-- Seaxland and Anhalt
-- Szász-Anhalt
-- Σαξονία-Άνχαλτ
-- Заксен-Анхальт
-- Саксон-Анхальт
-- Саксонія-Ангальт
-- Саксони-Анхальт
-- Саксонија-Анхалт
-- Саксония-Анхалт
-- Саксония-Анхальт
-- Саксония-Анҳалт
-- Саксония-Анһальт
-- Сасько-Ангалт
-- Սաքսոնիա- Անհալթ
-- Սաքսոնիա-Անհալթ
-- סאקסאניע-אנהאלט
-- סקסוניה-אנהלט
-- زاخسن-انهالت
-- زاکسن-آنهالت
-- زاکسن-آنہالت
-- سئڪسني اينھالٽ
-- ساکسۆنیا-ئەنھالت
-- سكسونيا أنهالت
-- سكسونيا انهالت
-- سیکسنی آنہالٹ
-- जाक्सन-आनहाल्ट
-- सैक्सोनी-एन्हाल्ट
-- জাখসেন-আনহাল্ট
-- સેક્સોની- એન્હાલ્ટ
-- சாக்ஸ்சனி-அன்ஹால்ட்
-- సాక్సోనీ-అన్హాల్ట్
-- ಸ್ಯಾಕ್ಸೋನಿ-ಅನ್ಹಾಲ್ಟ್
-- സാക്സണി-അൻഹാൾട്ട്
-- සැක්සොනි-අන්හල්ට්
-- รัฐแซกโซนี-อันฮัลต์
-- საქსონია-ანჰალტი
-- ዛክስን-አንሃልት
-- ザクセン＝アンハルト州
-- 萨克森-安哈尔特
-- 萨克森-安哈尔特州
-- 薩克森-安哈爾特州
-- 薩克森-安哈特邦
-- 薩克遜－雁候
-- 작센안할트주
+  - An tSacsain-Anhalt
+  - Sachse-Ahalt
+  - Sachsen-Anhalt
+  - Sachsen-Anhalt suyu
+  - Sagsainn-Anhalt
+  - Sahonya-Anhalt
+  - Sahoña-Anhalt
+  - Sajonia-Anhalt
+  - Saks-Anhalt
+  - Sakse-Anhalt
+  - Saksen-Aanhoalt
+  - Saksen-Anhalt
+  - Saksi-Anhalt
+  - Saksija-Anhalte
+  - Saksio-Anhalto
+  - Sakska-Anhaltska
+  - Saksko-Anhaltska
+  - Saksonia Anhalt
+  - Saksonia-Anhalt
+  - Saksonija-Anhalt
+  - Saksonija-Anhaltas
+  - Saksoniya-Anhalt
+  - Saksonya-Anhalt
+  - Saksä-Aahald
+  - Saska-Anhalt
+  - Sasko-Anhaltsko
+  - Sassen-Anholt
+  - Sassonia Anhalt
+  - Sassonia-Anhalt
+  - Sassonie-Anhalt
+  - Sassònia-Anhalt
+  - Sasògna-Anhalt
+  - Sasònia-Anhalt
+  - Saxe-Anhalt
+  - Saxland-Anhalt
+  - Saxonia et Anhaltium
+  - Saxonia-Anhalt
+  - Saxonia-Anhalt - Sachsen-Anhalt
+  - Saxony-Anhalt
+  - Saxän-Lanhaltän
+  - Saxònia-Anhalt
+  - Saxónia-Anhalt
+  - Saxônia-Anhalt
+  - Saška - Anhalt
+  - Seaxland and Anhalt
+  - Szász-Anhalt
+  - Σαξονία-Άνχαλτ
+  - Заксен-Анхальт
+  - Саксон-Анхальт
+  - Саксонія-Ангальт
+  - Саксони-Анхальт
+  - Саксонија-Анхалт
+  - Саксония-Анхалт
+  - Саксония-Анхальт
+  - Саксония-Анҳалт
+  - Саксония-Анһальт
+  - Сасько-Ангалт
+  - Սաքսոնիա- Անհալթ
+  - Սաքսոնիա-Անհալթ
+  - סאקסאניע-אנהאלט
+  - סקסוניה-אנהלט
+  - زاخسن-انهالت
+  - زاکسن-آنهالت
+  - زاکسن-آنہالت
+  - سئڪسني اينھالٽ
+  - ساکسۆنیا-ئەنھالت
+  - سكسونيا أنهالت
+  - سكسونيا انهالت
+  - سیکسنی آنہالٹ
+  - जाक्सन-आनहाल्ट
+  - सैक्सोनी-एन्हाल्ट
+  - জাখসেন-আনহাল্ট
+  - સેક્સોની- એન્હાલ્ટ
+  - சாக்ஸ்சனி-அன்ஹால்ட்
+  - సాక్సోనీ-అన్హాల్ట్
+  - ಸ್ಯಾಕ್ಸೋನಿ-ಅನ್ಹಾಲ್ಟ್
+  - സാക്സണി-അൻഹാൾട്ട്
+  - සැක්සොනි-අන්හල්ට්
+  - รัฐแซกโซนี-อันฮัลต์
+  - საქსონია-ანჰალტი
+  - ዛክስን-አንሃልት
+  - ザクセン＝アンハルト州
+  - 萨克森-安哈尔特
+  - 萨克森-安哈尔特州
+  - 薩克森-安哈爾特州
+  - 薩克森-安哈特邦
+  - 薩克遜－雁候
+  - 작센안할트주
 has_id_wikidata: Q1206
-archives_at: '[[_Standards/WikiData/WD~State Archives Sachsen-Anhalt|WD~State Archives Sachsen-Anhalt]]'
+archives_at: "[[_Standards/WikiData/WD~State Archives Sachsen-Anhalt|WD~State Archives Sachsen-Anhalt]]"
 area: 20454
 budget: 15203903000
-capital: '[[_Standards/WikiData/WD~Magdeburg|WD~Magdeburg]]'
-coat_of_arms: '[[_Standards/WikiData/WD~coat of arms of Saxony-Anhalt|WD~coat of arms of Saxony-Anhalt]]'
+capital: "[[_Standards/WikiData/WD~Magdeburg|WD~Magdeburg]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Saxony-Anhalt|WD~coat of arms of Saxony-Anhalt]]"
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Wappen%20Sachsen-Anhalt.svg
 Commons_category: Saxony-Anhalt
 Commons_gallery: Sachsen-Anhalt
 Confidential: public
 contact_page_URL: https://www.sachsen-anhalt.de/meta/kontaktformular
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Magdeburg|WD~Magdeburg]]'
-- '[[_Standards/WikiData/WD~Halle (Saale)|WD~Halle (Saale)]]'
-- '[[_Standards/WikiData/WD~Dessau-Roßlau|WD~Dessau-Roßlau]]'
-- '[[_Standards/WikiData/WD~Stendal District|WD~Stendal District]]'
-- '[[_Standards/WikiData/WD~Altmarkkreis Salzwedel|WD~Altmarkkreis Salzwedel]]'
-- '[[_Standards/WikiData/WD~Börde|WD~Börde]]'
-- '[[_Standards/WikiData/WD~Anhalt-Bitterfeld|WD~Anhalt-Bitterfeld]]'
-- '[[_Standards/WikiData/WD~Jerichower Land|WD~Jerichower Land]]'
-- '[[_Standards/WikiData/WD~Wittenberg|WD~Wittenberg]]'
-- '[[_Standards/WikiData/WD~Salzlandkreis|WD~Salzlandkreis]]'
-- '[[_Standards/WikiData/WD~Harz District|WD~Harz District]]'
-- '[[_Standards/WikiData/WD~Mansfeld-Südharz|WD~Mansfeld-Südharz]]'
-- '[[_Standards/WikiData/WD~Saalekreis|WD~Saalekreis]]'
-- '[[_Standards/WikiData/WD~Burgenlandkreis|WD~Burgenlandkreis]]'
+  - "[[_Standards/WikiData/WD~Magdeburg|WD~Magdeburg]]"
+  - "[[_Standards/WikiData/WD~Halle (Saale)|WD~Halle (Saale)]]"
+  - "[[_Standards/WikiData/WD~Dessau-Roßlau|WD~Dessau-Roßlau]]"
+  - "[[_Standards/WikiData/WD~Stendal District|WD~Stendal District]]"
+  - "[[_Standards/WikiData/WD~Altmarkkreis Salzwedel|WD~Altmarkkreis Salzwedel]]"
+  - "[[_Standards/WikiData/WD~Börde|WD~Börde]]"
+  - "[[_Standards/WikiData/WD~Anhalt-Bitterfeld|WD~Anhalt-Bitterfeld]]"
+  - "[[_Standards/WikiData/WD~Jerichower Land|WD~Jerichower Land]]"
+  - "[[_Standards/WikiData/WD~Wittenberg|WD~Wittenberg]]"
+  - "[[_Standards/WikiData/WD~Salzlandkreis|WD~Salzlandkreis]]"
+  - "[[_Standards/WikiData/WD~Harz District|WD~Harz District]]"
+  - "[[_Standards/WikiData/WD~Mansfeld-Südharz|WD~Mansfeld-Südharz]]"
+  - "[[_Standards/WikiData/WD~Saalekreis|WD~Saalekreis]]"
+  - "[[_Standards/WikiData/WD~Burgenlandkreis|WD~Burgenlandkreis]]"
 coordinate_location: Point(11.7 52.0)
-country: '[[_Standards/WikiData/WD~Germany|WD~Germany]]'
+country: "[[_Standards/WikiData/WD~Germany|WD~Germany]]"
 Dewey_Decimal_Classification: 2--4318
-economy_of_topic: '[[_Standards/WikiData/WD~economy of Saxony-Anhalt|WD~economy of Saxony-Anhalt]]'
+economy_of_topic: "[[_Standards/WikiData/WD~economy of Saxony-Anhalt|WD~economy of Saxony-Anhalt]]"
 elevation_above_sea_level: 51
 email_address: mailto:staatskanzlei@stk.sachsen-anhalt.de
 FIPS_10_4_countries_and_regions_: GM14
-flag: '[[_Standards/WikiData/WD~flag of Saxony-Anhalt|WD~flag of Saxony-Anhalt]]'
+flag: "[[_Standards/WikiData/WD~flag of Saxony-Anhalt|WD~flag of Saxony-Anhalt]]"
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saxony-Anhalt%20%28state%29.svg
 geoshape: http://commons.wikimedia.org/data/main/Data:Sachsen-Anhalt.map
 German_regional_key: 15
 HASC:
-- DE.ST
+  - DE.ST
 has_time_started: 1990-10-03
-head_of_government: '[[_Standards/WikiData/WD~Reiner Haseloff|WD~Reiner Haseloff]]'
-highest_judicial_authority: '[[_Standards/WikiData/WD~State Constitutional Court of Saxony-Anhalt|WD~State Constitutional Court of Saxony-Anhalt]]'
-highest_point: '[[_Standards/WikiData/WD~Brocken|WD~Brocken]]'
-history_of_topic: '[[_Standards/WikiData/WD~history of Saxony-Anhalt|WD~history of Saxony-Anhalt]]'
+head_of_government: "[[_Standards/WikiData/WD~Reiner Haseloff|WD~Reiner Haseloff]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~State Constitutional Court of Saxony-Anhalt|WD~State Constitutional Court of Saxony-Anhalt]]"
+highest_point: "[[_Standards/WikiData/WD~Brocken|WD~Brocken]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of Saxony-Anhalt|WD~history of Saxony-Anhalt]]"
 icon: Flag_of_Saxony-Anhalt_(state)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Landtag%20von%20Sachsen-Anhalt%20in%20Magdeburg.jpg
 Image_Archive_Herder_Institute: Q1206
@@ -139,84 +139,84 @@ impressum_URL: https://www.sachsen-anhalt.de/meta/impressum
 inception: 1990-10-03
 Instagram_username: sachsenanhalt
 instance_of:
-- '[[_Standards/WikiData/WD~federated state of Germany|WD~federated state of Germany]]'
+  - "[[_Standards/WikiData/WD~federated state of Germany|WD~federated state of Germany]]"
 isDeleted: false
 ISO3166_2: DE-ST
 ISO_3166_2_code: DE-ST
 language_used:
-- '[[_Standards/WikiData/WD~Upper Saxon|WD~Upper Saxon]]'
+  - "[[_Standards/WikiData/WD~Upper Saxon|WD~Upper Saxon]]"
 legislative_body:
-- '[[_Standards/WikiData/WD~Landtag of Saxony-Anhalt|WD~Landtag of Saxony-Anhalt]]'
+  - "[[_Standards/WikiData/WD~Landtag of Saxony-Anhalt|WD~Landtag of Saxony-Anhalt]]"
 Libris_URI: gdsw04x03l38k45
 located_in_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~German Democratic Republic|WD~German Democratic Republic]]'
-- '[[_Standards/WikiData/WD~Germany|WD~Germany]]'
+  - "[[_Standards/WikiData/WD~German Democratic Republic|WD~German Democratic Republic]]"
+  - "[[_Standards/WikiData/WD~Germany|WD~Germany]]"
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~UTC+02:00|WD~UTC+02:00]]'
-- '[[_Standards/WikiData/WD~UTC+01:00|WD~UTC+01:00]]'
+  - "[[_Standards/WikiData/WD~UTC+02:00|WD~UTC+02:00]]"
+  - "[[_Standards/WikiData/WD~UTC+01:00|WD~UTC+01:00]]"
 location:
-- 51.8905
-- 11.7371
+  - 51.8905
+  - 11.7371
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Saxony-Anhalt%20in%20Germany.svg
-main_regulatory_text: '[[_Standards/WikiData/WD~Constitution of the State of Saxony-Anhalt|WD~Constitution of the State of Saxony-Anhalt]]'
+main_regulatory_text: "[[_Standards/WikiData/WD~Constitution of the State of Saxony-Anhalt|WD~Constitution of the State of Saxony-Anhalt]]"
 Mastodon_instance_URL: https://social.sachsen-anhalt.de
 member_of:
-- '[[_Standards/WikiData/WD~Common Library Network|WD~Common Library Network]]'
+  - "[[_Standards/WikiData/WD~Common Library Network|WD~Common Library Network]]"
 native_label:
-- Sachsen-Anhalt
+  - Sachsen-Anhalt
 NUTS_code:
-- DEE
-- DEE0
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Minister-President of Saxony-Anhalt|WD~Minister-President of Saxony-Anhalt]]'
+  - DEE
+  - DEE0
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Minister-President of Saxony-Anhalt|WD~Minister-President of Saxony-Anhalt]]"
 official_website: https://www.sachsen-anhalt.de/
 OmegaWiki_Defined_Meaning: 414530
-owner_of: '[[_Standards/WikiData/WD~Mitteldeutsche Flughafen AG|WD~Mitteldeutsche Flughafen AG]]'
+owner_of: "[[_Standards/WikiData/WD~Mitteldeutsche Flughafen AG|WD~Mitteldeutsche Flughafen AG]]"
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Sachsen-Anhalt%20Wikivoyage%20banner.jpg
 phone_number: +49-391-56701
 population: 2194782
 privacy_policy_URL: https://www.sachsen-anhalt.de/meta/datenschutz
 replaces:
-- '[[_Standards/WikiData/WD~Cottbus District|WD~Cottbus District]]'
-- '[[_Standards/WikiData/WD~Halle District|WD~Halle District]]'
-- '[[_Standards/WikiData/WD~Magdeburg District|WD~Magdeburg District]]'
+  - "[[_Standards/WikiData/WD~Cottbus District|WD~Cottbus District]]"
+  - "[[_Standards/WikiData/WD~Halle District|WD~Halle District]]"
+  - "[[_Standards/WikiData/WD~Magdeburg District|WD~Magdeburg District]]"
 shares_border_with:
-- '[[_Standards/WikiData/WD~Lower Saxony|WD~Lower Saxony]]'
-- '[[_Standards/WikiData/WD~Saxony|WD~Saxony]]'
-- '[[_Standards/WikiData/WD~Thuringia|WD~Thuringia]]'
-- '[[_Standards/WikiData/WD~Brandenburg|WD~Brandenburg]]'
+  - "[[_Standards/WikiData/WD~Lower Saxony|WD~Lower Saxony]]"
+  - "[[_Standards/WikiData/WD~Saxony|WD~Saxony]]"
+  - "[[_Standards/WikiData/WD~Thuringia|WD~Thuringia]]"
+  - "[[_Standards/WikiData/WD~Brandenburg|WD~Brandenburg]]"
 social_media_followers: 6520
 SpocWebEntityId: 36024
 tags:
-- geo/State
+  - geo/State
 Telegram_username: SachsenAnhaltde_bot
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal:Saxony-Anhalt|WD~Portal:Saxony-Anhalt]]'
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal:Saxony-Anhalt|WD~Portal:Saxony-Anhalt]]"
 type: State
 X_username: sachsenanhalt
 dv_has_name: Sachsen-Anhalt
 dv_has_name_abbreviated: ST
 dv_is_:
   same_as:
-  - '[[../../../../../../WikiData/WD~Saxony-Anhalt,1206|WD~Saxony-Anhalt,1206]]'
-  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt|Sachsen-Anhalt]]'
-  - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.public|Sachsen-Anhalt.public]]'
-  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.internal|Sachsen-Anhalt.internal]]'
-  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.protect|Sachsen-Anhalt.protect]]'
-  - '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.private|Sachsen-Anhalt.private]]'
-  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.personal|Sachsen-Anhalt.personal]]'
-  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.secret|Sachsen-Anhalt.secret]]'
-dv_has_place_country: '[[../../Germany|Germany]]'
-dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/State|State]]'
+    - "[[../../../../../../WikiData/WD~Saxony-Anhalt,1206|WD~Saxony-Anhalt,1206]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt|Sachsen-Anhalt]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.public|Sachsen-Anhalt.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.internal|Sachsen-Anhalt.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.protect|Sachsen-Anhalt.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.private|Sachsen-Anhalt.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.personal|Sachsen-Anhalt.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.secret|Sachsen-Anhalt.secret]]"
+dv_has_place_country: "[[../../Germany|Germany]]"
+dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/State|State]]"
 dv_has_place_longitude: 11.7371
 dv_has_place_latitude: 51.8905
 dv_is_same_as:
-- '[[../../../../../../WikiData/WD~Saxony-Anhalt,1206|WD~Saxony-Anhalt,1206]]'
-- '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt|Sachsen-Anhalt]]'
-- '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.public|Sachsen-Anhalt.public]]'
-- '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.internal|Sachsen-Anhalt.internal]]'
-- '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.protect|Sachsen-Anhalt.protect]]'
-- '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.private|Sachsen-Anhalt.private]]'
-- '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.personal|Sachsen-Anhalt.personal]]'
-- '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.secret|Sachsen-Anhalt.secret]]'
+  - "[[../../../../../../WikiData/WD~Saxony-Anhalt,1206|WD~Saxony-Anhalt,1206]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt|Sachsen-Anhalt]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.public|Sachsen-Anhalt.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.internal|Sachsen-Anhalt.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.protect|Sachsen-Anhalt.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.private|Sachsen-Anhalt.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.personal|Sachsen-Anhalt.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen-Anhalt.secret|Sachsen-Anhalt.secret]]"
 dv_has_:
   name_:
     af: Sakse-Anhalt
@@ -377,6 +377,7 @@ dv_has_:
     zh_hans: 萨克森-安哈尔特州
     zh_hant: 薩克森-安哈爾特州
     zh_tw: 薩克森-安哈特邦
+hist_area_km2: {"25": 2399.25,"50": 3380.09,"75": 4297.65,"100": 2965.41,"125": 1849.77,"150": 1334.4,"175": 981.78,"200": 714.67,"225": 504.01,"250": 375.24,"275": 355.32,"300": 231.25,"325": 125.53,"350": 100.35,"375": 104.7,"400": 119.59,"425": 134.72,"450": 113.49,"475": 114.79,"500": 116.75,"525": 83.88,"550": 61.78,"575": 34.68,"600": 16.6,"625": 10.19,"650": 7.38,"675": 7.12,"700": 6.39,"725": 5.1,"750": 3.63,"775": 3.41,"800": 3.25,"825": 4.2,"850": 3.87,"875": 3.45,"900": 2.89,"925": 2.09,"950": 1.48,"975": 1.48,"1000": 1.43,"1025": 1.18,"1050": 0.59,"1075": 0.43,"1100": 0.29,"1125": 0.21}
 ---
 
 # [[Sachsen-Anhalt]] 

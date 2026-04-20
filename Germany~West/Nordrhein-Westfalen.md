@@ -1,259 +1,259 @@
 ---
 aliases:
-- Amianan a Renania-Wespalia
-- Hilagang Renania-Westfalia
-- Ipar Renania-Westfalia
-- Kuzey Ren-Vestfalya
-- Nadrenia Północna-Westfalia
-- Noardryn-Westfalen
-- Nolüdarinän-Vesfalän
-- Noordreyn-Westfalen
-- Noordrhain-Westfele
-- Noordrhien-Westfalen
-- Noordrien-Wesfale
-- Noordrijn-Westfalen
-- Noordryn-Wesfale
-- Nord Ren-Vestfalie
-- Nord Reno-Westfalia
-- Nord-Rhénanie-Westfalie
-- Nordrejn-Vestfalio
-- Nordrhein-Vestfalia
-- Nordrhein-Westfalen
-- Nordrhein-Westfalen suyu
-- Nordrhein-Westfalska
-- Nordrhein-Wéstfalen
-- Nordrheno-Vestfalia
-- Nordrhin-Weestfåålen
-- Nordrhoi-Weschdfaale
-- Nordrhoi-Wessfoale
-- Nordrhy-Westfale
-- Nordu Renu-Westfalia
-- North Rhine-Westphalia
-- North Rhine-Westphalie
-- Norðurrín-Vestfalía
-- Norþrīn-Westfeldas
-- Noudrhien-Wäästfoalen
-- Nòrd Ren-Westfalia
-- Pet Rhine-Westphalia
-- Rain dal Nord-Vestfalia
-- Rein-ya-Nola-Falí-ya-Límbe
-- Ren-Westfalya Zımey
-- Renania d'o Norte-Westfalia
-- Renania de Nord-Westfalia
-- Renania del Norte-Westfalia
-- Renania do Norte-Westfalia - Nordrhein-Westfalen
-- Renania do Nòrd-Vestfall-ia
-- Renania Settentrionale-Vestfalia
-- Renàgna Setentriunàla-Vestfàglia
-- Renània del Nòrd-Vestfàlia
-- Renânia do Norte-Vestfália
-- Rhein Mictlāmpa-Westfalen
-- Rhenania del Nord - Westfalia
-- Rhenania Septentrionalis et Vestfalia
-- Rhine Kaskazini-Westfalia
-- Rhine-Westphalia Kalér
-- Rhénanie-du-Nord-Westphalie
-- Rin del Nord - Westfàlia
-- Severno Porenje - Vestfalija
-- Severné Porýnie-Vestfálsko
-- Severní Porýní-Vestfálsko
-- Sewjerorynsko-Westfalska
-- Shimoliy Reyn-Vestfaliya
-- Sjeverna Rajna-Vestfalija
-- Tuaisceart na Réine agus an Viostfáil
-- Xaremə Reyn-Vestfaliya
-- Yn Rhine Hwoaie-Westfalen
-- Yvate Rrenania-Westfalia
-- Ziemeļreina-Vestfālene
-- Çурçĕр Рейн-Вестфали
-- Észak-Rajna-Vesztfália
-- Şimali Reyn-Vestfaliya
-- Şimaliy Reyn-Vestfaliya
-- Šiaurės Reinas-Vestfalija
-- Βόρεια Ρηνανία-Βεστφαλία
-- Кельмеширень Рэйн-Вэстфалия
-- Къилбаседа Рейн-Вестфали
-- Північний Рейн-Вестфалія
-- Паўночны Райн — Вэстфалія
-- Паўночны Рэйн-Вестфалія
-- Рейн-Вестфалияи Шимолӣ
-- Северен Рейн-Вестфалия
-- Севернє Поріня-Вестфалія
-- Северна Рајна-Вестфалија
-- Северный Рейн-Вестфалия
-- Солтүстік Рейн-Вестфалия
-- Төньяк Райн-Вестфалия
-- Төньяҡ Рейн-Вестфалия
-- Уйпал Рейн-Вестфалия
-- Умар Райн-Вестфален
-- Хотугу Рейн-Вестфалия
-- Цæгат Рейн-Вестфали
-- Հիւսիսային Ռայն- Ուեսթֆալիա
-- Հյուսիսային Հռենոս-Վեստֆալիա
-- נארד ריין-וועסטפאליע
-- נורדריין-וסטפאליה
-- اتلا رائین لیندا فالیہ
-- شمال الراين-وستفاليا
-- نارٿ رائن وستڦيليا
-- نوردرائن-ویسٹ فالیا
-- نوردراين-ڤيسفالين
-- نوردراین-وستفالن
-- ڕاینی باکوور-وێستفالیا
-- उत्तरी राइन
-- नर्थ राइन वेस्टफेलिया
-- नोर्डऱ्हाइन-वेस्टफालन
-- নর্টরাইন-ভেস্টফালেন
-- ਉੱਤਰੀ ਰਾਈਨ-ਪੱਛਮੀ ਫ਼ਾਲਨ
-- નોર્થ રાઇન-વેસ્ટફાલિયા
-- வட ரைன்-வெஸ்ட்ஃபாலியா
-- నార్త్ రైన్-వెస్ట్ఫాలియా
-- ಉತ್ತರ ರೈನ್-ವೆಸ್ಟ್ಫಾಲಿಯಾ
-- നോർത്ത് റൈൻ-വെസ്റ്റ്ഫാലിയ
-- උතුරු රයිනේ- වෙස්ට්ෆාලියා
-- รัฐนอร์ทไรน์-เว็สท์ฟาเลิน
-- ოორუე რაინ-ვესტფალია
-- ჩრდილოეთი რაინ-ვესტფალია
-- ኖርድራይን-ቬስትፋለን
-- ノルトライン＝ヴェストファーレン州
-- 北莱茵-威斯特法伦
-- 北莱茵-威斯特法伦州
-- 北萊因-威斯特法倫
-- 北萊茵-威斯特法倫
-- 北萊茵-威斯特法倫州
-- 北萊茵－西法倫
-- 노르트라인베스트팔렌주
+  - Amianan a Renania-Wespalia
+  - Hilagang Renania-Westfalia
+  - Ipar Renania-Westfalia
+  - Kuzey Ren-Vestfalya
+  - Nadrenia Północna-Westfalia
+  - Noardryn-Westfalen
+  - Nolüdarinän-Vesfalän
+  - Noordreyn-Westfalen
+  - Noordrhain-Westfele
+  - Noordrhien-Westfalen
+  - Noordrien-Wesfale
+  - Noordrijn-Westfalen
+  - Noordryn-Wesfale
+  - Nord Ren-Vestfalie
+  - Nord Reno-Westfalia
+  - Nord-Rhénanie-Westfalie
+  - Nordrejn-Vestfalio
+  - Nordrhein-Vestfalia
+  - Nordrhein-Westfalen
+  - Nordrhein-Westfalen suyu
+  - Nordrhein-Westfalska
+  - Nordrhein-Wéstfalen
+  - Nordrheno-Vestfalia
+  - Nordrhin-Weestfåålen
+  - Nordrhoi-Weschdfaale
+  - Nordrhoi-Wessfoale
+  - Nordrhy-Westfale
+  - Nordu Renu-Westfalia
+  - North Rhine-Westphalia
+  - North Rhine-Westphalie
+  - Norðurrín-Vestfalía
+  - Norþrīn-Westfeldas
+  - Noudrhien-Wäästfoalen
+  - Nòrd Ren-Westfalia
+  - Pet Rhine-Westphalia
+  - Rain dal Nord-Vestfalia
+  - Rein-ya-Nola-Falí-ya-Límbe
+  - Ren-Westfalya Zımey
+  - Renania d'o Norte-Westfalia
+  - Renania de Nord-Westfalia
+  - Renania del Norte-Westfalia
+  - Renania do Norte-Westfalia - Nordrhein-Westfalen
+  - Renania do Nòrd-Vestfall-ia
+  - Renania Settentrionale-Vestfalia
+  - Renàgna Setentriunàla-Vestfàglia
+  - Renània del Nòrd-Vestfàlia
+  - Renânia do Norte-Vestfália
+  - Rhein Mictlāmpa-Westfalen
+  - Rhenania del Nord - Westfalia
+  - Rhenania Septentrionalis et Vestfalia
+  - Rhine Kaskazini-Westfalia
+  - Rhine-Westphalia Kalér
+  - Rhénanie-du-Nord-Westphalie
+  - Rin del Nord - Westfàlia
+  - Severno Porenje - Vestfalija
+  - Severné Porýnie-Vestfálsko
+  - Severní Porýní-Vestfálsko
+  - Sewjerorynsko-Westfalska
+  - Shimoliy Reyn-Vestfaliya
+  - Sjeverna Rajna-Vestfalija
+  - Tuaisceart na Réine agus an Viostfáil
+  - Xaremə Reyn-Vestfaliya
+  - Yn Rhine Hwoaie-Westfalen
+  - Yvate Rrenania-Westfalia
+  - Ziemeļreina-Vestfālene
+  - Çурçĕр Рейн-Вестфали
+  - Észak-Rajna-Vesztfália
+  - Şimali Reyn-Vestfaliya
+  - Şimaliy Reyn-Vestfaliya
+  - Šiaurės Reinas-Vestfalija
+  - Βόρεια Ρηνανία-Βεστφαλία
+  - Кельмеширень Рэйн-Вэстфалия
+  - Къилбаседа Рейн-Вестфали
+  - Північний Рейн-Вестфалія
+  - Паўночны Райн — Вэстфалія
+  - Паўночны Рэйн-Вестфалія
+  - Рейн-Вестфалияи Шимолӣ
+  - Северен Рейн-Вестфалия
+  - Севернє Поріня-Вестфалія
+  - Северна Рајна-Вестфалија
+  - Северный Рейн-Вестфалия
+  - Солтүстік Рейн-Вестфалия
+  - Төньяк Райн-Вестфалия
+  - Төньяҡ Рейн-Вестфалия
+  - Уйпал Рейн-Вестфалия
+  - Умар Райн-Вестфален
+  - Хотугу Рейн-Вестфалия
+  - Цæгат Рейн-Вестфали
+  - Հիւսիսային Ռայն- Ուեսթֆալիա
+  - Հյուսիսային Հռենոս-Վեստֆալիա
+  - נארד ריין-וועסטפאליע
+  - נורדריין-וסטפאליה
+  - اتلا رائین لیندا فالیہ
+  - شمال الراين-وستفاليا
+  - نارٿ رائن وستڦيليا
+  - نوردرائن-ویسٹ فالیا
+  - نوردراين-ڤيسفالين
+  - نوردراین-وستفالن
+  - ڕاینی باکوور-وێستفالیا
+  - उत्तरी राइन
+  - नर्थ राइन वेस्टफेलिया
+  - नोर्डऱ्हाइन-वेस्टफालन
+  - নর্টরাইন-ভেস্টফালেন
+  - ਉੱਤਰੀ ਰਾਈਨ-ਪੱਛਮੀ ਫ਼ਾਲਨ
+  - નોર્થ રાઇન-વેસ્ટફાલિયા
+  - வட ரைன்-வெஸ்ட்ஃபாலியா
+  - నార్త్ రైన్-వెస్ట్ఫాలియా
+  - ಉತ್ತರ ರೈನ್-ವೆಸ್ಟ್ಫಾಲಿಯಾ
+  - നോർത്ത് റൈൻ-വെസ്റ്റ്ഫാലിയ
+  - උතුරු රයිනේ- වෙස්ට්ෆාලියා
+  - รัฐนอร์ทไรน์-เว็สท์ฟาเลิน
+  - ოორუე რაინ-ვესტფალია
+  - ჩრდილოეთი რაინ-ვესტფალია
+  - ኖርድራይን-ቬስትፋለን
+  - ノルトライン＝ヴェストファーレン州
+  - 北莱茵-威斯特法伦
+  - 北莱茵-威斯特法伦州
+  - 北萊因-威斯特法倫
+  - 北萊茵-威斯特法倫
+  - 北萊茵-威斯特法倫州
+  - 北萊茵－西法倫
+  - 노르트라인베스트팔렌주
 has_id_wikidata: Q1198
-archives_at: '[[_Standards/WikiData/WD~State Archives of North Rhine-Westphalia|WD~State Archives of North Rhine-Westphalia]]'
+archives_at: "[[_Standards/WikiData/WD~State Archives of North Rhine-Westphalia|WD~State Archives of North Rhine-Westphalia]]"
 area: 34112.52
 Basisklassifikation: 15.53
-capital: '[[_Standards/WikiData/WD~Düsseldorf|WD~Düsseldorf]]'
-coat_of_arms: '[[_Standards/WikiData/WD~coat of arms of North Rhine-Westphalia|WD~coat of arms of North Rhine-Westphalia]]'
+capital: "[[_Standards/WikiData/WD~Düsseldorf|WD~Düsseldorf]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of North Rhine-Westphalia|WD~coat of arms of North Rhine-Westphalia]]"
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20North%20Rhine-Westphalia.svg
 Commons_category: North Rhine-Westphalia
 Commons_gallery: Nordrhein-Westfalen
 Confidential: public
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Detmold Government Region|WD~Detmold Government Region]]'
-- '[[_Standards/WikiData/WD~Münster Government Region|WD~Münster Government Region]]'
-- '[[_Standards/WikiData/WD~Düsseldorf Government Region|WD~Düsseldorf Government Region]]'
-- '[[_Standards/WikiData/WD~Cologne Government Region|WD~Cologne Government Region]]'
-- '[[_Standards/WikiData/WD~Arnsberg Government Region|WD~Arnsberg Government Region]]'
+  - "[[_Standards/WikiData/WD~Detmold Government Region|WD~Detmold Government Region]]"
+  - "[[_Standards/WikiData/WD~Münster Government Region|WD~Münster Government Region]]"
+  - "[[_Standards/WikiData/WD~Düsseldorf Government Region|WD~Düsseldorf Government Region]]"
+  - "[[_Standards/WikiData/WD~Cologne Government Region|WD~Cologne Government Region]]"
+  - "[[_Standards/WikiData/WD~Arnsberg Government Region|WD~Arnsberg Government Region]]"
 coordinate_location: Point(7.55 51.466666666)
-country: '[[_Standards/WikiData/WD~Germany|WD~Germany]]'
+country: "[[_Standards/WikiData/WD~Germany|WD~Germany]]"
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6|WD~Armenian Soviet Encyclopedia, vol. 6]]'
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 6|WD~Armenian Soviet Encyclopedia, vol. 6]]"
 Dewey_Decimal_Classification: 2--4355
-economy_of_topic: '[[_Standards/WikiData/WD~economy of North Rhine-Westphalia|WD~economy of North Rhine-Westphalia]]'
+economy_of_topic: "[[_Standards/WikiData/WD~economy of North Rhine-Westphalia|WD~economy of North Rhine-Westphalia]]"
 elevation_above_sea_level: 45
 Facebook_username: NRW
 FIPS_10_4_countries_and_regions_: GM07
-flag: '[[_Standards/WikiData/WD~flag of North Rhine-Westphalia|WD~flag of North Rhine-Westphalia]]'
+flag: "[[_Standards/WikiData/WD~flag of North Rhine-Westphalia|WD~flag of North Rhine-Westphalia]]"
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20North%20Rhine-Westphalia.svg
-follows: '[[_Standards/WikiData/WD~North Rhine|WD~North Rhine]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography of North Rhine-Westphalia|WD~geography of North Rhine-Westphalia]]'
+follows: "[[_Standards/WikiData/WD~North Rhine|WD~North Rhine]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography of North Rhine-Westphalia|WD~geography of North Rhine-Westphalia]]"
 geoshape: http://commons.wikimedia.org/data/main/Data:Nordrhein-Westfalen.map
 German_regional_key: 5
 HASC:
-- DE.NW
+  - DE.NW
 hashtag:
-- NRW
-has_part_s_: '[[_Standards/WikiData/WD~Rhine-Ruhr Metropolitan Region|WD~Rhine-Ruhr Metropolitan Region]]'
+  - NRW
+has_part_s_: "[[_Standards/WikiData/WD~Rhine-Ruhr Metropolitan Region|WD~Rhine-Ruhr Metropolitan Region]]"
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~district of Germany|WD~district of Germany]]'
-- '[[_Standards/WikiData/WD~Regierungsbezirk|WD~Regierungsbezirk]]'
-- '[[_Standards/WikiData/WD~independent city of Germany|WD~independent city of Germany]]'
+  - "[[_Standards/WikiData/WD~district of Germany|WD~district of Germany]]"
+  - "[[_Standards/WikiData/WD~Regierungsbezirk|WD~Regierungsbezirk]]"
+  - "[[_Standards/WikiData/WD~independent city of Germany|WD~independent city of Germany]]"
 has_time_started: 1946-08-23
-head_of_government: '[[_Standards/WikiData/WD~Hendrik Wüst|WD~Hendrik Wüst]]'
-highest_judicial_authority: '[[_Standards/WikiData/WD~Constitutional Court of North Rhine-Westphalia|WD~Constitutional Court of North Rhine-Westphalia]]'
-highest_point: '[[_Standards/WikiData/WD~Langenberg|WD~Langenberg]]'
-history_of_topic: '[[_Standards/WikiData/WD~history of North Rhine-Westphalia|WD~history of North Rhine-Westphalia]]'
+head_of_government: "[[_Standards/WikiData/WD~Hendrik Wüst|WD~Hendrik Wüst]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Constitutional Court of North Rhine-Westphalia|WD~Constitutional Court of North Rhine-Westphalia]]"
+highest_point: "[[_Standards/WikiData/WD~Langenberg|WD~Langenberg]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of North Rhine-Westphalia|WD~history of North Rhine-Westphalia]]"
 icon: Flag_of_North_Rhine-Westphalia
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rhine%20from%20Bonn%20to%20Cologne.jpeg
 inception: 1946-08-23
 Instagram_username: land.nrw
 instance_of:
-- '[[_Standards/WikiData/WD~federated state of Germany|WD~federated state of Germany]]'
+  - "[[_Standards/WikiData/WD~federated state of Germany|WD~federated state of Germany]]"
 isDeleted: false
 ISNI: 109415702
 ISO3166_2: DE-NW
 ISO_3166_2_code: DE-NW
 language_used:
-- '[[_Standards/WikiData/WD~Westphalian|WD~Westphalian]]'
-- '[[_Standards/WikiData/WD~Ripuarian|WD~Ripuarian]]'
+  - "[[_Standards/WikiData/WD~Westphalian|WD~Westphalian]]"
+  - "[[_Standards/WikiData/WD~Ripuarian|WD~Ripuarian]]"
 legislative_body:
-- '[[_Standards/WikiData/WD~Landtag of North Rhine-Westphalia|WD~Landtag of North Rhine-Westphalia]]'
+  - "[[_Standards/WikiData/WD~Landtag of North Rhine-Westphalia|WD~Landtag of North Rhine-Westphalia]]"
 Libris_URI: jgvxwsm21s1mktd
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Germany|WD~Germany]]'
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Germany|WD~Germany]]"
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~UTC+01:00|WD~UTC+01:00]]'
-- '[[_Standards/WikiData/WD~UTC+02:00|WD~UTC+02:00]]'
+  - "[[_Standards/WikiData/WD~UTC+01:00|WD~UTC+01:00]]"
+  - "[[_Standards/WikiData/WD~UTC+02:00|WD~UTC+02:00]]"
 location:
-- 51.4279
-- 7.6153
+  - 51.4279
+  - 7.6153
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20North%20Rhine-Westphalia%20in%20Germany.svg
 member_of:
-- '[[_Standards/WikiData/WD~Climate Alliance|WD~Climate Alliance]]'
+  - "[[_Standards/WikiData/WD~Climate Alliance|WD~Climate Alliance]]"
 motto_text:
-- Germany at its best
+  - Germany at its best
 named_after:
-- '[[_Standards/WikiData/WD~Province of Westphalia|WD~Province of Westphalia]]'
-- '[[_Standards/WikiData/WD~North Rhine|WD~North Rhine]]'
+  - "[[_Standards/WikiData/WD~Province of Westphalia|WD~Province of Westphalia]]"
+  - "[[_Standards/WikiData/WD~North Rhine|WD~North Rhine]]"
 native_label:
-- Nordrhein-Westfalen
+  - Nordrhein-Westfalen
 NUTS_code: DEA
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Minister-President of North Rhine-Westphalia|WD~Minister-President of North Rhine-Westphalia]]'
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Minister-President of North Rhine-Westphalia|WD~Minister-President of North Rhine-Westphalia]]"
 official_name: Nordrhein-Westfalen
 official_website: https://www.land.nrw/
 OmegaWiki_Defined_Meaning: 414383
 open_data_portal:
-- '[[_Standards/WikiData/WD~open.nrw|WD~open.nrw]]'
+  - "[[_Standards/WikiData/WD~open.nrw|WD~open.nrw]]"
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Rapsfeld%20banner.jpg
 population: 17932651
 replaces:
-- '[[_Standards/WikiData/WD~Province of Westphalia|WD~Province of Westphalia]]'
-- '[[_Standards/WikiData/WD~Land Lippe|WD~Land Lippe]]'
-- '[[_Standards/WikiData/WD~North Rhine|WD~North Rhine]]'
+  - "[[_Standards/WikiData/WD~Province of Westphalia|WD~Province of Westphalia]]"
+  - "[[_Standards/WikiData/WD~Land Lippe|WD~Land Lippe]]"
+  - "[[_Standards/WikiData/WD~North Rhine|WD~North Rhine]]"
 shares_border_with:
-- '[[_Standards/WikiData/WD~Gelderland|WD~Gelderland]]'
-- '[[_Standards/WikiData/WD~Overijssel|WD~Overijssel]]'
-- '[[_Standards/WikiData/WD~Limburg|WD~Limburg]]'
-- '[[_Standards/WikiData/WD~Province of Liege|WD~Province of Liege]]'
-- '[[_Standards/WikiData/WD~Hesse|WD~Hesse]]'
-- '[[_Standards/WikiData/WD~Lower Saxony|WD~Lower Saxony]]'
-- '[[_Standards/WikiData/WD~Rhineland-Palatinate|WD~Rhineland-Palatinate]]'
-- '[[_Standards/WikiData/WD~Wallonia|WD~Wallonia]]'
+  - "[[_Standards/WikiData/WD~Gelderland|WD~Gelderland]]"
+  - "[[_Standards/WikiData/WD~Overijssel|WD~Overijssel]]"
+  - "[[_Standards/WikiData/WD~Limburg|WD~Limburg]]"
+  - "[[_Standards/WikiData/WD~Province of Liege|WD~Province of Liege]]"
+  - "[[_Standards/WikiData/WD~Hesse|WD~Hesse]]"
+  - "[[_Standards/WikiData/WD~Lower Saxony|WD~Lower Saxony]]"
+  - "[[_Standards/WikiData/WD~Rhineland-Palatinate|WD~Rhineland-Palatinate]]"
+  - "[[_Standards/WikiData/WD~Wallonia|WD~Wallonia]]"
 short_name: NRW
 social_media_followers: 7960
 SpocWebEntityId: 36020
 tags:
-- geo/State
+  - geo/State
 type: State
 X_username: landnrw
 dv_has_name: NordRhein-Westfalen
 dv_has_name_abbreviated: NW
 dv_is_:
   same_as:
-  - '[[../../../../../../WikiData/WD~North_Rhine-Westphalia,1198|WD~North_Rhine-Westphalia,1198]]'
-  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen|Nordrhein-Westfalen]]'
-  - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.public|Nordrhein-Westfalen.public]]'
-  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.internal|Nordrhein-Westfalen.internal]]'
-  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.protect|Nordrhein-Westfalen.protect]]'
-  - '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.private|Nordrhein-Westfalen.private]]'
-  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.personal|Nordrhein-Westfalen.personal]]'
-  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.secret|Nordrhein-Westfalen.secret]]'
-dv_has_place_country: '[[../../Germany|Germany]]'
-dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/State|State]]'
+    - "[[../../../../../../WikiData/WD~North_Rhine-Westphalia,1198|WD~North_Rhine-Westphalia,1198]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen|Nordrhein-Westfalen]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.public|Nordrhein-Westfalen.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.internal|Nordrhein-Westfalen.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.protect|Nordrhein-Westfalen.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.private|Nordrhein-Westfalen.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.personal|Nordrhein-Westfalen.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.secret|Nordrhein-Westfalen.secret]]"
+dv_has_place_country: "[[../../Germany|Germany]]"
+dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/State|State]]"
 dv_has_place_longitude: 7.6153
 dv_has_place_latitude: 51.4279
 dv_is_same_as:
-- '[[../../../../../../WikiData/WD~North_Rhine-Westphalia,1198|WD~North_Rhine-Westphalia,1198]]'
-- '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen|Nordrhein-Westfalen]]'
-- '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.public|Nordrhein-Westfalen.public]]'
-- '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.internal|Nordrhein-Westfalen.internal]]'
-- '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.protect|Nordrhein-Westfalen.protect]]'
-- '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.private|Nordrhein-Westfalen.private]]'
-- '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.personal|Nordrhein-Westfalen.personal]]'
-- '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.secret|Nordrhein-Westfalen.secret]]'
+  - "[[../../../../../../WikiData/WD~North_Rhine-Westphalia,1198|WD~North_Rhine-Westphalia,1198]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen|Nordrhein-Westfalen]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.public|Nordrhein-Westfalen.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.internal|Nordrhein-Westfalen.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.protect|Nordrhein-Westfalen.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.private|Nordrhein-Westfalen.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.personal|Nordrhein-Westfalen.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen.secret|Nordrhein-Westfalen.secret]]"
 dv_has_:
   name_:
     af: Noordryn-Wesfale
@@ -427,6 +427,7 @@ dv_has_:
     zh_hans: 北莱茵-威斯特法伦州
     zh_hant: 北萊茵-威斯特法倫州
     zh_hk: 北萊因-威斯特法倫
+hist_area_km2: {"-75": 13.38,"-50": 4.06,"-25": 4.98,"0": 92.96,"25": 2848.85,"50": 6724.15,"75": 5376.74,"100": 2861.49,"125": 1741.99,"150": 1417.41,"175": 1259.33,"200": 1154.81,"225": 1082.4,"250": 989.49,"275": 926.66,"300": 906.43,"325": 864.75,"350": 809.65,"375": 783.33,"400": 731.3,"425": 644.7,"450": 534.57,"475": 472.18,"500": 439.42,"525": 410.59,"550": 341.56,"575": 275.74,"600": 221.06,"625": 165.09,"650": 108.32,"675": 74.38,"700": 49.5,"725": 33.49,"750": 20.67,"775": 14.33,"800": 7.25,"825": 2.24}
 ---
 
 # [[Nordrhein-Westfalen]]
