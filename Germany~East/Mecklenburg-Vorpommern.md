@@ -408,11 +408,14 @@ is_a = `=this.dv_is_a_`
 
 ```leaflet
 id: Mecklenburg-Vorpommern
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Mecklenburg-Vorpommern/
 markerFolder: ./Mecklenburg-Vorpommern/
+coordinates: [[Mecklenburg-Vorpommern]] 
+markerFile: [[Mecklenburg-Vorpommern]] 
+defaultZoom: 7
 ```
 
 has_place_country = `=this.dv_has_place_country`

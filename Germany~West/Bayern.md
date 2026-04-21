@@ -664,10 +664,10 @@ has_image_for_flag = `=embed(this.dv_has_image_for_flag)`
 
 ```leaflet
 id: Bayern
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 4 
 maxZoom: 18
-defaultZoom: 11 
+defaultZoom: 7 
 coordinates: [[Bayern]] 
 markerFile: [[Bayern]] 
 geojsonFolder: ./Bayern/

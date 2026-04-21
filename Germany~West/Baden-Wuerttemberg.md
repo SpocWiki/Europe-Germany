@@ -459,11 +459,14 @@ has_name_abbreviated = `=this.dv_has_name_abbreviated`
 
 ```leaflet
 id: Baden-Wuerttemberg
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Baden-Wuerttemberg/
 markerFolder: ./Baden-Wuerttemberg/
+coordinates: [[Baden-Wuerttemberg]] 
+markerFile: [[Baden-Wuerttemberg]] 
+defaultZoom: 7
 ```
 
 has_place_country = `=this.dv_has_place_country`

@@ -410,11 +410,14 @@ is_a = `=this.dv_is_a_`
 
 ```leaflet
 id: Saarland
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 4 
 maxZoom: 18
+defaultZoom: 7
 geojsonFolder: ./Saarland/
 markerFolder: ./Saarland/
+coordinates: [[Saarland]] 
+markerFile: [[Saarland]] 
 ```
 
 has_place_country = `=this.dv_has_place_country`
@@ -426,6 +429,32 @@ Capital :: [[Saarbruecken]]
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
+
+
+### Area by Elevation 
+
+```dataviewjs
+await dv.view("_orga/JS/SparkLine", { histogram: dv.current().hist_area_km2
+, scale: "lin"
+, minRow: 0
+, maxRow: 20
+, widthFrom : "all"
+});
+```
+
+
+
+```dataviewjs
+dv.view("_orga/JS/Histogram", {
+value: dv.current().hist_area_km2
+, scale: "lin", width: 60
+, minRow: 0
+, maxRow: 20
+, widthFrom : "all"
+});
+```
+
+
 
 
 ## Confidential Links & Embeds: 

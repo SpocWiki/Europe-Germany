@@ -536,8 +536,11 @@ id: Rheinland-Pfalz
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
+defaultZoom: 7
 geojsonFolder: ./Rheinland-Pfalz/
 markerFolder: ./Rheinland-Pfalz/
+coordinates: [[Rheinland-Pfalz]] 
+markerFile: [[Rheinland-Pfalz]] 
 ```
 
 has_place_country = `=this.dv_has_place_country`
@@ -549,6 +552,32 @@ Capital :: [[Mainz]]
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
+
+
+### Area by Elevation 
+
+```dataviewjs
+await dv.view("_orga/JS/SparkLine", { histogram: dv.current().hist_area_km2
+, scale: "lin"
+, minRow: 0
+, maxRow: 20
+, widthFrom : "all"
+});
+```
+
+
+
+```dataviewjs
+dv.view("_orga/JS/Histogram", {
+value: dv.current().hist_area_km2
+, scale: "lin", width: 60
+, minRow: 0
+, maxRow: 20
+, widthFrom : "all"
+});
+```
+
+
 
 
 ## Confidential Links & Embeds: 

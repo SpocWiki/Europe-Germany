@@ -462,11 +462,14 @@ is_a = `=this.dv_is_a_`
 
 ```leaflet
 id: Thüringen
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Thüringen/
 markerFolder: ./Thüringen/
+coordinates: [[Thüringen]] 
+markerFile: [[Thüringen]] 
+defaultZoom: 7
 ```
 
 has_place_country = `=this.dv_has_place_country`

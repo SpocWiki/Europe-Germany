@@ -443,14 +443,14 @@ is_a = `=this.dv_is_a_`
 
 ```leaflet
 id: Sachsen
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Sachsen/
 markerFolder: ./Sachsen/
 coordinates: [[Sachsen]] 
 markerFile: [[Sachsen]] 
-defaultZoom: 11 
+defaultZoom: 7
 ```
 
 has_place_country = `=this.dv_has_place_country`
