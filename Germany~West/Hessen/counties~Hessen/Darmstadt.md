@@ -330,6 +330,7 @@ dv_has_:
     zh_hant: 達姆施塔特
     zh_tw: 達姆施塔特
     zu: Darmstadt
+hist_area_km2: {"100": 5.76977,"125": 45.82415,"150": 23.1404,"175": 27.18015,"200": 14.20906,"225": 4.14219,"250": 2.46095,"275": 0.08204}
 ---
 
 # [[Darmstadt]] 
@@ -365,6 +366,32 @@ minZoom: 5
 [[../../../../../../../../../assets/geo/Europe/Germany/Hessen/Darmstadt~Mathildenhoehe.webp|Darmstadt~Mathildenhoehe.webp]] 
 ![[../../../../../../../../../assets/geo/Europe/Germany/Hessen/Darmstadt~Mathildenhoehe.webp|Darmstadt~Mathildenhoehe.webp]] 
 Mathildenhöhe Darmstadt (2021) 
+
+
+### Area by Elevation 
+
+```dataviewjs
+await dv.view("_orga/JS/SparkLine", { histogram: dv.current().hist_area_km2
+, scale: "lin"
+, minRow: 0
+, widthFrom : "all"
+});
+```
+
+
+
+```dataviewjs
+dv.view("_orga/JS/Histogram", {
+value: dv.current().hist_area_km2
+, scale: "lin", width: 60
+, minRow: 0
+, maxRow: 60
+, widthFrom : "all"
+});
+```
+
+
+
 
 ## #has_/text_of_/abstract 
 
