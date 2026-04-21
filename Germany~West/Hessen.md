@@ -411,6 +411,18 @@ await dv.view("_orga/JS/SparkLine", { histogram: dv.current().hist_area_km2
 
 
 ```dataviewjs
+await dv.view("_orga/JS/SparkLine", { histogram: dv.current().sine
+, scale: "lin"
+, minRow: 0
+, maxRow: 20
+, min: 0
+, max: 1
+, widthFrom : "all"
+});
+```
+
+
+```dataviewjs
 dv.view("_orga/JS/Histogram", {
 value: dv.current().hist_area_km2
 , scale: "lin", width: 60
