@@ -392,12 +392,35 @@ markerFile: [[Hessen]]
 has_place_country = `=this.dv_has_place_country`
 Capital :: [[Wiesbaden]]  
 
-
-
  is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
+
+
+```dataviewjs
+await dv.view("_orga/JS/SparkLine", { histogram: dv.current().hist_area_km2
+, scale: "lin"
+, minRow: 0
+, maxRow: 20
+, widthFrom : "all"
+});
+```
+
+
+
+```dataviewjs
+dv.view("_orga/JS/Histogram", {
+value: dv.current().hist_area_km2
+, scale: "lin", width: 60
+, minRow: 0
+, maxRow: 20
+, widthFrom : "all"
+});
+```
+
+
+
 
 ## #has_/text_of_/abstract 
 
