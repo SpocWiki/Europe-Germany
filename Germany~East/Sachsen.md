@@ -453,6 +453,29 @@ markerFile: [[Sachsen]]
 defaultZoom: 7
 ```
 
+### #has_map_/topologic 
+
+```leaflet
+id: Austria_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+geojsonFolder: ./Sachsen/
+markerFolder: ./Sachsen/
+coordinates: [[Sachsen]] 
+markerFile: [[Sachsen]] 
+defaultZoom: 7
+unit: px
+scale: 1
+darkMode: false
+```
+
+
+
 has_place_country = `=this.dv_has_place_country`
 Capital :: [[Dresden]] ] 
 
@@ -462,6 +485,32 @@ Capital :: [[Dresden]] ]
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
+
+
+### Area by Elevation 
+
+```dataviewjs
+await dv.view("_orga/JS/SparkLine", { histogram: dv.current().hist_area_km2
+, scale: "lin"
+, minRow: 0
+, maxRow: 30
+, widthFrom : "all"
+});
+```
+
+
+
+```dataviewjs
+dv.view("_orga/JS/Histogram", {
+value: dv.current().hist_area_km2
+, scale: "lin", width: 60
+, minRow: 0
+, maxRow: 30
+, widthFrom : "all"
+});
+```
+
+
 
 
 ## Confidential Links & Embeds: 

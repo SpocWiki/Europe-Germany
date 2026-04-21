@@ -570,6 +570,7 @@ official_jobs_URL: https://sei-dabay.de/
 IMDb_keyword: bavaria
 P1015: 90614476
 WikiTree_category_or_space: 'Category: Bavaria, Germany'
+hist_area_km2: {"100": 19.26,"125": 140.47,"150": 114.06,"175": 188.52,"200": 321.98,"225": 631.87,"250": 987.63,"275": 1486.41,"300": 2178.07,"325": 3369.39,"350": 3155.54,"375": 3799.16,"400": 4362.63,"425": 5356.69,"450": 5885.42,"475": 6361.16,"500": 5661.96,"525": 4538.44,"550": 3349.26,"575": 2599.46,"600": 2135.48,"625": 1657.19,"650": 1329.8,"675": 1087.7,"700": 957.45,"725": 908.56,"750": 767.16,"775": 693.94,"800": 639.86,"825": 521.35,"850": 426.09,"875": 346.7,"900": 306.35,"925": 249.99,"950": 207.11,"975": 186.2,"1000": 173.98,"1025": 165.79,"1050": 160.27,"1075": 149.42,"1100": 143.17,"1125": 140.95,"1150": 130.85,"1175": 125.98,"1200": 121.75,"1225": 113.33,"1250": 101.72,"1275": 98.92,"1300": 91.77,"1325": 84.73,"1350": 81.32,"1375": 77.03,"1400": 71.55,"1425": 67.7,"1450": 62.53,"1475": 57.5,"1500": 54.33,"1525": 50.04,"1550": 47.51,"1575": 42.53,"1600": 40.78,"1625": 35.65,"1650": 33.45,"1675": 30.92,"1700": 27.33,"1725": 25.56,"1750": 22.81,"1775": 20.42,"1800": 19.79,"1825": 18.42,"1850": 17.3,"1875": 15.34,"1900": 15.0,"1925": 13.4,"1950": 11.89,"1975": 11.86,"2000": 10.42,"2025": 9.66,"2050": 8.66,"2075": 8.66,"2100": 7.24,"2125": 6.12,"2150": 5.88,"2175": 5.62,"2200": 4.62,"2225": 4.27,"2250": 3.43,"2275": 2.88,"2300": 3.07,"2325": 2.62,"2350": 2.18,"2375": 2.48,"2400": 2.22,"2425": 1.75,"2450": 1.48,"2475": 1.28,"2500": 1.22,"2525": 1.05,"2550": 0.93,"2575": 0.8,"2600": 0.77}
 ---
 
 # [[Bayern]] 
@@ -675,15 +676,63 @@ markerFolder: ./Bayern/
 ```
 
 
+### #has_map_/topologic 
+
+```leaflet
+id: Austria_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 7 
+coordinates: [[Bayern]] 
+markerFile: [[Bayern]] 
+geojsonFolder: ./Bayern/
+markerFolder: ./Bayern/
+unit: px
+scale: 1
+darkMode: false
+```
+
+
+
 has_place_country = `=this.dv_has_place_country`
 Capital ::  [[Bayern/counties~Bayern/München,County/City/München,City|München,City]] 
-
-
 
  is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
+
+
+### Area by Elevation 
+
+```dataviewjs
+await dv.view("_orga/JS/SparkLine", { histogram: dv.current().hist_area_km2
+, scale: "lin"
+, minRow: 0
+, maxRow: 30
+, widthFrom : "all"
+});
+```
+
+
+
+```dataviewjs
+dv.view("_orga/JS/Histogram", {
+value: dv.current().hist_area_km2
+, scale: "lin", width: 60
+, minRow: 0
+, maxRow: 30
+, widthFrom : "all"
+});
+```
+
+
+
 
 ## #has_/text_of_/abstract 
 

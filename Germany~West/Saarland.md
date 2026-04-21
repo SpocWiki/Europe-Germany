@@ -420,6 +420,29 @@ coordinates: [[Saarland]]
 markerFile: [[Saarland]] 
 ```
 
+### #has_map_/topologic 
+
+```leaflet
+id: Austria_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 7
+geojsonFolder: ./Saarland/
+markerFolder: ./Saarland/
+coordinates: [[Saarland]] 
+markerFile: [[Saarland]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
+
 has_place_country = `=this.dv_has_place_country`
 Capital :: [[Saarbruecken]]  
 

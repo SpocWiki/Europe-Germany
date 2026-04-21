@@ -452,6 +452,29 @@ markerFile: [[Schleswig-Holstein]]
 defaultZoom: 7
 ```
 
+### #has_map_/topologic 
+
+```leaflet
+id: Austria_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+geojsonFolder: ./Schleswig-Holstein/
+markerFolder: ./Schleswig-Holstein/
+coordinates: [[Schleswig-Holstein]] 
+markerFile: [[Schleswig-Holstein]] 
+defaultZoom: 7
+unit: px
+scale: 1
+darkMode: false
+```
+
+
+
 has_place_country = `=this.dv_has_place_country`
 Capital :: [[Kiel]]  
 

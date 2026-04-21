@@ -423,11 +423,13 @@ dv_has_:
     zh_sg: 巴登-符腾堡州
     zh_tw: 巴登－符腾堡
     zu: Baden-Württemberg
+hist_area_km2: {"75": 6.05,"100": 785.14,"125": 941.44,"150": 656.47,"175": 683.99,"200": 893.97,"225": 1065.78,"250": 965.58,"275": 1005.28,"300": 1069.07,"325": 1191.62,"350": 1185.57,"375": 1145.01,"400": 1551.78,"425": 1494.47,"450": 1683.95,"475": 1737.06,"500": 1565.43,"525": 1362.76,"550": 1282.64,"575": 1394.65,"600": 1306.37,"625": 1251.36,"650": 1391.2,"675": 1324.66,"700": 1141.27,"725": 984.71,"750": 926.56,"775": 729.2,"800": 577.96,"825": 440.09,"850": 372.55,"875": 342.92,"900": 313.28,"925": 261.59,"950": 205.8,"975": 167.27,"1000": 138.92,"1025": 112.51,"1050": 90.39,"1075": 65.81,"1100": 52.15,"1125": 37.32,"1150": 29.06,"1175": 22.53,"1200": 15.91,"1225": 13.3,"1250": 9.55,"1275": 7.03,"1300": 4.75,"1325": 3.5,"1350": 2.35,"1375": 1.48,"1400": 0.88,"1425": 0.65,"1450": 0.57,"1475": 0.28}
 ---
-name = `=this.dv_has_name` 
-has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
 # Baden-Württemberg 
+
+name = `=this.dv_has_name` 
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
 ## #has_/place_/city 
 
@@ -469,6 +471,29 @@ markerFile: [[Baden-Wuerttemberg]]
 defaultZoom: 7
 ```
 
+### #has_map_/topologic 
+
+```leaflet
+id: Austria_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+geojsonFolder: ./Baden-Wuerttemberg/
+markerFolder: ./Baden-Wuerttemberg/
+coordinates: [[Baden-Wuerttemberg]] 
+markerFile: [[Baden-Wuerttemberg]] 
+defaultZoom: 7
+unit: px
+scale: 1
+darkMode: false
+```
+
+
+
 has_place_country = `=this.dv_has_place_country`
 #has_/capital :: [[Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City|Stuttgart,City]]
 
@@ -476,6 +501,35 @@ has_place_country = `=this.dv_has_place_country`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
+
+
+### Area by Elevation 
+
+```dataviewjs
+await dv.view("_orga/JS/SparkLine", { histogram: dv.current().hist_area_km2
+, scale: "lin"
+, minRow: 0
+, maxRow: 30
+, widthFrom : "all"
+});
+```
+
+
+
+```dataviewjs
+dv.view("_orga/JS/Histogram", {
+value: dv.current().hist_area_km2
+, scale: "lin", width: 60
+, minRow: 0
+, maxRow: 30
+, widthFrom : "all"
+});
+```
+
+
+
+
+
 
 ![[Coat_of_arms_of_Baden-Württemberg.svg|350]] 
 
