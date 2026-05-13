@@ -58,7 +58,7 @@ coordinates: [[Koeln-Kalk]]
 markerFile: [[Koeln-Kalk]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

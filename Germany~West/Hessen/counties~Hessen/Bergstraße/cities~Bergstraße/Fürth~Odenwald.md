@@ -58,7 +58,7 @@ coordinates: [[Fuerth~Odenwald]]
 markerFile: [[Fuerth~Odenwald]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

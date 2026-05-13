@@ -61,7 +61,7 @@ maxZoom: 18
 ```
 
 [[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen/Muskauer_Park.webp|Muskauer_Park.webp]]] ![[../../../../../../../../../../../assets/geo/Europe/Germany/Sachsen/Muskauer_Park.webp|Muskauer_Park.webp]]] 
-Muskauer Park/Park Mużakowski ( [[Unesco]] Welterbe seit 2004)  
+Muskauer Park/Park Mużakowski ( [[Unesco]] Welterbe seit 2004) 
 
 
 ## Confidential Links & Embeds: 

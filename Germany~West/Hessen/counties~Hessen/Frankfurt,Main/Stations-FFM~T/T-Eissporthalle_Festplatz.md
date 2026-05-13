@@ -58,7 +58,7 @@ coordinates: [[T-Eissporthalle_Festplatz]]
 markerFile: [[T-Eissporthalle_Festplatz]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

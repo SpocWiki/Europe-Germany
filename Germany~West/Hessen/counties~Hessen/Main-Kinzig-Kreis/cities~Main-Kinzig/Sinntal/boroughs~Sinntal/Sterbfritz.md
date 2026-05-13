@@ -58,7 +58,7 @@ coordinates: [[Sterbfritz]]
 markerFile: [[Sterbfritz]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

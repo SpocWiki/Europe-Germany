@@ -58,7 +58,7 @@ coordinates: [[Muenster]]
 markerFile: [[Muenster]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

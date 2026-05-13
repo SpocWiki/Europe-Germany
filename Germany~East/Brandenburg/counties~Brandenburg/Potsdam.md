@@ -62,7 +62,7 @@ maxZoom: 18
 
 
 ![[../../../../../../../../../assets/geo/Europe/Germany/Brandenburg/Potsdam~Sanssouci.webp|Potsdam~Sanssouci.webp]]] 
-Schlösser und Parks von Potsdam und Berlin (1990)
+Schlösser und Parks von Potsdam und Berlin (1990) 
 
 
 ## Confidential Links & Embeds: 

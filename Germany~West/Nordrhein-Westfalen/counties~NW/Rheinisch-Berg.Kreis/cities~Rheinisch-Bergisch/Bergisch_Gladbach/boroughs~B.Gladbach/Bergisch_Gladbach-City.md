@@ -59,7 +59,7 @@ coordinates: [[Bergisch_Gladbach]]
 markerFile: [[Bergisch_Gladbach]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

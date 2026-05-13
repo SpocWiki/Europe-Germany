@@ -58,7 +58,7 @@ coordinates: [[Dingelstaedt-Eichsfeld]]
 markerFile: [[Dingelstaedt-Eichsfeld]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

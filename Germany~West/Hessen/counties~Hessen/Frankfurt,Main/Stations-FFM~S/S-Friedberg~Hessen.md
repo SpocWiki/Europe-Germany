@@ -57,7 +57,7 @@ coordinates: [[S-Friedberg~Hessen]]
 markerFile: [[S-Friedberg~Hessen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

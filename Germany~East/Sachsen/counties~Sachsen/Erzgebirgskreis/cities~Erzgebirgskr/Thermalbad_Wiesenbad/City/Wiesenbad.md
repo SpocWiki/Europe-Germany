@@ -58,7 +58,7 @@ coordinates: [[Wiesenbad]]
 markerFile: [[Wiesenbad]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

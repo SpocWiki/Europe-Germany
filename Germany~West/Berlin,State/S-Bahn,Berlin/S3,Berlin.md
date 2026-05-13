@@ -72,7 +72,7 @@ S_Warschauer_Straße --> U3_Warschauer_Straße
 
 class S_Spandau,S_Stresow,S_Pichelsberg,S_Olympiastadion,S_Heerstraße,S_Messe_Süd,S_Westkreuz,S_Charlottenburg,S_Savignyplatz,S_Zoologischer_Garten,S_Tiergarten,S_Bellevue,S_Hauptbahnhof,S_Friedrichstraße,S_Hackescher_Markt,S_Alexanderplatz,S_Jannowitzbrücke,S_Ostbahnhof,S_Warschauer_Straße,S_Ostkreuz,S_Rummelsburg,S_Betriebsbahnhof_Rummelsburg,S_Karlshorst,S_Wuhlheide,S_Köpenick,S_Hirschgarten,S_Friedrichshagen,S_Rahnsdorf,S_Wilhelmshagen,S_Erkner blueText;
 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

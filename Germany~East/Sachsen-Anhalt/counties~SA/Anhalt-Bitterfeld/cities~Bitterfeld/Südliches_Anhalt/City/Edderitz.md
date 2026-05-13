@@ -58,7 +58,7 @@ coordinates: [[Edderitz]]
 markerFile: [[Edderitz]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

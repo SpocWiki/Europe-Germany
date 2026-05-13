@@ -67,7 +67,7 @@ to describe this zone of intense economic activity, industrial concentration, an
    the Blue Banana is home to millions of people, 
    with population densities higher than many other European regions.
 3. **Transportation and Trade**: It has some of Europe’s busiest ports (e.g., Rotterdam, Antwerp), 
-   airports (e.g., London Heathrow, Frankfurt), and rail hubs, facilitating trade within Europe and globally.
+   airports (e.g., London Heathrow, Frankfurt), and rail hubs, facilitating trade within Europe and globally. 
 
 
 ## Confidential Links & Embeds: 

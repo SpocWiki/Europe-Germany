@@ -58,7 +58,7 @@ coordinates: [[Garz~Prignitz]]
 markerFile: [[Garz~Prignitz]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

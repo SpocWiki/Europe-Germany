@@ -60,7 +60,7 @@ coordinates: [[T-Nibelungenplatz_FH]]
 markerFile: [[T-Nibelungenplatz_FH]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

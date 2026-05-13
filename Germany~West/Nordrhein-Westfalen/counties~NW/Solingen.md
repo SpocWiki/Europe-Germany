@@ -58,7 +58,7 @@ coordinates: [[Solingen]]
 markerFile: [[Solingen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

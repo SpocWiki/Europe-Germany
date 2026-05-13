@@ -58,7 +58,7 @@ coordinates: [[Halle~Westfahlen]]
 markerFile: [[Halle~Westfahlen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

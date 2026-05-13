@@ -57,7 +57,7 @@ coordinates: [[T-Galluspark]]
 markerFile: [[T-Galluspark]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

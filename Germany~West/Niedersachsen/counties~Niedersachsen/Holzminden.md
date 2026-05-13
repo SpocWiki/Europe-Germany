@@ -59,7 +59,7 @@ markerFile: [[Holzminden]]
 geojsonFolder: ./Holzminden/
 defaultZoom: 10 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

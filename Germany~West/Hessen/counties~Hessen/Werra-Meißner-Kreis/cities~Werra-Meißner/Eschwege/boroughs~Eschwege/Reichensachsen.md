@@ -58,7 +58,7 @@ coordinates: [[Reichensachsen]]
 markerFile: [[Reichensachsen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

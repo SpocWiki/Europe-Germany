@@ -58,7 +58,7 @@ coordinates: [[Seitschen]]
 markerFile: [[Seitschen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

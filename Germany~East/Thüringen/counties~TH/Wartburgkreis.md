@@ -19,7 +19,7 @@ dv_is_same_as:
 ---
 
 [[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Wartburg.webp|Wartburg.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Wartburg.webp|Wartburg.webp]]] 
-Wartburg ( [[Unesco]] Welterbe seit 1999)  
+Wartburg ( [[Unesco]] Welterbe seit 1999) 
 
 
 ## Confidential Links & Embeds: 

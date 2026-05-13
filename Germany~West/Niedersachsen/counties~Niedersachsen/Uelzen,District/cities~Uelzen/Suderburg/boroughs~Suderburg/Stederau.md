@@ -28,5 +28,22 @@ coordinate_location:
 > **Stederau** is a river of Lower Saxony, Germany. 
 > It flows into the [[Ilmenau,River]] south of Uelzen.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Stederau)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Stederau) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Stederau|Stederau]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Stederau.public|Stederau.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Stederau.internal|Stederau.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Stederau.protect|Stederau.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Stederau.private|Stederau.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Stederau.personal|Stederau.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Stederau.secret|Stederau.secret]] 
 

@@ -65,7 +65,7 @@ coordinates: [[U-Deutsche_Nationalbibliothek]]
 markerFile: [[U-Deutsche_Nationalbibliothek]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

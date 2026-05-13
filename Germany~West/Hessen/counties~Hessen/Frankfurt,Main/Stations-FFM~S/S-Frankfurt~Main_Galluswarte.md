@@ -58,7 +58,7 @@ coordinates: [[S-Frankfurt~Main_Galluswarte]]
 markerFile: [[S-Frankfurt~Main_Galluswarte]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

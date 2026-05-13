@@ -58,22 +58,22 @@ coordinates: [[Vastorf]]
 markerFile: [[Vastorf]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Vastorf|Vastorf]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg,District/cities~Lüneburg/Ostheide/boroughs~Ostheide/Vastorf|Vastorf]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Ostheide/boroughs~Ostheide/Vastorf.public|Vastorf.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg,District/cities~Lüneburg/Ostheide/boroughs~Ostheide/Vastorf.public|Vastorf.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Ostheide/boroughs~Ostheide/Vastorf.internal|Vastorf.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg,District/cities~Lüneburg/Ostheide/boroughs~Ostheide/Vastorf.internal|Vastorf.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Ostheide/boroughs~Ostheide/Vastorf.protect|Vastorf.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg,District/cities~Lüneburg/Ostheide/boroughs~Ostheide/Vastorf.protect|Vastorf.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Ostheide/boroughs~Ostheide/Vastorf.private|Vastorf.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg,District/cities~Lüneburg/Ostheide/boroughs~Ostheide/Vastorf.private|Vastorf.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Ostheide/boroughs~Ostheide/Vastorf.personal|Vastorf.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg,District/cities~Lüneburg/Ostheide/boroughs~Ostheide/Vastorf.personal|Vastorf.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg/cities~Lüneburg/Ostheide/boroughs~Ostheide/Vastorf.secret|Vastorf.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg,District/cities~Lüneburg/Ostheide/boroughs~Ostheide/Vastorf.secret|Vastorf.secret]] 
 

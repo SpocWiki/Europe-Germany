@@ -58,7 +58,7 @@ coordinates: [[Sondershausen]]
 markerFile: [[Sondershausen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

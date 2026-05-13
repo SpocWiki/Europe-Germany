@@ -58,7 +58,7 @@ coordinates: [[Seehausen~Altmark]]
 markerFile: [[Seehausen~Altmark]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -58,7 +58,7 @@ coordinates: [[Colditz]]
 markerFile: [[Colditz]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -59,7 +59,7 @@ coordinates: [[Koenigs-Wusterhausen]]
 markerFile: [[Koenigs-Wusterhausen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -36,7 +36,7 @@ dv_is_same_as:
 > Ihr größter Industriezweig ist die Metallindustrie mit gegenwärtig 15 Unternehmen und zirka 700 Beschäftigten. 
 > Außerdem genießt die Stadt aufgrund ihrer Bildungseinrichtungen einen guten Ruf als Schulstadt.
 >
-> [Wikipedia](https://de.wikipedia.org/wiki/Elsterwerda)
+> [Wikipedia](https://de.wikipedia.org/wiki/Elsterwerda) 
 
 
 ## Confidential Links & Embeds: 

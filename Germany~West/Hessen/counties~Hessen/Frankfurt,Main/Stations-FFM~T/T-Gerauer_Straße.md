@@ -58,7 +58,7 @@ coordinates: [[T-Gerauer_Straße]]
 markerFile: [[T-Gerauer_Straße]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

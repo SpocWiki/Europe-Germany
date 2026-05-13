@@ -60,7 +60,7 @@ coordinates: [[S-Frankfurt~Main_Stresemannallee]]
 markerFile: [[S-Frankfurt~Main_Stresemannallee]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

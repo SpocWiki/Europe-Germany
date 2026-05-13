@@ -65,7 +65,7 @@ coordinates: [[U-Bonames_Mitte]]
 markerFile: [[U-Bonames_Mitte]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

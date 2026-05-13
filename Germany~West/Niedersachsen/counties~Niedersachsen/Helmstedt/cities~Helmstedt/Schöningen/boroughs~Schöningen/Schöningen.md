@@ -59,7 +59,7 @@ coordinates: [[Schoeningen]]
 markerFile: [[Schoeningen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

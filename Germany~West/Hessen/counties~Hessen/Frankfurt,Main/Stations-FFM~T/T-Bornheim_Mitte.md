@@ -58,7 +58,7 @@ coordinates: [[T-Bornheim_Mitte]]
 markerFile: [[T-Bornheim_Mitte]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

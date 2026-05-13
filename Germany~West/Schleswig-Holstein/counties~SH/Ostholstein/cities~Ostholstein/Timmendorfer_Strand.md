@@ -59,7 +59,7 @@ coordinates: [[Timmendorfer_Strand]]
 markerFile: [[Timmendorfer_Strand]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

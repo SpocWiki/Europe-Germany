@@ -120,7 +120,7 @@ The Train Connection reduced the Travel Time from 10 days to 2.
 |BASF|1865|Chemicals|€87.3 billion|112,000|Ludwigshafen|Top global dye producer|
 |Bayer|1863|Pharmaceuticals|€50.7 billion|99,000|Leverkusen|Invented Aspirin|
 |Deutsche Bank|1870|Banking|€1.34 trillion*|84,000|Frankfurt|Major international bank|
-|Dresdner Bank|1872|Banking|N/A (Merged)|N/A|Dresden / Frankfurt|Top 3 German bank pre-WWI|
+|Dresdner Bank|1872|Banking|N/A (Merged)|N/A|Dresden / Frankfurt|Top 3 German bank pre-WWI| 
 
 
 ## Confidential Links & Embeds: 

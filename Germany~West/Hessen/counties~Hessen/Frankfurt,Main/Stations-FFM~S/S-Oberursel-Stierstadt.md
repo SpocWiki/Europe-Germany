@@ -57,7 +57,7 @@ coordinates: [[S-Oberursel-Stierstadt]]
 markerFile: [[S-Oberursel-Stierstadt]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

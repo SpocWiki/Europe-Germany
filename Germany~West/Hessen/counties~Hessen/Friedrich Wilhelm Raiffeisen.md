@@ -82,5 +82,22 @@ Based on this idea he came up with the three 'S' formula:
 When put into practice, the necessary independence from 
 - [charity](https://en.wikipedia.org/wiki/Charitable_organization "Charitable organization"), 
 - [politics](https://en.wikipedia.org/wiki/Politics "Politics"), and 
-- loan sharks could be established.
+- loan sharks could be established. 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Friedrich Wilhelm Raiffeisen|Friedrich Wilhelm Raiffeisen]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Friedrich Wilhelm Raiffeisen.public|Friedrich Wilhelm Raiffeisen.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Friedrich Wilhelm Raiffeisen.internal|Friedrich Wilhelm Raiffeisen.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Friedrich Wilhelm Raiffeisen.protect|Friedrich Wilhelm Raiffeisen.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Friedrich Wilhelm Raiffeisen.private|Friedrich Wilhelm Raiffeisen.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Friedrich Wilhelm Raiffeisen.personal|Friedrich Wilhelm Raiffeisen.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Friedrich Wilhelm Raiffeisen.secret|Friedrich Wilhelm Raiffeisen.secret]] 
 

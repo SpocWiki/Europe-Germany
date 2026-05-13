@@ -59,7 +59,7 @@ markerFile: [[Lorsch]]
 defaultZoom: 11 
 maxZoom: 18
 ```[[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Kloster_Lorsch.webp|Kloster_Lorsch.webp]]![[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Kloster_Lorsch.webp|Kloster_Lorsch.webp]]] 
-Kloster Lorsch und Altenmünster ( [[Unesco]] Welterbe seit 1991)
+Kloster Lorsch und Altenmünster ( [[Unesco]] Welterbe seit 1991) 
 
 
 ## Confidential Links & Embeds: 

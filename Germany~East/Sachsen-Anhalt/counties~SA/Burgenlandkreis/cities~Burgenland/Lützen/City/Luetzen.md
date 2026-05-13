@@ -58,7 +58,7 @@ coordinates: [[Luetzen]]
 markerFile: [[Luetzen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

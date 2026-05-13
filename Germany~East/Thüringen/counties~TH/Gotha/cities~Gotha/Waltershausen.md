@@ -58,7 +58,7 @@ coordinates: [[Waltershausen]]
 markerFile: [[Waltershausen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

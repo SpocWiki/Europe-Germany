@@ -58,7 +58,7 @@ coordinates: [[Gronau~Westfahlen]]
 markerFile: [[Gronau~Westfahlen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

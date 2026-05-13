@@ -58,7 +58,7 @@ coordinates: [[Michendorf]]
 markerFile: [[Michendorf]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

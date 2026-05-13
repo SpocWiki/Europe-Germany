@@ -58,7 +58,7 @@ coordinates: [[Neu-Ruppin]]
 markerFile: [[Neu-Ruppin]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

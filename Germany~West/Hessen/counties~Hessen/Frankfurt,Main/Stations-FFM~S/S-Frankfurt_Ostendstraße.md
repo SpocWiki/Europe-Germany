@@ -58,7 +58,7 @@ coordinates: [[S-Frankfurt_Ostendstraße]]
 markerFile: [[S-Frankfurt_Ostendstraße]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

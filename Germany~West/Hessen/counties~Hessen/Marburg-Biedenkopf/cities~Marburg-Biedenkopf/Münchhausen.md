@@ -58,7 +58,7 @@ coordinates: [[Muenchhausen]]
 markerFile: [[Muenchhausen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

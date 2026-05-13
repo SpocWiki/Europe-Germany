@@ -58,7 +58,7 @@ coordinates: [[Feldberg]]
 markerFile: [[Feldberg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

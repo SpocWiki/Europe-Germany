@@ -58,7 +58,7 @@ coordinates: [[Ruhrort]]
 markerFile: [[Ruhrort]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

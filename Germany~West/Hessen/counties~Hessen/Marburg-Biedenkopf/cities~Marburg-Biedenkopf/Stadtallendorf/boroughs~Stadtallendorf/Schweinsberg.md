@@ -58,7 +58,7 @@ coordinates: [[Schweinsberg]]
 markerFile: [[Schweinsberg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

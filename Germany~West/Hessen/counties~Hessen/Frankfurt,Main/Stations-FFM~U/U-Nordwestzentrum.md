@@ -70,7 +70,7 @@ coordinates: [[U-Nordwestzentrum]]
 markerFile: [[U-Nordwestzentrum]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

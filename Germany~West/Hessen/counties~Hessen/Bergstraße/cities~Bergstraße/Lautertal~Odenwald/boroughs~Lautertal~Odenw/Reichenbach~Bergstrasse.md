@@ -58,7 +58,7 @@ coordinates: [[Reichenbach~Bergstrasse]]
 markerFile: [[Reichenbach~Bergstrasse]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

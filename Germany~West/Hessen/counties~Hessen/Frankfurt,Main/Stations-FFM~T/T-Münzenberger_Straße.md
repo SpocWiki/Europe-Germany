@@ -60,7 +60,7 @@ coordinates: [[T-Münzenberger_Straße]]
 markerFile: [[T-Münzenberger_Straße]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

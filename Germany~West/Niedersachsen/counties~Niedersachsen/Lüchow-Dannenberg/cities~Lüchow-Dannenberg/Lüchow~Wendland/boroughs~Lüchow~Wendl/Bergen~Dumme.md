@@ -58,7 +58,7 @@ coordinates: [[Bergen~Dumme]]
 markerFile: [[Bergen~Dumme]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

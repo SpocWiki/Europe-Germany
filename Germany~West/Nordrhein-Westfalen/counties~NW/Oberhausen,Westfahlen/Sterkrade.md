@@ -58,7 +58,7 @@ coordinates: [[Sterkrade]]
 markerFile: [[Sterkrade]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

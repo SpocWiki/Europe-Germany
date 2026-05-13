@@ -66,5 +66,22 @@ Wolfram_Language_entity_code: Entity["River", "Ilmenau::5qt9b"]
 > 
 > Above Lüneburg, the river is popular with canoeists.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ilmenau%20(river))  
+> [Wikipedia](https://en.wikipedia.org/wiki/Ilmenau%20(river)) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Ilmenau,River|Ilmenau,River]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Ilmenau,River.public|Ilmenau,River.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Ilmenau,River.internal|Ilmenau,River.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Ilmenau,River.protect|Ilmenau,River.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Ilmenau,River.private|Ilmenau,River.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Ilmenau,River.personal|Ilmenau,River.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Ilmenau,River.secret|Ilmenau,River.secret]] 
 

@@ -58,7 +58,7 @@ coordinates: [[Friedland~Meklenburg]]
 markerFile: [[Friedland~Meklenburg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

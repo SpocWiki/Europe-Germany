@@ -58,7 +58,7 @@ coordinates: [[Mittel-Stiepel]]
 markerFile: [[Mittel-Stiepel]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

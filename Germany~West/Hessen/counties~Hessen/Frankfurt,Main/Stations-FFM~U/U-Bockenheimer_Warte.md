@@ -69,7 +69,7 @@ coordinates: [[U-Bockenheimer_Warte]]
 markerFile: [[U-Bockenheimer_Warte]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

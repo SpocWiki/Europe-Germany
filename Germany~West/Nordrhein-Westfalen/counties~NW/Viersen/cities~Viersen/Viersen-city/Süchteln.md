@@ -58,7 +58,7 @@ coordinates: [[Suechteln]]
 markerFile: [[Suechteln]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -65,7 +65,7 @@ coordinates: [[U-Neuer_jüdischer_Friedhof]]
 markerFile: [[U-Neuer_jüdischer_Friedhof]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

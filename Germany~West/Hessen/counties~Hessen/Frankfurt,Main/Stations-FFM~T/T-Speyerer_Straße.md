@@ -58,7 +58,7 @@ coordinates: [[T-Speyerer_Straße]]
 markerFile: [[T-Speyerer_Straße]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -58,7 +58,7 @@ coordinates: [[Muehlen~Oldenburg]]
 markerFile: [[Muehlen~Oldenburg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

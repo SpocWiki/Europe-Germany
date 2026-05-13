@@ -58,7 +58,7 @@ coordinates: [[Bergen~Vogtland]]
 markerFile: [[Bergen~Vogtland]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

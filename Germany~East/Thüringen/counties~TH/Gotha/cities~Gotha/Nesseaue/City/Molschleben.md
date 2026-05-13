@@ -58,7 +58,7 @@ coordinates: [[Molschleben]]
 markerFile: [[Molschleben]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

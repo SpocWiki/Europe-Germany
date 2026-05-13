@@ -65,7 +65,7 @@ coordinates: [[U-Oberursel_Stadtmitte]]
 markerFile: [[U-Oberursel_Stadtmitte]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

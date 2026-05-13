@@ -58,7 +58,7 @@ coordinates: [[Muenster~Westfahlen]]
 markerFile: [[Muenster~Westfahlen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

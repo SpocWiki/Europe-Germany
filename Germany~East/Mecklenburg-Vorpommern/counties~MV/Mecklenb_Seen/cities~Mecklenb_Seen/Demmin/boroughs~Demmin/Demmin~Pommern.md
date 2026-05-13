@@ -58,7 +58,7 @@ coordinates: [[Demmin~Pommern]]
 markerFile: [[Demmin~Pommern]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

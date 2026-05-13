@@ -58,8 +58,22 @@ motto_text: Wir machen den Weg frei
 > and Deutsche Apotheker- und Ärztebank 
 > which are directly supervised by the European Central Bank.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/German%20Cooperative%20Financial%20Group)  
+> [Wikipedia](https://en.wikipedia.org/wiki/German%20Cooperative%20Financial%20Group) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Volksbanken|Volksbanken]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Volksbanken.public|Volksbanken.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Volksbanken.internal|Volksbanken.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Volksbanken.protect|Volksbanken.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Volksbanken.private|Volksbanken.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Volksbanken.personal|Volksbanken.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/Volksbanken.secret|Volksbanken.secret]] 
 

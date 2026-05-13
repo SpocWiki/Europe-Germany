@@ -64,7 +64,7 @@ coordinates: [[U-Kupferhammer]]
 markerFile: [[U-Kupferhammer]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

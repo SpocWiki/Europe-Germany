@@ -128,5 +128,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Weser%20Hilwartshausen
 > The Werra rises in Thuringia, 
 > the German state south of the main projection (tongue) of Lower Saxony.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Weser)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Weser) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Weser|Weser]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Weser.public|Weser.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Weser.internal|Weser.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Weser.protect|Weser.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Weser.private|Weser.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Weser.personal|Weser.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Weser.secret|Weser.secret]] 
 

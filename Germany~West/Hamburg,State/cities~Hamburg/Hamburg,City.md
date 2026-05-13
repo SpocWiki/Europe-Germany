@@ -600,7 +600,7 @@ Hamburger Speicherstadt mit Kontorhausviertel und Chilehaus (2015)
 [[../../../../../../../../../assets/geo/Europe/Germany/Hamburg/Hamburg-Krameramtsstuben.webp|Hamburg-Krameramtsstuben.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Hamburg/Hamburg-Krameramtsstuben.webp|Hamburg-Krameramtsstuben.webp]]] 
 Beim Gang durch den historischen Kern des alten Hamburg beeindrucken die Krameramtsstuben, 
 die Bebauung am Nikolaifleet und die Peterstraße, 
-mit ihren detailgetreu nachgebauten Wohnhäusern aus dem 17. Jahrhundert.
+mit ihren detailgetreu nachgebauten Wohnhäusern aus dem 17. Jahrhundert. 
 
 
 ## Confidential Links & Embeds: 

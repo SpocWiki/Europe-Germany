@@ -57,7 +57,7 @@ coordinates: [[T-Vogelweidstraße]]
 markerFile: [[T-Vogelweidstraße]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -68,7 +68,7 @@ coordinates: [[U-Weißer_Stein]]
 markerFile: [[U-Weißer_Stein]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

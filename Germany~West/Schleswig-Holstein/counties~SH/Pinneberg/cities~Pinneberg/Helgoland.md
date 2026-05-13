@@ -58,7 +58,7 @@ coordinates: [[Helgoland]]
 markerFile: [[Helgoland]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -58,7 +58,7 @@ coordinates: [[Sandersleben]]
 markerFile: [[Sandersleben]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

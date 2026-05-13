@@ -58,7 +58,7 @@ coordinates: [[T-Waldfriedhof_Goldstein]]
 markerFile: [[T-Waldfriedhof_Goldstein]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

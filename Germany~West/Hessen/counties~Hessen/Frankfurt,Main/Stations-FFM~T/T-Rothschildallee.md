@@ -57,7 +57,7 @@ coordinates: [[T-Rothschildallee]]
 markerFile: [[T-Rothschildallee]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

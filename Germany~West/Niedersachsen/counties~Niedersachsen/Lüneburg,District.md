@@ -112,13 +112,12 @@ markerFolder: ./Lüneburg/
 
 ```ccard
 type: folder_brief_live
-```
- 
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Lüneburg,District|Lüneburg,District]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg,District|Lüneburg,District]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Lüneburg,District.public|Lüneburg,District.public]] 
 

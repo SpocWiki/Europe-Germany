@@ -58,7 +58,7 @@ coordinates: [[Torgelow]]
 markerFile: [[Torgelow]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

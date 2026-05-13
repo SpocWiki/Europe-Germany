@@ -58,7 +58,7 @@ coordinates: [[Neunkirchen~Saar]]
 markerFile: [[Neunkirchen~Saar]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

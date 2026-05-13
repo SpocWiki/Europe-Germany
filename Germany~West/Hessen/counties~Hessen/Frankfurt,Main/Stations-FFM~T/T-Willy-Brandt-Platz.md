@@ -57,7 +57,7 @@ coordinates: [[T-Willy-Brandt-Platz]]
 markerFile: [[T-Willy-Brandt-Platz]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

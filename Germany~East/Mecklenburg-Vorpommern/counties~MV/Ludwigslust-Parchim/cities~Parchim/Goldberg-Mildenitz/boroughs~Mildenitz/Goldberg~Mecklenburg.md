@@ -58,7 +58,7 @@ coordinates: [[Goldberg~Meklenburg]]
 markerFile: [[Goldberg~Meklenburg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

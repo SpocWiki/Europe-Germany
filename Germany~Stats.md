@@ -42,7 +42,7 @@ dv_is_same_as:
 ```dataviewjs
 let pages = dv.current().FoodWasteArray;
 dv.table(pages[0],pages.slice(1));
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

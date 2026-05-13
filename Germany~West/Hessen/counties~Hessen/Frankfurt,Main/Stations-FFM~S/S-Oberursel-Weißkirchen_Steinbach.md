@@ -58,7 +58,7 @@ coordinates: [[S-Oberursel-Weißkirchen_Steinbach]]
 markerFile: [[S-Oberursel-Weißkirchen_Steinbach]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

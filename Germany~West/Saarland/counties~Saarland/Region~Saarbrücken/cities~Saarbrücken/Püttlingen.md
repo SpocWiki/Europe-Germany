@@ -58,7 +58,7 @@ coordinates: [[Puettlingen]]
 markerFile: [[Puettlingen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

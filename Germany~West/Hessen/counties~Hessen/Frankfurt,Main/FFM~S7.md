@@ -66,7 +66,7 @@ markerFolder: ./Station/
 [[Stations-FFM~S/S-Groß_Gerau-Dornberg|S-Groß_Gerau-Dornberg]]  
 [[Stations-FFM~S/S-Groß-Gerau-Dornheim|S-Groß-Gerau-Dornheim]]  
 [[Stations-FFM~S/S-Riedstadt-Wolfskehlen|S-Riedstadt-Wolfskehlen]]  
-1[[Stations-FFM~S/S-Riedstadt-Goddelau|S-Riedstadt-Goddelau]]  
+1[[Stations-FFM~S/S-Riedstadt-Goddelau|S-Riedstadt-Goddelau]] 
 
 
 ## Confidential Links & Embeds: 

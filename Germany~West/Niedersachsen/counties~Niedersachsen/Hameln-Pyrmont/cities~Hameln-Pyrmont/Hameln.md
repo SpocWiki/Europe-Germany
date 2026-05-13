@@ -58,7 +58,7 @@ coordinates: [[Hameln]]
 markerFile: [[Hameln]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

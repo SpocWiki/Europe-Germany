@@ -58,7 +58,7 @@ coordinates: [[Wagersrott]]
 markerFile: [[Wagersrott]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

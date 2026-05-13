@@ -58,7 +58,7 @@ coordinates: [[Eisenach]]
 markerFile: [[Eisenach]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

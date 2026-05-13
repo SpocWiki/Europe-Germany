@@ -58,7 +58,7 @@ coordinates: [[T-Beuthener_Straße]]
 markerFile: [[T-Beuthener_Straße]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

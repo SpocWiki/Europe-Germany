@@ -58,7 +58,7 @@ coordinates: [[Steinfeld_Bz]]
 markerFile: [[Steinfeld_Bz]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -58,7 +58,7 @@ coordinates: [[Wurzen]]
 markerFile: [[Wurzen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

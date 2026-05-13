@@ -58,7 +58,7 @@ coordinates: [[Altenberg]]
 markerFile: [[Altenberg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

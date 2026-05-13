@@ -58,7 +58,7 @@ coordinates: [[Clausthal]]
 markerFile: [[Clausthal]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

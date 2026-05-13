@@ -58,7 +58,7 @@ coordinates: [[Vernawahlshausen]]
 markerFile: [[Vernawahlshausen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

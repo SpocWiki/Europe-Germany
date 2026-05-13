@@ -58,7 +58,7 @@ coordinates: [[Mieste]]
 markerFile: [[Mieste]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

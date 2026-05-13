@@ -58,7 +58,7 @@ coordinates: [[Schwante]]
 markerFile: [[Schwante]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

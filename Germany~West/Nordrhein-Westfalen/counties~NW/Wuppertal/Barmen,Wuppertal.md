@@ -60,7 +60,7 @@ coordinates: [[Barmen,Wuppertal]]
 markerFile: [[Barmen,Wuppertal]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

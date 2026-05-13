@@ -16,4 +16,19 @@ coordinate_location: Point(10.55368056 52.94763889)
 #is_/same_as :: [[_Standards/WikiData/WD~Hardau,15112157|WD~Hardau,15112157]] 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Hardau,River|Hardau,River]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Hardau,River.public|Hardau,River.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Hardau,River.internal|Hardau,River.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Hardau,River.protect|Hardau,River.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Hardau,River.private|Hardau,River.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Hardau,River.personal|Hardau,River.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Hardau,River.secret|Hardau,River.secret]] 
 

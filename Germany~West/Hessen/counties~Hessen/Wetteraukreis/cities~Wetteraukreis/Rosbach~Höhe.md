@@ -58,7 +58,7 @@ coordinates: [[Rosbach~Frankfurt]]
 markerFile: [[Rosbach~Frankfurt]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

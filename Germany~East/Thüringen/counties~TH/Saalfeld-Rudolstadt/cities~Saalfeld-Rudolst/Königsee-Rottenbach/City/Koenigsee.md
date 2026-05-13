@@ -58,7 +58,7 @@ coordinates: [[Koenigsee]]
 markerFile: [[Koenigsee]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

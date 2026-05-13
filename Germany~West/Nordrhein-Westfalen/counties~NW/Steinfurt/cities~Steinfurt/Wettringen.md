@@ -58,7 +58,7 @@ coordinates: [[Wettringen]]
 markerFile: [[Wettringen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

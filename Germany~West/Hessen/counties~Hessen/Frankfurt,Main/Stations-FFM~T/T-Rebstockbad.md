@@ -57,7 +57,7 @@ coordinates: [[T-Rebstockbad]]
 markerFile: [[T-Rebstockbad]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

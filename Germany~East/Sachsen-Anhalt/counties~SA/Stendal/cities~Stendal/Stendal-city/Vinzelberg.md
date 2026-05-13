@@ -58,7 +58,7 @@ coordinates: [[Vinzelberg]]
 markerFile: [[Vinzelberg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

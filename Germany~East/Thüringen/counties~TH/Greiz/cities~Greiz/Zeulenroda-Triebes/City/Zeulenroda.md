@@ -58,7 +58,7 @@ coordinates: [[Zeulenroda]]
 markerFile: [[Zeulenroda]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

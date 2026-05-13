@@ -58,7 +58,7 @@ coordinates: [[Moenchen-Gladbach=Moenchengladbach]]
 markerFile: [[Moenchen-Gladbach=Moenchengladbach]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

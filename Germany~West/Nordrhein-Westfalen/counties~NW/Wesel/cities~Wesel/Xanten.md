@@ -58,7 +58,7 @@ coordinates: [[Xanten=Xanthen]]
 markerFile: [[Xanten=Xanthen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

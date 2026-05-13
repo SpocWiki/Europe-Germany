@@ -69,7 +69,7 @@ coordinates: [[U-Bornheim_Mitte]]
 markerFile: [[U-Bornheim_Mitte]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

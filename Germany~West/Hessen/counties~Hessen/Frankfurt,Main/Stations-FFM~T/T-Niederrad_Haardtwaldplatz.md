@@ -58,7 +58,7 @@ coordinates: [[T-Niederrad_Haardtwaldplatz]]
 markerFile: [[T-Niederrad_Haardtwaldplatz]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

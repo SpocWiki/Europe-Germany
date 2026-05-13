@@ -58,7 +58,7 @@ coordinates: [[Salzwedel]]
 markerFile: [[Salzwedel]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

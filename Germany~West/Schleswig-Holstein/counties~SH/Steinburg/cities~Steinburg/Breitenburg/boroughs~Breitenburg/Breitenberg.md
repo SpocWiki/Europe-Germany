@@ -58,7 +58,7 @@ coordinates: [[Breitenberg]]
 markerFile: [[Breitenberg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

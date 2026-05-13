@@ -58,7 +58,7 @@ coordinates: [[Zwinge]]
 markerFile: [[Zwinge]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

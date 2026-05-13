@@ -66,7 +66,7 @@ coordinates: [[U-Konstablerwache]]
 markerFile: [[U-Konstablerwache]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

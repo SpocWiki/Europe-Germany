@@ -58,7 +58,7 @@ coordinates: [[Inselberg]]
 markerFile: [[Inselberg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

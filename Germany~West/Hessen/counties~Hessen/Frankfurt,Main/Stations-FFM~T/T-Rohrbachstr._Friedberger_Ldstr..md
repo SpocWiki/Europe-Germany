@@ -60,7 +60,7 @@ coordinates: [[T-Rohrbachstr._Friedberger_Ldstr.]]
 markerFile: [[T-Rohrbachstr._Friedberger_Ldstr.]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

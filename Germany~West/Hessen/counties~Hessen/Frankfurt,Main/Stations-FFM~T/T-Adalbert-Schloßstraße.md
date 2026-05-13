@@ -57,7 +57,7 @@ coordinates: [[T-Adalbert-Schloßstraße]]
 markerFile: [[T-Adalbert-Schloßstraße]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

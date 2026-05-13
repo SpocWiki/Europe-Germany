@@ -58,7 +58,7 @@ coordinates: [[Neustadt~Sachsen]]
 markerFile: [[Neustadt~Sachsen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

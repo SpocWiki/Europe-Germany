@@ -58,7 +58,7 @@ coordinates: [[Neukirchen~Holstein]]
 markerFile: [[Neukirchen~Holstein]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

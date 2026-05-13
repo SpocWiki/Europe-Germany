@@ -58,7 +58,7 @@ coordinates: [[S-Bad_Soden~Taunus]]
 markerFile: [[S-Bad_Soden~Taunus]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

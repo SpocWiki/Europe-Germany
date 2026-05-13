@@ -61,7 +61,7 @@ maxZoom: 18
 ```
 
 ![[../../../../../../../../../../../assets/geo/Europe/Germany/Hessen/Alsfeld~Rathaus.png|Alsfeld~Rathaus.png]]]
-Unbedingt sehenswert ist der Marktplatz mit Weinhaus, Rathaus und dem Turm der Walpurgiskirche sowie vielen Fachwerkhäusern.
+Unbedingt sehenswert ist der Marktplatz mit Weinhaus, Rathaus und dem Turm der Walpurgiskirche sowie vielen Fachwerkhäusern. 
 
 
 ## Confidential Links & Embeds: 

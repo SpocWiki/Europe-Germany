@@ -58,7 +58,7 @@ coordinates: [[Bodenteich]]
 markerFile: [[Bodenteich]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

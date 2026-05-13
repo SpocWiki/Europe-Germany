@@ -58,7 +58,7 @@ coordinates: [[Krakow]]
 markerFile: [[Krakow]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

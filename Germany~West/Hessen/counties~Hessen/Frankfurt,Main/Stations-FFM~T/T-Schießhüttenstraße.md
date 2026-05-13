@@ -57,7 +57,7 @@ coordinates: [[T-Schießhüttenstraße]]
 markerFile: [[T-Schießhüttenstraße]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

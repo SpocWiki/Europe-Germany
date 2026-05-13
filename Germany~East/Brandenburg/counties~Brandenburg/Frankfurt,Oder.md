@@ -58,7 +58,7 @@ coordinates: [[Frankfurt~Oder]]
 markerFile: [[Frankfurt~Oder]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

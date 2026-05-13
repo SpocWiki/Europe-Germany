@@ -64,7 +64,7 @@ coordinates: [[U-Merianplatz]]
 markerFile: [[U-Merianplatz]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

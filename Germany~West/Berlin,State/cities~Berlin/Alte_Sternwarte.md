@@ -59,7 +59,7 @@ coordinates: [[Alte_Sternwarte]]
 markerFile: [[Alte_Sternwarte]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

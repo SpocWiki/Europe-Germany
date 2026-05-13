@@ -58,7 +58,7 @@ coordinates: [[T-Schwanheim_Rheinlandstr.]]
 markerFile: [[T-Schwanheim_Rheinlandstr.]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

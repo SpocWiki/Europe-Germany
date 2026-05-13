@@ -58,7 +58,7 @@ coordinates: [[T-Schweizer_Str._Mörfelder_Ldstr.]]
 markerFile: [[T-Schweizer_Str._Mörfelder_Ldstr.]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

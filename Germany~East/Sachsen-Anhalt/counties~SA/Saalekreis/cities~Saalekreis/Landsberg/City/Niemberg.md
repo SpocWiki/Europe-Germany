@@ -58,7 +58,7 @@ coordinates: [[Niemberg]]
 markerFile: [[Niemberg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -65,7 +65,7 @@ coordinates: [[U-Uni-Campus_Riedberg]]
 markerFile: [[U-Uni-Campus_Riedberg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

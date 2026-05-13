@@ -58,7 +58,7 @@ coordinates: [[Freiburg~Hamburg]]
 markerFile: [[Freiburg~Hamburg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

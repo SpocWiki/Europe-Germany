@@ -58,7 +58,7 @@ coordinates: [[Kappeln~Schleswig]]
 markerFile: [[Kappeln~Schleswig]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -58,7 +58,7 @@ coordinates: [[Panningkau]]
 markerFile: [[Panningkau]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

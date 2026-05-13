@@ -60,7 +60,7 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-Groß Sottrum und Klein Sottrum wurden am 1. Januar 1929 zur Gemeinde Sottrum zusammengeschlossen
+Groß Sottrum und Klein Sottrum wurden am 1. Januar 1929 zur Gemeinde Sottrum zusammengeschlossen 
 
 
 ## Confidential Links & Embeds: 

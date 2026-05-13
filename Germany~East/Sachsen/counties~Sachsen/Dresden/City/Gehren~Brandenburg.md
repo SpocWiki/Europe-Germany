@@ -58,7 +58,7 @@ coordinates: [[Gehren~Brandenburg]]
 markerFile: [[Gehren~Brandenburg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

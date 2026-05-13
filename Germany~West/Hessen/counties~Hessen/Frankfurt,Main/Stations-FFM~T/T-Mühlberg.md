@@ -60,7 +60,7 @@ coordinates: [[T-Mühlberg]]
 markerFile: [[T-Mühlberg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

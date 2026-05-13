@@ -58,7 +58,7 @@ coordinates: [[Langenberg~Rheinland]]
 markerFile: [[Langenberg~Rheinland]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

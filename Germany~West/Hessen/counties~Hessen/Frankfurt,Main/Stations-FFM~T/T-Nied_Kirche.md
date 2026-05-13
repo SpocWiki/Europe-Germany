@@ -58,7 +58,7 @@ coordinates: [[T-Nied_Kirche]]
 markerFile: [[T-Nied_Kirche]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

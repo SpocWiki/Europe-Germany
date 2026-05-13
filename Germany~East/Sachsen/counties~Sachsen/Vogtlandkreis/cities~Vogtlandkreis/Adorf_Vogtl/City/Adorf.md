@@ -55,7 +55,7 @@ coordinates: [[Adorf]]
 markerFile: [[Adorf]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

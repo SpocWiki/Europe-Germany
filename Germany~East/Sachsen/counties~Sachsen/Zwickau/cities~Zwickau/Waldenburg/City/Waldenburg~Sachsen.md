@@ -58,7 +58,7 @@ coordinates: [[Waldenburg~Sachsen]]
 markerFile: [[Waldenburg~Sachsen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

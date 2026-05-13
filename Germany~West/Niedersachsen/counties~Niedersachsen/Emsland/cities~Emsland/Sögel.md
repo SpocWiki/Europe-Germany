@@ -58,7 +58,7 @@ coordinates: [[Soegel]]
 markerFile: [[Soegel]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

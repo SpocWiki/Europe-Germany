@@ -58,7 +58,7 @@ coordinates: [[Teschow]]
 markerFile: [[Teschow]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

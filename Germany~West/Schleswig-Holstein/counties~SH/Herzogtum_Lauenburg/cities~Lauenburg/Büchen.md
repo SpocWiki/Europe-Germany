@@ -58,7 +58,7 @@ coordinates: [[Buechen]]
 markerFile: [[Buechen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

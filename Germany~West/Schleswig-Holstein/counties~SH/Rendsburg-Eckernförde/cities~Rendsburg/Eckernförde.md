@@ -58,7 +58,7 @@ coordinates: [[Eckernfoerde]]
 markerFile: [[Eckernfoerde]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -58,7 +58,7 @@ coordinates: [[Heldrungen]]
 markerFile: [[Heldrungen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

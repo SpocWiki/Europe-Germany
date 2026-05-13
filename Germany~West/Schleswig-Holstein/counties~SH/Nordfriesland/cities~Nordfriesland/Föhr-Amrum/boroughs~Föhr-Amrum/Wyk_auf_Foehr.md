@@ -59,7 +59,7 @@ coordinates: [[Wyk_auf_Foehr]]
 markerFile: [[Wyk_auf_Foehr]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
