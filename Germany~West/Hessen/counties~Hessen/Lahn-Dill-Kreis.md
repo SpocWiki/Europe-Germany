@@ -51,13 +51,10 @@ dv_is_same_as:
 
 is_part_of = `=this.dv_is_part_of`
 
-![[Lahn-Dill-Kreis.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Lahn-Dill-Kreis.svg]] 
+![[Lahn-Dill-Kreis.md]] 
 
 
 %%
