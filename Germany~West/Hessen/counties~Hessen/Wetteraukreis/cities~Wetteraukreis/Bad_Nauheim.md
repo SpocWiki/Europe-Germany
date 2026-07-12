@@ -59,7 +59,7 @@ coordinates: [[Bad_Nauheim]]
 markerFile: [[Bad_Nauheim]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -64,7 +64,7 @@ coordinates: [[U-Fischstein]]
 markerFile: [[U-Fischstein]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

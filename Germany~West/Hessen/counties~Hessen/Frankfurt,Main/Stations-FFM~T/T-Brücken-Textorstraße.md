@@ -57,7 +57,7 @@ coordinates: [[T-Brücken-Textorstraße]]
 markerFile: [[T-Brücken-Textorstraße]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

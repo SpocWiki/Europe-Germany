@@ -58,7 +58,7 @@ coordinates: [[Schnepfenthal]]
 markerFile: [[Schnepfenthal]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

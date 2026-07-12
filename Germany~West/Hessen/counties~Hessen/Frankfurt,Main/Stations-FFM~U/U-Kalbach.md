@@ -67,7 +67,7 @@ coordinates: [[U-Kalbach]]
 markerFile: [[U-Kalbach]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

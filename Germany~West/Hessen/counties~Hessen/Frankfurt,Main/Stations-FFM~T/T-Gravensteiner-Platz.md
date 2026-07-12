@@ -59,7 +59,7 @@ coordinates: [[T-Gravensteiner-Platz]]
 markerFile: [[T-Gravensteiner-Platz]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

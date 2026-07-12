@@ -58,7 +58,7 @@ coordinates: [[Neukirch~Sachsen]]
 markerFile: [[Neukirch~Sachsen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -58,7 +58,7 @@ coordinates: [[Jessnitz~Lausitz]]
 markerFile: [[Jessnitz~Lausitz]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

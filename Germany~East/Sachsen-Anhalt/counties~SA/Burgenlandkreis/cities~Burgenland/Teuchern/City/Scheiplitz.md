@@ -58,7 +58,7 @@ coordinates: [[Scheiplitz]]
 markerFile: [[Scheiplitz]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

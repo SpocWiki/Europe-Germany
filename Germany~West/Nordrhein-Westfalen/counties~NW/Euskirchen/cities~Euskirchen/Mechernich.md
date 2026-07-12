@@ -58,7 +58,7 @@ coordinates: [[Mechernich]]
 markerFile: [[Mechernich]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

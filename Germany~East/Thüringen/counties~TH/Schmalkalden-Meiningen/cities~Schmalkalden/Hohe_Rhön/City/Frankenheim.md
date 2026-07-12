@@ -58,7 +58,7 @@ coordinates: [[Frankenheim]]
 markerFile: [[Frankenheim]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -58,7 +58,7 @@ coordinates: [[Limbach~Vogtland]]
 markerFile: [[Limbach~Vogtland]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

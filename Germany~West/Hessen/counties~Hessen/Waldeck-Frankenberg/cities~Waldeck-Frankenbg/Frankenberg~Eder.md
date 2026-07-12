@@ -58,7 +58,7 @@ coordinates: [[Frankenberg]]
 markerFile: [[Frankenberg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

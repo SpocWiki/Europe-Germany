@@ -59,7 +59,7 @@ coordinates: [[Luebberstedt]]
 markerFile: [[Luebberstedt]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

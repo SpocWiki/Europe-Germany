@@ -58,7 +58,7 @@ coordinates: [[Kirchborchen]]
 markerFile: [[Kirchborchen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

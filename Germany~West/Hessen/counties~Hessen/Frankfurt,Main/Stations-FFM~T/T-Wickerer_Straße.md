@@ -58,7 +58,7 @@ coordinates: [[T-Wickerer_Straße]]
 markerFile: [[T-Wickerer_Straße]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

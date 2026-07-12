@@ -57,7 +57,7 @@ coordinates: [[S-Seulberg]]
 markerFile: [[S-Seulberg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

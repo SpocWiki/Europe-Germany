@@ -58,7 +58,7 @@ coordinates: [[Plauen]]
 markerFile: [[Plauen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

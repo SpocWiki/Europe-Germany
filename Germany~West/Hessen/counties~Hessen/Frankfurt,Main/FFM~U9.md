@@ -69,7 +69,7 @@ markerFolder: ./Station/
 [[Stations-FFM~U/U-Nordwestzentrum|U-Nordwestzentrum]]  
 1[[Stations-FFM~U/U-Römerstadt|U-Römerstadt]]  
 1[[Stations-FFM~U/U-Niddapark|U-Niddapark]]  
-1[[Stations-FFM~U/U-Ginnheim|U-Ginnheim]]  
+1[[Stations-FFM~U/U-Ginnheim|U-Ginnheim]] 
 
 
 ## Confidential Links & Embeds: 

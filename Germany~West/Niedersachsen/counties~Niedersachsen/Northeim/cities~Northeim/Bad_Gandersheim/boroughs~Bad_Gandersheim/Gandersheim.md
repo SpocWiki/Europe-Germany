@@ -58,7 +58,7 @@ coordinates: [[Gandersheim]]
 markerFile: [[Gandersheim]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

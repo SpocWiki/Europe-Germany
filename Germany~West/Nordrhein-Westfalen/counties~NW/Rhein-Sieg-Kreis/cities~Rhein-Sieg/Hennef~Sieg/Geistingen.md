@@ -58,7 +58,7 @@ coordinates: [[Geistigen]]
 markerFile: [[Geistigen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

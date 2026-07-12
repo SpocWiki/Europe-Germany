@@ -90,5 +90,22 @@ Commons_category: Leine (river)
 > Serial killer Fritz Haarmann 
 > disposed of most of his victims' remains in the Leine river.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Leine)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Leine) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Leine,River|Leine,River]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Leine,River.public|Leine,River.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Leine,River.internal|Leine,River.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Leine,River.protect|Leine,River.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Leine,River.private|Leine,River.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Leine,River.personal|Leine,River.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/Leine,River.secret|Leine,River.secret]] 
 

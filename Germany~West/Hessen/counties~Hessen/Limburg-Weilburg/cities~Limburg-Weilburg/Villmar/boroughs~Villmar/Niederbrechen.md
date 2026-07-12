@@ -58,7 +58,7 @@ coordinates: [[Niederbrechen]]
 markerFile: [[Niederbrechen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -58,7 +58,7 @@ coordinates: [[Lockwitz]]
 markerFile: [[Lockwitz]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

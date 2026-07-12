@@ -59,7 +59,7 @@ markerFile: [[Gifhorn]]
 geojsonFolder: ./Gifhorn/
 defaultZoom: 9 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

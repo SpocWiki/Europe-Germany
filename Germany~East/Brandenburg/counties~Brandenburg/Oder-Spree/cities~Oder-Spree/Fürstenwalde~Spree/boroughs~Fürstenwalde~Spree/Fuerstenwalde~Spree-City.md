@@ -58,7 +58,7 @@ coordinates: [[Fuerstenwalde~Spree]]
 markerFile: [[Fuerstenwalde~Spree]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

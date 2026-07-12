@@ -66,7 +66,7 @@ coordinates: [[Halle~Saale]]
 markerFile: [[Halle~Saale]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

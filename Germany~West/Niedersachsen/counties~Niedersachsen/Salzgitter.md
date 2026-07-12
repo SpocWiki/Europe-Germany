@@ -59,7 +59,7 @@ markerFile: [[Salzgitter]]
 geojsonFolder: ./Salzgitter/
 defaultZoom: 10 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

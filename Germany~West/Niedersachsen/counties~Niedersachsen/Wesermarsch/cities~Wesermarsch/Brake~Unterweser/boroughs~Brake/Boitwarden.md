@@ -58,7 +58,7 @@ coordinates: [[Boitwarden]]
 markerFile: [[Boitwarden]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

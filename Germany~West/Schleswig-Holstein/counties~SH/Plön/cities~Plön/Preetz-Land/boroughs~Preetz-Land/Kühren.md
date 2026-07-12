@@ -58,7 +58,7 @@ coordinates: [[Kuehren]]
 markerFile: [[Kuehren]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

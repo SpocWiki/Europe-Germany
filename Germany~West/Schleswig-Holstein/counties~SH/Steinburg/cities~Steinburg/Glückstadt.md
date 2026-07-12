@@ -58,7 +58,7 @@ coordinates: [[Gluecksstadt]]
 markerFile: [[Gluecksstadt]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

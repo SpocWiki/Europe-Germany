@@ -59,7 +59,7 @@ markerFile: [[Diepholz]]
 geojsonFolder: ./Diepholz/
 defaultZoom: 9 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

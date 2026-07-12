@@ -58,7 +58,7 @@ coordinates: [[Vetschau]]
 markerFile: [[Vetschau]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

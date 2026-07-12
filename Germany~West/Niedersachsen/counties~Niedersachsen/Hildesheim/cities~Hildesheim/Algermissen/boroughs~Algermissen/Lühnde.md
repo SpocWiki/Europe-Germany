@@ -59,7 +59,7 @@ coordinates: [[Luehnde]]
 markerFile: [[Luehnde]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

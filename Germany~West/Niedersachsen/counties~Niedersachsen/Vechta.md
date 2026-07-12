@@ -59,7 +59,7 @@ markerFile: [[Vechta]]
 geojsonFolder: ./Vechta/
 defaultZoom: 10 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -59,7 +59,7 @@ coordinates: [[Sankt_Huelfe]]
 markerFile: [[Sankt_Huelfe]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

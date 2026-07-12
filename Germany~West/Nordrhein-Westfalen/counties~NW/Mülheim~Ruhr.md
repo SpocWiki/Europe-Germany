@@ -60,7 +60,7 @@ coordinates: [[Mülheim~Ruhr]]
 markerFile: [[Mülheim~Ruhr]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

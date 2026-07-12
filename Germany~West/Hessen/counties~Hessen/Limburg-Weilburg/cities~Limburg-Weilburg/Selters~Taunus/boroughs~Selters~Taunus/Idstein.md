@@ -58,7 +58,7 @@ coordinates: [[Idstein]]
 markerFile: [[Idstein]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

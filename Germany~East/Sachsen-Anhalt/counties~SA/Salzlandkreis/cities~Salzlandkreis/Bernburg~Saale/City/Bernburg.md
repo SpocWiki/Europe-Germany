@@ -58,7 +58,7 @@ coordinates: [[Bernburg]]
 markerFile: [[Bernburg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -65,7 +65,7 @@ coordinates: [[U-Friedhof_Westhausen]]
 markerFile: [[U-Friedhof_Westhausen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

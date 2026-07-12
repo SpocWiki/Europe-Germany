@@ -58,7 +58,7 @@ coordinates: [[Barth]]
 markerFile: [[Barth]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

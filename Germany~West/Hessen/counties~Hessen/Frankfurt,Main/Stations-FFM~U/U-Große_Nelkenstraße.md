@@ -67,7 +67,7 @@ coordinates: [[U-Große_Nelkenstraße]]
 markerFile: [[U-Große_Nelkenstraße]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

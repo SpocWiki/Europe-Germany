@@ -67,7 +67,7 @@ coordinates: [[U-Eissporthalle_Festplatz]]
 markerFile: [[U-Eissporthalle_Festplatz]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

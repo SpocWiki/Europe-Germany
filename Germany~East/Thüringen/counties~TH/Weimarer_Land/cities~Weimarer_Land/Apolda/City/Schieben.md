@@ -58,7 +58,7 @@ coordinates: [[Schieben]]
 markerFile: [[Schieben]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

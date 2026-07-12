@@ -58,7 +58,7 @@ coordinates: [[Stolberg~Harz]]
 markerFile: [[Stolberg~Harz]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

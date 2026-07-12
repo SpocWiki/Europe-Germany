@@ -59,7 +59,7 @@ coordinates: [[T-Bodenweg]]
 markerFile: [[T-Bodenweg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

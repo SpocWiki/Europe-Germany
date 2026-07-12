@@ -59,7 +59,7 @@ markerFile: [[Wolfenbuettel]]
 geojsonFolder: ./Wolfenbuettel/
 defaultZoom: 9 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

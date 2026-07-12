@@ -58,7 +58,7 @@ coordinates: [[Apolda]]
 markerFile: [[Apolda]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

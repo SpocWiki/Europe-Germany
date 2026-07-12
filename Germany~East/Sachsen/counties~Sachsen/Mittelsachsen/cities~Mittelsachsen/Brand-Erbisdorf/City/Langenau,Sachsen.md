@@ -58,12 +58,12 @@ coordinates: [[Langenau,Sachsen]]
 markerFile: [[Langenau,Sachsen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Langenau,Sachsen|Langenau,Sachsen]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Langenau,Sachsen|Langenau,Sachsen]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Mittelsachsen/cities~Mittelsachsen/Brand-Erbisdorf/City/Langenau,Sachsen.public|Langenau,Sachsen.public]] 
 

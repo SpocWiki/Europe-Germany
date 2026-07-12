@@ -58,7 +58,7 @@ coordinates: [[Neustadt~Holstein]]
 markerFile: [[Neustadt~Holstein]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

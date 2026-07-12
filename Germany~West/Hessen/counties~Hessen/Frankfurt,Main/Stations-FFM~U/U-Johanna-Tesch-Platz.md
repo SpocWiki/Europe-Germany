@@ -64,7 +64,7 @@ coordinates: [[U-Johanna-Tesch-Platz]]
 markerFile: [[U-Johanna-Tesch-Platz]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

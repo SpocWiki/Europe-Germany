@@ -48,13 +48,12 @@ markerFolder: ./Klein_Süstedt/
 
 ```ccard
 type: folder_brief_live
-```
- 
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Klein_Süstedt|Klein_Süstedt]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Uelzen,City/boroughs~Uelzen/Klein_Süstedt|Klein_Süstedt]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Uelzen,City/boroughs~Uelzen/Klein_Süstedt.public|Klein_Süstedt.public]] 
 
@@ -67,6 +66,4 @@ type: folder_brief_live
 ### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Uelzen,City/boroughs~Uelzen/Klein_Süstedt.personal|Klein_Süstedt.personal]] 
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Uelzen,City/boroughs~Uelzen/Klein_Süstedt.secret|Klein_Süstedt.secret]] 
-
-
 

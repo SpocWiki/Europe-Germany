@@ -58,7 +58,7 @@ coordinates: [[S-Offenbach_Ledermuseum]]
 markerFile: [[S-Offenbach_Ledermuseum]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

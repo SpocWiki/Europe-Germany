@@ -60,7 +60,7 @@ markerFile: [[Wittmund]]
 geojsonFolder: ./Wittmund/
 defaultZoom: 9 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

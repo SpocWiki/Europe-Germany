@@ -57,7 +57,7 @@ coordinates: [[S-Hofheim~Taunus]]
 markerFile: [[S-Hofheim~Taunus]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

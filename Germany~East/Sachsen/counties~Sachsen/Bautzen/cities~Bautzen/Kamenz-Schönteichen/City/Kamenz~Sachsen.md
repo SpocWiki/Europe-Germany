@@ -58,7 +58,7 @@ coordinates: [[Kamenz~Sachsen]]
 markerFile: [[Kamenz~Sachsen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

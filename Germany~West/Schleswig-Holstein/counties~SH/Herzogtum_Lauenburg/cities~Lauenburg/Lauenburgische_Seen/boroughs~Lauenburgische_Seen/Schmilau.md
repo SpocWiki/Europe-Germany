@@ -58,7 +58,7 @@ coordinates: [[Schmilau]]
 markerFile: [[Schmilau]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -58,7 +58,7 @@ coordinates: [[Lindau~Anhalt]]
 markerFile: [[Lindau~Anhalt]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -58,7 +58,7 @@ coordinates: [[Mittweida]]
 markerFile: [[Mittweida]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

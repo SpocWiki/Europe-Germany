@@ -58,7 +58,7 @@ coordinates: [[Gemuend]]
 markerFile: [[Gemuend]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

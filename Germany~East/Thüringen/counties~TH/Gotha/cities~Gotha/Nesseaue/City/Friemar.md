@@ -58,7 +58,7 @@ coordinates: [[Friemar]]
 markerFile: [[Friemar]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

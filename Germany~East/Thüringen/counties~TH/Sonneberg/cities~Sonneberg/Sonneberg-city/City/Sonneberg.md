@@ -58,7 +58,7 @@ coordinates: [[Sonneberg]]
 markerFile: [[Sonneberg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -58,7 +58,7 @@ coordinates: [[Bergen~Ruegen]]
 markerFile: [[Bergen~Ruegen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

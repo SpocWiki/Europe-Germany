@@ -72,7 +72,7 @@ markerFolder: ./Station/
 1[[Stations-FFM~U/U-Hauptwache|U-Hauptwache]]  
 1[[Stations-FFM~U/U-Konstablerwache|U-Konstablerwache]]  
 1[[Stations-FFM~U/U-Zoo|U-Zoo]]  
-1[[Stations-FFM~U/U-Ostbahnhof|U-Ostbahnhof]]  
+1[[Stations-FFM~U/U-Ostbahnhof|U-Ostbahnhof]] 
 
 
 ## Confidential Links & Embeds: 

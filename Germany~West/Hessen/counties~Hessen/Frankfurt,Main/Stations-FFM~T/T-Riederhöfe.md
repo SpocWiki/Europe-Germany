@@ -57,7 +57,7 @@ coordinates: [[T-Riederhöfe]]
 markerFile: [[T-Riederhöfe]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

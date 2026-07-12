@@ -58,7 +58,7 @@ coordinates: [[Schierke]]
 markerFile: [[Schierke]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

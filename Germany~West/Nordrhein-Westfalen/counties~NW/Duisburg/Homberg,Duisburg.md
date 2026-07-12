@@ -58,7 +58,7 @@ coordinates: [[Homberg~Niederrhein]]
 markerFile: [[Homberg~Niederrhein]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

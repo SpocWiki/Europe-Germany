@@ -58,7 +58,7 @@ coordinates: [[Muehlhausen~Thuerungen]]
 markerFile: [[Muehlhausen~Thuerungen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

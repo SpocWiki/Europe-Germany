@@ -58,7 +58,7 @@ coordinates: [[Zeitz]]
 markerFile: [[Zeitz]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

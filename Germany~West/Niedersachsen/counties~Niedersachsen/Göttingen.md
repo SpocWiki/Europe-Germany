@@ -59,7 +59,7 @@ markerFile: [[Göttingen]]
 geojsonFolder: ./Göttingen/
 defaultZoom: 10 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

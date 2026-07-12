@@ -58,7 +58,7 @@ coordinates: [[Kronberg~Taunus]]
 markerFile: [[Kronberg~Taunus]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

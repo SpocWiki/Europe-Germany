@@ -67,7 +67,7 @@ coordinates: [[U-Festhalle_Messe]]
 markerFile: [[U-Festhalle_Messe]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

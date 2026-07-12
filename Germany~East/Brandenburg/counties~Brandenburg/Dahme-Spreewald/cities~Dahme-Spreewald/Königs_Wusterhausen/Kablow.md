@@ -58,7 +58,7 @@ coordinates: [[Kablow]]
 markerFile: [[Kablow]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

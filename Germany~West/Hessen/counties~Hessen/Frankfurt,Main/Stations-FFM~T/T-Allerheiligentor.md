@@ -57,7 +57,7 @@ coordinates: [[T-Allerheiligentor]]
 markerFile: [[T-Allerheiligentor]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

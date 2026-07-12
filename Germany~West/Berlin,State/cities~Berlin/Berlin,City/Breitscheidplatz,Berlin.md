@@ -30,6 +30,22 @@ Commons_gallery: Breitscheidplatz
 > Together with the Kurfürstendamm boulevard, it marks the centre of former West Berlin and the present-day City West. 
 > It is named after Rudolf Breitscheid.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Breitscheidplatz)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Breitscheidplatz) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Breitscheidplatz,Berlin|Breitscheidplatz,Berlin]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Breitscheidplatz,Berlin.public|Breitscheidplatz,Berlin.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Breitscheidplatz,Berlin.internal|Breitscheidplatz,Berlin.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Breitscheidplatz,Berlin.protect|Breitscheidplatz,Berlin.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Breitscheidplatz,Berlin.private|Breitscheidplatz,Berlin.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Breitscheidplatz,Berlin.personal|Breitscheidplatz,Berlin.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City/Breitscheidplatz,Berlin.secret|Breitscheidplatz,Berlin.secret]] 
 

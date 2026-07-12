@@ -58,7 +58,7 @@ coordinates: [[T-Platz_der_Republik]]
 markerFile: [[T-Platz_der_Republik]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

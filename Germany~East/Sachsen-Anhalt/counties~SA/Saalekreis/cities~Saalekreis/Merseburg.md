@@ -58,7 +58,7 @@ coordinates: [[Merseburg]]
 markerFile: [[Merseburg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

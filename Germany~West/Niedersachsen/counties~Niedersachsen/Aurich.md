@@ -59,7 +59,7 @@ markerFile: [[Aurich]]
 geojsonFolder: ./Aurich//
 defaultZoom: 9 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

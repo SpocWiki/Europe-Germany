@@ -58,7 +58,7 @@ coordinates: [[Ichtershausen]]
 markerFile: [[Ichtershausen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

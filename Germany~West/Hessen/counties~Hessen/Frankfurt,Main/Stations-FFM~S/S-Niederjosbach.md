@@ -57,7 +57,7 @@ coordinates: [[S-Niederjosbach]]
 markerFile: [[S-Niederjosbach]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

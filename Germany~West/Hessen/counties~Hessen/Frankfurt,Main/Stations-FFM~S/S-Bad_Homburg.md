@@ -58,7 +58,7 @@ coordinates: [[S-Bad_Homburg]]
 markerFile: [[S-Bad_Homburg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -60,7 +60,7 @@ coordinates: [[T-Walter-Kolb-Siedlung]]
 markerFile: [[T-Walter-Kolb-Siedlung]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

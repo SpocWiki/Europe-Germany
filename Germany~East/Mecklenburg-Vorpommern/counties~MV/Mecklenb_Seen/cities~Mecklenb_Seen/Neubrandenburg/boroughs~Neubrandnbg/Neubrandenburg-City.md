@@ -58,7 +58,7 @@ coordinates: [[Neu-Brandenburg]]
 markerFile: [[Neu-Brandenburg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

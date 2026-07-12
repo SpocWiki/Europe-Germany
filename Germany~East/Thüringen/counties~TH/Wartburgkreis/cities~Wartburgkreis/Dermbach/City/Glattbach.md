@@ -58,7 +58,7 @@ coordinates: [[Glattbach]]
 markerFile: [[Glattbach]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -64,7 +64,7 @@ maxZoom: 18
 Marburgs Altstadt ist geprägt von der Hanglage am Schlosshügel, 
 mit enger und gedrängter Bebauung mittelalterlicher Gebäude. 
 In der Marburger Altstadt findet man mehr als 700 historische Häuser, 
-die zum größten Teil in der Zeit zwischen dem 14.- und 19. Jahrhundert erbaut wurden.
+die zum größten Teil in der Zeit zwischen dem 14.- und 19. Jahrhundert erbaut wurden. 
 
 
 ## Confidential Links & Embeds: 

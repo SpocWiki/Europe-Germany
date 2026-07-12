@@ -58,7 +58,7 @@ coordinates: [[Toellschuetz]]
 markerFile: [[Toellschuetz]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

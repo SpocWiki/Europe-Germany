@@ -58,7 +58,7 @@ coordinates: [[Brandenburg~Havel]]
 markerFile: [[Brandenburg~Havel]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -58,7 +58,7 @@ coordinates: [[Hohndorf~Pretzsch]]
 markerFile: [[Hohndorf~Pretzsch]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

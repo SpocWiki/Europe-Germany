@@ -58,7 +58,7 @@ coordinates: [[Rotenburg~Fulda]]
 markerFile: [[Rotenburg~Fulda]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -58,7 +58,7 @@ coordinates: [[S-Kronberg_im_Taunus]]
 markerFile: [[S-Kronberg_im_Taunus]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

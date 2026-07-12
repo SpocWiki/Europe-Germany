@@ -58,7 +58,7 @@ coordinates: [[S-Römer_Paulskirche]]
 markerFile: [[S-Römer_Paulskirche]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

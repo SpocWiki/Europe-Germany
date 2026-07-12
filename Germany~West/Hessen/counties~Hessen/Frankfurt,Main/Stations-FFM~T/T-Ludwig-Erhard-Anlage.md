@@ -57,7 +57,7 @@ coordinates: [[T-Ludwig-Erhard-Anlage]]
 markerFile: [[T-Ludwig-Erhard-Anlage]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

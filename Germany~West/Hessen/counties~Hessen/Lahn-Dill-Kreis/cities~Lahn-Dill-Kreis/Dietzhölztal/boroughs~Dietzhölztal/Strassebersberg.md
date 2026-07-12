@@ -58,7 +58,7 @@ coordinates: [[Strassebersberg]]
 markerFile: [[Strassebersberg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

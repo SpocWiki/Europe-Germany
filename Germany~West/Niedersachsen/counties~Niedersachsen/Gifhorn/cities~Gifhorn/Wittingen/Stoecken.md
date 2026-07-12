@@ -58,7 +58,7 @@ coordinates: [[Stoecken]]
 markerFile: [[Stoecken]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

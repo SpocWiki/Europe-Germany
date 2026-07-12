@@ -57,7 +57,7 @@ coordinates: [[S-Oberursel~Taunus]]
 markerFile: [[S-Oberursel~Taunus]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

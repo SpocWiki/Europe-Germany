@@ -59,7 +59,7 @@ markerFile: [[Cuxhaven]]
 geojsonFolder: ./Cuxhaven/
 defaultZoom: 9 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

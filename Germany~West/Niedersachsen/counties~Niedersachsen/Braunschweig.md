@@ -59,7 +59,7 @@ markerFile: [[Braunschweig]]
 geojsonFolder: ./Braunschweig/
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

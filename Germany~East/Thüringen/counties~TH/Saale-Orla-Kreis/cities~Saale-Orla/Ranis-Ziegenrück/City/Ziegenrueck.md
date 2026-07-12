@@ -58,7 +58,7 @@ coordinates: [[Ziegenrueck]]
 markerFile: [[Ziegenrueck]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

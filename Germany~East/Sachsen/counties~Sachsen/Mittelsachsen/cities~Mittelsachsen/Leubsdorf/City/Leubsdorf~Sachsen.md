@@ -58,7 +58,7 @@ coordinates: [[Leubsdorf~Sachsen]]
 markerFile: [[Leubsdorf~Sachsen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

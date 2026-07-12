@@ -96,5 +96,22 @@ official_name: DZ BANK AG Deutsche Zentral-Genossenschaftsbank
 > 
 > DZ Bank has been designated as a Significant Institution since the entry into force of European Banking Supervision in late 2014, and as a consequence is directly supervised by the European Central Bank.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/DZ%20Bank)  
+> [Wikipedia](https://en.wikipedia.org/wiki/DZ%20Bank) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/DZ Bank|DZ Bank]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/DZ Bank.public|DZ Bank.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/DZ Bank.internal|DZ Bank.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/DZ Bank.protect|DZ Bank.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/DZ Bank.private|DZ Bank.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/DZ Bank.personal|DZ Bank.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/DZ Bank.secret|DZ Bank.secret]] 
 

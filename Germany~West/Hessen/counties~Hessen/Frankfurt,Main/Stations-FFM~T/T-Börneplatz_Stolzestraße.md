@@ -60,7 +60,7 @@ coordinates: [[T-Börneplatz_Stolzestraße]]
 markerFile: [[T-Börneplatz_Stolzestraße]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -58,7 +58,7 @@ coordinates: [[Frielendorf]]
 markerFile: [[Frielendorf]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -58,7 +58,7 @@ coordinates: [[Homberg~Kassel]]
 markerFile: [[Homberg~Kassel]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -58,7 +58,7 @@ coordinates: [[Ober-Kaufungen]]
 markerFile: [[Ober-Kaufungen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

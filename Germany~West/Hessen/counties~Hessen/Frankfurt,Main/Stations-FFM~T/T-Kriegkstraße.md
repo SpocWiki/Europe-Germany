@@ -57,7 +57,7 @@ coordinates: [[T-Kriegkstraße]]
 markerFile: [[T-Kriegkstraße]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

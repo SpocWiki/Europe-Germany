@@ -68,7 +68,7 @@ Hinter dem Neptunbrunnen ist das Cranachhaus zu sehen.
 [[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Weimar~Castle_Beldevere.webp|Weimar~Castle_Beldevere.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Weimar~Castle_Beldevere.webp|Weimar~Castle_Beldevere.webp]]] 
 Weimar (1998)
 [[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Bauhaus,Weimar.webp|Bauhaus,Weimar.webp]]] ![[../../../../../../../../../assets/geo/Europe/Germany/Thüringen/Bauhaus,Weimar.webp|Bauhaus,Weimar.webp]]] 
-Bauhaus und seine Stätten in Weimar, Dessau und Bernau ( [[Unesco]] Welterbe seit 1996)
+Bauhaus und seine Stätten in Weimar, Dessau und Bernau ( [[Unesco]] Welterbe seit 1996) 
 
 
 ## Confidential Links & Embeds: 

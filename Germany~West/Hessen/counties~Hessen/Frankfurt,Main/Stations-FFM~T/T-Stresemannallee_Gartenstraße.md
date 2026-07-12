@@ -58,7 +58,7 @@ coordinates: [[T-Stresemannallee_Gartenstraße]]
 markerFile: [[T-Stresemannallee_Gartenstraße]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

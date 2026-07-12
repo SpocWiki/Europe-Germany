@@ -58,7 +58,7 @@ coordinates: [[Salzkotten]]
 markerFile: [[Salzkotten]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

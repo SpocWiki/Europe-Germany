@@ -58,7 +58,7 @@ coordinates: [[Warendorf]]
 markerFile: [[Warendorf]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

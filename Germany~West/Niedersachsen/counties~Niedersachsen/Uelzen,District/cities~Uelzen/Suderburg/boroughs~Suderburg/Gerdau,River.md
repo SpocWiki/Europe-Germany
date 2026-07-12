@@ -41,5 +41,22 @@ is_same_as = `=this.dv_is_same_as`
 > the Gerdau flows by the villages of Eimke and Gerdau towards Uelzen. 
 > South of Uelzen it merges with the [[Stederau]] to form the Ilmenau.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gerdau%20(river))  
+> [Wikipedia](https://en.wikipedia.org/wiki/Gerdau%20(river)) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Gerdau,River|Gerdau,River]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Gerdau,River.public|Gerdau,River.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Gerdau,River.internal|Gerdau,River.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Gerdau,River.protect|Gerdau,River.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Gerdau,River.private|Gerdau,River.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Gerdau,River.personal|Gerdau,River.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Uelzen,District/cities~Uelzen/Suderburg/boroughs~Suderburg/Gerdau,River.secret|Gerdau,River.secret]] 
 

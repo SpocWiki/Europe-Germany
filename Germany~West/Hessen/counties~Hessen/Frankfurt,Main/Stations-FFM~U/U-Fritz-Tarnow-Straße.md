@@ -64,7 +64,7 @@ coordinates: [[U-Fritz-Tarnow-Straße]]
 markerFile: [[U-Fritz-Tarnow-Straße]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

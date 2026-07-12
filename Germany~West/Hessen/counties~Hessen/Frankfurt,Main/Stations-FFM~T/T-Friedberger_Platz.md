@@ -61,7 +61,7 @@ coordinates: [[T-Friedberger_Platz]]
 markerFile: [[T-Friedberger_Platz]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

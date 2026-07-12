@@ -58,7 +58,7 @@ coordinates: [[Kappeln~Oldeburg]]
 markerFile: [[Kappeln~Oldeburg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

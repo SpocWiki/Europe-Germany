@@ -58,7 +58,7 @@ coordinates: [[Schmidtheim]]
 markerFile: [[Schmidtheim]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

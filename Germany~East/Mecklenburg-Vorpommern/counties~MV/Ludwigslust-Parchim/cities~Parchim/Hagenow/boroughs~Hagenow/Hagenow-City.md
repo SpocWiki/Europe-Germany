@@ -58,7 +58,7 @@ coordinates: [[Hagenow]]
 markerFile: [[Hagenow]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

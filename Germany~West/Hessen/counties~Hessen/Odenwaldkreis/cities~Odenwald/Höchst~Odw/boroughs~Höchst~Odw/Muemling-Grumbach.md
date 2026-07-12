@@ -58,7 +58,7 @@ coordinates: [[Muemling-Grumbach]]
 markerFile: [[Muemling-Grumbach]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

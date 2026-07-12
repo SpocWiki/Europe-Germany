@@ -58,7 +58,7 @@ coordinates: [[Recklinghausen]]
 markerFile: [[Recklinghausen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

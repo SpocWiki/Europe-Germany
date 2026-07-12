@@ -58,7 +58,7 @@ coordinates: [[Halsbruecke]]
 markerFile: [[Halsbruecke]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -57,7 +57,7 @@ coordinates: [[T-Schwedlerstraße]]
 markerFile: [[T-Schwedlerstraße]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

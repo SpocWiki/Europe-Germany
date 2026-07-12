@@ -58,7 +58,7 @@ coordinates: [[Lehe]]
 markerFile: [[Lehe]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

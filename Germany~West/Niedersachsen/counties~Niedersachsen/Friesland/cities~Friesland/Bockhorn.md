@@ -58,7 +58,7 @@ coordinates: [[Bockhorn]]
 markerFile: [[Bockhorn]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

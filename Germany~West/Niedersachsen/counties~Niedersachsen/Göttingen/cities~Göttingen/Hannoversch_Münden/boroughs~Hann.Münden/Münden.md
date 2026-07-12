@@ -59,7 +59,7 @@ coordinates: [[Muenden]]
 markerFile: [[Muenden]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

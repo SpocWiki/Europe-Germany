@@ -65,7 +65,7 @@ coordinates: [[U-Schweizer_Platz]]
 markerFile: [[U-Schweizer_Platz]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

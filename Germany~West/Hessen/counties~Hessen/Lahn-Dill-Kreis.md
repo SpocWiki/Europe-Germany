@@ -6,9 +6,9 @@ cssclasses:
   - private
   - note
 draft: true
-excalidraw_autoexport: svg
-excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-autoexport: none
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 expiryDate: ""
 has_Template: "[[Extract~Note~Template]]"
 has_time_started: 2025-04-14
@@ -51,20 +51,17 @@ dv_is_same_as:
 
 is_part_of = `=this.dv_is_part_of`
 
-![[Lahn-Dill-Kreis.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Lahn-Dill-Kreis.svg]] 
+![[Lahn-Dill-Kreis.md]] 
 
 
 %%
 ## Drawing
 ```compressed-json
 N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

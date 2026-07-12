@@ -61,7 +61,7 @@ coordinates: [[T-Friedberger_Warte]]
 markerFile: [[T-Friedberger_Warte]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

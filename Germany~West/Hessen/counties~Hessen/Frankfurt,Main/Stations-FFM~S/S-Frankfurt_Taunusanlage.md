@@ -58,7 +58,7 @@ coordinates: [[S-Frankfurt_Taunusanlage]]
 markerFile: [[S-Frankfurt_Taunusanlage]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -58,7 +58,7 @@ coordinates: [[Seeberg]]
 markerFile: [[Seeberg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -58,7 +58,7 @@ coordinates: [[Marienleuchte]]
 markerFile: [[Marienleuchte]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

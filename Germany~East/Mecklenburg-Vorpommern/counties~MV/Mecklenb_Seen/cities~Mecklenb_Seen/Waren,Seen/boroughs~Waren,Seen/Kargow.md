@@ -58,7 +58,7 @@ coordinates: [[Kargow]]
 markerFile: [[Kargow]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

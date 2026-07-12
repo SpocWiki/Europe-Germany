@@ -58,7 +58,7 @@ coordinates: [[Weissensee]]
 markerFile: [[Weissensee]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

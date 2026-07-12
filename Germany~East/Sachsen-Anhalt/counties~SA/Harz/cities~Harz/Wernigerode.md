@@ -64,7 +64,7 @@ maxZoom: 18
 Beim Bummel durch Wernigerode  im Harzgehört das historische Rathaus 
 zu den eindrucksvollen Sehenswürdigkeiten. 
 Ein Spaziergang durch das Heideviertel ist geprägt 
-von den alten Fachwerkfassaden und den kopfsteingepflasterten Straßen.
+von den alten Fachwerkfassaden und den kopfsteingepflasterten Straßen. 
 
 
 ## Confidential Links & Embeds: 

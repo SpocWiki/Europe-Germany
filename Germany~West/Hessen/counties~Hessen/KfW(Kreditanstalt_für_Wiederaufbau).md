@@ -85,5 +85,22 @@ official_name: Kreditanstalt für Wiederaufbau
 > 
 > In 2024, Germany was the second-largest provider of development co-operation among the Development Assistance Committee (DAC). Germany's total official development assistance (ODA) decreased to USD 32.4 billion (preliminary data), representing 0.67% of gross national income (GNI). Bilateral co-operation, primarily led by the Federal Ministry for Economic Cooperation and Development (BMZ), constitutes the bulk of this assistance, while the Federal Foreign Office oversees humanitarian aid and crisis prevention.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/KfW)  
+> [Wikipedia](https://en.wikipedia.org/wiki/KfW) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/KfW(Kreditanstalt_für_Wiederaufbau)|KfW(Kreditanstalt_für_Wiederaufbau)]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/KfW(Kreditanstalt_für_Wiederaufbau).public|KfW(Kreditanstalt_für_Wiederaufbau).public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/KfW(Kreditanstalt_für_Wiederaufbau).internal|KfW(Kreditanstalt_für_Wiederaufbau).internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/KfW(Kreditanstalt_für_Wiederaufbau).protect|KfW(Kreditanstalt_für_Wiederaufbau).protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/KfW(Kreditanstalt_für_Wiederaufbau).private|KfW(Kreditanstalt_für_Wiederaufbau).private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/KfW(Kreditanstalt_für_Wiederaufbau).personal|KfW(Kreditanstalt_für_Wiederaufbau).personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/counties~Hessen/KfW(Kreditanstalt_für_Wiederaufbau).secret|KfW(Kreditanstalt_für_Wiederaufbau).secret]] 
 

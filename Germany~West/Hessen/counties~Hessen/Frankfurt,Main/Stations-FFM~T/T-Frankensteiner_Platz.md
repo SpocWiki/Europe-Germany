@@ -60,7 +60,7 @@ coordinates: [[T-Frankensteiner_Platz]]
 markerFile: [[T-Frankensteiner_Platz]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

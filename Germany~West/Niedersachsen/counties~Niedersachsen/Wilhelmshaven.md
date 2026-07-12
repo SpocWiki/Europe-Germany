@@ -59,7 +59,7 @@ markerFile: [[Wilhelmshaven]]
 geojsonFolder: ./Wilhelmshaven/
 defaultZoom: 10 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

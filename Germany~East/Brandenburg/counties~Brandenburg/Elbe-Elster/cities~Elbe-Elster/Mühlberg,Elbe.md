@@ -58,7 +58,7 @@ coordinates: [[Muehlberg]]
 markerFile: [[Muehlberg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

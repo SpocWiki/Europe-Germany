@@ -58,7 +58,7 @@ coordinates: [[Detmold]]
 markerFile: [[Detmold]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

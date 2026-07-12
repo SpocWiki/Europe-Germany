@@ -57,7 +57,7 @@ coordinates: [[T-Schwanthalerstraße]]
 markerFile: [[T-Schwanthalerstraße]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
