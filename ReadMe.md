@@ -221,13 +221,13 @@ age_of_majority: 18
 anthem: "[[/_Standards/WikiData/WD~national_anthem_of_Germany,4122341|WD~national_anthem_of_Germany,4122341]]"
 archives_at: "[[/_Standards/WikiData/WD~German_Federal_Archives,685753|WD~German_Federal_Archives,685753]]"
 area: 357587.77
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 10.1207
 dv_has_place_latitude: 50.8699
 dv_has_:
   image_for_:
-    flag: "[[./Germany/Flag_of_Germany.svg|[./Germany/Flag_of_Germany.svg|200]]"
-    coat_of_arms: "[[./Germany/Coat_of_arms_of_Germany.svg|[./Germany/Coat_of_arms_of_Germany.svg|150]]"
+    flag: "[[Flag_of_Germany.svg|[./Germany/Flag_of_Germany.svg|200]]"
+    coat_of_arms: "[[Coat_of_arms_of_Germany.svg|[./Germany/Coat_of_arms_of_Germany.svg|150]]"
   name_:
     ab: Германиа
     ace: Jeureuman
@@ -590,14 +590,14 @@ dv_has_:
   population_:
     density: ""
   sound_of_:
-    anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Germany.mp3|Anthem-Germany.mp3]]"
+    anthem: "[[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Germany.mp3|Anthem-Germany.mp3]]"
   time_:
     started: 1949-05-23T00:00:00.000+02:00
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Germany
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Germany,183|WD~Germany,183]]"
+    - "[[../../../../../WikiData/WD~Germany,183|WD~Germany,183]]"
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany|Germany]]"
     - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany.public|Germany.public]]"
     - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany.internal|Germany.internal]]"
@@ -636,7 +636,7 @@ dv_UNTERM_Chinese_Formal: 德意志联邦共和国
 dv_UNTERM_French_Formal: la République fédérale d'Allemagne
 dv_UNTERM_Russian: Германия
 dv_UNTERM_Russian_Formal: Федеративная Республика Германия
-dv_Region_Name: "[[../../Europe|Europe]]"
+dv_Region_Name: "[[../../../Europe|Europe]]"
 dv_Intermediate_Region_Name: "[[Germany]]"
 dv_Sub-region_Name: "[[Western Europe]]"
 dv_Region: 150
@@ -659,15 +659,15 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 276
 dv_Area-Total: 357042
 dv_Area-Land: 349270
-dv_has_place_continent: "[[../../Europe|Europe]]"
+dv_has_place_continent: "[[../../../Europe|Europe]]"
 dv_VehicleCode: D
-dv_Capital: "[[../../../../WikiData/WD~Berlin,64|WD~Berlin,64]]"
+dv_Capital: "[[../../../../../WikiData/WD~Berlin,64|WD~Berlin,64]]"
 dv_Alcohol-l: 12.8
 dv_Language-Id: 497
 dv_has_time_started: 1949-05-23
 dv_has_population_density: ""
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Germany,183|WD~Germany,183]]"
+  - "[[../../../../../WikiData/WD~Germany,183|WD~Germany,183]]"
   - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany|Germany]]"
   - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany.public|Germany.public]]"
   - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany.internal|Germany.internal]]"
@@ -676,9 +676,9 @@ dv_is_same_as:
   - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany.personal|Germany.personal]]"
   - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany.secret|Germany.secret]]"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Germany
-dv_has_image_for_flag: "[[./Germany/Flag_of_Germany.svg|Flag_of_Germany.svg|200]]"
-dv_has_image_for_coat_of_arms: "[[./Germany/Coat_of_arms_of_Germany.svg|Coat_of_arms_of_Germany.svg|150]]"
-dv_has_sound_of_anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Germany.mp3|Anthem-Germany.mp3]]"
+dv_has_image_for_flag: "[[Flag_of_Germany.svg|Flag_of_Germany.svg|200]]"
+dv_has_image_for_coat_of_arms: "[[Coat_of_arms_of_Germany.svg|Coat_of_arms_of_Germany.svg|150]]"
+dv_has_sound_of_anthem: "[[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Germany.mp3|Anthem-Germany.mp3]]"
 dv_developed_developing_countries: Developed
 Baidu_Tieba_name: 德国
 basic_form_of_government:
@@ -1062,7 +1062,7 @@ Happy_Planet_Index_score: 52.7
 hashtag:
   - Germany
   - Deutschland
-has_capital: "[[../../../../WikiData/WD~Berlin,64|WD~Berlin,64]]"
+has_capital: "[[../../../../../WikiData/WD~Berlin,64|WD~Berlin,64]]"
 has_characteristic: "[[/_Standards/WikiData/WD~free_country,3174312|WD~free_country,3174312]]"
 has_name:
   _: Germany
@@ -1256,7 +1256,7 @@ open_data_portal:
   - "[[/_Standards/WikiData/WD~GovData,59273239|WD~GovData,59273239]]"
   - "[[/_Standards/WikiData/WD~Politik_bei_uns,61171716|WD~Politik_bei_uns,61171716]]"
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/%C3%96tlingen%20-%20Panoramaansicht%20klein%20banner.jpg
-part_of: "[[../../../../WikiData/WD~European Economic Area|WD~European Economic Area]]"
+part_of: "[[../../../../../WikiData/WD~European Economic Area|WD~European Economic Area]]"
 patron_saint: "[[/_Standards/WikiData/WD~Archangel_Michael,45581|WD~Archangel_Michael,45581]]"
 permanent_duplicated_item:
   - "[[/_Standards/WikiData/WD~Q20825355,20825355|WD~Q20825355,20825355]]"
@@ -1327,11 +1327,11 @@ tags:
   - geo/Country
 time_of_earliest_written_record: 0919-01-01T00:00:00Z
 title: Deutschland (Germany)
-topic_s_main_template: "[[../../../../WikiData/WD~Template:Germany topics|WD~Template:Germany topics]]"
+topic_s_main_template: "[[../../../../../WikiData/WD~Template:Germany topics|WD~Template:Germany topics]]"
 topic_s_main_Wikimedia_portal: "[[/_Standards/WikiData/WD~Portal_Germany,3802786|WD~Portal_Germany,3802786]]"
 top_level_Internet_domain: "[[/_Standards/WikiData/WD~.de,37251|WD~.de,37251]]"
 total_fertility_rate: 1.455
-trophy_awarded: "[[../../../../WikiData/WD~Q28669416|WD~Q28669416]]"
+trophy_awarded: "[[../../../../../WikiData/WD~Q28669416|WD~Q28669416]]"
 trunk_prefix: 0
 type: Country
 UIC_alphabetical_country_code: D
@@ -1474,7 +1474,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Germany_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1508,7 +1508,7 @@ ISO3 = `=this.dv_ISO3`
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Germany)
-into a Subfolder named `Germany`, so that this Link into the Sub-Repository works: [[Germany/ReadMe|ReadMe]] 
+into a Subfolder named `Germany`, so that this Link into the Sub-Repository works: [[ReadMe|ReadMe]] 
 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
@@ -1527,16 +1527,16 @@ Major Cities with Population in 1000s as of @2020
 
 | Name       | Region                 | Pop/k |
 | ---------- | ---------------------- | ----: |
-| [[Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City\|Berlin]]     | Berlin                 |  3769 |
-| [[Germany/Germany~West/Hamburg,State/cities~Hamburg/Hamburg,City\|Hamburg]]    | Hamburg                |  1841 |
-| Munich     | [[Germany/Germany~West/Bayern\|Bavaria]]                |  1488 |
-| [[Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City\|Cologne]]    | [[Germany/Germany~West/Nordrhein-Westfalen\|North Rhine-Westphalia]] |  1085 |
-| [[../../../../../heuerm/heuerm~Contacts/Einkaufen/Frankfurt\|Frankfurt]]  | [[Germany/Germany~West/Hessen\|Hesse]]                  |   764 |
-| [[Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City\|Stuttgart]]  | [[Germany/Germany~West/Baden-Wuerttemberg\|Baden-Württemberg]]      |   635 |
-| [[Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf\|Düsseldorf]] | [[Germany/Germany~West/Nordrhein-Westfalen\|North Rhine-Westphalia]] |   620 |
-| [[Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig-City/City/Leipzig\|Leipzig]]    | [[Germany/Germany~East/Sachsen\|Saxony]]                 |   597 |
-| [[Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Dortmund\|Dortmund]]   | [[Germany/Germany~West/Nordrhein-Westfalen\|North Rhine-Westphalia]] |   588 |
-| Essen      | [[Germany/Germany~West/Nordrhein-Westfalen\|North Rhine-Westphalia]] |   583 |
+| [[Germany~West/Berlin,State/cities~Berlin/Berlin,City/|Berlin]]     | Berlin                 |  3769 |
+| [[Germany~West/Hamburg,State/cities~Hamburg/Hamburg,City/|Hamburg]]    | Hamburg                |  1841 |
+| Munich     | [[Germany~West/Bayern/|Bavaria]]                |  1488 |
+| [[Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City/|Cologne]]    | [[Germany~West/Nordrhein-Westfalen/|North Rhine-Westphalia]] |  1085 |
+| [[../../../../../../heuerm/heuerm~Contacts/Einkaufen/Frankfurt/|Frankfurt]]  | [[Germany~West/Hessen/|Hesse]]                  |   764 |
+| [[Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City/|Stuttgart]]  | [[Germany~West/Baden-Wuerttemberg/|Baden-Württemberg]]      |   635 |
+| [[Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf/|Düsseldorf]] | [[Germany~West/Nordrhein-Westfalen/|North Rhine-Westphalia]] |   620 |
+| [[Germany~East/Sachsen/counties~Sachsen/Leipzig-City/City/Leipzig/|Leipzig]]    | [[Germany~East/Sachsen/|Saxony]]                 |   597 |
+| [[Germany~West/Nordrhein-Westfalen/counties~NW/Dortmund/|Dortmund]]   | [[Germany~West/Nordrhein-Westfalen/|North Rhine-Westphalia]] |   588 |
+| Essen      | [[Germany~West/Nordrhein-Westfalen/|North Rhine-Westphalia]] |   583 |
 
 
 ## #has_/parts  
@@ -1546,31 +1546,31 @@ with numbers as of 2023-06
 
 | State                                                                   | Popltn / k | Area / kkm² | GDP / G€ | GDPpP  / k€ | HDI   | Notable Properties                                                     |
 | ----------------------------------------------------------------------- | ---------: | ----------: | -------: | ----------: | ----- | ---------------------------------------------------------------------- |
-| [[Germany/Germany~West/Baden-Wuerttemberg\|Baden-Württemberg]]          |     11.230 |      35.748 |      544 |      54.339 | 0.963 | Strong automotive industry; home to companies like Daimler and Porsche |
-| [[Germany/Germany~West/Bayern\|Bavaria]]                                |     13.176 |      70.541 |      756 |      57.343 | 0.958 | Largest state by area; economic powerhouse with diverse industries     |
-| [[Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City\|Berlin]]      |      3.662 |       0.891 |      187 |      51.209 | 0.967 | Capital city; cultural and political center                            |
-| [[Germany/Germany~East/Brandenburg\|Brandenburg]]                       |      2.554 |      29.654 |       97 |      37.814 | 0.926 | Surrounds Berlin; known for its lakes and natural reserves             |
-| [[Germany/Germany~West/Bremen,State/cities~Bremen/Bremen,City\|Bremen]]      |       .702 |       0.419 |       40 |      56.981 | 0.954 | Smallest state; major port city                                        |
-| [[Germany/Germany~West/Hamburg,State/cities~Hamburg/Hamburg,City\|Hamburg]]  |      1.851 |       0.755 |      146 |      79.167 | 0.975 | Major port and commercial hub                                          |
-| [[Germany/Germany~West/Hessen\|Hesse]]                                  |      6.267 |      21.116 |      343 |      54.806 | 0.954 | Financial center; Frankfurt hosts European Central Bank                |
-| [[Germany/Germany~West/Niedersachsen\|Lower Saxony]]                    |      8.008 |      47.710 |      356 |      44.531 | 0.936 | Strong agricultural sector; Volkswagen headquarters in Wolfsburg       |
-| [[Germany/Germany~East/Mecklenburg-Vorpommern\|Mecklenburg-Vorpommern]] |      1.578 |      23.295 |       57 |      36.335 | 0.922 | Known for Baltic Sea coastline and tourism                             |
-| [[Germany/Germany~West/Nordrhein-Westfalen\|North Rhine-Westphalia]]    |     18.017 |      34.112 |      832 |      46.194 | 0.946 | Most populous state; diverse economy including industry and services   |
-| [[Germany/Germany~West/Rheinland-Pfalz\|Rhineland-Palatinate]]          |      4.125 |      19.858 |      172 |      41.797 | 0.938 | Renowned for wine production and chemical industry                     |
-| [[Germany/Germany~West/Saarland\|Saarland]]                             |      1.014 |       2.572 |       42 |      41.617 | 0.934 | Smallest state by population; industrial history                       |
-| [[Germany/Germany~East/Sachsen\|Saxony]]                                |      4.054 |      18.450 |      155 |      38.143 | 0.944 | Known for cultural heritage and growing tech industry                  |
-| [[Germany/Germany~East/Sachsen-Anhalt\|Saxony-Anhalt]]                  |      2.144 |      20.464 |       77 |      35.911 | 0.921 | Rich in history; undergoing economic transformation                    |
-| [[Germany/Germany~West/Schleswig-Holstein\|Schleswig-Holstein]]         |      2.953 |      15.804 |      118 |      40.090 | 0.929 | Coastal state; significant in renewable energy                         |
-| [[Germany/Germany~East/Thüringen\|Thuringia]]                           |      2.114 |      16.202 |       75 |      35.715 | 0.928 | Central location; known for forests and cultural sites                 |
+| [[Germany~West/Baden-Wuerttemberg/|Baden-Württemberg]]          |     11.230 |      35.748 |      544 |      54.339 | 0.963 | Strong automotive industry; home to companies like Daimler and Porsche |
+| [[Germany~West/Bayern/|Bavaria]]                                |     13.176 |      70.541 |      756 |      57.343 | 0.958 | Largest state by area; economic powerhouse with diverse industries     |
+| [[Germany~West/Berlin,State/cities~Berlin/Berlin,City/|Berlin]]      |      3.662 |       0.891 |      187 |      51.209 | 0.967 | Capital city; cultural and political center                            |
+| [[Germany~East/Brandenburg/|Brandenburg]]                       |      2.554 |      29.654 |       97 |      37.814 | 0.926 | Surrounds Berlin; known for its lakes and natural reserves             |
+| [[Germany~West/Bremen,State/cities~Bremen/Bremen,City/|Bremen]]      |       .702 |       0.419 |       40 |      56.981 | 0.954 | Smallest state; major port city                                        |
+| [[Germany~West/Hamburg,State/cities~Hamburg/Hamburg,City/|Hamburg]]  |      1.851 |       0.755 |      146 |      79.167 | 0.975 | Major port and commercial hub                                          |
+| [[Germany~West/Hessen/|Hesse]]                                  |      6.267 |      21.116 |      343 |      54.806 | 0.954 | Financial center; Frankfurt hosts European Central Bank                |
+| [[Germany~West/Niedersachsen/|Lower Saxony]]                    |      8.008 |      47.710 |      356 |      44.531 | 0.936 | Strong agricultural sector; Volkswagen headquarters in Wolfsburg       |
+| [[Germany~East/Mecklenburg-Vorpommern/|Mecklenburg-Vorpommern]] |      1.578 |      23.295 |       57 |      36.335 | 0.922 | Known for Baltic Sea coastline and tourism                             |
+| [[Germany~West/Nordrhein-Westfalen/|North Rhine-Westphalia]]    |     18.017 |      34.112 |      832 |      46.194 | 0.946 | Most populous state; diverse economy including industry and services   |
+| [[Germany~West/Rheinland-Pfalz/|Rhineland-Palatinate]]          |      4.125 |      19.858 |      172 |      41.797 | 0.938 | Renowned for wine production and chemical industry                     |
+| [[Germany~West/Saarland/|Saarland]]                             |      1.014 |       2.572 |       42 |      41.617 | 0.934 | Smallest state by population; industrial history                       |
+| [[Germany~East/Sachsen/|Saxony]]                                |      4.054 |      18.450 |      155 |      38.143 | 0.944 | Known for cultural heritage and growing tech industry                  |
+| [[Germany~East/Sachsen-Anhalt/|Saxony-Anhalt]]                  |      2.144 |      20.464 |       77 |      35.911 | 0.921 | Rich in history; undergoing economic transformation                    |
+| [[Germany~West/Schleswig-Holstein/|Schleswig-Holstein]]         |      2.953 |      15.804 |      118 |      40.090 | 0.929 | Coastal state; significant in renewable energy                         |
+| [[Germany~East/Thüringen/|Thuringia]]                           |      2.114 |      16.202 |       75 |      35.715 | 0.928 | Central location; known for forests and cultural sites                 |
 
 
 ## #has_/text_of_/abstract  
 
-> **Germany**, officially the [[Germany/Germany~West|Federal Republic of Germany]], 
-> is a country in the western region of [[../Europe~Central|Central Europe]]. 
+> **Germany**, officially the [[Germany~West|Federal Republic of Germany]], 
+> is a country in the western region of [[../../Europe~Central|Central Europe]]. 
 > 
-> It is the second-most populous country in [[../../Europe|Europe]] after [[../Europe~East/Russia|Russia]], 
-> and the most populous member state of the [[../EU(European_Union)|European Union]]. 
+> It is the second-most populous country in [[../../../Europe|Europe]] after [[../../Europe~East/Russia|Russia]], 
+> and the most populous member state of the [[../../EU(European_Union)|European Union]]. 
 > 
 > Germany lies between the Baltic and North Sea to the north and the Alps to the south. 
 > 
@@ -1581,11 +1581,11 @@ with numbers as of 2023-06
 > [[Austria]] and [[Switzerland]] to the south, and [[France]], [[Luxembourg]], [[Belgium]], 
 > and the [[Netherlands]] to the west. 
 > 
-> The nation's capital and most populous city is [[Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City|Berlin]] 
-> and its main financial center is [[Frankfurt]]; the largest urban area is [[Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr|Essen,Ruhr]].
+> The nation's capital and most populous city is [[Germany~West/Berlin,State/cities~Berlin/Berlin,City|Berlin]] 
+> and its main financial center is [[Frankfurt]]; the largest urban area is [[Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr|Essen,Ruhr]].
 >
-> Settlement in what is now Germany began in the Lower [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Paleolithic|Paleolithic]], 
-> with various tribes inhabiting it from the [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/2000-Neolithic|2000-Neolithic]] onward, chiefly the Celts. 
+> Settlement in what is now Germany began in the Lower [[../../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Paleolithic|Paleolithic]], 
+> with various tribes inhabiting it from the [[../../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/2000-Neolithic|2000-Neolithic]] onward, chiefly the Celts. 
 > 
 > Various Germanic tribes have inhabited the northern parts of modern Germany 
 > since classical antiquity. A region named Germania was documented before AD 100. 
@@ -1606,16 +1606,16 @@ with numbers as of 2023-06
 > the Empire was in turn transformed into the semi-presidential Weimar Republic. 
 > 
 > The Nazi seizure of power in 1933 led to the establishment of a totalitarian dictatorship, 
-> [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II|World War II]], and the [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Holocaust|1933-Holocaust]]. 
+> [[../../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II|World War II]], and the [[../../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Holocaust|1933-Holocaust]]. 
 > 
-> After the end of [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II|World War II]] in Europe and a period of Allied occupation, in 1949, 
+> After the end of [[../../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II|World War II]] in Europe and a period of Allied occupation, in 1949, 
 > Germany as a whole was organized into two separate polities with limited sovereignty: 
-> the [[Germany/Germany~West|Federal Republic of Germany]], generally known as West Germany, 
-> and the [[Germany/Germany~East|German Democratic Republic]], known as [[Germany/Germany~East|East Germany]], 
-> while [[Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City|Berlin]] continued its de jure Four Power status. 
+> the [[Germany~West|Federal Republic of Germany]], generally known as West Germany, 
+> and the [[Germany~East|German Democratic Republic]], known as [[Germany~East|East Germany]], 
+> while [[Germany~West/Berlin,State/cities~Berlin/Berlin,City|Berlin]] continued its de jure Four Power status. 
 > 
 > The Federal Republic of Germany was 
-> a founding member of the European Economic Community and the [[../EU(European_Union)|European Union]], 
+> a founding member of the European Economic Community and the [[../../EU(European_Union)|European Union]], 
 > while the German Democratic Republic was a communist Eastern Bloc state 
 > and member of the Warsaw Pact. 
 > 
@@ -1632,8 +1632,8 @@ with numbers as of 2023-06
 > As a developed country it offers social security, a universal health care system, 
 > and tuition-free university education. 
 > 
-> Germany is a member of the United Nations, [[../EU(European_Union)|European Union]], NATO, 
-> Council of Europe, G7, G20, and [[../../../../Society/Agent/Community/Organization/International_Organization/OECD(Organization_for_Economic_Cooperation_and_Development)|OECD]]. 
+> Germany is a member of the United Nations, [[../../EU(European_Union)|European Union]], NATO, 
+> Council of Europe, G7, G20, and [[../../../../../Society/Agent/Community/Organization/International_Organization/OECD(Organization_for_Economic_Cooperation_and_Development)|OECD]]. 
 > 
 > It has the third-greatest number of UNESCO World Heritage Sites.
 >
@@ -1731,7 +1731,7 @@ Language-Id = `=this.dv_Language-Id`
 
 ## #has_/text_of_/history  
 
-> The concept of Germany as a distinct region in [[../Europe~Central|Central Europe]] can be traced to[[../../../../Society/Politics/Government/Leader/Ancient_Leaders/Julius_Caesar|Julius Caesar]]], who referred to the unconquered area east of the [[Rhine]] as Germania, thus distinguishing it from Gaul. The victory of the Germanic tribes in the Battle of the Teutoburg Forest (AD 9) prevented annexation by the Roman Empire, although the Roman provinces of Germania Superior and Germania Inferior were established along the Rhine. Following the Fall of the Western Roman Empire, the Franks conquered the other West Germanic tribes. When the Frankish Empire was divided among Charles the Great's heirs in 843, the eastern part became East Francia, and later Kingdom of Germany. In 962, Otto I became the first Holy Roman Emperor of the Holy Roman Empire, the medieval German state.
+> The concept of Germany as a distinct region in [[../../Europe~Central|Central Europe]] can be traced to[[../../../../../Society/Politics/Government/Leader/Ancient_Leaders/Julius_Caesar|Julius Caesar]]], who referred to the unconquered area east of the [[Rhine]] as Germania, thus distinguishing it from Gaul. The victory of the Germanic tribes in the Battle of the Teutoburg Forest (AD 9) prevented annexation by the Roman Empire, although the Roman provinces of Germania Superior and Germania Inferior were established along the Rhine. Following the Fall of the Western Roman Empire, the Franks conquered the other West Germanic tribes. When the Frankish Empire was divided among Charles the Great's heirs in 843, the eastern part became East Francia, and later Kingdom of Germany. In 962, Otto I became the first Holy Roman Emperor of the Holy Roman Empire, the medieval German state.
 >
 > During the High Middle Ages, the Hanseatic League, dominated by German port cities, established itself along the Baltic and North Seas. The growth of a crusading element within German Christendom led to the State of the Teutonic Order along the Baltic coast in what would later become Prussia. In the Investiture Controversy, the German Emperors resisted Catholic Church authority. In the Late Middle Ages, the regional dukes, princes, and bishops gained power at the expense of the emperors. Martin Luther led the Protestant Reformation within the Catholic Church after 1517, as the northern and eastern states became Protestant, while most of the southern and western states remained Catholic. The Thirty Years' War, a civil war from 1618 to 1648 brought tremendous destruction to the Holy Roman Empire. The estates of the empire attained great autonomy in the Peace of Westphalia, the most important being Austria, Prussia, Bavaria and Saxony. With the Napoleonic Wars, feudalism fell away and the Holy Roman Empire was dissolved in 1806. Napoleon established the Confederation of the Rhine as a German puppet state, but after the French defeat, the German Confederation was established under Austrian presidency. The German revolutions of 1848–1849 failed but the Industrial Revolution modernized the German economy, leading to rapid urban growth and the emergence of the socialist movement. Prussia, with its capital Berlin, grew in power. German universities became world-class centers for science and humanities, while music and art flourished. The unification of Germany was achieved under the leadership of the Chancellor Otto von Bismarck with the formation of the German Empire in 1871. The new Reichstag, an elected parliament, had only a limited role in the imperial government. Germany joined the other powers in colonial expansion in Africa and the Pacific.
 >
