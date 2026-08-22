@@ -7,14 +7,14 @@ aliases:
   - Raiffeisenbank
 has_id_wikidata: Q1361800
 instance_of:
-  - "[[_Standards/WikiData/WD~trademark,167270]]"
-  - "[[_Standards/WikiData/WD~organization,43229]]"
-subclass_of: "[[_Standards/WikiData/WD~banking_in_Germany,319524]]"
-field_of_work: "[[_Standards/WikiData/WD~deposit_insurance,376935]]"
-industry: "[[_Standards/WikiData/WD~financial_services,837171]]"
-facet_of: "[[_Standards/WikiData/WD~Bundesverband_der_Deutschen_Volksbanken_und_Raiffeisenbanken,1009029]]"
-owned_by: "[[_Standards/WikiData/WD~Bundesverband_der_Deutschen_Volksbanken_und_Raiffeisenbanken,1009029]]"
-country: "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[/_Standards/WikiData/WD~trademark,167270]]"
+  - "[[/_Standards/WikiData/WD~organization,43229]]"
+subclass_of: "[[/_Standards/WikiData/WD~banking_in_Germany,319524]]"
+field_of_work: "[[/_Standards/WikiData/WD~deposit_insurance,376935]]"
+industry: "[[/_Standards/WikiData/WD~financial_services,837171]]"
+facet_of: "[[/_Standards/WikiData/WD~Bundesverband_der_Deutschen_Volksbanken_und_Raiffeisenbanken,1009029]]"
+owned_by: "[[/_Standards/WikiData/WD~Bundesverband_der_Deutschen_Volksbanken_und_Raiffeisenbanken,1009029]]"
+country: "[[/_Standards/WikiData/WD~Germany,183]]"
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20volksbank-raiffeisenbank.jpg
 official_website: https://www.vr.de/
 motto_text: Wir machen den Weg frei

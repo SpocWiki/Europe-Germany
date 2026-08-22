@@ -2,20 +2,20 @@
 aliases:
 has_id_wikidata: Q882531
 dv_is_:
-  same_as: "[[_Standards/WikiData/WD~Gerdau_(river),882531|WD~Gerdau_(river),882531]]"
-dv_is_same_as: "[[_Standards/WikiData/WD~Gerdau_(river),882531|WD~Gerdau_(river),882531]]"
+  same_as: "[[/_Standards/WikiData/WD~Gerdau_(river),882531|WD~Gerdau_(river),882531]]"
+dv_is_same_as: "[[/_Standards/WikiData/WD~Gerdau_(river),882531|WD~Gerdau_(river),882531]]"
 location:  [52.9476,10.5537]
 coordinate_location: Point(10.5537 52.9476)
 tributary:
-  - "[[_Standards/WikiData/WD~Schwienau,872320|WD~Schwienau,872320]]"
-  - "[[_Standards/WikiData/WD~Hardau,15112157|WD~Hardau,15112157]]"
-  - "[[_Standards/WikiData/WD~Häsebach,18020985|WD~Häsebach,18020985]]"
-  - "[[_Standards/WikiData/WD~Allerbach,65227047|WD~Allerbach,65227047]]"
-drainage_basin: "[[_Standards/WikiData/WD~Elbe_Basin,12046596|WD~Elbe_Basin,12046596]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Lower_Saxony,1197|WD~Lower_Saxony,1197]]"
-mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Ilmenau,3346|WD~Ilmenau,3346]]"
-instance_of: "[[_Standards/WikiData/WD~river,4022|WD~river,4022]]"
-country: "[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]"
+  - "[[/_Standards/WikiData/WD~Schwienau,872320|WD~Schwienau,872320]]"
+  - "[[/_Standards/WikiData/WD~Hardau,15112157|WD~Hardau,15112157]]"
+  - "[[/_Standards/WikiData/WD~Häsebach,18020985|WD~Häsebach,18020985]]"
+  - "[[/_Standards/WikiData/WD~Allerbach,65227047|WD~Allerbach,65227047]]"
+drainage_basin: "[[/_Standards/WikiData/WD~Elbe_Basin,12046596|WD~Elbe_Basin,12046596]]"
+located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~Lower_Saxony,1197|WD~Lower_Saxony,1197]]"
+mouth_of_the_watercourse: "[[/_Standards/WikiData/WD~Ilmenau,3346|WD~Ilmenau,3346]]"
+instance_of: "[[/_Standards/WikiData/WD~river,4022|WD~river,4022]]"
+country: "[[/_Standards/WikiData/WD~Germany,183|WD~Germany,183]]"
 length: 29.71
 watershed_area: 427.74
 Commons_category: Gerdau (Ilmenau)
