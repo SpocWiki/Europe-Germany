@@ -105,7 +105,7 @@ has_place_latitude = `=this.dv_has_place_latitude`
 [[Rheinland-Pfalz|Rheinland-Pfalz]] 
 [[Saarland]] 
 [[Schleswig-Holstein|Schleswig-Holstein]] 
-[[Germany~West/Berlin,State|Berlin,State]] 
+[[Germany~East/Berlin,State|Berlin,State]] 
 [[Germany~West/Bremen,State|Bremen,State]] 
 [[Germany~West/Hamburg,State|Hamburg,State]] 
 
