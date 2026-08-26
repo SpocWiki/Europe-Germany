@@ -30,7 +30,7 @@ source: https://datahub.io/core/country-codes
 SpocWebEntityId: 59064
 tags:
   - geo/Country
-title: Deutschland (Germany)
+title: 🇩🇪 West-Germany
 type: Country
 dv_ISO3: BRD
 dv_has_name_en: West Germany

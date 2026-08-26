@@ -9,6 +9,7 @@ aliases:
 confidential: public
 isDeleted: false
 SpocWebEntityId: 59063
+title: 🇩🇪 East-Germany
 tags:
   - geo/Country
 type: Country
