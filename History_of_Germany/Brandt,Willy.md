@@ -246,6 +246,7 @@ dv_has_:
 # [[Brandt,Willy]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Willy_Brandt,2514|WD~Willy_Brandt,2514]]  
+#has_/created_/quote :: Wir wollen mehr Demokratie wagen. 
 
 ## #has_/text_of_/abstract 
 
