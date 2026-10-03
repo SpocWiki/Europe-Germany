@@ -22,7 +22,7 @@ dv_has_place_country: "[[../../../../../../../../Germany|Germany]]"
 dv_has_place_province: "[[../../../../../../Niedersachsen|Niedersachsen]]"
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen|Neuenkirchen]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen,Niedersachsen|Neuenkirchen]]"
     - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen.public|Neuenkirchen.public]]"
     - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen.internal|Neuenkirchen.internal]]"
     - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen.protect|Neuenkirchen.protect]]"
@@ -30,7 +30,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen.personal|Neuenkirchen.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen.secret|Neuenkirchen.secret]]"
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen|Neuenkirchen]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen,Niedersachsen|Neuenkirchen]]"
   - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen.public|Neuenkirchen.public]]"
   - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen.internal|Neuenkirchen.internal]]"
   - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen.protect|Neuenkirchen.protect]]"
@@ -63,7 +63,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen|Neuenkirchen]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen,Niedersachsen|Neuenkirchen]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Niedersachsen/counties~Niedersachsen/Vechta/cities~Vechta/Neuenkirchen-Vörden/boroughs~Neuenkirchen-Vörden/Neuenkirchen.public|Neuenkirchen.public]] 
 
