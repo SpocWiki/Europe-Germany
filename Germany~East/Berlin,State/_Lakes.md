@@ -48,8 +48,9 @@ geo:52.44,13.65
 # _Lakes
 
 ```leaflet
-id: _Lakes
+id: _Lakes-01
 zoomFeatures: true 
+defaultZoom: 12
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./_Lakes/
